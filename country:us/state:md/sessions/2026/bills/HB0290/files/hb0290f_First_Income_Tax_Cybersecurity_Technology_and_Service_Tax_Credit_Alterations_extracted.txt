@@ -1,0 +1,313 @@
+Title: HOUSE BILL 290
+Official Title: HOUSE BILL 290
+Number of Sections: 1
+Source: versions - First - Income Tax – Cybersecurity Technology and Service Tax Credit – Alterations
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Q3 6lr0256
+(PRE–FILED) CF SB 25
+By: Chair, Ways and Means Committee (By Request – Departmental – Commerce)
+Requested: September 30, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Income Tax – Cybersecurity Technology and Service Tax Credit – Alterations
+3 FOR the purpose of designating the credit against the State income tax for certain costs
+4 incurred to purchase certain cybersecurity technology and services as the Buy
+5 Maryland Cybersecurity Tax Credit; stating the purpose of the credit; repealing the
+6 authority of the Department of Commerce to establish a certain panel to assist the
+7 Department in administering the credit; altering eligibility for the credit; altering
+8 the aggregate amount of credits that may be issued for certain cybersecurity
+9 purchases; making the credit refundable; repealing a certain requirement that the
+10 Secretary award a certain percentage of tax credits to qualified buyers of
+11 cybersecurity services; prohibiting the Department from approving the credit after a
+12 certain taxable year; and generally relating to the Buy Maryland Cybersecurity Tax
+13 Credit.
+14 BY repealing and reenacting, with amendments,
+15 Article – Tax – General
+16 Section 10–733.1
+17 Annotated Code of Maryland
+18 (2022 Replacement Volume and 2025 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Tax – General
+22 10–733.1.
+23 (a) (1) In this section the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0290*
+2 HOUSE BILL 290
+1 (2) “Cybersecurity business” means an entity organized for profit that is
+2 engaged primarily in the development of innovative and proprietary cybersecurity
+3 technology or the provision of cybersecurity service.
+4 (3) “Cybersecurity service” means an activity that is associated with a
+5 category or subcategory identified under the Framework Core established by the National
+6 Institute of Standards and Technology’s Cybersecurity Framework.
+7 (4) “Cybersecurity technology” means products or goods intended to detect
+8 or prevent activity intended to result in unauthorized access to, exfiltration of,
+9 manipulation of, or impairment to the integrity, confidentiality, or availability of an
+10 information system or information stored on or transiting an information system.
+11 (5) “Department” means the Department of Commerce.
+12 (6) [“Panel” means the panel that the Department may establish under
+13 subsection (c) of this section composed of experts in the areas of cybersecurity technology
+14 and cybersecurity service.
+15 (7)] “Qualified buyer” means any entity [that has fewer than 50 employees
+16 in the State and] that is required to file an income tax return in the State.
+17 [(8)] (7) “Qualified seller” means a cybersecurity business that:
+18 (i) has its headquarters and base of operations in the State;
+19 (ii) 1. has less than [$5,000,000] $10,000,000 in annual
+20 revenue;
+21 2. IS OWNED BY AN INDIVIDUAL OR GROUP OF
+22 INDIVIDUALS WHO BELONG TO A GROUP THAT HISTORICALLY HAS BEEN DEPRIVED
+23 OF ACCESS TO NORMAL ECONOMIC OR FINANCIAL RESOURCES;
+24 3. is a [minority–owned, woman–owned,] veteran–owned[,]
+25 or service–disabled–veteran–owned business; or
+26 [3.] 4. is located in a historically underutilized business
+27 zone designated by the United States Small Business Administration;
+28 (iii) 1. owns or has properly licensed any proprietary
+29 cybersecurity technology; or
+30 2. provides a cybersecurity service;
+31 (iv) is in good standing;
+HOUSE BILL 290 3
+1 (v) is current in the payment of all tax obligations to the State or any
+2 unit or subdivision of the State; and
+3 (vi) is not in default under the terms of any contract with,
+4 indebtedness to, or grant from the State or any unit or subdivision of the State.
+5 (b) (1) THERE IS A BUY MARYLAND CYBERSECURITY TAX CREDIT
+6 ALLOWED UNDER THIS SECTION.
+7 (2) THE BUY MARYLAND CYBERSECURITY TAX CREDIT IS INTENDED
+8 TO PROMOTE THE CYBERSECURITY INDUSTRY IN THE STATE BY HELPING
+9 MARYLAND BUSINESSES AND NONPROFITS PURCHASE CYBERSECURITY
+10 TECHNOLOGIES AND SERVICES FROM MARYLAND CYBERSECURITY COMPANIES TO
+11 PROTECT BUSINESS AND CUSTOMER INFORMATION.
+12 [(1)] (3) Subject to paragraphs [(2) and (3)] (4) THROUGH (6) of this
+13 subsection, a qualified buyer may claim a credit against the State income tax in an amount
+14 equal to 50% of the cost incurred during the taxable year to purchase cybersecurity
+15 technology or a cybersecurity service from one or more qualified sellers.
+16 [(2)] (4) For any taxable year, the credit allowed under this section may
+17 not exceed $50,000 for each qualified buyer.
+18 (5) IF THE CREDIT ALLOWED UNDER THIS SECTION IN ANY TAXABLE
+19 YEAR EXCEEDS THE STATE INCOME TAX FOR THAT TAXABLE YEAR, A QUALIFIED
+20 BUYER MAY CLAIM A REFUND IN THE AMOUNT OF THE EXCESS.
+21 [(3)] (6) For any taxable year, the aggregate credits claimed for
+22 cybersecurity technology or cybersecurity service purchased from a single qualified seller
+23 may not exceed [$200,000] $1,000,000.
+24 (c) [(1) The Department, in consultation with the Maryland Technology
+25 Development Corporation, may establish a panel composed of experts in the areas of
+26 cybersecurity technology and cybersecurity service.
+27 (2) The Department may establish the panel under service contracts with
+28 independent reviewers.
+29 (3) The panel shall assist the Department in its determination as to
+30 whether a company is a qualified seller.
+31 (4) A member of the panel is not eligible to receive any benefit, direct or
+32 indirect, from the tax credit under this section.
+4 HOUSE BILL 290
+1 (5) (i) Except as provided in subparagraph (ii) of this paragraph,
+2 Division II of the State Finance and Procurement Article does not apply to a service that
+3 the Department obtains under this section.
+4 (ii) The Department is subject to Title 12, Subtitle 4 of the State
+5 Finance and Procurement Article for services the Department obtains under this section.
+6 (d)] (1) (i) A qualified buyer eligible for the credit under this section may
+7 apply to the Department for a credit certificate that states the amount of the credit the
+8 qualified buyer may claim under subsection (b) of this section.
+9 (ii) A qualified buyer shall attach the credit certificate to the income
+10 tax return on which the qualified buyer claims the credit under subsection (b) of this
+11 section.
+12 (2) Subject to paragraph (3) of this subsection, the Secretary of Commerce
+13 shall approve each application under paragraph (1) of this subsection that qualifies for a
+14 credit certificate.
+15 (3) [(i)] The total amount of the credit certificates approved by the
+16 Secretary of Commerce under this subsection may not exceed:
+17 [1.] (I) for taxable year 2018, $2,000,000; and
+18 [2.] (II) for taxable year 2019 and each taxable year
+19 thereafter, $4,000,000.
+20 [(ii) For each taxable year, the Secretary of Commerce shall award
+21 25% of the amount of tax credits authorized under subparagraph (i) of this paragraph to
+22 qualified buyers that purchase cybersecurity services.]
+23 [(e)] (D) (1) The Department may revoke its certification of a credit under
+24 this section if any representation made in connection with the application for the
+25 certification is determined by the Department to have been false.
+26 (2) The revocation may be in full or in part as the Department may
+27 determine and, subject to paragraph (3) of this subsection, shall be communicated to the
+28 qualified buyer and the Comptroller.
+29 (3) The qualified buyer shall have an opportunity to appeal any revocation
+30 to the Department before notification of the Comptroller.
+31 (4) The Comptroller may make an assessment against the qualified buyer
+32 to recapture any amount of tax credit that the qualified buyer has already claimed.
+HOUSE BILL 290 5
+1 [(f)] (E) In accordance with § 2.5–109 of the Economic Development Article, the
+2 Department shall submit a report on the credit certificates awarded under this section for
+3 the calendar year.
+4 [(g)] (F) The Department and the Comptroller jointly shall adopt regulations to
+5 carry out this section and to specify criteria and procedures for application for, approval of,
+6 and monitoring continuing eligibility for the tax credit under this section.
+7 (G) THE DEPARTMENT MAY NOT APPROVE A CREDIT UNDER THIS SECTION
+8 FOR A TAXABLE YEAR BEGINNING AFTER DECEMBER 31, 2030.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+10 1, 2026, and shall be applicable to all taxable years beginning after December 31, 2025.
+[DELETED: :CA      6 ( C A I F i t p c c t a s a t B M a D t a a o c t m b i f c c p S a a c p o t c t q b o c c C B  A  S  A  (  S T A 1  ( ( I]
+[DELETED:  H    ( “ e p i t d o i a p c t   ( “ s m a a t i a w a c I   ( “ o p a i t r i u a t e o m o o i t t i c o a o a i   ( “   ()“ s a ]  () “yt id  []( ()“    ( h    ( 1 h l tn$0i a[]$ r    2 O B A I O G O   3 [][ i m, d, o   [] 3.i l i a h u b z    ( 1 o o h p l a p c     2 p    ( i]
+[DELETED: H 3    ( i u    ( i n i d u t t o a c w i ( TBMCT ( I A U A Y A R ( TBMCT U A Y A R P T C I I T T B H B A N P C A [](  [] ()( ()Ss()o  s e t 5 o t c i d t t y t p c t []( ()F n (  TR  []( ()F a t y t a c c f c md$0]$0  ()( T D i c w t M T D C m e a p c o e i t a o c   ( T i   ( T p s a t D i i d a t w   ( A i]
+[DELETED:  H    ( ( E a p i s ( o t p D t    ( T F  ()( ( A a q    ( A t r o w t q b c t c u s ( o t s ( S s c  [] ()()T t a o t c c a b t S     1. f](     2. f t y 2 a e t y](I t   ( F 2 q[]( () ( T t s i a r m i c w t a f t c   ( T r m b i f o i p a t D m d q   ( T t   ( T t]
+[DELETED: H 5[]() ()I D t[]( () T c a() TH E E 3,2  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 290
+Q3 6lr0256
+(PRE–FILED) CF SB 25
+By: Chair, Ways and Means Committee (By Request – Departmental – Commerce)
+Requested: September 30, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Income Tax – Cybersecurity Technology and Service Tax Credit – Alterations
+3 FOR the purpose of designating the credit against the State income tax for certain costs
+4 incurred to purchase certain cybersecurity technology and services as the Buy
+5 Maryland Cybersecurity Tax Credit; stating the purpose of the credit; repealing the
+6 authority of the Department of Commerce to establish a certain panel to assist the
+7 Department in administering the credit; altering eligibility for the credit; altering
+8 the aggregate amount of credits that may be issued for certain cybersecurity
+9 purchases; making the credit refundable; repealing a certain requirement that the
+10 Secretary award a certain percentage of tax credits to qualified buyers of
+11 cybersecurity services; prohibiting the Department from approving the credit after a
+12 certain taxable year; and generally relating to the Buy Maryland Cybersecurity Tax
+13 Credit.
+14 BY repealing and reenacting, with amendments,
+15 Article – Tax – General
+16 Section 10–733.1
+17 Annotated Code of Maryland
+18 (2022 Replacement Volume and 2025 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Tax – General
+22 10–733.1.
+23 (a) (1) In this section the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0290*
+
+2 HOUSE BILL 290
+1 (2) “Cybersecurity business” means an entity organized for profit that is
+2 engaged primarily in the development of innovative and proprietary cybersecurity
+3 technology or the provision of cybersecurity service.
+4 (3) “Cybersecurity service” means an activity that is associated with a
+5 category or subcategory identified under the Framework Core established by the National
+6 Institute of Standards and Technology’s Cybersecurity Framework.
+7 (4) “Cybersecurity technology” means products or goods intended to detect
+8 or prevent activity intended to result in unauthorized access to, exfiltration of,
+9 manipulation of, or impairment to the integrity, confidentiality, or availability of an
+10 information system or information stored on or transiting an information system.
+11 (5) “Department” means the Department of Commerce.
+12 (6) [“Panel” means the panel that the Department may establish under
+13 subsection (c) of this section composed of experts in the areas of cybersecurity technology
+14 and cybersecurity service.
+15 (7)] “Qualified buyer” means any entity [that has fewer than 50 employees
+16 in the State and] that is required to file an income tax return in the State.
+17 [(8)] (7) “Qualified seller” means a cybersecurity business that:
+18 (i) has its headquarters and base of operations in the State;
+19 (ii) 1. has less than [$5,000,000] $10,000,000 in annual
+20 revenue;
+21 2. IS OWNED BY AN INDIVIDUAL OR GROUP OF
+22 INDIVIDUALS WHO BELONG TO A GROUP THAT HISTORICALLY HAS BEEN DEPRIVED
+23 OF ACCESS TO NORMAL ECONOMIC OR FINANCIAL RESOURCES;
+24 3. is a [minority–owned, woman–owned,] veteran–owned[,]
+25 or service–disabled–veteran–owned business; or
+26 [3.] 4. is located in a historically underutilized business
+27 zone designated by the United States Small Business Administration;
+28 (iii) 1. owns or has properly licensed any proprietary
+29 cybersecurity technology; or
+30 2. provides a cybersecurity service;
+31 (iv) is in good standing;
+
+HOUSE BILL 290 3
+1 (v) is current in the payment of all tax obligations to the State or any
+2 unit or subdivision of the State; and
+3 (vi) is not in default under the terms of any contract with,
+4 indebtedness to, or grant from the State or any unit or subdivision of the State.
+5 (b) (1) THERE IS A BUY MARYLAND CYBERSECURITY TAX CREDIT
+6 ALLOWED UNDER THIS SECTION.
+7 (2) THE BUY MARYLAND CYBERSECURITY TAX CREDIT IS INTENDED
+8 TO PROMOTE THE CYBERSECURITY INDUSTRY IN THE STATE BY HELPING
+9 MARYLAND BUSINESSES AND NONPROFITS PURCHASE CYBERSECURITY
+10 TECHNOLOGIES AND SERVICES FROM MARYLAND CYBERSECURITY COMPANIES TO
+11 PROTECT BUSINESS AND CUSTOMER INFORMATION.
+12 [(1)] (3) Subject to paragraphs [(2) and (3)] (4) THROUGH (6) of this
+13 subsection, a qualified buyer may claim a credit against the State income tax in an amount
+14 equal to 50% of the cost incurred during the taxable year to purchase cybersecurity
+15 technology or a cybersecurity service from one or more qualified sellers.
+16 [(2)] (4) For any taxable year, the credit allowed under this section may
+17 not exceed $50,000 for each qualified buyer.
+18 (5) IF THE CREDIT ALLOWED UNDER THIS SECTION IN ANY TAXABLE
+19 YEAR EXCEEDS THE STATE INCOME TAX FOR THAT TAXABLE YEAR, A QUALIFIED
+20 BUYER MAY CLAIM A REFUND IN THE AMOUNT OF THE EXCESS.
+21 [(3)] (6) For any taxable year, the aggregate credits claimed for
+22 cybersecurity technology or cybersecurity service purchased from a single qualified seller
+23 may not exceed [$200,000] $1,000,000.
+24 (c) [(1) The Department, in consultation with the Maryland Technology
+25 Development Corporation, may establish a panel composed of experts in the areas of
+26 cybersecurity technology and cybersecurity service.
+27 (2) The Department may establish the panel under service contracts with
+28 independent reviewers.
+29 (3) The panel shall assist the Department in its determination as to
+30 whether a company is a qualified seller.
+31 (4) A member of the panel is not eligible to receive any benefit, direct or
+32 indirect, from the tax credit under this section.
+
+4 HOUSE BILL 290
+1 (5) (i) Except as provided in subparagraph (ii) of this paragraph,
+2 Division II of the State Finance and Procurement Article does not apply to a service that
+3 the Department obtains under this section.
+4 (ii) The Department is subject to Title 12, Subtitle 4 of the State
+5 Finance and Procurement Article for services the Department obtains under this section.
+6 (d)] (1) (i) A qualified buyer eligible for the credit under this section may
+7 apply to the Department for a credit certificate that states the amount of the credit the
+8 qualified buyer may claim under subsection (b) of this section.
+9 (ii) A qualified buyer shall attach the credit certificate to the income
+10 tax return on which the qualified buyer claims the credit under subsection (b) of this
+11 section.
+12 (2) Subject to paragraph (3) of this subsection, the Secretary of Commerce
+13 shall approve each application under paragraph (1) of this subsection that qualifies for a
+14 credit certificate.
+15 (3) [(i)] The total amount of the credit certificates approved by the
+16 Secretary of Commerce under this subsection may not exceed:
+17 [1.] (I) for taxable year 2018, $2,000,000; and
+18 [2.] (II) for taxable year 2019 and each taxable year
+19 thereafter, $4,000,000.
+20 [(ii) For each taxable year, the Secretary of Commerce shall award
+21 25% of the amount of tax credits authorized under subparagraph (i) of this paragraph to
+22 qualified buyers that purchase cybersecurity services.]
+23 [(e)] (D) (1) The Department may revoke its certification of a credit under
+24 this section if any representation made in connection with the application for the
+25 certification is determined by the Department to have been false.
+26 (2) The revocation may be in full or in part as the Department may
+27 determine and, subject to paragraph (3) of this subsection, shall be communicated to the
+28 qualified buyer and the Comptroller.
+29 (3) The qualified buyer shall have an opportunity to appeal any revocation
+30 to the Department before notification of the Comptroller.
+31 (4) The Comptroller may make an assessment against the qualified buyer
+32 to recapture any amount of tax credit that the qualified buyer has already claimed.
+
+HOUSE BILL 290 5
+1 [(f)] (E) In accordance with § 2.5–109 of the Economic Development Article, the
+2 Department shall submit a report on the credit certificates awarded under this section for
+3 the calendar year.
+4 [(g)] (F) The Department and the Comptroller jointly shall adopt regulations to
+5 carry out this section and to specify criteria and procedures for application for, approval of,
+6 and monitoring continuing eligibility for the tax credit under this section.
+7 (G) THE DEPARTMENT MAY NOT APPROVE A CREDIT UNDER THIS SECTION
+8 FOR A TAXABLE YEAR BEGINNING AFTER DECEMBER 31, 2030.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+10 1, 2026, and shall be applicable to all taxable years beginning after December 31, 2025.
+
+[DELETED: :CA      6 ( C A I F i t p c c t a s a t B M a D t a a o c t m b i f c c p S a a c p o t c t q b o c c C B  A  S  A  (  S T A 1  ( ( I]
+[DELETED:  H    ( “ e p i t d o i a p c t   ( “ s m a a t i a w a c I   ( “ o p a i t r i u a t e o m o o i t t i c o a o a i   ( “   ()“ s a ]  () “yt id  []( ()“    ( h    ( 1 h l tn$0i a[]$ r    2 O B A I O G O   3 [][ i m, d, o   [] 3.i l i a h u b z    ( 1 o o h p l a p c     2 p    ( i]
+[DELETED: H 3    ( i u    ( i n i d u t t o a c w i ( TBMCT ( I A U A Y A R ( TBMCT U A Y A R P T C I I T T B H B A N P C A [](  [] ()( ()Ss()o  s e t 5 o t c i d t t y t p c t []( ()F n (  TR  []( ()F a t y t a c c f c md$0]$0  ()( T D i c w t M T D C m e a p c o e i t a o c   ( T i   ( T p s a t D i i d a t w   ( A i]
+[DELETED:  H    ( ( E a p i s ( o t p D t    ( T F  ()( ( A a q    ( A t r o w t q b c t c u s ( o t s ( S s c  [] ()()T t a o t c c a b t S     1. f](     2. f t y 2 a e t y](I t   ( F 2 q[]( () ( T t s i a r m i c w t a f t c   ( T r m b i f o i p a t D m d q   ( T t   ( T t]
+[DELETED: H 5[]() ()I D t[]( () T c a() TH E E 3,2  S 1]
