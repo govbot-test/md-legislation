@@ -1,0 +1,91 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB0291",
+  "title": "Sports Wagering Proceeds - Promotional Play Exclusion - Limitation",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-md-2026-hb291"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Pre-filed",
+      "date": "2025-09-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:16Z"
+      }
+    },
+    {
+      "description": "First Reading Ways and Means",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chair, Ways and Means Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Chair, Ways and Means Committee\"}"
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SB 102",
+      "legislative_session": "2026",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "First - Sports Wagering Proceeds - Promotional Play Exclusion - Limitation",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/hb/hb0291f.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0291?ys=2026RS",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:md/government",
+    "name": "Maryland",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:md"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:16Z"
+  }
+}

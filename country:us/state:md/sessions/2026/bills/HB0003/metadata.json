@@ -1,0 +1,136 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB0003",
+  "title": "Higher Education - Nonresident Tuition - Exemption for Dependents of State or Local Public Safety Employees (Maryland Fallen Heroes Tuition Benefits Act)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-md-2026-hb3"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Pre-filed",
+      "date": "2025-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:16Z"
+      }
+    },
+    {
+      "description": "First Reading Appropriations",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schindler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Schindler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beauchamp",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Beauchamp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miller",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pasteur",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pasteur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ziegler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ziegler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Woorman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Woorman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SB 212",
+      "legislative_session": "2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HB 1517",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "prior-session"
+    }
+  ],
+  "versions": [
+    {
+      "note": "First - Higher Education - Nonresident Tuition - Exemption for Dependents of State or Local Public Safety Employees (Maryland Fallen Heroes Tuition Benefits Act)",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/hb/hb0003f.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0003?ys=2026RS",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:md/government",
+    "name": "Maryland",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:md"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:16Z"
+  }
+}

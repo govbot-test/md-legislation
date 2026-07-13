@@ -1,0 +1,125 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB0092",
+  "title": "Environment - Beverage Containers Connected With Plastic Rings - Restriction on Sale",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-md-2026-hb92"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Pre-filed",
+      "date": "2025-08-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:16Z"
+      }
+    },
+    {
+      "description": "First Reading Environment and Transportation",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schindler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Schindler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Behler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Behler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Guyton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Guyton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kaufman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kaufman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mireku-North",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mireku-North\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ziegler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ziegler\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "First - Environment - Beverage Containers Connected With Plastic Rings - Restriction on Sale",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/hb/hb0092f.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0092?ys=2026RS",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:md/government",
+    "name": "Maryland",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:md"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:16Z"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB0093",
+  "title": "Home Builders - Model Homes and Contracts for the Intent to Purchase a New Home - Requirements",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-md-2026-hb93"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Pre-filed",
+      "date": "2025-10-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:16Z"
+      }
+    },
+    {
+      "description": "First Reading Economic Matters",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crosby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Crosby\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "First - Home Builders - Model Homes and Contracts for the Intent to Purchase a New Home - Requirements",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/hb/hb0093f.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0093?ys=2026RS",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:md/government",
+    "name": "Maryland",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:md"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:16Z"
+  }
+}

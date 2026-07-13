@@ -1,0 +1,85 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB0215",
+  "title": "Continuing Care Providers - Financial Stress Tests, Transparency, and Governing Bodies",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-md-2026-hb215"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Pre-filed",
+      "date": "2025-10-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:16Z"
+      }
+    },
+    {
+      "description": "First Reading Health",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Vogel",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Vogel\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "First - Continuing Care Providers - Financial Stress Tests, Transparency, and Governing Bodies",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/hb/hb0215f.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0215?ys=2026RS",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:md/government",
+    "name": "Maryland",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:md"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:16Z"
+  }
+}

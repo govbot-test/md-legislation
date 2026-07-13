@@ -1,0 +1,227 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB0001",
+  "title": "Public Safety - Law Enforcement Officers - Prohibition on Face Coverings",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-md-2026-sb1"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Pre-filed",
+      "date": "2025-09-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:16Z"
+      }
+    },
+    {
+      "description": "First Reading Judicial Proceedings",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Augustine",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Augustine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Love",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Love\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beidle",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Beidle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brooks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brooks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Feldman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Feldman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ferguson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ferguson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Guzzone",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Guzzone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hettleman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hettleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kagan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kagan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "King",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"King\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kramer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kramer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lam",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Lam\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis Young",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Lewis Young\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Muse",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Muse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rosapepe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rosapepe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sydnor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sydnor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zucker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Zucker\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 155",
+      "legislative_session": "2026",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "First - Public Safety - Law Enforcement Officers - Prohibition on Face Coverings",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/sb/sb0001f.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0001?ys=2026RS",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:md/government",
+    "name": "Maryland",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:md"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:16Z"
+  }
+}
