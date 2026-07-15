@@ -1,0 +1,1429 @@
+Title: (Senate Bill 311)
+Official Title: (Senate Bill 311)
+Number of Sections: 36
+Source: versions - Chapter - Education - The Blueprint for Maryland's Future - Revisions
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 602
+Chapter 602
+AN ACT concerning
+Education – The Blueprint for Maryland’s Future – Revisions
+FOR the purpose of repealing a requirement that county boards of education submit a
+certain technology report each year; extending the time period during which a
+certain method is used to calculate compensatory education enrollment; repealing a
+termination date for the use of funds under the Concentration of Poverty Grant
+Program for the purpose of providing certain programs; altering the qualifications
+for an initial teacher certificate; extending the date by which a teacher must be a
+National Board Certified teacher before becoming a licensed principal on the
+administrator track of the career ladder; extending the time period during which the
+State Board of Education and Accountability and Implementation Board may limit
+the number and types of dual enrollment for certain purposes; altering the definition
+of “wraparound services” as it applies to community schools to include the offering
+of certain academic interventions small group instruction; altering the purpose,
+composition, and duties of the Career and Technical Education (CTE) Committee;
+repealing the CTE Skills Standards Advisory Committee; requiring certain State
+agencies and certain workforce development and education programs to use a certain
+list of occupations for certain purposes; requiring the State Department of Education
+to suspend operation of the Expert Review Team Program for a certain school year;
+requiring providing that certain funds allocated for the Expert Review Team
+Program certain programs in a certain budget to be transferred to the Academic
+Excellence Fund certain programs notwithstanding certain limitations; requiring the
+Accountability and Implementation Board and the Department to identify a
+methodology for counting low–income students to calculate a certain education
+funding formula; requiring the Accountability and Implementation Board and the
+Department to conduct a certain process in a certain manner; and generally relating
+to revisions to the Blueprint for Maryland’s Future.
+BY repealing and reenacting, with amendments,
+Article – Education
+
+Section 2:
+Section 5–212, 5–222(a)(2), 5–223(c)(9), 6–126, 6–1006(b)(2), and 7–205.1(g)(1) and
+(4)
+Annotated Code of Maryland
+(2025 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Education
+
+Section 3:
+Section 5–222(a)(1), 5–223(b) and (c)(4), and 6–1006(a)(1) and (b)(1)
+Annotated Code of Maryland
+(2025 Replacement Volume and 2025 Supplement)
+– 1 –
+Ch. 602 2026 LAWS OF MARYLAND
+BY repealing and reenacting, without amendments,
+Article – Education
+
+Section 4:
+Section 9.9–101(a)
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Education
+
+Section 5:
+Section 9.9–101(e) and 21–209
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY repealing
+Article – Education
+
+Section 6:
+Section 21–210
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Education
+
+Section 7:
+Section 21–210 and 21–211
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+
+Section 8:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Education
+5–212.
+(a) The target per pupil foundation amount includes costs associated with
+implementing the Blueprint for Maryland’s Future including:
+(1) Increasing salaries;
+(2) Additional teachers to provide professional learning and collaborative
+time for teachers;
+(3) Career counseling;
+(4) Behavioral health;
+(5) Instructional opportunities for students who are college and career
+ready and those who are not;
+– 2 –
+WES MOORE, Governor Ch. 602
+(6) Maintenance and operation of schools;
+(7) Supplies and materials for teachers; and
+(8) Educational technology including digital devices, broadband
+connectivity, and information technology staff.
+(b) Schools may use funds provided under this section to provide the programs
+required under COMAR 13A.04.16.01.
+(c) (1) County boards of education and schools shall prioritize the purchase of
+digital devices for using funds under subsection (a)(8) of this section.
+(2) Additional funds provided in the target per pupil foundation amount for
+educational technology are intended to supplement and not supplant existing funding
+provided for educational technology.
+[(3) (i) On or before November 15 each year, each county board shall
+submit a report to the Department detailing, for the previous fiscal year:
+
+Section 9:
+1. The amount spent by the local school system on technology
+disaggregated by digital devices, connectivity, and information technology staff; and
+
+Section 10:
+2. The percentage of students, teachers, and staff with
+digital devices and adequate connectivity in their homes in accordance with the Federal
+Communications Commission standards for broadband.
+(ii) On or before December 15 each year, the Department shall
+submit to the General Assembly, in accordance with § 2–1257 of the State Government
+Article, a compilation of the reports submitted to the Department under subparagraph (i)
+of this paragraph.
+(iii) On or before September 1, 2021, the Department shall establish
+uniform reporting requirements, including definitions to ensure that consistent and
+comparable reports are submitted under subparagraph (i) of this paragraph.]
+5–222.
+(a) (1) In this section the following words have the meanings indicated.
+(2) (i) “Compensatory education enrollment” means:
+
+Section 11:
+1. Except as provided in subparagraph (iii) of this paragraph,
+for fiscal years 2017 through [2026] 2027 2028, the greater of:
+– 3 –
+Ch. 602 2026 LAWS OF MARYLAND
+A. The number of students eligible for free or reduced price
+meals for the prior fiscal year;
+B. For county boards that participate, in whole or in part, in
+the United States Department of Agriculture community eligibility provision, the number
+of students equal to the greater of:
+I. The sum of the number of students in participating schools
+identified by direct certification for the prior fiscal year, plus the number of students
+identified by the income information provided by the family to the school system on an
+alternative form developed by the Department for the prior fiscal year, plus the number of
+students eligible for free and reduced price meals from any schools not participating in the
+community eligibility provision for the prior fiscal year; or
+II. Subject to paragraph (3) of this subsection, the number of
+students eligible for free and reduced price meals at schools not participating in the
+community eligibility provision for the prior fiscal year, plus the product of the percentage
+of students eligible for free and reduced price meals at participating schools for the fiscal
+year prior to opting into the community eligibility provision multiplied by the prior fiscal
+year enrollment; or
+C. The number of students directly certified and who are
+enrolled in a public school in the county in the prior fiscal year; and
+
+Section 12:
+2. For fiscal year [2027] 2028 2029 and each fiscal year
+thereafter, the greater of:
+A. The number of students eligible for free or reduced price
+meals using the United States Department of Agriculture count or the alternative State
+form for the prior fiscal year; or
+B. The number of direct certification students who are
+enrolled in a public school in the county in the prior fiscal year.
+(ii) For the purpose of the calculation under subparagraph (i)1BII of
+this paragraph, the schools participating in the community eligibility provision during the
+pilot year may use the percentage of students identified for free and reduced price meals
+during the pilot year.
+(iii) For the purpose of the calculation under subparagraph (i)1 of this
+paragraph, direct certification multiplied by the multiplier may be used only for schools
+that did not exist prior to the year the school system opted into the United States
+Department of Agriculture community eligibility provision.
+5–223.
+– 4 –
+WES MOORE, Governor Ch. 602
+(b) (1) There is a Concentration of Poverty School Grant Program in the State.
+(2) The purpose of the Program is to provide grants to eligible schools with
+a high concentration of eligible students.
+(3) The Program consists of the:
+(i) Personnel grant; and
+(ii) Per pupil grant.
+(c) (4) If the personnel grant provided to an eligible school exceeds the cost to
+employ the positions and provide the coverage required under paragraph (2) of this
+subsection, the eligible school may only use the excess funds to:
+(i) Provide wraparound services to the students enrolled in the
+eligible school;
+(ii) Complete the needs assessment; and
+(iii) In fiscal years 2021 through 2025, provide the requirements
+under COMAR Title 13A, Subtitle 04, including 13A.04.16.01.
+(9) The personnel and per pupil grant may be used [through fiscal year
+2027] to provide the programs required under COMAR Title 13A, Subtitle 04, including
+13A.04.16.01.
+6–126.
+(a) (1) This subsection applies to individuals who have graduated from a
+teacher preparation program or an alternative teacher preparation program.
+(2) Beginning on July 1, 2025, to qualify for an initial certificate an
+individual shall:
+(i) Pass the subject–specific examinations under § 6–125 of this
+subtitle;
+(ii) Meet one of the following qualifications:
+
+Section 13:
+1. Subject to paragraph (3) of this subsection, pass:
+A. A nationally recognized, portfolio–based assessment of
+teaching ability; or
+– 5 –
+Ch. 602 2026 LAWS OF MARYLAND
+B. A portfolio–based assessment of a [nationally accredited]
+teacher preparation program THAT HAS NATIONAL ACCREDITATION OR HAS BEEN
+APPROVED BY THE DEPARTMENT; or
+
+Section 14:
+2. Subject to paragraph (4) of this subsection, complete a
+rigorous local school system teacher induction program that lasts for the lesser of:
+A. 3 years; or
+B. The amount of time a teacher may hold a conditional
+teacher certificate;
+(iii) Meet one of the following qualifications:
+
+Section 15:
+1. Pass a basic literacy skills assessment approved by the
+Department under § 6–125 of this subtitle;
+
+Section 16:
+2. Hold a degree from a regionally accredited educational
+institution and have earned a minimum overall cumulative grade point average of 3.0 on a
+
+Section 17:
+4.0 scale or its equivalent on the most recently earned degree; or
+
+Section 18:
+3. Submit documentation to the Department of having
+received effective evaluations from a local school system for 3 years;
+(iv) Pass a rigorous State–specific examination of mastery of reading
+instruction and content for the grade level the individual will be teaching; and
+(v) Satisfactorily complete any other requirements established by
+the State Board.
+(3) (I) An individual who graduates from a teacher preparation
+program in the State who passed a nationally recognized, portfolio–based assessment
+DESCRIBED IN PARAGRAPH (2)(II) OF THIS SUBSECTION may not be required to take
+the assessment more than one time.
+(II) AN INDIVIDUAL WHO SUCCESSFULLY COMPLETES A
+DEPARTMENT–SPONSORED REGISTERED APPRENTICESHIP PROGRAM FOR
+TEACHING MAY SUBMIT THE APPRENTICESHIP CERTIFICATE IN LIEU OF PASSAGE OF
+AN ASSESSMENT OF TEACHING ABILITY UNDER PARAGRAPH (2)(II)1A (2)(II) OF THIS
+SUBSECTION.
+(4) (i) In order to satisfy the requirements of paragraph (2)(ii)2 of this
+subsection, a candidate for an initial teacher certificate shall submit documentation to the
+Department that the candidate has completed a rigorous comprehensive induction
+– 6 –
+WES MOORE, Governor Ch. 602
+program, established in accordance with § 6–117 of this subtitle, that meets the
+requirements of this paragraph.
+(ii) The comprehensive induction program shall be developed by a
+local school system, either independently or collaboratively with other local school systems.
+(iii) Before establishing a comprehensive induction program, one or
+more local school systems shall submit a plan for the program to the Department and the
+Accountability and Implementation Board.
+(iv) The comprehensive induction program shall include a locally
+developed portfolio component that is aligned with the Interstate Teacher Assessment and
+Support Consortium Standards.
+(v) A teacher preparation program or an alternative teacher
+preparation program may use the locally developed portfolio component under
+subparagraph (iv) of this paragraph as meeting a portion of the coursework requirements
+of the program.
+(vi) A candidate who satisfactorily completes a comprehensive
+induction program established in accordance with this paragraph may not be required to
+pass a nationally recognized, portfolio–based assessment of teaching ability.
+(b) In addition to any other requirements established by the State Board, to
+qualify for a certificate in the State, a teacher who graduated from an institution of higher
+education A TEACHER PREPARATION PROGRAM in another state or holds a professional
+license or certificate from another state shall:
+(1) Pass an examination of teaching ability within 18 months of being hired
+by a local school system;
+(2) Hold an active National Board Certification from the National Board
+for Professional Teaching Standards; [or]
+(3) Complete a comprehensive induction program in accordance with
+subsection (a)(4) of this section; OR
+(4) SUBMIT DOCUMENTATION TO THE DEPARTMENT OF HAVING
+RECEIVED EFFECTIVE EVALUATIONS FROM A SCHOOL OR SCHOOL SYSTEM FOR 2
+YEARS.
+(c) (1) The Department, after a reasonable period of review and assessment,
+shall determine whether one of the assessments of teaching skill approved for initial
+teacher certification under this section more adequately measures the skills and knowledge
+required of a highly qualified teacher.
+– 7 –
+Ch. 602 2026 LAWS OF MARYLAND
+(2) If the Department makes a determination under paragraph (1) of this
+subsection that requires a revision to the statutory requirements for initial teacher
+certification, the Department shall, in accordance with § 2–1257 of the State Government
+Article, submit a report to the General Assembly on or before the next September 1 on its
+recommendations for revising the qualifications for initial teacher certification.
+(d) (1) The Department shall actively monitor and assess, during their
+implementation and development, new teacher standards and assessments produced under
+this section for any negative impact on the diversity of teacher candidates passing the
+initial teacher certification assessments.
+(2) The Department shall report the results of its monitoring and
+assessment to the Accountability and Implementation Board established under § 5–402 of
+this article.
+6–1006.
+(a) (1) There is an administrator track on level four of the career ladder.
+(b) (1) The first tier of the administrator track is a licensed principal.
+(2) (i) The State Board, in consultation with the Professional Standards
+and Teacher Education Board, shall establish the criteria that a teacher shall meet to
+achieve the licensed principal tier.
+(ii) The criteria under subparagraph (i) of this paragraph:
+
+Section 19:
+1. Except as provided in subparagraph (iii) of this paragraph
+and beginning on July 1, [2029] 2034, shall include a requirement that a teacher be an
+NBC teacher before the teacher may be a licensed principal; and
+
+Section 20:
+2. May include a requirement that a teacher shall complete
+an induction or training program for new principals.
+(iii) The State Board, in consultation with the Professional Standards
+and Teacher Education Board, shall establish a process through which an individual may
+receive a waiver to serve as a licensed principal if the individual:
+
+Section 21:
+1. Is not an NBC teacher; but
+
+Section 22:
+2. Meets other qualifying criteria, as determined by the State
+Board, in consultation with the Professional Standards and Education Board.
+7–205.1.
+– 8 –
+WES MOORE, Governor Ch. 602
+(g) (1) Subject to paragraph (4) of this subsection, beginning in the 2023–2024
+school year, each county board shall provide all students who meet the CCR standard
+required under subsection (c) of this section with access to the following post college and
+career readiness (post–CCR) pathways, at no cost to the student or the student’s parents,
+including the cost of any fees:
+(i) A competitive entry college preparatory program, chosen by the
+county board, consisting of:
+
+Section 23:
+1. The International Baccalaureate Diploma Program;
+
+Section 24:
+2. The Cambridge AICE Diploma Program; or
+
+Section 25:
+3. A comparable program consisting of Advanced Placement
+courses specified by the College Board;
+(ii) A program that allows a student, through an early college
+program or dual enrollment at a student’s high school and an institution of higher
+education to earn:
+
+Section 26:
+1. An associate degree; or
+
+Section 27:
+2. At least 60 credits toward a bachelor’s degree; and
+(iii) A robust set of career and technology education programs that
+are [recommended by the CTE Skills Standards Advisory Committee and approved]
+ADOPTED by the CTE Committee and that allow students to complete:
+
+Section 28:
+1. A credit or noncredit certificate or license program, course,
+or sequence of courses, including a program, course, or courses taken through dual
+enrollment under § 15–127 of this article, at a secondary or postsecondary institution,
+through an Advanced Placement course at a secondary institution, or through an
+apprenticeship sponsor that leads to an industry recognized occupational–credential or
+postsecondary certificate;
+
+Section 29:
+2. A registered apprenticeship program approved by the
+Division of Workforce Development and Adult Learning within the Maryland Department
+of Labor; or
+
+Section 30:
+3. A youth apprenticeship program, under Title 18, Subtitle
+18 of this article.
+(4) To phase in expansion of dual enrollment to maximize the number of
+students who can earn the maximum number of dual enrollment credits consistent with
+the phased increases in school funding, for fiscal years 2025 through [2027] 2030, the State
+Board and the Accountability and Implementation Board, in consultation with each local
+– 9 –
+Ch. 602 2026 LAWS OF MARYLAND
+school system, may limit the number and types of courses that a student dually enrolled at
+the student’s public high school and at an institution of higher education may enroll in
+during the school year at the institution of higher education as part of the post–CCR
+pathway in accordance with paragraph (1) of this subsection and § 15–127 of this article.
+
+Section 31:
+9.9–101.
+(a) In this title the following words have the meanings indicated.
+(e) “Wraparound services” means:
+(1) Extended learning time, including before and after school, weekends,
+summer school, and an extended school year;
+(2) Safe transportation to and from school and off–site learning
+opportunities, including apprenticeship programs;
+(3) Vision, hearing, and dental care services;
+(4) Establishing or expanding school–based health center services;
+(5) Additional social workers, mentors, counselors, therapists,
+psychologists, and restorative practice coaches;
+(6) Enhancing physical wellness, including providing healthy food for
+in–school and out–of–school time and linkages to community providers;
+(7) Enhancing behavioral health services, including access to mental
+health practitioners and providing professional development to school staff to provide
+trauma–informed interventions;
+(8) Providing family and community engagement and supports, including
+informing parents of academic course offerings, language classes, workforce development
+training, opportunities for children, and available social services as well as educating
+families on how to monitor a child’s learning;
+(9) Establishing and enhancing linkages to Judy Centers and other early
+education programs that feed into the school;
+(10) Enhancing student enrichment experiences, including educational field
+trips, partnerships, and programs with museums, arts organizations, and cultural
+institutions;
+(11) Offering evidence–based in–school and in–person tutoring, AND
+OTHER EVIDENCE–BASED ACADEMIC INTERVENTIONS TO IMPROVE STUDENT
+– 10 –
+WES MOORE, Governor Ch. 602
+OUTCOMES FOCUSED ON INDIVIDUAL AND SMALL GROUP INSTRUCTION, provided
+during the school day, AND OTHER EVIDENCE–BASED ACADEMIC INTERVENTIONS;
+(12) Improving student attendance and chronic absenteeism;
+(13) Improving the learning environment at the school; and
+(14) Any professional development for teachers and school staff to quickly
+identify students who are in need of these resources.
+21–209.
+(a) There is a Career and Technical Education (CTE) Committee.
+(b) (1) The CTE Committee is a unit within the Governor’s Workforce
+Development Board ESTABLISHED UNDER TITLE 11, SUBTITLE 5 OF THE LABOR AND
+EMPLOYMENT ARTICLE.
+(2) The CTE Committee shall operate under the oversight of the
+Accountability and Implementation Board, established under Title 5, Subtitle 4 of this
+article.
+(c) (1) The purpose of the CTE Committee is to [build] DIRECT AND
+COORDINATE THE DEVELOPMENT OF an integrated, globally competitive [framework]
+AND ALIGNED SYSTEM for providing CTE to Maryland students in public schools,
+institutions of postsecondary education, and the workforce.
+(2) The CTE Committee shall strive to integrate CTE in secondary and
+postsecondary institutions in the State.
+(3) The CTE Committee shall consist of individuals who collectively reflect,
+to the extent practicable, the INDUSTRIAL, geographical, racial, ethnic, cultural, and
+gender diversity of the State.
+(d) The CTE Committee is composed of the following members of the Governor’s
+Workforce Development Board:
+(1) The State Superintendent;
+(2) The Secretary of Higher Education;
+(3) The Secretary of Labor;
+(4) The Secretary of Commerce; AND
+– 11 –
+Ch. 602 2026 LAWS OF MARYLAND
+(5) [The chair of the Skills Standards Advisory Committee, established
+under § 21–208 of this subtitle; and
+(6) The following six] SEVEN members, jointly selected by the Governor,
+the President of the Senate, and the Speaker of the House of Delegates, who collectively
+represent:
+(i) Employers;
+(ii) Industry or trade associations;
+(iii) Labor organizations;
+(iv) Community colleges;
+(v) The agricultural community; and
+(vi) Experts in CTE programming.
+(e) The Governor, the President of the Senate, and the Speaker of the House of
+Delegates jointly shall appoint a chair of the CTE Committee from among the [committee’s
+members] COMMITTEE MEMBERS WHO ARE EMPLOYER REPRESENTATIVES.
+(f) A member of the CTE Committee:
+(1) May not receive compensation as a member of the CTE Committee; and
+(2) Is not entitled to reimbursement for expenses under the Standard State
+Travel Regulations for duties performed under this section.
+(g) The CTE Committee may employ additional staff necessary to carry out the
+committee’s functions as provided in the State budget.
+(h) The CTE Committee shall perform the following duties:
+(1) Develop a statewide framework for CTE that prepares students for
+employment in a diverse, modern economy;
+(2) Allocate roles and responsibilities to State agencies for the
+credentialing of students, INCLUDING THOSE engaged in CTE programs;
+(3) Adopt and, where appropriate, develop and regularly update, IN
+ACCORDANCE WITH § 21–210 OF THIS SUBTITLE, a comprehensive and cohesive system
+of [occupational skills] CAREER PATHWAY INFORMATION, INCLUDING NECESSARY
+– 12 –
+WES MOORE, Governor Ch. 602
+SKILLS, KNOWLEDGE, COMPETENCIES, AND CREDENTIALING standards to drive the
+State’s WORKFORCE DEVELOPMENT AND CTE [system] SYSTEMS;
+(4) Work with the business community, including nonprofit entities and
+apprenticeship sponsors, to develop CTE learning opportunities;
+(5) Bring together representatives from public schools, institutions of
+postsecondary education, and the business community, including nonprofit entities and
+apprenticeship sponsors, to ensure that CTE programs are aligned with the State’s
+economic development and workforce goals and operate with best global practices;
+(6) Set content qualification and recruitment standards for CTE
+instructors;
+(7) Determine which programs should be approved for credit towards high
+school graduation requirements;
+(8) [Approve, reject, or modify the proposals made by the CTE Skills
+Standards Advisory Committee established under § 21–208 of this subtitle to establish CTE
+programs for public school students;
+(9)] Address operational issues associated with delivering CTE programs to
+students, including transportation to and from job sites;
+[(10)] (9) Review agency budget proposals involving CTE and make
+recommendations to the Governor and, in accordance with § 2–1257 of the State
+Government Article, the General Assembly on or before December 15 each year;
+[(11)] (10) Monitor the progress of CTE in the State, including progress on
+implementing the CTE goals in the Blueprint for Maryland’s Future;
+[(12)] (11) Develop yearly goals for each county board to reach the statewide
+goal under § 21–204 of this subtitle that 45% of public HIGH school students [achieve an]
+COMPLETE THE HIGH SCHOOL LEVEL OF A REGISTERED APPRENTICESHIP OR
+ANOTHER industry–recognized [occupational] credential before they graduate;
+[(13)] (12) Track progress toward and perform any tasks necessary to
+achieve the statewide goal under § 21–204 of this subtitle that 45% of public high school
+students [achieve a youth apprenticeship or any other] COMPLETE THE HIGH SCHOOL
+LEVEL OF A REGISTERED APPRENTICESHIP OR ANOTHER industry–recognized
+[occupational] credential, AS DEFINED BY THE CTE COMMITTEE, before they graduate;
+[(14)] (13) Establish, administer, and supervise the CTE Expert Review
+Teams established under § 5–412 of this article;
+– 13 –
+Ch. 602 2026 LAWS OF MARYLAND
+[(15)] (14) Using State accountability data, identify schools to be
+[investigated] REVIEWED by CTE Expert Review Teams in which sufficient numbers of
+students or groups of demographically distinct students are not making adequate progress
+towards the completion of the CTE pathway;
+[(16)] (15) Submit to the Accountability and Implementation Board plans
+for deploying CTE Expert Review Teams, and deploy the teams in accordance with
+approved plans;
+[(17)] (16) Share information on CTE education with the Accountability and
+Implementation Board; [and]
+(17) MAKE RECOMMENDATIONS AND PROVIDE GUIDANCE ON SETTING
+THE OCCUPATIONAL STANDARDS NECESSARY FOR A STRONG CTE SYSTEM THAT
+SHALL FORM THE BASIS FOR THE POST–CCR CTE PATHWAY REQUIRED UNDER §
+7–205.1(G)(3) OF THIS ARTICLE;
+(18) IN COLLABORATION WITH AND SUBJECT TO THE APPROVAL OF
+THE GOVERNOR’S WORKFORCE DEVELOPMENT BOARD AND IN CONSULTATION
+WITH OTHER INDUSTRY REPRESENTATIVES, DEVELOP AND MAINTAIN A LIST OF
+HIGH–SKILL, HIGH–WAGE, OR IN–DEMAND PRIORITY OCCUPATIONS FOR THE STATE;
+(19) IN ACCORDANCE WITH § 21–211 OF THIS SUBTITLE, MAKE
+RECOMMENDATIONS TO STATE AGENCIES AND OFFICES, INCLUDING TO THE
+DEPARTMENT, THE MARYLAND DEPARTMENT OF LABOR, THE MARYLAND HIGHER
+EDUCATION COMMISSION, AND THE ACCOUNTABILITY AND IMPLEMENTATION
+BOARD, ON ADJUSTMENTS TO THE STATE’S CTE SYSTEM TO ENSURE THE SYSTEM:
+(I) REMAINS GLOBALLY COMPETITIVE;
+(II) IS ADMINISTERED ACCORDING TO BEST GLOBAL
+PRACTICES; AND
+(III) WHEN INFORMING THE DESIGN OF COURSES AND
+PROGRAMS OF STUDY, LEVERAGES THE CAREER PATHWAY AND OCCUPATIONAL
+STANDARDS DEVELOPED UNDER § 21–210 OF THIS SUBTITLE; AND
+[(18)] (20) Perform any other duties assigned by the Governor’s Workforce
+Development Board.
+(i) The CTE Committee may:
+– 14 –
+WES MOORE, Governor Ch. 602
+(1) Make grants to innovative programs developed by public schools,
+institutions of postsecondary education, apprenticeship sponsors, nonprofits, and other
+persons that help further the CTE Committee’s purpose;
+(2) Contract with a public or private entity to research and analyze the
+provision of CTE to students;
+(3) Create advisory structures necessary to ensure essential input from
+educators, parents, unions, employers, apprenticeship sponsors, community organizers,
+local workforce boards, and other key stakeholders; and
+(4) Adopt any regulations necessary to carry out the committee’s duties and
+administer CTE in the State.
+(j) (1) A majority of CTE Committee members constitutes a quorum.
+(2) Action by the CTE Committee requires the affirmative vote of a
+majority of the committee members present.
+(k) (1) Each year, the CTE Committee shall report to the Governor and, in
+accordance with § 2–1257 of the State Government Article, the General Assembly, and the
+Accountability and Implementation Board.
+(2) The CTE Committee’s report shall include:
+(i) An annual assessment of the state of CTE within the State; and
+(ii) Statutory, regulatory, budgetary, and structural changes needed
+to address the challenges of the evolving CTE system.
+(3) Any student–level information in the CTE Committee’s report shall be
+disaggregated by race, ethnicity, gender, family income level, linguistic status, and
+disability status.
+[21–210.
+(a) In this section, “Advisory Committee” means the CTE Skills Standards
+Advisory Committee.
+(b) The CTE Committee shall create a CTE Skills Standards Advisory
+Committee.
+(c) (1) The purpose of the Advisory Committee is to make recommendations
+and provide advice to the CTE Committee on setting the occupational standards necessary
+for a strong CTE system.
+– 15 –
+Ch. 602 2026 LAWS OF MARYLAND
+(2) The recommendations made by the Advisory Committee shall form the
+basis for the post–CCR CTE pathway required under § 7–205.1 of this article.
+(d) (1) The Advisory Committee shall be composed of members appointed by
+the chair of the CTE Committee that include employers, unions, apprenticeship sponsors,
+and other experts on occupational skills, including agricultural skills.
+(2) To the extent practicable, the Advisory Committee shall be composed of
+members of the Governor’s Workforce Development Board who do not serve on the CTE
+Committee.
+(e) A member of the Advisory Committee:
+(1) May not receive compensation as a member of the Advisory Committee;
+and
+(2) Is not entitled to reimbursement for expenses under the Standard State
+Travel Regulations for duties performed under this section.
+(f) (1) The Advisory Committee shall make recommendations to the CTE
+Committee concerning:
+(i) A comprehensive array of career advancement guidelines,
+including standards for each occupation in a profession and concrete steps and
+accomplishments needed to progress to a greater skilled occupation in a given field;
+(ii) Credentials to be issued at each stage of advancement and
+criteria necessary to be awarded a particular credential; and
+(iii) Necessary adjustments to ensure that the State’s CTE system
+remains globally competitive and administered according to best global practices.
+(2) In making recommendations under this subsection, the Advisory
+Committee shall strive to create a comprehensive, unified system of career progression
+that:
+(i) Is attuned to the State’s workforce needs;
+(ii) Features integration among as many industries as possible;
+(iii) Features performance assessments administered by industry
+practitioners whenever possible;
+(iv) Allows a student trained in one career to seamlessly transfer the
+student’s skills and education to a new career in a different field;
+– 16 –
+WES MOORE, Governor Ch. 602
+(v) Seeks to incorporate as much education in a job setting as is
+practicable;
+(vi) Incorporates professional workplace soft skills, including
+interpersonal and communication skills, time management, business etiquette, and use of
+common business tools; and
+(vii) Incorporates education in high school, community college, and
+other postsecondary occupation programs into a seamless whole that will provide students
+with credentials at various points that build on previous credentials.
+(g) The terms, meeting times, procedures, and policies guiding removal of
+members for the Advisory Committee shall be determined by the CTE Committee.]
+21–210.
+(A) (1) FOR EACH OCCUPATION ON THE LIST DEVELOPED UNDER §
+21–209(H) OF THIS SUBTITLE, THE CTE COMMITTEE SHALL DEVELOP, IN
+COLLABORATION WITH THE GOVERNOR’S WORKFORCE DEVELOPMENT BOARD,
+COMPREHENSIVE, PUBLICLY ACCESSIBLE CAREER PATHWAY INFORMATION.
+(2) THE CAREER PATHWAY INFORMATION SHALL INCLUDE
+INFORMATION ON:
+(I) SKILLS, KNOWLEDGE, COMPETENCIES, EXPERIENCE, OR
+CREDENTIAL STANDARDS FOR EACH OCCUPATION;
+(II) CONCRETE STEPS TO OBTAIN THE SKILLS, COMPETENCIES,
+EXPERIENCES, OR CREDENTIALS NECESSARY TO ADVANCE ON A CAREER PATHWAY
+OR TO HIGHER–PAYING ROLES IN A PROFESSION;
+(III) CREDENTIALS TO BE ISSUED AT EACH STAGE OF CAREER
+PATHWAY ADVANCEMENT; AND
+(IV) NECESSARY CRITERIA TO BE AWARDED A CREDENTIAL.
+(3) THE CAREER PATHWAY INFORMATION SHALL BE ADOPTED BY THE
+GOVERNOR’S WORKFORCE DEVELOPMENT BOARD.
+(B) ALL STATE AGENCIES AND RELEVANT WORKFORCE DEVELOPMENT AND
+EDUCATION PROGRAMS SHALL USE THE LIST OF OCCUPATIONS DEVELOPED UNDER
+
+Section 32:
+§ 21–209(H) OF THIS SUBTITLE AND CAREER PATHWAY INFORMATION DEVELOPED
+UNDER THIS SECTION AS A GUIDELINE FOR CURRICULUM ALIGNMENT,
+CREDENTIALING, AND CAREER ADVANCEMENT.
+– 17 –
+Ch. 602 2026 LAWS OF MARYLAND
+21–211.
+IN MAKING THE RECOMMENDATIONS REQUIRED UNDER § 21–209(H) OF THIS
+SUBTITLE REGARDING ADJUSTMENTS TO THE STATE’S CTE SYSTEM, THE CTE
+COMMITTEE SHALL STRIVE TO CREATE A COMPREHENSIVE, UNIFIED SYSTEM OF
+CAREER PROGRESSION THAT:
+(1) IS ATTUNED TO THE STATE’S WORKFORCE NEEDS;
+(2) FEATURES INTEGRATION AMONG AS MANY INDUSTRIES AS
+POSSIBLE;
+(3) FEATURES PERFORMANCE ASSESSMENTS ADMINISTERED BY
+INDUSTRY PRACTITIONERS WHENEVER POSSIBLE;
+(4) ALLOWS A STUDENT TRAINED IN ONE CAREER TO SEAMLESSLY
+TRANSFER THE STUDENT’S SKILLS AND EDUCATION TO A NEW CAREER IN A
+DIFFERENT FIELD;
+(5) INCORPORATES PROFESSIONAL WORKPLACE SOFT SKILLS,
+INCLUDING INTERPERSONAL AND COMMUNICATION SKILLS, TIME MANAGEMENT,
+BUSINESS ETIQUETTE, AND USE OF COMMON BUSINESS TOOLS; AND
+(6) INCORPORATES EDUCATION IN HIGH SCHOOL, COMMUNITY
+COLLEGE, AND OTHER POSTSECONDARY OCCUPATIONAL TRAINING PROGRAMS
+INTO A UNIFIED SYSTEM THAT WILL PROVIDE STUDENTS WITH CREDENTIALS AT
+VARIOUS POINTS THAT BUILD ON PREVIOUS CREDENTIALS.
+
+Section 33:
+SECTION 2. AND BE IT FURTHER ENACTED, That:
+(a) Notwithstanding the provisions of §§ 5–206 and 5–411 § 5–411 of the
+Education Article:
+(1), the State Department of Education shall suspend operation of the
+Expert Review Team Program during the 2026–2027 school year; and
+(2) the funding allocated for the Expert Review Team Program in the fiscal
+year 2027 operating budget shall be transferred to the Academic Excellence Fund
+established under § 6–1105 of the Education Article.
+(b) Notwithstanding any limitations in Chapter 4 of the Acts of 2026, in the fiscal
+year 2027 operating budget:
+– 18 –
+WES MOORE, Governor Ch. 602
+(1) $3,334,574 of the appropriation for the Expert Review Team Program
+under Aid to Education (R00A02) may be used for the Judith P. Hoyer Early Childhood
+Education Enhancement Program established under § 5–230 of the Education Article; and
+(2) $3,334,574 of the fiscal year 2027 General Fund appropriation for the
+Judith P. Hoyer Early Childhood Education Enhancement Program under Aid to Education
+(R00A02) may be transferred to the Academic Excellence Fund established under § 6–1105
+of the Education Article.
+(b) (c) On or before November 1, 2026, the State Department of Education and the
+Accountability and Implementation Board jointly shall submit a report to the Governor
+and, in accordance with § 2–1257 of the State Government Article, the Senate Budget and
+Taxation Committee, the Senate Education, Energy, and the Environment Committee, the
+House Appropriations Committee, and the House Ways and Means Committee on plans for
+future implementation of the Expert Review Team Program under § 5–411 of the Education
+Article.
+
+Section 34:
+SECTION 3. AND BE IT FURTHER ENACTED, That:
+(a) The Accountability and Implementation Board and State Department of
+Education shall identify a methodology for counting students from low–income households
+to calculate the Compensatory Education formula under § 5–222 of the Education Article.
+(b) The Accountability and Implementation Board and the State Department of
+Education shall engage in a collaborative and transparent process for identifying the
+method for counting students from low–income households under subsection (a) of this
+
+Section 35:
+section, including consultation with the Department of Budget and Management and the
+Department of Legislative Services.
+(c) On or before December 31, 2026, the The Accountability and Implementation
+Board and the State Department of Education jointly shall submit a report the following
+reports on their findings and recommendations regarding the methodology for counting
+students from low–income households under this section to the Governor and, in accordance
+with § 2–1257 of the State Government Article, the General Assembly:
+(1) on or before December 31, 2026, an interim report; and
+(2) on or before September 30, 2027, a final report.
+
+Section 36:
+SECTION 2. 4. AND BE IT FURTHER ENACTED, That this Act shall take effect
+July 1, 2026.
+Approved by the Governor, May 26, 2026.
+– 19 –
+[DELETED: W C r e t r e y e t t p d w a d f t u o f u t C o P G B C t b b a l p o t c a i s g i a t p p t c f a f t E R T t a I B a t D t i a f c l s t c a c eAA(ASA(]
+[DELETED:  2 ASA(AA(AA(AA(S( T t p p f a i c a w ( I ( A ( C ( B ( I o f s w a c a c]
+[DELETED: W C ( M ( S ( E t i d d b( S( ( C ( A t a i t s a n s e f ( ( O   1 T   2 T p o s t a s w  ( O o b D 1 e y t D s  ( O r r i d t e t c a( ( I ( ( “   1 E 26,]2]
+[DELETED:  2    A T   B F   I T b d c f t p f y p t n o s   I S e f f a r p m a s n p i t   C T n o s d c a w a   2 F f y 27 a e f y]2   A T   B T n o d c s w a  ( F  ( F d n e p t t y t s s o i t U S]
+[DELETED: W C( ( T ( T ( T  ( P  ( P( ( I t p a p t c r u p ( o t  ( P w s t t s e i t  ( C  ( I f y 2 t 2 p t r ( T t7 ( ( T s a t i w h g f a ( B o J 1 2 t q f a i c a  ( P t s e u § 6 o t  ( M   1 S   A A n r p a o]
+[DELETED:  2    B A nd p p H N A O H B E   2 S t p ( o t s c a   A 3   B T a o t a t m h a c  ( M   1 P a b s a a b t   2 H a d f a r a e   3 S d t t D o h  ( P  ( S c a o r e b ( A i w g f a t p) i t S w p a n r p a II ( ) IN I W S C ATS R A P F II II ()A(( ( ( I t t c h c a r c i]
+[DELETED: W C e i a w § 6 o t s t m t  ( T  ( B  ( T c i p s i a l  ( A t p p o a a t p m u t l d p c u  ( A c w s c a c( I a t a o r e b t S B t   ( P ( H o] ( C a c i p i a w ( S D T T E O H ( ( T d w o o t a o t s a f i]
+[DELETED:  2  ( I t r a r t t s r f i t( ( T D s a m a a d t ( T D s r t r o i m a( ( T( ( T ( ( T  ( T   1 E 29,]2   2 M  ( T   1 I   2 M]
+[DELETED: W C( ( S y e c b s p a s w t C s  ( A   1 T   2 T   3 A  ( A p t a a s t a e c o d e a a s h s a a i o h   1 A   2 A  ( A r b t C S S A C a a   1 A s o c i a p c o c t t d u § 1 o t a a s o p i a A P c a a s i o t a s t l t a i r o o   2 A r a p a b t   3 A ( T 27,]2]
+[DELETED:  2  t s y a t i o h e a p o t p( I( “ ( E ( S t t a f s a o l ( V ( E ( A s w m c t ( E p w i p h f f ( E b h s i a t m p a p p d t s s t p ( P o f c a a s s a w a e ( E ( E p a p w m a o a c ( O e i a i tA EEB A I T I S]
+[DELETED: W C F O I A S G I p ;EB ( I ( I ( A( T( ( T C C i a u w t G W I  U   A1,S5 R ( T C C s o u t o o t T( ( T p o t C C i t bD AF f A Sf p C t M s i p s ( T ( T t e p t  g r e c a( T ( T ( T ( T ( T]
+[DELETED:  2  ( T c o t S S A C e ( Tx E  ( E  ( I  ( L  ( C  ( T  ( E( T cs.( A ( M ( I( T( T ( D a s f f C t p s f ( A r a r t S a f ts  ( A a w a d a r uI   20 o s]C P IN I N]
+[DELETED: W CS E S ,   sm;D  ( W ( B t r f p s i o s t e t C p a a w t S ( S c q a r s f C ( D ( A r o m t p m b t C S () A () R a b p i C a m]( t t G a i a w § 2 o t S () M]( () D]( s a  T H S L O A R A O ol  () T p t a p a t n t]( a O A R A O Ai],CECl l   O () E a a s t C E R](]
+[DELETED:  2  () U S a d i s t b](d  () S]( d C E R T a d t t i a w () S]( a] (  O N A S  ST   RCE§());  (  C W A S A O ORS O E O A I C’WD O I RS D A M A L OHSL HWE ND T,–,–S; ( I§21 A W   O T SE M T T A A OS I T T,MDL,MT  A E AR  A IC,A ON A T C A M,S’CE:D  TES    () R;E  () IS A A T B GS   () IH I T D O C A O SY L T C P A O   E 20; () P](( T]
+[DELETED: W C ( M g t i p d b p s o p e a s n a o ( C ( C a s n t e e i f p u e a s c o ( A( ( A ( A b t C C r t a v o a( ( E ( T  ( A  ( S ( A b r e g f i l l s a( I t s “ C m t C S S( T C C s c a C S S A( ( T]
+[DELETED:  2  ( T( ( T ( T( A ( M ( I( ( T A C s m r t t C  ( A c a o c a g s f e o i a p a c s a  ( C t b i a e s o a a  ( N ( I m r u t s t A  ( I  ( F  ( F p a a b i  ( A]
+[DELETED: W C  ( S t i a m e i a j s a  ( I p w s s i  ( I( T t m t p a p g r o() ( F§O E O O T L D U (),CEC O T SE T  O S DP I W T ORS O E OD’WDBE . (  C P I S I  () S,,,KS KE CS EE O  () C,IOS SS RP;  () IRT   () N.VE ( ’WDB.RS O E O() AL T2(H  T S A A G F C ATG .]
+[DELETED:  2 I§2(  H  R A T T TES  SM T ’CE,C T A CE U ( IS’; TES (  I A A M I A (  P A A B (  S S T STS S A E T A N C I A ( I P W S SS I A C SS T MTE S ; ( I E I H SL CE A O P O T P U S W S C AS( N t p o § 5 a 5 § 5 o t ( t S D o E s s o o t ( t 2 o b s b t t t A E F( N]
+[DELETED: W C ( $ ( $(S( T A a I B a S D o( T s e i a c a t p f i t( O ( o ( oS]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 602
+Chapter 602
+(Senate Bill 311)
+AN ACT concerning
+Education – The Blueprint for Maryland’s Future – Revisions
+FOR the purpose of repealing a requirement that county boards of education submit a
+certain technology report each year; extending the time period during which a
+certain method is used to calculate compensatory education enrollment; repealing a
+termination date for the use of funds under the Concentration of Poverty Grant
+Program for the purpose of providing certain programs; altering the qualifications
+for an initial teacher certificate; extending the date by which a teacher must be a
+National Board Certified teacher before becoming a licensed principal on the
+administrator track of the career ladder; extending the time period during which the
+State Board of Education and Accountability and Implementation Board may limit
+the number and types of dual enrollment for certain purposes; altering the definition
+of “wraparound services” as it applies to community schools to include the offering
+of certain academic interventions small group instruction; altering the purpose,
+composition, and duties of the Career and Technical Education (CTE) Committee;
+repealing the CTE Skills Standards Advisory Committee; requiring certain State
+agencies and certain workforce development and education programs to use a certain
+list of occupations for certain purposes; requiring the State Department of Education
+to suspend operation of the Expert Review Team Program for a certain school year;
+requiring providing that certain funds allocated for the Expert Review Team
+Program certain programs in a certain budget to be transferred to the Academic
+Excellence Fund certain programs notwithstanding certain limitations; requiring the
+Accountability and Implementation Board and the Department to identify a
+methodology for counting low–income students to calculate a certain education
+funding formula; requiring the Accountability and Implementation Board and the
+Department to conduct a certain process in a certain manner; and generally relating
+to revisions to the Blueprint for Maryland’s Future.
+BY repealing and reenacting, with amendments,
+Article – Education
+Section 5–212, 5–222(a)(2), 5–223(c)(9), 6–126, 6–1006(b)(2), and 7–205.1(g)(1) and
+(4)
+Annotated Code of Maryland
+(2025 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Education
+Section 5–222(a)(1), 5–223(b) and (c)(4), and 6–1006(a)(1) and (b)(1)
+Annotated Code of Maryland
+(2025 Replacement Volume and 2025 Supplement)
+– 1 –
+
+Ch. 602 2026 LAWS OF MARYLAND
+BY repealing and reenacting, without amendments,
+Article – Education
+Section 9.9–101(a)
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Education
+Section 9.9–101(e) and 21–209
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY repealing
+Article – Education
+Section 21–210
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Education
+Section 21–210 and 21–211
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Education
+5–212.
+(a) The target per pupil foundation amount includes costs associated with
+implementing the Blueprint for Maryland’s Future including:
+(1) Increasing salaries;
+(2) Additional teachers to provide professional learning and collaborative
+time for teachers;
+(3) Career counseling;
+(4) Behavioral health;
+(5) Instructional opportunities for students who are college and career
+ready and those who are not;
+– 2 –
+
+WES MOORE, Governor Ch. 602
+(6) Maintenance and operation of schools;
+(7) Supplies and materials for teachers; and
+(8) Educational technology including digital devices, broadband
+connectivity, and information technology staff.
+(b) Schools may use funds provided under this section to provide the programs
+required under COMAR 13A.04.16.01.
+(c) (1) County boards of education and schools shall prioritize the purchase of
+digital devices for using funds under subsection (a)(8) of this section.
+(2) Additional funds provided in the target per pupil foundation amount for
+educational technology are intended to supplement and not supplant existing funding
+provided for educational technology.
+[(3) (i) On or before November 15 each year, each county board shall
+submit a report to the Department detailing, for the previous fiscal year:
+1. The amount spent by the local school system on technology
+disaggregated by digital devices, connectivity, and information technology staff; and
+2. The percentage of students, teachers, and staff with
+digital devices and adequate connectivity in their homes in accordance with the Federal
+Communications Commission standards for broadband.
+(ii) On or before December 15 each year, the Department shall
+submit to the General Assembly, in accordance with § 2–1257 of the State Government
+Article, a compilation of the reports submitted to the Department under subparagraph (i)
+of this paragraph.
+(iii) On or before September 1, 2021, the Department shall establish
+uniform reporting requirements, including definitions to ensure that consistent and
+comparable reports are submitted under subparagraph (i) of this paragraph.]
+5–222.
+(a) (1) In this section the following words have the meanings indicated.
+(2) (i) “Compensatory education enrollment” means:
+1. Except as provided in subparagraph (iii) of this paragraph,
+for fiscal years 2017 through [2026] 2027 2028, the greater of:
+– 3 –
+
+Ch. 602 2026 LAWS OF MARYLAND
+A. The number of students eligible for free or reduced price
+meals for the prior fiscal year;
+B. For county boards that participate, in whole or in part, in
+the United States Department of Agriculture community eligibility provision, the number
+of students equal to the greater of:
+I. The sum of the number of students in participating schools
+identified by direct certification for the prior fiscal year, plus the number of students
+identified by the income information provided by the family to the school system on an
+alternative form developed by the Department for the prior fiscal year, plus the number of
+students eligible for free and reduced price meals from any schools not participating in the
+community eligibility provision for the prior fiscal year; or
+II. Subject to paragraph (3) of this subsection, the number of
+students eligible for free and reduced price meals at schools not participating in the
+community eligibility provision for the prior fiscal year, plus the product of the percentage
+of students eligible for free and reduced price meals at participating schools for the fiscal
+year prior to opting into the community eligibility provision multiplied by the prior fiscal
+year enrollment; or
+C. The number of students directly certified and who are
+enrolled in a public school in the county in the prior fiscal year; and
+2. For fiscal year [2027] 2028 2029 and each fiscal year
+thereafter, the greater of:
+A. The number of students eligible for free or reduced price
+meals using the United States Department of Agriculture count or the alternative State
+form for the prior fiscal year; or
+B. The number of direct certification students who are
+enrolled in a public school in the county in the prior fiscal year.
+(ii) For the purpose of the calculation under subparagraph (i)1BII of
+this paragraph, the schools participating in the community eligibility provision during the
+pilot year may use the percentage of students identified for free and reduced price meals
+during the pilot year.
+(iii) For the purpose of the calculation under subparagraph (i)1 of this
+paragraph, direct certification multiplied by the multiplier may be used only for schools
+that did not exist prior to the year the school system opted into the United States
+Department of Agriculture community eligibility provision.
+5–223.
+– 4 –
+
+WES MOORE, Governor Ch. 602
+(b) (1) There is a Concentration of Poverty School Grant Program in the State.
+(2) The purpose of the Program is to provide grants to eligible schools with
+a high concentration of eligible students.
+(3) The Program consists of the:
+(i) Personnel grant; and
+(ii) Per pupil grant.
+(c) (4) If the personnel grant provided to an eligible school exceeds the cost to
+employ the positions and provide the coverage required under paragraph (2) of this
+subsection, the eligible school may only use the excess funds to:
+(i) Provide wraparound services to the students enrolled in the
+eligible school;
+(ii) Complete the needs assessment; and
+(iii) In fiscal years 2021 through 2025, provide the requirements
+under COMAR Title 13A, Subtitle 04, including 13A.04.16.01.
+(9) The personnel and per pupil grant may be used [through fiscal year
+2027] to provide the programs required under COMAR Title 13A, Subtitle 04, including
+13A.04.16.01.
+6–126.
+(a) (1) This subsection applies to individuals who have graduated from a
+teacher preparation program or an alternative teacher preparation program.
+(2) Beginning on July 1, 2025, to qualify for an initial certificate an
+individual shall:
+(i) Pass the subject–specific examinations under § 6–125 of this
+subtitle;
+(ii) Meet one of the following qualifications:
+1. Subject to paragraph (3) of this subsection, pass:
+A. A nationally recognized, portfolio–based assessment of
+teaching ability; or
+– 5 –
+
+Ch. 602 2026 LAWS OF MARYLAND
+B. A portfolio–based assessment of a [nationally accredited]
+teacher preparation program THAT HAS NATIONAL ACCREDITATION OR HAS BEEN
+APPROVED BY THE DEPARTMENT; or
+2. Subject to paragraph (4) of this subsection, complete a
+rigorous local school system teacher induction program that lasts for the lesser of:
+A. 3 years; or
+B. The amount of time a teacher may hold a conditional
+teacher certificate;
+(iii) Meet one of the following qualifications:
+1. Pass a basic literacy skills assessment approved by the
+Department under § 6–125 of this subtitle;
+2. Hold a degree from a regionally accredited educational
+institution and have earned a minimum overall cumulative grade point average of 3.0 on a
+4.0 scale or its equivalent on the most recently earned degree; or
+3. Submit documentation to the Department of having
+received effective evaluations from a local school system for 3 years;
+(iv) Pass a rigorous State–specific examination of mastery of reading
+instruction and content for the grade level the individual will be teaching; and
+(v) Satisfactorily complete any other requirements established by
+the State Board.
+(3) (I) An individual who graduates from a teacher preparation
+program in the State who passed a nationally recognized, portfolio–based assessment
+DESCRIBED IN PARAGRAPH (2)(II) OF THIS SUBSECTION may not be required to take
+the assessment more than one time.
+(II) AN INDIVIDUAL WHO SUCCESSFULLY COMPLETES A
+DEPARTMENT–SPONSORED REGISTERED APPRENTICESHIP PROGRAM FOR
+TEACHING MAY SUBMIT THE APPRENTICESHIP CERTIFICATE IN LIEU OF PASSAGE OF
+AN ASSESSMENT OF TEACHING ABILITY UNDER PARAGRAPH (2)(II)1A (2)(II) OF THIS
+SUBSECTION.
+(4) (i) In order to satisfy the requirements of paragraph (2)(ii)2 of this
+subsection, a candidate for an initial teacher certificate shall submit documentation to the
+Department that the candidate has completed a rigorous comprehensive induction
+– 6 –
+
+WES MOORE, Governor Ch. 602
+program, established in accordance with § 6–117 of this subtitle, that meets the
+requirements of this paragraph.
+(ii) The comprehensive induction program shall be developed by a
+local school system, either independently or collaboratively with other local school systems.
+(iii) Before establishing a comprehensive induction program, one or
+more local school systems shall submit a plan for the program to the Department and the
+Accountability and Implementation Board.
+(iv) The comprehensive induction program shall include a locally
+developed portfolio component that is aligned with the Interstate Teacher Assessment and
+Support Consortium Standards.
+(v) A teacher preparation program or an alternative teacher
+preparation program may use the locally developed portfolio component under
+subparagraph (iv) of this paragraph as meeting a portion of the coursework requirements
+of the program.
+(vi) A candidate who satisfactorily completes a comprehensive
+induction program established in accordance with this paragraph may not be required to
+pass a nationally recognized, portfolio–based assessment of teaching ability.
+(b) In addition to any other requirements established by the State Board, to
+qualify for a certificate in the State, a teacher who graduated from an institution of higher
+education A TEACHER PREPARATION PROGRAM in another state or holds a professional
+license or certificate from another state shall:
+(1) Pass an examination of teaching ability within 18 months of being hired
+by a local school system;
+(2) Hold an active National Board Certification from the National Board
+for Professional Teaching Standards; [or]
+(3) Complete a comprehensive induction program in accordance with
+subsection (a)(4) of this section; OR
+(4) SUBMIT DOCUMENTATION TO THE DEPARTMENT OF HAVING
+RECEIVED EFFECTIVE EVALUATIONS FROM A SCHOOL OR SCHOOL SYSTEM FOR 2
+YEARS.
+(c) (1) The Department, after a reasonable period of review and assessment,
+shall determine whether one of the assessments of teaching skill approved for initial
+teacher certification under this section more adequately measures the skills and knowledge
+required of a highly qualified teacher.
+– 7 –
+
+Ch. 602 2026 LAWS OF MARYLAND
+(2) If the Department makes a determination under paragraph (1) of this
+subsection that requires a revision to the statutory requirements for initial teacher
+certification, the Department shall, in accordance with § 2–1257 of the State Government
+Article, submit a report to the General Assembly on or before the next September 1 on its
+recommendations for revising the qualifications for initial teacher certification.
+(d) (1) The Department shall actively monitor and assess, during their
+implementation and development, new teacher standards and assessments produced under
+this section for any negative impact on the diversity of teacher candidates passing the
+initial teacher certification assessments.
+(2) The Department shall report the results of its monitoring and
+assessment to the Accountability and Implementation Board established under § 5–402 of
+this article.
+6–1006.
+(a) (1) There is an administrator track on level four of the career ladder.
+(b) (1) The first tier of the administrator track is a licensed principal.
+(2) (i) The State Board, in consultation with the Professional Standards
+and Teacher Education Board, shall establish the criteria that a teacher shall meet to
+achieve the licensed principal tier.
+(ii) The criteria under subparagraph (i) of this paragraph:
+1. Except as provided in subparagraph (iii) of this paragraph
+and beginning on July 1, [2029] 2034, shall include a requirement that a teacher be an
+NBC teacher before the teacher may be a licensed principal; and
+2. May include a requirement that a teacher shall complete
+an induction or training program for new principals.
+(iii) The State Board, in consultation with the Professional Standards
+and Teacher Education Board, shall establish a process through which an individual may
+receive a waiver to serve as a licensed principal if the individual:
+1. Is not an NBC teacher; but
+2. Meets other qualifying criteria, as determined by the State
+Board, in consultation with the Professional Standards and Education Board.
+7–205.1.
+– 8 –
+
+WES MOORE, Governor Ch. 602
+(g) (1) Subject to paragraph (4) of this subsection, beginning in the 2023–2024
+school year, each county board shall provide all students who meet the CCR standard
+required under subsection (c) of this section with access to the following post college and
+career readiness (post–CCR) pathways, at no cost to the student or the student’s parents,
+including the cost of any fees:
+(i) A competitive entry college preparatory program, chosen by the
+county board, consisting of:
+1. The International Baccalaureate Diploma Program;
+2. The Cambridge AICE Diploma Program; or
+3. A comparable program consisting of Advanced Placement
+courses specified by the College Board;
+(ii) A program that allows a student, through an early college
+program or dual enrollment at a student’s high school and an institution of higher
+education to earn:
+1. An associate degree; or
+2. At least 60 credits toward a bachelor’s degree; and
+(iii) A robust set of career and technology education programs that
+are [recommended by the CTE Skills Standards Advisory Committee and approved]
+ADOPTED by the CTE Committee and that allow students to complete:
+1. A credit or noncredit certificate or license program, course,
+or sequence of courses, including a program, course, or courses taken through dual
+enrollment under § 15–127 of this article, at a secondary or postsecondary institution,
+through an Advanced Placement course at a secondary institution, or through an
+apprenticeship sponsor that leads to an industry recognized occupational–credential or
+postsecondary certificate;
+2. A registered apprenticeship program approved by the
+Division of Workforce Development and Adult Learning within the Maryland Department
+of Labor; or
+3. A youth apprenticeship program, under Title 18, Subtitle
+18 of this article.
+(4) To phase in expansion of dual enrollment to maximize the number of
+students who can earn the maximum number of dual enrollment credits consistent with
+the phased increases in school funding, for fiscal years 2025 through [2027] 2030, the State
+Board and the Accountability and Implementation Board, in consultation with each local
+– 9 –
+
+Ch. 602 2026 LAWS OF MARYLAND
+school system, may limit the number and types of courses that a student dually enrolled at
+the student’s public high school and at an institution of higher education may enroll in
+during the school year at the institution of higher education as part of the post–CCR
+pathway in accordance with paragraph (1) of this subsection and § 15–127 of this article.
+9.9–101.
+(a) In this title the following words have the meanings indicated.
+(e) “Wraparound services” means:
+(1) Extended learning time, including before and after school, weekends,
+summer school, and an extended school year;
+(2) Safe transportation to and from school and off–site learning
+opportunities, including apprenticeship programs;
+(3) Vision, hearing, and dental care services;
+(4) Establishing or expanding school–based health center services;
+(5) Additional social workers, mentors, counselors, therapists,
+psychologists, and restorative practice coaches;
+(6) Enhancing physical wellness, including providing healthy food for
+in–school and out–of–school time and linkages to community providers;
+(7) Enhancing behavioral health services, including access to mental
+health practitioners and providing professional development to school staff to provide
+trauma–informed interventions;
+(8) Providing family and community engagement and supports, including
+informing parents of academic course offerings, language classes, workforce development
+training, opportunities for children, and available social services as well as educating
+families on how to monitor a child’s learning;
+(9) Establishing and enhancing linkages to Judy Centers and other early
+education programs that feed into the school;
+(10) Enhancing student enrichment experiences, including educational field
+trips, partnerships, and programs with museums, arts organizations, and cultural
+institutions;
+(11) Offering evidence–based in–school and in–person tutoring, AND
+OTHER EVIDENCE–BASED ACADEMIC INTERVENTIONS TO IMPROVE STUDENT
+– 10 –
+
+WES MOORE, Governor Ch. 602
+OUTCOMES FOCUSED ON INDIVIDUAL AND SMALL GROUP INSTRUCTION, provided
+during the school day, AND OTHER EVIDENCE–BASED ACADEMIC INTERVENTIONS;
+(12) Improving student attendance and chronic absenteeism;
+(13) Improving the learning environment at the school; and
+(14) Any professional development for teachers and school staff to quickly
+identify students who are in need of these resources.
+21–209.
+(a) There is a Career and Technical Education (CTE) Committee.
+(b) (1) The CTE Committee is a unit within the Governor’s Workforce
+Development Board ESTABLISHED UNDER TITLE 11, SUBTITLE 5 OF THE LABOR AND
+EMPLOYMENT ARTICLE.
+(2) The CTE Committee shall operate under the oversight of the
+Accountability and Implementation Board, established under Title 5, Subtitle 4 of this
+article.
+(c) (1) The purpose of the CTE Committee is to [build] DIRECT AND
+COORDINATE THE DEVELOPMENT OF an integrated, globally competitive [framework]
+AND ALIGNED SYSTEM for providing CTE to Maryland students in public schools,
+institutions of postsecondary education, and the workforce.
+(2) The CTE Committee shall strive to integrate CTE in secondary and
+postsecondary institutions in the State.
+(3) The CTE Committee shall consist of individuals who collectively reflect,
+to the extent practicable, the INDUSTRIAL, geographical, racial, ethnic, cultural, and
+gender diversity of the State.
+(d) The CTE Committee is composed of the following members of the Governor’s
+Workforce Development Board:
+(1) The State Superintendent;
+(2) The Secretary of Higher Education;
+(3) The Secretary of Labor;
+(4) The Secretary of Commerce; AND
+– 11 –
+
+Ch. 602 2026 LAWS OF MARYLAND
+(5) [The chair of the Skills Standards Advisory Committee, established
+under § 21–208 of this subtitle; and
+(6) The following six] SEVEN members, jointly selected by the Governor,
+the President of the Senate, and the Speaker of the House of Delegates, who collectively
+represent:
+(i) Employers;
+(ii) Industry or trade associations;
+(iii) Labor organizations;
+(iv) Community colleges;
+(v) The agricultural community; and
+(vi) Experts in CTE programming.
+(e) The Governor, the President of the Senate, and the Speaker of the House of
+Delegates jointly shall appoint a chair of the CTE Committee from among the [committee’s
+members] COMMITTEE MEMBERS WHO ARE EMPLOYER REPRESENTATIVES.
+(f) A member of the CTE Committee:
+(1) May not receive compensation as a member of the CTE Committee; and
+(2) Is not entitled to reimbursement for expenses under the Standard State
+Travel Regulations for duties performed under this section.
+(g) The CTE Committee may employ additional staff necessary to carry out the
+committee’s functions as provided in the State budget.
+(h) The CTE Committee shall perform the following duties:
+(1) Develop a statewide framework for CTE that prepares students for
+employment in a diverse, modern economy;
+(2) Allocate roles and responsibilities to State agencies for the
+credentialing of students, INCLUDING THOSE engaged in CTE programs;
+(3) Adopt and, where appropriate, develop and regularly update, IN
+ACCORDANCE WITH § 21–210 OF THIS SUBTITLE, a comprehensive and cohesive system
+of [occupational skills] CAREER PATHWAY INFORMATION, INCLUDING NECESSARY
+– 12 –
+
+WES MOORE, Governor Ch. 602
+SKILLS, KNOWLEDGE, COMPETENCIES, AND CREDENTIALING standards to drive the
+State’s WORKFORCE DEVELOPMENT AND CTE [system] SYSTEMS;
+(4) Work with the business community, including nonprofit entities and
+apprenticeship sponsors, to develop CTE learning opportunities;
+(5) Bring together representatives from public schools, institutions of
+postsecondary education, and the business community, including nonprofit entities and
+apprenticeship sponsors, to ensure that CTE programs are aligned with the State’s
+economic development and workforce goals and operate with best global practices;
+(6) Set content qualification and recruitment standards for CTE
+instructors;
+(7) Determine which programs should be approved for credit towards high
+school graduation requirements;
+(8) [Approve, reject, or modify the proposals made by the CTE Skills
+Standards Advisory Committee established under § 21–208 of this subtitle to establish CTE
+programs for public school students;
+(9)] Address operational issues associated with delivering CTE programs to
+students, including transportation to and from job sites;
+[(10)] (9) Review agency budget proposals involving CTE and make
+recommendations to the Governor and, in accordance with § 2–1257 of the State
+Government Article, the General Assembly on or before December 15 each year;
+[(11)] (10) Monitor the progress of CTE in the State, including progress on
+implementing the CTE goals in the Blueprint for Maryland’s Future;
+[(12)] (11) Develop yearly goals for each county board to reach the statewide
+goal under § 21–204 of this subtitle that 45% of public HIGH school students [achieve an]
+COMPLETE THE HIGH SCHOOL LEVEL OF A REGISTERED APPRENTICESHIP OR
+ANOTHER industry–recognized [occupational] credential before they graduate;
+[(13)] (12) Track progress toward and perform any tasks necessary to
+achieve the statewide goal under § 21–204 of this subtitle that 45% of public high school
+students [achieve a youth apprenticeship or any other] COMPLETE THE HIGH SCHOOL
+LEVEL OF A REGISTERED APPRENTICESHIP OR ANOTHER industry–recognized
+[occupational] credential, AS DEFINED BY THE CTE COMMITTEE, before they graduate;
+[(14)] (13) Establish, administer, and supervise the CTE Expert Review
+Teams established under § 5–412 of this article;
+– 13 –
+
+Ch. 602 2026 LAWS OF MARYLAND
+[(15)] (14) Using State accountability data, identify schools to be
+[investigated] REVIEWED by CTE Expert Review Teams in which sufficient numbers of
+students or groups of demographically distinct students are not making adequate progress
+towards the completion of the CTE pathway;
+[(16)] (15) Submit to the Accountability and Implementation Board plans
+for deploying CTE Expert Review Teams, and deploy the teams in accordance with
+approved plans;
+[(17)] (16) Share information on CTE education with the Accountability and
+Implementation Board; [and]
+(17) MAKE RECOMMENDATIONS AND PROVIDE GUIDANCE ON SETTING
+THE OCCUPATIONAL STANDARDS NECESSARY FOR A STRONG CTE SYSTEM THAT
+SHALL FORM THE BASIS FOR THE POST–CCR CTE PATHWAY REQUIRED UNDER §
+7–205.1(G)(3) OF THIS ARTICLE;
+(18) IN COLLABORATION WITH AND SUBJECT TO THE APPROVAL OF
+THE GOVERNOR’S WORKFORCE DEVELOPMENT BOARD AND IN CONSULTATION
+WITH OTHER INDUSTRY REPRESENTATIVES, DEVELOP AND MAINTAIN A LIST OF
+HIGH–SKILL, HIGH–WAGE, OR IN–DEMAND PRIORITY OCCUPATIONS FOR THE STATE;
+(19) IN ACCORDANCE WITH § 21–211 OF THIS SUBTITLE, MAKE
+RECOMMENDATIONS TO STATE AGENCIES AND OFFICES, INCLUDING TO THE
+DEPARTMENT, THE MARYLAND DEPARTMENT OF LABOR, THE MARYLAND HIGHER
+EDUCATION COMMISSION, AND THE ACCOUNTABILITY AND IMPLEMENTATION
+BOARD, ON ADJUSTMENTS TO THE STATE’S CTE SYSTEM TO ENSURE THE SYSTEM:
+(I) REMAINS GLOBALLY COMPETITIVE;
+(II) IS ADMINISTERED ACCORDING TO BEST GLOBAL
+PRACTICES; AND
+(III) WHEN INFORMING THE DESIGN OF COURSES AND
+PROGRAMS OF STUDY, LEVERAGES THE CAREER PATHWAY AND OCCUPATIONAL
+STANDARDS DEVELOPED UNDER § 21–210 OF THIS SUBTITLE; AND
+[(18)] (20) Perform any other duties assigned by the Governor’s Workforce
+Development Board.
+(i) The CTE Committee may:
+– 14 –
+
+WES MOORE, Governor Ch. 602
+(1) Make grants to innovative programs developed by public schools,
+institutions of postsecondary education, apprenticeship sponsors, nonprofits, and other
+persons that help further the CTE Committee’s purpose;
+(2) Contract with a public or private entity to research and analyze the
+provision of CTE to students;
+(3) Create advisory structures necessary to ensure essential input from
+educators, parents, unions, employers, apprenticeship sponsors, community organizers,
+local workforce boards, and other key stakeholders; and
+(4) Adopt any regulations necessary to carry out the committee’s duties and
+administer CTE in the State.
+(j) (1) A majority of CTE Committee members constitutes a quorum.
+(2) Action by the CTE Committee requires the affirmative vote of a
+majority of the committee members present.
+(k) (1) Each year, the CTE Committee shall report to the Governor and, in
+accordance with § 2–1257 of the State Government Article, the General Assembly, and the
+Accountability and Implementation Board.
+(2) The CTE Committee’s report shall include:
+(i) An annual assessment of the state of CTE within the State; and
+(ii) Statutory, regulatory, budgetary, and structural changes needed
+to address the challenges of the evolving CTE system.
+(3) Any student–level information in the CTE Committee’s report shall be
+disaggregated by race, ethnicity, gender, family income level, linguistic status, and
+disability status.
+[21–210.
+(a) In this section, “Advisory Committee” means the CTE Skills Standards
+Advisory Committee.
+(b) The CTE Committee shall create a CTE Skills Standards Advisory
+Committee.
+(c) (1) The purpose of the Advisory Committee is to make recommendations
+and provide advice to the CTE Committee on setting the occupational standards necessary
+for a strong CTE system.
+– 15 –
+
+Ch. 602 2026 LAWS OF MARYLAND
+(2) The recommendations made by the Advisory Committee shall form the
+basis for the post–CCR CTE pathway required under § 7–205.1 of this article.
+(d) (1) The Advisory Committee shall be composed of members appointed by
+the chair of the CTE Committee that include employers, unions, apprenticeship sponsors,
+and other experts on occupational skills, including agricultural skills.
+(2) To the extent practicable, the Advisory Committee shall be composed of
+members of the Governor’s Workforce Development Board who do not serve on the CTE
+Committee.
+(e) A member of the Advisory Committee:
+(1) May not receive compensation as a member of the Advisory Committee;
+and
+(2) Is not entitled to reimbursement for expenses under the Standard State
+Travel Regulations for duties performed under this section.
+(f) (1) The Advisory Committee shall make recommendations to the CTE
+Committee concerning:
+(i) A comprehensive array of career advancement guidelines,
+including standards for each occupation in a profession and concrete steps and
+accomplishments needed to progress to a greater skilled occupation in a given field;
+(ii) Credentials to be issued at each stage of advancement and
+criteria necessary to be awarded a particular credential; and
+(iii) Necessary adjustments to ensure that the State’s CTE system
+remains globally competitive and administered according to best global practices.
+(2) In making recommendations under this subsection, the Advisory
+Committee shall strive to create a comprehensive, unified system of career progression
+that:
+(i) Is attuned to the State’s workforce needs;
+(ii) Features integration among as many industries as possible;
+(iii) Features performance assessments administered by industry
+practitioners whenever possible;
+(iv) Allows a student trained in one career to seamlessly transfer the
+student’s skills and education to a new career in a different field;
+– 16 –
+
+WES MOORE, Governor Ch. 602
+(v) Seeks to incorporate as much education in a job setting as is
+practicable;
+(vi) Incorporates professional workplace soft skills, including
+interpersonal and communication skills, time management, business etiquette, and use of
+common business tools; and
+(vii) Incorporates education in high school, community college, and
+other postsecondary occupation programs into a seamless whole that will provide students
+with credentials at various points that build on previous credentials.
+(g) The terms, meeting times, procedures, and policies guiding removal of
+members for the Advisory Committee shall be determined by the CTE Committee.]
+21–210.
+(A) (1) FOR EACH OCCUPATION ON THE LIST DEVELOPED UNDER §
+21–209(H) OF THIS SUBTITLE, THE CTE COMMITTEE SHALL DEVELOP, IN
+COLLABORATION WITH THE GOVERNOR’S WORKFORCE DEVELOPMENT BOARD,
+COMPREHENSIVE, PUBLICLY ACCESSIBLE CAREER PATHWAY INFORMATION.
+(2) THE CAREER PATHWAY INFORMATION SHALL INCLUDE
+INFORMATION ON:
+(I) SKILLS, KNOWLEDGE, COMPETENCIES, EXPERIENCE, OR
+CREDENTIAL STANDARDS FOR EACH OCCUPATION;
+(II) CONCRETE STEPS TO OBTAIN THE SKILLS, COMPETENCIES,
+EXPERIENCES, OR CREDENTIALS NECESSARY TO ADVANCE ON A CAREER PATHWAY
+OR TO HIGHER–PAYING ROLES IN A PROFESSION;
+(III) CREDENTIALS TO BE ISSUED AT EACH STAGE OF CAREER
+PATHWAY ADVANCEMENT; AND
+(IV) NECESSARY CRITERIA TO BE AWARDED A CREDENTIAL.
+(3) THE CAREER PATHWAY INFORMATION SHALL BE ADOPTED BY THE
+GOVERNOR’S WORKFORCE DEVELOPMENT BOARD.
+(B) ALL STATE AGENCIES AND RELEVANT WORKFORCE DEVELOPMENT AND
+EDUCATION PROGRAMS SHALL USE THE LIST OF OCCUPATIONS DEVELOPED UNDER
+§ 21–209(H) OF THIS SUBTITLE AND CAREER PATHWAY INFORMATION DEVELOPED
+UNDER THIS SECTION AS A GUIDELINE FOR CURRICULUM ALIGNMENT,
+CREDENTIALING, AND CAREER ADVANCEMENT.
+– 17 –
+
+Ch. 602 2026 LAWS OF MARYLAND
+21–211.
+IN MAKING THE RECOMMENDATIONS REQUIRED UNDER § 21–209(H) OF THIS
+SUBTITLE REGARDING ADJUSTMENTS TO THE STATE’S CTE SYSTEM, THE CTE
+COMMITTEE SHALL STRIVE TO CREATE A COMPREHENSIVE, UNIFIED SYSTEM OF
+CAREER PROGRESSION THAT:
+(1) IS ATTUNED TO THE STATE’S WORKFORCE NEEDS;
+(2) FEATURES INTEGRATION AMONG AS MANY INDUSTRIES AS
+POSSIBLE;
+(3) FEATURES PERFORMANCE ASSESSMENTS ADMINISTERED BY
+INDUSTRY PRACTITIONERS WHENEVER POSSIBLE;
+(4) ALLOWS A STUDENT TRAINED IN ONE CAREER TO SEAMLESSLY
+TRANSFER THE STUDENT’S SKILLS AND EDUCATION TO A NEW CAREER IN A
+DIFFERENT FIELD;
+(5) INCORPORATES PROFESSIONAL WORKPLACE SOFT SKILLS,
+INCLUDING INTERPERSONAL AND COMMUNICATION SKILLS, TIME MANAGEMENT,
+BUSINESS ETIQUETTE, AND USE OF COMMON BUSINESS TOOLS; AND
+(6) INCORPORATES EDUCATION IN HIGH SCHOOL, COMMUNITY
+COLLEGE, AND OTHER POSTSECONDARY OCCUPATIONAL TRAINING PROGRAMS
+INTO A UNIFIED SYSTEM THAT WILL PROVIDE STUDENTS WITH CREDENTIALS AT
+VARIOUS POINTS THAT BUILD ON PREVIOUS CREDENTIALS.
+SECTION 2. AND BE IT FURTHER ENACTED, That:
+(a) Notwithstanding the provisions of §§ 5–206 and 5–411 § 5–411 of the
+Education Article:
+(1), the State Department of Education shall suspend operation of the
+Expert Review Team Program during the 2026–2027 school year; and
+(2) the funding allocated for the Expert Review Team Program in the fiscal
+year 2027 operating budget shall be transferred to the Academic Excellence Fund
+established under § 6–1105 of the Education Article.
+(b) Notwithstanding any limitations in Chapter 4 of the Acts of 2026, in the fiscal
+year 2027 operating budget:
+– 18 –
+
+WES MOORE, Governor Ch. 602
+(1) $3,334,574 of the appropriation for the Expert Review Team Program
+under Aid to Education (R00A02) may be used for the Judith P. Hoyer Early Childhood
+Education Enhancement Program established under § 5–230 of the Education Article; and
+(2) $3,334,574 of the fiscal year 2027 General Fund appropriation for the
+Judith P. Hoyer Early Childhood Education Enhancement Program under Aid to Education
+(R00A02) may be transferred to the Academic Excellence Fund established under § 6–1105
+of the Education Article.
+(b) (c) On or before November 1, 2026, the State Department of Education and the
+Accountability and Implementation Board jointly shall submit a report to the Governor
+and, in accordance with § 2–1257 of the State Government Article, the Senate Budget and
+Taxation Committee, the Senate Education, Energy, and the Environment Committee, the
+House Appropriations Committee, and the House Ways and Means Committee on plans for
+future implementation of the Expert Review Team Program under § 5–411 of the Education
+Article.
+SECTION 3. AND BE IT FURTHER ENACTED, That:
+(a) The Accountability and Implementation Board and State Department of
+Education shall identify a methodology for counting students from low–income households
+to calculate the Compensatory Education formula under § 5–222 of the Education Article.
+(b) The Accountability and Implementation Board and the State Department of
+Education shall engage in a collaborative and transparent process for identifying the
+method for counting students from low–income households under subsection (a) of this
+section, including consultation with the Department of Budget and Management and the
+Department of Legislative Services.
+(c) On or before December 31, 2026, the The Accountability and Implementation
+Board and the State Department of Education jointly shall submit a report the following
+reports on their findings and recommendations regarding the methodology for counting
+students from low–income households under this section to the Governor and, in accordance
+with § 2–1257 of the State Government Article, the General Assembly:
+(1) on or before December 31, 2026, an interim report; and
+(2) on or before September 30, 2027, a final report.
+SECTION 2. 4. AND BE IT FURTHER ENACTED, That this Act shall take effect
+July 1, 2026.
+Approved by the Governor, May 26, 2026.
+– 19 –
+
+[DELETED: W C r e t r e y e t t p d w a d f t u o f u t C o P G B C t b b a l p o t c a i s g i a t p p t c f a f t E R T t a I B a t D t i a f c l s t c a c eAA(ASA(]
+[DELETED:  2 ASA(AA(AA(AA(S( T t p p f a i c a w ( I ( A ( C ( B ( I o f s w a c a c]
+[DELETED: W C ( M ( S ( E t i d d b( S( ( C ( A t a i t s a n s e f ( ( O   1 T   2 T p o s t a s w  ( O o b D 1 e y t D s  ( O r r i d t e t c a( ( I ( ( “   1 E 26,]2]
+[DELETED:  2    A T   B F   I T b d c f t p f y p t n o s   I S e f f a r p m a s n p i t   C T n o s d c a w a   2 F f y 27 a e f y]2   A T   B T n o d c s w a  ( F  ( F d n e p t t y t s s o i t U S]
+[DELETED: W C( ( T ( T ( T  ( P  ( P( ( I t p a p t c r u p ( o t  ( P w s t t s e i t  ( C  ( I f y 2 t 2 p t r ( T t7 ( ( T s a t i w h g f a ( B o J 1 2 t q f a i c a  ( P t s e u § 6 o t  ( M   1 S   A A n r p a o]
+[DELETED:  2    B A nd p p H N A O H B E   2 S t p ( o t s c a   A 3   B T a o t a t m h a c  ( M   1 P a b s a a b t   2 H a d f a r a e   3 S d t t D o h  ( P  ( S c a o r e b ( A i w g f a t p) i t S w p a n r p a II ( ) IN I W S C ATS R A P F II II ()A(( ( ( I t t c h c a r c i]
+[DELETED: W C e i a w § 6 o t s t m t  ( T  ( B  ( T c i p s i a l  ( A t p p o a a t p m u t l d p c u  ( A c w s c a c( I a t a o r e b t S B t   ( P ( H o] ( C a c i p i a w ( S D T T E O H ( ( T d w o o t a o t s a f i]
+[DELETED:  2  ( I t r a r t t s r f i t( ( T D s a m a a d t ( T D s r t r o i m a( ( T( ( T ( ( T  ( T   1 E 29,]2   2 M  ( T   1 I   2 M]
+[DELETED: W C( ( S y e c b s p a s w t C s  ( A   1 T   2 T   3 A  ( A p t a a s t a e c o d e a a s h s a a i o h   1 A   2 A  ( A r b t C S S A C a a   1 A s o c i a p c o c t t d u § 1 o t a a s o p i a A P c a a s i o t a s t l t a i r o o   2 A r a p a b t   3 A ( T 27,]2]
+[DELETED:  2  t s y a t i o h e a p o t p( I( “ ( E ( S t t a f s a o l ( V ( E ( A s w m c t ( E p w i p h f f ( E b h s i a t m p a p p d t s s t p ( P o f c a a s s a w a e ( E ( E p a p w m a o a c ( O e i a i tA EEB A I T I S]
+[DELETED: W C F O I A S G I p ;EB ( I ( I ( A( T( ( T C C i a u w t G W I  U   A1,S5 R ( T C C s o u t o o t T( ( T p o t C C i t bD AF f A Sf p C t M s i p s ( T ( T t e p t  g r e c a( T ( T ( T ( T ( T]
+[DELETED:  2  ( T c o t S S A C e ( Tx E  ( E  ( I  ( L  ( C  ( T  ( E( T cs.( A ( M ( I( T( T ( D a s f f C t p s f ( A r a r t S a f ts  ( A a w a d a r uI   20 o s]C P IN I N]
+[DELETED: W CS E S ,   sm;D  ( W ( B t r f p s i o s t e t C p a a w t S ( S c q a r s f C ( D ( A r o m t p m b t C S () A () R a b p i C a m]( t t G a i a w § 2 o t S () M]( () D]( s a  T H S L O A R A O ol  () T p t a p a t n t]( a O A R A O Ai],CECl l   O () E a a s t C E R](]
+[DELETED:  2  () U S a d i s t b](d  () S]( d C E R T a d t t i a w () S]( a] (  O N A S  ST   RCE§());  (  C W A S A O ORS O E O A I C’WD O I RS D A M A L OHSL HWE ND T,–,–S; ( I§21 A W   O T SE M T T A A OS I T T,MDL,MT  A E AR  A IC,A ON A T C A M,S’CE:D  TES    () R;E  () IS A A T B GS   () IH I T D O C A O SY L T C P A O   E 20; () P](( T]
+[DELETED: W C ( M g t i p d b p s o p e a s n a o ( C ( C a s n t e e i f p u e a s c o ( A( ( A ( A b t C C r t a v o a( ( E ( T  ( A  ( S ( A b r e g f i l l s a( I t s “ C m t C S S( T C C s c a C S S A( ( T]
+[DELETED:  2  ( T( ( T ( T( A ( M ( I( ( T A C s m r t t C  ( A c a o c a g s f e o i a p a c s a  ( C t b i a e s o a a  ( N ( I m r u t s t A  ( I  ( F  ( F p a a b i  ( A]
+[DELETED: W C  ( S t i a m e i a j s a  ( I p w s s i  ( I( T t m t p a p g r o() ( F§O E O O T L D U (),CEC O T SE T  O S DP I W T ORS O E OD’WDBE . (  C P I S I  () S,,,KS KE CS EE O  () C,IOS SS RP;  () IRT   () N.VE ( ’WDB.RS O E O() AL T2(H  T S A A G F C ATG .]
+[DELETED:  2 I§2(  H  R A T T TES  SM T ’CE,C T A CE U ( IS’; TES (  I A A M I A (  P A A B (  S S T STS S A E T A N C I A ( I P W S SS I A C SS T MTE S ; ( I E I H SL CE A O P O T P U S W S C AS( N t p o § 5 a 5 § 5 o t ( t S D o E s s o o t ( t 2 o b s b t t t A E F( N]
+[DELETED: W C ( $ ( $(S( T A a I B a S D o( T s e i a c a t p f i t( O ( o ( oS]

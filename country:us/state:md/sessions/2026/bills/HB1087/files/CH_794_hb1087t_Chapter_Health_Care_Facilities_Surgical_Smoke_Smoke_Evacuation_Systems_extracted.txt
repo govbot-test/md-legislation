@@ -1,0 +1,124 @@
+Title: (House Bill 1087)
+Official Title: (House Bill 1087)
+Number of Sections: 4
+Source: versions - Chapter - Health Care Facilities - Surgical Smoke - Smoke Evacuation Systems
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 794
+Chapter 794
+AN ACT concerning
+Health Care Facilities – Surgical Smoke – Smoke Evacuation Systems
+FOR the purpose of requiring health care facilities that perform surgical procedures to
+adopt and implement policies that require the use of a smoke evacuation system
+during a surgical procedure that may generate surgical smoke; and generally
+relating to smoke evacuation systems in health care facilities.
+BY adding to
+Article – Health – General
+
+Section 2:
+Section 19–1001 and 19–1002 to be under the new subtitle “Subtitle 10. Surgical
+Smoke Evacuation Systems”
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+
+Section 3:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Health – General
+SUBTITLE 10. SURGICAL SMOKE EVACUATION SYSTEMS.
+19–1001.
+(A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+(B) “HEALTH CARE FACILITY” MEANS:
+(1) A HOSPITAL, AS DEFINED IN § 19–301 OF THIS TITLE;
+(2) A LIMITED SERVICE HOSPITAL, AS DEFINED IN § 19–301 OF THIS
+TITLE;
+(3) A RELATED INSTITUTION, AS DEFINED IN § 19–301 OF THIS TITLE;
+(4) AN AMBULATORY SURGICAL FACILITY; OR
+(5) A FREESTANDING MEDICAL FACILITY, AS DEFINED IN § 19–3A–01
+OF THIS TITLE.
+– 1 –
+Ch. 794 2026 LAWS OF MARYLAND
+(C) “SMOKE EVACUATION SYSTEM” MEANS EQUIPMENT THAT EFFECTIVELY
+CAPTURES AND FILTERS SURGICAL SMOKE AT THE SITE OF ORIGIN BEFORE THE
+SURGICAL SMOKE MAKES CONTACT WITH THE EYES OR RESPIRATORY TRACT OF
+OCCUPANTS IN THE ROOM.
+(D) “SURGICAL SMOKE” MEANS THE GASEOUS BY–PRODUCT PRODUCED BY
+ENERGY–GENERATING DEVICES, INCLUDING SURGICAL PLUME, SMOKE PLUME,
+BIO–AEROSOLS, LASER–GENERATED AIRBORNE CONTAMINANTS, OR
+LUNG–DAMAGING DUST.
+19–1002.
+BY JANUARY 1, 2028, EACH HEALTH CARE FACILITY THAT PERFORMS
+SURGICAL PROCEDURES SHALL ADOPT AND IMPLEMENT POLICIES THAT REQUIRE
+THE USE OF A SMOKE EVACUATION SYSTEM DURING A SURGICAL PROCEDURE THAT
+MAY GENERATE SURGICAL SMOKE.
+
+Section 4:
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, May 26, 2026.
+– 2 –
+[DELETED: W C a s p t m g s s a gAA(S1.SSES.  U M V Y() N T S T F W H T M() “H”:EY  ( A,§11;L     ( A,§1L     ( A,§11;N     ( A;Y  ( A,§1Y   ]
+[DELETED:  2 () “SMM  S M C W T E O T O() “S”UE YPYG DS I S PE S PE,,,OAS LRG A CS O,–,GD.BJ1,2 A   E H C F T PS A B I F E T t A s t e]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 794
+Chapter 794
+(House Bill 1087)
+AN ACT concerning
+Health Care Facilities – Surgical Smoke – Smoke Evacuation Systems
+FOR the purpose of requiring health care facilities that perform surgical procedures to
+adopt and implement policies that require the use of a smoke evacuation system
+during a surgical procedure that may generate surgical smoke; and generally
+relating to smoke evacuation systems in health care facilities.
+BY adding to
+Article – Health – General
+Section 19–1001 and 19–1002 to be under the new subtitle “Subtitle 10. Surgical
+Smoke Evacuation Systems”
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Health – General
+SUBTITLE 10. SURGICAL SMOKE EVACUATION SYSTEMS.
+19–1001.
+(A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+(B) “HEALTH CARE FACILITY” MEANS:
+(1) A HOSPITAL, AS DEFINED IN § 19–301 OF THIS TITLE;
+(2) A LIMITED SERVICE HOSPITAL, AS DEFINED IN § 19–301 OF THIS
+TITLE;
+(3) A RELATED INSTITUTION, AS DEFINED IN § 19–301 OF THIS TITLE;
+(4) AN AMBULATORY SURGICAL FACILITY; OR
+(5) A FREESTANDING MEDICAL FACILITY, AS DEFINED IN § 19–3A–01
+OF THIS TITLE.
+– 1 –
+
+Ch. 794 2026 LAWS OF MARYLAND
+(C) “SMOKE EVACUATION SYSTEM” MEANS EQUIPMENT THAT EFFECTIVELY
+CAPTURES AND FILTERS SURGICAL SMOKE AT THE SITE OF ORIGIN BEFORE THE
+SURGICAL SMOKE MAKES CONTACT WITH THE EYES OR RESPIRATORY TRACT OF
+OCCUPANTS IN THE ROOM.
+(D) “SURGICAL SMOKE” MEANS THE GASEOUS BY–PRODUCT PRODUCED BY
+ENERGY–GENERATING DEVICES, INCLUDING SURGICAL PLUME, SMOKE PLUME,
+BIO–AEROSOLS, LASER–GENERATED AIRBORNE CONTAMINANTS, OR
+LUNG–DAMAGING DUST.
+19–1002.
+BY JANUARY 1, 2028, EACH HEALTH CARE FACILITY THAT PERFORMS
+SURGICAL PROCEDURES SHALL ADOPT AND IMPLEMENT POLICIES THAT REQUIRE
+THE USE OF A SMOKE EVACUATION SYSTEM DURING A SURGICAL PROCEDURE THAT
+MAY GENERATE SURGICAL SMOKE.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, May 26, 2026.
+– 2 –
+
+[DELETED: W C a s p t m g s s a gAA(S1.SSES.  U M V Y() N T S T F W H T M() “H”:EY  ( A,§11;L     ( A,§1L     ( A,§11;N     ( A;Y  ( A,§1Y   ]
+[DELETED:  2 () “SMM  S M C W T E O T O() “S”UE YPYG DS I S PE S PE,,,OAS LRG A CS O,–,GD.BJ1,2 A   E H C F T PS A B I F E T t A s t e]

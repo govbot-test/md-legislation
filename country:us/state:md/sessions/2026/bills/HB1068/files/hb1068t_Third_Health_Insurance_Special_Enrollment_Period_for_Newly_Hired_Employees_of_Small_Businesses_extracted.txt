@@ -1,0 +1,276 @@
+Title: HOUSE BILL 1068
+Official Title: HOUSE BILL 1068
+Number of Sections: 1
+Source: versions - Third - Health Insurance - Special Enrollment Period for Newly Hired Employees of Small Businesses
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+J5 6lr2114
+By: Delegate Solomon Delegates Solomon, Alston, Bagnall, Cullison, Guzzone,
+Hill, Hutchinson, S. Johnson, Kaufman, Kipke, Lopez, Martinez, Rosenberg,
+Ross, Taveras, White Holland, and Woorman
+Introduced and read first time: February 10, 2026
+Assigned to: Health
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 26, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Health Insurance – Special Enrollment Period for Newly Hired Employees of
+3 Small Businesses
+4 FOR the purpose of requiring certain health insurance carriers to provide certain special
+5 enrollment periods for individuals who become employed by small employers that do
+6 not offer employer–sponsored health plans and the individual’s dependents; and
+7 generally relating to special enrollment periods for health insurance.
+8 BY repealing and reenacting, with amendments,
+9 Article – Insurance
+10 Section 15–1316(c) 15–1316(a) and (c) through (f)
+11 Annotated Code of Maryland
+12 (2017 Replacement Volume and 2025 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Insurance
+16 15–1316.
+17 (a) (1) In this section the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1068*
+2 HOUSE BILL 1068
+1 (2) “Dependent” means an individual who is or who may become eligible
+2 for coverage under the terms of a health benefit plan because of a relationship with another
+3 individual.
+4 (3) “EMPLOYER–SPONSORED HEALTH BENEFIT PLAN” HAS THE
+5 MEANING STATED IN § 15–1104(A) OF THIS TITLE.
+6 [(3)] (4) “Health care practitioner” has the meaning stated in § 1–301 of
+7 the Health Occupations Article.
+8 [(4)] (5) “Qualifying coverage in an eligible employer–sponsored plan”
+9 has the meaning stated in 45 C.F.R. § 155.300.
+10 (6) “SMALL EMPLOYER” HAS THE MEANING STATED IN § 31–101(AA)
+11 OF THIS ARTICLE.
+12 (c) A carrier participating in the Individual Exchange shall provide:
+13 (1) the special enrollment periods specified in 45 C.F.R. § 155.420 for
+14 individuals who purchase coverage through the Individual Exchange; [and]
+15 (2) a special enrollment period for an individual who purchases coverage
+16 through the Individual Exchange if the individual or a dependent of the individual becomes
+17 pregnant, as confirmed by a health care practitioner; AND
+18 (3) A SPECIAL ENROLLMENT PERIOD FOR:
+19 (I) AN INDIVIDUAL WHO:
+20 1. PURCHASES COVERAGE THROUGH THE INDIVIDUAL
+21 EXCHANGE BECAUSE THE INDIVIDUAL HAS BECOME EMPLOYED TO WORK A
+22 MINIMUM OF 30 HOURS PER WEEK BY A SMALL EMPLOYER THAT DOES NOT OFFER
+23 AN EMPLOYER–SPONSORED HEALTH BENEFIT PLAN; AND
+24 2. PROVIDES THE INDIVIDUAL EXCHANGE WITH A FORM
+25 DEVELOPED BY THE COMMISSIONER AND COMPLETED BY THE EMPLOYER THAT
+26 INDICATES:
+27 A. THE FIRST DAY OF EMPLOYMENT OF THE INDIVIDUAL;
+28 AND
+29 B. THAT THE INDIVIDUAL WAS HIRED TO WORK A
+30 MINIMUM OF 30 HOURS PER WEEK; AND
+HOUSE BILL 1068 3
+1 (II) EACH DEPENDENT OF THE INDIVIDUAL DESCRIBED IN ITEM
+2 (I) OF THIS ITEM.
+3 (d) A carrier shall provide:
+4 (1) the special enrollment periods specified in 45 C.F.R. § 147.104(b)(2) for
+5 individuals who purchase coverage outside the Individual Exchange; [and]
+6 (2) a special enrollment period for an individual who purchases coverage
+7 outside the Individual Exchange if the individual or a dependent of the individual becomes
+8 pregnant, as confirmed by a health care practitioner; AND
+9 (3) A SPECIAL ENROLLMENT PERIOD FOR:
+10 (I) AN INDIVIDUAL WHO:
+11 1. PURCHASES COVERAGE OUTSIDE THE INDIVIDUAL
+12 EXCHANGE BECAUSE THE INDIVIDUAL HAS BECOME EMPLOYED TO WORK A
+13 MINIMUM OF 30 HOURS PER WEEK BY A SMALL EMPLOYER THAT DOES NOT OFFER
+14 AN EMPLOYER–SPONSORED HEALTH BENEFIT PLAN; AND
+15 2. PROVIDES THE CARRIER WITH A FORM DEVELOPED
+16 BY THE COMMISSIONER AND COMPLETED BY THE EMPLOYER THAT INDICATES:
+17 A. THE FIRST DAY OF EMPLOYMENT OF THE INDIVIDUAL;
+18 AND
+19 B. THAT THE INDIVIDUAL WAS HIRED TO WORK A
+20 MINIMUM OF 30 HOURS PER WEEK; AND
+21 (II) EACH DEPENDENT OF THE INDIVIDUAL DESCRIBED IN ITEM
+22 (I) OF THIS ITEM.
+23 (e) (1) A special enrollment period described in subsection (c)(2) or (d)(2) of this
+24 section shall:
+25 [(1)] (I) be open for a period of 90 days; and
+26 [(2)] (II) begin on the date the health care practitioner confirms the
+27 pregnancy.
+28 (2) A SPECIAL ENROLLMENT PERIOD DESCRIBED IN SUBSECTION
+29 (C)(3) OR (D)(3) OF THIS SECTION SHALL:
+30 (I) BE OPEN FOR A PERIOD OF 60 DAYS; AND
+4 HOUSE BILL 1068
+1 (II) BEGIN ON THE FIRST DAY OF EMPLOYMENT OF THE
+2 INDIVIDUAL BY A SMALL EMPLOYER THAT DOES NOT OFFER AN
+3 EMPLOYER–SPONSORED HEALTH BENEFIT PLAN AS INDICATED ON THE FORM
+4 DEVELOPED BY THE COMMISSIONER, COMPLETED BY THE EMPLOYER, AND
+5 PROVIDED TO THE INDIVIDUAL EXCHANGE IN ACCORDANCE WITH SUBSECTION
+6 (C)(3)(I)2 OF THIS SECTION OR THE CARRIER IN ACCORDANCE WITH SUBSECTION
+7 (D)(3)(I)2 OF THIS SECTION, AS APPLICABLE.
+8 (f) (1) If an individual enrolls for coverage during one of the open enrollment
+9 periods described in subsection (b) of this section or during one of the special open
+10 enrollment periods described in subsections (c)(1) and (d)(1) of this section, coverage shall
+11 be effective in accordance with the requirements in 45 C.F.R. § 155.420.
+12 (2) If an individual enrolls for coverage or enrolls a dependent for coverage
+13 during a special enrollment period described in subsection (c)(2) or (d)(2) of this section, the
+14 coverage shall become effective on the first day of the month in which the individual
+15 receives confirmation of pregnancy.
+16 (3) IF AN INDIVIDUAL ENROLLS FOR COVERAGE OR ENROLLS A
+17 DEPENDENT FOR COVERAGE DURING A SPECIAL ENROLLMENT PERIOD DESCRIBED
+18 IN SUBSECTION (C)(3) OR (D)(3) OF THIS SECTION, THE COVERAGE SHALL BECOME
+19 EFFECTIVE ON THE FIRST DAY OF THE MONTH FOLLOWING THE DATE OF PLAN
+20 SELECTION.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 January 1, 2027.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      6     D S D S A B C G A H S F e n o e h p a t i d a g B  A  S  A  (  S T A 1  ( ( I]
+[DELETED:  H    ( “ f i   “E–RS H B PN H T  A 1().   () “]( t   () “ c i a e e p]( h   “S”§3(R   AA  ( A   ( t s e p s i 4 C § 1 f i a]   ( a t p ( :  () :A   1  C T T N B T I H B E T W A  RSN ;   2 I N X B T O A C B T E T   A L   B T I W H T W A  K 0;]
+[DELETED: H 3  ()IE  .  ( A   ( t i a]   ( a o p ( :  () :A   1  C O T N B T I H B E T W A  RSN ;   2 C W A F D O:   A L   B T I W H T W A  K 0;  ()IE  .  ( A s   () b] (   () b o t d t h c p c t] ( p ( S E P D I S))()):  D   () 60;B  S ]
+[DELETED:  H   ()IB O T F D O E O T B A S E T D N O ARS H B P A I O T F B T OR C B T ER A, T T N X I A W S)()I )()2,.I N   ( ( I p d i s ( o t s o d o o t s o e b   ( I d c s b e o t f d o t m i w t i r (  A I E F C O E A C  D N ))()) O T F D O T M F T D O P  S A B I F E T t A s t e J          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1068
+J5 6lr2114
+By: Delegate Solomon Delegates Solomon, Alston, Bagnall, Cullison, Guzzone,
+Hill, Hutchinson, S. Johnson, Kaufman, Kipke, Lopez, Martinez, Rosenberg,
+Ross, Taveras, White Holland, and Woorman
+Introduced and read first time: February 10, 2026
+Assigned to: Health
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 26, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Health Insurance – Special Enrollment Period for Newly Hired Employees of
+3 Small Businesses
+4 FOR the purpose of requiring certain health insurance carriers to provide certain special
+5 enrollment periods for individuals who become employed by small employers that do
+6 not offer employer–sponsored health plans and the individual’s dependents; and
+7 generally relating to special enrollment periods for health insurance.
+8 BY repealing and reenacting, with amendments,
+9 Article – Insurance
+10 Section 15–1316(c) 15–1316(a) and (c) through (f)
+11 Annotated Code of Maryland
+12 (2017 Replacement Volume and 2025 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Insurance
+16 15–1316.
+17 (a) (1) In this section the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1068*
+
+2 HOUSE BILL 1068
+1 (2) “Dependent” means an individual who is or who may become eligible
+2 for coverage under the terms of a health benefit plan because of a relationship with another
+3 individual.
+4 (3) “EMPLOYER–SPONSORED HEALTH BENEFIT PLAN” HAS THE
+5 MEANING STATED IN § 15–1104(A) OF THIS TITLE.
+6 [(3)] (4) “Health care practitioner” has the meaning stated in § 1–301 of
+7 the Health Occupations Article.
+8 [(4)] (5) “Qualifying coverage in an eligible employer–sponsored plan”
+9 has the meaning stated in 45 C.F.R. § 155.300.
+10 (6) “SMALL EMPLOYER” HAS THE MEANING STATED IN § 31–101(AA)
+11 OF THIS ARTICLE.
+12 (c) A carrier participating in the Individual Exchange shall provide:
+13 (1) the special enrollment periods specified in 45 C.F.R. § 155.420 for
+14 individuals who purchase coverage through the Individual Exchange; [and]
+15 (2) a special enrollment period for an individual who purchases coverage
+16 through the Individual Exchange if the individual or a dependent of the individual becomes
+17 pregnant, as confirmed by a health care practitioner; AND
+18 (3) A SPECIAL ENROLLMENT PERIOD FOR:
+19 (I) AN INDIVIDUAL WHO:
+20 1. PURCHASES COVERAGE THROUGH THE INDIVIDUAL
+21 EXCHANGE BECAUSE THE INDIVIDUAL HAS BECOME EMPLOYED TO WORK A
+22 MINIMUM OF 30 HOURS PER WEEK BY A SMALL EMPLOYER THAT DOES NOT OFFER
+23 AN EMPLOYER–SPONSORED HEALTH BENEFIT PLAN; AND
+24 2. PROVIDES THE INDIVIDUAL EXCHANGE WITH A FORM
+25 DEVELOPED BY THE COMMISSIONER AND COMPLETED BY THE EMPLOYER THAT
+26 INDICATES:
+27 A. THE FIRST DAY OF EMPLOYMENT OF THE INDIVIDUAL;
+28 AND
+29 B. THAT THE INDIVIDUAL WAS HIRED TO WORK A
+30 MINIMUM OF 30 HOURS PER WEEK; AND
+
+HOUSE BILL 1068 3
+1 (II) EACH DEPENDENT OF THE INDIVIDUAL DESCRIBED IN ITEM
+2 (I) OF THIS ITEM.
+3 (d) A carrier shall provide:
+4 (1) the special enrollment periods specified in 45 C.F.R. § 147.104(b)(2) for
+5 individuals who purchase coverage outside the Individual Exchange; [and]
+6 (2) a special enrollment period for an individual who purchases coverage
+7 outside the Individual Exchange if the individual or a dependent of the individual becomes
+8 pregnant, as confirmed by a health care practitioner; AND
+9 (3) A SPECIAL ENROLLMENT PERIOD FOR:
+10 (I) AN INDIVIDUAL WHO:
+11 1. PURCHASES COVERAGE OUTSIDE THE INDIVIDUAL
+12 EXCHANGE BECAUSE THE INDIVIDUAL HAS BECOME EMPLOYED TO WORK A
+13 MINIMUM OF 30 HOURS PER WEEK BY A SMALL EMPLOYER THAT DOES NOT OFFER
+14 AN EMPLOYER–SPONSORED HEALTH BENEFIT PLAN; AND
+15 2. PROVIDES THE CARRIER WITH A FORM DEVELOPED
+16 BY THE COMMISSIONER AND COMPLETED BY THE EMPLOYER THAT INDICATES:
+17 A. THE FIRST DAY OF EMPLOYMENT OF THE INDIVIDUAL;
+18 AND
+19 B. THAT THE INDIVIDUAL WAS HIRED TO WORK A
+20 MINIMUM OF 30 HOURS PER WEEK; AND
+21 (II) EACH DEPENDENT OF THE INDIVIDUAL DESCRIBED IN ITEM
+22 (I) OF THIS ITEM.
+23 (e) (1) A special enrollment period described in subsection (c)(2) or (d)(2) of this
+24 section shall:
+25 [(1)] (I) be open for a period of 90 days; and
+26 [(2)] (II) begin on the date the health care practitioner confirms the
+27 pregnancy.
+28 (2) A SPECIAL ENROLLMENT PERIOD DESCRIBED IN SUBSECTION
+29 (C)(3) OR (D)(3) OF THIS SECTION SHALL:
+30 (I) BE OPEN FOR A PERIOD OF 60 DAYS; AND
+
+4 HOUSE BILL 1068
+1 (II) BEGIN ON THE FIRST DAY OF EMPLOYMENT OF THE
+2 INDIVIDUAL BY A SMALL EMPLOYER THAT DOES NOT OFFER AN
+3 EMPLOYER–SPONSORED HEALTH BENEFIT PLAN AS INDICATED ON THE FORM
+4 DEVELOPED BY THE COMMISSIONER, COMPLETED BY THE EMPLOYER, AND
+5 PROVIDED TO THE INDIVIDUAL EXCHANGE IN ACCORDANCE WITH SUBSECTION
+6 (C)(3)(I)2 OF THIS SECTION OR THE CARRIER IN ACCORDANCE WITH SUBSECTION
+7 (D)(3)(I)2 OF THIS SECTION, AS APPLICABLE.
+8 (f) (1) If an individual enrolls for coverage during one of the open enrollment
+9 periods described in subsection (b) of this section or during one of the special open
+10 enrollment periods described in subsections (c)(1) and (d)(1) of this section, coverage shall
+11 be effective in accordance with the requirements in 45 C.F.R. § 155.420.
+12 (2) If an individual enrolls for coverage or enrolls a dependent for coverage
+13 during a special enrollment period described in subsection (c)(2) or (d)(2) of this section, the
+14 coverage shall become effective on the first day of the month in which the individual
+15 receives confirmation of pregnancy.
+16 (3) IF AN INDIVIDUAL ENROLLS FOR COVERAGE OR ENROLLS A
+17 DEPENDENT FOR COVERAGE DURING A SPECIAL ENROLLMENT PERIOD DESCRIBED
+18 IN SUBSECTION (C)(3) OR (D)(3) OF THIS SECTION, THE COVERAGE SHALL BECOME
+19 EFFECTIVE ON THE FIRST DAY OF THE MONTH FOLLOWING THE DATE OF PLAN
+20 SELECTION.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 January 1, 2027.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      6     D S D S A B C G A H S F e n o e h p a t i d a g B  A  S  A  (  S T A 1  ( ( I]
+[DELETED:  H    ( “ f i   “E–RS H B PN H T  A 1().   () “]( t   () “ c i a e e p]( h   “S”§3(R   AA  ( A   ( t s e p s i 4 C § 1 f i a]   ( a t p ( :  () :A   1  C T T N B T I H B E T W A  RSN ;   2 I N X B T O A C B T E T   A L   B T I W H T W A  K 0;]
+[DELETED: H 3  ()IE  .  ( A   ( t i a]   ( a o p ( :  () :A   1  C O T N B T I H B E T W A  RSN ;   2 C W A F D O:   A L   B T I W H T W A  K 0;  ()IE  .  ( A s   () b] (   () b o t d t h c p c t] ( p ( S E P D I S))()):  D   () 60;B  S ]
+[DELETED:  H   ()IB O T F D O E O T B A S E T D N O ARS H B P A I O T F B T OR C B T ER A, T T N X I A W S)()I )()2,.I N   ( ( I p d i s ( o t s o d o o t s o e b   ( I d c s b e o t f d o t m i w t i r (  A I E F C O E A C  D N ))()) O T F D O T M F T D O P  S A B I F E T t A s t e J          G               ]

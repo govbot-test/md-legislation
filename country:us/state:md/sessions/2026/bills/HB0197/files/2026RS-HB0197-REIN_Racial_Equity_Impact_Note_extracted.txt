@@ -1,0 +1,358 @@
+Title: Bill Summary
+Official Title: Bill Summary
+Number of Sections: 3
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2026 Session
+HB0197
+Comprehensive Community Safety Funding Act
+The bill establishes an 11% excise tax on the gross receipts from the sale of firearms, firearm
+accessories, or ammunition in the State by a federally licensed firearms dealer located both within
+the State and specified dealers outside the State. The bill requires specified distributions of the
+revenue from the excise tax.
+Racial Equity Impact Statement
+Evidence from government and academic sources suggests that the excise tax imposed by the bill
+would be passed on to consumers in whole or in part. As such, the tax may disproportionately
+affect lower-income households and, by extension, communities of color to the extent the tax is
+passed on to consumers. Any equity benefits realized from programs receiving funding from the
+tax are indirect and may not offset the more immediate effects of the tax. Detailed demographic
+data that would allow for a precise assessment of how the excise tax may influence racial and
+socioeconomic disparities are not available. Additional data regarding the racial and ethnic
+distribution of firearm owners, firearm-related crimes, injuries, or related trauma, as well as
+additional information about federally licensed firearms dealers in Maryland, would be necessary
+to evaluate the bill’s specific impacts.
+Analysis
+Under the bill, the excise tax applies to (1) a retail sale made on or after July 1, 2027, by a federally
+licensed firearms dealer that is a large retailer and (2) a retail sale made by any other federally
+licensed firearms dealer on or after July 1, 2028. The bill provides for several exemptions and
+exclusions from the tax.
+HB 197/ Page 1
+Revenue from the firearm excise tax must be dist ributed as follows:
+ 26% to the Maryland Violence Intervention and Prevention Program Fund;
+ 26% to the Center for Firearm Violence Prevention and Intervention within the Maryland
+Department of Health;
+ 20% to the Coordinated Community Supports Partnership Fund;
+ 20% to the Survivors of Homicide Victims Grant Program within the Governor’s Office of
+Crime Prevention and Policy;
+ 4% to the Maryland Trauma Physician Services Fund; and
+ 4% to the R Adams Cowley Shock Trauma Center at the University of Maryland Medical
+System.
+The federal government imposes an excise tax on firearms and ammunition at a rate of 10% on the
+manufacturer’s price of pistols and revolvers and 11% on the manufacturer’s price of other portable
+weapons (e.g., rifles and shotguns) and ammunition. Federal law is enforced by the Alcohol and
+Tobacco Tax and Trade Bureau of the U.S. Department of Treasury.
+The 6% Maryland sales and use tax applies to the sale of firearms, ammunition, and firearm
+accessories. According to the Bureau of Alcohol, Tobacco, Firearms, and Explosives, in 2025,
+there were approximately 750 dealers with federal firearms licenses in the State.
+California and Colorado have enacted firearm-related excise taxes. California imposes an 11%
+excise tax on gross receipts from retail sales of firearms, firearm precursor parts, and ammunition.
+Colorado enacted a 6.5% excise tax on retail sales of firearms and ammunition, which became
+effective April 1, 2025.
+Impacts of the Bill
+According to the Congressional Research Service and research from both government and
+academic sources, excise taxes imposed on sellers may be passed through to consumers, depending
+on market conditions, competition, and demand elasticity. In situations where sellers do pass
+through the tax to buyers, excise taxes are considered regressive, meaning that households with
+lower incomes pay a larger share of their income in excise tax-related price increases than
+households with higher incomes.
+As shown in Exhibit 1, if the excise tax proposed in the bill is passed through to buyers of firearms
+and firearm accessories, purchasers in certain minority groups will likely be affected the most as
+they have lower median household incomes when compared to white households. Any regressive
+tax places a heavier financial burden on lower-income households, which in Maryland are
+disproportionately Black, Hispanic, and American Indian/Alaska Native households. Accordingly,
+any increase in the prices of items covered by the bill would raise the financial barriers to
+purchasing lawful firearms and firearm-related accessories. Data is not available to determine the
+demographic makeup of firearm and firearm accessory purchasers, an important metric for
+determining the scale of the impact on various groups.
+HB 197/ Page 2
+Exhibit 1
+Maryland Median Household Income by Race and Ethnicity
+2024
+$140,000
+$120,000
+$100,000
+$80,000
+$60,000
+$40,000
+$20,000
+$-
+White Black American Asian Two or more Hispanic or
+Indian and races Latino origin
+Alaska (of any race)
+Native
+Source: U.S. Census Bureau; Department of Legislative Services
+The bill requires revenue from the 11% firearm excise tax to be distributed to several special funds
+and programs. Investments in gun violence prevention and support services may help to reduce
+racial disparities in health and safety outcomes if the funds are directed to communities that have
+historically experienced higher rates of firearm‑related violence and trauma. Black Marylanders
+are overwhelmingly affected by gun violence as compared to other demographic groups. Exhibit 2
+shows fatal and nonfatal firearm-related incidents in Maryland as reported from hospital visits
+statewide between 2022 and 2024. During the time period, Black individuals accounted for 61%
+of fatal injuries and 70% of nonfatal injuries. However, no data is currently available to estimate
+how the allocation of revenue to the funds under the bill may affect the racial disparities associated
+with firearm injuries or deaths in the State.
+HB 197/ Page 3
+Exhibit 2
+Maryland Firearm-related Injuries
+2022-2024
+80%
+70%
+70%
+61%
+60%
+50%
+40%
+31%
+30%
+20%
+11% 11%
+10% 5% 5%
+3%
+0%
+Black White Hispanic Other
+Fatal Firearm Injury Nonfatal Firearm Injury
+Note: Percentages may not total 100% due to rounding.
+Source: Maryland Department of Health
+Conclusion
+Household income in Maryland is stratified by race and ethnicity. Black, Hispanic, and American
+Indian/Alaska Native households generally have lower incomes than white households. To the
+extent the firearm excise tax imposed by the bill is passed through to consumers, the tax may place
+a larger financial burden on lower‑income households and, by extension, households of color.
+However, revenue from the tax may go to support programs that aim to reduce inequities through
+gun violence prevention and related services. This would positively affect all communities, but
+particularly Black communities that are disproportionately victimized by gun violence.
+Accordingly, the bill’s overall impacts on minority groups in the State are likely mixed. Additional
+historical and comprehensive data would be needed to fully assess the bill’s impacts, including
+data on the racial and ethnic distribution of firearm ownership, use, possession, crimes, and related
+trauma, as well as additional information about federally licensed firearms dealers.
+Information Sources: U.S. Census Bureau; Congressional Research Service; Maryland
+Department of Health; Department of Legislative Services
+HB 197/ Page 4
+Analysis by: Dr. Jasmón Bailey
+Published: 02/10/2026
+HB 197/ Page 5
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+
+Section 2:
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+
+Section 3:
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+HB 197/ Page 6
+[DELETED:  d a n a A d r t r a e o f o f c i o r t a w a]
+[DELETED:  t t C R S a r f b g a I w i p a l s o t i i e t p i t p a h f b o l h w i M a i i t p o i c b t b w r t f b t m o f a f a p a i m f]
+[DELETED: eBkAnAnTeHdrsLa(]
+[DELETED:  B c t a d v b g v S  U C B C R S M%5%1kWeHcOyN]
+[DELETED:  ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]
+
+
+================================================================================
+
+Raw Text:
+2026 Session
+HB0197
+Comprehensive Community Safety Funding Act
+Bill Summary
+The bill establishes an 11% excise tax on the gross receipts from the sale of firearms, firearm
+accessories, or ammunition in the State by a federally licensed firearms dealer located both within
+the State and specified dealers outside the State. The bill requires specified distributions of the
+revenue from the excise tax.
+Racial Equity Impact Statement
+Evidence from government and academic sources suggests that the excise tax imposed by the bill
+would be passed on to consumers in whole or in part. As such, the tax may disproportionately
+affect lower-income households and, by extension, communities of color to the extent the tax is
+passed on to consumers. Any equity benefits realized from programs receiving funding from the
+tax are indirect and may not offset the more immediate effects of the tax. Detailed demographic
+data that would allow for a precise assessment of how the excise tax may influence racial and
+socioeconomic disparities are not available. Additional data regarding the racial and ethnic
+distribution of firearm owners, firearm-related crimes, injuries, or related trauma, as well as
+additional information about federally licensed firearms dealers in Maryland, would be necessary
+to evaluate the bill’s specific impacts.
+Analysis
+Under the bill, the excise tax applies to (1) a retail sale made on or after July 1, 2027, by a federally
+licensed firearms dealer that is a large retailer and (2) a retail sale made by any other federally
+licensed firearms dealer on or after July 1, 2028. The bill provides for several exemptions and
+exclusions from the tax.
+HB 197/ Page 1
+
+Revenue from the firearm excise tax must be dist ributed as follows:
+ 26% to the Maryland Violence Intervention and Prevention Program Fund;
+ 26% to the Center for Firearm Violence Prevention and Intervention within the Maryland
+Department of Health;
+ 20% to the Coordinated Community Supports Partnership Fund;
+ 20% to the Survivors of Homicide Victims Grant Program within the Governor’s Office of
+Crime Prevention and Policy;
+ 4% to the Maryland Trauma Physician Services Fund; and
+ 4% to the R Adams Cowley Shock Trauma Center at the University of Maryland Medical
+System.
+The federal government imposes an excise tax on firearms and ammunition at a rate of 10% on the
+manufacturer’s price of pistols and revolvers and 11% on the manufacturer’s price of other portable
+weapons (e.g., rifles and shotguns) and ammunition. Federal law is enforced by the Alcohol and
+Tobacco Tax and Trade Bureau of the U.S. Department of Treasury.
+The 6% Maryland sales and use tax applies to the sale of firearms, ammunition, and firearm
+accessories. According to the Bureau of Alcohol, Tobacco, Firearms, and Explosives, in 2025,
+there were approximately 750 dealers with federal firearms licenses in the State.
+California and Colorado have enacted firearm-related excise taxes. California imposes an 11%
+excise tax on gross receipts from retail sales of firearms, firearm precursor parts, and ammunition.
+Colorado enacted a 6.5% excise tax on retail sales of firearms and ammunition, which became
+effective April 1, 2025.
+Impacts of the Bill
+According to the Congressional Research Service and research from both government and
+academic sources, excise taxes imposed on sellers may be passed through to consumers, depending
+on market conditions, competition, and demand elasticity. In situations where sellers do pass
+through the tax to buyers, excise taxes are considered regressive, meaning that households with
+lower incomes pay a larger share of their income in excise tax-related price increases than
+households with higher incomes.
+As shown in Exhibit 1, if the excise tax proposed in the bill is passed through to buyers of firearms
+and firearm accessories, purchasers in certain minority groups will likely be affected the most as
+they have lower median household incomes when compared to white households. Any regressive
+tax places a heavier financial burden on lower-income households, which in Maryland are
+disproportionately Black, Hispanic, and American Indian/Alaska Native households. Accordingly,
+any increase in the prices of items covered by the bill would raise the financial barriers to
+purchasing lawful firearms and firearm-related accessories. Data is not available to determine the
+demographic makeup of firearm and firearm accessory purchasers, an important metric for
+determining the scale of the impact on various groups.
+HB 197/ Page 2
+
+Exhibit 1
+Maryland Median Household Income by Race and Ethnicity
+2024
+$140,000
+$120,000
+$100,000
+$80,000
+$60,000
+$40,000
+$20,000
+$-
+White Black American Asian Two or more Hispanic or
+Indian and races Latino origin
+Alaska (of any race)
+Native
+Source: U.S. Census Bureau; Department of Legislative Services
+The bill requires revenue from the 11% firearm excise tax to be distributed to several special funds
+and programs. Investments in gun violence prevention and support services may help to reduce
+racial disparities in health and safety outcomes if the funds are directed to communities that have
+historically experienced higher rates of firearm‑related violence and trauma. Black Marylanders
+are overwhelmingly affected by gun violence as compared to other demographic groups. Exhibit 2
+shows fatal and nonfatal firearm-related incidents in Maryland as reported from hospital visits
+statewide between 2022 and 2024. During the time period, Black individuals accounted for 61%
+of fatal injuries and 70% of nonfatal injuries. However, no data is currently available to estimate
+how the allocation of revenue to the funds under the bill may affect the racial disparities associated
+with firearm injuries or deaths in the State.
+HB 197/ Page 3
+
+Exhibit 2
+Maryland Firearm-related Injuries
+2022-2024
+80%
+70%
+70%
+61%
+60%
+50%
+40%
+31%
+30%
+20%
+11% 11%
+10% 5% 5%
+3%
+0%
+Black White Hispanic Other
+Fatal Firearm Injury Nonfatal Firearm Injury
+Note: Percentages may not total 100% due to rounding.
+Source: Maryland Department of Health
+Conclusion
+Household income in Maryland is stratified by race and ethnicity. Black, Hispanic, and American
+Indian/Alaska Native households generally have lower incomes than white households. To the
+extent the firearm excise tax imposed by the bill is passed through to consumers, the tax may place
+a larger financial burden on lower‑income households and, by extension, households of color.
+However, revenue from the tax may go to support programs that aim to reduce inequities through
+gun violence prevention and related services. This would positively affect all communities, but
+particularly Black communities that are disproportionately victimized by gun violence.
+Accordingly, the bill’s overall impacts on minority groups in the State are likely mixed. Additional
+historical and comprehensive data would be needed to fully assess the bill’s impacts, including
+data on the racial and ethnic distribution of firearm ownership, use, possession, crimes, and related
+trauma, as well as additional information about federally licensed firearms dealers.
+Information Sources: U.S. Census Bureau; Congressional Research Service; Maryland
+Department of Health; Department of Legislative Services
+HB 197/ Page 4
+
+Analysis by: Dr. Jasmón Bailey
+Published: 02/10/2026
+HB 197/ Page 5
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+HB 197/ Page 6
+
+[DELETED:  d a n a A d r t r a e o f o f c i o r t a w a]
+[DELETED:  t t C R S a r f b g a I w i p a l s o t i i e t p i t p a h f b o l h w i M a i i t p o i c b t b w r t f b t m o f a f a p a i m f]
+[DELETED: eBkAnAnTeHdrsLa(]
+[DELETED:  B c t a d v b g v S  U C B C R S M%5%1kWeHcOyN]
+[DELETED:  ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]

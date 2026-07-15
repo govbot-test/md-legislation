@@ -1,0 +1,483 @@
+Title: (Senate Bill 556)
+Official Title: (Senate Bill 556)
+Number of Sections: 18
+Source: versions - Chapter - Water Companies, Sewage Disposal Companies, and Water and Sewage Disposal Companies - Limited-Income Mechanisms
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 525
+Chapter 525
+AN ACT concerning
+Water Companies, Sewage Disposal Companies, and Water and Sewage Disposal
+Companies – Rate Consolidation and Limited–Income Mechanisms
+FOR the purpose of requiring the Public Service Commission to authorize certain rate
+consolidations involving two or more water systems or sewage disposal systems;
+requiring the Commission to allow water companies, sewage disposal companies, and
+water and sewage disposal companies to aggregate certain revenues and costs for
+certain purposes; authorizing the Commission to order gradual adjustments to
+certain rates charged to a system over a certain time period; applying certain
+provisions of law regarding limited–income mechanisms to water companies, sewage
+disposal companies, and water and sewage disposal companies; authorizing the
+Public Service Commission to require a water company, sewage disposal company,
+or water and sewage disposal company to adopt a certain limited–income
+mechanism; requiring the Commission to study the feasibility of requiring certain
+companies to adopt a limited–income mechanism to benefit limited–income
+customers; and generally relating to water companies, sewage disposal companies,
+and water and sewage disposal companies.
+BY repealing and reenacting, without amendments,
+Article – Public Utilities
+
+Section 2:
+Section 1–101(a), (z), (gg), and (uu) and 4–309(d)
+Annotated Code of Maryland
+(2025 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Public Utilities
+
+Section 3:
+Section 4–307 and 4–309(a) and (e) 4–309
+Annotated Code of Maryland
+(2025 Replacement Volume and 2025 Supplement)
+
+Section 4:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Public Utilities
+1–101.
+(a) In this division the following words have the meanings indicated.
+– 1 –
+Ch. 525 2026 LAWS OF MARYLAND
+(z) (1) “Public service company” means a common carrier company, electric
+company, gas company, sewage disposal company, telegraph company, telephone company,
+water company, or any combination of public service companies.
+(2) “Public service company” does not include:
+(i) a campground that provides water, electric, gas, sewage, or
+telephone service to campers incident to the campground’s primary business of operating
+and maintaining the campground; or
+(ii) a person that owns or operates equipment used for charging
+electric vehicles, including a person that owns or operates:
+
+Section 5:
+1. an electric vehicle charging station;
+
+Section 6:
+2. electric vehicle supply equipment; or
+
+Section 7:
+3. an electric vehicle charging station service company or
+provider.
+(gg) “Sewage disposal company” means a privately owned public service company
+that owns or maintains facilities for the disposal of sewage.
+(uu) “Water company” means a public service company that owns a water plant
+and sells or distributes water for gain.
+4–307.
+(a) (1) In this section[, “rate] THE FOLLOWING WORDS HAVE THE
+MEANINGS INDICATED.
+(2) “RATE consolidation” means the use of the same or similar rates or
+tariff schedules of rates for customers of the same class for two or more water or sewage
+disposal systems even if the systems are not physically interconnected.
+(3) “RATES” INCLUDES FIXED RATES, VOLUMETRIC RATES, TOLLS,
+CHARGES, AND SCHEDULES.
+(4) “SYSTEM” MEANS AN INTERCONNECTED SYSTEM OF FACILITIES
+USED BY A WATER COMPANY, SEWAGE DISPOSAL COMPANY, OR WATER AND SEWAGE
+DISPOSAL COMPANY TO PROVIDE WATER OR SEWAGE DISPOSAL SERVICES.
+[(b) After notice to customers and holding a public hearing and an evidentiary
+hearing, the Commission may authorize a rate consolidation of two or more water or sewage
+disposal systems if:
+– 2 –
+WES MOORE, Governor Ch. 525
+(1) the water or sewage disposal systems have common ownership; and
+(2) the rate consolidation is in the public interest.]
+(B) THIS SECTION APPLIES ONLY TO PUBLIC SERVICE COMPANIES THAT
+ARE WATER COMPANIES, SEWAGE DISPOSAL COMPANIES, OR WATER AND SEWAGE
+DISPOSAL COMPANIES.
+(C) THE COMMISSION SHALL AUTHORIZE A RATE CONSOLIDATION
+PROPOSED BY A PUBLIC SERVICE COMPANY IN A BASE RATE PROCEEDING UNDER §
+4–203 OF THIS TITLE INVOLVING TWO OR MORE WATER SYSTEMS OR SEWAGE
+DISPOSAL SYSTEMS.
+(D) WHEN AUTHORIZING RATE CONSOLIDATION UNDER SUBSECTION (C) OF
+THIS SECTION, THE COMMISSION:
+(1) SHALL ALLOW THE PUBLIC SERVICE COMPANY TO AGGREGATE
+THE REVENUES AND COSTS OF THE WATER SYSTEMS AND SEWAGE DISPOSAL
+SYSTEMS FOR PURPOSES OF DETERMINING APPROPRIATE RATES FOR THE SYSTEMS’
+CUSTOMERS; AND
+(2) MAY ORDER GRADUAL ADJUSTMENTS TO THE RATES CHARGED TO
+A SYSTEM OVER A PERIOD NOT TO EXCEED 3 YEARS UNTIL FULL RATE
+CONSOLIDATION IS ACHIEVED.
+(E) THE COMMISSION:
+(1) MAY NOT DISAPPROVE A RATE CONSOLIDATION PROPOSAL UNDER
+THIS SECTION; AND
+(2) MAY CONDITION THE AUTHORIZATION OF A RATE CONSOLIDATION
+PROPOSAL ONLY AS PROVIDED IN SUBSECTION (D)(2) OF THIS SECTION.
+(F) AFTER THE COMMISSION HAS AUTHORIZED A RATE CONSOLIDATION
+PROPOSAL UNDER THIS SECTION, THE COMMISSION SHALL CONTINUE TO
+AUTHORIZE AND MAINTAIN THE RATE CONSOLIDATION IN SUBSEQUENT ORDERS ON
+APPLICATIONS OF THE PUBLIC SERVICE COMPANY UNDER § 4–203 OF THIS TITLE.
+4–309.
+(a) (1) In this section the following words have the meanings indicated.
+– 3 –
+Ch. 525 2026 LAWS OF MARYLAND
+(2) “Eligible limited–income customer” means a residential customer of a
+utility company with annual income that:
+(i) 1. is at or below 175% of the federal poverty level; or
+
+Section 8:
+2. for a customer at least 67 years of age, is at or below 200%
+of the federal poverty level; or
+(ii) meets a broader designation approved by the Commission.
+(3) “Limited–income mechanism” or “mechanism” means a process
+approved by the Commission under this section to benefit an eligible limited–income
+customer of a utility company.
+(4) “Payment plan” means an agreement between an eligible
+limited–income customer and a utility company to pay an arrearage balance over a specific
+period of time to avoid disconnection of a utility service.
+(5) (i) “Utility company” means:
+
+Section 9:
+1. an electric company[,];
+
+Section 10:
+2. a gas and electric company[, or];
+
+Section 11:
+3. a gas company;
+
+Section 12:
+4. A WATER COMPANY;
+
+Section 13:
+5. A WATER AND SEWAGE DISPOSAL COMPANY; OR
+
+Section 14:
+6. A SEWAGE DISPOSAL COMPANY.
+(ii) “Utility company” does not include a small rural electric
+cooperative.
+(b) The General Assembly finds and declares that the societal benefits of a
+well–constructed limited–income mechanism to benefit Maryland’s eligible limited–income
+customers are in the public interest.
+(c) (1) Subject to the approval of the Commission, a utility company shall
+adopt a limited–income mechanism to benefit an eligible limited–income customer.
+(2) Notwithstanding § 4–503(b) of this title, the mechanism may take the
+form of a program, tariff provision, credit, rate, rider, or other means to assist an eligible
+limited–income customer to afford a utility service.
+– 4 –
+WES MOORE, Governor Ch. 525
+(3) A municipal electric utility may adopt a limited–income mechanism
+subject to the approval of the Commission in the same manner as a utility company in
+accordance with this section.
+(4) THE COMMISSION MAY REQUIRE A WATER COMPANY, SEWAGE
+DISPOSAL COMPANY, OR WATER AND SEWAGE DISPOSAL COMPANY TO ADOPT A
+LIMITED–INCOME MECHANISM SUBJECT TO THE APPROVAL OF THE COMMISSION IN
+THE SAME MANNER AS A UTILITY COMPANY IN ACCORDANCE WITH THIS SECTION.
+(d) (1) A utility company that proposes a limited–income mechanism for
+Commission approval under subsection (c) of this section shall include the proposal in:
+(i) a separate application for approval of the mechanism; or
+(ii) only with the prior approval of the Commission, an application
+for a base rate proceeding, including an alternative rate proceeding, or any other proceeding
+to alter the utility company’s base rates under the authority of the Commission.
+(2) A proposal submitted under this section shall allocate the prudently
+incurred costs of the limited–income mechanism across rate classes.
+(3) The proposal shall include:
+(i) a detailed description of the proposed mechanism;
+(ii) the proposed method for allocating the mechanism’s costs across
+customer classes;
+(iii) the rationale supporting the utility company’s proposal for a
+mechanism to benefit the eligible limited–income customers in the utility company’s service
+territory;
+(iv) a time frame and process for the Commission to review the
+effectiveness of the mechanism after implementation; and
+(v) any other information the Commission considers necessary or
+useful to evaluate the proposal.
+(e) In evaluating a limited–income mechanism, the Commission shall consider:
+(1) the degree to which the mechanism promotes affordability of WATER,
+SEWAGE DISPOSAL, electricity, or natural gas for limited–income customers;
+(2) the public interest in allocating the costs of the mechanism between the
+utility company’s shareholders and rate payers;
+– 5 –
+Ch. 525 2026 LAWS OF MARYLAND
+(3) the impact on rates, utility operating costs, customer arrearages,
+customer disconnections, uncollectible costs, and successful completion of payment plans;
+(4) the ability of a limited–income customer to continue to receive benefits
+when relocating within the same service territory;
+(5) coordination of benefits under the mechanism with any other public or
+private assistance that may be available to the customer;
+(6) a minimum level of support or assistance structure to provide equitable
+availability of limited–income assistance across the State; and
+(7) any other information the Commission considers appropriate.
+(f) If an approved limited–income mechanism requires that the Office of Home
+Energy Programs must certify an eligible limited–income customer’s qualifications to
+participate in a limited–income mechanism, the Office shall certify an eligible
+limited–income customer’s qualifications before the customer may participate in the
+mechanism.
+(g) An eligible limited–income customer who participates in a mechanism under
+this section may also be eligible for other assistance programs offered in the State,
+including those offered by a utility company or the Office of Home Energy Programs, the
+Department of Housing and Community Development, or any other public or private
+source.
+
+Section 15:
+SECTION 2. AND BE IT FURTHER ENACTED, That:
+(a) (1) In this section the following words have the meanings indicated.
+(2) “Eligible limited–income customer” and “limited–income mechanism”
+have the meanings stated in § 4–309 of the Public Utilities Article.
+(3) “Sewage disposal company” and “water company” have the meanings
+stated in § 1–101 of the Public Utilities Article.
+(b) The Public Service Commission shall study the feasibility of requiring the
+following companies to adopt a limited–income mechanism to benefit eligible
+limited–income customers:
+(1) a water company;
+(2) a water and sewage disposal company; and
+(3) a sewage disposal company.
+– 6 –
+WES MOORE, Governor Ch. 525
+(c) On or before December 1, 2026, the Public Service Commission shall report its
+findings to the Governor and, in accordance with § 2–1257 of the State Government Article,
+the General Assembly.
+
+Section 16:
+SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take
+effect July 1, 2027.
+
+Section 17:
+SECTION 2. 4. AND BE IT FURTHER ENACTED, That, except as provided in
+
+Section 18:
+Section 3 of this Act, this Act shall take effect July 1, 2026.
+Approved by the Governor, May 12, 2026.
+– 7 –
+[DELETED: W C r i t o m w s o s d s p a t C t o g a t r c t a s o a c t p a c c a w a s d c a t w a s d c t a a c l t a a l m t b lAA(AA(S( I]
+[DELETED:  2 ( ( “ ( “  ( a c t p w e g s o  ( a p t o o o e u f c   1 a   2 e   3 a e v c s s c o( “( “( I t sn, “ [T F W H T ( “ “R”,,S I F RS V RS TSS S. ( “SM Y Y [)A]
+[DELETED: W C ( t ( t()H S A O T P S C TS S () TH O S A A R C O T T I T O M W S O SS() W(H C N  OC: ( A T P S C T A R A C O T W S A S DSS  ( S O A P N T E  Y U F RD() TC:H O (N  ( D N)).() AF T O H A A R C U T SN T O S C T   E43.( ( I]
+[DELETED:  2  ( “  ( 1 i   2 f  ( m ( “ m o “ m a p b t C u t s t b a e l ( “ p m a a b a e ( ( “s    ay,  []    ay,r .[]   a ;   4 ;Y   5 ;Y    6  ( “ c d n i a s r e( T G A f a d t t s b o a( ( S t t a o t C a u c s ( N]
+[DELETED: W C ( A m e m a a l m TC O M R A W CY S CY O W A S D C T A ADI O( ( A u c t p a l m f  ( a  ( o ( A ( T  ( a  ( t  ( t r s t u c p f a  ( a t f a p f t C t r t  ( a o i t C c n o( I ( tRLy  ( t]
+[DELETED:  2  ( t i o r u o c c a ( t ( c ( a ( a( I P m c a e l c q t i a l m t O s c a e c q b t c m p i t( A s m a b e f o a p o i t S o H a C D o a o p o pS( ( I ( “ ( “( T c t a a l m t b e ( a ( a ( a]
+[DELETED: W C( OSS 2 4 A B I F E T e a p i]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 525
+Chapter 525
+(Senate Bill 556)
+AN ACT concerning
+Water Companies, Sewage Disposal Companies, and Water and Sewage Disposal
+Companies – Rate Consolidation and Limited–Income Mechanisms
+FOR the purpose of requiring the Public Service Commission to authorize certain rate
+consolidations involving two or more water systems or sewage disposal systems;
+requiring the Commission to allow water companies, sewage disposal companies, and
+water and sewage disposal companies to aggregate certain revenues and costs for
+certain purposes; authorizing the Commission to order gradual adjustments to
+certain rates charged to a system over a certain time period; applying certain
+provisions of law regarding limited–income mechanisms to water companies, sewage
+disposal companies, and water and sewage disposal companies; authorizing the
+Public Service Commission to require a water company, sewage disposal company,
+or water and sewage disposal company to adopt a certain limited–income
+mechanism; requiring the Commission to study the feasibility of requiring certain
+companies to adopt a limited–income mechanism to benefit limited–income
+customers; and generally relating to water companies, sewage disposal companies,
+and water and sewage disposal companies.
+BY repealing and reenacting, without amendments,
+Article – Public Utilities
+Section 1–101(a), (z), (gg), and (uu) and 4–309(d)
+Annotated Code of Maryland
+(2025 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Public Utilities
+Section 4–307 and 4–309(a) and (e) 4–309
+Annotated Code of Maryland
+(2025 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Public Utilities
+1–101.
+(a) In this division the following words have the meanings indicated.
+– 1 –
+
+Ch. 525 2026 LAWS OF MARYLAND
+(z) (1) “Public service company” means a common carrier company, electric
+company, gas company, sewage disposal company, telegraph company, telephone company,
+water company, or any combination of public service companies.
+(2) “Public service company” does not include:
+(i) a campground that provides water, electric, gas, sewage, or
+telephone service to campers incident to the campground’s primary business of operating
+and maintaining the campground; or
+(ii) a person that owns or operates equipment used for charging
+electric vehicles, including a person that owns or operates:
+1. an electric vehicle charging station;
+2. electric vehicle supply equipment; or
+3. an electric vehicle charging station service company or
+provider.
+(gg) “Sewage disposal company” means a privately owned public service company
+that owns or maintains facilities for the disposal of sewage.
+(uu) “Water company” means a public service company that owns a water plant
+and sells or distributes water for gain.
+4–307.
+(a) (1) In this section[, “rate] THE FOLLOWING WORDS HAVE THE
+MEANINGS INDICATED.
+(2) “RATE consolidation” means the use of the same or similar rates or
+tariff schedules of rates for customers of the same class for two or more water or sewage
+disposal systems even if the systems are not physically interconnected.
+(3) “RATES” INCLUDES FIXED RATES, VOLUMETRIC RATES, TOLLS,
+CHARGES, AND SCHEDULES.
+(4) “SYSTEM” MEANS AN INTERCONNECTED SYSTEM OF FACILITIES
+USED BY A WATER COMPANY, SEWAGE DISPOSAL COMPANY, OR WATER AND SEWAGE
+DISPOSAL COMPANY TO PROVIDE WATER OR SEWAGE DISPOSAL SERVICES.
+[(b) After notice to customers and holding a public hearing and an evidentiary
+hearing, the Commission may authorize a rate consolidation of two or more water or sewage
+disposal systems if:
+– 2 –
+
+WES MOORE, Governor Ch. 525
+(1) the water or sewage disposal systems have common ownership; and
+(2) the rate consolidation is in the public interest.]
+(B) THIS SECTION APPLIES ONLY TO PUBLIC SERVICE COMPANIES THAT
+ARE WATER COMPANIES, SEWAGE DISPOSAL COMPANIES, OR WATER AND SEWAGE
+DISPOSAL COMPANIES.
+(C) THE COMMISSION SHALL AUTHORIZE A RATE CONSOLIDATION
+PROPOSED BY A PUBLIC SERVICE COMPANY IN A BASE RATE PROCEEDING UNDER §
+4–203 OF THIS TITLE INVOLVING TWO OR MORE WATER SYSTEMS OR SEWAGE
+DISPOSAL SYSTEMS.
+(D) WHEN AUTHORIZING RATE CONSOLIDATION UNDER SUBSECTION (C) OF
+THIS SECTION, THE COMMISSION:
+(1) SHALL ALLOW THE PUBLIC SERVICE COMPANY TO AGGREGATE
+THE REVENUES AND COSTS OF THE WATER SYSTEMS AND SEWAGE DISPOSAL
+SYSTEMS FOR PURPOSES OF DETERMINING APPROPRIATE RATES FOR THE SYSTEMS’
+CUSTOMERS; AND
+(2) MAY ORDER GRADUAL ADJUSTMENTS TO THE RATES CHARGED TO
+A SYSTEM OVER A PERIOD NOT TO EXCEED 3 YEARS UNTIL FULL RATE
+CONSOLIDATION IS ACHIEVED.
+(E) THE COMMISSION:
+(1) MAY NOT DISAPPROVE A RATE CONSOLIDATION PROPOSAL UNDER
+THIS SECTION; AND
+(2) MAY CONDITION THE AUTHORIZATION OF A RATE CONSOLIDATION
+PROPOSAL ONLY AS PROVIDED IN SUBSECTION (D)(2) OF THIS SECTION.
+(F) AFTER THE COMMISSION HAS AUTHORIZED A RATE CONSOLIDATION
+PROPOSAL UNDER THIS SECTION, THE COMMISSION SHALL CONTINUE TO
+AUTHORIZE AND MAINTAIN THE RATE CONSOLIDATION IN SUBSEQUENT ORDERS ON
+APPLICATIONS OF THE PUBLIC SERVICE COMPANY UNDER § 4–203 OF THIS TITLE.
+4–309.
+(a) (1) In this section the following words have the meanings indicated.
+– 3 –
+
+Ch. 525 2026 LAWS OF MARYLAND
+(2) “Eligible limited–income customer” means a residential customer of a
+utility company with annual income that:
+(i) 1. is at or below 175% of the federal poverty level; or
+2. for a customer at least 67 years of age, is at or below 200%
+of the federal poverty level; or
+(ii) meets a broader designation approved by the Commission.
+(3) “Limited–income mechanism” or “mechanism” means a process
+approved by the Commission under this section to benefit an eligible limited–income
+customer of a utility company.
+(4) “Payment plan” means an agreement between an eligible
+limited–income customer and a utility company to pay an arrearage balance over a specific
+period of time to avoid disconnection of a utility service.
+(5) (i) “Utility company” means:
+1. an electric company[,];
+2. a gas and electric company[, or];
+3. a gas company;
+4. A WATER COMPANY;
+5. A WATER AND SEWAGE DISPOSAL COMPANY; OR
+6. A SEWAGE DISPOSAL COMPANY.
+(ii) “Utility company” does not include a small rural electric
+cooperative.
+(b) The General Assembly finds and declares that the societal benefits of a
+well–constructed limited–income mechanism to benefit Maryland’s eligible limited–income
+customers are in the public interest.
+(c) (1) Subject to the approval of the Commission, a utility company shall
+adopt a limited–income mechanism to benefit an eligible limited–income customer.
+(2) Notwithstanding § 4–503(b) of this title, the mechanism may take the
+form of a program, tariff provision, credit, rate, rider, or other means to assist an eligible
+limited–income customer to afford a utility service.
+– 4 –
+
+WES MOORE, Governor Ch. 525
+(3) A municipal electric utility may adopt a limited–income mechanism
+subject to the approval of the Commission in the same manner as a utility company in
+accordance with this section.
+(4) THE COMMISSION MAY REQUIRE A WATER COMPANY, SEWAGE
+DISPOSAL COMPANY, OR WATER AND SEWAGE DISPOSAL COMPANY TO ADOPT A
+LIMITED–INCOME MECHANISM SUBJECT TO THE APPROVAL OF THE COMMISSION IN
+THE SAME MANNER AS A UTILITY COMPANY IN ACCORDANCE WITH THIS SECTION.
+(d) (1) A utility company that proposes a limited–income mechanism for
+Commission approval under subsection (c) of this section shall include the proposal in:
+(i) a separate application for approval of the mechanism; or
+(ii) only with the prior approval of the Commission, an application
+for a base rate proceeding, including an alternative rate proceeding, or any other proceeding
+to alter the utility company’s base rates under the authority of the Commission.
+(2) A proposal submitted under this section shall allocate the prudently
+incurred costs of the limited–income mechanism across rate classes.
+(3) The proposal shall include:
+(i) a detailed description of the proposed mechanism;
+(ii) the proposed method for allocating the mechanism’s costs across
+customer classes;
+(iii) the rationale supporting the utility company’s proposal for a
+mechanism to benefit the eligible limited–income customers in the utility company’s service
+territory;
+(iv) a time frame and process for the Commission to review the
+effectiveness of the mechanism after implementation; and
+(v) any other information the Commission considers necessary or
+useful to evaluate the proposal.
+(e) In evaluating a limited–income mechanism, the Commission shall consider:
+(1) the degree to which the mechanism promotes affordability of WATER,
+SEWAGE DISPOSAL, electricity, or natural gas for limited–income customers;
+(2) the public interest in allocating the costs of the mechanism between the
+utility company’s shareholders and rate payers;
+– 5 –
+
+Ch. 525 2026 LAWS OF MARYLAND
+(3) the impact on rates, utility operating costs, customer arrearages,
+customer disconnections, uncollectible costs, and successful completion of payment plans;
+(4) the ability of a limited–income customer to continue to receive benefits
+when relocating within the same service territory;
+(5) coordination of benefits under the mechanism with any other public or
+private assistance that may be available to the customer;
+(6) a minimum level of support or assistance structure to provide equitable
+availability of limited–income assistance across the State; and
+(7) any other information the Commission considers appropriate.
+(f) If an approved limited–income mechanism requires that the Office of Home
+Energy Programs must certify an eligible limited–income customer’s qualifications to
+participate in a limited–income mechanism, the Office shall certify an eligible
+limited–income customer’s qualifications before the customer may participate in the
+mechanism.
+(g) An eligible limited–income customer who participates in a mechanism under
+this section may also be eligible for other assistance programs offered in the State,
+including those offered by a utility company or the Office of Home Energy Programs, the
+Department of Housing and Community Development, or any other public or private
+source.
+SECTION 2. AND BE IT FURTHER ENACTED, That:
+(a) (1) In this section the following words have the meanings indicated.
+(2) “Eligible limited–income customer” and “limited–income mechanism”
+have the meanings stated in § 4–309 of the Public Utilities Article.
+(3) “Sewage disposal company” and “water company” have the meanings
+stated in § 1–101 of the Public Utilities Article.
+(b) The Public Service Commission shall study the feasibility of requiring the
+following companies to adopt a limited–income mechanism to benefit eligible
+limited–income customers:
+(1) a water company;
+(2) a water and sewage disposal company; and
+(3) a sewage disposal company.
+– 6 –
+
+WES MOORE, Governor Ch. 525
+(c) On or before December 1, 2026, the Public Service Commission shall report its
+findings to the Governor and, in accordance with § 2–1257 of the State Government Article,
+the General Assembly.
+SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take
+effect July 1, 2027.
+SECTION 2. 4. AND BE IT FURTHER ENACTED, That, except as provided in
+Section 3 of this Act, this Act shall take effect July 1, 2026.
+Approved by the Governor, May 12, 2026.
+– 7 –
+
+[DELETED: W C r i t o m w s o s d s p a t C t o g a t r c t a s o a c t p a c c a w a s d c a t w a s d c t a a c l t a a l m t b lAA(AA(S( I]
+[DELETED:  2 ( ( “ ( “  ( a c t p w e g s o  ( a p t o o o e u f c   1 a   2 e   3 a e v c s s c o( “( “( I t sn, “ [T F W H T ( “ “R”,,S I F RS V RS TSS S. ( “SM Y Y [)A]
+[DELETED: W C ( t ( t()H S A O T P S C TS S () TH O S A A R C O T T I T O M W S O SS() W(H C N  OC: ( A T P S C T A R A C O T W S A S DSS  ( S O A P N T E  Y U F RD() TC:H O (N  ( D N)).() AF T O H A A R C U T SN T O S C T   E43.( ( I]
+[DELETED:  2  ( “  ( 1 i   2 f  ( m ( “ m o “ m a p b t C u t s t b a e l ( “ p m a a b a e ( ( “s    ay,  []    ay,r .[]   a ;   4 ;Y   5 ;Y    6  ( “ c d n i a s r e( T G A f a d t t s b o a( ( S t t a o t C a u c s ( N]
+[DELETED: W C ( A m e m a a l m TC O M R A W CY S CY O W A S D C T A ADI O( ( A u c t p a l m f  ( a  ( o ( A ( T  ( a  ( t  ( t r s t u c p f a  ( a t f a p f t C t r t  ( a o i t C c n o( I ( tRLy  ( t]
+[DELETED:  2  ( t i o r u o c c a ( t ( c ( a ( a( I P m c a e l c q t i a l m t O s c a e c q b t c m p i t( A s m a b e f o a p o i t S o H a C D o a o p o pS( ( I ( “ ( “( T c t a a l m t b e ( a ( a ( a]
+[DELETED: W C( OSS 2 4 A B I F E T e a p i]

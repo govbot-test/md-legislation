@@ -1,0 +1,400 @@
+Title: Criminal Procedure - Sentencing - Domestic Violence as a
+Official Title: Criminal Procedure - Sentencing - Domestic Violence as a
+Number of Sections: 6
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2026 Session
+SB0138
+Mitigating Factor (Providing Alternatives Through Healing for
+Justice-Involved Individuals (PATH) Act)
+Bill Summary
+This bill authorizes the introduction of evidence that a defendant was the victim of domestic
+violence, and that the domestic violence was a significant contributing factor to the commission
+of the crime for which the defendant was convicted. A court may impose a reduced sentence, as
+specified, if the court finds that domestic violence was a significant contributing factor to the
+defendant’s commission of the crime. The bill limits applicability to a defendant convicted of
+certain crimes and may not be construed to (1) create a separate crime; (2) authorize a court to
+impose a sentence that exceeds the maximum sentence provided by law; (3) establish a defense to
+prosecution; (4) diminish the rights of victims of crime; or (5) prohibit a court from considering
+evidence of domestic violence under any other applicable provision of law.
+Racial Equity Impact Statement
+The bill permits specified victims of domestic violence to offer evidence of their victimization in
+mitigation proceedings when prosecuted for certain offenses, including drug, prostitution,
+burglary, theft, and specified violent crimes. Department of State Police (DSP) crime data for 2024
+and fatality reporting from the Maryland Network Against Domestic Violence provides a detailed
+picture of domestic violence in the State that confirms its prevalence and suggests significant
+harms endured by victims. Women comprised 68% of all domestically related crime victims in the
+State in 2024 and Black women made up 58% of all domestic violence homicides in 2022. There
+is no data available, however, to measure the specific population of prior domestic abuse victims
+who are prosecuted for the eligible crimes under the bill. Limited data suggests that the number of
+eligible individuals under the bill would be small, meaning the provisions of the bill will benefit
+eligible individuals accused of crimes for which domestic violence was a significant contributing
+factor, but the overall impact is likely minimal.
+SB 138/ Page 1
+Analysis
+This bill authorizes a defendant to introduce evidence in court that they were previously a victim
+of domestic violence, and that the domestic violence was a significant contributing factor to the
+commission of the crime for which the defendant was convicted. The mitigating evidence may be
+introduced at sentencing or at a hearing on a motion for modification or reduction of the sentence
+if the motion is within the time frame specified by the bill. The defendant has the burden to
+establish, by a preponderance of the evidence, that domestic violence was a significant contributing
+factor to the defendant’s commission of the crime. Evidence introduced may include records,
+reports, or testimony from the defendant, the defendant’s family members or friends, law
+enforcement officers, medical professionals, counselors, advocates, social workers, or any other
+source the court considers relevant.
+The bill applies only to defendants convicted of the following crimes, as further specified and
+defined under statute:
+ a crime of violence, as defined in § 14-101 of the Criminal Law Article, except (1) murder;
+(2) sexual crimes; or (3) abuse and other offensive conduct, as specified;
+ a violation of Title 5 of the Criminal Law Article (Controlled Dangerous Substances,
+Prescriptions, and Other Substances) when the defendant was compelled to distribute,
+transport, or possess a controlled dangerous substance on behalf of a perpetrator;
+ a violation of Title 11, Subtitle 3 (Prostitution and Related Crimes) or Title 3, Subtitle 11
+(Human Trafficking) of the Criminal Law Article when the violation resulted from
+coercion, domination, or compulsion by a perpetrator;
+ when committed in whole or in part by coercion, control, economic abuse, or other
+circumstances arising from domestic violence (1) extortion and other threats; (2) burglary
+and related crimes or trespassing; (3) theft and related crimes; or (4) bad checks, credit card
+crimes, identity fraud, or counterfeiting and related crimes; and
+ an attempt, conspiracy, or solicitation to commit any offense listed above.
+Definitions
+“Domestic violence” means any of the following acts committed against a victim: (1) an act that
+causes serious bodily harm; (2) an act that places the victim in fear of imminent serious bodily
+harm; (3) assault in any degree; (4) rape or sexual offense under § 3-303, § 3-304, § 3-307, or
+
+Section 2:
+§ 3-308 of the Criminal Law Article or attempted rape or sexual offense in any degree; (5) false
+imprisonment; (6) stalking under § 3-802 of the Criminal Law Article; or (7) revenge porn under
+
+Section 3:
+§ 3-809 of the Criminal Law Article.
+“Victim” means (1) a current or former spouse of a perpetrator; (2) a cohabitant of a perpetrator;
+(3) a person related to a perpetrator by blood, marriage, or adoption; (4) a parent, stepparent, child,
+or stepchild of a perpetrator or perpetrator’s spouse or former spouse who resided with the
+perpetrator or spouse for at least 90 days within one year before the filing of the petition; (5) an
+individual who has a child in common with a perpetrator; or (6) an individual who has had a sexual
+relationship with a perpetrator within one year before the filing of the petition.
+SB 138/ Page 2
+Current Law
+Current law does not specifically address the consideration of an individual’s status as a victim of
+domestic violence during a criminal proceeding against the individual. Statute does, however, set
+forth a limitation on criminal/juvenile proceedings in other circumstances based on an individual’s
+status as a victim of child sex trafficking. Under these provisions, a minor may not be criminally
+prosecuted or subject to certain juvenile proceedings based on specified offenses if the minor
+committed the underlying act as a direct result of being a victim of sex trafficking or being a victim
+of human trafficking.
+Domestic Violence Data Collection in Maryland
+Maryland has been collecting data involving domestic violence since the passage of the Domestic
+Violence Act of 1994, which requires all law enforcement agencies in the State to submit incident
+reports involving domestic violence to DSP. Chapter 554 of 2012 further improved the recording
+and tracking of domestic violence crimes within the court system by requiring all cases designated
+by a court to be a “domestically related crime” to become part of the court record for purposes of
+reporting to the Criminal Justice Information System Central Repository.
+The Administrative Office of the Courts houses the Domestic Violence Monthly Reports database,
+which contains data on protective and peace orders across the State. The database reports the total
+number of protective or peace orders by sex, race, age, and case type of the respondent and is
+searchable by county, month, and year; however, the database does not generate aggregate data
+and does not provide identifying information, criminal history, or the outcome of protective peace
+orders.
+Impacts of the Bill
+The Maryland Domestic Violence Fatality Review State Implementation Team (MD-DVFRSIT)
+collects data on domestic violence deaths. According to its 2023 report, there were 40 total deaths
+due to domestic violence in Maryland in 2022, with 26 victims killed alongside 14 bystanders.
+Moreover, this report found that Black women made up 58% of the domestic violence homicides
+in Maryland. MD-DVFRSIT has not released an updated report since 2023. The report also
+identified 13 abusive partner deaths, which included suicide, deaths by law enforcement, and
+deaths by friends of victims in self-defense.
+According to the 2024 Uniform Crime Report, there were 31,582 reports of domestically related
+crimes in 2024. DSP classifies domestically related crimes as a broad category under which there
+are specific underlying offenses, such as homicide, rape, or a sex offense. A large majority of the
+reports (26,596 or 84%) were domestically related assaults. Of that total, 20% were aggravated
+assaults, which are defined as an unlawful attack by one person upon another for the purpose of
+inflicting severe or aggravated bodily injury. Females made up 68% of all domestic violence
+victims.
+Exhibit 1 illustrates the demographic breakdown of victims of domestically related crimes,
+highlighting the disparity for Black victims. Black victims were 52% of the total victims compared
+to 44% of victims that were white. Asian victims comprised 1.5% of the total, and individuals of
+SB 138/ Page 3
+other races were 2% of the total. Because the d ata is aggregated by race and not ethnicity, the
+percentage of Hispanic victims is unknown.
+Exhibit 1
+Victims of Domestically Related Crimes by Race
+2024
+
+Section 4:
+1.5% 2% 0% 0%
+44%
+52%
+White Black
+Asian Other
+American Indian/ Alaska Native Native Hawaiian/Other Pacific Islander
+Source: 2024 Uniform Crime Report
+Other States
+Illinois, New York, Oklahoma, and Washington have passed laws that allow for victims of
+domestic abuse to present evidence of their abuse for the purposes of sentence mitigation.
+In 2019, New York passed the Domestic Violence Survivors Justice Act (DVSJA), which affords
+survivors the opportunity to receive a lower sentence either at the time of their sentencing or
+retroactively, based on their history of abuse. The Act recognizes there are situations where
+survivors become involved in or commit criminal offenses not just against their abuser, but in other
+instances where domestic violence is a significant contributing factor. According to a 2023 report
+by the Survivors Justice Project, 35 women, 4 men, and 1 non-binary person, 28 of whom are
+people of color, have received retroactive sentencing relief under the DVSJA.
+SB 138/ Page 4
+Conclusion
+Black individuals, specifically Black women, are overrepresented as victims of domestically
+related crimes, and the bill’s intended sentence mitigation would likely be particularly beneficial
+to those victims. However, the implementation to date of New York’s DVSJA suggests difficulty
+in determining which victims would be eligible for the bill’s intended remedies. Data suggests the
+bill would have minimal impacts, but it is unknown to what extent the bill would impact various
+demographic groups in the State without more detailed data on those charged, arrested, and
+convicted of crimes related to domestic violence, including data on their previous status as a victim
+of the domestically related crimes specified by the bill.
+Information Sources: Administrative Office of the Courts; Department of State Police;
+Governor’s Office of Crime Prevention and Policy; Maryland Network Against Domestic
+Violence; The Sentencing Project; Department of Legislative Services
+Analysis by: Rafael Regales
+Published: 02/25/2026
+SB 138/ Page 5
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+
+Section 5:
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+
+Section 6:
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+SB 138/ Page 6
+[DELETED:  p w p f c o i d p]
+[DELETED:  o t f t d t d f m o f l v o 5 o t C L A ( D S a O S w t d w c t d T o t C L A w t v r f c i w o i p b c c e a o o s o a p o p s o f s w r w t]
+[DELETED:  M M h n r a u r s 2 T r a 1 i t d b o v o d r c]
+[DELETED:  N Y O a W h p l t a f v o b o t h o a T A r t a s w%0eBnOeN]
+[DELETED:  i s B w a o a v o d g i t S w m d d o t c a a S  A O o t C D o S P O o C P a P M N A D ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]
+
+
+================================================================================
+
+Raw Text:
+2026 Session
+SB0138
+Criminal Procedure - Sentencing - Domestic Violence as a
+Mitigating Factor (Providing Alternatives Through Healing for
+Justice-Involved Individuals (PATH) Act)
+Bill Summary
+This bill authorizes the introduction of evidence that a defendant was the victim of domestic
+violence, and that the domestic violence was a significant contributing factor to the commission
+of the crime for which the defendant was convicted. A court may impose a reduced sentence, as
+specified, if the court finds that domestic violence was a significant contributing factor to the
+defendant’s commission of the crime. The bill limits applicability to a defendant convicted of
+certain crimes and may not be construed to (1) create a separate crime; (2) authorize a court to
+impose a sentence that exceeds the maximum sentence provided by law; (3) establish a defense to
+prosecution; (4) diminish the rights of victims of crime; or (5) prohibit a court from considering
+evidence of domestic violence under any other applicable provision of law.
+Racial Equity Impact Statement
+The bill permits specified victims of domestic violence to offer evidence of their victimization in
+mitigation proceedings when prosecuted for certain offenses, including drug, prostitution,
+burglary, theft, and specified violent crimes. Department of State Police (DSP) crime data for 2024
+and fatality reporting from the Maryland Network Against Domestic Violence provides a detailed
+picture of domestic violence in the State that confirms its prevalence and suggests significant
+harms endured by victims. Women comprised 68% of all domestically related crime victims in the
+State in 2024 and Black women made up 58% of all domestic violence homicides in 2022. There
+is no data available, however, to measure the specific population of prior domestic abuse victims
+who are prosecuted for the eligible crimes under the bill. Limited data suggests that the number of
+eligible individuals under the bill would be small, meaning the provisions of the bill will benefit
+eligible individuals accused of crimes for which domestic violence was a significant contributing
+factor, but the overall impact is likely minimal.
+SB 138/ Page 1
+
+Analysis
+This bill authorizes a defendant to introduce evidence in court that they were previously a victim
+of domestic violence, and that the domestic violence was a significant contributing factor to the
+commission of the crime for which the defendant was convicted. The mitigating evidence may be
+introduced at sentencing or at a hearing on a motion for modification or reduction of the sentence
+if the motion is within the time frame specified by the bill. The defendant has the burden to
+establish, by a preponderance of the evidence, that domestic violence was a significant contributing
+factor to the defendant’s commission of the crime. Evidence introduced may include records,
+reports, or testimony from the defendant, the defendant’s family members or friends, law
+enforcement officers, medical professionals, counselors, advocates, social workers, or any other
+source the court considers relevant.
+The bill applies only to defendants convicted of the following crimes, as further specified and
+defined under statute:
+ a crime of violence, as defined in § 14-101 of the Criminal Law Article, except (1) murder;
+(2) sexual crimes; or (3) abuse and other offensive conduct, as specified;
+ a violation of Title 5 of the Criminal Law Article (Controlled Dangerous Substances,
+Prescriptions, and Other Substances) when the defendant was compelled to distribute,
+transport, or possess a controlled dangerous substance on behalf of a perpetrator;
+ a violation of Title 11, Subtitle 3 (Prostitution and Related Crimes) or Title 3, Subtitle 11
+(Human Trafficking) of the Criminal Law Article when the violation resulted from
+coercion, domination, or compulsion by a perpetrator;
+ when committed in whole or in part by coercion, control, economic abuse, or other
+circumstances arising from domestic violence (1) extortion and other threats; (2) burglary
+and related crimes or trespassing; (3) theft and related crimes; or (4) bad checks, credit card
+crimes, identity fraud, or counterfeiting and related crimes; and
+ an attempt, conspiracy, or solicitation to commit any offense listed above.
+Definitions
+“Domestic violence” means any of the following acts committed against a victim: (1) an act that
+causes serious bodily harm; (2) an act that places the victim in fear of imminent serious bodily
+harm; (3) assault in any degree; (4) rape or sexual offense under § 3-303, § 3-304, § 3-307, or
+§ 3-308 of the Criminal Law Article or attempted rape or sexual offense in any degree; (5) false
+imprisonment; (6) stalking under § 3-802 of the Criminal Law Article; or (7) revenge porn under
+§ 3-809 of the Criminal Law Article.
+“Victim” means (1) a current or former spouse of a perpetrator; (2) a cohabitant of a perpetrator;
+(3) a person related to a perpetrator by blood, marriage, or adoption; (4) a parent, stepparent, child,
+or stepchild of a perpetrator or perpetrator’s spouse or former spouse who resided with the
+perpetrator or spouse for at least 90 days within one year before the filing of the petition; (5) an
+individual who has a child in common with a perpetrator; or (6) an individual who has had a sexual
+relationship with a perpetrator within one year before the filing of the petition.
+SB 138/ Page 2
+
+Current Law
+Current law does not specifically address the consideration of an individual’s status as a victim of
+domestic violence during a criminal proceeding against the individual. Statute does, however, set
+forth a limitation on criminal/juvenile proceedings in other circumstances based on an individual’s
+status as a victim of child sex trafficking. Under these provisions, a minor may not be criminally
+prosecuted or subject to certain juvenile proceedings based on specified offenses if the minor
+committed the underlying act as a direct result of being a victim of sex trafficking or being a victim
+of human trafficking.
+Domestic Violence Data Collection in Maryland
+Maryland has been collecting data involving domestic violence since the passage of the Domestic
+Violence Act of 1994, which requires all law enforcement agencies in the State to submit incident
+reports involving domestic violence to DSP. Chapter 554 of 2012 further improved the recording
+and tracking of domestic violence crimes within the court system by requiring all cases designated
+by a court to be a “domestically related crime” to become part of the court record for purposes of
+reporting to the Criminal Justice Information System Central Repository.
+The Administrative Office of the Courts houses the Domestic Violence Monthly Reports database,
+which contains data on protective and peace orders across the State. The database reports the total
+number of protective or peace orders by sex, race, age, and case type of the respondent and is
+searchable by county, month, and year; however, the database does not generate aggregate data
+and does not provide identifying information, criminal history, or the outcome of protective peace
+orders.
+Impacts of the Bill
+The Maryland Domestic Violence Fatality Review State Implementation Team (MD-DVFRSIT)
+collects data on domestic violence deaths. According to its 2023 report, there were 40 total deaths
+due to domestic violence in Maryland in 2022, with 26 victims killed alongside 14 bystanders.
+Moreover, this report found that Black women made up 58% of the domestic violence homicides
+in Maryland. MD-DVFRSIT has not released an updated report since 2023. The report also
+identified 13 abusive partner deaths, which included suicide, deaths by law enforcement, and
+deaths by friends of victims in self-defense.
+According to the 2024 Uniform Crime Report, there were 31,582 reports of domestically related
+crimes in 2024. DSP classifies domestically related crimes as a broad category under which there
+are specific underlying offenses, such as homicide, rape, or a sex offense. A large majority of the
+reports (26,596 or 84%) were domestically related assaults. Of that total, 20% were aggravated
+assaults, which are defined as an unlawful attack by one person upon another for the purpose of
+inflicting severe or aggravated bodily injury. Females made up 68% of all domestic violence
+victims.
+Exhibit 1 illustrates the demographic breakdown of victims of domestically related crimes,
+highlighting the disparity for Black victims. Black victims were 52% of the total victims compared
+to 44% of victims that were white. Asian victims comprised 1.5% of the total, and individuals of
+SB 138/ Page 3
+
+other races were 2% of the total. Because the d ata is aggregated by race and not ethnicity, the
+percentage of Hispanic victims is unknown.
+Exhibit 1
+Victims of Domestically Related Crimes by Race
+2024
+1.5% 2% 0% 0%
+44%
+52%
+White Black
+Asian Other
+American Indian/ Alaska Native Native Hawaiian/Other Pacific Islander
+Source: 2024 Uniform Crime Report
+Other States
+Illinois, New York, Oklahoma, and Washington have passed laws that allow for victims of
+domestic abuse to present evidence of their abuse for the purposes of sentence mitigation.
+In 2019, New York passed the Domestic Violence Survivors Justice Act (DVSJA), which affords
+survivors the opportunity to receive a lower sentence either at the time of their sentencing or
+retroactively, based on their history of abuse. The Act recognizes there are situations where
+survivors become involved in or commit criminal offenses not just against their abuser, but in other
+instances where domestic violence is a significant contributing factor. According to a 2023 report
+by the Survivors Justice Project, 35 women, 4 men, and 1 non-binary person, 28 of whom are
+people of color, have received retroactive sentencing relief under the DVSJA.
+SB 138/ Page 4
+
+Conclusion
+Black individuals, specifically Black women, are overrepresented as victims of domestically
+related crimes, and the bill’s intended sentence mitigation would likely be particularly beneficial
+to those victims. However, the implementation to date of New York’s DVSJA suggests difficulty
+in determining which victims would be eligible for the bill’s intended remedies. Data suggests the
+bill would have minimal impacts, but it is unknown to what extent the bill would impact various
+demographic groups in the State without more detailed data on those charged, arrested, and
+convicted of crimes related to domestic violence, including data on their previous status as a victim
+of the domestically related crimes specified by the bill.
+Information Sources: Administrative Office of the Courts; Department of State Police;
+Governor’s Office of Crime Prevention and Policy; Maryland Network Against Domestic
+Violence; The Sentencing Project; Department of Legislative Services
+Analysis by: Rafael Regales
+Published: 02/25/2026
+SB 138/ Page 5
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+SB 138/ Page 6
+
+[DELETED:  p w p f c o i d p]
+[DELETED:  o t f t d t d f m o f l v o 5 o t C L A ( D S a O S w t d w c t d T o t C L A w t v r f c i w o i p b c c e a o o s o a p o p s o f s w r w t]
+[DELETED:  M M h n r a u r s 2 T r a 1 i t d b o v o d r c]
+[DELETED:  N Y O a W h p l t a f v o b o t h o a T A r t a s w%0eBnOeN]
+[DELETED:  i s B w a o a v o d g i t S w m d d o t c a a S  A O o t C D o S P O o C P a P M N A D ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]

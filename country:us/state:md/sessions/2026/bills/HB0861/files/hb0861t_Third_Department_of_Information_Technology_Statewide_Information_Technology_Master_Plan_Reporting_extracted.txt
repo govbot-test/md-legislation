@@ -1,0 +1,177 @@
+Title: HOUSE BILL 861
+Official Title: HOUSE BILL 861
+Number of Sections: 1
+Source: versions - Third - Department of Information Technology - Statewide Information Technology Master Plan - Reporting
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+P1, S1 6lr2876
+CF SB 581
+By: Delegates Kaiser, Amprey, Embry, Fair, Lewis, Pasteur, Rose, Ruff, Smith,
+Solomon, Spiegel, Stinnett, and Tomlinson
+Introduced and read first time: February 4, 2026
+Assigned to: Government, Labor, and Elections
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 3, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Department of Information Technology – Statewide Information Technology
+3 Master Plan – Reporting
+4 FOR the purpose of requiring the Department of Information Technology to post the
+5 Statewide Information Technology Master Plan on its website on or before a certain
+6 date; requiring the Secretary of Information Technology to notify the Governor and
+7 certain committees of the General Assembly if the plan is delayed; requiring the
+8 Secretary of Information Technology, or the Secretary’s designee, to provide a certain
+9 annual briefing to the General Assembly; and generally relating to the Statewide
+10 Information Technology Master Plan.
+11 BY repealing and reenacting, with amendments,
+12 Article – State Finance and Procurement
+13 Section 3.5–304
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2025 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – State Finance and Procurement
+19 3.5–304.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0861*
+2 HOUSE BILL 861
+1 (A) The Secretary shall develop a statewide information technology master plan.
+2 (B) (1) THE PLAN DEVELOPED UNDER SUBSECTION (A) OF THIS SECTION
+3 SHALL BE POSTED PUBLICLY ON THE DEPARTMENT’S WEBSITE AND, IN
+4 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, SUBMITTED
+5 TO THE GENERAL ASSEMBLY WITHIN 6 MONTHS 1 YEAR AFTER THE DATE THE
+6 GOVERNOR IS INAUGURATED IN THE GOVERNOR’S FIRST EACH GUBERNATORIAL
+7 TERM.
+8 (2) IF THE SECRETARY IS UNABLE TO MEET THE DEADLINE
+9 ESTABLISHED UNDER PARAGRAPH (1) OF THIS SUBSECTION, WITHIN 10 DAYS AFTER
+10 THE MISSED DEADLINE, THE SECRETARY SHALL NOTIFY THE GOVERNOR IN
+11 WRITING AND, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
+12 ARTICLE:
+13 (I) THE SENATE BUDGET AND TAXATION COMMITTEE;
+14 (II) THE SENATE COMMITTEE ON EDUCATION, ENERGY, AND
+15 THE ENVIRONMENT;
+16 (III) THE HOUSE APPROPRIATIONS COMMITTEE;
+17 (IV) THE HOUSE GOVERNMENT, LABOR, AND ELECTIONS
+18 COMMITTEE; AND
+19 (V) THE JOINT COMMITTEE ON CYBERSECURITY,
+20 INFORMATION TECHNOLOGY, AND BIOTECHNOLOGY.
+21 (3) THE NOTICE REQUIRED UNDER PARAGRAPH (2) OF THIS
+22 SUBSECTION SHALL INCLUDE AN EXPLANATION OF WHY THE PLAN IS DELAYED AND
+23 PROVIDE A DATE FOR ITS PUBLICATION, NOT TO EXCEED 3 MONTHS AFTER THE
+24 DEADLINE ESTABLISHED UNDER PARAGRAPH (1) OF THIS SUBSECTION.
+25 (C) EACH YEAR, THE SECRETARY, OR THE SECRETARY’S DESIGNEE, SHALL
+26 PROVIDE A BRIEFING TO THE GENERAL ASSEMBLY ON:
+27 (1) THE IMPLEMENTATION OF THE PLAN;
+28 (2) ANY MATERIAL CHANGES MADE TO THE PLAN; AND
+29 (3) HOW THE STATE INTENDS TO MANAGE AND DEPLOY THE
+30 INITIATIVES INCLUDED IN THE PLAN ACROSS THE EXECUTIVE BRANCH OF STATE
+31 GOVERNMENT.
+HOUSE BILL 861 3
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      6   C A D M F t p o r t D o I T t p t S d c r S a I B  A S  A  (  S T A 3]
+[DELETED:  H   T)() ( T(H A  B P P O T ETS W AD I’    T O RE 27SGA T E S W  M  Y A T D TA6G ORS   I T E I U T M T D  N   ),1 M DE T E S N T O IS AD I A W   O T T O§27S:  () SBTC;T E U A O  () SCE,EIT E O O DN NY A N;  () HAC;IT O P O  () HG,L,VT O OT AR A L;E   () JCCT O O O YYT,B. EY  I ( T( N R U P  O T A D F I PN N  M A  ). ) E,S,S’AR  EY  EYSE  E SA: ( ;N ( ;N  (  T T I T M A D T X R TB]
+[DELETED: H 3  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 861
+P1, S1 6lr2876
+CF SB 581
+By: Delegates Kaiser, Amprey, Embry, Fair, Lewis, Pasteur, Rose, Ruff, Smith,
+Solomon, Spiegel, Stinnett, and Tomlinson
+Introduced and read first time: February 4, 2026
+Assigned to: Government, Labor, and Elections
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 3, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Department of Information Technology – Statewide Information Technology
+3 Master Plan – Reporting
+4 FOR the purpose of requiring the Department of Information Technology to post the
+5 Statewide Information Technology Master Plan on its website on or before a certain
+6 date; requiring the Secretary of Information Technology to notify the Governor and
+7 certain committees of the General Assembly if the plan is delayed; requiring the
+8 Secretary of Information Technology, or the Secretary’s designee, to provide a certain
+9 annual briefing to the General Assembly; and generally relating to the Statewide
+10 Information Technology Master Plan.
+11 BY repealing and reenacting, with amendments,
+12 Article – State Finance and Procurement
+13 Section 3.5–304
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2025 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – State Finance and Procurement
+19 3.5–304.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0861*
+
+2 HOUSE BILL 861
+1 (A) The Secretary shall develop a statewide information technology master plan.
+2 (B) (1) THE PLAN DEVELOPED UNDER SUBSECTION (A) OF THIS SECTION
+3 SHALL BE POSTED PUBLICLY ON THE DEPARTMENT’S WEBSITE AND, IN
+4 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, SUBMITTED
+5 TO THE GENERAL ASSEMBLY WITHIN 6 MONTHS 1 YEAR AFTER THE DATE THE
+6 GOVERNOR IS INAUGURATED IN THE GOVERNOR’S FIRST EACH GUBERNATORIAL
+7 TERM.
+8 (2) IF THE SECRETARY IS UNABLE TO MEET THE DEADLINE
+9 ESTABLISHED UNDER PARAGRAPH (1) OF THIS SUBSECTION, WITHIN 10 DAYS AFTER
+10 THE MISSED DEADLINE, THE SECRETARY SHALL NOTIFY THE GOVERNOR IN
+11 WRITING AND, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
+12 ARTICLE:
+13 (I) THE SENATE BUDGET AND TAXATION COMMITTEE;
+14 (II) THE SENATE COMMITTEE ON EDUCATION, ENERGY, AND
+15 THE ENVIRONMENT;
+16 (III) THE HOUSE APPROPRIATIONS COMMITTEE;
+17 (IV) THE HOUSE GOVERNMENT, LABOR, AND ELECTIONS
+18 COMMITTEE; AND
+19 (V) THE JOINT COMMITTEE ON CYBERSECURITY,
+20 INFORMATION TECHNOLOGY, AND BIOTECHNOLOGY.
+21 (3) THE NOTICE REQUIRED UNDER PARAGRAPH (2) OF THIS
+22 SUBSECTION SHALL INCLUDE AN EXPLANATION OF WHY THE PLAN IS DELAYED AND
+23 PROVIDE A DATE FOR ITS PUBLICATION, NOT TO EXCEED 3 MONTHS AFTER THE
+24 DEADLINE ESTABLISHED UNDER PARAGRAPH (1) OF THIS SUBSECTION.
+25 (C) EACH YEAR, THE SECRETARY, OR THE SECRETARY’S DESIGNEE, SHALL
+26 PROVIDE A BRIEFING TO THE GENERAL ASSEMBLY ON:
+27 (1) THE IMPLEMENTATION OF THE PLAN;
+28 (2) ANY MATERIAL CHANGES MADE TO THE PLAN; AND
+29 (3) HOW THE STATE INTENDS TO MANAGE AND DEPLOY THE
+30 INITIATIVES INCLUDED IN THE PLAN ACROSS THE EXECUTIVE BRANCH OF STATE
+31 GOVERNMENT.
+
+HOUSE BILL 861 3
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      6   C A D M F t p o r t D o I T t p t S d c r S a I B  A S  A  (  S T A 3]
+[DELETED:  H   T)() ( T(H A  B P P O T ETS W AD I’    T O RE 27SGA T E S W  M  Y A T D TA6G ORS   I T E I U T M T D  N   ),1 M DE T E S N T O IS AD I A W   O T T O§27S:  () SBTC;T E U A O  () SCE,EIT E O O DN NY A N;  () HAC;IT O P O  () HG,L,VT O OT AR A L;E   () JCCT O O O YYT,B. EY  I ( T( N R U P  O T A D F I PN N  M A  ). ) E,S,S’AR  EY  EYSE  E SA: ( ;N ( ;N  (  T T I T M A D T X R TB]
+[DELETED: H 3  S A B I F E T t A s t e O          G               ]
