@@ -1,0 +1,378 @@
+Title: SENATE BILL 772
+Official Title: SENATE BILL 772
+Number of Sections: 1
+Source: versions - Third - Maryland Department of Health - Employment Training and Opportunity Database
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+J1, O1, P1 6lr2727
+CF HB 1246
+By: Senator Ferguson
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: March 2, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Maryland Department of Health – Employment Training and Opportunity
+3 Database
+4 FOR the purpose of requiring the Maryland Department of Health to establish an
+5 employment training and opportunity database for the purpose of assisting
+6 individuals in the State in finding employment training and other opportunities that
+7 may enable the individuals to become eligible and maintain eligibility for the
+8 Maryland Medical Assistance Program and the Supplemental Nutrition Assistance
+9 Program; requiring the Maryland Department of Health to assist individuals in
+10 enrolling in programs listed in the database; requiring the Maryland Department of
+11 Labor, the Secretary of Human Services, and the Department of Service and Civic
+12 Innovation to establish a process for receiving recommendations for inclusion in the
+13 database and to forward appropriate recommendations to the Maryland Department
+14 of Health; and generally relating to an employment training and opportunity
+15 database.
+16 BY adding to
+17 Article – Business Regulation
+18 Section 2–111
+19 Annotated Code of Maryland
+20 (2024 Replacement Volume and 2025 Supplement)
+21 BY adding to
+22 Article – Health – General
+23 Section 15–160
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0772*
+2 SENATE BILL 772
+1 Annotated Code of Maryland
+2 (2023 Replacement Volume and 2025 Supplement)
+3 BY repealing and reenacting, without amendments,
+4 Article – Human Services
+5 Section 5–101(a) and (g) and 5–304(b)(1) and (c)(1)
+6 Annotated Code of Maryland
+7 (2019 Replacement Volume and 2025 Supplement)
+8 BY adding to
+9 Article – Human Services
+10 Section 5–304(d)
+11 Annotated Code of Maryland
+12 (2019 Replacement Volume and 2025 Supplement)
+13 BY repealing and reenacting, without amendments,
+14 Article – State Government
+15 Section 21–101(a) and (b)
+16 Annotated Code of Maryland
+17 (2021 Replacement Volume and 2025 Supplement)
+18 BY repealing and reenacting, with amendments,
+19 Article – State Government
+20 Section 21–106(b)(7) and (8)
+21 Annotated Code of Maryland
+22 (2021 Replacement Volume and 2025 Supplement)
+23 BY adding to
+24 Article – State Government
+25 Section 21–106(b)(9)
+26 Annotated Code of Maryland
+27 (2021 Replacement Volume and 2025 Supplement)
+28 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+29 That the Laws of Maryland read as follows:
+30 Article – Business Regulation
+31 2–111.
+32 THE DEPARTMENT SHALL:
+33 (1) ESTABLISH A PROCESS THROUGH WHICH A PERSON MAY
+34 RECOMMEND A VOCATIONAL, WORKFORCE, TRAINING, OR JOB PLACEMENT
+35 PROGRAM FOR INCLUSION IN THE DATABASE DEVELOPED AND MAINTAINED UNDER
+36 § 15–160 OF THE HEALTH – GENERAL ARTICLE; AND
+SENATE BILL 772 3
+1 (2) IF APPROPRIATE, FORWARD A RECOMMENDATION MADE UNDER
+2 ITEM (1) OF THIS SECTION TO THE MARYLAND DEPARTMENT OF HEALTH FOR
+3 INCLUSION IN THE DATABASE.
+4 Article – Health – General
+5 15–160.
+6 (A) IN THIS SECTION, “DATABASE” MEANS THE EMPLOYMENT TRAINING
+7 AND OPPORTUNITY DATABASE DEVELOPED AND MAINTAINED UNDER SUBSECTION
+8 (B) OF THIS SECTION.
+9 (B) (1) THE DEPARTMENT SHALL DEVELOP AND MAINTAIN AN
+10 EMPLOYMENT TRAINING AND OPPORTUNITY DATABASE.
+11 (2) THE PURPOSE OF THE DATABASE IS TO PROVIDE INDIVIDUALS IN
+12 THE STATE WITH ASSISTANCE IN FINDING EMPLOYMENT TRAINING AND OTHER
+13 OPPORTUNITIES THAT MAY ENABLE THE INDIVIDUALS TO BECOME ELIGIBLE AND
+14 MAINTAIN ELIGIBILITY FOR:
+15 (I) THE PROGRAM; AND
+16 (II) THE SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM.
+17 (3) IN DEVELOPING AND MAINTAINING THE DATABASE, THE
+18 DEPARTMENT SHALL COORDINATE WITH THE FOLLOWING ENTITIES:
+19 (I) THE MARYLAND DEPARTMENT OF LABOR;
+20 (II) THE DEPARTMENT OF HUMAN SERVICES;
+21 (III) THE DEPARTMENT OF SERVICE AND CIVIC INNOVATION;
+22 (IV) THE MARYLAND CHAMBER OF COMMERCE;
+23 (V) LABOR UNIONS;
+24 (VI) TRADE ASSOCIATIONS;
+25 (VII) EDUCATIONAL INSTITUTIONS;
+26 (VIII) LOCAL WORKFORCE DEVELOPMENT BOARDS; AND
+4 SENATE BILL 772
+1 (IX) ANY OTHER ENTITY THAT THE DEPARTMENT DETERMINES
+2 APPROPRIATE.
+3 (C) THE DATABASE SHALL INCLUDE:
+4 (1) VOCATIONAL, WORKFORCE TRAINING, AND JOB PLACEMENT
+5 PROGRAMS AVAILABLE IN THE STATE;
+6 (2) INFORMATION REGARDING HOW TO APPLY FOR A VOCATIONAL,
+7 WORKFORCE TRAINING, OR JOB PLACEMENT PROGRAM INCLUDED IN THE
+8 DATABASE UNDER ITEM (1) OF THIS SUBSECTION; AND
+9 (3) A MECHANISM THAT ALLOWS AN INDIVIDUAL TO DIRECTLY
+10 CONTACT THE VOCATIONAL, WORKFORCE TRAINING, OR JOB PLACEMENT PROGRAM
+11 IN WHICH THE INDIVIDUAL IS INTERESTED.
+12 (D) THE DEPARTMENT SHALL:
+13 (1) MAKE THE DATABASE AVAILABLE TO THE PUBLIC ON A
+14 DEDICATED PAGE ON THE DEPARTMENT’S WEBSITE;
+15 (2) ASSIST INDIVIDUALS IN ENROLLING IN VOCATIONAL,
+16 WORKFORCE TRAINING, AND JOB PLACEMENT PROGRAMS LISTED IN THE
+17 DATABASE; AND
+18 (3) UPDATE THE DATABASE AT LEAST EVERY 30 DAYS.
+19 Article – Human Services
+20 5–101.
+21 (a) In this title the following words have the meanings indicated.
+22 (g) “Secretary” means the Secretary of Human Services.
+23 5–304.
+24 (b) (1) The Secretary of Budget and Management, with the assistance of the
+25 Secretary, shall develop and implement a plan for hiring current and former recipients,
+26 children of current or former recipients, foster youth, and obligors by the principal
+27 departments within the Executive Branch of State government.
+28 (c) (1) Working with appropriate local government officials, the Secretary and
+29 each local director shall develop and implement a local government hiring plan under which
+SENATE BILL 772 5
+1 local governments may hire current and former recipients, children of current or former
+2 recipients, foster youth, and obligors.
+3 (D) THE SECRETARY SHALL:
+4 (1) ESTABLISH A PROCESS THROUGH WHICH A PERSON MAY
+5 RECOMMEND A VOCATIONAL, WORKFORCE TRAINING, OR JOB PLACEMENT
+6 PROGRAM FOR INCLUSION IN THE DATABASE DEVELOPED AND MAINTAINED UNDER
+7 § 15–160 OF THE HEALTH – GENERAL ARTICLE; AND
+8 (2) IF APPROPRIATE, FORWARD A RECOMMENDATION MADE UNDER
+9 ITEM (1) OF THIS SUBSECTION TO THE MARYLAND DEPARTMENT OF HEALTH FOR
+10 INCLUSION IN THE DATABASE.
+11 Article – State Government
+12 21–101.
+13 (a) In this title the following words have the meanings indicated.
+14 (b) “Department” means the Department of Service and Civic Innovation.
+15 21–106.
+16 (b) The Department shall:
+17 (7) conduct studies and make recommendations to improve volunteer
+18 recruitment and training, volunteer retention, and accountability of volunteer programs;
+19 [and]
+20 (8) provide staff support for the Governor’s Commission on Service and
+21 Volunteerism; AND
+22 (9) (I) ESTABLISH A PROCESS THROUGH WHICH A PERSON MAY
+23 RECOMMEND A VOCATIONAL, WORKFORCE TRAINING, OR JOB PLACEMENT
+24 PROGRAM FOR INCLUSION IN THE DATABASE DEVELOPED AND MAINTAINED UNDER
+25 § 15–160 OF THE HEALTH – GENERAL ARTICLE; AND
+26 (II) IF APPROPRIATE, FORWARD A RECOMMENDATION MADE
+27 UNDER ITEM (I) OF THIS ITEM TO THE MARYLAND DEPARTMENT OF HEALTH FOR
+28 INCLUSION IN THE DATABASE.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+30 October 1, 2026. It shall remain effective for a period of 3 years and, at the end of September
+6 SENATE BILL 772
+1 30, 2029, this Act, with no further action required by the General Assembly, shall be
+2 abrogated and of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6   C A M D F t p o r t M D o H t e a e t a o d f t p o a i m e t i t b e a m e f t M P r t M D o H t a i i e L I d o H a g r t a e t a o d B  A S  A  ( B  A S]
+[DELETED:  S   A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  S T ATD: E ( A P T W A P M A VL WE TG O J P,10H–GA;  E  E RE ]
+[DELETED: S 3 ( E   O T S T T A E O E F)MD A ) I,“N T SN DE M T E T). () ( TH E S D A M A (  T W A I F E T A O  () TP;H RM   () TSNAP.IH U U S R ( I D A M T DE T:  () TMDL;H A E A  () TDHS;IH E U E  () TDSCI;IH E E I N  () TMCC;VH A H O  () L;A  () T;IR  () E;ID  ()L;IOS ]
+[DELETED:  S   () AXN E() T:H ( V,L W TG A J P T; ( IL TG O J P P I I T  N ); ( M T A A I T DL G () TD:H E (  T D A T T P O A ETSE’; ( A I I E I VL TG A J P P L I TE  ( U30.   A 5  ( I  ( “ 5  ( ( T S c o c o f r f y a o b t p d  ( ( W e]
+[DELETED: S 5 l r ) TS:H EL ( A P T W A P M A VL W TG O J P10H–GA;  E  E RE  ( E    A E E)MD A 2  ( I  ( “ 2  ( T   ( c s a m r t i v r] a   ( p s C V ( ()E A P T W A P M A VL W TG O J P10H–GA;  E  E RE   () II AE F A R M I  A E E)MD   S A B I F E T t A s t e O]
+[DELETED:  S  3 2 t A w n f a r b t G A s b a          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 772
+J1, O1, P1 6lr2727
+CF HB 1246
+By: Senator Ferguson
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: March 2, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Maryland Department of Health – Employment Training and Opportunity
+3 Database
+4 FOR the purpose of requiring the Maryland Department of Health to establish an
+5 employment training and opportunity database for the purpose of assisting
+6 individuals in the State in finding employment training and other opportunities that
+7 may enable the individuals to become eligible and maintain eligibility for the
+8 Maryland Medical Assistance Program and the Supplemental Nutrition Assistance
+9 Program; requiring the Maryland Department of Health to assist individuals in
+10 enrolling in programs listed in the database; requiring the Maryland Department of
+11 Labor, the Secretary of Human Services, and the Department of Service and Civic
+12 Innovation to establish a process for receiving recommendations for inclusion in the
+13 database and to forward appropriate recommendations to the Maryland Department
+14 of Health; and generally relating to an employment training and opportunity
+15 database.
+16 BY adding to
+17 Article – Business Regulation
+18 Section 2–111
+19 Annotated Code of Maryland
+20 (2024 Replacement Volume and 2025 Supplement)
+21 BY adding to
+22 Article – Health – General
+23 Section 15–160
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0772*
+
+2 SENATE BILL 772
+1 Annotated Code of Maryland
+2 (2023 Replacement Volume and 2025 Supplement)
+3 BY repealing and reenacting, without amendments,
+4 Article – Human Services
+5 Section 5–101(a) and (g) and 5–304(b)(1) and (c)(1)
+6 Annotated Code of Maryland
+7 (2019 Replacement Volume and 2025 Supplement)
+8 BY adding to
+9 Article – Human Services
+10 Section 5–304(d)
+11 Annotated Code of Maryland
+12 (2019 Replacement Volume and 2025 Supplement)
+13 BY repealing and reenacting, without amendments,
+14 Article – State Government
+15 Section 21–101(a) and (b)
+16 Annotated Code of Maryland
+17 (2021 Replacement Volume and 2025 Supplement)
+18 BY repealing and reenacting, with amendments,
+19 Article – State Government
+20 Section 21–106(b)(7) and (8)
+21 Annotated Code of Maryland
+22 (2021 Replacement Volume and 2025 Supplement)
+23 BY adding to
+24 Article – State Government
+25 Section 21–106(b)(9)
+26 Annotated Code of Maryland
+27 (2021 Replacement Volume and 2025 Supplement)
+28 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+29 That the Laws of Maryland read as follows:
+30 Article – Business Regulation
+31 2–111.
+32 THE DEPARTMENT SHALL:
+33 (1) ESTABLISH A PROCESS THROUGH WHICH A PERSON MAY
+34 RECOMMEND A VOCATIONAL, WORKFORCE, TRAINING, OR JOB PLACEMENT
+35 PROGRAM FOR INCLUSION IN THE DATABASE DEVELOPED AND MAINTAINED UNDER
+36 § 15–160 OF THE HEALTH – GENERAL ARTICLE; AND
+
+SENATE BILL 772 3
+1 (2) IF APPROPRIATE, FORWARD A RECOMMENDATION MADE UNDER
+2 ITEM (1) OF THIS SECTION TO THE MARYLAND DEPARTMENT OF HEALTH FOR
+3 INCLUSION IN THE DATABASE.
+4 Article – Health – General
+5 15–160.
+6 (A) IN THIS SECTION, “DATABASE” MEANS THE EMPLOYMENT TRAINING
+7 AND OPPORTUNITY DATABASE DEVELOPED AND MAINTAINED UNDER SUBSECTION
+8 (B) OF THIS SECTION.
+9 (B) (1) THE DEPARTMENT SHALL DEVELOP AND MAINTAIN AN
+10 EMPLOYMENT TRAINING AND OPPORTUNITY DATABASE.
+11 (2) THE PURPOSE OF THE DATABASE IS TO PROVIDE INDIVIDUALS IN
+12 THE STATE WITH ASSISTANCE IN FINDING EMPLOYMENT TRAINING AND OTHER
+13 OPPORTUNITIES THAT MAY ENABLE THE INDIVIDUALS TO BECOME ELIGIBLE AND
+14 MAINTAIN ELIGIBILITY FOR:
+15 (I) THE PROGRAM; AND
+16 (II) THE SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM.
+17 (3) IN DEVELOPING AND MAINTAINING THE DATABASE, THE
+18 DEPARTMENT SHALL COORDINATE WITH THE FOLLOWING ENTITIES:
+19 (I) THE MARYLAND DEPARTMENT OF LABOR;
+20 (II) THE DEPARTMENT OF HUMAN SERVICES;
+21 (III) THE DEPARTMENT OF SERVICE AND CIVIC INNOVATION;
+22 (IV) THE MARYLAND CHAMBER OF COMMERCE;
+23 (V) LABOR UNIONS;
+24 (VI) TRADE ASSOCIATIONS;
+25 (VII) EDUCATIONAL INSTITUTIONS;
+26 (VIII) LOCAL WORKFORCE DEVELOPMENT BOARDS; AND
+
+4 SENATE BILL 772
+1 (IX) ANY OTHER ENTITY THAT THE DEPARTMENT DETERMINES
+2 APPROPRIATE.
+3 (C) THE DATABASE SHALL INCLUDE:
+4 (1) VOCATIONAL, WORKFORCE TRAINING, AND JOB PLACEMENT
+5 PROGRAMS AVAILABLE IN THE STATE;
+6 (2) INFORMATION REGARDING HOW TO APPLY FOR A VOCATIONAL,
+7 WORKFORCE TRAINING, OR JOB PLACEMENT PROGRAM INCLUDED IN THE
+8 DATABASE UNDER ITEM (1) OF THIS SUBSECTION; AND
+9 (3) A MECHANISM THAT ALLOWS AN INDIVIDUAL TO DIRECTLY
+10 CONTACT THE VOCATIONAL, WORKFORCE TRAINING, OR JOB PLACEMENT PROGRAM
+11 IN WHICH THE INDIVIDUAL IS INTERESTED.
+12 (D) THE DEPARTMENT SHALL:
+13 (1) MAKE THE DATABASE AVAILABLE TO THE PUBLIC ON A
+14 DEDICATED PAGE ON THE DEPARTMENT’S WEBSITE;
+15 (2) ASSIST INDIVIDUALS IN ENROLLING IN VOCATIONAL,
+16 WORKFORCE TRAINING, AND JOB PLACEMENT PROGRAMS LISTED IN THE
+17 DATABASE; AND
+18 (3) UPDATE THE DATABASE AT LEAST EVERY 30 DAYS.
+19 Article – Human Services
+20 5–101.
+21 (a) In this title the following words have the meanings indicated.
+22 (g) “Secretary” means the Secretary of Human Services.
+23 5–304.
+24 (b) (1) The Secretary of Budget and Management, with the assistance of the
+25 Secretary, shall develop and implement a plan for hiring current and former recipients,
+26 children of current or former recipients, foster youth, and obligors by the principal
+27 departments within the Executive Branch of State government.
+28 (c) (1) Working with appropriate local government officials, the Secretary and
+29 each local director shall develop and implement a local government hiring plan under which
+
+SENATE BILL 772 5
+1 local governments may hire current and former recipients, children of current or former
+2 recipients, foster youth, and obligors.
+3 (D) THE SECRETARY SHALL:
+4 (1) ESTABLISH A PROCESS THROUGH WHICH A PERSON MAY
+5 RECOMMEND A VOCATIONAL, WORKFORCE TRAINING, OR JOB PLACEMENT
+6 PROGRAM FOR INCLUSION IN THE DATABASE DEVELOPED AND MAINTAINED UNDER
+7 § 15–160 OF THE HEALTH – GENERAL ARTICLE; AND
+8 (2) IF APPROPRIATE, FORWARD A RECOMMENDATION MADE UNDER
+9 ITEM (1) OF THIS SUBSECTION TO THE MARYLAND DEPARTMENT OF HEALTH FOR
+10 INCLUSION IN THE DATABASE.
+11 Article – State Government
+12 21–101.
+13 (a) In this title the following words have the meanings indicated.
+14 (b) “Department” means the Department of Service and Civic Innovation.
+15 21–106.
+16 (b) The Department shall:
+17 (7) conduct studies and make recommendations to improve volunteer
+18 recruitment and training, volunteer retention, and accountability of volunteer programs;
+19 [and]
+20 (8) provide staff support for the Governor’s Commission on Service and
+21 Volunteerism; AND
+22 (9) (I) ESTABLISH A PROCESS THROUGH WHICH A PERSON MAY
+23 RECOMMEND A VOCATIONAL, WORKFORCE TRAINING, OR JOB PLACEMENT
+24 PROGRAM FOR INCLUSION IN THE DATABASE DEVELOPED AND MAINTAINED UNDER
+25 § 15–160 OF THE HEALTH – GENERAL ARTICLE; AND
+26 (II) IF APPROPRIATE, FORWARD A RECOMMENDATION MADE
+27 UNDER ITEM (I) OF THIS ITEM TO THE MARYLAND DEPARTMENT OF HEALTH FOR
+28 INCLUSION IN THE DATABASE.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+30 October 1, 2026. It shall remain effective for a period of 3 years and, at the end of September
+
+6 SENATE BILL 772
+1 30, 2029, this Act, with no further action required by the General Assembly, shall be
+2 abrogated and of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6   C A M D F t p o r t M D o H t e a e t a o d f t p o a i m e t i t b e a m e f t M P r t M D o H t a i i e L I d o H a g r t a e t a o d B  A S  A  ( B  A S]
+[DELETED:  S   A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  S T ATD: E ( A P T W A P M A VL WE TG O J P,10H–GA;  E  E RE ]
+[DELETED: S 3 ( E   O T S T T A E O E F)MD A ) I,“N T SN DE M T E T). () ( TH E S D A M A (  T W A I F E T A O  () TP;H RM   () TSNAP.IH U U S R ( I D A M T DE T:  () TMDL;H A E A  () TDHS;IH E U E  () TDSCI;IH E E I N  () TMCC;VH A H O  () L;A  () T;IR  () E;ID  ()L;IOS ]
+[DELETED:  S   () AXN E() T:H ( V,L W TG A J P T; ( IL TG O J P P I I T  N ); ( M T A A I T DL G () TD:H E (  T D A T T P O A ETSE’; ( A I I E I VL TG A J P P L I TE  ( U30.   A 5  ( I  ( “ 5  ( ( T S c o c o f r f y a o b t p d  ( ( W e]
+[DELETED: S 5 l r ) TS:H EL ( A P T W A P M A VL W TG O J P10H–GA;  E  E RE  ( E    A E E)MD A 2  ( I  ( “ 2  ( T   ( c s a m r t i v r] a   ( p s C V ( ()E A P T W A P M A VL W TG O J P10H–GA;  E  E RE   () II AE F A R M I  A E E)MD   S A B I F E T t A s t e O]
+[DELETED:  S  3 2 t A w n f a r b t G A s b a          G               ]

@@ -1,0 +1,283 @@
+Title: Handguns - Wear, Carry, and Transport Laws - Handbook
+Official Title: Handguns - Wear, Carry, and Transport Laws - Handbook
+Number of Sections: 3
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2026 Session
+HB0303
+Publication
+Bill Summary
+This bill requires the Office of the Attorney General (OAG), by October 1, 2026, and annually
+thereafter, to publish a handbook summarizing all State laws, federal laws, and case law that are
+applicable to the wearing, carrying, and transporting of a handgun in public in the State. OAG
+must draft the handbook (1) in plain language that can be easily understood without any special
+knowledge of the applicable State laws, federal laws, or case law and (2) in a format that can be
+easily used to teach a required firearm safety course.
+Racial Equity Impact Statement
+The bill’s goal of educating handgun permit owners about changes in firearm-related laws could
+be beneficial to all permit holders and the overall impacts of the bill will likely depend on its
+implementation. Department of State Police (DSP) data shows that Black permit holders comprise
+37% of the total population of permit holders, but the equity impacts of the bill cannot be
+determined without handgun violation data, including handgun permit revocation activity.
+Analysis
+The bill requires OAG to annually publish a plain language handbook summarizing all State law,
+federal law, and case law applicable to the wearing, carrying, and transporting of a handgun in
+public in the State.
+A person must have a handgun permit to carry, wear, or transport a handgun in the State. Generally,
+a person applying for a handgun carry permit must submit an application to DSP, complete
+HB 303/ Page 1
+required firearms safety training, undergo finge rprinting and a background check, and pay the
+applicable fees. To qualify, the applicant must be at least 21 years old (with specified exceptions),
+not prohibited from possessing a firearm under state or federal law, not have any specified criminal
+convictions, have a history of violent behavior, or have any disqualifying mental health
+commitments.
+Chapter 680 of 2023 generally prohibits a person from wearing, carrying, or transporting a firearm
+in an area for children or vulnerable individuals, a government or public infrastructure area, or a
+special purpose area, as defined. A government or public infrastructure area that is a building or
+any part of a building owned or leased by a unit of State or local government must display a clear
+and conspicuous sign at the main entrance indicating that it is not permissible to wear, carry, or
+transport a firearm in the building or that part of the building.
+Chapter 651 of 2023 requires DSP to transmit a summary of each new law or change to each
+existing law pertaining to firearms that was passed by the General Assembly during each
+legislative session to each email address on file with the department that is associated with (1) the
+purchaser or transferee of a regulated firearm or (2) a person who has registered a regulated firearm
+with the department. The summary must be transmitted (1) within 45 days after the General
+Assembly adjourns Sine Die in a legislative session; (2) 30 days before the effective date of the
+act, for each act establishing a new law or change to an existing law pertaining to firearms; and
+(3) as soon as practicable if an act is designated as an emergency act.
+Impacts of the Bill
+Maryland experienced a significant increase in handgun permit holders after the U.S. Supreme
+Court ruling in New York State Rifle & Pistol Association, Inc. v. Bruen, 597 U.S. (2022), which
+held that residents of a state do not have to prove a special need for self-defense to get a permit to
+carry a handgun in public. This relaxed the standard for approval of carry permits in many states,
+including Maryland, which had required a “good and substantial reason” to be issued a license to
+carry. Post Bruen, in 2022, DSP received 85,266 new applications for handgun permits, of which
+98% were approved, as compared to the 12,189 new permit applications filed in 2021. Exhibit 1
+shows the growth in approved permits from 2020 (pre-Bruen) to 2025.
+HB 303/ Page 2
+Exhibit 1
+Maryland Approved Wear and Carry Firearm Permits
+2020-2025
+100,000
+90,000
+80,000
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+0
+2020 2021 2022 2023 2024 2025
+Source: Department of State Police
+Under the bill, permit holders would receive updates on federal law and case law, in addition to
+changes in State law. Case law changes, in particular, could be impactful to permit holders. For
+example, in a decision filed August 2, 2024, the District Court of Maryland held that the State’s
+ban on carrying firearms in several sensitive locations violates the Second Amendment and
+enjoined its enforcement. On January 20, 2026, the U.S. Fourth Circuit Court of Appeals upheld
+most of the law, affirming the State’s authority to prohibit firearms in crowded or sensitive
+locations. As this litigation proceeds on appeal, current handgun permit holders benefit from being
+aware of which specific restrictions may result in permit revocation or arrest.
+Conclusion
+The bill’s creation of an annually published plain language handbook of developments in State,
+federal, and case law regarding the wearing, carrying, and transporting of firearms would be useful
+to current permit holders to stay informed about law changes. The changing legal environment for
+permit holders, along with the rapid rise in permit holders, makes any law changes impactful for
+public safety in the State. The bill’s specific impacts are dependent on implementation and whether
+handgun permit holders consume the information in the handbook. Any equity effects would
+require demographic analysis of the basis for permit revocations, which is not currently available.
+DSP data, however, shows that only 99 individuals had their permits revoked between
+November 2024 and November 2025.
+HB 303/ Page 3
+Information Sources: Department of State Police; Administrative Office of the Courts;
+Department of Legislative Services
+Analysis by: Rafael Regales
+Published: 03/18/2026
+HB 303/ Page 4
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+
+Section 2:
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+
+Section 3:
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+HB 303/ Page 5
+[DELETED:  o t t p o p h b t e i o t b c b p a f a h c p m s a a t D c]
+[DELETED:  h a h o v b o h a d m h l p t f t w p b t G A d e t d T s m b t ( w 4 a G]
+[DELETED:  o c f i s s l v t S A a o t l a t S a t p f i c o s c d h s t o 9 i h t p r b0212223242]
+[DELETED:  S  D o S P A O o t C ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]
+
+
+================================================================================
+
+Raw Text:
+2026 Session
+HB0303
+Handguns - Wear, Carry, and Transport Laws - Handbook
+Publication
+Bill Summary
+This bill requires the Office of the Attorney General (OAG), by October 1, 2026, and annually
+thereafter, to publish a handbook summarizing all State laws, federal laws, and case law that are
+applicable to the wearing, carrying, and transporting of a handgun in public in the State. OAG
+must draft the handbook (1) in plain language that can be easily understood without any special
+knowledge of the applicable State laws, federal laws, or case law and (2) in a format that can be
+easily used to teach a required firearm safety course.
+Racial Equity Impact Statement
+The bill’s goal of educating handgun permit owners about changes in firearm-related laws could
+be beneficial to all permit holders and the overall impacts of the bill will likely depend on its
+implementation. Department of State Police (DSP) data shows that Black permit holders comprise
+37% of the total population of permit holders, but the equity impacts of the bill cannot be
+determined without handgun violation data, including handgun permit revocation activity.
+Analysis
+The bill requires OAG to annually publish a plain language handbook summarizing all State law,
+federal law, and case law applicable to the wearing, carrying, and transporting of a handgun in
+public in the State.
+A person must have a handgun permit to carry, wear, or transport a handgun in the State. Generally,
+a person applying for a handgun carry permit must submit an application to DSP, complete
+HB 303/ Page 1
+
+required firearms safety training, undergo finge rprinting and a background check, and pay the
+applicable fees. To qualify, the applicant must be at least 21 years old (with specified exceptions),
+not prohibited from possessing a firearm under state or federal law, not have any specified criminal
+convictions, have a history of violent behavior, or have any disqualifying mental health
+commitments.
+Chapter 680 of 2023 generally prohibits a person from wearing, carrying, or transporting a firearm
+in an area for children or vulnerable individuals, a government or public infrastructure area, or a
+special purpose area, as defined. A government or public infrastructure area that is a building or
+any part of a building owned or leased by a unit of State or local government must display a clear
+and conspicuous sign at the main entrance indicating that it is not permissible to wear, carry, or
+transport a firearm in the building or that part of the building.
+Chapter 651 of 2023 requires DSP to transmit a summary of each new law or change to each
+existing law pertaining to firearms that was passed by the General Assembly during each
+legislative session to each email address on file with the department that is associated with (1) the
+purchaser or transferee of a regulated firearm or (2) a person who has registered a regulated firearm
+with the department. The summary must be transmitted (1) within 45 days after the General
+Assembly adjourns Sine Die in a legislative session; (2) 30 days before the effective date of the
+act, for each act establishing a new law or change to an existing law pertaining to firearms; and
+(3) as soon as practicable if an act is designated as an emergency act.
+Impacts of the Bill
+Maryland experienced a significant increase in handgun permit holders after the U.S. Supreme
+Court ruling in New York State Rifle & Pistol Association, Inc. v. Bruen, 597 U.S. (2022), which
+held that residents of a state do not have to prove a special need for self-defense to get a permit to
+carry a handgun in public. This relaxed the standard for approval of carry permits in many states,
+including Maryland, which had required a “good and substantial reason” to be issued a license to
+carry. Post Bruen, in 2022, DSP received 85,266 new applications for handgun permits, of which
+98% were approved, as compared to the 12,189 new permit applications filed in 2021. Exhibit 1
+shows the growth in approved permits from 2020 (pre-Bruen) to 2025.
+HB 303/ Page 2
+
+Exhibit 1
+Maryland Approved Wear and Carry Firearm Permits
+2020-2025
+100,000
+90,000
+80,000
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+0
+2020 2021 2022 2023 2024 2025
+Source: Department of State Police
+Under the bill, permit holders would receive updates on federal law and case law, in addition to
+changes in State law. Case law changes, in particular, could be impactful to permit holders. For
+example, in a decision filed August 2, 2024, the District Court of Maryland held that the State’s
+ban on carrying firearms in several sensitive locations violates the Second Amendment and
+enjoined its enforcement. On January 20, 2026, the U.S. Fourth Circuit Court of Appeals upheld
+most of the law, affirming the State’s authority to prohibit firearms in crowded or sensitive
+locations. As this litigation proceeds on appeal, current handgun permit holders benefit from being
+aware of which specific restrictions may result in permit revocation or arrest.
+Conclusion
+The bill’s creation of an annually published plain language handbook of developments in State,
+federal, and case law regarding the wearing, carrying, and transporting of firearms would be useful
+to current permit holders to stay informed about law changes. The changing legal environment for
+permit holders, along with the rapid rise in permit holders, makes any law changes impactful for
+public safety in the State. The bill’s specific impacts are dependent on implementation and whether
+handgun permit holders consume the information in the handbook. Any equity effects would
+require demographic analysis of the basis for permit revocations, which is not currently available.
+DSP data, however, shows that only 99 individuals had their permits revoked between
+November 2024 and November 2025.
+HB 303/ Page 3
+
+Information Sources: Department of State Police; Administrative Office of the Courts;
+Department of Legislative Services
+Analysis by: Rafael Regales
+Published: 03/18/2026
+HB 303/ Page 4
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+HB 303/ Page 5
+
+[DELETED:  o t t p o p h b t e i o t b c b p a f a h c p m s a a t D c]
+[DELETED:  h a h o v b o h a d m h l p t f t w p b t G A d e t d T s m b t ( w 4 a G]
+[DELETED:  o c f i s s l v t S A a o t l a t S a t p f i c o s c d h s t o 9 i h t p r b0212223242]
+[DELETED:  S  D o S P A O o t C ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]

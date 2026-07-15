@@ -1,0 +1,195 @@
+Title: SENATE BILL 764
+Official Title: SENATE BILL 764
+Number of Sections: 1
+Source: versions - Third - Education - Minimum Wage for Education Support Professionals - Report on Estimated Cost
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+F1 6lr3402
+CF HB 1205
+By: Senators Zucker, Ellis, Gile, Kramer, Lam, McCray, Rosapepe, and
+Waldstreicher Waldstreicher, Augustine, Hettleman, King, and
+Lewis Young
+Introduced and read first time: February 6, 2026
+Assigned to: Budget and Taxation
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 3, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Education – Minimum Wage for Education Support Professionals – Report on
+3 Estimated Cost
+4 FOR the purpose of establishing a certain minimum wage rate to be paid by county boards
+5 of education to certain education support professionals beginning requiring the State
+6 Department of Education, on or before a certain date, to submit a report on an
+7 estimate of the total cost of implementing a certain minimum wage rate for education
+8 support professionals; and generally relating to a report on the estimated cost of
+9 implementing a minimum wage for education support professionals.
+10 BY adding to
+11 Article – Education
+12 Section 6–306 to be under the amended subtitle “Subtitle 3. Salaries and Wages”
+13 Annotated Code of Maryland
+14 (2025 Replacement Volume and 2025 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Education
+18 Subtitle 3. Salaries AND WAGES.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0764*
+2 SENATE BILL 764
+1 6–306.
+2 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+3 INDICATED.
+4 (2) “EDUCATION SUPPORT PROFESSIONAL” MEANS A
+5 NONCERTIFICATED PUBLIC SCHOOL EMPLOYEE DESIGNATED AS PART OF A
+6 NONSUPERVISORY BARGAINING UNIT UNDER SUBTITLE 5 OF THIS TITLE.
+7 (3) “PUBLIC SCHOOL EMPLOYEE” HAS THE MEANING STATED IN §
+8 6–501 OF THIS TITLE.
+9 (B) NOTWITHSTANDING § 3–413 OF THE LABOR AND EMPLOYMENT
+10 ARTICLE, BEGINNING JULY 1, 2028, EACH COUNTY BOARD SHALL PAY TO EACH
+11 EDUCATION SUPPORT PROFESSIONAL A MINIMUM WAGE RATE OF AT LEAST $25.00
+12 PER HOUR.
+13 (C) THE STATE BOARD MAY ADOPT REGULATIONS NECESSARY TO CARRY
+14 OUT THE PROVISIONS OF THIS SECTION.
+15 SECTION 2. AND BE IT FURTHER ENACTED, That, on
+16 (a) (1) In this section the following words have the meanings indicated.
+17 (2) “Education support professional” means a noncertificated public school
+18 employee designated as part of a nonsupervisory bargaining unit under Title 6, Subtitle 5
+19 of the Education Article.
+20 (3) “Public school employee” has the meaning stated in § 6–501 of the
+21 Education Article.
+22 (b) (1) The State Department of Education shall study the wages of education
+23 support professionals and calculate the cost of implementing a $25.00 per hour minimum
+24 wage.
+25 (2) The calculation of the cost of implementation shall:
+26 (i) include, for each education support professional position, filled
+27 and unfilled, that has an hourly wage of less than $25.00, the cost to raise the hourly wage
+28 to $25.00; and
+29 (ii) exclude cost assumptions for each education support profession
+30 position, filled and unfilled, that has an hourly wage of $25.00 or more.
+SENATE BILL 764 3
+1 (3) The State Department of Education shall identify the amount by which
+2 the target per pupil foundation amount would need to be adjusted to provide the funding
+3 to implement a $25.00 per hour minimum wage for education support professionals.
+4 (c) On or before December 1, 2026, the State Department of Education shall
+5 submit to the Governor and, in accordance with § 2–1257 of the State Government Article,
+6 the General Assembly a report with an estimate of the total cost of implementing a $25.00
+7 per hour minimum wage for education support professionals, with cost estimates
+8 disaggregated by local school system.
+9 SECTION 3. 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 July 1, 2026. It shall remain effective for a period of 1 year and, at the end of June 30, 2027,
+11 this Act, with no further action required by the General Assembly, shall be abrogated and
+12 of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6   C S Z E G K L M R a W A H K a A E E F o D o E o o b a c d t s a r o a e s i B  A S  A  (  S T A S . A]
+[DELETED:  S  ) ( N ( “E S PL M A P S E D A P O A U  5. ( “P”§ S EE H T M S I 1.() N§33LO   O T A A M,J1,2E B U   E C B S P T E () TSH T O  S  ( ( I   ( “ e o   ( “ s e h t m s i § 6 o t E  ( ( T s w   ( T    ( i a t    ( e p]
+[DELETED: S 3   ( T t t  ( O o b D 1 2 t S D o E s s t p h m w f e s p w c e d  S J t o          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 764
+F1 6lr3402
+CF HB 1205
+By: Senators Zucker, Ellis, Gile, Kramer, Lam, McCray, Rosapepe, and
+Waldstreicher Waldstreicher, Augustine, Hettleman, King, and
+Lewis Young
+Introduced and read first time: February 6, 2026
+Assigned to: Budget and Taxation
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 3, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Education – Minimum Wage for Education Support Professionals – Report on
+3 Estimated Cost
+4 FOR the purpose of establishing a certain minimum wage rate to be paid by county boards
+5 of education to certain education support professionals beginning requiring the State
+6 Department of Education, on or before a certain date, to submit a report on an
+7 estimate of the total cost of implementing a certain minimum wage rate for education
+8 support professionals; and generally relating to a report on the estimated cost of
+9 implementing a minimum wage for education support professionals.
+10 BY adding to
+11 Article – Education
+12 Section 6–306 to be under the amended subtitle “Subtitle 3. Salaries and Wages”
+13 Annotated Code of Maryland
+14 (2025 Replacement Volume and 2025 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Education
+18 Subtitle 3. Salaries AND WAGES.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0764*
+
+2 SENATE BILL 764
+1 6–306.
+2 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+3 INDICATED.
+4 (2) “EDUCATION SUPPORT PROFESSIONAL” MEANS A
+5 NONCERTIFICATED PUBLIC SCHOOL EMPLOYEE DESIGNATED AS PART OF A
+6 NONSUPERVISORY BARGAINING UNIT UNDER SUBTITLE 5 OF THIS TITLE.
+7 (3) “PUBLIC SCHOOL EMPLOYEE” HAS THE MEANING STATED IN §
+8 6–501 OF THIS TITLE.
+9 (B) NOTWITHSTANDING § 3–413 OF THE LABOR AND EMPLOYMENT
+10 ARTICLE, BEGINNING JULY 1, 2028, EACH COUNTY BOARD SHALL PAY TO EACH
+11 EDUCATION SUPPORT PROFESSIONAL A MINIMUM WAGE RATE OF AT LEAST $25.00
+12 PER HOUR.
+13 (C) THE STATE BOARD MAY ADOPT REGULATIONS NECESSARY TO CARRY
+14 OUT THE PROVISIONS OF THIS SECTION.
+15 SECTION 2. AND BE IT FURTHER ENACTED, That, on
+16 (a) (1) In this section the following words have the meanings indicated.
+17 (2) “Education support professional” means a noncertificated public school
+18 employee designated as part of a nonsupervisory bargaining unit under Title 6, Subtitle 5
+19 of the Education Article.
+20 (3) “Public school employee” has the meaning stated in § 6–501 of the
+21 Education Article.
+22 (b) (1) The State Department of Education shall study the wages of education
+23 support professionals and calculate the cost of implementing a $25.00 per hour minimum
+24 wage.
+25 (2) The calculation of the cost of implementation shall:
+26 (i) include, for each education support professional position, filled
+27 and unfilled, that has an hourly wage of less than $25.00, the cost to raise the hourly wage
+28 to $25.00; and
+29 (ii) exclude cost assumptions for each education support profession
+30 position, filled and unfilled, that has an hourly wage of $25.00 or more.
+
+SENATE BILL 764 3
+1 (3) The State Department of Education shall identify the amount by which
+2 the target per pupil foundation amount would need to be adjusted to provide the funding
+3 to implement a $25.00 per hour minimum wage for education support professionals.
+4 (c) On or before December 1, 2026, the State Department of Education shall
+5 submit to the Governor and, in accordance with § 2–1257 of the State Government Article,
+6 the General Assembly a report with an estimate of the total cost of implementing a $25.00
+7 per hour minimum wage for education support professionals, with cost estimates
+8 disaggregated by local school system.
+9 SECTION 3. 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 July 1, 2026. It shall remain effective for a period of 1 year and, at the end of June 30, 2027,
+11 this Act, with no further action required by the General Assembly, shall be abrogated and
+12 of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6   C S Z E G K L M R a W A H K a A E E F o D o E o o b a c d t s a r o a e s i B  A S  A  (  S T A S . A]
+[DELETED:  S  ) ( N ( “E S PL M A P S E D A P O A U  5. ( “P”§ S EE H T M S I 1.() N§33LO   O T A A M,J1,2E B U   E C B S P T E () TSH T O  S  ( ( I   ( “ e o   ( “ s e h t m s i § 6 o t E  ( ( T s w   ( T    ( i a t    ( e p]
+[DELETED: S 3   ( T t t  ( O o b D 1 2 t S D o E s s t p h m w f e s p w c e d  S J t o          G               ]

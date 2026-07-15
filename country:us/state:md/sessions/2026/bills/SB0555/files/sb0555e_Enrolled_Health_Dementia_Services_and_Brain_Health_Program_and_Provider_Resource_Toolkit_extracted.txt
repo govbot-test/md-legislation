@@ -1,0 +1,502 @@
+Title: SENATE BILL 555
+Official Title: SENATE BILL 555
+Number of Sections: 1
+Source: versions - Enrolled - Health - Dementia Services and Brain Health Program and Provider Resource Toolkit
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+J1 (6lr2791)
+ENROLLED BILL
+— Finance/Health —
+Introduced by Senator Hayes
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Health – Dementia Services and Brain Health Program and Clinical Provider
+3 Resource Toolkit
+4 FOR the purpose of altering the duties of the Virginia I. Jones Alzheimer’s Disease and
+5 Related Dementias Council; establishing the Dementia Services and Brain Health
+6 Program in the Maryland Department of Health to lead the State’s public health
+7 efforts relating to brain health and dementia; requiring the Director of Dementia
+8 Services and Brain Health to administer the Program; requiring the Program, rather
+9 than the Director, to perform certain duties and staff the Council; requiring the
+10 Program to oversee implementation of a certain State Plan and support and promote
+11 the delivery of dementia–capable care; requiring the Maryland Department of
+12 Health, in partnership with the Department of Aging, the Council, and other entities,
+13 to develop a clinical provider resource toolkit for dementia care for health care
+14 providers; and generally relating to Alzheimer’s disease and related dementias and
+15 dementia services.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0555*
+2 SENATE BILL 555
+1 BY repealing and reenacting, without amendments,
+2 Article – Health – General
+3 Section 13–3201, 13–3202, 13–3207, 13–32A–03, and 13–32A–06
+4 Annotated Code of Maryland
+5 (2023 Replacement Volume and 2025 Supplement)
+6 BY repealing and reenacting, with amendments,
+7 Article – Health – General
+8 Section 13–3205, 13–3206, 13–32A–01, 13–32A–02, 13–32A–04, and 13–32A–05
+9 Annotated Code of Maryland
+10 (2023 Replacement Volume and 2025 Supplement)
+11 BY adding to
+12 Article – Health – General
+13 Section 13–32A–07
+14 Annotated Code of Maryland
+15 (2023 Replacement Volume and 2025 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – Health – General
+19 13–3201.
+20 (a) In this subtitle the following words have the meanings indicated.
+21 (b) “Council” means the Virginia I. Jones Alzheimer’s Disease and Related
+22 Dementias Council.
+23 (c) “Director” means the Director of Dementia Services and Brain Health
+24 established under Subtitle 32A of this title.
+25 13–3202.
+26 There is a Virginia I. Jones Alzheimer’s Disease and Related Dementias Council.
+27 13–3205.
+28 (a) The [Director] DEMENTIA SERVICES AND BRAIN HEALTH PROGRAM,
+29 with assistance from the Department of Aging, shall provide staff support for the Council.
+30 (b) The Director may request staffing assistance from public health entities with
+31 an interest in the duties of the Council.
+32 13–3206.
+SENATE BILL 555 3
+1 The Council shall:
+2 (1) Update the State Plan on Alzheimer’s Disease and Related Dementias
+3 and advocate for the State Plan;
+4 (2) (i) Examine the needs of individuals with Alzheimer’s disease and
+5 related dementias and their caregivers; and
+6 (ii) Identify methods through which the State can most effectively
+7 and efficiently assist in meeting those needs;
+8 (3) (I) EXAMINE THE READINESS AND CAPACITY OF HEALTH CARE
+9 PROVIDERS TO DELIVER CARE TO INDIVIDUALS WITH OR AT RISK FOR ALZHEIMER’S
+10 DISEASE AND RELATED DEMENTIAS; AND
+11 (II) IDENTIFY METHODS THROUGH WHICH THE STATE CAN
+12 ASSIST HEALTH CARE PROVIDERS IN DELIVERING CARE TO INDIVIDUALS WITH OR
+13 AT RISK FOR ALZHEIMER’S DISEASE AND RELATED DEMENTIAS IN THE MOST
+14 EFFECTIVE AND EFFICIENT MANNER;
+15 [(3)] (4) Advise the Governor and the General Assembly on policy,
+16 funding, regulatory, and other issues related to individuals with Alzheimer’s disease and
+17 related dementias and their caregivers; and
+18 [(4)] (5) Develop and promote strategies to encourage brain health and
+19 reduce cognitive decline.
+20 13–3207.
+21 On or before September 1, 2022, and on or before September 1 every 5 years
+22 thereafter, the Council shall issue and publish an update to the State Plan on Alzheimer’s
+23 Disease and Related Dementias.
+24 13–32A–01.
+25 (a) In this subtitle the following words have the meanings indicated.
+26 (b) “Council” means the Virginia I. Jones Alzheimer’s Disease and Related
+27 Dementias Council.
+28 (c) “Director” means the Director of Dementia Services and Brain Health.
+29 (D) “PROGRAM” MEANS THE DEMENTIA SERVICES AND BRAIN HEALTH
+30 PROGRAM.
+4 SENATE BILL 555
+1 13–32A–02.
+2 [(a)] There is a Director of Dementia Services and Brain Health in the Department.
+3 [(b) The Director shall report to the Secretary.]
+4 13–32A–03.
+5 The position of Director shall be a full–time and permanent position.
+6 13–32A–04.
+7 [(a) The purpose of the position of Director is to coordinate and facilitate
+8 communication relating to dementia services in the State.]
+9 (A) THERE IS A DEMENTIA SERVICES AND BRAIN HEALTH PROGRAM IN
+10 THE DEPARTMENT.
+11 (B) THE DIRECTOR SHALL ADMINISTER THE PROGRAM.
+12 (C) THE PURPOSE OF THE PROGRAM IS TO LEAD THE STATE’S PUBLIC
+13 HEALTH EFFORTS RELATING TO BRAIN HEALTH AND DEMENTIA.
+14 [(b)] (D) The [Director] PROGRAM shall:
+15 (1) Coordinate the Department’s approach to addressing Alzheimer’s
+16 disease and other forms of dementia and brain health, including through public awareness,
+17 prevention, and early detection and diagnosis;
+18 (2) Staff the Council and [oversee implementation of the State Plan on
+19 Alzheimer’s Disease and Related Dementias] UPDATE THE COUNCIL EACH QUARTER ON
+20 THE PROGRAM’S ACTIVITIES;
+21 (3) OVERSEE IMPLEMENTATION OF THE STATE PLAN ON
+22 ALZHEIMER’S DISEASE AND RELATED DEMENTIAS;
+23 [(3)] (4) Assess, analyze, and conduct outreach to share cognitive health
+24 and dementia–related data;
+25 [(4)] (5) Develop and monitor implementation milestones and
+26 measurable outcomes to assess progress in achieving the goals laid out in the State Plan
+27 on Alzheimer’s Disease and Related Dementias;
+SENATE BILL 555 5
+1 [(5)] (6) Identify efficiencies across State agencies that aid individuals
+2 with dementia and their caregivers, and coordinate public and private stakeholder
+3 partnerships;
+4 (7) SUPPORT AND PROMOTE THE DELIVERY OF DEMENTIA–CAPABLE
+5 CARE ACROSS HEALTH CARE SETTINGS THROUGH VARIOUS METHODS, INCLUDING:
+6 (I) ESTABLISHING AND MAINTAINING A CLINICAL PROVIDER
+7 RESOURCE TOOLKIT FOR DEMENTIA CARE, AS DEFINED IN § 13–32A–07 OF THIS
+8 SUBTITLE, TO SUPPORT HEALTH CARE PROVIDERS IN DELIVERING
+9 EVIDENCE–BASED, PERSON–CENTERED CARE;
+10 (II) COORDINATING WITH ACADEMIC INSTITUTIONS, HEALTH
+11 OCCUPATIONS BOARDS, AND CONTINUING EDUCATION PROVIDERS TO PROMOTE
+12 PARTICIPATION IN DEMENTIA–SPECIFIC EDUCATION, TRAINING, AND
+13 CERTIFICATION FOR HEALTH CARE PROFESSIONALS; AND
+14 (III) COLLABORATING WITH STATE–LED CARE
+15 TRANSFORMATION INITIATIVES TO IDENTIFY OPPORTUNITIES TO INCORPORATE
+16 DEMENTIA–CAPABLE CARE PRACTICES INTO HEALTH CARE MODELS;
+17 [(6)] (8) Apply for grants to enable the implementation of the State Plan
+18 on Alzheimer’s Disease and Related Dementias goals to reduce the risk of dementia, and to
+19 improve the quality of care for individuals with dementia and their caregivers; and
+20 [(7)] (9) Carry out other duties relevant to the support of individuals with
+21 dementia as may be assigned by the Department.
+22 13–32A–05.
+23 On or before September 1, 2023, and on or before September 1 every 5 years
+24 thereafter, the Director shall report to the Governor and, in accordance with § 2–1257 of
+25 the State Government Article, the Senate Finance Committee and the House Health and
+26 Government Operations Committee on the activities and recommendations of the
+27 [Director] PROGRAM.
+28 13–32A–06.
+29 The Governor shall include in the annual budget bill an appropriation to fund the
+30 position of Director and the Council, as follows:
+31 (1) For fiscal year 2023, at least $71,400;
+32 (2) For fiscal year 2024, at least $83,000;
+6 SENATE BILL 555
+1 (3) For fiscal year 2025, at least $85,300;
+2 (4) For fiscal year 2026, at least $87,600; and
+3 (5) For fiscal year 2027 and each fiscal year thereafter, at least $89,900.
+4 13–32A–07.
+5 (A) IN THIS SECTION, “TOOLKIT” MEANS THE CLINICAL PROVIDER
+6 RESOURCE TOOLKIT FOR DEMENTIA CARE FOR HEALTH CARE PROVIDERS
+7 DEVELOPED UNDER SUBSECTION (B) OF THIS SECTION.
+8 (B) ON OR BEFORE JANUARY OCTOBER 1, 2027, THE DEPARTMENT, IN
+9 PARTNERSHIP WITH THE DEPARTMENT OF AGING, THE COUNCIL, AND OTHER
+10 PUBLIC OR PRIVATE ORGANIZATIONS WITH EXPERTISE IN ALZHEIMER’S DISEASE OR
+11 RELATED DEMENTIAS SHALL ESTABLISH AND MAINTAIN A CLINICAL PROVIDER
+12 RESOURCE TOOLKIT FOR DEMENTIA CARE FOR HEALTH CARE PROVIDERS.
+13 (C) THE PURPOSE OF THE TOOLKIT IS TO PROVIDE A CENTRALIZED,
+14 UP–TO–DATE RESOURCE TO SUPPORT HEALTH CARE PROVIDERS IN CARING FOR
+15 PATIENTS WHO ARE AT RISK FOR OR WHO MAY HAVE DEMENTIA.
+16 (D) THE TOOLKIT DEVELOPED UNDER SUBSECTION (B) OF THIS SECTION
+17 SHALL INCLUDE INFORMATION ON:
+18 (1) BE COMPOSED OF MATERIALS THAT CAN BE DEVELOPED USING
+19 EXISTING RESOURCES AND EXPERTISE WITHIN THE DEPARTMENT OR OBTAINED
+20 THROUGH PARTNERSHIPS WITH ANY OTHER PUBLIC OR PRIVATE ORGANIZATION OR
+21 ENTITY ENTITIES AS DETERMINED NECESSARY BY THE DEPARTMENT; AND
+22 (2) INCLUDE INFORMATION ON:
+23 (1) (I) RISK FACTORS FOR ALZHEIMER’S DISEASE AND RELATED
+24 DEMENTIAS, INCLUDING CHRONIC DISEASES AND THE CO–OCCURRENCE OF DOWN
+25 SYNDROME (TRISOMY–21);
+26 (2) (II) RISK REDUCTION STRATEGIES, INCLUDING INFORMATION
+27 ON LIFESTYLE INTERVENTIONS TO REDUCE DEMENTIA RISK;
+28 (3) (III) THE IMPORTANCE OF EARLY DETECTION AND DIAGNOSIS
+29 OF ALZHEIMER’S DISEASE AND RELATED DEMENTIAS;
+30 (4) (IV) VALIDATED ASSESSMENT TOOLS FOR THE DETECTION AND
+31 DIAGNOSIS OF COGNITIVE IMPAIRMENT;
+SENATE BILL 555 7
+1 (5) (V) THE RACIAL AND ETHNIC DISPARITIES IN DETECTING,
+2 DIAGNOSING, AND ACCESSING TREATMENT AND SERVICES;
+3 (6) (VI) PERSON–CENTERED CARE DELIVERY AND RELEVANT
+4 SOURCES OF CLINICAL PRACTICE GUIDELINES AND TOOLS;
+5 (7) (VII) EFFECTIVE CARE PLANNING TOOLS, INCLUDING:
+6 (I) 1. AVAILABLE REIMBURSEMENT TOOLS, INCLUDING
+7 RELEVANT BILLING CODES, FOR INDIVIDUALS WITH COGNITIVE IMPAIRMENT;
+8 (II) 2. REFERRAL PATHWAYS TO COMMUNITY–BASED
+9 SERVICES AND CARE PLANNING RESOURCES; AND
+10 (III) 3. INFORMATION ON TREATMENT OPTIONS AND
+11 RELEVANT SOURCES FOR GUIDELINES; AND
+12 (8) (VIII) CONTINUING EDUCATION OPPORTUNITIES RELATED TO
+13 DEMENTIA CARE BEST PRACTICES.
+14 (E) THE DEPARTMENT SHALL PROMOTE THE USE OF THE TOOLKIT ACROSS
+15 HEALTH CARE SECTORS, INCLUDING:
+16 (1) MANAGED CARE PROGRAMS;
+17 (2) ACADEMIC RESEARCH INSTITUTIONS;
+18 (3) HOSPITALS AND HEALTH SYSTEMS;
+19 (4) FEDERALLY QUALIFIED HEALTH CENTERS;
+20 (5) HOSPITAL AND HEALTH SYSTEM ASSOCIATIONS;
+21 (6) PHYSICIAN AND MEDICAL STUDENT ORGANIZATIONS;
+22 (7) ORGANIZATIONS REPRESENTING THE ADVANCEMENT OF NURSES,
+23 HEALTH CARE PROFESSIONALS, AND HEALTH CARE ORGANIZATIONS; AND
+24 (8) ANY OTHER PUBLIC OR PRIVATE ORGANIZATION, ENTITY, OR
+25 PART OF AN ORGANIZATION OR ENTITY THE DEPARTMENT DEEMS NECESSARY.
+8 SENATE BILL 555
+1 (F) ON OR BEFORE JANUARY 1 EACH YEAR, BEGINNING IN 2028, THE
+2 DEPARTMENT SHALL REVIEW AND UPDATE THE INFORMATION IN THE TOOLKIT TO
+3 REFLECT THE MOST RECENT AND ACCURATE AVAILABLE INFORMATION.
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      ( w t G S a p t t G f h a t d o _ a _ o _ A H R F R P e S t t D t p c d a s t C r t P t d o d c r t M D o H t d a c p r t f d c f h c p d]
+[DELETED:  S  B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 1  ( I  ( “ m t V I J A D a R D  ( “ m t D o D S a B H e 1  T 1  ( T Dr,]DSBHE E A R E R w  ( T a 1]
+[DELETED: S 3  T   ( U a   ( ( E r    ( I a   () X LRSS   () IID M T W T T C R F LRS D A R D I T M   () A t G a t G A o p]( f r   () D]( r 1  O o b S 1 2 a o o b S 1 e 5 y t D 1  ( I  ( “ m t V I J A D a R D  ( “() “P”DSBRM M T E E A R E.]
+[DELETED:  S  1  () T  ( T] 1  T 1  ( T p o t p o D i t c a f c() TDSBHH I A E E R E R E.() TDP.H I R() TPSH P O T R I T L T TES P  () T Dr ]()[]D R   ( C t D a t a A d p   ( S o A O RMS ;   OS I O T T L O’DRD;RS I E E   () A]( a   () D a m i m a]( m o]
+[DELETED: S 5   () I e a S a a i]( w d a t c a c p a p s p   SACS :  () S A M A C PE    §1E T S H C P I DEBD NC,–;  () CIO W A IS H BS A C E P T P I DAS EN TG A,S   () CSIO W TEL C I T I O T IAC;   () A]( o i   () C]( d 1  O o b S 1 2 a o o b S 1 e 5 y t t G O C o t a a r o t] Dr.R 1  T p   ( F   ( F]
+[DELETED:  S    ( F   ( F   ( F() I,“N T SN TT M T C P T F D C F H C P B ).() OJO1,2,DN O B A C   T ET I W T E O GG T OL A OA,C LRS D S E A M A C P() T,H P O T T I T P A CDPTOD R T S C P I C() T(H B     R A E W T E O O   ET ; ( I: ( () RAI LRSS OO O– RT– ( () RIIS  ( () IH I O E D A D LRS’; ( () VA]
+[DELETED: S 7 ( () TH R A E D I DGG ; ( () PIENC C D A R ( () E,:IFS   () 1 AV R TS IS ;  () 2 RIE P T CYBS   () 3 IN O T O AS  ( ()IO E O R T() TH ES : ( M; ( A; ( H; ( F; ( H; ( P; ( OSS S ; ( A, O P O P ON EY O E.]
+[DELETED:  S () OJ1,2N O B A  E YR B I  T  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 555
+J1 (6lr2791)
+ENROLLED BILL
+— Finance/Health —
+Introduced by Senator Hayes
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Health – Dementia Services and Brain Health Program and Clinical Provider
+3 Resource Toolkit
+4 FOR the purpose of altering the duties of the Virginia I. Jones Alzheimer’s Disease and
+5 Related Dementias Council; establishing the Dementia Services and Brain Health
+6 Program in the Maryland Department of Health to lead the State’s public health
+7 efforts relating to brain health and dementia; requiring the Director of Dementia
+8 Services and Brain Health to administer the Program; requiring the Program, rather
+9 than the Director, to perform certain duties and staff the Council; requiring the
+10 Program to oversee implementation of a certain State Plan and support and promote
+11 the delivery of dementia–capable care; requiring the Maryland Department of
+12 Health, in partnership with the Department of Aging, the Council, and other entities,
+13 to develop a clinical provider resource toolkit for dementia care for health care
+14 providers; and generally relating to Alzheimer’s disease and related dementias and
+15 dementia services.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0555*
+
+2 SENATE BILL 555
+1 BY repealing and reenacting, without amendments,
+2 Article – Health – General
+3 Section 13–3201, 13–3202, 13–3207, 13–32A–03, and 13–32A–06
+4 Annotated Code of Maryland
+5 (2023 Replacement Volume and 2025 Supplement)
+6 BY repealing and reenacting, with amendments,
+7 Article – Health – General
+8 Section 13–3205, 13–3206, 13–32A–01, 13–32A–02, 13–32A–04, and 13–32A–05
+9 Annotated Code of Maryland
+10 (2023 Replacement Volume and 2025 Supplement)
+11 BY adding to
+12 Article – Health – General
+13 Section 13–32A–07
+14 Annotated Code of Maryland
+15 (2023 Replacement Volume and 2025 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – Health – General
+19 13–3201.
+20 (a) In this subtitle the following words have the meanings indicated.
+21 (b) “Council” means the Virginia I. Jones Alzheimer’s Disease and Related
+22 Dementias Council.
+23 (c) “Director” means the Director of Dementia Services and Brain Health
+24 established under Subtitle 32A of this title.
+25 13–3202.
+26 There is a Virginia I. Jones Alzheimer’s Disease and Related Dementias Council.
+27 13–3205.
+28 (a) The [Director] DEMENTIA SERVICES AND BRAIN HEALTH PROGRAM,
+29 with assistance from the Department of Aging, shall provide staff support for the Council.
+30 (b) The Director may request staffing assistance from public health entities with
+31 an interest in the duties of the Council.
+32 13–3206.
+
+SENATE BILL 555 3
+1 The Council shall:
+2 (1) Update the State Plan on Alzheimer’s Disease and Related Dementias
+3 and advocate for the State Plan;
+4 (2) (i) Examine the needs of individuals with Alzheimer’s disease and
+5 related dementias and their caregivers; and
+6 (ii) Identify methods through which the State can most effectively
+7 and efficiently assist in meeting those needs;
+8 (3) (I) EXAMINE THE READINESS AND CAPACITY OF HEALTH CARE
+9 PROVIDERS TO DELIVER CARE TO INDIVIDUALS WITH OR AT RISK FOR ALZHEIMER’S
+10 DISEASE AND RELATED DEMENTIAS; AND
+11 (II) IDENTIFY METHODS THROUGH WHICH THE STATE CAN
+12 ASSIST HEALTH CARE PROVIDERS IN DELIVERING CARE TO INDIVIDUALS WITH OR
+13 AT RISK FOR ALZHEIMER’S DISEASE AND RELATED DEMENTIAS IN THE MOST
+14 EFFECTIVE AND EFFICIENT MANNER;
+15 [(3)] (4) Advise the Governor and the General Assembly on policy,
+16 funding, regulatory, and other issues related to individuals with Alzheimer’s disease and
+17 related dementias and their caregivers; and
+18 [(4)] (5) Develop and promote strategies to encourage brain health and
+19 reduce cognitive decline.
+20 13–3207.
+21 On or before September 1, 2022, and on or before September 1 every 5 years
+22 thereafter, the Council shall issue and publish an update to the State Plan on Alzheimer’s
+23 Disease and Related Dementias.
+24 13–32A–01.
+25 (a) In this subtitle the following words have the meanings indicated.
+26 (b) “Council” means the Virginia I. Jones Alzheimer’s Disease and Related
+27 Dementias Council.
+28 (c) “Director” means the Director of Dementia Services and Brain Health.
+29 (D) “PROGRAM” MEANS THE DEMENTIA SERVICES AND BRAIN HEALTH
+30 PROGRAM.
+
+4 SENATE BILL 555
+1 13–32A–02.
+2 [(a)] There is a Director of Dementia Services and Brain Health in the Department.
+3 [(b) The Director shall report to the Secretary.]
+4 13–32A–03.
+5 The position of Director shall be a full–time and permanent position.
+6 13–32A–04.
+7 [(a) The purpose of the position of Director is to coordinate and facilitate
+8 communication relating to dementia services in the State.]
+9 (A) THERE IS A DEMENTIA SERVICES AND BRAIN HEALTH PROGRAM IN
+10 THE DEPARTMENT.
+11 (B) THE DIRECTOR SHALL ADMINISTER THE PROGRAM.
+12 (C) THE PURPOSE OF THE PROGRAM IS TO LEAD THE STATE’S PUBLIC
+13 HEALTH EFFORTS RELATING TO BRAIN HEALTH AND DEMENTIA.
+14 [(b)] (D) The [Director] PROGRAM shall:
+15 (1) Coordinate the Department’s approach to addressing Alzheimer’s
+16 disease and other forms of dementia and brain health, including through public awareness,
+17 prevention, and early detection and diagnosis;
+18 (2) Staff the Council and [oversee implementation of the State Plan on
+19 Alzheimer’s Disease and Related Dementias] UPDATE THE COUNCIL EACH QUARTER ON
+20 THE PROGRAM’S ACTIVITIES;
+21 (3) OVERSEE IMPLEMENTATION OF THE STATE PLAN ON
+22 ALZHEIMER’S DISEASE AND RELATED DEMENTIAS;
+23 [(3)] (4) Assess, analyze, and conduct outreach to share cognitive health
+24 and dementia–related data;
+25 [(4)] (5) Develop and monitor implementation milestones and
+26 measurable outcomes to assess progress in achieving the goals laid out in the State Plan
+27 on Alzheimer’s Disease and Related Dementias;
+
+SENATE BILL 555 5
+1 [(5)] (6) Identify efficiencies across State agencies that aid individuals
+2 with dementia and their caregivers, and coordinate public and private stakeholder
+3 partnerships;
+4 (7) SUPPORT AND PROMOTE THE DELIVERY OF DEMENTIA–CAPABLE
+5 CARE ACROSS HEALTH CARE SETTINGS THROUGH VARIOUS METHODS, INCLUDING:
+6 (I) ESTABLISHING AND MAINTAINING A CLINICAL PROVIDER
+7 RESOURCE TOOLKIT FOR DEMENTIA CARE, AS DEFINED IN § 13–32A–07 OF THIS
+8 SUBTITLE, TO SUPPORT HEALTH CARE PROVIDERS IN DELIVERING
+9 EVIDENCE–BASED, PERSON–CENTERED CARE;
+10 (II) COORDINATING WITH ACADEMIC INSTITUTIONS, HEALTH
+11 OCCUPATIONS BOARDS, AND CONTINUING EDUCATION PROVIDERS TO PROMOTE
+12 PARTICIPATION IN DEMENTIA–SPECIFIC EDUCATION, TRAINING, AND
+13 CERTIFICATION FOR HEALTH CARE PROFESSIONALS; AND
+14 (III) COLLABORATING WITH STATE–LED CARE
+15 TRANSFORMATION INITIATIVES TO IDENTIFY OPPORTUNITIES TO INCORPORATE
+16 DEMENTIA–CAPABLE CARE PRACTICES INTO HEALTH CARE MODELS;
+17 [(6)] (8) Apply for grants to enable the implementation of the State Plan
+18 on Alzheimer’s Disease and Related Dementias goals to reduce the risk of dementia, and to
+19 improve the quality of care for individuals with dementia and their caregivers; and
+20 [(7)] (9) Carry out other duties relevant to the support of individuals with
+21 dementia as may be assigned by the Department.
+22 13–32A–05.
+23 On or before September 1, 2023, and on or before September 1 every 5 years
+24 thereafter, the Director shall report to the Governor and, in accordance with § 2–1257 of
+25 the State Government Article, the Senate Finance Committee and the House Health and
+26 Government Operations Committee on the activities and recommendations of the
+27 [Director] PROGRAM.
+28 13–32A–06.
+29 The Governor shall include in the annual budget bill an appropriation to fund the
+30 position of Director and the Council, as follows:
+31 (1) For fiscal year 2023, at least $71,400;
+32 (2) For fiscal year 2024, at least $83,000;
+
+6 SENATE BILL 555
+1 (3) For fiscal year 2025, at least $85,300;
+2 (4) For fiscal year 2026, at least $87,600; and
+3 (5) For fiscal year 2027 and each fiscal year thereafter, at least $89,900.
+4 13–32A–07.
+5 (A) IN THIS SECTION, “TOOLKIT” MEANS THE CLINICAL PROVIDER
+6 RESOURCE TOOLKIT FOR DEMENTIA CARE FOR HEALTH CARE PROVIDERS
+7 DEVELOPED UNDER SUBSECTION (B) OF THIS SECTION.
+8 (B) ON OR BEFORE JANUARY OCTOBER 1, 2027, THE DEPARTMENT, IN
+9 PARTNERSHIP WITH THE DEPARTMENT OF AGING, THE COUNCIL, AND OTHER
+10 PUBLIC OR PRIVATE ORGANIZATIONS WITH EXPERTISE IN ALZHEIMER’S DISEASE OR
+11 RELATED DEMENTIAS SHALL ESTABLISH AND MAINTAIN A CLINICAL PROVIDER
+12 RESOURCE TOOLKIT FOR DEMENTIA CARE FOR HEALTH CARE PROVIDERS.
+13 (C) THE PURPOSE OF THE TOOLKIT IS TO PROVIDE A CENTRALIZED,
+14 UP–TO–DATE RESOURCE TO SUPPORT HEALTH CARE PROVIDERS IN CARING FOR
+15 PATIENTS WHO ARE AT RISK FOR OR WHO MAY HAVE DEMENTIA.
+16 (D) THE TOOLKIT DEVELOPED UNDER SUBSECTION (B) OF THIS SECTION
+17 SHALL INCLUDE INFORMATION ON:
+18 (1) BE COMPOSED OF MATERIALS THAT CAN BE DEVELOPED USING
+19 EXISTING RESOURCES AND EXPERTISE WITHIN THE DEPARTMENT OR OBTAINED
+20 THROUGH PARTNERSHIPS WITH ANY OTHER PUBLIC OR PRIVATE ORGANIZATION OR
+21 ENTITY ENTITIES AS DETERMINED NECESSARY BY THE DEPARTMENT; AND
+22 (2) INCLUDE INFORMATION ON:
+23 (1) (I) RISK FACTORS FOR ALZHEIMER’S DISEASE AND RELATED
+24 DEMENTIAS, INCLUDING CHRONIC DISEASES AND THE CO–OCCURRENCE OF DOWN
+25 SYNDROME (TRISOMY–21);
+26 (2) (II) RISK REDUCTION STRATEGIES, INCLUDING INFORMATION
+27 ON LIFESTYLE INTERVENTIONS TO REDUCE DEMENTIA RISK;
+28 (3) (III) THE IMPORTANCE OF EARLY DETECTION AND DIAGNOSIS
+29 OF ALZHEIMER’S DISEASE AND RELATED DEMENTIAS;
+30 (4) (IV) VALIDATED ASSESSMENT TOOLS FOR THE DETECTION AND
+31 DIAGNOSIS OF COGNITIVE IMPAIRMENT;
+
+SENATE BILL 555 7
+1 (5) (V) THE RACIAL AND ETHNIC DISPARITIES IN DETECTING,
+2 DIAGNOSING, AND ACCESSING TREATMENT AND SERVICES;
+3 (6) (VI) PERSON–CENTERED CARE DELIVERY AND RELEVANT
+4 SOURCES OF CLINICAL PRACTICE GUIDELINES AND TOOLS;
+5 (7) (VII) EFFECTIVE CARE PLANNING TOOLS, INCLUDING:
+6 (I) 1. AVAILABLE REIMBURSEMENT TOOLS, INCLUDING
+7 RELEVANT BILLING CODES, FOR INDIVIDUALS WITH COGNITIVE IMPAIRMENT;
+8 (II) 2. REFERRAL PATHWAYS TO COMMUNITY–BASED
+9 SERVICES AND CARE PLANNING RESOURCES; AND
+10 (III) 3. INFORMATION ON TREATMENT OPTIONS AND
+11 RELEVANT SOURCES FOR GUIDELINES; AND
+12 (8) (VIII) CONTINUING EDUCATION OPPORTUNITIES RELATED TO
+13 DEMENTIA CARE BEST PRACTICES.
+14 (E) THE DEPARTMENT SHALL PROMOTE THE USE OF THE TOOLKIT ACROSS
+15 HEALTH CARE SECTORS, INCLUDING:
+16 (1) MANAGED CARE PROGRAMS;
+17 (2) ACADEMIC RESEARCH INSTITUTIONS;
+18 (3) HOSPITALS AND HEALTH SYSTEMS;
+19 (4) FEDERALLY QUALIFIED HEALTH CENTERS;
+20 (5) HOSPITAL AND HEALTH SYSTEM ASSOCIATIONS;
+21 (6) PHYSICIAN AND MEDICAL STUDENT ORGANIZATIONS;
+22 (7) ORGANIZATIONS REPRESENTING THE ADVANCEMENT OF NURSES,
+23 HEALTH CARE PROFESSIONALS, AND HEALTH CARE ORGANIZATIONS; AND
+24 (8) ANY OTHER PUBLIC OR PRIVATE ORGANIZATION, ENTITY, OR
+25 PART OF AN ORGANIZATION OR ENTITY THE DEPARTMENT DEEMS NECESSARY.
+
+8 SENATE BILL 555
+1 (F) ON OR BEFORE JANUARY 1 EACH YEAR, BEGINNING IN 2028, THE
+2 DEPARTMENT SHALL REVIEW AND UPDATE THE INFORMATION IN THE TOOLKIT TO
+3 REFLECT THE MOST RECENT AND ACCURATE AVAILABLE INFORMATION.
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      ( w t G S a p t t G f h a t d o _ a _ o _ A H R F R P e S t t D t p c d a s t C r t P t d o d c r t M D o H t d a c p r t f d c f h c p d]
+[DELETED:  S  B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 1  ( I  ( “ m t V I J A D a R D  ( “ m t D o D S a B H e 1  T 1  ( T Dr,]DSBHE E A R E R w  ( T a 1]
+[DELETED: S 3  T   ( U a   ( ( E r    ( I a   () X LRSS   () IID M T W T T C R F LRS D A R D I T M   () A t G a t G A o p]( f r   () D]( r 1  O o b S 1 2 a o o b S 1 e 5 y t D 1  ( I  ( “ m t V I J A D a R D  ( “() “P”DSBRM M T E E A R E.]
+[DELETED:  S  1  () T  ( T] 1  T 1  ( T p o t p o D i t c a f c() TDSBHH I A E E R E R E.() TDP.H I R() TPSH P O T R I T L T TES P  () T Dr ]()[]D R   ( C t D a t a A d p   ( S o A O RMS ;   OS I O T T L O’DRD;RS I E E   () A]( a   () D a m i m a]( m o]
+[DELETED: S 5   () I e a S a a i]( w d a t c a c p a p s p   SACS :  () S A M A C PE    §1E T S H C P I DEBD NC,–;  () CIO W A IS H BS A C E P T P I DAS EN TG A,S   () CSIO W TEL C I T I O T IAC;   () A]( o i   () C]( d 1  O o b S 1 2 a o o b S 1 e 5 y t t G O C o t a a r o t] Dr.R 1  T p   ( F   ( F]
+[DELETED:  S    ( F   ( F   ( F() I,“N T SN TT M T C P T F D C F H C P B ).() OJO1,2,DN O B A C   T ET I W T E O GG T OL A OA,C LRS D S E A M A C P() T,H P O T T I T P A CDPTOD R T S C P I C() T(H B     R A E W T E O O   ET ; ( I: ( () RAI LRSS OO O– RT– ( () RIIS  ( () IH I O E D A D LRS’; ( () VA]
+[DELETED: S 7 ( () TH R A E D I DGG ; ( () PIENC C D A R ( () E,:IFS   () 1 AV R TS IS ;  () 2 RIE P T CYBS   () 3 IN O T O AS  ( ()IO E O R T() TH ES : ( M; ( A; ( H; ( F; ( H; ( P; ( OSS S ; ( A, O P O P ON EY O E.]
+[DELETED:  S () OJ1,2N O B A  E YR B I  T  S A B I F E T t A s t e O          G               ]

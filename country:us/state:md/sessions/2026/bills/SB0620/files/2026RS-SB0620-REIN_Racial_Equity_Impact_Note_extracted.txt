@@ -1,0 +1,440 @@
+Title: Criminal Law - Wearing, Carrying, or Transporting a Handgun -
+Official Title: Criminal Law - Wearing, Carrying, or Transporting a Handgun -
+Number of Sections: 14
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2026 Session
+SB0620
+Prior Convictions
+Bill Summary
+This bill expands the circumstances under which a defendant that violates provisions relating to
+wearing, carrying, or transporting a handgun is subject to existing subsequent offender enhanced
+sentencing provisions based on the defendant’s prior criminal history to include prior convictions
+from another state, federal, military, or a Native American tribal court, provided that the prior
+offense would constitute a violation of one of the applicable provisions if committed in Maryland.
+The subsequent offender provisions apply to previous convictions under § 4-203 (wearing,
+carrying, or transporting a handgun), § 4-204 (use of handgun or antique firearm in commission
+of crime), § 4-101 (dangerous weapons), and § 4-102 (deadly weapons on school property) of the
+Criminal Law Article.
+Racial Equity Impact Statement
+The bill would require enhanced penalties for offenders convicted of illegal possession of a
+handgun who have prior convictions in other jurisdictions for specified firearm violations.
+Criminal justice data suggests the bill is likely to disproportionately affect Black Marylanders,
+who are already overrepresented in arrests, convictions, and incarcerations for handgun offenses.
+Department of State Police (DSP) data show that Black individuals are 12 times more likely than
+white individuals to be arrested for handgun-related offenses, while Hispanic individuals are twice
+as likely to be arrested for the same offense relative to their white peers. Additional data would be
+required to assess specific impacts, including the proportion of arrestees for illegal handgun
+possession who have prior convictions in other jurisdictions.
+SB 620/ Page 1
+Analysis
+A person must have a handgun permit before the person carries, wears, or transports a handgun in
+the State.
+With specified exceptions, including possession of a handgun permit, a person may not (1) wear,
+carry, or transport a handgun, whether concealed or open, on or about the person; (2) wear, carry,
+or knowingly transport a handgun, whether concealed or open, in a vehicle traveling on a road or
+parking lot generally used by the public, highway, waterway, or airway of the State; (3) violate
+items (1) or (2) listed above while on public school property in the State; (4) violate items (1) or
+(2) listed above with the deliberate purpose of injuring or killing another person; or (5) violate
+items (1) or (2) listed above with a handgun loaded with ammunition. There is a rebuttable
+presumption that a person who transports a handgun does so knowingly. A violator is guilty of a
+misdemeanor and subject to the penalties listed below. The subsequent offender provisions apply
+to previous convictions under § 4-203 (wearing, carrying, or transporting a handgun), § 4-204 (use
+of handgun or antique firearm in commission of crime), § 4-101 (dangerous weapons), and § 4-102
+(deadly weapons on school property) of the Criminal Law Article, as shown in Exhibit 1.
+Exhibit 1
+Penalties for Specified Handgun Violations
+First-time Offender – No prior convictions In General – Imprisonment for at least 30
+under §§ 4-203, 4-204, 4-101, or 4-102 of the days and up to 5 years and/or fine of $250 to
+Criminal Law Article $2,500.
+Offense on Public School Property –
+Imprisonment for at least 90 days.
+Subsequent Offender – One prior conviction In General – Imprisonment for at least 1 year
+under §§ 4-203, 4-204, 4-101, or 4-102 of the and up to 10 years.
+Criminal Law Article
+Offense on Public School Property –
+Imprisonment for at least 3 years and up to 10
+years.
+Court may not impose less than the applicable
+minimum sentence.
+Offense with handgun loaded with
+ammunition – With required notice, court
+may not suspend any part of or impose less
+than the applicable mandatory minimum
+sentence. Person is not eligible for parole
+during mandatory minimum sentence.*
+SB 620/ Page 2
+Subsequent Offender – More than one prior In General – Imprisonment for at least 3 years
+conviction under §§ 4-203, 4-204, 4-101, or and up to 10 years.
+4-102 of the Criminal Law Article
+Offense on Public School Property –
+Imprisonment for at least 5 years and up to 10
+years.
+Offense with Deliberate Purpose of Injuring
+or Killing Another Person – Imprisonment for
+at least 5 years and up to 10 years.
+Court may not impose less than the applicable
+minimum sentence.
+Offense with handgun loaded with
+ammunition – With required notice, court
+may not suspend any part of or impose less
+than the applicable mandatory minimum
+sentence. Person is not eligible for parole
+during mandatory minimum sentence.*
+* Contains exception for § 4-305 of the Correctional Services Article (parole for an inmate at the Patuxent Institution).
+Source: Department of Legislative Services
+Impacts of the Bill
+Following the U.S. Supreme Court’s June 2022 decision in New York State Rifle & Pistol
+Association, Inc. v. Bruen, Maryland’s Court of Special Appeals (now the Appellate Court of
+Maryland) ruled that Maryland’s wear and carry handgun permit law requiring an applicant to
+have a “good and substantial reason” to be issued a license to carry was unconstitutional. This has
+led to a significant increase in the number of individuals legally permitted to carry firearms in the
+State. Arrests for illegal handgun possession and other firearm-related offenses, however, have
+also increased since 2023.
+DSP uses the Federal Bureau of Investigation’s National Incident Based Reporting System
+(NIBRS) to collect and report detailed information about crime incidents, victims, offenders, and
+arrestees. NIBRS also captures information on the relationships between victims and offenders, as
+well as the use of weapons and the types of stolen or damaged property. In 2024, the NIBRS
+reporting agencies reported approximately 2,105 arrests involving handgun-related weapons law
+violations. While the DSP data includes arrests for other handgun-related offenses in addition to
+wearing, carrying, and transporting a handgun, it provides the best approximation of the offenders
+impacted by the bill.
+When compared to their share of the overall State population, Black offenders are significantly
+overrepresented in arrests for handgun-related offenses. Exhibit 2 shows the disproportionality
+rate and disparity ratio by race and ethnicity from the DSP data. The disproportionality rate for
+Black arrestees is 2.89. This means that Black individuals are nearly three times more likely to be
+SB 620/ Page 3
+arrested for these offenses, given their share of the adult population in the State. The
+disproportionality rates for Hispanic and white arrestees are significantly less than 1.00, which
+means they are considerably less likely to be arrested for these offenses when compared to their
+share of the overall adult population.
+Exhibit 2
+Racial Disproportionality Rate and Disparity Ratio for
+Handgun-related Arrests
+2024
+
+Section 2:
+14.00
+
+Section 3:
+12.01
+
+Section 4:
+12.00
+
+Section 5:
+10.00
+
+Section 6:
+8.00
+
+Section 7:
+6.00
+
+Section 8:
+4.00 2.89
+
+Section 9:
+2.05
+
+Section 10:
+2.00 1.00
+
+Section 11:
+0.49 0.24
+
+Section 12:
+0.00
+Disproportionality Rate Disparity Ratio
+Black Hispanic White
+Source: Department of State Police; Department of Legislative Services
+The disparity ratio illustrates inequities in outcomes when comparing one or more racial or ethnic
+groups within a dataset to the white population within that same dataset. In this instance, the
+disparity ratio for Black arrestees is 12.01. This means that Black individuals are 12 times more
+likely to be arrested for a handgun-related offense relative to their white peers. In addition,
+Hispanic individuals are twice as likely to be arrested relative to their white peers.
+According to data from the Department of Public Safety and Correctional Services, there are 340
+individuals currently incarcerated for violating the prohibition on wearing, carrying, or
+transporting a handgun under § 4-203 of the Criminal Law Article. Black individuals are
+significantly overrepresented in incarcerations for this offense relative to other racial and ethnic
+groups, as they comprise 87% of those incarcerated. The data also shows that, on average, Black
+and Hispanic inmates have longer sentences and are younger than white inmates who are
+incarcerated for the same offense.
+The Maryland State Commission on Criminal Sentencing Policy (MSCCSP) reports that in
+fiscal 2025, a total of 1,250 defendants had sentencing guidelines eligible circuit court cases for
+convictions under § 4-203 of the Criminal Law Article. The MSCCSP data shows that Black
+SB 620/ Page 4
+individuals are significantly overrepresented in co nvictions for this offense relative to other racial
+and ethnic groups, as they comprised 80% of those convicted and sentenced.
+Conclusion
+In Maryland and nationwide, racial and ethnic disparities exist throughout the criminal justice
+system. The bill’s alteration of the list of convictions that subject a defendant to enhanced
+sentencing for wearing, carrying, or transporting a handgun to include certain extra-jurisdictional
+crimes will likely increase the number of individuals charged, convicted, and incarcerated in
+Maryland. This could exacerbate existing racial disparities in the State, as data shows a significant
+overrepresentation of Black offenders sentenced for illegal handgun possession. The bill would
+impose harsher penalties on a broader group of offenders, although there is no reliable way to
+estimate how many additional offenders would be affected. The notable disparities associated with
+the violations specified in the bill are indicative of systemic inequities observed generally in
+Maryland’s criminal justice data.
+Information Sources: Department of State Police; Department of Public Safety and Correctional
+Services; Administrative Office of the Courts; Maryland State Commission on Criminal
+Sentencing Policy; Department of Legislative Services
+Analysis by: Dr. Jasmón Bailey
+Published: 04/03/2026
+SB 620/ Page 5
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+
+Section 13:
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+
+Section 14:
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+SB 620/ Page 6
+[DELETED:  s o p a t p c u § 4 ( b w r e p f o c o i p o a w h p c i o j f s f v t a s i i t p o a f i h]
+[DELETED:  ( o ( l a w a h l w a T i a r I d $ I a ]
+[DELETED:  I a  t U S C J 2 d i N Y S R & P u t F B o I N I B R S]
+[DELETED:  f t o g t s o t a p i t S T t b a f a h o r t t w p I a c i f v t p o w c o a h u § 4 o t C L A B i a H i h l s a a y t w i w a M S C o C S P ( r t ieDkHcW]
+[DELETED:  T b a o t l o c t s a d t e w l i t n o c c a i i v s t b a i o i o g i A O o t C M S C o C ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]
+
+
+================================================================================
+
+Raw Text:
+2026 Session
+SB0620
+Criminal Law - Wearing, Carrying, or Transporting a Handgun -
+Prior Convictions
+Bill Summary
+This bill expands the circumstances under which a defendant that violates provisions relating to
+wearing, carrying, or transporting a handgun is subject to existing subsequent offender enhanced
+sentencing provisions based on the defendant’s prior criminal history to include prior convictions
+from another state, federal, military, or a Native American tribal court, provided that the prior
+offense would constitute a violation of one of the applicable provisions if committed in Maryland.
+The subsequent offender provisions apply to previous convictions under § 4-203 (wearing,
+carrying, or transporting a handgun), § 4-204 (use of handgun or antique firearm in commission
+of crime), § 4-101 (dangerous weapons), and § 4-102 (deadly weapons on school property) of the
+Criminal Law Article.
+Racial Equity Impact Statement
+The bill would require enhanced penalties for offenders convicted of illegal possession of a
+handgun who have prior convictions in other jurisdictions for specified firearm violations.
+Criminal justice data suggests the bill is likely to disproportionately affect Black Marylanders,
+who are already overrepresented in arrests, convictions, and incarcerations for handgun offenses.
+Department of State Police (DSP) data show that Black individuals are 12 times more likely than
+white individuals to be arrested for handgun-related offenses, while Hispanic individuals are twice
+as likely to be arrested for the same offense relative to their white peers. Additional data would be
+required to assess specific impacts, including the proportion of arrestees for illegal handgun
+possession who have prior convictions in other jurisdictions.
+SB 620/ Page 1
+
+Analysis
+A person must have a handgun permit before the person carries, wears, or transports a handgun in
+the State.
+With specified exceptions, including possession of a handgun permit, a person may not (1) wear,
+carry, or transport a handgun, whether concealed or open, on or about the person; (2) wear, carry,
+or knowingly transport a handgun, whether concealed or open, in a vehicle traveling on a road or
+parking lot generally used by the public, highway, waterway, or airway of the State; (3) violate
+items (1) or (2) listed above while on public school property in the State; (4) violate items (1) or
+(2) listed above with the deliberate purpose of injuring or killing another person; or (5) violate
+items (1) or (2) listed above with a handgun loaded with ammunition. There is a rebuttable
+presumption that a person who transports a handgun does so knowingly. A violator is guilty of a
+misdemeanor and subject to the penalties listed below. The subsequent offender provisions apply
+to previous convictions under § 4-203 (wearing, carrying, or transporting a handgun), § 4-204 (use
+of handgun or antique firearm in commission of crime), § 4-101 (dangerous weapons), and § 4-102
+(deadly weapons on school property) of the Criminal Law Article, as shown in Exhibit 1.
+Exhibit 1
+Penalties for Specified Handgun Violations
+First-time Offender – No prior convictions In General – Imprisonment for at least 30
+under §§ 4-203, 4-204, 4-101, or 4-102 of the days and up to 5 years and/or fine of $250 to
+Criminal Law Article $2,500.
+Offense on Public School Property –
+Imprisonment for at least 90 days.
+Subsequent Offender – One prior conviction In General – Imprisonment for at least 1 year
+under §§ 4-203, 4-204, 4-101, or 4-102 of the and up to 10 years.
+Criminal Law Article
+Offense on Public School Property –
+Imprisonment for at least 3 years and up to 10
+years.
+Court may not impose less than the applicable
+minimum sentence.
+Offense with handgun loaded with
+ammunition – With required notice, court
+may not suspend any part of or impose less
+than the applicable mandatory minimum
+sentence. Person is not eligible for parole
+during mandatory minimum sentence.*
+SB 620/ Page 2
+
+Subsequent Offender – More than one prior In General – Imprisonment for at least 3 years
+conviction under §§ 4-203, 4-204, 4-101, or and up to 10 years.
+4-102 of the Criminal Law Article
+Offense on Public School Property –
+Imprisonment for at least 5 years and up to 10
+years.
+Offense with Deliberate Purpose of Injuring
+or Killing Another Person – Imprisonment for
+at least 5 years and up to 10 years.
+Court may not impose less than the applicable
+minimum sentence.
+Offense with handgun loaded with
+ammunition – With required notice, court
+may not suspend any part of or impose less
+than the applicable mandatory minimum
+sentence. Person is not eligible for parole
+during mandatory minimum sentence.*
+* Contains exception for § 4-305 of the Correctional Services Article (parole for an inmate at the Patuxent Institution).
+Source: Department of Legislative Services
+Impacts of the Bill
+Following the U.S. Supreme Court’s June 2022 decision in New York State Rifle & Pistol
+Association, Inc. v. Bruen, Maryland’s Court of Special Appeals (now the Appellate Court of
+Maryland) ruled that Maryland’s wear and carry handgun permit law requiring an applicant to
+have a “good and substantial reason” to be issued a license to carry was unconstitutional. This has
+led to a significant increase in the number of individuals legally permitted to carry firearms in the
+State. Arrests for illegal handgun possession and other firearm-related offenses, however, have
+also increased since 2023.
+DSP uses the Federal Bureau of Investigation’s National Incident Based Reporting System
+(NIBRS) to collect and report detailed information about crime incidents, victims, offenders, and
+arrestees. NIBRS also captures information on the relationships between victims and offenders, as
+well as the use of weapons and the types of stolen or damaged property. In 2024, the NIBRS
+reporting agencies reported approximately 2,105 arrests involving handgun-related weapons law
+violations. While the DSP data includes arrests for other handgun-related offenses in addition to
+wearing, carrying, and transporting a handgun, it provides the best approximation of the offenders
+impacted by the bill.
+When compared to their share of the overall State population, Black offenders are significantly
+overrepresented in arrests for handgun-related offenses. Exhibit 2 shows the disproportionality
+rate and disparity ratio by race and ethnicity from the DSP data. The disproportionality rate for
+Black arrestees is 2.89. This means that Black individuals are nearly three times more likely to be
+SB 620/ Page 3
+
+arrested for these offenses, given their share of the adult population in the State. The
+disproportionality rates for Hispanic and white arrestees are significantly less than 1.00, which
+means they are considerably less likely to be arrested for these offenses when compared to their
+share of the overall adult population.
+Exhibit 2
+Racial Disproportionality Rate and Disparity Ratio for
+Handgun-related Arrests
+2024
+14.00
+12.01
+12.00
+10.00
+8.00
+6.00
+4.00 2.89
+2.05
+2.00 1.00
+0.49 0.24
+0.00
+Disproportionality Rate Disparity Ratio
+Black Hispanic White
+Source: Department of State Police; Department of Legislative Services
+The disparity ratio illustrates inequities in outcomes when comparing one or more racial or ethnic
+groups within a dataset to the white population within that same dataset. In this instance, the
+disparity ratio for Black arrestees is 12.01. This means that Black individuals are 12 times more
+likely to be arrested for a handgun-related offense relative to their white peers. In addition,
+Hispanic individuals are twice as likely to be arrested relative to their white peers.
+According to data from the Department of Public Safety and Correctional Services, there are 340
+individuals currently incarcerated for violating the prohibition on wearing, carrying, or
+transporting a handgun under § 4-203 of the Criminal Law Article. Black individuals are
+significantly overrepresented in incarcerations for this offense relative to other racial and ethnic
+groups, as they comprise 87% of those incarcerated. The data also shows that, on average, Black
+and Hispanic inmates have longer sentences and are younger than white inmates who are
+incarcerated for the same offense.
+The Maryland State Commission on Criminal Sentencing Policy (MSCCSP) reports that in
+fiscal 2025, a total of 1,250 defendants had sentencing guidelines eligible circuit court cases for
+convictions under § 4-203 of the Criminal Law Article. The MSCCSP data shows that Black
+SB 620/ Page 4
+
+individuals are significantly overrepresented in co nvictions for this offense relative to other racial
+and ethnic groups, as they comprised 80% of those convicted and sentenced.
+Conclusion
+In Maryland and nationwide, racial and ethnic disparities exist throughout the criminal justice
+system. The bill’s alteration of the list of convictions that subject a defendant to enhanced
+sentencing for wearing, carrying, or transporting a handgun to include certain extra-jurisdictional
+crimes will likely increase the number of individuals charged, convicted, and incarcerated in
+Maryland. This could exacerbate existing racial disparities in the State, as data shows a significant
+overrepresentation of Black offenders sentenced for illegal handgun possession. The bill would
+impose harsher penalties on a broader group of offenders, although there is no reliable way to
+estimate how many additional offenders would be affected. The notable disparities associated with
+the violations specified in the bill are indicative of systemic inequities observed generally in
+Maryland’s criminal justice data.
+Information Sources: Department of State Police; Department of Public Safety and Correctional
+Services; Administrative Office of the Courts; Maryland State Commission on Criminal
+Sentencing Policy; Department of Legislative Services
+Analysis by: Dr. Jasmón Bailey
+Published: 04/03/2026
+SB 620/ Page 5
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+SB 620/ Page 6
+
+[DELETED:  s o p a t p c u § 4 ( b w r e p f o c o i p o a w h p c i o j f s f v t a s i i t p o a f i h]
+[DELETED:  ( o ( l a w a h l w a T i a r I d $ I a ]
+[DELETED:  I a  t U S C J 2 d i N Y S R & P u t F B o I N I B R S]
+[DELETED:  f t o g t s o t a p i t S T t b a f a h o r t t w p I a c i f v t p o w c o a h u § 4 o t C L A B i a H i h l s a a y t w i w a M S C o C S P ( r t ieDkHcW]
+[DELETED:  T b a o t l o c t s a d t e w l i t n o c c a i i v s t b a i o i o g i A O o t C M S C o C ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]

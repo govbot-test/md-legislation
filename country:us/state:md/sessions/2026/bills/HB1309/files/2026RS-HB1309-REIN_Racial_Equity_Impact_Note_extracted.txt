@@ -1,0 +1,292 @@
+Title: Commission to Review and Assess Racial Disparities in the State
+Official Title: Commission to Review and Assess Racial Disparities in the State
+Number of Sections: 3
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2026 Session
+HB1309
+Criminal Justice System - Establishment
+Bill Summary
+This bill establishes the Commission to Review and Assess Racial Disparities in the State Criminal
+Justice System. The commission must report its interim and final findings and recommendations
+to the Senate Judicial Proceedings Committee and the House Judiciary Committee by
+October 1, 2027, and September 1, 2028, respectively.
+Racial Equity Impact Statement
+Documented data confirms that Black individuals and other minorities encounter disproportionate
+and disparate outcomes within the State’s criminal justice system. The commission’s data review
+and subsequent recommendations would likely be helpful in evaluating existing structural
+inequities on both the State and local level. The insights gained from the commission’s
+recommendations would be a significant step toward broadening the practice of data-informed
+policymaking throughout State institutions responsible for implementing rules, policies, and laws
+within the criminal justice system.
+Analysis
+The commission created by the bill must study and make recommendations on:
+ the disparate treatment of African Americans, Hispanics, and other non-white individuals
+in the State’s criminal justice system, including (1) how cumulative impacts may result
+from disparate policing, arrests, charging, pretrial detention, sentencing, community
+supervision, and prosecution, including diversion and plea policies and (2) the impacts of
+HB 1309/ Page 1
+disparate mandatory minimum sentencin g, including convictions for offenses involving
+firearms and individuals who are not alleged to be principals in the first degree;
+ the need and alternative methods available to improve any racial disparities and lack of
+transparency in the State’s criminal justice system;
+ improvements available to the systemic structures for race-neutral risk and needs
+assessments diversion, sentencing alternatives, rehabilitative sentencing, and reduction of
+recidivism;
+ the possibility of using resources of the Division of Parole and Probation within the
+Department of Public Safety and Correctional Services (DPSCS) to conduct pretrial and
+presentence race-neutral risk and needs assessments that could be considered by parties at
+the time of plea discussions and by judges at the time of sentencing;
+ the potential to increase judicial discretion at sentencing to allow judges to more closely
+consider as sentencing factors, including for individuals charged with or convicted of
+crimes of violence for sex offenses, (1) the intent of the individuals being sentenced and
+(2) the possibility for rehabilitation and reduction in recidivism;
+ the possibility of modifying or abolishing the State’s felony murder doctrine for cases for
+individuals who are not alleged to be principals in the first degree;
+ the design and expansion of programs intended to reduce State prison populations, be
+rehabilitative, and further reduce the length of prison sentences in a manner that is
+consistent with public safety; and
+ data collection methods for the ongoing monitoring of racial disparities at each stage of the
+State’s criminal justice system, including identifying gaps in existing data.
+Current Law and Practice
+Racial disparities are widely seen across various agencies in the State. The General Assembly has
+addressed this issue by, among other things, requiring criminal justice-related State agencies to
+report periodically on their activities to better understand the nature and magnitude of racial
+disparities at various decision points. These reports usually include demographic data or other data
+types that provide insight into how various subgroups of the population are impacted.
+Racial Disparity Studies in Other States
+As of 2025, at least six other states have similar task forces, commissions, or advisory bodies that
+focus on racial disparity in the application of government policies, rules, and law enforcement:
+California; Connecticut; Kansas; New Jersey; Oregon; and Vermont.
+Impacts of the Bill
+In Maryland and many other states, systemic inequities exist at many decision points in the
+criminal and juvenile justice systems. Reasons for these inequities are complex as they result from
+HB 1309/ Page 2
+the interplay between numerous factors, includ ing laws, policies, and practices. This cycle is
+especially harmful as it reinforces itself through an individual’s life. Long-term studies show that
+many individuals who are arrested have prior criminal histories and those with a greater number
+of prior arrests were more likely to be arrested again. Thus, one contact with the criminal justice
+system often creates more. Black individuals and other minorities are deeply affected by disparities
+in charges, arrests, convictions, sentencing, incarcerations, parole, probation, and expungement.
+Studies show that there are notable collateral consequences to having a criminal record that often
+exacerbate the challenges of social reintegration following imprisonment. Even individuals
+convicted of criminal charges that do not face imprisonment may still see significant adverse
+effects as a result of having a criminal record. These adverse effects include reduced access to
+housing, public services, voting, holding public office, employment opportunities, and
+professional licensure. DPSCS reports that Black individuals make up at least 71% of Maryland’s
+prison population contrasted with their 30% share of the State’s overall population. As such,
+collateral consequences impact Black individuals significantly more than other racial groups.
+Data sharing to inform decision making is a best practice at every level of government. Many
+governmental entities engage in data sharing and analysis to assess racial disparities throughout
+their institutions and agencies. Structural inequities inherent in the criminal justice process in
+Maryland are evidenced by stark statistics in many areas. Black individuals, and in some cases
+Hispanic individuals, are overrepresented in areas such as traffic enforcement and incarcerations
+compared to their share of the State’s overall population. In addition, minority youth account for
+large percentages of arrests and charges for certain offenses.
+Conclusion
+The commission’s review and assessment, as proposed by the bill, could offer at least three
+contributions to research on the source and impact of inequities in the State’s criminal justice
+system. First, the commission’s recommendations would likely encourage more robust data
+collection, which is crucial for longitudinal and trend analysis to monitor and assess the impacts
+of policies, laws, rules, and programming changes. Using data to examine the underlying causes
+of disparities in criminal justice outcomes is key to understanding the sources of those disparities
+and crucial to informed policymaking. Second, the commission’s research may reveal the nature
+of specific disparities in the criminal justice system, and finally, it will likely explore the role of
+transparency and restorative policy and practices in the mitigation or eradication of existing
+inequities.
+Information Sources: U.S. Department of Justice; Department of Public Safety and Correctional
+Services; Department of State Police; Department of Juvenile Services; Maryland State
+Commission on Criminal Sentencing Policy; Maryland Equitable Justice Collaborative;
+Governor’s Office of Crime Prevention and Policy; Department of Legislative Services
+Analysis by: Dr. Jasmón Bailey
+Published: 03/26/2026
+HB 1309/ Page 3
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+
+Section 2:
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+
+Section 3:
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+HB 1309/ Page 4
+[DELETED:  t S J P C a t H J C b s r w l b h i e e s o b t S a l l T i g f t c d p a c p d s c]
+[DELETED:  a t t s s f r r a n p o u r o t D o P a P w t s f i f c w o c o a f r t l o p s i a m t i p o t a t b u t n a m o r M a m o s s i e a m d p i t]
+[DELETED:  a t c o s r f i E i p s v h p o e o a c r a a a p b t b c o a l t F t c r w l e m r d a r p a p i t m o e o e D o S P D o J S M S o C S P M E J C]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]
+
+
+================================================================================
+
+Raw Text:
+2026 Session
+HB1309
+Commission to Review and Assess Racial Disparities in the State
+Criminal Justice System - Establishment
+Bill Summary
+This bill establishes the Commission to Review and Assess Racial Disparities in the State Criminal
+Justice System. The commission must report its interim and final findings and recommendations
+to the Senate Judicial Proceedings Committee and the House Judiciary Committee by
+October 1, 2027, and September 1, 2028, respectively.
+Racial Equity Impact Statement
+Documented data confirms that Black individuals and other minorities encounter disproportionate
+and disparate outcomes within the State’s criminal justice system. The commission’s data review
+and subsequent recommendations would likely be helpful in evaluating existing structural
+inequities on both the State and local level. The insights gained from the commission’s
+recommendations would be a significant step toward broadening the practice of data-informed
+policymaking throughout State institutions responsible for implementing rules, policies, and laws
+within the criminal justice system.
+Analysis
+The commission created by the bill must study and make recommendations on:
+ the disparate treatment of African Americans, Hispanics, and other non-white individuals
+in the State’s criminal justice system, including (1) how cumulative impacts may result
+from disparate policing, arrests, charging, pretrial detention, sentencing, community
+supervision, and prosecution, including diversion and plea policies and (2) the impacts of
+HB 1309/ Page 1
+
+disparate mandatory minimum sentencin g, including convictions for offenses involving
+firearms and individuals who are not alleged to be principals in the first degree;
+ the need and alternative methods available to improve any racial disparities and lack of
+transparency in the State’s criminal justice system;
+ improvements available to the systemic structures for race-neutral risk and needs
+assessments diversion, sentencing alternatives, rehabilitative sentencing, and reduction of
+recidivism;
+ the possibility of using resources of the Division of Parole and Probation within the
+Department of Public Safety and Correctional Services (DPSCS) to conduct pretrial and
+presentence race-neutral risk and needs assessments that could be considered by parties at
+the time of plea discussions and by judges at the time of sentencing;
+ the potential to increase judicial discretion at sentencing to allow judges to more closely
+consider as sentencing factors, including for individuals charged with or convicted of
+crimes of violence for sex offenses, (1) the intent of the individuals being sentenced and
+(2) the possibility for rehabilitation and reduction in recidivism;
+ the possibility of modifying or abolishing the State’s felony murder doctrine for cases for
+individuals who are not alleged to be principals in the first degree;
+ the design and expansion of programs intended to reduce State prison populations, be
+rehabilitative, and further reduce the length of prison sentences in a manner that is
+consistent with public safety; and
+ data collection methods for the ongoing monitoring of racial disparities at each stage of the
+State’s criminal justice system, including identifying gaps in existing data.
+Current Law and Practice
+Racial disparities are widely seen across various agencies in the State. The General Assembly has
+addressed this issue by, among other things, requiring criminal justice-related State agencies to
+report periodically on their activities to better understand the nature and magnitude of racial
+disparities at various decision points. These reports usually include demographic data or other data
+types that provide insight into how various subgroups of the population are impacted.
+Racial Disparity Studies in Other States
+As of 2025, at least six other states have similar task forces, commissions, or advisory bodies that
+focus on racial disparity in the application of government policies, rules, and law enforcement:
+California; Connecticut; Kansas; New Jersey; Oregon; and Vermont.
+Impacts of the Bill
+In Maryland and many other states, systemic inequities exist at many decision points in the
+criminal and juvenile justice systems. Reasons for these inequities are complex as they result from
+HB 1309/ Page 2
+
+the interplay between numerous factors, includ ing laws, policies, and practices. This cycle is
+especially harmful as it reinforces itself through an individual’s life. Long-term studies show that
+many individuals who are arrested have prior criminal histories and those with a greater number
+of prior arrests were more likely to be arrested again. Thus, one contact with the criminal justice
+system often creates more. Black individuals and other minorities are deeply affected by disparities
+in charges, arrests, convictions, sentencing, incarcerations, parole, probation, and expungement.
+Studies show that there are notable collateral consequences to having a criminal record that often
+exacerbate the challenges of social reintegration following imprisonment. Even individuals
+convicted of criminal charges that do not face imprisonment may still see significant adverse
+effects as a result of having a criminal record. These adverse effects include reduced access to
+housing, public services, voting, holding public office, employment opportunities, and
+professional licensure. DPSCS reports that Black individuals make up at least 71% of Maryland’s
+prison population contrasted with their 30% share of the State’s overall population. As such,
+collateral consequences impact Black individuals significantly more than other racial groups.
+Data sharing to inform decision making is a best practice at every level of government. Many
+governmental entities engage in data sharing and analysis to assess racial disparities throughout
+their institutions and agencies. Structural inequities inherent in the criminal justice process in
+Maryland are evidenced by stark statistics in many areas. Black individuals, and in some cases
+Hispanic individuals, are overrepresented in areas such as traffic enforcement and incarcerations
+compared to their share of the State’s overall population. In addition, minority youth account for
+large percentages of arrests and charges for certain offenses.
+Conclusion
+The commission’s review and assessment, as proposed by the bill, could offer at least three
+contributions to research on the source and impact of inequities in the State’s criminal justice
+system. First, the commission’s recommendations would likely encourage more robust data
+collection, which is crucial for longitudinal and trend analysis to monitor and assess the impacts
+of policies, laws, rules, and programming changes. Using data to examine the underlying causes
+of disparities in criminal justice outcomes is key to understanding the sources of those disparities
+and crucial to informed policymaking. Second, the commission’s research may reveal the nature
+of specific disparities in the criminal justice system, and finally, it will likely explore the role of
+transparency and restorative policy and practices in the mitigation or eradication of existing
+inequities.
+Information Sources: U.S. Department of Justice; Department of Public Safety and Correctional
+Services; Department of State Police; Department of Juvenile Services; Maryland State
+Commission on Criminal Sentencing Policy; Maryland Equitable Justice Collaborative;
+Governor’s Office of Crime Prevention and Policy; Department of Legislative Services
+Analysis by: Dr. Jasmón Bailey
+Published: 03/26/2026
+HB 1309/ Page 3
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+HB 1309/ Page 4
+
+[DELETED:  t S J P C a t H J C b s r w l b h i e e s o b t S a l l T i g f t c d p a c p d s c]
+[DELETED:  a t t s s f r r a n p o u r o t D o P a P w t s f i f c w o c o a f r t l o p s i a m t i p o t a t b u t n a m o r M a m o s s i e a m d p i t]
+[DELETED:  a t c o s r f i E i p s v h p o e o a c r a a a p b t b c o a l t F t c r w l e m r d a r p a p i t m o e o e D o S P D o J S M S o C S P M E J C]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]

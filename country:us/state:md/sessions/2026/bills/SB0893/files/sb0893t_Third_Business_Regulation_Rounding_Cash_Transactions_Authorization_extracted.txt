@@ -1,0 +1,305 @@
+Title: SENATE BILL 893
+Official Title: SENATE BILL 893
+Number of Sections: 1
+Source: versions - Third - Business Regulation - Rounding Cash Transactions - Authorization
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+C2, K3 EMERGENCY BILL 6lr2932
+CF HB 1026
+By: Senator Gile
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted with floor amendments
+Read second time: February 27, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Business Regulation – Rounding Cash Transactions – Authorization
+3 FOR the purpose of authorizing a merchant to round the portion of the price of a certain
+4 cash transactions transaction for which a customer pays using cash in a certain
+5 manner or round the amount of change due to a customer in a certain manner;
+6 authorizing an employer to round a wage that the employer pays using cash in a
+7 certain manner; providing that certain provisions of this Act shall preempt existing
+8 regulations, rules, and ordinances that conflict with certain provisions of this Act;
+9 and generally relating to rounding cash transactions.
+10 BY adding to
+11 Article – Business Regulation
+12 Section 1–601 through 1–607 1–606 to be under the new subtitle “Subtitle 6.
+13 Rounding Cash Transactions in a Trade or Business”
+14 Annotated Code of Maryland
+15 (2024 Replacement Volume and 2025 Supplement)
+16 BY repealing and reenacting, without amendments,
+17 Article – Labor and Employment
+18 Section 3–502(a)
+19 Annotated Code of Maryland
+20 (2025 Replacement Volume)
+21 BY adding to
+22 Article – Labor and Employment
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0893*
+2 SENATE BILL 893
+1 Section 3–502(g)
+2 Annotated Code of Maryland
+3 (2025 Replacement Volume)
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
+6 Article – Business Regulation
+7 SUBTITLE 6. ROUNDING CASH TRANSACTIONS IN A TRADE OR BUSINESS.
+8 1–601.
+9 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+10 INDICATED.
+11 (B) (1) “CASH” MEANS UNITED STATES COINS AND CURRENCY.
+12 (2) “CASH” DOES NOT INCLUDE:
+13 (I) A PAPER INSTRUMENT OTHER THAN A FEDERAL RESERVE
+14 NOTE; OR
+15 (II) A GIFT CARD.
+16 (C) “CUSTOMER” MEANS A PURCHASER OF A GOOD OR SERVICE FROM A
+17 MERCHANT.
+18 (D) “MERCHANT” MEANS A PERSON ENGAGED IN THE TRADE OR BUSINESS
+19 OF THE SALE OF GOODS OR SERVICES.
+20 (E) “TOTAL PRICE PRICE” MEANS THE PRICE AMOUNT DUE AND PAYABLE
+21 BY A CUSTOMER IS RESPONSIBLE FOR PAYING FOR A GOOD OR SERVICE AFTER A
+22 MERCHANT:
+23 (1) SUBTRACTS ANY DISCOUNT OR DEDUCTION; AND
+24 (2) APPLIES ANY APPLICABLE TAX OR FEE; AND
+25 (3) ROUNDS THE TRANSACTION CONSISTENT WITH THIS SUBTITLE.
+26 1–602.
+27 THIS SUBTITLE:
+SENATE BILL 893 3
+1 (1) DOES NOT APPLY TO A CASH TRANSACTION FOR A GOOD OR
+2 SERVICE IN EXCHANGE FOR PAID WITH EXACT CHANGE; AND
+3 (2) MAY NOT BE CONSTRUED TO AUTHORIZE A MERCHANT TO ROUND
+4 A PRICE FOR A GOOD OR SERVICE IN A MANNER THAT ALTERS THE CALCULATION OF
+5 ANY TAX OR FEE APPLICABLE TO THE TRANSACTION.
+6 1–603.
+7 (A) THIS SECTION APPLIES TO:
+8 (1) THE PORTION OF THE PRICE OF AN IN–PERSON, CASH
+9 TRANSACTION IF THE PRICE TOTALS AT LEAST 5 CENTS; OR
+10 (2) OR A TELEPHONE, MAIL, OR INTERNET TRANSACTION FOR
+11 WHICH A CUSTOMER PAYS USING CASH IF THE PRICE TOTALS AT LEAST 5 CENTS.
+12 (B) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A MERCHANT
+13 DOING BUSINESS IN THE STATE MAY:
+14 (1) DETERMINE THE TOTAL PRICE OF ROUND THE PRICE FOR A GOOD
+15 OR SERVICE, AFTER SUBTRACTING ANY DISCOUNT OR DEDUCTION FROM THE PRICE
+16 AND APPLYING ANY APPLICABLE TAX OR FEE TO THE PRICE, IN THE FOLLOWING
+17 MANNER:
+18 (I) IF THE PRICE ENDS IN 1 CENT, 2 CENTS, 6 CENTS, OR 7
+19 CENTS, BY ROUNDING THE PRICE DOWN TO THE NEAREST CENT DIVISIBLE BY FIVE;
+20 OR
+21 (II) IF THE PRICE ENDS IN 3 CENTS, 4 CENTS, 8 CENTS, OR 9
+22 CENTS, BY ROUNDING THE PRICE UP TO THE NEAREST CENT DIVISIBLE BY FIVE; OR
+23 (2) ROUND THE AMOUNT OF CHANGE DUE TO A CUSTOMER UP OR
+24 DOWN CONSISTENT WITH ITEM (1) OF THIS SUBSECTION.
+25 1–604.
+26 (A) THIS SECTION APPLIES TO:
+27 (1) THE PORTION OF THE PRICE OF AN IN–PERSON, CASH
+28 TRANSACTION IF THE PRICE TOTALS LESS THAN 5 CENTS; OR
+4 SENATE BILL 893
+1 (2) OR A TELEPHONE, MAIL, OR INTERNET TRANSACTION FOR
+2 WHICH A PERSON CUSTOMER PAYS USING CASH IF THE PRICE TOTALS LESS THAN 5
+3 CENTS.
+4 (B) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A MERCHANT
+5 DOING BUSINESS IN THE STATE MAY DETERMINE THE TOTAL PRICE OF ROUND THE
+6 PRICE FOR A GOOD OR SERVICE, AFTER SUBTRACTING ANY DISCOUNT OR
+7 DEDUCTION FROM THE PRICE AND APPLYING ANY APPLICABLE TAX OR FEE TO THE
+8 PRICE, BY ROUNDING THE PRICE UP TO 5 CENTS.
+9 1–605.
+10 AN EMPLOYER, AS DEFINED IN § 3–501 OF THE LABOR AND EMPLOYMENT
+11 ARTICLE, MAY ROUND A WAGE, AS DEFINED IN § 3–501 OF THE LABOR AND
+12 EMPLOYMENT ARTICLE, THAT THE EMPLOYER PAYS USING CASH CONSISTENT WITH
+13 THIS SUBTITLE.
+14 1–606. 1–605.
+15 THIS SUBTITLE SUPERSEDES ANY REGULATION, RULE, OR ORDINANCE THAT
+16 CONFLICTS WITH THIS SUBTITLE.
+17 1–607. 1–606.
+18 THE SECRETARY MAY ADOPT REGULATIONS TO CARRY OUT THE PROVISIONS
+19 OF THIS SUBTITLE.
+20 Article – Labor and Employment
+21 3–502.
+22 (a) (1) Each employer:
+23 (i) shall set regular pay periods; and
+24 (ii) except as provided in paragraph (2) of this subsection, shall pay
+25 each employee at least once in every 2 weeks or twice in each month.
+26 (2) An employer may pay an administrative, executive, or professional
+27 employee less frequently than required under paragraph (1)(ii) of this subsection.
+28 (G) AN EMPLOYER MAY ROUND A WAGE THAT THE EMPLOYER PAYS USING
+29 CASH, AS DEFINED IN § 1–601 OF THE BUSINESS REGULATION ARTICLE,
+30 CONSISTENT WITH TITLE 1, SUBTITLE 6 OF THE BUSINESS REGULATION ARTICLE.
+SENATE BILL 893 5
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency
+2 measure, is necessary for the immediate preservation of the public health or safety, has
+3 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+4 each of the two Houses of the General Assembly, and shall take effect from the date it is
+5 enacted.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA    E 6   C A B F c p m o r t a o c d t a c i c m a c r a B  A S 1 t 1 1 t b u t n s “ 6 R  A  ( B  A S  A  ( B  A]
+[DELETED:  S  S  A  (  S T A6.RCTTB.  O A R R U() N T S T F W H T M() ( “C”US.AH  N T ( “C”:H   () FA E EE   () .IA() “CUR M P A G F() “MET () “TPO RE  ( ;N  ( ;E  ( .T:]
+[DELETED: S 3 ( N A T A C T F A G OE  (() T:H (  –FA INPN C  S ; () ,,RA TE ML O N T F  .() NO A O P O LW A M T: (E E   () 1,2,6,I T P E I  CT  CS  CS O S E  () 3,4,8,II  S  S  S  S E ; ( T A O C D T A C U O  ).() T:H (  –FA INPN C  S ;]
+[DELETED:  S  () ,,RA TE ML O N T F () NO A O P O LW A M T F A G O SE A S A D OE   5.A,§31LR     A M,,§31E M R A WE A D I   O T A AA RE .1T,N E .1T E A 3  ( ( E    ( s    ( e e   ( A e m p a a e o p e() NH A D I   O T U E RE§11BRA I  U   U E R1,S6BRA.]
+[DELETED: S 5  S m b e e          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 893
+C2, K3 EMERGENCY BILL 6lr2932
+CF HB 1026
+By: Senator Gile
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted with floor amendments
+Read second time: February 27, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Business Regulation – Rounding Cash Transactions – Authorization
+3 FOR the purpose of authorizing a merchant to round the portion of the price of a certain
+4 cash transactions transaction for which a customer pays using cash in a certain
+5 manner or round the amount of change due to a customer in a certain manner;
+6 authorizing an employer to round a wage that the employer pays using cash in a
+7 certain manner; providing that certain provisions of this Act shall preempt existing
+8 regulations, rules, and ordinances that conflict with certain provisions of this Act;
+9 and generally relating to rounding cash transactions.
+10 BY adding to
+11 Article – Business Regulation
+12 Section 1–601 through 1–607 1–606 to be under the new subtitle “Subtitle 6.
+13 Rounding Cash Transactions in a Trade or Business”
+14 Annotated Code of Maryland
+15 (2024 Replacement Volume and 2025 Supplement)
+16 BY repealing and reenacting, without amendments,
+17 Article – Labor and Employment
+18 Section 3–502(a)
+19 Annotated Code of Maryland
+20 (2025 Replacement Volume)
+21 BY adding to
+22 Article – Labor and Employment
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0893*
+
+2 SENATE BILL 893
+1 Section 3–502(g)
+2 Annotated Code of Maryland
+3 (2025 Replacement Volume)
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
+6 Article – Business Regulation
+7 SUBTITLE 6. ROUNDING CASH TRANSACTIONS IN A TRADE OR BUSINESS.
+8 1–601.
+9 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+10 INDICATED.
+11 (B) (1) “CASH” MEANS UNITED STATES COINS AND CURRENCY.
+12 (2) “CASH” DOES NOT INCLUDE:
+13 (I) A PAPER INSTRUMENT OTHER THAN A FEDERAL RESERVE
+14 NOTE; OR
+15 (II) A GIFT CARD.
+16 (C) “CUSTOMER” MEANS A PURCHASER OF A GOOD OR SERVICE FROM A
+17 MERCHANT.
+18 (D) “MERCHANT” MEANS A PERSON ENGAGED IN THE TRADE OR BUSINESS
+19 OF THE SALE OF GOODS OR SERVICES.
+20 (E) “TOTAL PRICE PRICE” MEANS THE PRICE AMOUNT DUE AND PAYABLE
+21 BY A CUSTOMER IS RESPONSIBLE FOR PAYING FOR A GOOD OR SERVICE AFTER A
+22 MERCHANT:
+23 (1) SUBTRACTS ANY DISCOUNT OR DEDUCTION; AND
+24 (2) APPLIES ANY APPLICABLE TAX OR FEE; AND
+25 (3) ROUNDS THE TRANSACTION CONSISTENT WITH THIS SUBTITLE.
+26 1–602.
+27 THIS SUBTITLE:
+
+SENATE BILL 893 3
+1 (1) DOES NOT APPLY TO A CASH TRANSACTION FOR A GOOD OR
+2 SERVICE IN EXCHANGE FOR PAID WITH EXACT CHANGE; AND
+3 (2) MAY NOT BE CONSTRUED TO AUTHORIZE A MERCHANT TO ROUND
+4 A PRICE FOR A GOOD OR SERVICE IN A MANNER THAT ALTERS THE CALCULATION OF
+5 ANY TAX OR FEE APPLICABLE TO THE TRANSACTION.
+6 1–603.
+7 (A) THIS SECTION APPLIES TO:
+8 (1) THE PORTION OF THE PRICE OF AN IN–PERSON, CASH
+9 TRANSACTION IF THE PRICE TOTALS AT LEAST 5 CENTS; OR
+10 (2) OR A TELEPHONE, MAIL, OR INTERNET TRANSACTION FOR
+11 WHICH A CUSTOMER PAYS USING CASH IF THE PRICE TOTALS AT LEAST 5 CENTS.
+12 (B) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A MERCHANT
+13 DOING BUSINESS IN THE STATE MAY:
+14 (1) DETERMINE THE TOTAL PRICE OF ROUND THE PRICE FOR A GOOD
+15 OR SERVICE, AFTER SUBTRACTING ANY DISCOUNT OR DEDUCTION FROM THE PRICE
+16 AND APPLYING ANY APPLICABLE TAX OR FEE TO THE PRICE, IN THE FOLLOWING
+17 MANNER:
+18 (I) IF THE PRICE ENDS IN 1 CENT, 2 CENTS, 6 CENTS, OR 7
+19 CENTS, BY ROUNDING THE PRICE DOWN TO THE NEAREST CENT DIVISIBLE BY FIVE;
+20 OR
+21 (II) IF THE PRICE ENDS IN 3 CENTS, 4 CENTS, 8 CENTS, OR 9
+22 CENTS, BY ROUNDING THE PRICE UP TO THE NEAREST CENT DIVISIBLE BY FIVE; OR
+23 (2) ROUND THE AMOUNT OF CHANGE DUE TO A CUSTOMER UP OR
+24 DOWN CONSISTENT WITH ITEM (1) OF THIS SUBSECTION.
+25 1–604.
+26 (A) THIS SECTION APPLIES TO:
+27 (1) THE PORTION OF THE PRICE OF AN IN–PERSON, CASH
+28 TRANSACTION IF THE PRICE TOTALS LESS THAN 5 CENTS; OR
+
+4 SENATE BILL 893
+1 (2) OR A TELEPHONE, MAIL, OR INTERNET TRANSACTION FOR
+2 WHICH A PERSON CUSTOMER PAYS USING CASH IF THE PRICE TOTALS LESS THAN 5
+3 CENTS.
+4 (B) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A MERCHANT
+5 DOING BUSINESS IN THE STATE MAY DETERMINE THE TOTAL PRICE OF ROUND THE
+6 PRICE FOR A GOOD OR SERVICE, AFTER SUBTRACTING ANY DISCOUNT OR
+7 DEDUCTION FROM THE PRICE AND APPLYING ANY APPLICABLE TAX OR FEE TO THE
+8 PRICE, BY ROUNDING THE PRICE UP TO 5 CENTS.
+9 1–605.
+10 AN EMPLOYER, AS DEFINED IN § 3–501 OF THE LABOR AND EMPLOYMENT
+11 ARTICLE, MAY ROUND A WAGE, AS DEFINED IN § 3–501 OF THE LABOR AND
+12 EMPLOYMENT ARTICLE, THAT THE EMPLOYER PAYS USING CASH CONSISTENT WITH
+13 THIS SUBTITLE.
+14 1–606. 1–605.
+15 THIS SUBTITLE SUPERSEDES ANY REGULATION, RULE, OR ORDINANCE THAT
+16 CONFLICTS WITH THIS SUBTITLE.
+17 1–607. 1–606.
+18 THE SECRETARY MAY ADOPT REGULATIONS TO CARRY OUT THE PROVISIONS
+19 OF THIS SUBTITLE.
+20 Article – Labor and Employment
+21 3–502.
+22 (a) (1) Each employer:
+23 (i) shall set regular pay periods; and
+24 (ii) except as provided in paragraph (2) of this subsection, shall pay
+25 each employee at least once in every 2 weeks or twice in each month.
+26 (2) An employer may pay an administrative, executive, or professional
+27 employee less frequently than required under paragraph (1)(ii) of this subsection.
+28 (G) AN EMPLOYER MAY ROUND A WAGE THAT THE EMPLOYER PAYS USING
+29 CASH, AS DEFINED IN § 1–601 OF THE BUSINESS REGULATION ARTICLE,
+30 CONSISTENT WITH TITLE 1, SUBTITLE 6 OF THE BUSINESS REGULATION ARTICLE.
+
+SENATE BILL 893 5
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency
+2 measure, is necessary for the immediate preservation of the public health or safety, has
+3 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+4 each of the two Houses of the General Assembly, and shall take effect from the date it is
+5 enacted.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA    E 6   C A B F c p m o r t a o c d t a c i c m a c r a B  A S 1 t 1 1 t b u t n s “ 6 R  A  ( B  A S  A  ( B  A]
+[DELETED:  S  S  A  (  S T A6.RCTTB.  O A R R U() N T S T F W H T M() ( “C”US.AH  N T ( “C”:H   () FA E EE   () .IA() “CUR M P A G F() “MET () “TPO RE  ( ;N  ( ;E  ( .T:]
+[DELETED: S 3 ( N A T A C T F A G OE  (() T:H (  –FA INPN C  S ; () ,,RA TE ML O N T F  .() NO A O P O LW A M T: (E E   () 1,2,6,I T P E I  CT  CS  CS O S E  () 3,4,8,II  S  S  S  S E ; ( T A O C D T A C U O  ).() T:H (  –FA INPN C  S ;]
+[DELETED:  S  () ,,RA TE ML O N T F () NO A O P O LW A M T F A G O SE A S A D OE   5.A,§31LR     A M,,§31E M R A WE A D I   O T A AA RE .1T,N E .1T E A 3  ( ( E    ( s    ( e e   ( A e m p a a e o p e() NH A D I   O T U E RE§11BRA I  U   U E R1,S6BRA.]
+[DELETED: S 5  S m b e e          G               ]

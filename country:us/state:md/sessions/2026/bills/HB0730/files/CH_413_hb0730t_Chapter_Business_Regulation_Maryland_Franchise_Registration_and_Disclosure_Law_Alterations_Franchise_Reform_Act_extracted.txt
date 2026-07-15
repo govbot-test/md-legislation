@@ -1,0 +1,666 @@
+Title: (House Bill 730)
+Official Title: (House Bill 730)
+Number of Sections: 10
+Source: versions - Chapter - Business Regulation - Maryland Franchise Registration and Disclosure Law - Alterations (Franchise Reform Act)
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 413
+Chapter 413
+AN ACT concerning
+Business Regulation – Maryland Franchise Registration and Disclosure Law –
+Alterations
+(Franchise Reform Act)
+FOR the purpose of altering the period of time within which the Securities Commissioner
+in the Office of the Attorney General may exercise a power under certain provisions
+of law governing the sale of franchises; requiring the Securities Commissioner to
+require that a certain franchise registration exemption be indexed to inflation or
+deflation based on a certain index; altering the period of time within which an action
+for liability under a certain provision of law pertaining to franchise offers for sale
+must be brought; prohibiting a franchisor and certain others from inhibiting the
+right of franchisees to associate for certain purposes; providing that an action may
+be brought against a certain franchisor under certain circumstances; establishing
+the Maryland Franchise Disclosure Document Renewal Fast–Track Review Pilot
+Program and generally relating to the Maryland Franchise Registration and
+Disclosure Act.
+BY repealing and reenacting, with amendments,
+Article – Business Regulation
+
+Section 2:
+Section 14–102, 14–202, 14–210, 14–214, 14–227, and 14–233
+Annotated Code of Maryland
+(2024 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Business Regulation
+
+Section 3:
+Section 14–219.1 and 14–233
+Annotated Code of Maryland
+(2024 Replacement Volume and 2025 Supplement)
+
+Section 4:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Business Regulation
+14–102.
+The General Assembly finds that:
+(1) THE SALE OF BUSINESS OPPORTUNITIES IS A FIELD THROUGH
+WHICH INDIVIDUALS USE THEIR IDEAS TO CREATE ECONOMIC OPPORTUNITY;
+– 1 –
+Ch. 413 2026 LAWS OF MARYLAND
+(2) BUSINESSES ADD TREMENDOUS ECONOMIC VALUE AND DRIVE
+INVESTMENT IN THE STATE THAT CREATES CRITICAL ECONOMIC GROWTH;
+[(1)] (3) the sale of business opportunities is a field in which investment
+problems and deceptive practices are common; and
+[(2)] (4) this subtitle is needed to regulate this field adequately and
+prevent these deceptive practices.
+14–202.
+(a) The General Assembly finds that:
+(1) FRANCHISING HAS PLAYED A ROLE IN THE STATE’S ECONOMY BY
+ENABLING RESIDENTS TO OPEN AND OPERATE BUSINESSES IN THE STATE UNDER
+ESTABLISHED SYSTEMS AND BRANDS;
+(2) the widespread sale of franchises [has], WHILE OFFERING
+OPPORTUNITIES TO STATE RESIDENTS, ALSO INVOLVES COMPLEX AGREEMENTS
+AND SUBSTANTIAL INVESTMENTS THAT CAN CREATE AND HAVE created many
+investment and business [problems] RISKS FOR FRANCHISEES, FRANCHISORS, AND
+SUBFRANCHISORS; and
+[(2)] (3) franchisees [have suffered substantial] MAY SUFFER losses
+when the [franchisor or its representative] FRANCHISEE has not BEEN given complete
+AND ACCURATE information about:
+(i) the NATURE OF THE franchisor–franchisee relationship;
+(ii) the TERMS AND OBLIGATIONS OF THE franchise agreement;
+and
+(iii) the business experience AND OPERATIONAL PRACTICES of the
+franchisor or its representative.
+(b) The intent of this subtitle is to:
+(1) give each prospective franchisee necessary information about any
+franchise offer;
+(2) [prohibit the sale of franchises if the sale] PROMOTE HONESTY,
+TRANSPARENCY, AND ACCOUNTABILITY, AND FAIR DEALING IN THE OFFER AND
+SALE OF FRANCHISES;
+– 2 –
+WES MOORE, Governor Ch. 413
+(3) PREVENT PRACTICES THAT would [lead to] RESULT IN fraud or a
+likelihood that the franchisor’s representations would not be fulfilled; [and]
+[(3)] (4) protect the franchisor–franchisee relationship; AND
+(5) SUPPORT THE CONTINUED GROWTH OF FRANCHISING AS A
+BUSINESS MODEL IN THE STATE.
+14–210.
+(a) (1) Whenever the Commissioner finds that a person has violated or is about
+to violate this subtitle or a regulation adopted or order passed under it, the Commissioner
+may order the person to cease and desist from the further offer to sell or sale of the franchise
+until the offer or sale complies with this subtitle.
+(2) After passage of a cease and desist order, the alleged violator may
+submit to the Commissioner a written request for a hearing.
+(3) The hearing shall begin:
+(i) within 15 business days after the Commissioner receives the
+request for a hearing; or
+(ii) at a later date, with the consent of the alleged violator.
+(4) Unless there is a timely hearing, the cease and desist order is rescinded.
+(b) (1) Whenever the Commissioner finds that a person has violated or is about
+to violate this subtitle or a regulation adopted or order passed under it, the Commissioner
+may sue in the circuit court to enjoin the violation or enforce this subtitle or the regulation
+or order.
+(2) The court shall:
+(i) determine if a violation of this subtitle has been or is about to be
+committed; and
+(ii) if so, pass any order the court considers necessary to prevent the
+violation or remove the effects of the violation and prevent it from continuing or being
+renewed in the future.
+(3) The court may exercise all equitable powers necessary for this purpose,
+including:
+(i) injunction;
+– 3 –
+Ch. 413 2026 LAWS OF MARYLAND
+(ii) revocation, forfeiture, or suspension of the charter authority or
+privileges of a business organization operating under the laws of the State;
+(iii) dissolution of a corporation or association organized under the
+laws of the State;
+(iv) suspension or termination of the right of a corporation or
+association organized under the laws of another state or country to do business in the State;
+(v) restitution;
+(vi) restraining order;
+(vii) award of damages to be paid by a franchisor or subfranchisor to
+a person injured by a violation of this subtitle; and
+(viii) appointment of a receiver or conservator.
+(4) The court may not require the Commissioner to post bond.
+(c) The Commissioner may not exercise a power under this section more than [3]
+5 years after the violation occurs.
+14–214.
+(a) Except as otherwise provided in this subtitle, a person must register the offer
+of a franchise with the Commissioner before the person offers to sell, through
+advertisement or otherwise, or sells the franchise in the State.
+(b) The registration requirement of this section does not apply to:
+(1) a transaction by an executor, administrator, sheriff, receiver, trustee in
+bankruptcy, guardian, or conservator;
+(2) an offer to sell or sale of a franchise that is substantially similar to a
+franchise already owned by the offeree or buyer; and
+(3) any other transaction that the Commissioner exempts by regulation
+because:
+(i) the transaction is not within the purpose of this subtitle; and
+(ii) the registration of the transaction is not necessary or appropriate
+in the public interest or for the protection of investors.
+– 4 –
+WES MOORE, Governor Ch. 413
+(c) (1) The registration requirement of this section does not apply to the offer
+to sell or sale of a franchise by a franchisee for the franchisee’s own account, or the offer to
+sell or sale of the entire area franchise owned by a subfranchisor for the subfranchisor’s
+own account.
+(2) A sale is not effected by or through a franchisor merely because a
+franchisor has a right to approve or disapprove a different franchisee.
+(d) (1) The Commissioner may require by regulation that a franchisor or
+subfranchisor who claims under subsection (b)(3) of this section to be exempt from the
+registration requirements of this section:
+(i) file with the Commissioner a notice of claim of exemption in the
+form that the Commissioner requires; and
+(ii) pay a fee of $250.
+(2) The franchisor or subfranchisor shall sign and verify the notice of claim
+of exemption.
+(E) THE COMMISSIONER SHALL REQUIRE THE FRANCHISOR NET EQUITY
+AMOUNTS SET FORTH IN THE FRANCHISE REGISTRATION EXEMPTION UNDER
+COMAR 02.02.08.10D.1 TO ACCOUNT FOR INFLATION OR DEFLATION BASED ON
+THE CONSUMER PRICE INDEX FOR ALL URBAN CONSUMERS BY THE U.S.
+DEPARTMENT OF LABOR.
+14–227.
+(A) THIS SECTION APPLIES ONLY TO:
+(1) A FRANCHISEE OR FRANCHISOR WHO IS A RESIDENT OF THE
+STATE; OR
+(2) A FRANCHISED BUSINESS THAT OPERATES OR WILL BE OPERATED
+IN THE STATE.
+[(a)] (B) (1) A person who sells or grants a franchise is civilly liable to the
+person who buys or is granted a franchise if the person who sells or grants a franchise offers
+to sell or sells a franchise:
+(i) without the offer of the franchise being registered under this
+subtitle; or
+(ii) by means of an untrue statement of a material fact or any
+omission to state a material fact necessary in order to make the statements made, in light
+– 5 –
+Ch. 413 2026 LAWS OF MARYLAND
+of the circumstances under which they are made, not misleading, if the person who buys or
+is granted a franchise does not know of the untruth or omission.
+(2) In determining liability under this subsection, the person who sells or
+grants a franchise has the burden of proving that the person who sells or grants a franchise
+did not know and, in the exercise of reasonable care, could not have known of the untruth
+or omission.
+[(b)] (C) The person who buys or is granted a franchise may sue under this
+
+Section 5:
+section to recover damages sustained by the grant of the franchise.
+[(c)] (D) A court may order the person who sells or grants a franchise to:
+(1) rescind the franchise; and
+(2) make restitution to the person who buys or is granted a franchise.
+[(d)] (E) (1) Joint and several liability under this section extends to:
+(i) each person who directly or indirectly controls a person liable
+under this section;
+(ii) each partner in a partnership liable under this section;
+(iii) each principal officer or director of a corporation liable under this
+
+Section 6:
+section;
+(iv) each other person that has a similar status or performs similar
+functions as a person liable under this section; and
+(v) each employee of a person liable under this section, if the
+employee materially aids in the act or transaction that is a violation under this subtitle.
+(2) However, liability under this subsection does not extend to a person
+who did not have knowledge of or reasonable grounds to believe in the existence of the facts
+by which the liability is alleged to exist.
+[(e)] (F) An action under this section must be brought within [3] THE EARLIER
+OF:
+(1) 5 4 years after the grant of the franchise; OR
+(2) THE LATER OF:
+(I) 3 YEARS AFTER THE GRANT OF THE FRANCHISE; OR
+– 6 –
+WES MOORE, Governor Ch. 413
+(II) 2 YEARS AFTER THE DATE OF THE INITIAL COMMENCEMENT
+OF OPERATIONS OF THE FRANCHISE THE FRANCHISE OPENED TO THE PUBLIC.
+14–233.
+(A) ALL FRANCHISEES HAVE THE RIGHT TO JOIN A TRADE ASSOCIATION
+CONSISTING OF OTHER FRANCHISEES OF THE SAME FRANCHISE AND TO
+PARTICIPATE IN THE TRADE ASSOCIATION FOR ANY LAWFUL PURPOSE.
+(B) A FRANCHISOR MAY NOT, DIRECTLY OR INDIRECTLY, THROUGH ANY
+OFFICER, AGENT, OR EMPLOYEE:
+(1) RESTRICT OR INHIBIT THE RIGHT OF A FRANCHISEE TO JOIN A
+TRADE ASSOCIATION CONSISTING OF OTHER FRANCHISEES OF THE SAME
+FRANCHISE; OR
+(2) PROHIBIT THE RIGHT OF FREE ASSOCIATION AMONG
+FRANCHISEES FOR ANY LAWFUL PURPOSE.
+(B) (C) (1) A PERSON WHO VIOLATES SUBSECTION (A) (B) OF THIS
+
+Section 7:
+SECTION MAY BE SUED IN CIRCUIT COURT FOR:
+(I) TEMPORARY OR PERMANENT INJUNCTIVE RELIEF;
+(II) DAMAGES, IF ANY; AND
+(III) COSTS OF THE SUIT, INCLUDING ANY REASONABLE
+ATTORNEY’S FEES.
+(2) THE INJUNCTIVE RELIEF MAY BE SOUGHT FROM THE CIRCUIT
+COURT IN THE COUNTY WHERE THE INDIVIDUAL WHO IS ALLEGED TO BE IN
+VIOLATION OF SUBSECTION (A) OF THIS SECTION FRANCHISEE RESIDES OR THE
+FRANCHISE AFFECTED BY THE VIOLATION CONDUCTS BUSINESS.
+(3) WHEN SEEKING AN INJUNCTION UNDER THIS SECTION, THE
+PLAINTIFF MAY NOT BE REQUIRED TO ALLEGE OR PROVE ACTUAL DAMAGES
+SUFFERED TO OBTAIN INJUNCTIVE RELIEF.
+(4) AN ACTION UNDER THIS SUBSECTION MUST BE BROUGHT WITHIN
+THE EARLIER OF:
+(I) 2 YEARS AFTER THE ALLEGED VIOLATION OCCURRED; OR
+– 7 –
+Ch. 413 2026 LAWS OF MARYLAND
+(II) 1 YEAR AFTER THE DISCOVERY BY THE PLAINTIFF OF THE
+FACTS OF THE ALLEGED VIOLATION.
+[14–233.] 14–234.
+This subtitle is the Maryland Franchise Registration and Disclosure Law.
+
+Section 8:
+SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+as follows:
+Article – Business Regulation
+14–219.1.
+(A) IN THIS SECTION, “PROGRAM” MEANS THE MARYLAND FRANCHISE
+DISCLOSURE DOCUMENT RENEWAL FAST–TRACK REVIEW PILOT PROGRAM.
+(B) (1) THERE IS A MARYLAND FRANCHISE DISCLOSURE DOCUMENT
+RENEWAL FAST–TRACK REVIEW PILOT PROGRAM.
+(2) THE COMMISSIONER SHALL ADMINISTER THE PROGRAM.
+(C) (1) THE COMMISSIONER SHALL ESTABLISH A STANDARD FOR THE
+REVIEW AND APPROVAL OF INCOMPLETE FRANCHISE DISCLOSURE DOCUMENTS,
+INCLUDING FRANCHISE DISCLOSURE DOCUMENTS THAT WERE NOT SUBMITTED FOR
+PARTICIPATION IN THE PROGRAM.
+(2) THE COMMISSIONER MAY USE A TECHNOLOGY SYSTEM TO ASSIST
+THE REVIEW OF DOCUMENTS AS REQUIRED UNDER THIS SECTION.
+(D) THE COMMISSIONER SHALL ADOPT REGULATIONS TO CARRY OUT THIS
+
+Section 9:
+SECTION, INCLUDING REGULATIONS ESTABLISHING REQUIREMENTS AND
+PROCEDURES FOR THE SUBMISSION AND APPROVAL OF FRANCHISE DISCLOSURE
+DOCUMENTS.
+(E) ON OR BEFORE SEPTEMBER 30, 2031, THE COMMISSIONER SHALL, IN
+ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, SUBMIT TO
+THE SENATE FINANCE COMMITTEE AND THE HOUSE ECONOMIC MATTERS
+COMMITTEE AND POST ON THE WEBSITE OF THE OFFICE OF THE ATTORNEY
+GENERAL A REPORT THAT INCLUDES:
+– 8 –
+WES MOORE, Governor Ch. 413
+(1) THE NUMBER OF FRANCHISE DISCLOSURE DOCUMENTS
+SUBMITTED BY FRANCHISORS UNDER THE PROGRAM;
+(2) THE NUMBER OF FRANCHISORS THAT PARTICIPATED IN THE
+PROGRAM;
+(3) THE AMOUNT OF TIME REQUIRED TO ADMINISTER THE PROGRAM;
+(3) (4) AN ANALYSIS OF WHETHER THERE WAS ANY IMPACT ON
+FRANCHISE DISCLOSURE DOCUMENTS SUBMITTED OUTSIDE THE PROGRAM,
+INCLUDING THE AMOUNT OF TIME REQUIRED FOR THE ANALYSIS OF FRANCHISE
+DISCLOSURE DOCUMENTS THAT WERE REJECTED;
+(4) (5) A DESCRIPTION OF PROGRAMS IN OTHER STATES THAT
+ADDRESS EXEMPTIONS FOR CERTAIN ESTABLISHED FRANCHISORS, INCLUDING THE
+ELIGIBILITY STANDARDS BY WHICH THE APPROPRIATE AUTHORITY MAKES
+DETERMINATIONS REGARDING ESTABLISHED FRANCHISORS;
+(5) (6) AN ANALYSIS OF WHETHER THE PROGRAM EFFECTS
+CONSUMER PROTECTION, AND THE EXTENT TO WHICH, THE PROGRAM MAINTAINS
+OR ENHANCES THE PROTECTIONS AFFORDED TO PROSPECTIVE FRANCHISEES
+UNDER THE MARYLAND FRANCHISE REGISTRATION AND DISCLOSURE LAW,
+INCLUDING:
+(I) AN EVALUATION OF WHETHER THE EXPEDITED REVIEW OF
+FRANCHISOR REGISTRATION APPLICATIONS UNDER THE PROGRAM DIMINISHES
+THE EFFICACY OF THE DISCLOSURE REQUIREMENTS AND REVIEW STANDARDS; AND
+(II) A DESCRIPTION OF ANY FRANCHISEE PROTECTION
+BENEFITS THAT MAY RESULT FROM A MORE TIMELY AND EFFICIENT REGISTRATION
+PROCESS; AND
+(6) (7) INFORMATION REGARDING THE EFFICIENCY OF THE
+REVIEW OF FRANCHISE DISCLOSURE DOCUMENTS SUBMITTED FOR PARTICIPATION
+IN THE PROGRAM AND FRANCHISE DISCLOSURE DOCUMENTS THAT WERE NOT
+SUBMITTED FOR PARTICIPATION IN THE PROGRAM, INCLUDING INFORMATION
+CONCERNING:
+(I) COMMENTARY PERIODS;
+(II) AMENDMENT PERIODS;
+– 9 –
+Ch. 413 2026 LAWS OF MARYLAND
+(III) THE TIME FOR COMPLETION OF SUBMISSION AND REVIEW
+OF FRANCHISE DISCLOSURE DOCUMENTS;
+(IV) THE NUMBER OF REVIEWERS; AND
+(V) THE AVERAGE NUMBER OF FRANCHISE DISCLOSURE
+DOCUMENTS SUBMITTED EACH YEAR.
+
+Section 10:
+SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026. Section 2 of this Act shall remain effective for a period of 6 years and, at
+the end of September 30, 2032, Section 2 of this Act, with no further action required by the
+General Assembly, shall be abrogated and of no further force and effect.
+Approved by the Governor, May 12, 2026.
+– 10 –
+[DELETED: W C M F D D R F R P a g r t t M F R aAA(AA(ST ( S O B O I A F T]
+[DELETED:  2  ( A T E V A D T; () t]( () t s i n t r t f a a](( T ( TES T t w s o f h []W O T T RS A I C A S I T C C A Hc m a b p],R F FS FS A () f h s sl l]()[ M S fe   EB  ( t    ( t f  ( t  ( T ( g e p f n i a a ( p t s o f i t s]P HYY A AY A F D I T O A]
+[DELETED: W C    lo )[T  a] () p]();  ( T C G O F A A T( ( W ( A p o a c a d o t a v m ( T  ( w 1 b d a t C r t  ( a ( U( ( W ( T  ( d  ( i ( T  ( i]
+[DELETED:  2   ( r  ( d  ( s o t o t r o a c o  ( r  ( r  ( a  ( a ( T( T 3( E a f w t C b t p o t s t( T ( a ( a ( a  ( t  ( t]
+[DELETED: W C( ( T ( A s i n e b o t a f m b a( ( T C m r b r t a f o  ( f  ( p ( T) TH O S R T F N E S F I T F R E UR0  O R N F L R O B T PIAUCUL. A) T:H ( F O F W I A R O T;E  ( T.() ( A](  ( w t o o t f b r u t  ( b m o a u s o a m f o a]
+[DELETED:  2  ( I() T p w b o i g a f m s u t](() A]( ( r ( m() ( J](  ( e  ( e  ( e  ( e  ( e e o a p l u t s i t ( H() An]()[F   ( 54;  ( :  () 3; E ]
+[DELETED: W C  () I () L H T R T J A T A O O F O T S F A T() A, F M NT D O IY T AR T ,: ( A C O O F O T SE  ( T R O F A A()() ( A()( C P W V S A B O T  () ;T  () ,;IDS Y   () IC O T ST I A RYS. (  I R M B S F T C I T C W T I W I A T B I O S A O T S F R O T ( W S A I U T SN T M N B R T A O P A D (   () 2; D ]
+[DELETED:  2   () I ]1TS() I,“P”MN T SN RM M T A RDRF–TRPP. O E ATR E I R() ( TMFDH I A A R I OF–TRPP. ATR E I R ( TCP. O R() ( TH O S E A S F T A A O I F D DS R. ( T O() TH ON I R E R A() OS3,2,CN E    OL     T O RE 27SGA E I O A T O C AFCHEO A P O T W O T F O T T:]
+[DELETED: W C ( N O F D D R; ( N O F T P I T; ( P; RM ()(A A O W T W A I O D D S O T RM ()(A D O P I O S TS  S B W T A A M ()( A A O W T R EN H  R, E T P A T P F T A R E A I AWFRDL  ()A R A U T R DS   ()IA D O A F PS  ()(I R T E O T T R A F D D T W N F P I T RM I I  () ;C  () ;IA]
+[DELETED:  2   ()IT  () ;VTS   ()T A N O F DS A B I F E T t A s t e]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 413
+Chapter 413
+(House Bill 730)
+AN ACT concerning
+Business Regulation – Maryland Franchise Registration and Disclosure Law –
+Alterations
+(Franchise Reform Act)
+FOR the purpose of altering the period of time within which the Securities Commissioner
+in the Office of the Attorney General may exercise a power under certain provisions
+of law governing the sale of franchises; requiring the Securities Commissioner to
+require that a certain franchise registration exemption be indexed to inflation or
+deflation based on a certain index; altering the period of time within which an action
+for liability under a certain provision of law pertaining to franchise offers for sale
+must be brought; prohibiting a franchisor and certain others from inhibiting the
+right of franchisees to associate for certain purposes; providing that an action may
+be brought against a certain franchisor under certain circumstances; establishing
+the Maryland Franchise Disclosure Document Renewal Fast–Track Review Pilot
+Program and generally relating to the Maryland Franchise Registration and
+Disclosure Act.
+BY repealing and reenacting, with amendments,
+Article – Business Regulation
+Section 14–102, 14–202, 14–210, 14–214, 14–227, and 14–233
+Annotated Code of Maryland
+(2024 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Business Regulation
+Section 14–219.1 and 14–233
+Annotated Code of Maryland
+(2024 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Business Regulation
+14–102.
+The General Assembly finds that:
+(1) THE SALE OF BUSINESS OPPORTUNITIES IS A FIELD THROUGH
+WHICH INDIVIDUALS USE THEIR IDEAS TO CREATE ECONOMIC OPPORTUNITY;
+– 1 –
+
+Ch. 413 2026 LAWS OF MARYLAND
+(2) BUSINESSES ADD TREMENDOUS ECONOMIC VALUE AND DRIVE
+INVESTMENT IN THE STATE THAT CREATES CRITICAL ECONOMIC GROWTH;
+[(1)] (3) the sale of business opportunities is a field in which investment
+problems and deceptive practices are common; and
+[(2)] (4) this subtitle is needed to regulate this field adequately and
+prevent these deceptive practices.
+14–202.
+(a) The General Assembly finds that:
+(1) FRANCHISING HAS PLAYED A ROLE IN THE STATE’S ECONOMY BY
+ENABLING RESIDENTS TO OPEN AND OPERATE BUSINESSES IN THE STATE UNDER
+ESTABLISHED SYSTEMS AND BRANDS;
+(2) the widespread sale of franchises [has], WHILE OFFERING
+OPPORTUNITIES TO STATE RESIDENTS, ALSO INVOLVES COMPLEX AGREEMENTS
+AND SUBSTANTIAL INVESTMENTS THAT CAN CREATE AND HAVE created many
+investment and business [problems] RISKS FOR FRANCHISEES, FRANCHISORS, AND
+SUBFRANCHISORS; and
+[(2)] (3) franchisees [have suffered substantial] MAY SUFFER losses
+when the [franchisor or its representative] FRANCHISEE has not BEEN given complete
+AND ACCURATE information about:
+(i) the NATURE OF THE franchisor–franchisee relationship;
+(ii) the TERMS AND OBLIGATIONS OF THE franchise agreement;
+and
+(iii) the business experience AND OPERATIONAL PRACTICES of the
+franchisor or its representative.
+(b) The intent of this subtitle is to:
+(1) give each prospective franchisee necessary information about any
+franchise offer;
+(2) [prohibit the sale of franchises if the sale] PROMOTE HONESTY,
+TRANSPARENCY, AND ACCOUNTABILITY, AND FAIR DEALING IN THE OFFER AND
+SALE OF FRANCHISES;
+– 2 –
+
+WES MOORE, Governor Ch. 413
+(3) PREVENT PRACTICES THAT would [lead to] RESULT IN fraud or a
+likelihood that the franchisor’s representations would not be fulfilled; [and]
+[(3)] (4) protect the franchisor–franchisee relationship; AND
+(5) SUPPORT THE CONTINUED GROWTH OF FRANCHISING AS A
+BUSINESS MODEL IN THE STATE.
+14–210.
+(a) (1) Whenever the Commissioner finds that a person has violated or is about
+to violate this subtitle or a regulation adopted or order passed under it, the Commissioner
+may order the person to cease and desist from the further offer to sell or sale of the franchise
+until the offer or sale complies with this subtitle.
+(2) After passage of a cease and desist order, the alleged violator may
+submit to the Commissioner a written request for a hearing.
+(3) The hearing shall begin:
+(i) within 15 business days after the Commissioner receives the
+request for a hearing; or
+(ii) at a later date, with the consent of the alleged violator.
+(4) Unless there is a timely hearing, the cease and desist order is rescinded.
+(b) (1) Whenever the Commissioner finds that a person has violated or is about
+to violate this subtitle or a regulation adopted or order passed under it, the Commissioner
+may sue in the circuit court to enjoin the violation or enforce this subtitle or the regulation
+or order.
+(2) The court shall:
+(i) determine if a violation of this subtitle has been or is about to be
+committed; and
+(ii) if so, pass any order the court considers necessary to prevent the
+violation or remove the effects of the violation and prevent it from continuing or being
+renewed in the future.
+(3) The court may exercise all equitable powers necessary for this purpose,
+including:
+(i) injunction;
+– 3 –
+
+Ch. 413 2026 LAWS OF MARYLAND
+(ii) revocation, forfeiture, or suspension of the charter authority or
+privileges of a business organization operating under the laws of the State;
+(iii) dissolution of a corporation or association organized under the
+laws of the State;
+(iv) suspension or termination of the right of a corporation or
+association organized under the laws of another state or country to do business in the State;
+(v) restitution;
+(vi) restraining order;
+(vii) award of damages to be paid by a franchisor or subfranchisor to
+a person injured by a violation of this subtitle; and
+(viii) appointment of a receiver or conservator.
+(4) The court may not require the Commissioner to post bond.
+(c) The Commissioner may not exercise a power under this section more than [3]
+5 years after the violation occurs.
+14–214.
+(a) Except as otherwise provided in this subtitle, a person must register the offer
+of a franchise with the Commissioner before the person offers to sell, through
+advertisement or otherwise, or sells the franchise in the State.
+(b) The registration requirement of this section does not apply to:
+(1) a transaction by an executor, administrator, sheriff, receiver, trustee in
+bankruptcy, guardian, or conservator;
+(2) an offer to sell or sale of a franchise that is substantially similar to a
+franchise already owned by the offeree or buyer; and
+(3) any other transaction that the Commissioner exempts by regulation
+because:
+(i) the transaction is not within the purpose of this subtitle; and
+(ii) the registration of the transaction is not necessary or appropriate
+in the public interest or for the protection of investors.
+– 4 –
+
+WES MOORE, Governor Ch. 413
+(c) (1) The registration requirement of this section does not apply to the offer
+to sell or sale of a franchise by a franchisee for the franchisee’s own account, or the offer to
+sell or sale of the entire area franchise owned by a subfranchisor for the subfranchisor’s
+own account.
+(2) A sale is not effected by or through a franchisor merely because a
+franchisor has a right to approve or disapprove a different franchisee.
+(d) (1) The Commissioner may require by regulation that a franchisor or
+subfranchisor who claims under subsection (b)(3) of this section to be exempt from the
+registration requirements of this section:
+(i) file with the Commissioner a notice of claim of exemption in the
+form that the Commissioner requires; and
+(ii) pay a fee of $250.
+(2) The franchisor or subfranchisor shall sign and verify the notice of claim
+of exemption.
+(E) THE COMMISSIONER SHALL REQUIRE THE FRANCHISOR NET EQUITY
+AMOUNTS SET FORTH IN THE FRANCHISE REGISTRATION EXEMPTION UNDER
+COMAR 02.02.08.10D.1 TO ACCOUNT FOR INFLATION OR DEFLATION BASED ON
+THE CONSUMER PRICE INDEX FOR ALL URBAN CONSUMERS BY THE U.S.
+DEPARTMENT OF LABOR.
+14–227.
+(A) THIS SECTION APPLIES ONLY TO:
+(1) A FRANCHISEE OR FRANCHISOR WHO IS A RESIDENT OF THE
+STATE; OR
+(2) A FRANCHISED BUSINESS THAT OPERATES OR WILL BE OPERATED
+IN THE STATE.
+[(a)] (B) (1) A person who sells or grants a franchise is civilly liable to the
+person who buys or is granted a franchise if the person who sells or grants a franchise offers
+to sell or sells a franchise:
+(i) without the offer of the franchise being registered under this
+subtitle; or
+(ii) by means of an untrue statement of a material fact or any
+omission to state a material fact necessary in order to make the statements made, in light
+– 5 –
+
+Ch. 413 2026 LAWS OF MARYLAND
+of the circumstances under which they are made, not misleading, if the person who buys or
+is granted a franchise does not know of the untruth or omission.
+(2) In determining liability under this subsection, the person who sells or
+grants a franchise has the burden of proving that the person who sells or grants a franchise
+did not know and, in the exercise of reasonable care, could not have known of the untruth
+or omission.
+[(b)] (C) The person who buys or is granted a franchise may sue under this
+section to recover damages sustained by the grant of the franchise.
+[(c)] (D) A court may order the person who sells or grants a franchise to:
+(1) rescind the franchise; and
+(2) make restitution to the person who buys or is granted a franchise.
+[(d)] (E) (1) Joint and several liability under this section extends to:
+(i) each person who directly or indirectly controls a person liable
+under this section;
+(ii) each partner in a partnership liable under this section;
+(iii) each principal officer or director of a corporation liable under this
+section;
+(iv) each other person that has a similar status or performs similar
+functions as a person liable under this section; and
+(v) each employee of a person liable under this section, if the
+employee materially aids in the act or transaction that is a violation under this subtitle.
+(2) However, liability under this subsection does not extend to a person
+who did not have knowledge of or reasonable grounds to believe in the existence of the facts
+by which the liability is alleged to exist.
+[(e)] (F) An action under this section must be brought within [3] THE EARLIER
+OF:
+(1) 5 4 years after the grant of the franchise; OR
+(2) THE LATER OF:
+(I) 3 YEARS AFTER THE GRANT OF THE FRANCHISE; OR
+– 6 –
+
+WES MOORE, Governor Ch. 413
+(II) 2 YEARS AFTER THE DATE OF THE INITIAL COMMENCEMENT
+OF OPERATIONS OF THE FRANCHISE THE FRANCHISE OPENED TO THE PUBLIC.
+14–233.
+(A) ALL FRANCHISEES HAVE THE RIGHT TO JOIN A TRADE ASSOCIATION
+CONSISTING OF OTHER FRANCHISEES OF THE SAME FRANCHISE AND TO
+PARTICIPATE IN THE TRADE ASSOCIATION FOR ANY LAWFUL PURPOSE.
+(B) A FRANCHISOR MAY NOT, DIRECTLY OR INDIRECTLY, THROUGH ANY
+OFFICER, AGENT, OR EMPLOYEE:
+(1) RESTRICT OR INHIBIT THE RIGHT OF A FRANCHISEE TO JOIN A
+TRADE ASSOCIATION CONSISTING OF OTHER FRANCHISEES OF THE SAME
+FRANCHISE; OR
+(2) PROHIBIT THE RIGHT OF FREE ASSOCIATION AMONG
+FRANCHISEES FOR ANY LAWFUL PURPOSE.
+(B) (C) (1) A PERSON WHO VIOLATES SUBSECTION (A) (B) OF THIS
+SECTION MAY BE SUED IN CIRCUIT COURT FOR:
+(I) TEMPORARY OR PERMANENT INJUNCTIVE RELIEF;
+(II) DAMAGES, IF ANY; AND
+(III) COSTS OF THE SUIT, INCLUDING ANY REASONABLE
+ATTORNEY’S FEES.
+(2) THE INJUNCTIVE RELIEF MAY BE SOUGHT FROM THE CIRCUIT
+COURT IN THE COUNTY WHERE THE INDIVIDUAL WHO IS ALLEGED TO BE IN
+VIOLATION OF SUBSECTION (A) OF THIS SECTION FRANCHISEE RESIDES OR THE
+FRANCHISE AFFECTED BY THE VIOLATION CONDUCTS BUSINESS.
+(3) WHEN SEEKING AN INJUNCTION UNDER THIS SECTION, THE
+PLAINTIFF MAY NOT BE REQUIRED TO ALLEGE OR PROVE ACTUAL DAMAGES
+SUFFERED TO OBTAIN INJUNCTIVE RELIEF.
+(4) AN ACTION UNDER THIS SUBSECTION MUST BE BROUGHT WITHIN
+THE EARLIER OF:
+(I) 2 YEARS AFTER THE ALLEGED VIOLATION OCCURRED; OR
+– 7 –
+
+Ch. 413 2026 LAWS OF MARYLAND
+(II) 1 YEAR AFTER THE DISCOVERY BY THE PLAINTIFF OF THE
+FACTS OF THE ALLEGED VIOLATION.
+[14–233.] 14–234.
+This subtitle is the Maryland Franchise Registration and Disclosure Law.
+SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+as follows:
+Article – Business Regulation
+14–219.1.
+(A) IN THIS SECTION, “PROGRAM” MEANS THE MARYLAND FRANCHISE
+DISCLOSURE DOCUMENT RENEWAL FAST–TRACK REVIEW PILOT PROGRAM.
+(B) (1) THERE IS A MARYLAND FRANCHISE DISCLOSURE DOCUMENT
+RENEWAL FAST–TRACK REVIEW PILOT PROGRAM.
+(2) THE COMMISSIONER SHALL ADMINISTER THE PROGRAM.
+(C) (1) THE COMMISSIONER SHALL ESTABLISH A STANDARD FOR THE
+REVIEW AND APPROVAL OF INCOMPLETE FRANCHISE DISCLOSURE DOCUMENTS,
+INCLUDING FRANCHISE DISCLOSURE DOCUMENTS THAT WERE NOT SUBMITTED FOR
+PARTICIPATION IN THE PROGRAM.
+(2) THE COMMISSIONER MAY USE A TECHNOLOGY SYSTEM TO ASSIST
+THE REVIEW OF DOCUMENTS AS REQUIRED UNDER THIS SECTION.
+(D) THE COMMISSIONER SHALL ADOPT REGULATIONS TO CARRY OUT THIS
+SECTION, INCLUDING REGULATIONS ESTABLISHING REQUIREMENTS AND
+PROCEDURES FOR THE SUBMISSION AND APPROVAL OF FRANCHISE DISCLOSURE
+DOCUMENTS.
+(E) ON OR BEFORE SEPTEMBER 30, 2031, THE COMMISSIONER SHALL, IN
+ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, SUBMIT TO
+THE SENATE FINANCE COMMITTEE AND THE HOUSE ECONOMIC MATTERS
+COMMITTEE AND POST ON THE WEBSITE OF THE OFFICE OF THE ATTORNEY
+GENERAL A REPORT THAT INCLUDES:
+– 8 –
+
+WES MOORE, Governor Ch. 413
+(1) THE NUMBER OF FRANCHISE DISCLOSURE DOCUMENTS
+SUBMITTED BY FRANCHISORS UNDER THE PROGRAM;
+(2) THE NUMBER OF FRANCHISORS THAT PARTICIPATED IN THE
+PROGRAM;
+(3) THE AMOUNT OF TIME REQUIRED TO ADMINISTER THE PROGRAM;
+(3) (4) AN ANALYSIS OF WHETHER THERE WAS ANY IMPACT ON
+FRANCHISE DISCLOSURE DOCUMENTS SUBMITTED OUTSIDE THE PROGRAM,
+INCLUDING THE AMOUNT OF TIME REQUIRED FOR THE ANALYSIS OF FRANCHISE
+DISCLOSURE DOCUMENTS THAT WERE REJECTED;
+(4) (5) A DESCRIPTION OF PROGRAMS IN OTHER STATES THAT
+ADDRESS EXEMPTIONS FOR CERTAIN ESTABLISHED FRANCHISORS, INCLUDING THE
+ELIGIBILITY STANDARDS BY WHICH THE APPROPRIATE AUTHORITY MAKES
+DETERMINATIONS REGARDING ESTABLISHED FRANCHISORS;
+(5) (6) AN ANALYSIS OF WHETHER THE PROGRAM EFFECTS
+CONSUMER PROTECTION, AND THE EXTENT TO WHICH, THE PROGRAM MAINTAINS
+OR ENHANCES THE PROTECTIONS AFFORDED TO PROSPECTIVE FRANCHISEES
+UNDER THE MARYLAND FRANCHISE REGISTRATION AND DISCLOSURE LAW,
+INCLUDING:
+(I) AN EVALUATION OF WHETHER THE EXPEDITED REVIEW OF
+FRANCHISOR REGISTRATION APPLICATIONS UNDER THE PROGRAM DIMINISHES
+THE EFFICACY OF THE DISCLOSURE REQUIREMENTS AND REVIEW STANDARDS; AND
+(II) A DESCRIPTION OF ANY FRANCHISEE PROTECTION
+BENEFITS THAT MAY RESULT FROM A MORE TIMELY AND EFFICIENT REGISTRATION
+PROCESS; AND
+(6) (7) INFORMATION REGARDING THE EFFICIENCY OF THE
+REVIEW OF FRANCHISE DISCLOSURE DOCUMENTS SUBMITTED FOR PARTICIPATION
+IN THE PROGRAM AND FRANCHISE DISCLOSURE DOCUMENTS THAT WERE NOT
+SUBMITTED FOR PARTICIPATION IN THE PROGRAM, INCLUDING INFORMATION
+CONCERNING:
+(I) COMMENTARY PERIODS;
+(II) AMENDMENT PERIODS;
+– 9 –
+
+Ch. 413 2026 LAWS OF MARYLAND
+(III) THE TIME FOR COMPLETION OF SUBMISSION AND REVIEW
+OF FRANCHISE DISCLOSURE DOCUMENTS;
+(IV) THE NUMBER OF REVIEWERS; AND
+(V) THE AVERAGE NUMBER OF FRANCHISE DISCLOSURE
+DOCUMENTS SUBMITTED EACH YEAR.
+SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026. Section 2 of this Act shall remain effective for a period of 6 years and, at
+the end of September 30, 2032, Section 2 of this Act, with no further action required by the
+General Assembly, shall be abrogated and of no further force and effect.
+Approved by the Governor, May 12, 2026.
+– 10 –
+
+[DELETED: W C M F D D R F R P a g r t t M F R aAA(AA(ST ( S O B O I A F T]
+[DELETED:  2  ( A T E V A D T; () t]( () t s i n t r t f a a](( T ( TES T t w s o f h []W O T T RS A I C A S I T C C A Hc m a b p],R F FS FS A () f h s sl l]()[ M S fe   EB  ( t    ( t f  ( t  ( T ( g e p f n i a a ( p t s o f i t s]P HYY A AY A F D I T O A]
+[DELETED: W C    lo )[T  a] () p]();  ( T C G O F A A T( ( W ( A p o a c a d o t a v m ( T  ( w 1 b d a t C r t  ( a ( U( ( W ( T  ( d  ( i ( T  ( i]
+[DELETED:  2   ( r  ( d  ( s o t o t r o a c o  ( r  ( r  ( a  ( a ( T( T 3( E a f w t C b t p o t s t( T ( a ( a ( a  ( t  ( t]
+[DELETED: W C( ( T ( A s i n e b o t a f m b a( ( T C m r b r t a f o  ( f  ( p ( T) TH O S R T F N E S F I T F R E UR0  O R N F L R O B T PIAUCUL. A) T:H ( F O F W I A R O T;E  ( T.() ( A](  ( w t o o t f b r u t  ( b m o a u s o a m f o a]
+[DELETED:  2  ( I() T p w b o i g a f m s u t](() A]( ( r ( m() ( J](  ( e  ( e  ( e  ( e  ( e e o a p l u t s i t ( H() An]()[F   ( 54;  ( :  () 3; E ]
+[DELETED: W C  () I () L H T R T J A T A O O F O T S F A T() A, F M NT D O IY T AR T ,: ( A C O O F O T SE  ( T R O F A A()() ( A()( C P W V S A B O T  () ;T  () ,;IDS Y   () IC O T ST I A RYS. (  I R M B S F T C I T C W T I W I A T B I O S A O T S F R O T ( W S A I U T SN T M N B R T A O P A D (   () 2; D ]
+[DELETED:  2   () I ]1TS() I,“P”MN T SN RM M T A RDRF–TRPP. O E ATR E I R() ( TMFDH I A A R I OF–TRPP. ATR E I R ( TCP. O R() ( TH O S E A S F T A A O I F D DS R. ( T O() TH ON I R E R A() OS3,2,CN E    OL     T O RE 27SGA E I O A T O C AFCHEO A P O T W O T F O T T:]
+[DELETED: W C ( N O F D D R; ( N O F T P I T; ( P; RM ()(A A O W T W A I O D D S O T RM ()(A D O P I O S TS  S B W T A A M ()( A A O W T R EN H  R, E T P A T P F T A R E A I AWFRDL  ()A R A U T R DS   ()IA D O A F PS  ()(I R T E O T T R A F D D T W N F P I T RM I I  () ;C  () ;IA]
+[DELETED:  2   ()IT  () ;VTS   ()T A N O F DS A B I F E T t A s t e]

@@ -1,0 +1,199 @@
+Title: HOUSE BILL 1645
+Official Title: HOUSE BILL 1645
+Number of Sections: 1
+Source: versions - First - Public Health - American Legion Automated External Defibrillator Grant Program - Established
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+J1 6lr3613
+By: Delegate Howard
+Rules suspended
+Introduced and read first time: February 28, 2026
+Assigned to: Rules and Executive Nominations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Health – American Legion Automated External Defibrillator Grant
+3 Program – Established
+4 FOR the purpose of establishing the American Legion Automated External Defibrillator
+5 Grant Program; requiring the Maryland Department of Health to award grants to
+6 eligible American Legion posts to procure and make available automated external
+7 defibrillators on the premises of American Legion posts; and generally relating to
+8 automated external defibrillators in American Legion posts.
+9 BY repealing and reenacting, without amendments,
+10 Article – Education
+11 Section 13–517(a)(1) and (2)
+12 Annotated Code of Maryland
+13 (2022 Replacement Volume and 2025 Supplement)
+14 BY adding to
+15 Article – Health – General
+16 Section 20–2501 and 20–2502 to be under the new subtitle “Subtitle 25. American
+17 Legion Automated External Defibrillator Grant Program”
+18 Annotated Code of Maryland
+19 (2023 Replacement Volume and 2025 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Education
+23 13–517.
+24 (a) (1) In this section the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1645*
+2 HOUSE BILL 1645
+1 (2) “Automated external defibrillator (AED)” means a medical heart
+2 monitor and defibrillator device that:
+3 (i) Is cleared for market by the federal Food and Drug
+4 Administration;
+5 (ii) Recognizes the presence or absence of ventricular fibrillation or
+6 rapid ventricular tachycardia;
+7 (iii) Determines, without intervention by an operator, whether
+8 defibrillation should be performed;
+9 (iv) On determining that defibrillation should be performed,
+10 automatically charges; and
+11 (v) 1. Requires operator intervention to deliver the electrical
+12 impulse; or
+13 2. Automatically continues with delivery of electrical
+14 impulse.
+15 Article – Health – General
+16 SUBTITLE 25. AMERICAN LEGION AUTOMATED EXTERNAL DEFIBRILLATOR
+17 GRANT PROGRAM.
+18 20–2501.
+19 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+20 INDICATED.
+21 (B) “AUTOMATED EXTERNAL DEFIBRILLATOR (AED)” HAS THE MEANING
+22 STATED IN § 13–517 OF THE EDUCATION ARTICLE.
+23 (C) “GRANT PROGRAM” MEANS THE AMERICAN LEGION AUTOMATED
+24 EXTERNAL DEFIBRILLATOR GRANT PROGRAM.
+25 20–2502.
+26 (A) THERE IS AN AMERICAN LEGION AUTOMATED EXTERNAL
+27 DEFIBRILLATOR GRANT PROGRAM IN THE DEPARTMENT.
+HOUSE BILL 1645 3
+1 (B) THE PURPOSE OF THE GRANT PROGRAM IS TO AWARD GRANTS TO
+2 AMERICAN LEGION POSTS IN THE STATE TO PROCURE AND MAKE AVAILABLE AEDS
+3 ON THE PROPERTY OF AMERICAN LEGION POSTS.
+4 (C) AN AMERICAN LEGION POST THAT IS NOT ABLE TO PROCURE AND MAKE
+5 AVAILABLE AT LEAST TWO AEDS ON THE PREMISES IS ELIGIBLE FOR A GRANT
+6 UNDER THE GRANT PROGRAM.
+7 (D) THE DEPARTMENT SHALL:
+8 (1) ADMINISTER THE GRANT PROGRAM; AND
+9 (2) IDENTIFY AND APPLY FOR FUNDING FOR THE GRANT PROGRAM.
+10 (E) (1) IN AWARDING GRANTS UNDER THE GRANT PROGRAM, THE
+11 DEPARTMENT SHALL PRIORITIZE APPLICANTS IN ORDER OF DESCENDING NEED.
+12 (2) AN APPLICANT THAT DOES NOT HAVE AN AED ON PREMISES
+13 SHALL BE CONSIDERED TO BE OF GREATER NEED THAN AN APPLICANT THAT HAS
+14 ONLY ONE AED ON PREMISES.
+15 (F) THE GOVERNOR MAY INCLUDE IN THE ANNUAL BUDGET BILL AN
+16 APPROPRIATION TO THE GRANT PROGRAM.
+17 (G) (1) THE DEPARTMENT SHALL ADOPT REGULATIONS TO CARRY OUT
+18 THIS SUBTITLE.
+19 (2) REGULATIONS ADOPTED UNDER THIS SUBSECTION SHALL
+20 INCLUDE:
+21 (I) A SIMPLE COMMON APPLICATION PROCEDURE; AND
+22 (II) FOR ELIGIBLE AMERICAN LEGION POSTS, A PROCESS TO
+23 FACILITATE THE PARTICIPATION OF AMERICAN LEGION POSTS THAT HAVE LIMITED
+24 RESOURCES OR LANGUAGE BARRIERS.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+26 October 1, 2026.
+[DELETED: :CA      6     A   P F G e d a B  A S  A  ( B  A S L  A  (  S T A 1  ( ( I]
+[DELETED:  H    ( “ e d ( m a m h m    ( I c f m b t f F a D A    ( R r    ( D w i b a o w d    ( O d t d s b p a    ( 1 R o i t d t e i     2 A c w d o e i A2.ALAE  M E U X EP. R()N T S T F W H T M () “A(U      D RE17EA.() “GP”ALR RM M T M E UDGP E R R  ) TALAH I A M E U XGPD. R R E]
+[DELETED: H 3() TGH P O T R R I T A G TLSA E T S M EL.() AAN M E A L T S O T P I E F A G R RP.() TD:H E ( AGP; R RM  ( IGP. R R() ( IGPN A G U T R RM T. ( AA A T D N H A  O P  D.() TH O M I I T A B B A R RP.() ( TH E (  A U T S S  () A; E   () FALIO E M E PS A P T M E   S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1645
+J1 6lr3613
+By: Delegate Howard
+Rules suspended
+Introduced and read first time: February 28, 2026
+Assigned to: Rules and Executive Nominations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Health – American Legion Automated External Defibrillator Grant
+3 Program – Established
+4 FOR the purpose of establishing the American Legion Automated External Defibrillator
+5 Grant Program; requiring the Maryland Department of Health to award grants to
+6 eligible American Legion posts to procure and make available automated external
+7 defibrillators on the premises of American Legion posts; and generally relating to
+8 automated external defibrillators in American Legion posts.
+9 BY repealing and reenacting, without amendments,
+10 Article – Education
+11 Section 13–517(a)(1) and (2)
+12 Annotated Code of Maryland
+13 (2022 Replacement Volume and 2025 Supplement)
+14 BY adding to
+15 Article – Health – General
+16 Section 20–2501 and 20–2502 to be under the new subtitle “Subtitle 25. American
+17 Legion Automated External Defibrillator Grant Program”
+18 Annotated Code of Maryland
+19 (2023 Replacement Volume and 2025 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Education
+23 13–517.
+24 (a) (1) In this section the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1645*
+
+2 HOUSE BILL 1645
+1 (2) “Automated external defibrillator (AED)” means a medical heart
+2 monitor and defibrillator device that:
+3 (i) Is cleared for market by the federal Food and Drug
+4 Administration;
+5 (ii) Recognizes the presence or absence of ventricular fibrillation or
+6 rapid ventricular tachycardia;
+7 (iii) Determines, without intervention by an operator, whether
+8 defibrillation should be performed;
+9 (iv) On determining that defibrillation should be performed,
+10 automatically charges; and
+11 (v) 1. Requires operator intervention to deliver the electrical
+12 impulse; or
+13 2. Automatically continues with delivery of electrical
+14 impulse.
+15 Article – Health – General
+16 SUBTITLE 25. AMERICAN LEGION AUTOMATED EXTERNAL DEFIBRILLATOR
+17 GRANT PROGRAM.
+18 20–2501.
+19 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+20 INDICATED.
+21 (B) “AUTOMATED EXTERNAL DEFIBRILLATOR (AED)” HAS THE MEANING
+22 STATED IN § 13–517 OF THE EDUCATION ARTICLE.
+23 (C) “GRANT PROGRAM” MEANS THE AMERICAN LEGION AUTOMATED
+24 EXTERNAL DEFIBRILLATOR GRANT PROGRAM.
+25 20–2502.
+26 (A) THERE IS AN AMERICAN LEGION AUTOMATED EXTERNAL
+27 DEFIBRILLATOR GRANT PROGRAM IN THE DEPARTMENT.
+
+HOUSE BILL 1645 3
+1 (B) THE PURPOSE OF THE GRANT PROGRAM IS TO AWARD GRANTS TO
+2 AMERICAN LEGION POSTS IN THE STATE TO PROCURE AND MAKE AVAILABLE AEDS
+3 ON THE PROPERTY OF AMERICAN LEGION POSTS.
+4 (C) AN AMERICAN LEGION POST THAT IS NOT ABLE TO PROCURE AND MAKE
+5 AVAILABLE AT LEAST TWO AEDS ON THE PREMISES IS ELIGIBLE FOR A GRANT
+6 UNDER THE GRANT PROGRAM.
+7 (D) THE DEPARTMENT SHALL:
+8 (1) ADMINISTER THE GRANT PROGRAM; AND
+9 (2) IDENTIFY AND APPLY FOR FUNDING FOR THE GRANT PROGRAM.
+10 (E) (1) IN AWARDING GRANTS UNDER THE GRANT PROGRAM, THE
+11 DEPARTMENT SHALL PRIORITIZE APPLICANTS IN ORDER OF DESCENDING NEED.
+12 (2) AN APPLICANT THAT DOES NOT HAVE AN AED ON PREMISES
+13 SHALL BE CONSIDERED TO BE OF GREATER NEED THAN AN APPLICANT THAT HAS
+14 ONLY ONE AED ON PREMISES.
+15 (F) THE GOVERNOR MAY INCLUDE IN THE ANNUAL BUDGET BILL AN
+16 APPROPRIATION TO THE GRANT PROGRAM.
+17 (G) (1) THE DEPARTMENT SHALL ADOPT REGULATIONS TO CARRY OUT
+18 THIS SUBTITLE.
+19 (2) REGULATIONS ADOPTED UNDER THIS SUBSECTION SHALL
+20 INCLUDE:
+21 (I) A SIMPLE COMMON APPLICATION PROCEDURE; AND
+22 (II) FOR ELIGIBLE AMERICAN LEGION POSTS, A PROCESS TO
+23 FACILITATE THE PARTICIPATION OF AMERICAN LEGION POSTS THAT HAVE LIMITED
+24 RESOURCES OR LANGUAGE BARRIERS.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+26 October 1, 2026.
+
+[DELETED: :CA      6     A   P F G e d a B  A S  A  ( B  A S L  A  (  S T A 1  ( ( I]
+[DELETED:  H    ( “ e d ( m a m h m    ( I c f m b t f F a D A    ( R r    ( D w i b a o w d    ( O d t d s b p a    ( 1 R o i t d t e i     2 A c w d o e i A2.ALAE  M E U X EP. R()N T S T F W H T M () “A(U      D RE17EA.() “GP”ALR RM M T M E UDGP E R R  ) TALAH I A M E U XGPD. R R E]
+[DELETED: H 3() TGH P O T R R I T A G TLSA E T S M EL.() AAN M E A L T S O T P I E F A G R RP.() TD:H E ( AGP; R RM  ( IGP. R R() ( IGPN A G U T R RM T. ( AA A T D N H A  O P  D.() TH O M I I T A B B A R RP.() ( TH E (  A U T S S  () A; E   () FALIO E M E PS A P T M E   S A B I F E T t A s t e O]

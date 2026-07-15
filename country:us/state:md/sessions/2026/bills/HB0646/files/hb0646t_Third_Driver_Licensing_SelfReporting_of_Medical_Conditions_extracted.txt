@@ -1,0 +1,205 @@
+Title: HOUSE BILL 646
+Official Title: HOUSE BILL 646
+Number of Sections: 1
+Source: versions - Third - Driver Licensing – Self–Reporting of Medical Conditions
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+R4 6lr1212
+By: Delegates Guyton and Korman, Korman, Grammer, Holmes, Lewis, and Odom
+Introduced and read first time: January 30, 2026
+Assigned to: Environment and Transportation
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 6, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Driver Licensing – Self–Reporting of Medical Conditions
+3 FOR the purpose of requiring that a medical provider report or physician referral be the
+4 primary factor in the Motor Vehicle Administration’s decision on whether to issue,
+5 refuse, or cancel suspend a driver’s license for driver’s license holders or applicants
+6 who self–report a diagnosis of certain medical conditions, subject to a certain
+7 exception; authorizing the Administration in its discretion to require additional
+8 documentation, written statements, or other materials related to a diagnosis
+9 disclosed by a licensee or an applicant or indicated on forms subsequently submitted
+10 to the Administration following disclosure and to require testing of a licensee or an
+11 applicant who provides notice of a diagnosis; requiring the Administration to
+12 establish an expedited process for the issuance of a learner’s instructional permit
+13 under certain circumstances to an individual who self–reports a diagnosis; requiring
+14 the Administration to examine its current practices for medical case review and
+15 report to the General Assembly by a certain date; and generally relating to
+16 individuals who self–report a diagnosis of a medical condition to the Motor Vehicle
+17 Administration.
+18 BY adding to
+19 Article – Transportation
+20 Section 16–119.1
+21 Annotated Code of Maryland
+22 (2020 Replacement Volume and 2025 Supplement)
+23 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0646*
+2 HOUSE BILL 646
+1 That the Laws of Maryland read as follows:
+2 Article – Transportation
+3 16–119.1.
+4 (A) WHEN A LICENSEE OR AN APPLICANT FOR A DRIVER’S LICENSE
+5 NOTIFIES THE ADMINISTRATION AS REQUIRED UNDER REGULATIONS ADOPTED BY
+6 THE ADMINISTRATION THAT THE LICENSEE OR APPLICANT HAS BEEN DIAGNOSED
+7 WITH A MEDICAL CONDITION LISTED IN THAT REGULATION THE REGULATIONS, A
+8 MEDICAL PROVIDER REPORT OR A PHYSICIAN REFERRAL, AS NEEDED, SHALL BE
+9 THE PRIMARY FACTOR IN THE ADMINISTRATION’S DECISION ON WHETHER TO ISSUE,
+10 REFUSE, OR CANCEL SUSPEND THE DRIVER’S LICENSE UNLESS LAW ENFORCEMENT
+11 FILES A REQUEST FOR REEXAMINATION OF THE LICENSEE OR APPLICANT.
+12 (B) THE ADMINISTRATION IN ITS DISCRETION MAY REQUIRE ADDITIONAL
+13 TESTING:
+14 (1) DOCUMENTATION, WRITTEN STATEMENTS, OR OTHER MATERIALS
+15 RELATED TO A DIAGNOSIS OF A LICENSEE OR AN APPLICANT OR INDICATED ON
+16 FORMS SUBSEQUENTLY SUBMITTED TO THE ADMINISTRATION FOLLOWING
+17 DISCLOSURE; AND
+18 (2) TESTING OF A LICENSEE OR AN APPLICANT WHO PROVIDES
+19 NOTICE OF A DIAGNOSIS AS DESCRIBED IN SUBSECTION (A) OF THIS SECTION.
+20 (C) (1) THE ADMINISTRATION SHALL ESTABLISH AN EXPEDITED
+21 PROCESS FOR THE ISSUANCE OF A LEARNER’S INSTRUCTIONAL PERMIT TO AN
+22 INDIVIDUAL:
+23 (I) WHOSE LICENSE HAS BEEN REFUSED OR SUSPENDED OR
+24 CANCELED DUE TO A DIAGNOSIS OF A MEDICAL CONDITION;
+25 (II) WHOSE MEDICAL CONDITION HAS IMPROVED SUCH THAT
+26 THE INDIVIDUAL IS MEDICALLY QUALIFIED TO OBTAIN A DRIVER’S LICENSE; AND
+27 (III) WHO IS REQUIRED TO COMPLETE A DRIVER EDUCATION
+28 PROGRAM OR TAKE A DRIVER KNOWLEDGE OR SKILLS EXAMINATION.
+29 (2) THE ADMINISTRATION SHALL ISSUE A LEARNER’S
+30 INSTRUCTIONAL PERMIT UNDER PARAGRAPH (1) OF THIS SUBSECTION THAT IS
+31 VALID FOR A REASONABLE PERIOD OF TIME TO ALLOW THE INDIVIDUAL TO
+32 COMPLETE THE NECESSARY DRIVER EDUCATION PROGRAM OR TAKE THE
+33 NECESSARY DRIVER KNOWLEDGE OR SKILLS EXAMINATION.
+HOUSE BILL 646 3
+1 SECTION 2. AND BE IT FURTHER ENACTED, That:
+2 (1) on or before December 1, 2026, the Motor Vehicle Administration shall
+3 examine its current practices for medical case review;
+4 (2) the examination shall consider current Administration practices in
+5 comparison with industry best practices, including streamlining case review and using
+6 electronic communication where permissible; and
+7 (3) on or before December 1, 2026, the Motor Vehicle Administration shall
+8 report its findings and recommendations under the examination, in accordance with §
+9 2–1257 of the State Government Article, to the General Assembly, including any changes
+10 adopted or to be adopted by the Administration as a result of the examination.
+11 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+12 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      6     A D F p r w s a d o c m c s t a c e a t A i i d t r a d w s o o m r t a d d t a w p n o a d r t A t e u t A t e i c p f m c r a r t t G A b a c d a g r t i A B  A S  A  (  S]
+[DELETED:  H  T A() WH A L O A A F A DRS L D DS L D  DNSE’E RS() TH D ( D,N S  T A D O A L O A A O I O S S T T D FE  (  O A L O A A W P A ).() ( TH D S E A E F T I O A LRS I P T A  () H L H B R O S O  () IH M C H I S TRSE ;  () IH I R T C A D E ( TA D S I A LRS P U P  O T S T I F A R P O T T A T I T T N D E P O T T]
+[DELETED: H 3  S   ( o e   ( t e s c c A p i c w i b p i s c r a u e   ( o r i f a r u t e i a w § 2 a  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 646
+R4 6lr1212
+By: Delegates Guyton and Korman, Korman, Grammer, Holmes, Lewis, and Odom
+Introduced and read first time: January 30, 2026
+Assigned to: Environment and Transportation
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 6, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Driver Licensing – Self–Reporting of Medical Conditions
+3 FOR the purpose of requiring that a medical provider report or physician referral be the
+4 primary factor in the Motor Vehicle Administration’s decision on whether to issue,
+5 refuse, or cancel suspend a driver’s license for driver’s license holders or applicants
+6 who self–report a diagnosis of certain medical conditions, subject to a certain
+7 exception; authorizing the Administration in its discretion to require additional
+8 documentation, written statements, or other materials related to a diagnosis
+9 disclosed by a licensee or an applicant or indicated on forms subsequently submitted
+10 to the Administration following disclosure and to require testing of a licensee or an
+11 applicant who provides notice of a diagnosis; requiring the Administration to
+12 establish an expedited process for the issuance of a learner’s instructional permit
+13 under certain circumstances to an individual who self–reports a diagnosis; requiring
+14 the Administration to examine its current practices for medical case review and
+15 report to the General Assembly by a certain date; and generally relating to
+16 individuals who self–report a diagnosis of a medical condition to the Motor Vehicle
+17 Administration.
+18 BY adding to
+19 Article – Transportation
+20 Section 16–119.1
+21 Annotated Code of Maryland
+22 (2020 Replacement Volume and 2025 Supplement)
+23 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0646*
+
+2 HOUSE BILL 646
+1 That the Laws of Maryland read as follows:
+2 Article – Transportation
+3 16–119.1.
+4 (A) WHEN A LICENSEE OR AN APPLICANT FOR A DRIVER’S LICENSE
+5 NOTIFIES THE ADMINISTRATION AS REQUIRED UNDER REGULATIONS ADOPTED BY
+6 THE ADMINISTRATION THAT THE LICENSEE OR APPLICANT HAS BEEN DIAGNOSED
+7 WITH A MEDICAL CONDITION LISTED IN THAT REGULATION THE REGULATIONS, A
+8 MEDICAL PROVIDER REPORT OR A PHYSICIAN REFERRAL, AS NEEDED, SHALL BE
+9 THE PRIMARY FACTOR IN THE ADMINISTRATION’S DECISION ON WHETHER TO ISSUE,
+10 REFUSE, OR CANCEL SUSPEND THE DRIVER’S LICENSE UNLESS LAW ENFORCEMENT
+11 FILES A REQUEST FOR REEXAMINATION OF THE LICENSEE OR APPLICANT.
+12 (B) THE ADMINISTRATION IN ITS DISCRETION MAY REQUIRE ADDITIONAL
+13 TESTING:
+14 (1) DOCUMENTATION, WRITTEN STATEMENTS, OR OTHER MATERIALS
+15 RELATED TO A DIAGNOSIS OF A LICENSEE OR AN APPLICANT OR INDICATED ON
+16 FORMS SUBSEQUENTLY SUBMITTED TO THE ADMINISTRATION FOLLOWING
+17 DISCLOSURE; AND
+18 (2) TESTING OF A LICENSEE OR AN APPLICANT WHO PROVIDES
+19 NOTICE OF A DIAGNOSIS AS DESCRIBED IN SUBSECTION (A) OF THIS SECTION.
+20 (C) (1) THE ADMINISTRATION SHALL ESTABLISH AN EXPEDITED
+21 PROCESS FOR THE ISSUANCE OF A LEARNER’S INSTRUCTIONAL PERMIT TO AN
+22 INDIVIDUAL:
+23 (I) WHOSE LICENSE HAS BEEN REFUSED OR SUSPENDED OR
+24 CANCELED DUE TO A DIAGNOSIS OF A MEDICAL CONDITION;
+25 (II) WHOSE MEDICAL CONDITION HAS IMPROVED SUCH THAT
+26 THE INDIVIDUAL IS MEDICALLY QUALIFIED TO OBTAIN A DRIVER’S LICENSE; AND
+27 (III) WHO IS REQUIRED TO COMPLETE A DRIVER EDUCATION
+28 PROGRAM OR TAKE A DRIVER KNOWLEDGE OR SKILLS EXAMINATION.
+29 (2) THE ADMINISTRATION SHALL ISSUE A LEARNER’S
+30 INSTRUCTIONAL PERMIT UNDER PARAGRAPH (1) OF THIS SUBSECTION THAT IS
+31 VALID FOR A REASONABLE PERIOD OF TIME TO ALLOW THE INDIVIDUAL TO
+32 COMPLETE THE NECESSARY DRIVER EDUCATION PROGRAM OR TAKE THE
+33 NECESSARY DRIVER KNOWLEDGE OR SKILLS EXAMINATION.
+
+HOUSE BILL 646 3
+1 SECTION 2. AND BE IT FURTHER ENACTED, That:
+2 (1) on or before December 1, 2026, the Motor Vehicle Administration shall
+3 examine its current practices for medical case review;
+4 (2) the examination shall consider current Administration practices in
+5 comparison with industry best practices, including streamlining case review and using
+6 electronic communication where permissible; and
+7 (3) on or before December 1, 2026, the Motor Vehicle Administration shall
+8 report its findings and recommendations under the examination, in accordance with §
+9 2–1257 of the State Government Article, to the General Assembly, including any changes
+10 adopted or to be adopted by the Administration as a result of the examination.
+11 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+12 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      6     A D F p r w s a d o c m c s t a c e a t A i i d t r a d w s o o m r t a d d t a w p n o a d r t A t e u t A t e i c p f m c r a r t t G A b a c d a g r t i A B  A S  A  (  S]
+[DELETED:  H  T A() WH A L O A A F A DRS L D DS L D  DNSE’E RS() TH D ( D,N S  T A D O A L O A A O I O S S T T D FE  (  O A L O A A W P A ).() ( TH D S E A E F T I O A LRS I P T A  () H L H B R O S O  () IH M C H I S TRSE ;  () IH I R T C A D E ( TA D S I A LRS P U P  O T S T I F A R P O T T A T I T T N D E P O T T]
+[DELETED: H 3  S   ( o e   ( t e s c c A p i c w i b p i s c r a u e   ( o r i f a r u t e i a w § 2 a  S A B I F E T t A s t e O          G               ]
