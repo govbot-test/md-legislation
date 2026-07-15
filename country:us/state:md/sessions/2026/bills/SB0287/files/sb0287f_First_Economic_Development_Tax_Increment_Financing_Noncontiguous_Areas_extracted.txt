@@ -1,0 +1,179 @@
+Title: SENATE BILL 287
+Official Title: SENATE BILL 287
+Number of Sections: 1
+Source: versions - First - Economic Development - Tax Increment Financing - Noncontiguous Areas
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+C8 6lr0707
+HB 942/25 – W&M CF HB 135
+By: Senator McCray
+Introduced and read first time: January 21, 2026
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Economic Development – Tax Increment Financing – Noncontiguous Areas
+3 FOR the purpose of authorizing the governing body of a political subdivision to designate
+4 certain noncontiguous areas as development districts; and generally relating to tax
+5 increment financing for noncontiguous areas.
+6 BY renumbering
+7 Article – Economic Development
+8 Section 12–201(e) through (u)
+9 to be Section 12–201(f) through (v), respectively
+10 Annotated Code of Maryland
+11 (2024 Replacement Volume and 2025 Supplement)
+12 BY repealing and reenacting, without amendments,
+13 Article – Economic Development
+14 Section 12–201(a)
+15 Annotated Code of Maryland
+16 (2024 Replacement Volume and 2025 Supplement)
+17 BY adding to
+18 Article – Economic Development
+19 Section 12–201(e)
+20 Annotated Code of Maryland
+21 (2024 Replacement Volume and 2025 Supplement)
+22 BY repealing and reenacting, with amendments,
+23 Article – Economic Development
+24 Section 12–201(i)
+25 Annotated Code of Maryland
+26 (2024 Replacement Volume and 2025 Supplement)
+27 (As enacted by Section 1 of this Act)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0287*
+2 SENATE BILL 287
+1 BY repealing and reenacting, with amendments,
+2 Article – Economic Development
+3 Section 12–202 and 12–203(a)(1)
+4 Annotated Code of Maryland
+5 (2024 Replacement Volume and 2025 Supplement)
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That Section(s) 12–201(e) through (u) of Article – Economic Development of the Annotated
+8 Code of Maryland be renumbered to be Section(s) 12–201(f) through (v), respectively.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+10 as follows:
+11 Article – Economic Development
+12 12–201.
+13 (a) In this subtitle the following words have the meanings indicated.
+14 (E) “BLIGHTED AREA” MEANS AN AREA IN WHICH A MAJORITY OF
+15 BUILDINGS HAVE DECLINED IN PRODUCTIVITY BY REASON OF OBSOLESCENCE,
+16 DEPRECIATION, OR OTHER CAUSES TO AN EXTENT THAT THEY NO LONGER JUSTIFY
+17 FUNDAMENTAL REPAIRS AND ADEQUATE MAINTENANCE.
+18 (i) (1) “Development district” means a contiguous OR NONCONTIGUOUS area
+19 designated by a resolution.
+20 (2) “Development district” includes an extraordinary development district.
+21 12–202.
+22 (a) (1) This subtitle is self–executing.
+23 (2) A political subdivision need not amend its charter to exercise the
+24 powers granted by this subtitle.
+25 (b) (1) [This] EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+26 SUBSECTION, THIS subtitle does not apply in Baltimore City.
+27 (2) THE PROVISIONS OF § 12–203(A)(1)(II) OF THIS SUBTITLE
+28 PERTAINING TO NONCONTIGUOUS BLIGHTED AREAS APPLY IN BALTIMORE CITY.
+29 12–203.
+30 (a) Before issuing bonds, the governing body of the political subdivision shall:
+SENATE BILL 287 3
+1 (1) by resolution:
+2 (i) designate a contiguous area within its jurisdiction as a
+3 development district;
+4 (ii) DESIGNATE A NONCONTIGUOUS BLIGHTED AREA WITHIN
+5 ITS JURISDICTION AS A DEVELOPMENT DISTRICT;
+6 (III) identify an area that has been designated a sustainable
+7 community; or
+8 [(iii)] (IV) identify an area that has been designated a RISE zone;
+9 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2026.
+[DELETED: :CA      6   C A E F c i B  A S t  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  (]
+[DELETED:  S  B  A S  A  (  S T C  S a A 1  ( I ) “BL AA M A A I W A M O H D I P B R O OEN   ( ( “   d   ( “ 1  ( ( T   ( A p s n n a i c t e t p  ( Ts []E(X A P I P  O TN       T§1()( P O  AII O TSSNA I  C 1  ( B]
+[DELETED: S 3   ( b    ( d a c a w i j a a d    ( A N B A W      i a a t h b d a s c    () i](I  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 287
+C8 6lr0707
+HB 942/25 – W&M CF HB 135
+By: Senator McCray
+Introduced and read first time: January 21, 2026
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Economic Development – Tax Increment Financing – Noncontiguous Areas
+3 FOR the purpose of authorizing the governing body of a political subdivision to designate
+4 certain noncontiguous areas as development districts; and generally relating to tax
+5 increment financing for noncontiguous areas.
+6 BY renumbering
+7 Article – Economic Development
+8 Section 12–201(e) through (u)
+9 to be Section 12–201(f) through (v), respectively
+10 Annotated Code of Maryland
+11 (2024 Replacement Volume and 2025 Supplement)
+12 BY repealing and reenacting, without amendments,
+13 Article – Economic Development
+14 Section 12–201(a)
+15 Annotated Code of Maryland
+16 (2024 Replacement Volume and 2025 Supplement)
+17 BY adding to
+18 Article – Economic Development
+19 Section 12–201(e)
+20 Annotated Code of Maryland
+21 (2024 Replacement Volume and 2025 Supplement)
+22 BY repealing and reenacting, with amendments,
+23 Article – Economic Development
+24 Section 12–201(i)
+25 Annotated Code of Maryland
+26 (2024 Replacement Volume and 2025 Supplement)
+27 (As enacted by Section 1 of this Act)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0287*
+
+2 SENATE BILL 287
+1 BY repealing and reenacting, with amendments,
+2 Article – Economic Development
+3 Section 12–202 and 12–203(a)(1)
+4 Annotated Code of Maryland
+5 (2024 Replacement Volume and 2025 Supplement)
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That Section(s) 12–201(e) through (u) of Article – Economic Development of the Annotated
+8 Code of Maryland be renumbered to be Section(s) 12–201(f) through (v), respectively.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+10 as follows:
+11 Article – Economic Development
+12 12–201.
+13 (a) In this subtitle the following words have the meanings indicated.
+14 (E) “BLIGHTED AREA” MEANS AN AREA IN WHICH A MAJORITY OF
+15 BUILDINGS HAVE DECLINED IN PRODUCTIVITY BY REASON OF OBSOLESCENCE,
+16 DEPRECIATION, OR OTHER CAUSES TO AN EXTENT THAT THEY NO LONGER JUSTIFY
+17 FUNDAMENTAL REPAIRS AND ADEQUATE MAINTENANCE.
+18 (i) (1) “Development district” means a contiguous OR NONCONTIGUOUS area
+19 designated by a resolution.
+20 (2) “Development district” includes an extraordinary development district.
+21 12–202.
+22 (a) (1) This subtitle is self–executing.
+23 (2) A political subdivision need not amend its charter to exercise the
+24 powers granted by this subtitle.
+25 (b) (1) [This] EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+26 SUBSECTION, THIS subtitle does not apply in Baltimore City.
+27 (2) THE PROVISIONS OF § 12–203(A)(1)(II) OF THIS SUBTITLE
+28 PERTAINING TO NONCONTIGUOUS BLIGHTED AREAS APPLY IN BALTIMORE CITY.
+29 12–203.
+30 (a) Before issuing bonds, the governing body of the political subdivision shall:
+
+SENATE BILL 287 3
+1 (1) by resolution:
+2 (i) designate a contiguous area within its jurisdiction as a
+3 development district;
+4 (ii) DESIGNATE A NONCONTIGUOUS BLIGHTED AREA WITHIN
+5 ITS JURISDICTION AS A DEVELOPMENT DISTRICT;
+6 (III) identify an area that has been designated a sustainable
+7 community; or
+8 [(iii)] (IV) identify an area that has been designated a RISE zone;
+9 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2026.
+
+[DELETED: :CA      6   C A E F c i B  A S t  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  (]
+[DELETED:  S  B  A S  A  (  S T C  S a A 1  ( I ) “BL AA M A A I W A M O H D I P B R O OEN   ( ( “   d   ( “ 1  ( ( T   ( A p s n n a i c t e t p  ( Ts []E(X A P I P  O TN       T§1()( P O  AII O TSSNA I  C 1  ( B]
+[DELETED: S 3   ( b    ( d a c a w i j a a d    ( A N B A W      i a a t h b d a s c    () i](I  S A B I F E T t A s t e O]

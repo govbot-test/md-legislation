@@ -1,0 +1,211 @@
+Title: HOUSE BILL 1249
+Official Title: HOUSE BILL 1249
+Number of Sections: 1
+Source: versions - Third - Certified Recovery Residences - Refusing Services to Individuals Receiving Medication-Assisted Treatment - Prohibition
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+J3, J1 6lr2814
+By: Delegate Hill
+Introduced and read first time: February 12, 2026
+Assigned to: Health
+Committee Report: Favorable
+House action: Adopted
+Read second time: March 9, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Certified Recovery Residences – Refusing Services to Individuals Receiving
+3 Medication–Assisted Treatment – Prohibition
+4 FOR the purpose of requiring that the requirements for the certification of recovery
+5 residences established by a credentialing entity prohibit a certified recovery
+6 residence from refusing services to an individual receiving medication–assisted
+7 treatment or requiring an individual to cease receiving or modify how the individual
+8 receives medication–assisted treatment as a condition to receive services from a
+9 certified recovery residence; and generally relating to medication–assisted treatment
+10 and certified recovery residences.
+11 BY repealing and reenacting, without amendments,
+12 Article – Health – General
+13 Section 7.5–101(a) and (o) and 19–2501
+14 Annotated Code of Maryland
+15 (2023 Replacement Volume and 2025 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – Health – General
+18 Section 19–2502
+19 Annotated Code of Maryland
+20 (2023 Replacement Volume and 2025 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1249*
+2 HOUSE BILL 1249
+1 Article – Health – General
+2 7.5–101.
+3 (a) In this title the following words have the meanings indicated.
+4 (o) “Recovery residence” means a service that:
+5 (1) Provides alcohol–free and illicit–drug–free housing to individuals with
+6 substance–related disorders or addictive disorders or co–occurring mental disorders and
+7 substance–related disorders or addictive disorders; and
+8 (2) Does not include clinical treatment services.
+9 19–2501.
+10 (a) In this subtitle the following words have the meanings indicated.
+11 (b) “Certificate of compliance” means a certificate that is issued to a recovery
+12 residence by a credentialing entity.
+13 (c) “Certified recovery residence” means a recovery residence that holds a
+14 certificate of compliance.
+15 (d) “Credentialing entity” means a nonprofit organization that develops and
+16 administers professional certification programs according to nationally recognized
+17 certification standards.
+18 (e) “Recovery residence” has the meaning stated in § 7.5–101 of this article.
+19 19–2502.
+20 (a) The Department shall approve a credentialing entity to develop and
+21 administer a certification process for recovery residences.
+22 (b) The credentialing entity shall:
+23 (1) [Establish] SUBJECT TO SUBSECTION (C) OF THIS SECTION,
+24 ESTABLISH recovery residence certification requirements;
+25 (2) Establish processes to administer the application, certification, and
+26 recertification process;
+27 (3) Establish processes to monitor and inspect a recovery residence;
+28 (4) Conduct an on–site inspection of a recovery residence:
+HOUSE BILL 1249 3
+1 (i) Before issuing a certificate of compliance; and
+2 (ii) At least once during each certification renewal period; and
+3 (5) Issue a certificate of compliance on approval of the application process
+4 and the inspection of the recovery residence.
+5 (c) THE REQUIREMENTS ESTABLISHED BY A CREDENTIALING ENTITY
+6 UNDER SUBSECTION (B)(1) OF THIS SECTION SHALL PROHIBIT A CERTIFIED
+7 RECOVERY RESIDENCE FROM:
+8 (1) REFUSING SERVICES TO AN INDIVIDUAL BASED ON THE
+9 INDIVIDUAL RECEIVING MEDICATION–ASSISTED TREATMENT FOR OPIOID USE
+10 DISORDER; AND
+11 (2) REQUIRING AN INDIVIDUAL TO CEASE RECEIVING OR MODIFY
+12 HOW THE INDIVIDUAL RECEIVES MEDICATION–ASSISTED TREATMENT FOR OPIOID
+13 USE DISORDER BEFORE THE INDIVIDUAL MAY RECEIVE SERVICES AT THE RECOVERY
+14 RESIDENCE.
+15 (D) A certificate of compliance issued by the credentialing entity is valid for 1 year
+16 from the date of issuance.
+17 [(d)] (E) The credentialing entity may revoke the certificate of compliance of a
+18 certified recovery residence if the credentialing entity finds that the recovery residence is
+19 not in compliance with the requirements established by the credentialing entity.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      6     A C M F t p o r t t r f t c o r r e b a c e p a c r r f r s t a i r m t r m t a a c t r s f a c a B  A  S  A  ( B  A  S  A  (  S T]
+[DELETED:  H  A 7  ( I  ( “   ( P s s   ( D 1  ( I  ( “ r  ( “ r r m a r r t h a c  ( “ e m a n o t d a a p c p a t n r c  ( “ 1  ( T D s a a c e t d a a  ( T   ( E]S()U T S C O T SN     ()E p t a t a c a r   ( E   ( C]
+[DELETED: H 3    ( B    ( A   ( I a  ( R E B A C E S B O T S S P A C) (  S T A I B O T R MNA T F O UR  (  A I T C R O MNA() A f  () T]( c n  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1249
+J3, J1 6lr2814
+By: Delegate Hill
+Introduced and read first time: February 12, 2026
+Assigned to: Health
+Committee Report: Favorable
+House action: Adopted
+Read second time: March 9, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Certified Recovery Residences – Refusing Services to Individuals Receiving
+3 Medication–Assisted Treatment – Prohibition
+4 FOR the purpose of requiring that the requirements for the certification of recovery
+5 residences established by a credentialing entity prohibit a certified recovery
+6 residence from refusing services to an individual receiving medication–assisted
+7 treatment or requiring an individual to cease receiving or modify how the individual
+8 receives medication–assisted treatment as a condition to receive services from a
+9 certified recovery residence; and generally relating to medication–assisted treatment
+10 and certified recovery residences.
+11 BY repealing and reenacting, without amendments,
+12 Article – Health – General
+13 Section 7.5–101(a) and (o) and 19–2501
+14 Annotated Code of Maryland
+15 (2023 Replacement Volume and 2025 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – Health – General
+18 Section 19–2502
+19 Annotated Code of Maryland
+20 (2023 Replacement Volume and 2025 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1249*
+
+2 HOUSE BILL 1249
+1 Article – Health – General
+2 7.5–101.
+3 (a) In this title the following words have the meanings indicated.
+4 (o) “Recovery residence” means a service that:
+5 (1) Provides alcohol–free and illicit–drug–free housing to individuals with
+6 substance–related disorders or addictive disorders or co–occurring mental disorders and
+7 substance–related disorders or addictive disorders; and
+8 (2) Does not include clinical treatment services.
+9 19–2501.
+10 (a) In this subtitle the following words have the meanings indicated.
+11 (b) “Certificate of compliance” means a certificate that is issued to a recovery
+12 residence by a credentialing entity.
+13 (c) “Certified recovery residence” means a recovery residence that holds a
+14 certificate of compliance.
+15 (d) “Credentialing entity” means a nonprofit organization that develops and
+16 administers professional certification programs according to nationally recognized
+17 certification standards.
+18 (e) “Recovery residence” has the meaning stated in § 7.5–101 of this article.
+19 19–2502.
+20 (a) The Department shall approve a credentialing entity to develop and
+21 administer a certification process for recovery residences.
+22 (b) The credentialing entity shall:
+23 (1) [Establish] SUBJECT TO SUBSECTION (C) OF THIS SECTION,
+24 ESTABLISH recovery residence certification requirements;
+25 (2) Establish processes to administer the application, certification, and
+26 recertification process;
+27 (3) Establish processes to monitor and inspect a recovery residence;
+28 (4) Conduct an on–site inspection of a recovery residence:
+
+HOUSE BILL 1249 3
+1 (i) Before issuing a certificate of compliance; and
+2 (ii) At least once during each certification renewal period; and
+3 (5) Issue a certificate of compliance on approval of the application process
+4 and the inspection of the recovery residence.
+5 (c) THE REQUIREMENTS ESTABLISHED BY A CREDENTIALING ENTITY
+6 UNDER SUBSECTION (B)(1) OF THIS SECTION SHALL PROHIBIT A CERTIFIED
+7 RECOVERY RESIDENCE FROM:
+8 (1) REFUSING SERVICES TO AN INDIVIDUAL BASED ON THE
+9 INDIVIDUAL RECEIVING MEDICATION–ASSISTED TREATMENT FOR OPIOID USE
+10 DISORDER; AND
+11 (2) REQUIRING AN INDIVIDUAL TO CEASE RECEIVING OR MODIFY
+12 HOW THE INDIVIDUAL RECEIVES MEDICATION–ASSISTED TREATMENT FOR OPIOID
+13 USE DISORDER BEFORE THE INDIVIDUAL MAY RECEIVE SERVICES AT THE RECOVERY
+14 RESIDENCE.
+15 (D) A certificate of compliance issued by the credentialing entity is valid for 1 year
+16 from the date of issuance.
+17 [(d)] (E) The credentialing entity may revoke the certificate of compliance of a
+18 certified recovery residence if the credentialing entity finds that the recovery residence is
+19 not in compliance with the requirements established by the credentialing entity.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      6     A C M F t p o r t t r f t c o r r e b a c e p a c r r f r s t a i r m t r m t a a c t r s f a c a B  A  S  A  ( B  A  S  A  (  S T]
+[DELETED:  H  A 7  ( I  ( “   ( P s s   ( D 1  ( I  ( “ r  ( “ r r m a r r t h a c  ( “ e m a n o t d a a p c p a t n r c  ( “ 1  ( T D s a a c e t d a a  ( T   ( E]S()U T S C O T SN     ()E p t a t a c a r   ( E   ( C]
+[DELETED: H 3    ( B    ( A   ( I a  ( R E B A C E S B O T S S P A C) (  S T A I B O T R MNA T F O UR  (  A I T C R O MNA() A f  () T]( c n  S A B I F E T t A s t e O          G               ]

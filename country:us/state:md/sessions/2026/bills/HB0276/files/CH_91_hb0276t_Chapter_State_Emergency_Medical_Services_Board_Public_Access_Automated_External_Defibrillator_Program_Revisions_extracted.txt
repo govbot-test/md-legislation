@@ -1,0 +1,540 @@
+Title: (House Bill 276)
+Official Title: (House Bill 276)
+Number of Sections: 9
+Source: versions - Chapter - State Emergency Medical Services Board - Public Access Automated External Defibrillator Program - Revisions
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 91
+Chapter 91
+AN ACT concerning
+State Emergency Medical Services Board – Public Access Automated External
+Defibrillator Program – Revisions
+FOR the purpose of altering the Public Access Automated External Defibrillator Program,
+including by establishing requirements regarding an automated external
+defibrillator (AED) coordinator, repealing certain provisions of law regarding
+regional council AED committees, and exempting certain law enforcement agencies
+from being required to obtain a certificate for an AED deployed in a patrol vehicle of
+the law enforcement agency; establishing certain certification qualifications for
+grocery stores and restaurants under the Program; and generally relating to the
+Public Access Automated External Defibrillator Program.
+BY repealing and reenacting, with amendments,
+Article – Education
+
+Section 2:
+Section 13–517
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Health – General
+
+Section 3:
+Section 21–330.3(c)
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Public Safety
+
+Section 4:
+Section 2–101(a) and (g)
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+
+Section 5:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Education
+13–517.
+(a) (1) In this section the following words have the meanings indicated.
+– 1 –
+Ch. 91 2026 LAWS OF MARYLAND
+(2) “AED COORDINATOR” MEANS THE INDIVIDUAL DESIGNATED BY A
+REGISTERED ENTITY TO ENSURE COMPLIANCE WITH THE REQUIREMENTS OF THIS
+
+Section 6:
+SECTION.
+[(2)] (3) “Automated external defibrillator (AED)” means a medical heart
+monitor and defibrillator device that:
+(i) Is cleared for market by the [federal] U.S. Food and Drug
+Administration;
+(ii) Recognizes the presence or absence of ventricular fibrillation or
+rapid ventricular tachycardia;
+(iii) Determines, without intervention by an operator, whether
+defibrillation should be performed;
+(iv) On determining that defibrillation should be performed,
+automatically charges; and
+(v) 1. Requires operator intervention to deliver the electrical
+impulse; or
+
+Section 7:
+2. Automatically continues with delivery of electrical
+impulse.
+[(3)] (4) “Certificate” means a certificate issued by the EMS Board to a
+registered [facility] ENTITY.
+[(4) (i)] (5) [“Facility”] “ENTITY” means AN ORGANIZATION, A
+BUSINESS, AN ASSOCIATION, an agency, [an association,] a corporation, a firm, OR a
+partnership[, or any other entity] IN THE STATE.
+[(ii) “Facility” does not include a grocery store or restaurant that is
+subject to § 21–330.3 of the Health – General Article.]
+[(5)] (6) “Jurisdictional emergency medical services operational program”
+means the institution, agency, corporation, or other entity that has been approved by the
+EMS Board to provide oversight of emergency medical services for each of the local
+government and State and federal emergency medical services programs.
+(7) “LAW ENFORCEMENT AGENCY” HAS THE MEANING STATED IN §
+2–101 OF THE PUBLIC SAFETY ARTICLE.
+[(6)] (8) “Program” means the Public Access Automated External
+Defibrillator Program.
+– 2 –
+WES MOORE, Governor Ch. 91
+[(7) “Regional administrator” means the individual employed by the
+Institute as regional administrator in each EMS region.
+(8) “Regional council” means an EMS advisory body as created by the Code
+of Maryland Regulations 30.05.
+(9) “Regional council AED committee” means a committee appointed by the
+regional council consisting of:
+(i) The regional medical director;
+(ii) The regional administrator; and
+(iii) Three or more individuals with knowledge of and expertise in
+AEDs.]
+[(10)] (9) “Registered [facility”] ENTITY” means an [organization, a
+business association, an agency, or any other] entity that meets the requirements of the
+EMS Board for registering with the Program.
+(b) (1) There is a Public Access Automated External Defibrillator Program.
+(2) The purpose of the Program is to:
+(i) Coordinate an effective statewide public access defibrillation
+program; and
+(ii) Implement the initiative to co–locate naloxone with automated
+external defibrillators placed in public buildings, as required under § 13–518 of this
+subtitle.
+(3) The Program shall be administered by the EMS Board.
+(c) The EMS Board may:
+(1) Adopt regulations for the administration of the Program;
+(2) Issue and renew certificates to [facilities] ENTITIES that meet the
+requirements of this section;
+(3) Deny, suspend, revoke, or refuse to renew the certificate of a registered
+[facility] ENTITY for failure to meet the requirements of this section;
+(4) Approve educational and training programs required under this section
+that:
+– 3 –
+Ch. 91 2026 LAWS OF MARYLAND
+(i) Are conducted by any private or public entity; AND
+(ii) [Include training in cardiopulmonary resuscitation and
+automated external defibrillation; and
+(iii)] May include courses from nationally recognized [entities]
+ORGANIZATIONS such as the American Heart Association, the American Red Cross, and
+the National Safety Council; AND
+[(5) Approve the protocol for the use of an AED; and]
+[(6)] (5) Delegate to the Institute any portion of its authority under this
+
+Section 8:
+section.
+(d) (1) [Each facility] EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS
+SUBSECTION, EACH ENTITY that desires to make automated external defibrillation
+available shall possess a valid certificate from the EMS Board.
+(2) This subsection does not apply to:
+(i) A jurisdictional emergency medical services operational
+program;
+(ii) A licensed commercial ambulance service;
+(iii) A health care facility as defined in § 19–114 of the
+Health – General Article; or
+(iv) A place of business for health care practitioners who are licensed
+as dentists under Title 4 of the Health Occupations Article or as physicians under Title 14
+of the Health Occupations Article and are authorized to use an AED in accordance with
+that license.
+(3) A LAW ENFORCEMENT AGENCY MAY NOT BE REQUIRED TO OBTAIN
+A CERTIFICATE FOR AN AED DEPLOYED IN A PATROL VEHICLE OF THE LAW
+ENFORCEMENT AGENCY.
+(e) (1) To EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+SUBSECTION, TO qualify for AND RETAIN a certificate [a facility] AN ENTITY shall:
+(1) (I) [Comply with the written protocol approved by the EMS Board]
+HAVE A WRITTEN PLAN for the use of an AED [which] THAT includes [notification of] A
+REQUIREMENT THAT THE ENTITY NOTIFY the emergency medical services system
+– 4 –
+WES MOORE, Governor Ch. 91
+through the use of the 911 universal emergency access number as soon as possible on the
+use of an AED;
+(2) (II) Have established [automated external defibrillator] AED
+maintenance, placement, operation, AND reporting[, and quality improvement] procedures
+as required by the EMS Board;
+(3) (III) [Maintain] REQUIRE THE AED COORDINATOR TO MAINTAIN
+THE FUNCTIONALITY OF each AED and all related equipment and supplies in accordance
+with the standards established by the device manufacturer and the [federal] U.S. Food
+and Drug Administration;
+[(4) Ensure that each individual who is expected to operate an AED for the
+registered facility has successfully completed an educational training course and refresher
+training as required by the EMS Board; and]
+(4) (IV) REQUIRE THE AED COORDINATOR TO PROMOTE
+AWARENESS OF THE LOCATION AND OPERATION OF THE AED AMONG POTENTIAL
+OR FORESEEABLE AED OPERATORS IN CASE OF EMERGENCY; AND
+(5) (V) If the [facility] ENTITY is a public building, meet any
+requirements established under § 13–518 of this subtitle relating to the co–location of
+naloxone with each AED maintained [in] BY the [facility] ENTITY.
+(2) FOR AN ENTITY THAT IS A GROCERY STORE OR RESTAURANT, TO
+QUALIFY FOR AND RETAIN A CERTIFICATE, THE ENTITY SHALL:
+(I) REGISTER THE NAME OF THE ENTITY WITH THE PROGRAM;
+AND
+(II) MAINTAIN THE FUNCTIONALITY OF EACH AED AND ALL
+RELATED EQUIPMENT AND SUPPLIES IN ACCORDANCE WITH THE STANDARDS
+ESTABLISHED BY THE DEVICE MANUFACTURER AND THE U.S. FOOD AND DRUG
+ADMINISTRATION.
+(f) IN ADDITION TO THE REQUIREMENTS ESTABLISHED IN THIS SECTION,
+AN ENTITY OTHER THAN A GROCERY STORE OR RESTAURANT THAT IS SUBJECT TO §
+21–330.3 OF THE HEALTH – GENERAL ARTICLE SHALL ENSURE THAT THE AED
+COORDINATOR HAS SUCCESSFULLY COMPLETED AN EDUCATIONAL TRAINING
+COURSE AND ANY REFRESHER TRAINING COURSES AS REQUIRED BY THE EMS
+BOARD.
+– 5 –
+Ch. 91 2026 LAWS OF MARYLAND
+(G) A registered [facility] ENTITY shall report the use of an AED to the Institute
+[for review by the regional council AED committee] USING THE FORM PROVIDED BY THE
+INSTITUTE.
+[(g)] (H) [A facility] AN ENTITY that desires to [establish] OBTAIN or renew a
+certificate shall:
+(1) Submit an application on the form that the EMS Board requires; and
+(2) Meet the requirements under this section.
+[(h)] (I) (1) The EMS Board shall issue a new or a renewed certificate to [a
+facility] AN ENTITY that meets the requirements of this section.
+(2) Each certificate shall include:
+(i) The type of certificate;
+(ii) The full name and address of the [facility] ENTITY;
+(iii) A unique identification number; and
+(iv) The dates of issuance and expiration of the certificate.
+(3) A certificate is valid for 3 years.
+[(i)] (J) The EMS Board may issue a cease and desist order or obtain injunctive
+relief if [a facility] AN ENTITY makes automated external defibrillation available in
+violation of this section.
+[(j)] (K) (1) In addition to any other immunities available under statutory or
+common law, a registered [facility] ENTITY is not civilly liable for any act or omission in
+the provision of automated external defibrillation if the registered [facility] ENTITY:
+(i) Has satisfied the requirements for making [automated external
+defibrillation] AN AED available under this section; and
+(ii) Possesses a valid certificate at the time of the act or omission.
+[(2) In addition to any other immunities available under statutory or
+common law, a member of the regional council AED committee is not civilly liable for any
+act or omission in the provision of automated external defibrillation.]
+[(3)] (2) In addition to any other immunities available under statutory or
+common law, an individual is not civilly liable for any act or omission if:
+– 6 –
+WES MOORE, Governor Ch. 91
+(i) The individual is acting in good faith while rendering automated
+external defibrillation to a person who is a victim or reasonably believed by the individual
+to be a victim of a sudden cardiac arrest;
+(ii) The assistance or aid is provided in a reasonably prudent
+manner; and
+(iii) The automated external defibrillation is provided without fee or
+other compensation.
+[(4)] (3) The immunities in this subsection are not available if the conduct
+of the registered [facility] ENTITY or an individual amounts to gross negligence, willful or
+wanton misconduct, or intentionally tortious conduct.
+[(5)] (4) This subsection does not affect, and may not be construed as
+affecting, any immunities from civil or criminal liability or defenses established by any
+other provision of the Code or by common law to which a registered [facility, a member of
+the regional council AED committee,] ENTITY or an individual may be entitled.
+[(k)] (L) (1) A registered [facility] ENTITY aggrieved by a decision of the
+Institute acting under the delegated authority of the EMS Board under this section shall
+be afforded an opportunity for a hearing before the EMS Board.
+(2) A registered [facility] ENTITY aggrieved by a decision of the EMS
+Board under this section shall be afforded an opportunity for a hearing in accordance with
+Title 10, Subtitle 2 of the State Government Article.
+Article – Health – General
+21–330.3.
+(c) [Beginning January 1, 2025, each] EACH owner and operator of a grocery
+store or restaurant shall:
+(1) Place an automated external defibrillator in a prominent area,
+accessible to employees and customers; and
+[(2) Maintain the functionality of the automated external defibrillator.];
+AND
+(2) (3) COMPLY WITH THE APPLICABLE REQUIREMENTS OF THE
+PUBLIC ACCESS AUTOMATED EXTERNAL DEFIBRILLATOR PROGRAM PROVIDED
+UNDER § 13–517 OF THE EDUCATION ARTICLE.
+– 7 –
+Ch. 91 2026 LAWS OF MARYLAND
+Article – Public Safety
+2–101.
+(a) In this title the following words have the meanings indicated.
+(g) (1) “Law enforcement agency” means a law enforcement agency of a
+department, county, or municipal corporation of the State.
+(2) “Law enforcement agency” includes:
+(i) sheriffs; and
+(ii) similar agencies of other states and the United States.
+
+Section 9:
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, April 14, 2026.
+– 8 –
+[DELETED: W C b e r r a a e ( c r c p o l r l e a e c c q fASA(ASA(AA(S( ( I]
+[DELETED:  2  ( “DR  []()“  ( I c f m b t fl  F a D]U  ( R  ( D w i b a o w  ( O d t d s b p  ( 1 R o i t d t e   2 A c w d o e []()“ fy . []()[]“E” () “” m   NY ANONS NO  a,   [p,y .] T   “ []()“ B t p o o e m s f e o t l “L”§Y  1PSA. U A R []()  “ m t P A A E]
+[DELETED: W C  “ a m t i e b t ( “ ( “  ( T  ( T  ( T []( []”)“ f”  m a o aEr ( ( T ( T  ( C a e s p a d  ( I d p i p b a r u § 1 o t ( T( T ( A ( I a r c t fs  t m t ( Dy f ( A]
+[DELETED:  2   ( A  ( I t i c r a  ][) M i c f n r es [] A []()D( ( E]E(X  N EHEt d t m a e d ( T  ( A j e m s o  ( A  )A h c f a d i § 1 o t  )A  C F A  D I A P V O T L( ( T( A P I P  O TN OANA[   ay   (  Cd)[[][N TA wh  nf T T E N e m s s]
+[DELETED: W C (  H e a e dr)[]AI rg,t  (  Mn )[]RAIE   fl  ]U  E ( () RAVE T  C T P    Y D; (  I t fy  i a p b m a)[E e u § 1 o t s r t t c o in   fy .][YE FT E :  () RPE RM  () MAIA T F O E  A A E A S I A W T S B T D M A T  O A R.F.(N 3H–GAAO T E  E R S E T  H S C A E T A A R T C A R B T .]
+[DELETED:  2 () [E fy  e[]()[]A[) Ay   eh  HNYO ( S ( M[]()) ( T ay   ( E  ( T  ( T fy ;  ( A  ( T ( A[]())T i a fy  m a e dna i EY[]() ( I fy   fy :  ( H an A  ( P  I a t a o i a u s o []() I]
+[DELETED: W C  ( T  ( T a o a i p i a r p  ( T []()T fy   []()T s d n a a m n b c a f, o[]()[) ( A r fy  a b a d o tLE ( A r fy  a b a d o t E( Bh ]A ( P a a e d i a p a ( M t f o t a e d] )()O W T A R O TAAED C U X E R P    D R17EA.]
+[DELETED:  2 ( I( ( “ e a m a l e a o a ( “  ( s  ( sS A B I F E T t A s t e]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 91
+Chapter 91
+(House Bill 276)
+AN ACT concerning
+State Emergency Medical Services Board – Public Access Automated External
+Defibrillator Program – Revisions
+FOR the purpose of altering the Public Access Automated External Defibrillator Program,
+including by establishing requirements regarding an automated external
+defibrillator (AED) coordinator, repealing certain provisions of law regarding
+regional council AED committees, and exempting certain law enforcement agencies
+from being required to obtain a certificate for an AED deployed in a patrol vehicle of
+the law enforcement agency; establishing certain certification qualifications for
+grocery stores and restaurants under the Program; and generally relating to the
+Public Access Automated External Defibrillator Program.
+BY repealing and reenacting, with amendments,
+Article – Education
+Section 13–517
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Health – General
+Section 21–330.3(c)
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Public Safety
+Section 2–101(a) and (g)
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Education
+13–517.
+(a) (1) In this section the following words have the meanings indicated.
+– 1 –
+
+Ch. 91 2026 LAWS OF MARYLAND
+(2) “AED COORDINATOR” MEANS THE INDIVIDUAL DESIGNATED BY A
+REGISTERED ENTITY TO ENSURE COMPLIANCE WITH THE REQUIREMENTS OF THIS
+SECTION.
+[(2)] (3) “Automated external defibrillator (AED)” means a medical heart
+monitor and defibrillator device that:
+(i) Is cleared for market by the [federal] U.S. Food and Drug
+Administration;
+(ii) Recognizes the presence or absence of ventricular fibrillation or
+rapid ventricular tachycardia;
+(iii) Determines, without intervention by an operator, whether
+defibrillation should be performed;
+(iv) On determining that defibrillation should be performed,
+automatically charges; and
+(v) 1. Requires operator intervention to deliver the electrical
+impulse; or
+2. Automatically continues with delivery of electrical
+impulse.
+[(3)] (4) “Certificate” means a certificate issued by the EMS Board to a
+registered [facility] ENTITY.
+[(4) (i)] (5) [“Facility”] “ENTITY” means AN ORGANIZATION, A
+BUSINESS, AN ASSOCIATION, an agency, [an association,] a corporation, a firm, OR a
+partnership[, or any other entity] IN THE STATE.
+[(ii) “Facility” does not include a grocery store or restaurant that is
+subject to § 21–330.3 of the Health – General Article.]
+[(5)] (6) “Jurisdictional emergency medical services operational program”
+means the institution, agency, corporation, or other entity that has been approved by the
+EMS Board to provide oversight of emergency medical services for each of the local
+government and State and federal emergency medical services programs.
+(7) “LAW ENFORCEMENT AGENCY” HAS THE MEANING STATED IN §
+2–101 OF THE PUBLIC SAFETY ARTICLE.
+[(6)] (8) “Program” means the Public Access Automated External
+Defibrillator Program.
+– 2 –
+
+WES MOORE, Governor Ch. 91
+[(7) “Regional administrator” means the individual employed by the
+Institute as regional administrator in each EMS region.
+(8) “Regional council” means an EMS advisory body as created by the Code
+of Maryland Regulations 30.05.
+(9) “Regional council AED committee” means a committee appointed by the
+regional council consisting of:
+(i) The regional medical director;
+(ii) The regional administrator; and
+(iii) Three or more individuals with knowledge of and expertise in
+AEDs.]
+[(10)] (9) “Registered [facility”] ENTITY” means an [organization, a
+business association, an agency, or any other] entity that meets the requirements of the
+EMS Board for registering with the Program.
+(b) (1) There is a Public Access Automated External Defibrillator Program.
+(2) The purpose of the Program is to:
+(i) Coordinate an effective statewide public access defibrillation
+program; and
+(ii) Implement the initiative to co–locate naloxone with automated
+external defibrillators placed in public buildings, as required under § 13–518 of this
+subtitle.
+(3) The Program shall be administered by the EMS Board.
+(c) The EMS Board may:
+(1) Adopt regulations for the administration of the Program;
+(2) Issue and renew certificates to [facilities] ENTITIES that meet the
+requirements of this section;
+(3) Deny, suspend, revoke, or refuse to renew the certificate of a registered
+[facility] ENTITY for failure to meet the requirements of this section;
+(4) Approve educational and training programs required under this section
+that:
+– 3 –
+
+Ch. 91 2026 LAWS OF MARYLAND
+(i) Are conducted by any private or public entity; AND
+(ii) [Include training in cardiopulmonary resuscitation and
+automated external defibrillation; and
+(iii)] May include courses from nationally recognized [entities]
+ORGANIZATIONS such as the American Heart Association, the American Red Cross, and
+the National Safety Council; AND
+[(5) Approve the protocol for the use of an AED; and]
+[(6)] (5) Delegate to the Institute any portion of its authority under this
+section.
+(d) (1) [Each facility] EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS
+SUBSECTION, EACH ENTITY that desires to make automated external defibrillation
+available shall possess a valid certificate from the EMS Board.
+(2) This subsection does not apply to:
+(i) A jurisdictional emergency medical services operational
+program;
+(ii) A licensed commercial ambulance service;
+(iii) A health care facility as defined in § 19–114 of the
+Health – General Article; or
+(iv) A place of business for health care practitioners who are licensed
+as dentists under Title 4 of the Health Occupations Article or as physicians under Title 14
+of the Health Occupations Article and are authorized to use an AED in accordance with
+that license.
+(3) A LAW ENFORCEMENT AGENCY MAY NOT BE REQUIRED TO OBTAIN
+A CERTIFICATE FOR AN AED DEPLOYED IN A PATROL VEHICLE OF THE LAW
+ENFORCEMENT AGENCY.
+(e) (1) To EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+SUBSECTION, TO qualify for AND RETAIN a certificate [a facility] AN ENTITY shall:
+(1) (I) [Comply with the written protocol approved by the EMS Board]
+HAVE A WRITTEN PLAN for the use of an AED [which] THAT includes [notification of] A
+REQUIREMENT THAT THE ENTITY NOTIFY the emergency medical services system
+– 4 –
+
+WES MOORE, Governor Ch. 91
+through the use of the 911 universal emergency access number as soon as possible on the
+use of an AED;
+(2) (II) Have established [automated external defibrillator] AED
+maintenance, placement, operation, AND reporting[, and quality improvement] procedures
+as required by the EMS Board;
+(3) (III) [Maintain] REQUIRE THE AED COORDINATOR TO MAINTAIN
+THE FUNCTIONALITY OF each AED and all related equipment and supplies in accordance
+with the standards established by the device manufacturer and the [federal] U.S. Food
+and Drug Administration;
+[(4) Ensure that each individual who is expected to operate an AED for the
+registered facility has successfully completed an educational training course and refresher
+training as required by the EMS Board; and]
+(4) (IV) REQUIRE THE AED COORDINATOR TO PROMOTE
+AWARENESS OF THE LOCATION AND OPERATION OF THE AED AMONG POTENTIAL
+OR FORESEEABLE AED OPERATORS IN CASE OF EMERGENCY; AND
+(5) (V) If the [facility] ENTITY is a public building, meet any
+requirements established under § 13–518 of this subtitle relating to the co–location of
+naloxone with each AED maintained [in] BY the [facility] ENTITY.
+(2) FOR AN ENTITY THAT IS A GROCERY STORE OR RESTAURANT, TO
+QUALIFY FOR AND RETAIN A CERTIFICATE, THE ENTITY SHALL:
+(I) REGISTER THE NAME OF THE ENTITY WITH THE PROGRAM;
+AND
+(II) MAINTAIN THE FUNCTIONALITY OF EACH AED AND ALL
+RELATED EQUIPMENT AND SUPPLIES IN ACCORDANCE WITH THE STANDARDS
+ESTABLISHED BY THE DEVICE MANUFACTURER AND THE U.S. FOOD AND DRUG
+ADMINISTRATION.
+(f) IN ADDITION TO THE REQUIREMENTS ESTABLISHED IN THIS SECTION,
+AN ENTITY OTHER THAN A GROCERY STORE OR RESTAURANT THAT IS SUBJECT TO §
+21–330.3 OF THE HEALTH – GENERAL ARTICLE SHALL ENSURE THAT THE AED
+COORDINATOR HAS SUCCESSFULLY COMPLETED AN EDUCATIONAL TRAINING
+COURSE AND ANY REFRESHER TRAINING COURSES AS REQUIRED BY THE EMS
+BOARD.
+– 5 –
+
+Ch. 91 2026 LAWS OF MARYLAND
+(G) A registered [facility] ENTITY shall report the use of an AED to the Institute
+[for review by the regional council AED committee] USING THE FORM PROVIDED BY THE
+INSTITUTE.
+[(g)] (H) [A facility] AN ENTITY that desires to [establish] OBTAIN or renew a
+certificate shall:
+(1) Submit an application on the form that the EMS Board requires; and
+(2) Meet the requirements under this section.
+[(h)] (I) (1) The EMS Board shall issue a new or a renewed certificate to [a
+facility] AN ENTITY that meets the requirements of this section.
+(2) Each certificate shall include:
+(i) The type of certificate;
+(ii) The full name and address of the [facility] ENTITY;
+(iii) A unique identification number; and
+(iv) The dates of issuance and expiration of the certificate.
+(3) A certificate is valid for 3 years.
+[(i)] (J) The EMS Board may issue a cease and desist order or obtain injunctive
+relief if [a facility] AN ENTITY makes automated external defibrillation available in
+violation of this section.
+[(j)] (K) (1) In addition to any other immunities available under statutory or
+common law, a registered [facility] ENTITY is not civilly liable for any act or omission in
+the provision of automated external defibrillation if the registered [facility] ENTITY:
+(i) Has satisfied the requirements for making [automated external
+defibrillation] AN AED available under this section; and
+(ii) Possesses a valid certificate at the time of the act or omission.
+[(2) In addition to any other immunities available under statutory or
+common law, a member of the regional council AED committee is not civilly liable for any
+act or omission in the provision of automated external defibrillation.]
+[(3)] (2) In addition to any other immunities available under statutory or
+common law, an individual is not civilly liable for any act or omission if:
+– 6 –
+
+WES MOORE, Governor Ch. 91
+(i) The individual is acting in good faith while rendering automated
+external defibrillation to a person who is a victim or reasonably believed by the individual
+to be a victim of a sudden cardiac arrest;
+(ii) The assistance or aid is provided in a reasonably prudent
+manner; and
+(iii) The automated external defibrillation is provided without fee or
+other compensation.
+[(4)] (3) The immunities in this subsection are not available if the conduct
+of the registered [facility] ENTITY or an individual amounts to gross negligence, willful or
+wanton misconduct, or intentionally tortious conduct.
+[(5)] (4) This subsection does not affect, and may not be construed as
+affecting, any immunities from civil or criminal liability or defenses established by any
+other provision of the Code or by common law to which a registered [facility, a member of
+the regional council AED committee,] ENTITY or an individual may be entitled.
+[(k)] (L) (1) A registered [facility] ENTITY aggrieved by a decision of the
+Institute acting under the delegated authority of the EMS Board under this section shall
+be afforded an opportunity for a hearing before the EMS Board.
+(2) A registered [facility] ENTITY aggrieved by a decision of the EMS
+Board under this section shall be afforded an opportunity for a hearing in accordance with
+Title 10, Subtitle 2 of the State Government Article.
+Article – Health – General
+21–330.3.
+(c) [Beginning January 1, 2025, each] EACH owner and operator of a grocery
+store or restaurant shall:
+(1) Place an automated external defibrillator in a prominent area,
+accessible to employees and customers; and
+[(2) Maintain the functionality of the automated external defibrillator.];
+AND
+(2) (3) COMPLY WITH THE APPLICABLE REQUIREMENTS OF THE
+PUBLIC ACCESS AUTOMATED EXTERNAL DEFIBRILLATOR PROGRAM PROVIDED
+UNDER § 13–517 OF THE EDUCATION ARTICLE.
+– 7 –
+
+Ch. 91 2026 LAWS OF MARYLAND
+Article – Public Safety
+2–101.
+(a) In this title the following words have the meanings indicated.
+(g) (1) “Law enforcement agency” means a law enforcement agency of a
+department, county, or municipal corporation of the State.
+(2) “Law enforcement agency” includes:
+(i) sheriffs; and
+(ii) similar agencies of other states and the United States.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, April 14, 2026.
+– 8 –
+
+[DELETED: W C b e r r a a e ( c r c p o l r l e a e c c q fASA(ASA(AA(S( ( I]
+[DELETED:  2  ( “DR  []()“  ( I c f m b t fl  F a D]U  ( R  ( D w i b a o w  ( O d t d s b p  ( 1 R o i t d t e   2 A c w d o e []()“ fy . []()[]“E” () “” m   NY ANONS NO  a,   [p,y .] T   “ []()“ B t p o o e m s f e o t l “L”§Y  1PSA. U A R []()  “ m t P A A E]
+[DELETED: W C  “ a m t i e b t ( “ ( “  ( T  ( T  ( T []( []”)“ f”  m a o aEr ( ( T ( T  ( C a e s p a d  ( I d p i p b a r u § 1 o t ( T( T ( A ( I a r c t fs  t m t ( Dy f ( A]
+[DELETED:  2   ( A  ( I t i c r a  ][) M i c f n r es [] A []()D( ( E]E(X  N EHEt d t m a e d ( T  ( A j e m s o  ( A  )A h c f a d i § 1 o t  )A  C F A  D I A P V O T L( ( T( A P I P  O TN OANA[   ay   (  Cd)[[][N TA wh  nf T T E N e m s s]
+[DELETED: W C (  H e a e dr)[]AI rg,t  (  Mn )[]RAIE   fl  ]U  E ( () RAVE T  C T P    Y D; (  I t fy  i a p b m a)[E e u § 1 o t s r t t c o in   fy .][YE FT E :  () RPE RM  () MAIA T F O E  A A E A S I A W T S B T D M A T  O A R.F.(N 3H–GAAO T E  E R S E T  H S C A E T A A R T C A R B T .]
+[DELETED:  2 () [E fy  e[]()[]A[) Ay   eh  HNYO ( S ( M[]()) ( T ay   ( E  ( T  ( T fy ;  ( A  ( T ( A[]())T i a fy  m a e dna i EY[]() ( I fy   fy :  ( H an A  ( P  I a t a o i a u s o []() I]
+[DELETED: W C  ( T  ( T a o a i p i a r p  ( T []()T fy   []()T s d n a a m n b c a f, o[]()[) ( A r fy  a b a d o tLE ( A r fy  a b a d o t E( Bh ]A ( P a a e d i a p a ( M t f o t a e d] )()O W T A R O TAAED C U X E R P    D R17EA.]
+[DELETED:  2 ( I( ( “ e a m a l e a o a ( “  ( s  ( sS A B I F E T t A s t e]

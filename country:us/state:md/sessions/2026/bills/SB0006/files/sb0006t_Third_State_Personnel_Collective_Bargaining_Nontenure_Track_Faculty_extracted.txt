@@ -1,0 +1,360 @@
+Title: SENATE BILL 6
+Official Title: SENATE BILL 6
+Number of Sections: 1
+Source: versions - Third - State Personnel - Collective Bargaining - Nontenure Track Faculty
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+P4, F5 6lr1423
+(PRE–FILED) CF HB 106
+By: Senators Kramer and Lam
+Requested: October 29, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 1, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 State Personnel – Collective Bargaining – Nontenure Track Faculty
+3 FOR the purpose of providing collective bargaining rights to certain nontenure track faculty
+4 at certain State institutions of higher education; establishing a separate collective
+5 bargaining unit for certain nontenure track faculty; and generally relating to
+6 collective bargaining for nontenure track faculty at public institutions of higher
+7 education.
+8 BY repealing and reenacting, with amendments,
+9 Article – State Personnel and Pensions
+10 Section 3–101 and 3–102(b)(9) and (12) and (d)(2)
+11 Annotated Code of Maryland
+12 (2024 Replacement Volume and 2025 Supplement)
+13 BY repealing and reenacting, without amendments,
+14 Article – State Personnel and Pensions
+15 Section 3–102(b)(10), (11), and (13)
+16 Annotated Code of Maryland
+17 (2024 Replacement Volume and 2025 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – State Personnel and Pensions
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0006*
+2 SENATE BILL 6
+1 3–101.
+2 (a) In this title the following words have the meanings indicated.
+3 (b) “Board” means the Public Employee Relations Board.
+4 (c) “Chancellor” has the meaning stated in § 12–101 of the Education Article.
+5 (d) “Collective bargaining” means:
+6 (1) good faith negotiations by authorized representatives of employees and
+7 their employer with the intention of:
+8 (i) 1. reaching an agreement about wages, hours, and other
+9 terms and conditions of employment; and
+10 2. incorporating the terms of the agreement in a written
+11 memorandum of understanding or other written understanding; or
+12 (ii) clarifying terms and conditions of employment;
+13 (2) administration of terms and conditions of employment; or
+14 (3) the voluntary adjustment of a dispute or disagreement between
+15 authorized representatives of employees and their employer that arises under a
+16 memorandum of understanding or other written understanding.
+17 (e) “Employee organization” has the meaning stated in § 22–101 of the State
+18 Government Article.
+19 (f) “Exclusive representative” has the meaning stated in § 22–101 of the State
+20 Government Article.
+21 (g) (1) “Faculty at the Maryland School for the Deaf” means employees who
+22 have been granted the following status by the Board of Trustees of the Maryland School for
+23 the Deaf:
+24 (i) after–school program counselors;
+25 (ii) American Sign Language specialists;
+26 (iii) athletic trainers;
+27 (iv) behavior specialists;
+28 (v) clerical aides;
+SENATE BILL 6 3
+1 (vi) dorm counselors;
+2 (vii) employment specialists;
+3 (viii) instructional technology resource specialists;
+4 (ix) librarians;
+5 (x) literacy and reading specialists;
+6 (xi) occupational therapists;
+7 (xii) orientation and mobility specialists;
+8 (xiii) physical therapists;
+9 (xiv) school counselors;
+10 (xv) school IEP coordinators;
+11 (xvi) school nurses;
+12 (xvii) school social workers;
+13 (xviii) speech–language pathologists;
+14 (xix) student support specialists;
+15 (xx) teachers;
+16 (xxi) teacher aides;
+17 (xxii) transition coordinators; and
+18 (xxiii) work–to–learn specialists.
+19 (2) “Faculty at the Maryland School for the Deaf” does not include officers
+20 or supervisory employees at the Maryland School for the Deaf.
+21 (H) “FULLY ONLINE INSTITUTION” MEANS AN INSTITUTION THAT OFFERS
+22 ALL ACADEMIC AND STUDENT SERVICES REMOTELY.
+23 (I) (1) “NONTENURE TRACK FACULTY” MEANS FULL–TIME, PART–TIME,
+24 OR ADJUNCT NONTENURE TRACK EMPLOYEES OF A SYSTEM INSTITUTION, MORGAN
+25 STATE UNIVERSITY, OR ST. MARY’S COLLEGE OF MARYLAND WHOSE PRIMARY
+4 SENATE BILL 6
+1 ASSIGNMENTS INVOLVE ACADEMIC RESPONSIBILITIES INSTRUCTION, INCLUDING
+2 TEACHERS, RESEARCHERS, AND DEPARTMENT HEADS AND THOSE IN COMPARABLE
+3 POSITIONS.
+4 (2) “NONTENURE TRACK FACULTY” DOES NOT INCLUDE:
+5 (I) FACULTY EMPLOYED AT A FULLY ONLINE INSTITUTION; OR
+6 (II) FACULTY WHOSE POSITIONS ARE FULLY FUNDED THROUGH
+7 A RESEARCH OR SERVICE GRANT OR CONTRACT, OR THROUGH CLINICAL REVENUES.
+8 [(h)] (I) (J) “President” means:
+9 (1) with regard to a constituent institution, as defined in § 12–101 of the
+10 Education Article, the president of the constituent institution;
+11 (2) with regard to a center or institute, as those terms are defined in §
+12 12–101 of the Education Article, the president of the center or institute;
+13 (3) with regard to the University System of Maryland Office, the
+14 Chancellor of the University System of Maryland; and
+15 (4) with regard to Morgan State University, St. Mary’s College of
+16 Maryland, and Baltimore City Community College, the president of the institution.
+17 [(i)] (J) (K) “System institution” means:
+18 (1) a constituent institution, as defined in § 12–101 of the Education
+19 Article;
+20 (2) a center or institute, as those terms are defined in § 12–101 of the
+21 Education Article; and
+22 (3) the University System of Maryland Office.
+23 3–102.
+24 (b) This title does not apply to:
+25 (9) an employee of the University System of Maryland, Morgan State
+26 University, St. Mary’s College of Maryland, or Baltimore City Community College who is:
+27 (i) a chief administrator or in a comparable position;
+28 (ii) a deputy, associate, or assistant administrator or in a
+29 comparable position;
+SENATE BILL 6 5
+1 (iii) a member of the faculty, including a faculty librarian, EXCEPT
+2 FOR NONTENURE TRACK FACULTY;
+3 (iv) a student employee, including a teaching assistant or a
+4 comparable position, fellow, or post doctoral intern;
+5 (v) a contingent, contractual, temporary, or emergency employee,
+6 EXCEPT FOR NONTENURE TRACK FACULTY;
+7 (vi) a contingent, contractual, or temporary employee whose position
+8 is funded through a research or service grant or contract, or through clinical revenues,
+9 EXCEPT FOR NONTENURE TRACK FACULTY; or
+10 (vii) an employee whose regular place of employment is outside the
+11 State of Maryland, EXCEPT FOR NONTENURE TRACK FACULTY;
+12 (10) an employee whose participation in a labor organization would be
+13 contrary to the State’s ethics laws;
+14 (11) any managerial or confidential employee of a unit of State government
+15 listed in subsection (a)(1)(i) through (iv) and (vi) through (xii) of this section, as defined in
+16 regulations adopted by the Secretary;
+17 (12) any supervisory, managerial, or confidential employee of a State
+18 institution of higher education listed in subsection (a)(1)(v) of this section[, as defined in
+19 regulations adopted by the governing board of the institution]; or
+20 (13) any employee described in subsection (a)(2) of this section who is a
+21 supervisory, managerial, or confidential employee, as defined in regulations adopted by the
+22 Secretary.
+23 (d) (2) (i) Each system institution, Morgan State University, St. Mary’s
+24 College of Maryland, and Baltimore City Community College shall have separate
+25 bargaining units.
+26 (ii) Appropriate bargaining units shall consist of:
+27 1. all eligible nonexempt employees, as described in the
+28 federal Fair Labor Standards Act, except eligible sworn police officers;
+29 2. all eligible exempt employees, as described in the federal
+30 Fair Labor Standards Act; [and]
+31 3. all eligible sworn police officers; AND
+6 SENATE BILL 6
+1 4. NONTENURE TRACK FACULTY.
+2 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+3 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6 ( C A S F a b u f c n t f a g r t c b f n t f a p i o h e B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  S  3  ( I  ()“  ( “  ( “   ( g t    ( 1 r a a a w h a o t     2 i t t o t a i a w m    ( c   ( a   ( t v a o a d o d b a r o e a t e t a u a m  ( “ o h t m s i § 2 o t S G  ( “ G  ( ( “ h t    ( a    ( A    ( a    ( b    ( c]
+[DELETED: S 3    ( d    ( e    ( i    ( l    ( l    ( o    ( o    ( p    ( s    ( s    ( s    ( s    (    ( s    ( t    ( t    ( t    (   ( “ o ) “FUN () ( “N”–,–OY LTE TTEN OU,S.M’C NY O T AYS O O A W P]
+[DELETED:  S  I A R IN IS S  ( “N”:Y E   () ;FN   ()IFT .  () “]()(I    ( w E   ( w 1   ( w r t t U S o M O t C   ( w r t M S U S M C o M  () “]()(J    ( a c i a d i § 1 o t E A   ( a c o i a t t a d i § 1 t E   ( t 3  ( T   ( a e o t U S o M M S U    ( a    ( a d a o a a o i a c]
+[DELETED: S 5    ( a ;    ( a s e i a t a o a c    ( a c c t o e e ;    ( a i ;    ( a Sd;   ( a e w p i a l o w b c   ( a l r   ( a s m o c e o a S in, rn;   ( a e d i s ( o t s w i a s S  ( ( ( E s i M S U S M C o M a B C C C s h s b    ( A     1 a e n e a d i t f     2 a F a]     3 a]
+[DELETED:  S    4 .  S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 6
+P4, F5 6lr1423
+(PRE–FILED) CF HB 106
+By: Senators Kramer and Lam
+Requested: October 29, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 1, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 State Personnel – Collective Bargaining – Nontenure Track Faculty
+3 FOR the purpose of providing collective bargaining rights to certain nontenure track faculty
+4 at certain State institutions of higher education; establishing a separate collective
+5 bargaining unit for certain nontenure track faculty; and generally relating to
+6 collective bargaining for nontenure track faculty at public institutions of higher
+7 education.
+8 BY repealing and reenacting, with amendments,
+9 Article – State Personnel and Pensions
+10 Section 3–101 and 3–102(b)(9) and (12) and (d)(2)
+11 Annotated Code of Maryland
+12 (2024 Replacement Volume and 2025 Supplement)
+13 BY repealing and reenacting, without amendments,
+14 Article – State Personnel and Pensions
+15 Section 3–102(b)(10), (11), and (13)
+16 Annotated Code of Maryland
+17 (2024 Replacement Volume and 2025 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – State Personnel and Pensions
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0006*
+
+2 SENATE BILL 6
+1 3–101.
+2 (a) In this title the following words have the meanings indicated.
+3 (b) “Board” means the Public Employee Relations Board.
+4 (c) “Chancellor” has the meaning stated in § 12–101 of the Education Article.
+5 (d) “Collective bargaining” means:
+6 (1) good faith negotiations by authorized representatives of employees and
+7 their employer with the intention of:
+8 (i) 1. reaching an agreement about wages, hours, and other
+9 terms and conditions of employment; and
+10 2. incorporating the terms of the agreement in a written
+11 memorandum of understanding or other written understanding; or
+12 (ii) clarifying terms and conditions of employment;
+13 (2) administration of terms and conditions of employment; or
+14 (3) the voluntary adjustment of a dispute or disagreement between
+15 authorized representatives of employees and their employer that arises under a
+16 memorandum of understanding or other written understanding.
+17 (e) “Employee organization” has the meaning stated in § 22–101 of the State
+18 Government Article.
+19 (f) “Exclusive representative” has the meaning stated in § 22–101 of the State
+20 Government Article.
+21 (g) (1) “Faculty at the Maryland School for the Deaf” means employees who
+22 have been granted the following status by the Board of Trustees of the Maryland School for
+23 the Deaf:
+24 (i) after–school program counselors;
+25 (ii) American Sign Language specialists;
+26 (iii) athletic trainers;
+27 (iv) behavior specialists;
+28 (v) clerical aides;
+
+SENATE BILL 6 3
+1 (vi) dorm counselors;
+2 (vii) employment specialists;
+3 (viii) instructional technology resource specialists;
+4 (ix) librarians;
+5 (x) literacy and reading specialists;
+6 (xi) occupational therapists;
+7 (xii) orientation and mobility specialists;
+8 (xiii) physical therapists;
+9 (xiv) school counselors;
+10 (xv) school IEP coordinators;
+11 (xvi) school nurses;
+12 (xvii) school social workers;
+13 (xviii) speech–language pathologists;
+14 (xix) student support specialists;
+15 (xx) teachers;
+16 (xxi) teacher aides;
+17 (xxii) transition coordinators; and
+18 (xxiii) work–to–learn specialists.
+19 (2) “Faculty at the Maryland School for the Deaf” does not include officers
+20 or supervisory employees at the Maryland School for the Deaf.
+21 (H) “FULLY ONLINE INSTITUTION” MEANS AN INSTITUTION THAT OFFERS
+22 ALL ACADEMIC AND STUDENT SERVICES REMOTELY.
+23 (I) (1) “NONTENURE TRACK FACULTY” MEANS FULL–TIME, PART–TIME,
+24 OR ADJUNCT NONTENURE TRACK EMPLOYEES OF A SYSTEM INSTITUTION, MORGAN
+25 STATE UNIVERSITY, OR ST. MARY’S COLLEGE OF MARYLAND WHOSE PRIMARY
+
+4 SENATE BILL 6
+1 ASSIGNMENTS INVOLVE ACADEMIC RESPONSIBILITIES INSTRUCTION, INCLUDING
+2 TEACHERS, RESEARCHERS, AND DEPARTMENT HEADS AND THOSE IN COMPARABLE
+3 POSITIONS.
+4 (2) “NONTENURE TRACK FACULTY” DOES NOT INCLUDE:
+5 (I) FACULTY EMPLOYED AT A FULLY ONLINE INSTITUTION; OR
+6 (II) FACULTY WHOSE POSITIONS ARE FULLY FUNDED THROUGH
+7 A RESEARCH OR SERVICE GRANT OR CONTRACT, OR THROUGH CLINICAL REVENUES.
+8 [(h)] (I) (J) “President” means:
+9 (1) with regard to a constituent institution, as defined in § 12–101 of the
+10 Education Article, the president of the constituent institution;
+11 (2) with regard to a center or institute, as those terms are defined in §
+12 12–101 of the Education Article, the president of the center or institute;
+13 (3) with regard to the University System of Maryland Office, the
+14 Chancellor of the University System of Maryland; and
+15 (4) with regard to Morgan State University, St. Mary’s College of
+16 Maryland, and Baltimore City Community College, the president of the institution.
+17 [(i)] (J) (K) “System institution” means:
+18 (1) a constituent institution, as defined in § 12–101 of the Education
+19 Article;
+20 (2) a center or institute, as those terms are defined in § 12–101 of the
+21 Education Article; and
+22 (3) the University System of Maryland Office.
+23 3–102.
+24 (b) This title does not apply to:
+25 (9) an employee of the University System of Maryland, Morgan State
+26 University, St. Mary’s College of Maryland, or Baltimore City Community College who is:
+27 (i) a chief administrator or in a comparable position;
+28 (ii) a deputy, associate, or assistant administrator or in a
+29 comparable position;
+
+SENATE BILL 6 5
+1 (iii) a member of the faculty, including a faculty librarian, EXCEPT
+2 FOR NONTENURE TRACK FACULTY;
+3 (iv) a student employee, including a teaching assistant or a
+4 comparable position, fellow, or post doctoral intern;
+5 (v) a contingent, contractual, temporary, or emergency employee,
+6 EXCEPT FOR NONTENURE TRACK FACULTY;
+7 (vi) a contingent, contractual, or temporary employee whose position
+8 is funded through a research or service grant or contract, or through clinical revenues,
+9 EXCEPT FOR NONTENURE TRACK FACULTY; or
+10 (vii) an employee whose regular place of employment is outside the
+11 State of Maryland, EXCEPT FOR NONTENURE TRACK FACULTY;
+12 (10) an employee whose participation in a labor organization would be
+13 contrary to the State’s ethics laws;
+14 (11) any managerial or confidential employee of a unit of State government
+15 listed in subsection (a)(1)(i) through (iv) and (vi) through (xii) of this section, as defined in
+16 regulations adopted by the Secretary;
+17 (12) any supervisory, managerial, or confidential employee of a State
+18 institution of higher education listed in subsection (a)(1)(v) of this section[, as defined in
+19 regulations adopted by the governing board of the institution]; or
+20 (13) any employee described in subsection (a)(2) of this section who is a
+21 supervisory, managerial, or confidential employee, as defined in regulations adopted by the
+22 Secretary.
+23 (d) (2) (i) Each system institution, Morgan State University, St. Mary’s
+24 College of Maryland, and Baltimore City Community College shall have separate
+25 bargaining units.
+26 (ii) Appropriate bargaining units shall consist of:
+27 1. all eligible nonexempt employees, as described in the
+28 federal Fair Labor Standards Act, except eligible sworn police officers;
+29 2. all eligible exempt employees, as described in the federal
+30 Fair Labor Standards Act; [and]
+31 3. all eligible sworn police officers; AND
+
+6 SENATE BILL 6
+1 4. NONTENURE TRACK FACULTY.
+2 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+3 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6 ( C A S F a b u f c n t f a g r t c b f n t f a p i o h e B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  S  3  ( I  ()“  ( “  ( “   ( g t    ( 1 r a a a w h a o t     2 i t t o t a i a w m    ( c   ( a   ( t v a o a d o d b a r o e a t e t a u a m  ( “ o h t m s i § 2 o t S G  ( “ G  ( ( “ h t    ( a    ( A    ( a    ( b    ( c]
+[DELETED: S 3    ( d    ( e    ( i    ( l    ( l    ( o    ( o    ( p    ( s    ( s    ( s    ( s    (    ( s    ( t    ( t    ( t    (   ( “ o ) “FUN () ( “N”–,–OY LTE TTEN OU,S.M’C NY O T AYS O O A W P]
+[DELETED:  S  I A R IN IS S  ( “N”:Y E   () ;FN   ()IFT .  () “]()(I    ( w E   ( w 1   ( w r t t U S o M O t C   ( w r t M S U S M C o M  () “]()(J    ( a c i a d i § 1 o t E A   ( a c o i a t t a d i § 1 t E   ( t 3  ( T   ( a e o t U S o M M S U    ( a    ( a d a o a a o i a c]
+[DELETED: S 5    ( a ;    ( a s e i a t a o a c    ( a c c t o e e ;    ( a i ;    ( a Sd;   ( a e w p i a l o w b c   ( a l r   ( a s m o c e o a S in, rn;   ( a e d i s ( o t s w i a s S  ( ( ( E s i M S U S M C o M a B C C C s h s b    ( A     1 a e n e a d i t f     2 a F a]     3 a]
+[DELETED:  S    4 .  S 1          G               ]

@@ -1,0 +1,386 @@
+Title: HOUSE BILL 351
+Official Title: HOUSE BILL 351
+Number of Sections: 1
+Source: versions - Enrolled - Civil Actions - Violation of Constitutional Rights (No Kings Act)
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+E4 EMERGENCY BILL (6lr1852)
+ENROLLED BILL
+— Judiciary/Judicial Proceedings —
+Introduced by Delegates Moon Moon, Charkoudian, and Martinez
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+Speaker.
+CHAPTER ______
+1 AN ACT concerning
+2 Public Safety – Federal Agents – Digital Unmasking
+3 Constitutional Rights – Violations and Digital Unmasking
+4 Civil Actions – Violation of Constitutional Rights
+5 (No Kings Act)
+6 FOR the purpose of authorizing an aggrieved party or the Office of the Attorney General to
+7 bring an action against a certain judicial officer who, under color of law, deprives
+8 another of a right, a privilege, or an immunity secured under law; authorizing the
+9 Office of the Attorney General, a State Prosecutor, or a State’s Attorney to direct the
+10 Maryland State Police certain State and local law enforcement agencies to gather
+11 and securely retain certain identifying digital data about a certain federal agent or
+12 federal agents judicial officer at a certain time; authorizing a certain complainant
+13 plaintiff to obtain certain identifying digital data only pursuant to in accordance with
+14 a court order issued in a certain case action; and generally relating to law
+15 enforcement officers violations of constitutional rights establishing certain civil
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. hb0351*
+2 HOUSE BILL 351
+1 liability for an individual who, under color of law, deprives another, or causes or
+2 allows another to be deprived, of a right, a privilege, or an immunity secured by the
+3 U.S. Constitution or the laws of the United States; and generally relating to civil
+4 liability for the deprivation of rights.
+5 BY adding to
+6 Article – Courts and Judicial Proceedings
+7 Section 3–2701 and 3–2702 to be under the new subtitle “Subtitle 27. Action for
+8 Deprivation of Constitutional Rights”
+9 Annotated Code of Maryland
+10 (2020 Replacement Volume and 2025 Supplement)
+11 BY adding to
+12 Article – Public Safety
+13 Section 3–535
+14 Annotated Code of Maryland
+15 (2022 Replacement Volume and 2025 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – Courts and Judicial Proceedings
+19 SUBTITLE 27. ACTION FOR DEPRIVATION OF CONSTITUTIONAL RIGHTS.
+20 3–2701.
+21 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+22 INDICATED.
+23 (B) “JUDICIAL OFFICER” MEANS
+24 (1) “COVERED OFFICER” MEANS, EXCEPT AS PROVIDED IN
+25 PARAGRAPH (2) OF THIS SUBSECTION, AN OFFICER WHO MAY:
+26 (1) (I) MAKE AN ARREST WITH OR WITHOUT A WARRANT FOR
+27 VIOLATIONS OF THE UNITED STATES CODE; AND
+28 (2) (II) CARRY FIREARMS IN THE PERFORMANCE OF THE OFFICER’S
+29 DUTIES.
+30 (2) “COVERED OFFICER” DOES NOT INCLUDE A LAW ENFORCEMENT
+31 OFFICER, AS DEFINED IN § 1–101 OF THE PUBLIC SAFETY ARTICLE, ACTING UNDER
+32 THE AUTHORITY OF A JOINT TASK FORCE THAT PRIMARILY ENFORCES THE UNITED
+33 STATES CODE.
+HOUSE BILL 351 3
+1 (C) “LAW” INCLUDES:
+2 (1) THE U.S. CONSTITUTION; AND
+3 (2) THE MARYLAND DECLARATION OF RIGHTS;
+4 (3) THE MARYLAND CONSTITUTION;
+5 (4) THE LAWS OF THE UNITED STATES; AND
+6 (5) THE LAWS OF MARYLAND.
+7 3–2702.
+8 (A) (1) AN AGGRIEVED PARTY OR THE OFFICE OF THE ATTORNEY
+9 GENERAL MAY BRING AN ACTION AGAINST A JUDICIAL OFFICER COVERED OFFICER
+10 WHO, UNDER COLOR OF LAW, DEPRIVES THE AGGRIEVED PARTY OR CAUSES OR
+11 ALLOWS THE AGGRIEVED PARTY TO BE DEPRIVED OF A RIGHT, A PRIVILEGE, OR AN
+12 IMMUNITY SECURED UNDER LAW THE LAW.
+13 (2) AN AGGRIEVED PARTY OR THE OFFICE OF THE ATTORNEY
+14 GENERAL MAY SEEK DAMAGES AND DECLARATORY AND INJUNCTIVE RELIEF IN AN
+15 ACTION BROUGHT UNDER THIS SECTION.
+16 (B) A DEFENDANT IN AN ACTION UNDER THIS SECTION MAY ASSERT ANY
+17 DEFENSE OF IMMUNITY OTHERWISE APPLICABLE AT THE TIME THE CAUSE OF
+18 ACTION ACCRUES THAT WAS AVAILABLE AT THE TIME THE CAUSE OF ACTION
+19 ACCRUED.
+20 (C) A COURT MAY AWARD REASONABLE FEES AND COSTS, INCLUDING
+21 ATTORNEY’S FEES AND EXPERT WITNESS FEES, TO A PREVAILING PLAINTIFF UNDER
+22 THIS SECTION.
+23 (D) (1) AN ACTION UNDER THIS SECTION SHALL BE FILED WITHIN 5
+24 YEARS AFTER THE CAUSE OF ACTION ACCRUES.
+25 (2) THIS SECTION MAY NOT BE CONSTRUED TO ABROGATE:
+26 (I) ANY LOCAL GOVERNMENT LIABILITY UNDER STATE OR
+27 COMMON LAW FOR THE ACTIONS OF STATE OR LOCAL GOVERNMENT EMPLOYEES;
+28 OR
+4 HOUSE BILL 351
+1 (II) ANY STATUTORY WAIVER OF ANY DEFENSE, INCLUDING
+2 IMMUNITY.
+3 Article – Public Safety
+4 3–535.
+5 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+6 INDICATED.
+7 (2) “FEDERAL AGENT” MEANS A FEDERAL LAW ENFORCEMENT
+8 OFFICER OR A PRIVATE CONTRACTOR HIRED BY THE DEPARTMENT OF HOMELAND
+9 SECURITY TO ASSIST IN FEDERAL LAW ENFORCEMENT.
+10 (3) “FEDERAL AGENT MISCONDUCT” MEANS:
+11 (I) USE OF EXCESSIVE FORCE BY A FEDERAL AGENT AGAINST A
+12 MEMBER OF THE PUBLIC;
+13 (II) ASSAULT OF A MEMBER OF THE PUBLIC BY A FEDERAL
+14 AGENT;
+15 (III) KIDNAPPING OR UNLAWFUL DETENTION OF A MEMBER OF
+16 THE PUBLIC BY A FEDERAL AGENT; OR
+17 (IV) ENGAGING IN ACTIONS BY A FEDERAL AGENT THAT LEAD TO
+18 A CREDIBLE COMPLAINT OF A CIVIL RIGHTS VIOLATION UNDER 42 U.S.C. § 1983.
+19 (4) (2) “IDENTIFYING DIGITAL DATA” MEANS DIGITAL
+20 INFORMATION THAT CAN HELP CONFIRM THE IDENTITY OF A FEDERAL AGENT
+21 JUDICIAL OFFICER WHO IS THE SUBJECT OF A COMPLAINT OF FEDERAL AGENT
+22 JUDICIAL OFFICER MISCONDUCT, INCLUDING:
+23 (I) LICENSE PLATE DATA;
+24 (II) CELL TOWER DATA;
+25 (III) CELL PHONE DATA;
+26 (IV) LOCATION DATA;
+27 (V) IMAGE SEARCH RESULTS DATA;
+HOUSE BILL 351 5
+1 (VI) GPS DATA;
+2 (VII) STINGRAY DATA;
+3 (VIII) FACIAL RECOGNITION DATA; AND
+4 (IX) ANY OTHER RECOVERABLE DATA THAT MAY HELP IDENTIFY
+5 FEDERAL AGENTS. JUDICIAL OFFICERS.
+6 (3) “JUDICIAL OFFICER” HAS THE MEANING STATED IN § 3–2701 OF
+7 THE COURTS ARTICLE.
+8 (4) “JUDICIAL OFFICER MISCONDUCT” MEANS CAUSING OR
+9 ALLOWING AN AGGRIEVED PARTY TO BE DEPRIVED OF A RIGHT, A PRIVILEGE, OR AN
+10 IMMUNITY SECURED UNDER LAW.
+11 (5) “LAW” HAS THE MEANING STATED IN § 3–2701 OF THE COURTS
+12 ARTICLE.
+13 (B) ON RECEIPT OF A COMPLAINT OF FEDERAL AGENT JUDICIAL OFFICER
+14 MISCONDUCT, THE OFFICE OF THE ATTORNEY GENERAL, A STATE PROSECUTOR,
+15 OR A STATE’S ATTORNEY MAY DIRECT THE MARYLAND STATE POLICE
+16 APPROPRIATE STATE OR LOCAL LAW ENFORCEMENT AGENCY TO GATHER AND
+17 SECURELY RETAIN AS MUCH IDENTIFYING DIGITAL DATA AS POSSIBLE ABOUT THE
+18 FEDERAL AGENT JUDICIAL OFFICER OR FEDERAL AGENTS WHO ARE WHO IS THE
+19 SUBJECT OF THE FEDERAL AGENT JUDICIAL OFFICER MISCONDUCT COMPLAINT.
+20 (C) A COMPLAINANT PLAINTIFF MAY OBTAIN ACCESS TO THE IDENTIFYING
+21 DIGITAL DATA RELEVANT TO THE COMPLAINANT’S PLAINTIFF’S COMPLAINT ONLY
+22 PURSUANT TO IN ACCORDANCE WITH A COURT ORDER ISSUED IN: AN ACTION UNDER
+23 TITLE 3, SUBTITLE 27 OF THE COURTS ARTICLE.
+24 (1) A 42 U.S.C. § 1983 CIVIL RIGHTS CASE; OR
+25 (2) A CRIMINAL PROCEEDING INVOLVING THE SUBJECT OF THE
+26 FEDERAL AGENT MISCONDUCT COMPLAINT.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 October 1, 2026.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That, if any provision of this Act or
+30 the application of any provision of this Act to any person or circumstance is held invalid for
+31 any reason in a court of competent jurisdiction, the invalidity does not affect other
+32 provisions or any other application of this Act that can be given effect without the invalid
+6 HOUSE BILL 351
+1 provision or application, and for this purpose the provisions of this Act are declared
+2 severable.
+3 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+4 October 1, 2026.
+5 SECTION 3. AND BE IT FURTHER ENACTED, That this Act is an emergency
+6 measure, is necessary for the immediate preservation of the public health or safety, has
+7 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+8 each of the two Houses of the General Assembly, and shall take effect from the date it is
+9 enacted.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA    E ( w t G S a p t t G f h a t d o _ a _ o _ A P C F b a O M a f p a c o i i a c c a a g r t l e o v o c r e c c]
+[DELETED:  H  l a U l B  A S D  A  ( B  A  S  A  (  S T    AS2.ADCR.  C E O I() N T S T F W H T MD() “JUR    )“C” OR MS E A P I  ) (   A A W O W A W F N T OE SC; (  CRSS  )“CR R     U A RE §11PSA NC. O]
+[DELETED: H 3() “L”:AW S ( TU.C;  ON  ( TMDR; A E I ( TMC; A O ( TUS; N TS  ( TM. A() ( AON A P O T F O T T O U C O LW D T A P O C OT E   ( AO A P O T F O T TN()   O I O A A T T T C O A W A A T T T C O A() A C M A R F A CS IYSS () ( AN A U T S S B F W  ( T:  () AN L G L U T O  S]
+[DELETED:  H   () AIN S W O A DE I A() ( N ( “F AT M A F L E E O. ( “F”:T   ()U  ()IA O A M O T P B A F  ()IKT   ()VE   2U.§1 ()( “ID D DA M D T C H C T I O A F A O W I T S O A C O F AT :  () ;L  () ;IC  () ;IC  () ;VL  () ;I]
+[DELETED: H 5  () GS;I   () SR;ITGAA  () ;IFA   ()XAS .   “J”§3R     O RA. ( “J O MT M C OT E  ( “L”§31W     O.() NT  F T EL  T RROAG,SP A TES T M D T A T O’AMS T O L L E A T G AT()  TSFSN 3,S27CA.  U   O RE ( 42U.§13;     E  ( C P I T S O TT  S A B I F E T t A s t e O  S t a r i a c o c j t i d n a o p]
+[DELETED:  H  p o a a f t p t p o t A a d s  S 3 A B I F E T t A s t e O  S m b e e          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 351
+E4 EMERGENCY BILL (6lr1852)
+ENROLLED BILL
+— Judiciary/Judicial Proceedings —
+Introduced by Delegates Moon Moon, Charkoudian, and Martinez
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+Speaker.
+CHAPTER ______
+1 AN ACT concerning
+2 Public Safety – Federal Agents – Digital Unmasking
+3 Constitutional Rights – Violations and Digital Unmasking
+4 Civil Actions – Violation of Constitutional Rights
+5 (No Kings Act)
+6 FOR the purpose of authorizing an aggrieved party or the Office of the Attorney General to
+7 bring an action against a certain judicial officer who, under color of law, deprives
+8 another of a right, a privilege, or an immunity secured under law; authorizing the
+9 Office of the Attorney General, a State Prosecutor, or a State’s Attorney to direct the
+10 Maryland State Police certain State and local law enforcement agencies to gather
+11 and securely retain certain identifying digital data about a certain federal agent or
+12 federal agents judicial officer at a certain time; authorizing a certain complainant
+13 plaintiff to obtain certain identifying digital data only pursuant to in accordance with
+14 a court order issued in a certain case action; and generally relating to law
+15 enforcement officers violations of constitutional rights establishing certain civil
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. hb0351*
+
+2 HOUSE BILL 351
+1 liability for an individual who, under color of law, deprives another, or causes or
+2 allows another to be deprived, of a right, a privilege, or an immunity secured by the
+3 U.S. Constitution or the laws of the United States; and generally relating to civil
+4 liability for the deprivation of rights.
+5 BY adding to
+6 Article – Courts and Judicial Proceedings
+7 Section 3–2701 and 3–2702 to be under the new subtitle “Subtitle 27. Action for
+8 Deprivation of Constitutional Rights”
+9 Annotated Code of Maryland
+10 (2020 Replacement Volume and 2025 Supplement)
+11 BY adding to
+12 Article – Public Safety
+13 Section 3–535
+14 Annotated Code of Maryland
+15 (2022 Replacement Volume and 2025 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – Courts and Judicial Proceedings
+19 SUBTITLE 27. ACTION FOR DEPRIVATION OF CONSTITUTIONAL RIGHTS.
+20 3–2701.
+21 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+22 INDICATED.
+23 (B) “JUDICIAL OFFICER” MEANS
+24 (1) “COVERED OFFICER” MEANS, EXCEPT AS PROVIDED IN
+25 PARAGRAPH (2) OF THIS SUBSECTION, AN OFFICER WHO MAY:
+26 (1) (I) MAKE AN ARREST WITH OR WITHOUT A WARRANT FOR
+27 VIOLATIONS OF THE UNITED STATES CODE; AND
+28 (2) (II) CARRY FIREARMS IN THE PERFORMANCE OF THE OFFICER’S
+29 DUTIES.
+30 (2) “COVERED OFFICER” DOES NOT INCLUDE A LAW ENFORCEMENT
+31 OFFICER, AS DEFINED IN § 1–101 OF THE PUBLIC SAFETY ARTICLE, ACTING UNDER
+32 THE AUTHORITY OF A JOINT TASK FORCE THAT PRIMARILY ENFORCES THE UNITED
+33 STATES CODE.
+
+HOUSE BILL 351 3
+1 (C) “LAW” INCLUDES:
+2 (1) THE U.S. CONSTITUTION; AND
+3 (2) THE MARYLAND DECLARATION OF RIGHTS;
+4 (3) THE MARYLAND CONSTITUTION;
+5 (4) THE LAWS OF THE UNITED STATES; AND
+6 (5) THE LAWS OF MARYLAND.
+7 3–2702.
+8 (A) (1) AN AGGRIEVED PARTY OR THE OFFICE OF THE ATTORNEY
+9 GENERAL MAY BRING AN ACTION AGAINST A JUDICIAL OFFICER COVERED OFFICER
+10 WHO, UNDER COLOR OF LAW, DEPRIVES THE AGGRIEVED PARTY OR CAUSES OR
+11 ALLOWS THE AGGRIEVED PARTY TO BE DEPRIVED OF A RIGHT, A PRIVILEGE, OR AN
+12 IMMUNITY SECURED UNDER LAW THE LAW.
+13 (2) AN AGGRIEVED PARTY OR THE OFFICE OF THE ATTORNEY
+14 GENERAL MAY SEEK DAMAGES AND DECLARATORY AND INJUNCTIVE RELIEF IN AN
+15 ACTION BROUGHT UNDER THIS SECTION.
+16 (B) A DEFENDANT IN AN ACTION UNDER THIS SECTION MAY ASSERT ANY
+17 DEFENSE OF IMMUNITY OTHERWISE APPLICABLE AT THE TIME THE CAUSE OF
+18 ACTION ACCRUES THAT WAS AVAILABLE AT THE TIME THE CAUSE OF ACTION
+19 ACCRUED.
+20 (C) A COURT MAY AWARD REASONABLE FEES AND COSTS, INCLUDING
+21 ATTORNEY’S FEES AND EXPERT WITNESS FEES, TO A PREVAILING PLAINTIFF UNDER
+22 THIS SECTION.
+23 (D) (1) AN ACTION UNDER THIS SECTION SHALL BE FILED WITHIN 5
+24 YEARS AFTER THE CAUSE OF ACTION ACCRUES.
+25 (2) THIS SECTION MAY NOT BE CONSTRUED TO ABROGATE:
+26 (I) ANY LOCAL GOVERNMENT LIABILITY UNDER STATE OR
+27 COMMON LAW FOR THE ACTIONS OF STATE OR LOCAL GOVERNMENT EMPLOYEES;
+28 OR
+
+4 HOUSE BILL 351
+1 (II) ANY STATUTORY WAIVER OF ANY DEFENSE, INCLUDING
+2 IMMUNITY.
+3 Article – Public Safety
+4 3–535.
+5 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+6 INDICATED.
+7 (2) “FEDERAL AGENT” MEANS A FEDERAL LAW ENFORCEMENT
+8 OFFICER OR A PRIVATE CONTRACTOR HIRED BY THE DEPARTMENT OF HOMELAND
+9 SECURITY TO ASSIST IN FEDERAL LAW ENFORCEMENT.
+10 (3) “FEDERAL AGENT MISCONDUCT” MEANS:
+11 (I) USE OF EXCESSIVE FORCE BY A FEDERAL AGENT AGAINST A
+12 MEMBER OF THE PUBLIC;
+13 (II) ASSAULT OF A MEMBER OF THE PUBLIC BY A FEDERAL
+14 AGENT;
+15 (III) KIDNAPPING OR UNLAWFUL DETENTION OF A MEMBER OF
+16 THE PUBLIC BY A FEDERAL AGENT; OR
+17 (IV) ENGAGING IN ACTIONS BY A FEDERAL AGENT THAT LEAD TO
+18 A CREDIBLE COMPLAINT OF A CIVIL RIGHTS VIOLATION UNDER 42 U.S.C. § 1983.
+19 (4) (2) “IDENTIFYING DIGITAL DATA” MEANS DIGITAL
+20 INFORMATION THAT CAN HELP CONFIRM THE IDENTITY OF A FEDERAL AGENT
+21 JUDICIAL OFFICER WHO IS THE SUBJECT OF A COMPLAINT OF FEDERAL AGENT
+22 JUDICIAL OFFICER MISCONDUCT, INCLUDING:
+23 (I) LICENSE PLATE DATA;
+24 (II) CELL TOWER DATA;
+25 (III) CELL PHONE DATA;
+26 (IV) LOCATION DATA;
+27 (V) IMAGE SEARCH RESULTS DATA;
+
+HOUSE BILL 351 5
+1 (VI) GPS DATA;
+2 (VII) STINGRAY DATA;
+3 (VIII) FACIAL RECOGNITION DATA; AND
+4 (IX) ANY OTHER RECOVERABLE DATA THAT MAY HELP IDENTIFY
+5 FEDERAL AGENTS. JUDICIAL OFFICERS.
+6 (3) “JUDICIAL OFFICER” HAS THE MEANING STATED IN § 3–2701 OF
+7 THE COURTS ARTICLE.
+8 (4) “JUDICIAL OFFICER MISCONDUCT” MEANS CAUSING OR
+9 ALLOWING AN AGGRIEVED PARTY TO BE DEPRIVED OF A RIGHT, A PRIVILEGE, OR AN
+10 IMMUNITY SECURED UNDER LAW.
+11 (5) “LAW” HAS THE MEANING STATED IN § 3–2701 OF THE COURTS
+12 ARTICLE.
+13 (B) ON RECEIPT OF A COMPLAINT OF FEDERAL AGENT JUDICIAL OFFICER
+14 MISCONDUCT, THE OFFICE OF THE ATTORNEY GENERAL, A STATE PROSECUTOR,
+15 OR A STATE’S ATTORNEY MAY DIRECT THE MARYLAND STATE POLICE
+16 APPROPRIATE STATE OR LOCAL LAW ENFORCEMENT AGENCY TO GATHER AND
+17 SECURELY RETAIN AS MUCH IDENTIFYING DIGITAL DATA AS POSSIBLE ABOUT THE
+18 FEDERAL AGENT JUDICIAL OFFICER OR FEDERAL AGENTS WHO ARE WHO IS THE
+19 SUBJECT OF THE FEDERAL AGENT JUDICIAL OFFICER MISCONDUCT COMPLAINT.
+20 (C) A COMPLAINANT PLAINTIFF MAY OBTAIN ACCESS TO THE IDENTIFYING
+21 DIGITAL DATA RELEVANT TO THE COMPLAINANT’S PLAINTIFF’S COMPLAINT ONLY
+22 PURSUANT TO IN ACCORDANCE WITH A COURT ORDER ISSUED IN: AN ACTION UNDER
+23 TITLE 3, SUBTITLE 27 OF THE COURTS ARTICLE.
+24 (1) A 42 U.S.C. § 1983 CIVIL RIGHTS CASE; OR
+25 (2) A CRIMINAL PROCEEDING INVOLVING THE SUBJECT OF THE
+26 FEDERAL AGENT MISCONDUCT COMPLAINT.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 October 1, 2026.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That, if any provision of this Act or
+30 the application of any provision of this Act to any person or circumstance is held invalid for
+31 any reason in a court of competent jurisdiction, the invalidity does not affect other
+32 provisions or any other application of this Act that can be given effect without the invalid
+
+6 HOUSE BILL 351
+1 provision or application, and for this purpose the provisions of this Act are declared
+2 severable.
+3 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+4 October 1, 2026.
+5 SECTION 3. AND BE IT FURTHER ENACTED, That this Act is an emergency
+6 measure, is necessary for the immediate preservation of the public health or safety, has
+7 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+8 each of the two Houses of the General Assembly, and shall take effect from the date it is
+9 enacted.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA    E ( w t G S a p t t G f h a t d o _ a _ o _ A P C F b a O M a f p a c o i i a c c a a g r t l e o v o c r e c c]
+[DELETED:  H  l a U l B  A S D  A  ( B  A  S  A  (  S T    AS2.ADCR.  C E O I() N T S T F W H T MD() “JUR    )“C” OR MS E A P I  ) (   A A W O W A W F N T OE SC; (  CRSS  )“CR R     U A RE §11PSA NC. O]
+[DELETED: H 3() “L”:AW S ( TU.C;  ON  ( TMDR; A E I ( TMC; A O ( TUS; N TS  ( TM. A() ( AON A P O T F O T T O U C O LW D T A P O C OT E   ( AO A P O T F O T TN()   O I O A A T T T C O A W A A T T T C O A() A C M A R F A CS IYSS () ( AN A U T S S B F W  ( T:  () AN L G L U T O  S]
+[DELETED:  H   () AIN S W O A DE I A() ( N ( “F AT M A F L E E O. ( “F”:T   ()U  ()IA O A M O T P B A F  ()IKT   ()VE   2U.§1 ()( “ID D DA M D T C H C T I O A F A O W I T S O A C O F AT :  () ;L  () ;IC  () ;IC  () ;VL  () ;I]
+[DELETED: H 5  () GS;I   () SR;ITGAA  () ;IFA   ()XAS .   “J”§3R     O RA. ( “J O MT M C OT E  ( “L”§31W     O.() NT  F T EL  T RROAG,SP A TES T M D T A T O’AMS T O L L E A T G AT()  TSFSN 3,S27CA.  U   O RE ( 42U.§13;     E  ( C P I T S O TT  S A B I F E T t A s t e O  S t a r i a c o c j t i d n a o p]
+[DELETED:  H  p o a a f t p t p o t A a d s  S 3 A B I F E T t A s t e O  S m b e e          G               ]

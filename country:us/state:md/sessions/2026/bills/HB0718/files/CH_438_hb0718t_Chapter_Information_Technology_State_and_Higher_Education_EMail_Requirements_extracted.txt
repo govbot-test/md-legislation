@@ -1,0 +1,201 @@
+Title: (House Bill 718)
+Official Title: (House Bill 718)
+Number of Sections: 6
+Source: versions - Chapter - Information Technology – State and Higher Education E–Mail – Requirements
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 438
+Chapter 438
+AN ACT concerning
+Information Technology – State and Higher Education E–Mail – Requirements
+FOR the purpose of establishing that certain provisions of law governing information
+technology plans apply to certain public institutions of higher education; establishing
+a certain policy of the State relating to State and higher education employee e–mail
+systems; requiring certain policies, plans, and standards to include certain
+provisions relating to e–mail security; and generally relating to State e–mail
+systems.
+BY repealing and reenacting, with amendments,
+Article – State Finance and Procurement
+
+Section 2:
+Section 3.5–302(c) and 3.5–305
+Annotated Code of Maryland
+(2021 Replacement Volume and 2025 Supplement)
+
+Section 3:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – State Finance and Procurement
+
+Section 4:
+3.5–302.
+(c) Notwithstanding any other provision of law, except as provided in subsection
+(a) of this section and §§ 3.5–305, 3.5–307(a)(2), 3.5–308, and 3.5–309 of this subtitle, this
+subtitle applies to all units of the Executive Branch of State government including public
+institutions of higher education other than Morgan State University, the University
+System of Maryland, St. Mary’s College of Maryland, and Baltimore City Community
+College.
+
+Section 5:
+3.5–305.
+(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+(2) (I) “SPAM E–MAIL” MEANS UNSOLICITED, PHISHING,
+SOLICITATION, AND BULK E–MAILS UNRELATED TO STATE BUSINESS.
+(II) “SPAM E–MAIL” DOES NOT INCLUDE SOLICITATION AND
+BULK E–MAILS RELATING TO STATE BUSINESS, INCLUDING BULK E–MAIL FROM
+STATE VENDORS, PARTNERS, AND EXCLUSIVE REPRESENTATIVES.
+– 1 –
+Ch. 438 2026 LAWS OF MARYLAND
+(3) “STATE BUSINESS” MEANS THE FURTHERANCE OF THE STATE’S
+OBLIGATIONS:
+(I) UNDER THE MARYLAND CONSTITUTION, MARYLAND CODE,
+AND CODE OF MARYLAND REGULATIONS;
+(II) UNDER THE LAWS OF THE UNITED STATES; AND
+(III) BY OPERATION OF CONTRACTS AND SIMILAR OBLIGATIONS.
+(B) IT IS THE POLICY OF THE STATE THAT E–MAIL SYSTEMS AND
+RESOURCES FOR STATE AND HIGHER EDUCATION EMPLOYEES ARE INTENDED TO
+SUPPORT STATE BUSINESS AND MAY NOT SERVE AS A PUBLIC FORUM.
+[(a)] (C) Except as provided in subsection [(b)] (D) of this section, in accordance
+with guidelines established by the Secretary, each unit of State government shall develop
+and submit to the Secretary:
+(1) information technology policies and standards;
+(2) an information technology plan; and
+(3) an annual project plan outlining the status of efforts to make
+information and services available to the public over the Internet.
+[(b)] (D) (1) The governing boards of the public institutions of higher
+education shall develop and submit information technology policies and standards and an
+information technology plan for their respective institutions or systems to the Secretary.
+(2) If the Secretary finds that the submissions required under this
+subsection are consistent with the master plan, the Secretary shall incorporate those
+submissions into the master plan.
+(3) If the Secretary finds that the submissions required under this
+subsection are not consistent with the master plan:
+(i) the Secretary shall return the submissions to the governing
+boards; and
+(ii) the governing boards shall revise the submissions as appropriate
+and submit the revised policies, standards, and plans to the Secretary.
+(E) (1) IN ORDER TO PROTECT THE INFORMATION TECHNOLOGY
+RESOURCES OF THE STATE, THE POLICIES, PLANS, AND STANDARDS REQUIRED
+– 2 –
+WES MOORE, Governor Ch. 438
+UNDER SUBSECTIONS (C) AND (D) OF THIS SECTION SHALL INCLUDE PROVISIONS TO
+PROTECT STATE AND HIGHER EDUCATION EMPLOYEE E–MAIL SERVICES FROM
+SPAM E–MAIL AND OTHER USE THAT DOES NOT SUPPORT STATE BUSINESS,
+INCLUDING BY IMPLEMENTING SYSTEMS THAT AUTOMATICALLY FILTER SPAM
+E–MAIL FROM STATE AND HIGHER EDUCATION EMPLOYEES’ E–MAIL ACCOUNTS.
+(2) THE POLICIES, PLANS, AND STANDARDS REQUIRED UNDER
+SUBSECTIONS (C) AND (D) OF THIS SECTION SHALL PERMIT INCIDENTAL PERSONAL
+USE OF INFORMATION TECHNOLOGY, INCLUDING E–MAIL, BY STATE EMPLOYEES
+THAT:
+(I) HAS A DE MINIMIS IMPACT ON RESOURCES; AND
+(II) IS CONSISTENT WITH GENERALLY ACCEPTED
+PROFESSIONAL BUSINESS NORMS AND EXPECTATIONS.
+
+Section 6:
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, May 12, 2026.
+– 3 –
+[DELETED: W C t p o e t c p o l g i r c p p a s t i c r t e s a g r t S eAA(S( N 3 o h e o t M S U t U o M S M C o M a B C C() ( N ( () “S–”,P EML M UD PGN EM TS–S.  () “S–IP EML D N I S A EM R T T BS I B EM FS,,,.S S ]
+[DELETED:  2  ( “S”SS  TES  () MC,MCU A ON A OE O AM;  () US;IU N TS   () .IB() IST I T P O T T T EM S A T T.()E () ]() [](C  ( i ( a ( a a p p o t s o e t m() ( T g b o t p i o h]( ( I t S f t t s r u t a c w t m p t S s i t ( I t S f t t s r u t  ( t S s r t s t t g  ( t) ( N O T P T I T O T TE T PS PS A S R,,]
+[DELETED: W C C  D )( T A H E E EM S F EM A O U T D N S T BSS B I S T A F SM TS EMS’–. ( T, PS PS A S R U C  D )( O I TY IEML B T E–,  () ;HS   ()II C W G AS A B I F E T t A s t e]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 438
+Chapter 438
+(House Bill 718)
+AN ACT concerning
+Information Technology – State and Higher Education E–Mail – Requirements
+FOR the purpose of establishing that certain provisions of law governing information
+technology plans apply to certain public institutions of higher education; establishing
+a certain policy of the State relating to State and higher education employee e–mail
+systems; requiring certain policies, plans, and standards to include certain
+provisions relating to e–mail security; and generally relating to State e–mail
+systems.
+BY repealing and reenacting, with amendments,
+Article – State Finance and Procurement
+Section 3.5–302(c) and 3.5–305
+Annotated Code of Maryland
+(2021 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – State Finance and Procurement
+3.5–302.
+(c) Notwithstanding any other provision of law, except as provided in subsection
+(a) of this section and §§ 3.5–305, 3.5–307(a)(2), 3.5–308, and 3.5–309 of this subtitle, this
+subtitle applies to all units of the Executive Branch of State government including public
+institutions of higher education other than Morgan State University, the University
+System of Maryland, St. Mary’s College of Maryland, and Baltimore City Community
+College.
+3.5–305.
+(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+(2) (I) “SPAM E–MAIL” MEANS UNSOLICITED, PHISHING,
+SOLICITATION, AND BULK E–MAILS UNRELATED TO STATE BUSINESS.
+(II) “SPAM E–MAIL” DOES NOT INCLUDE SOLICITATION AND
+BULK E–MAILS RELATING TO STATE BUSINESS, INCLUDING BULK E–MAIL FROM
+STATE VENDORS, PARTNERS, AND EXCLUSIVE REPRESENTATIVES.
+– 1 –
+
+Ch. 438 2026 LAWS OF MARYLAND
+(3) “STATE BUSINESS” MEANS THE FURTHERANCE OF THE STATE’S
+OBLIGATIONS:
+(I) UNDER THE MARYLAND CONSTITUTION, MARYLAND CODE,
+AND CODE OF MARYLAND REGULATIONS;
+(II) UNDER THE LAWS OF THE UNITED STATES; AND
+(III) BY OPERATION OF CONTRACTS AND SIMILAR OBLIGATIONS.
+(B) IT IS THE POLICY OF THE STATE THAT E–MAIL SYSTEMS AND
+RESOURCES FOR STATE AND HIGHER EDUCATION EMPLOYEES ARE INTENDED TO
+SUPPORT STATE BUSINESS AND MAY NOT SERVE AS A PUBLIC FORUM.
+[(a)] (C) Except as provided in subsection [(b)] (D) of this section, in accordance
+with guidelines established by the Secretary, each unit of State government shall develop
+and submit to the Secretary:
+(1) information technology policies and standards;
+(2) an information technology plan; and
+(3) an annual project plan outlining the status of efforts to make
+information and services available to the public over the Internet.
+[(b)] (D) (1) The governing boards of the public institutions of higher
+education shall develop and submit information technology policies and standards and an
+information technology plan for their respective institutions or systems to the Secretary.
+(2) If the Secretary finds that the submissions required under this
+subsection are consistent with the master plan, the Secretary shall incorporate those
+submissions into the master plan.
+(3) If the Secretary finds that the submissions required under this
+subsection are not consistent with the master plan:
+(i) the Secretary shall return the submissions to the governing
+boards; and
+(ii) the governing boards shall revise the submissions as appropriate
+and submit the revised policies, standards, and plans to the Secretary.
+(E) (1) IN ORDER TO PROTECT THE INFORMATION TECHNOLOGY
+RESOURCES OF THE STATE, THE POLICIES, PLANS, AND STANDARDS REQUIRED
+– 2 –
+
+WES MOORE, Governor Ch. 438
+UNDER SUBSECTIONS (C) AND (D) OF THIS SECTION SHALL INCLUDE PROVISIONS TO
+PROTECT STATE AND HIGHER EDUCATION EMPLOYEE E–MAIL SERVICES FROM
+SPAM E–MAIL AND OTHER USE THAT DOES NOT SUPPORT STATE BUSINESS,
+INCLUDING BY IMPLEMENTING SYSTEMS THAT AUTOMATICALLY FILTER SPAM
+E–MAIL FROM STATE AND HIGHER EDUCATION EMPLOYEES’ E–MAIL ACCOUNTS.
+(2) THE POLICIES, PLANS, AND STANDARDS REQUIRED UNDER
+SUBSECTIONS (C) AND (D) OF THIS SECTION SHALL PERMIT INCIDENTAL PERSONAL
+USE OF INFORMATION TECHNOLOGY, INCLUDING E–MAIL, BY STATE EMPLOYEES
+THAT:
+(I) HAS A DE MINIMIS IMPACT ON RESOURCES; AND
+(II) IS CONSISTENT WITH GENERALLY ACCEPTED
+PROFESSIONAL BUSINESS NORMS AND EXPECTATIONS.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, May 12, 2026.
+– 3 –
+
+[DELETED: W C t p o e t c p o l g i r c p p a s t i c r t e s a g r t S eAA(S( N 3 o h e o t M S U t U o M S M C o M a B C C() ( N ( () “S–”,P EML M UD PGN EM TS–S.  () “S–IP EML D N I S A EM R T T BS I B EM FS,,,.S S ]
+[DELETED:  2  ( “S”SS  TES  () MC,MCU A ON A OE O AM;  () US;IU N TS   () .IB() IST I T P O T T T EM S A T T.()E () ]() [](C  ( i ( a ( a a p p o t s o e t m() ( T g b o t p i o h]( ( I t S f t t s r u t a c w t m p t S s i t ( I t S f t t s r u t  ( t S s r t s t t g  ( t) ( N O T P T I T O T TE T PS PS A S R,,]
+[DELETED: W C C  D )( T A H E E EM S F EM A O U T D N S T BSS B I S T A F SM TS EMS’–. ( T, PS PS A S R U C  D )( O I TY IEML B T E–,  () ;HS   ()II C W G AS A B I F E T t A s t e]

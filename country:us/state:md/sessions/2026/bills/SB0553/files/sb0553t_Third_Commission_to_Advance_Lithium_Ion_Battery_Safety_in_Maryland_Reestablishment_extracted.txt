@@ -1,0 +1,276 @@
+Title: SENATE BILL 553
+Official Title: SENATE BILL 553
+Number of Sections: 1
+Source: versions - Third - Commission to Advance Lithium-Ion Battery Safety in Maryland - Reestablishment
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+M3, M5 6lr2897
+CF HB 833
+By: Senator Augustine
+Introduced and read first time: February 4, 2026
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 25, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Commission to Advance Lithium–Ion Battery Safety in Maryland –
+3 Reestablishment
+4 FOR the purpose of reestablishing the Commission to Advance Lithium–Ion Battery Safety
+5 in Maryland with an altered membership and mandate; and generally relating to the
+6 Commission to Advance Lithium–Ion Battery Safety in Maryland.
+7 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+8 That:
+9 (a) There is a Commission to Advance Lithium–Ion Battery Safety in Maryland.
+10 (b) The Commission consists of:
+11 (1) the following members serving on the Commission on December 31,
+12 2025:
+13 (i) one representative of the Department of the Environment,
+14 appointed by the Secretary of the Environment;
+15 (ii) the following members, appointed by the Director of the
+16 Maryland Energy Administration:
+17 1. one representative of the Maryland Energy
+18 Administration;
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0553*
+2 SENATE BILL 553
+1 2. one representative of a lithium–ion battery manufacturer
+2 or a lithium–ion battery manufacturer trade group; and
+3 3. one representative of a vehicle propulsion battery
+4 manufacturer;
+5 (iii) the State Fire Marshal, or the Fire Marshal’s designee;
+6 (iv) one representative of the Power Plant Research Program,
+7 appointed by the Secretary of Natural Resources;
+8 (v) one representative of the Public Service Commission, appointed
+9 by the Chair of the Public Service Commission;
+10 (vi) the following members, appointed by the President of the
+11 Maryland Association of Counties:
+12 1. one representative with a background in emergency
+13 response;
+14 2. one representative with a background in public works; and
+15 3. one representative with a background in climate, clean
+16 energy, and infrastructure;
+17 (vii) one representative of the Professional Firefighters of Maryland,
+18 designated by the President of the Professional Firefighters of Maryland;
+19 (viii) one representative of the Metropolitan Fire Chiefs Association,
+20 designated by the President of the Metropolitan Fire Chiefs Association;
+21 (ix) one representative of the Maryland Fire and Rescue Institute,
+22 designated by the Director of the Maryland Fire and Rescue Institute;
+23 (x) one citizen representative, designated by the President of the
+24 Maryland State Firefighters Association;
+25 (xi) one representative of a public utility in the State;
+26 (xii) one representative of the Maryland Recycling Network;
+27 (xiii) one representative of the Maryland–Delaware Solid Waste
+28 Association;
+29 (xiv) one representative of the vehicle dismantling sector;
+SENATE BILL 553 3
+1 (xv) one representative of a battery recycling trade group; and
+2 (xvi) one representative of the grid scale battery energy storage
+3 industry; and
+4 (2) the following additional members:
+5 (i) one representative of the Maryland Port Administration,
+6 appointed by the Secretary of Transportation;
+7 (ii) one representative of the ocean freight shipping industry,
+8 appointed by the Secretary of Transportation;
+9 (iii) one representative of the property casualty insurance industry,
+10 appointed by the Maryland Insurance Commissioner;
+11 (iv) one representative of the commercial insurance industry,
+12 appointed by the Maryland Insurance Commissioner;
+13 (v) one representative of the Land and Materials Administration,
+14 appointed by the Secretary of the Environment; and
+15 (vi) one representative of the Towing and Recovery Professionals of
+16 Maryland; and
+17 (vii) any other members as determined necessary by the Commission.
+18 (c) The member serving as chair of the Commission on December 31, 2025, shall
+19 continue to serve as chair of the Commission.
+20 (d) The Office of the State Fire Marshal shall provide staff for the Commission.
+21 (e) A member of the Commission:
+22 (1) may not receive compensation as a member of the Commission; but
+23 (2) is entitled to reimbursement for expenses under the Standard State
+24 Travel Regulations, as provided in the State budget.
+25 (f) The Commission shall study and make legislative, regulatory, programmatic,
+26 or other recommendations regarding:
+27 (1) best practices, standards, and guidelines:
+28 (i) to prevent, detect, and suppress lithium–ion battery fires in:
+29 1. consumer and transportation applications; and
+4 SENATE BILL 553
+1 2. utility applications, with review and consideration of the
+2 National Fire Prevention Association 855 Standards for Grid Scale Storage and Safety;
+3 (ii) to prevent, detect, and suppress lithium–ion fires at recycling
+4 facilities;
+5 (iii) for reusing, recycling, and decommissioning lithium–ion
+6 batteries; and
+7 (iv) for collecting, storing, and recycling lithium–ion batteries;
+8 (2) the viability of extended producer responsibility for lithium–ion
+9 batteries;
+10 (3) training, education, and other information to better inform the public
+11 and first responders regarding lithium–ion battery safety;
+12 (4) battery risks at the Port of Baltimore and on roads, rail, and tunnels
+13 throughout Maryland;
+14 (5) the impacts of battery risk on insurance providers and insurance
+15 coverage availability;
+16 (6) the integration of pending federal regulations and emerging
+17 third–party standards; and
+18 (7) any other global issues the Commission may consider useful for
+19 enhancing the safety and reuse of batteries in the State.
+20 (g) At the discretion of the Commission, the Commission may seek advice and
+21 consultation from outside individuals and entities.
+22 (h) (1) On or before December 1, 2026, the Commission shall submit an interim
+23 report on the progress and status of the Commission to the Legislative Policy Committee,
+24 in accordance with § 2–1257 of the State Government Article.
+25 (2) On or before December 1, 2027, the Commission shall report its findings
+26 and recommendations to the Governor and, in accordance with § 2–1257 of the State
+27 Government Article, the General Assembly.
+28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+29 1, 2026. It shall remain effective for a period of 2 years and 1 month and, at the end of June
+30 30, 2028, this Act, with no further action required by the General Assembly, shall be
+31 abrogated and of no further force and effect.
+[DELETED: :CA      6   C A C R F i C  S T  ( T  ( T   ( t 2    ( o r o t D o t E a    ( t f m a b t D o t M     1 o r o t M E A]
+[DELETED:  S      2 o o     3 o r o a v p b m    ( t    ( o r o t P P R P a    ( o b    ( t f m a b t P o t M     1 o r w a b i e r     2 o     3 o r w a b i c c e    ( o d    ( o d    ( o d    ( o c r d b t P o t M    ( o    ( o    ( o r o t M S W A    ( o]
+[DELETED: S 3    ( o    ( o r o t g s b e s i   ( t    ( o r o t M P A a    ( o r o t o f s i a    ( o a    ( o r o t c i i a    ( o a    ( o M    ( a  ( T c  ( T  ( A   ( m   ( i T  ( T o   ( b    ( t     1 c]
+[DELETED:  S      2 u N    ( t f    ( f r r a d l b    ( f   ( t v o e p r f l b   ( t a   ( b t   ( t i o b r o i p a i c   ( t i o p f r a e t   ( a o g i t C m c u f e  ( A c  ( ( O r i   ( O a r t t G a i a w § 2 o t S G  S 1 3 2 t A w n f a r b t G A s b a]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 553
+M3, M5 6lr2897
+CF HB 833
+By: Senator Augustine
+Introduced and read first time: February 4, 2026
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 25, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Commission to Advance Lithium–Ion Battery Safety in Maryland –
+3 Reestablishment
+4 FOR the purpose of reestablishing the Commission to Advance Lithium–Ion Battery Safety
+5 in Maryland with an altered membership and mandate; and generally relating to the
+6 Commission to Advance Lithium–Ion Battery Safety in Maryland.
+7 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+8 That:
+9 (a) There is a Commission to Advance Lithium–Ion Battery Safety in Maryland.
+10 (b) The Commission consists of:
+11 (1) the following members serving on the Commission on December 31,
+12 2025:
+13 (i) one representative of the Department of the Environment,
+14 appointed by the Secretary of the Environment;
+15 (ii) the following members, appointed by the Director of the
+16 Maryland Energy Administration:
+17 1. one representative of the Maryland Energy
+18 Administration;
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0553*
+
+2 SENATE BILL 553
+1 2. one representative of a lithium–ion battery manufacturer
+2 or a lithium–ion battery manufacturer trade group; and
+3 3. one representative of a vehicle propulsion battery
+4 manufacturer;
+5 (iii) the State Fire Marshal, or the Fire Marshal’s designee;
+6 (iv) one representative of the Power Plant Research Program,
+7 appointed by the Secretary of Natural Resources;
+8 (v) one representative of the Public Service Commission, appointed
+9 by the Chair of the Public Service Commission;
+10 (vi) the following members, appointed by the President of the
+11 Maryland Association of Counties:
+12 1. one representative with a background in emergency
+13 response;
+14 2. one representative with a background in public works; and
+15 3. one representative with a background in climate, clean
+16 energy, and infrastructure;
+17 (vii) one representative of the Professional Firefighters of Maryland,
+18 designated by the President of the Professional Firefighters of Maryland;
+19 (viii) one representative of the Metropolitan Fire Chiefs Association,
+20 designated by the President of the Metropolitan Fire Chiefs Association;
+21 (ix) one representative of the Maryland Fire and Rescue Institute,
+22 designated by the Director of the Maryland Fire and Rescue Institute;
+23 (x) one citizen representative, designated by the President of the
+24 Maryland State Firefighters Association;
+25 (xi) one representative of a public utility in the State;
+26 (xii) one representative of the Maryland Recycling Network;
+27 (xiii) one representative of the Maryland–Delaware Solid Waste
+28 Association;
+29 (xiv) one representative of the vehicle dismantling sector;
+
+SENATE BILL 553 3
+1 (xv) one representative of a battery recycling trade group; and
+2 (xvi) one representative of the grid scale battery energy storage
+3 industry; and
+4 (2) the following additional members:
+5 (i) one representative of the Maryland Port Administration,
+6 appointed by the Secretary of Transportation;
+7 (ii) one representative of the ocean freight shipping industry,
+8 appointed by the Secretary of Transportation;
+9 (iii) one representative of the property casualty insurance industry,
+10 appointed by the Maryland Insurance Commissioner;
+11 (iv) one representative of the commercial insurance industry,
+12 appointed by the Maryland Insurance Commissioner;
+13 (v) one representative of the Land and Materials Administration,
+14 appointed by the Secretary of the Environment; and
+15 (vi) one representative of the Towing and Recovery Professionals of
+16 Maryland; and
+17 (vii) any other members as determined necessary by the Commission.
+18 (c) The member serving as chair of the Commission on December 31, 2025, shall
+19 continue to serve as chair of the Commission.
+20 (d) The Office of the State Fire Marshal shall provide staff for the Commission.
+21 (e) A member of the Commission:
+22 (1) may not receive compensation as a member of the Commission; but
+23 (2) is entitled to reimbursement for expenses under the Standard State
+24 Travel Regulations, as provided in the State budget.
+25 (f) The Commission shall study and make legislative, regulatory, programmatic,
+26 or other recommendations regarding:
+27 (1) best practices, standards, and guidelines:
+28 (i) to prevent, detect, and suppress lithium–ion battery fires in:
+29 1. consumer and transportation applications; and
+
+4 SENATE BILL 553
+1 2. utility applications, with review and consideration of the
+2 National Fire Prevention Association 855 Standards for Grid Scale Storage and Safety;
+3 (ii) to prevent, detect, and suppress lithium–ion fires at recycling
+4 facilities;
+5 (iii) for reusing, recycling, and decommissioning lithium–ion
+6 batteries; and
+7 (iv) for collecting, storing, and recycling lithium–ion batteries;
+8 (2) the viability of extended producer responsibility for lithium–ion
+9 batteries;
+10 (3) training, education, and other information to better inform the public
+11 and first responders regarding lithium–ion battery safety;
+12 (4) battery risks at the Port of Baltimore and on roads, rail, and tunnels
+13 throughout Maryland;
+14 (5) the impacts of battery risk on insurance providers and insurance
+15 coverage availability;
+16 (6) the integration of pending federal regulations and emerging
+17 third–party standards; and
+18 (7) any other global issues the Commission may consider useful for
+19 enhancing the safety and reuse of batteries in the State.
+20 (g) At the discretion of the Commission, the Commission may seek advice and
+21 consultation from outside individuals and entities.
+22 (h) (1) On or before December 1, 2026, the Commission shall submit an interim
+23 report on the progress and status of the Commission to the Legislative Policy Committee,
+24 in accordance with § 2–1257 of the State Government Article.
+25 (2) On or before December 1, 2027, the Commission shall report its findings
+26 and recommendations to the Governor and, in accordance with § 2–1257 of the State
+27 Government Article, the General Assembly.
+28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+29 1, 2026. It shall remain effective for a period of 2 years and 1 month and, at the end of June
+30 30, 2028, this Act, with no further action required by the General Assembly, shall be
+31 abrogated and of no further force and effect.
+
+[DELETED: :CA      6   C A C R F i C  S T  ( T  ( T   ( t 2    ( o r o t D o t E a    ( t f m a b t D o t M     1 o r o t M E A]
+[DELETED:  S      2 o o     3 o r o a v p b m    ( t    ( o r o t P P R P a    ( o b    ( t f m a b t P o t M     1 o r w a b i e r     2 o     3 o r w a b i c c e    ( o d    ( o d    ( o d    ( o c r d b t P o t M    ( o    ( o    ( o r o t M S W A    ( o]
+[DELETED: S 3    ( o    ( o r o t g s b e s i   ( t    ( o r o t M P A a    ( o r o t o f s i a    ( o a    ( o r o t c i i a    ( o a    ( o M    ( a  ( T c  ( T  ( A   ( m   ( i T  ( T o   ( b    ( t     1 c]
+[DELETED:  S      2 u N    ( t f    ( f r r a d l b    ( f   ( t v o e p r f l b   ( t a   ( b t   ( t i o b r o i p a i c   ( t i o p f r a e t   ( a o g i t C m c u f e  ( A c  ( ( O r i   ( O a r t t G a i a w § 2 o t S G  S 1 3 2 t A w n f a r b t G A s b a]

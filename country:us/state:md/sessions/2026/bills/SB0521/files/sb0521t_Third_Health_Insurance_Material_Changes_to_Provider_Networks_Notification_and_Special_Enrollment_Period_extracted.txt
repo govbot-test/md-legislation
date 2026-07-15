@@ -1,0 +1,635 @@
+Title: SENATE BILL 521
+Official Title: SENATE BILL 521
+Number of Sections: 1
+Source: versions - Third - Health Insurance - Material Changes to Provider Networks - Notification and Special Enrollment Period
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+J5 6lr2522
+By: Senator Kramer
+Introduced and read first time: February 4, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 1, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Health Insurance – Material Changes to Provider Networks – Notification and
+3 Special Enrollment Period
+4 FOR the purpose of requiring certain health systems to comply with certain insurance
+5 provisions regarding notice of termination of contracts; altering the notification
+6 requirements a carrier is required to provide an enrollee regarding changes to the
+7 carrier’s provider panel; altering the notice requirements a carrier is required to
+8 provide to the Insurance Commissioner for certain material changes to the carrier’s
+9 provider panel; requiring certain notice if a carrier and health system intend to
+10 terminate certain contracts; requiring certain carriers and health systems to adhere
+11 to the terms of certain contracts under certain circumstances; requiring certain
+12 carriers to provide certain special enrollment periods for individuals who are
+13 patients of certain providers that are terminated from certain provider panels; and
+14 generally relating to material changes to carrier provider networks.
+15 BY adding to
+16 Article – Health – General
+17 Section 19–310.7
+18 Annotated Code of Maryland
+19 (2023 Replacement Volume and 2025 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – Insurance
+22 Section 15–112(b)(1)(ii)2. and, (c)(2), and (m) and 15–1316(a), (c), (d), (e), and (f)
+23 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0521*
+2 SENATE BILL 521
+1 (2017 Replacement Volume and 2025 Supplement)
+2 BY adding to
+3 Article – Insurance
+4 Section 15–112(b)(4) and (y)
+5 Annotated Code of Maryland
+6 (2017 Replacement Volume and 2025 Supplement)
+7 BY repealing and reenacting, without amendments,
+8 Article – Insurance
+9 Section 15–112(c)(1)
+10 Annotated Code of Maryland
+11 (2017 Replacement Volume and 2025 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Health – General
+15 19–310.7.
+16 (A) IN THIS SECTION, “HEALTH SYSTEM” HAS THE MEANING STATED IN §
+17 15–112(Y) OF THE INSURANCE ARTICLE.
+18 (B) A HEALTH SYSTEM SHALL COMPLY WITH § 15–112(Y) OF THE
+19 INSURANCE ARTICLE.
+20 Article – Insurance
+21 15–112.
+22 (b) (1) Subject to paragraph (3) of this subsection, a carrier that uses a
+23 provider panel shall:
+24 (ii) establish procedures to:
+25 2. notify an enrollee of:
+26 A. the termination from the carrier’s provider panel,
+27 INCLUDING WHEN THE PROVIDER ELECTS TO TERMINATE PARTICIPATION FROM
+28 THE PROVIDER PANEL, of the primary care provider that was furnishing health care
+29 services to the enrollee AND ANY PROVIDER OF BEHAVIORAL HEALTH CARE SERVICES
+30 FOR WHOM THE CARRIER HAS RECEIVED A CLAIM FOR SERVICES PERFORMED ON
+31 THE ENROLLEE WITHIN THE 3 MONTHS IMMEDIATELY PRECEDING THE DATE OF THE
+32 TERMINATION; and
+SENATE BILL 521 3
+1 B. the right of the enrollee, on request, to continue to receive
+2 health care services from the [enrollee’s primary care provider] PROVIDERS DESCRIBED
+3 IN ITEM A OF THIS ITEM for up to 90 days after the date of the notice of termination of the
+4 [enrollee’s primary care] provider from the carrier’s provider panel, if the termination was
+5 for reasons unrelated to fraud, patient abuse, incompetency, or loss of licensure status;
+6 (4) THE NOTICE REQUIRED UNDER PARAGRAPH (1)(II)2 OF THIS
+7 SUBSECTION SHALL INCLUDE:
+8 (I) CONTACT INFORMATION THAT THE ENROLLEE MAY USE TO
+9 DIRECT COMMENTS OR CONCERNS TO THE CARRIER REGARDING THE TERMINATION
+10 OF THE PROVIDER FROM THE CARRIER’S PROVIDER PANEL;
+11 (II) INSTRUCTIONS ON HOW THE ENROLLEE MAY NOTIFY THE
+12 CARRIER OF THE NEED FOR TRANSITIONAL CARE AS DESCRIBED IN PARAGRAPH
+13 (1)(II)2B OF THIS SUBSECTION BY SUBMITTING A UNIFORM FORM DEVELOPED BY
+14 THE COMMISSIONER UNDER SUBSECTION (Y)(4) OF THIS SECTION; AND
+15 (III) THE TELEPHONE NUMBER AND E–MAIL ADDRESS FOR THE
+16 OFFICE IN THE ADMINISTRATION THAT IS RESPONSIBLE FOR RECEIVING AND
+17 RESPONDING TO COMPLAINTS FROM ENROLLEES ABOUT CARRIERS.
+18 (c) (1) This subsection applies to a carrier that:
+19 (i) is an insurer, a nonprofit health service plan, or a health
+20 maintenance organization; and
+21 (ii) uses a provider panel for a health benefit plan offered by the
+22 carrier.
+23 (2) (i) On or before July 1, 2018, and annually thereafter, a carrier shall
+24 file with the Commissioner for review by the Commissioner an access plan that meets the
+25 requirements of subsection (b) of this section and any regulations adopted by the
+26 Commissioner under subsections (b) and (d) of this section.
+27 (ii) If the [carrier makes] TERMINATION OF A PROVIDER OR
+28 HEALTH CARE FACILITY FROM THE CARRIER’S PROVIDER PANEL WILL RESULT IN a
+29 material change to the access plan, the carrier shall:
+30 1. SUBJECT TO SUBPARAGRAPH (IV) OF THIS
+31 PARAGRAPH, notify the Commissioner of the [change within 15 business days after the
+32 change occurs] IMPENDING TERMINATION AT LEAST 60 DAYS BEFORE THE
+33 ANTICIPATED DATE OF TERMINATION; [and]
+4 SENATE BILL 521
+1 2. HAVE A CONTINUING OBLIGATION TO UPDATE AND
+2 SUPPLEMENT THE INITIAL AND SUBSEQUENT NOTIFICATIONS UNTIL THE
+3 TERMINATION IS EFFECTIVE OR AN AGREEMENT IS REACHED WITH THE PROVIDER
+4 OR HEALTH CARE FACILITY; AND
+5 [2.] 3. [include in the notice required under item 1 of this
+6 subparagraph a reasonable timeframe within which the carrier will] SUBJECT TO
+7 SUBPARAGRAPH (V) OF THIS PARAGRAPH, WITHIN 5 BUSINESS DAYS AFTER THE
+8 EFFECTIVE DATE OF THE TERMINATION, file with the Commissioner an update to the
+9 existing access plan for review by the Commissioner.
+10 (iii) The Commissioner may order corrective action if, after review,
+11 the access plan is determined not to meet the requirements of this subsection.
+12 (IV) THE NOTICE REQUIRED UNDER SUBPARAGRAPH (II)1 OF
+13 THIS PARAGRAPH SHALL BE PROVIDED IF:
+14 1. THE PROVIDER OR HEALTH CARE FACILITY PROVIDES
+15 ADVANCE NOTICE TO THE CARRIER OF ITS INTENTION TO TERMINATE
+16 PARTICIPATION IN THE CARRIER’S PROVIDER PANEL;
+17 2. THE CARRIER PROVIDES ADVANCE NOTICE TO THE
+18 PROVIDER OR HEALTH CARE FACILITY OF THE CARRIER’S INTENTION TO
+19 TERMINATE THE PROVIDER OR HEALTH CARE FACILITY FROM THE CARRIER’S
+20 PROVIDER PANEL;
+21 3. THE CURRENT TERM OF THE EXISTING NETWORK
+22 PARTICIPATION CONTRACT BETWEEN THE CARRIER AND THE PROVIDER OR HEALTH
+23 CARE FACILITY IS SET TO EXPIRE WITHIN 60 DAYS AND AN AGREEMENT TO EXTEND
+24 OR RENEW THE CONTRACT HAS NOT BEEN REACHED; OR
+25 4. THE CARRIER POSSESSES OTHER INFORMATION THAT
+26 IT REASONABLY DETERMINES IS AN INDICATION THAT TERMINATION OF THE
+27 PROVIDER OR HEALTH CARE FACILITY FROM THE CARRIER’S PROVIDER PANEL IS
+28 LIKELY IN THE NEXT 60 DAYS.
+29 (V) THE UPDATE TO THE EXISTING ACCESS PLAN REQUIRED TO
+30 BE FILED UNDER SUBPARAGRAPH (II)3 OF THIS PARAGRAPH IS REQUIRED TO
+31 INCLUDE ONLY INFORMATION RELATED TO:
+32 1. THE PROVIDER SPECIALTY TYPES AFFECTED BY THE
+33 MATERIAL CHANGE; AND
+SENATE BILL 521 5
+1 2. UNLESS THE NETWORK AS A WHOLE EXPERIENCED A
+2 10% REDUCTION, THE GEOGRAPHIC AREAS WHERE ENROLLEES WERE AFFECTED BY
+3 THE MATERIAL CHANGE.
+4 (VI) THE COMMISSIONER MAY IMPOSE A FINE OF $5,000 PER
+5 DAY FOR EACH DAY PAST 5 BUSINESS DAYS THAT THE CARRIER FAILS TO FILE AN
+6 UPDATE TO THE EXISTING ACCESS PLAN AS REQUIRED BY SUBPARAGRAPH (II)3 OF
+7 THIS PARAGRAPH.
+8 (m) (1) For at least 90 days after the date of the notice of termination of a
+9 primary care provider OR A PROVIDER OF BEHAVIORAL HEALTH CARE SERVICES from
+10 a carrier’s provider panel for reasons unrelated to fraud, patient abuse, incompetency, or
+11 loss of licensure status, the [primary care] provider shall furnish health care services to
+12 each enrollee:
+13 (i) who was receiving health care services from the [primary care]
+14 provider before the notice of termination; and
+15 (ii) who, after receiving notice under subsection (b) of this section of
+16 the termination of the [primary care] provider, requests to continue receiving health care
+17 services from the [primary care] provider.
+18 (2) A carrier shall reimburse a [primary care] provider that furnishes
+19 health care services under this subsection in accordance with the [primary care] provider’s
+20 agreement with the carrier.
+21 (3) A PROVIDER THAT FURNISHES HEALTH CARE SERVICES UNDER
+22 THIS SUBSECTION IN ACCORDANCE WITH A PROVIDER’S AGREEMENT WITH A
+23 CARRIER SHALL ACCEPT AS PAYMENT IN FULL FOR THE SERVICES PAYMENT FROM
+24 THE CARRIER AND COST–SHARING FROM THE PATIENT, AS APPLICABLE.
+25 (Y) (1) IN THIS SUBSECTION, “HEALTH SYSTEM” MEANS:
+26 (I) A HOSPITAL AND ANY ENTITY AFFILIATED WITH THE
+27 HOSPITAL THROUGH OWNERSHIP, GOVERNANCE, MEMBERSHIP, OR OTHER MEANS;
+28 OR
+29 (II) A PARENT CORPORATION OF ONE OR MORE HOSPITALS AND
+30 ANY ENTITY AFFILIATED WITH THE PARENT CORPORATION THROUGH OWNERSHIP,
+31 GOVERNANCE, MEMBERSHIP, OR OTHER MEANS.
+32 (2) (I) A CARRIER AND A HEALTH SYSTEM SHALL PROVIDE TO
+33 EACH OTHER WRITTEN NOTICE OF ANY INTENT TO TERMINATE A CONTRACT
+34 BETWEEN THE CARRIER AND THE HEALTH SYSTEM:
+6 SENATE BILL 521
+1 1. (I) AT LEAST 90 DAYS BEFORE THE PROPOSED DATE OF
+2 TERMINATION OF THE CONTRACT; OR
+3 2. (II) IN THE CASE OF A NONRENEWAL, AT LEAST 90 DAYS
+4 BEFORE THE END OF THE CONTRACT PERIOD.
+5 (II) A CARRIER SHALL MAKE A GOOD FAITH EFFORT TO
+6 PROVIDE WRITTEN NOTICE OF A TERMINATION AS REQUIRED UNDER
+7 SUBPARAGRAPH (I) OF THIS PARAGRAPH TO ALL COVERED INDIVIDUALS WHO ARE
+8 PATIENTS BEING TREATED ON A REGULAR BASIS BY OR AT THE HEALTH SYSTEM:
+9 1. AT LEAST 30 DAYS BEFORE THE PROPOSED DATE OF
+10 TERMINATION OF THE CONTRACT; OR
+11 2. IN THE CASE OF A NONRENEWAL, AT LEAST 30 DAYS
+12 BEFORE THE END OF THE CONTRACT PERIOD.
+13 (3) (I) FOR EACH CONTRACT BETWEEN A CARRIER AND A HEALTH
+14 SYSTEM THAT IS ENTERED INTO, RENEWED, AMENDED, OR CONTINUED ON OR AFTER
+15 OCTOBER 1, 2026, IF THE CONTRACT IS NOT RENEWED OR IS TERMINATED BY THE
+16 CARRIER OR THE HEALTH SYSTEM, THE CARRIER AND THE HEALTH SYSTEM SHALL
+17 CONTINUE TO ADHERE TO THE TERMS OF THE CONTRACT, INCLUDING
+18 REIMBURSEMENT TERMS AND PATIENT BALANCE BILLING PROTECTIONS FOR ALL
+19 HEALTH CARE SERVICES PROVIDED UNDER THE CONTRACT, FOR A PERIOD OF:
+20 1. AT LEAST 90 DAYS AFTER THE DATE OF TERMINATION;
+21 OR
+22 2. IN THE CASE OF A NONRENEWAL, AT LEAST 90 DAYS
+23 AFTER THE END OF THE CONTRACT PERIOD.
+24 (II) EXCEPT AS OTHERWISE AGREED TO BY A CARRIER AND A
+25 HEALTH SYSTEM, THE REIMBURSEMENT TERMS OF A CONTRACT ENTERED INTO BY
+26 THE CARRIER AND THE HEALTH SYSTEM DURING THE 90–DAY PERIOD SHALL BE
+27 RETROACTIVE TO:
+28 1. THE DATE OF TERMINATION; OR
+29 2. IN THE CASE OF A NONRENEWAL, THE END DATE OF
+30 THE CONTRACT PERIOD.
+SENATE BILL 521 7
+1 (III) THIS PARAGRAPH DOES NOT APPLY IF THE CARRIER AND
+2 HEALTH SYSTEM:
+3 1. AGREE, IN WRITING, TO THE TERMINATION OR
+4 NONRENEWAL OF THE CONTRACT; AND
+5 2. PROVIDE THE NOTICES REQUIRED UNDER
+6 PARAGRAPH (1) (2) OF THIS SUBSECTION.
+7 (4) THE COMMISSIONER SHALL DEVELOP A UNIFORM FORM THAT
+8 CARRIERS, PROVIDERS, AND HEALTH SYSTEMS SHALL USE FOR REQUESTS TO
+9 CONTINUE TO RECEIVE HEALTH CARE SERVICES IN ACCORDANCE WITH SUBSECTION
+10 (B) OF THIS SECTION OR 42 U.S.C. § 300GG–113.
+11 15–1316.
+12 (a) (1) In this section the following words have the meanings indicated.
+13 (2) “Dependent” means an individual who is or who may become eligible
+14 for coverage under the terms of a health benefit plan because of a relationship with another
+15 individual.
+16 (3) “Health care practitioner” has the meaning stated in § 1–301 of the
+17 Health Occupations Article.
+18 (4) “PROVIDER” MEANS A HEALTH CARE PRACTITIONER OR A
+19 HEALTH CARE FACILITY THAT PARTICIPATES ON A HEALTH BENEFIT PLAN’S
+20 PROVIDER PANEL.
+21 [(4)] (5) “Qualifying coverage in an eligible employer–sponsored plan”
+22 has the meaning stated in 45 C.F.R. § 155.300.
+23 (c) A carrier participating in the Individual Exchange shall provide:
+24 (1) the special enrollment periods specified in 45 C.F.R. § 155.420 for
+25 individuals who purchase coverage through the Individual Exchange; [and]
+26 (2) a special enrollment period for an individual who purchases coverage
+27 through the Individual Exchange if the individual or a dependent of the individual becomes
+28 pregnant, as confirmed by a health care practitioner; AND
+29 (3) A SPECIAL ENROLLMENT PERIOD FOR AN INDIVIDUAL WHO
+30 PURCHASES COVERAGE THROUGH THE INDIVIDUAL EXCHANGE IF THE INDIVIDUAL
+31 OR A DEPENDENT OF THE INDIVIDUAL IS:
+8 SENATE BILL 521
+1 (I) A PATIENT BEING TREATED ON A REGULAR BASIS BY OR AT
+2 A PROVIDER; AND
+3 (II) ENROLLED IN A HEALTH BENEFIT PLAN IN WHICH THE
+4 PROVIDER TREATING THE INDIVIDUAL OR DEPENDENT IS TERMINATED FROM THE
+5 HEALTH BENEFIT PLAN’S PROVIDER PANEL.
+6 (d) A carrier shall provide:
+7 (1) the special enrollment periods specified in 45 C.F.R. § 147.104(b)(2) for
+8 individuals who purchase coverage outside the Individual Exchange; [and]
+9 (2) a special enrollment period for an individual who purchases coverage
+10 outside the Individual Exchange if the individual or a dependent of the individual becomes
+11 pregnant, as confirmed by a health care practitioner; AND
+12 (3) A SPECIAL ENROLLMENT PERIOD FOR AN INDIVIDUAL WHO
+13 PURCHASES COVERAGE OUTSIDE THE INDIVIDUAL EXCHANGE IF THE INDIVIDUAL
+14 OR A DEPENDENT OF THE INDIVIDUAL IS:
+15 (I) A PATIENT BEING TREATED ON A REGULAR BASIS BY OR AT
+16 A PROVIDER; AND
+17 (II) ENROLLED IN A HEALTH BENEFIT PLAN IN WHICH THE
+18 PROVIDER TREATING THE INDIVIDUAL OR DEPENDENT IS TERMINATED FROM THE
+19 HEALTH BENEFIT PLAN’S PROVIDER PANEL.
+20 (e) (1) A special enrollment period described in subsection (c)(2) or (d)(2) of this
+21 section shall:
+22 [(1)] (I) be open for a period of 90 days; and
+23 [(2)] (II) begin on the date the health care practitioner confirms the
+24 pregnancy.
+25 (2) A SPECIAL ENROLLMENT PERIOD DESCRIBED IN SUBSECTION
+26 (C)(3) OR (D)(3) OF THIS SECTION SHALL:
+27 (I) BE OPEN FOR A PERIOD OF 90 DAYS; AND
+28 (II) BEGIN ON:
+29 1. THE DATE OF TERMINATION OF THE PROVIDER FROM
+30 THE HEALTH BENEFIT PLAN’S PROVIDER PANEL; OR
+SENATE BILL 521 9
+1 2. IF THE CONSUMER DID NOT RECEIVE NOTICE OF THE
+2 TERMINATION BEFORE THE TERMINATION DATE, THE DATE OF THE NOTICE OF
+3 TERMINATION.
+4 (f) (1) If an individual enrolls for coverage during one of the open enrollment
+5 periods described in subsection (b) of this section or during one of the special open
+6 enrollment periods described in subsections (c)(1) and (d)(1) of this section, coverage shall
+7 be effective in accordance with the requirements in 45 C.F.R. § 155.420.
+8 (2) If an individual enrolls for coverage or enrolls a dependent for coverage
+9 during a special enrollment period described in subsection (c)(2) or (d)(2) of this section, the
+10 coverage shall become effective on the first day of the month in which the individual
+11 receives confirmation of pregnancy.
+12 (3) IF AN INDIVIDUAL ENROLLS FOR COVERAGE OR ENROLLS A
+13 DEPENDENT FOR COVERAGE DURING A SPECIAL ENROLLMENT PERIOD DESCRIBED
+14 IN SUBSECTION (C)(3) OR (D)(3) OF THIS SECTION, THE INDIVIDUAL SHALL SELECT
+15 IF COVERAGE SHALL BECOME EFFECTIVE:
+16 (I) ON THE FIRST DAY OF THE MONTH FOLLOWING THE DATE
+17 THE HEALTH BENEFIT PLAN WAS SELECTED; OR
+18 (II) ON THE FIRST DAY OF THE MONTH IN WHICH THE
+19 TERMINATION OF THE PROVIDER ON THE HEALTH BENEFIT PLAN’S PROVIDER
+20 PANEL BECAME EFFECTIVE.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6     A H S F s p r n o t o c a t n r c p p p r c n i a c a h s i t t t t t o c c u c c r c c t p c s e p f i w a p g B  A S  A  ( B  A  S  A]
+[DELETED:  S   ( B  A S  A  ( B  A S  A  (  S T A() I,“”§NN HM  ()IA.  N R() A§1( H S S C W  Y O TA. R A 1  ( ( S t p ( o t s a c t u a p    ( e     2 n     A t t f t c p p W T P E T T P F  o t p c p t w f h c s   ;]
+[DELETED: S 3     B t h e   f ee  f ( T(() N R U P II O T  ()CRS;  ()II T M N A()I  O Y N ());  () ITEM I T D T I R F R A  ( ( T    ( i a i a n h s p o a h m    ( u b c   ( ( O f r o s ( o t s a a r a b t C    ( I t c mT O A P ORS   m     1 T S IV O TH n c c o6I T A L  D B T ; a]]
+[DELETED:  S    2 A C O T U A T I A S N U TY        2. i i t n r u i 1 o t]3 s a r t w w t c wl T V O T PH W  B D A T),N f e    ( T t  () T()VH N R U S II O   1 N T T C O I I T TRS;   2 C P A N T T O H C F O T CRS I T T P O H C F F T CRS   3 C T O T E N  D    4 R D I A I T T O TRS  0.  () H F U S II O T P I R T)   1E ]
+[DELETED: S 5   2%N   () TC$IH O M I A F O  P   II )  ( ( F p   a l pe  e    ( w pe p    ( w t pe  s pe    ( A c s r a p ce p t f h pe  a    S I A W A PRS A W ATST ,.() ( I,“”:NN HM S  ()A H A A E A W TP E P S,,  ()IAPE P ,. ( ()  C A A H S S P T O W N O A I T T A C]
+[DELETED:  S    1.() 9IA  T    2.() ,9IIIL     () I C S M A G F E T W N O A T A R U I    1 3  T    2 ,3L    ( () OO D D ,1,2   M  T A T T T O T CT IT :   1 90  N   2 ,9L     () IXM  H D   1 ;N    2 L D]
+[DELETED: S 7  () IH   1 ,E I WG T T T OT    2 T N R U   )().   T O S D A U F TS PS A H S S U F R T)42U.§3     1  ( ( I   ( “ f i   ( “ H   “PR M A H C P O A C F T P O A H B PNS   () “ c i a e e p]( h  ( A   ( t s e p s i 4 C § 1 f i a]   ( a t p ( S E P F A I W N X]
+[DELETED:  S   ()AR   ()IE I A H B P I W TNS .  ( A   ( t i a]   ( a o p ( S E P F A I W N X  ()AR   ()IE I A H B P I W TNS .  ( A s   () b] (   () b o t d t h c p c t] ( p   S E P D I S))()):  D   () 90;B  S   () :IB   1NSL ;]
+[DELETED: S 9   2 B T T DE T D O T N O  ( ( I p d i s ( o t s o d o o t s o e b   ( I d c s b e o t f d o t m i w t i r    A I E F C O E A C  D N ))())  ()OD   ()IO T F D O T M I W T O T P O T H B PNS P  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 521
+J5 6lr2522
+By: Senator Kramer
+Introduced and read first time: February 4, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 1, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Health Insurance – Material Changes to Provider Networks – Notification and
+3 Special Enrollment Period
+4 FOR the purpose of requiring certain health systems to comply with certain insurance
+5 provisions regarding notice of termination of contracts; altering the notification
+6 requirements a carrier is required to provide an enrollee regarding changes to the
+7 carrier’s provider panel; altering the notice requirements a carrier is required to
+8 provide to the Insurance Commissioner for certain material changes to the carrier’s
+9 provider panel; requiring certain notice if a carrier and health system intend to
+10 terminate certain contracts; requiring certain carriers and health systems to adhere
+11 to the terms of certain contracts under certain circumstances; requiring certain
+12 carriers to provide certain special enrollment periods for individuals who are
+13 patients of certain providers that are terminated from certain provider panels; and
+14 generally relating to material changes to carrier provider networks.
+15 BY adding to
+16 Article – Health – General
+17 Section 19–310.7
+18 Annotated Code of Maryland
+19 (2023 Replacement Volume and 2025 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – Insurance
+22 Section 15–112(b)(1)(ii)2. and, (c)(2), and (m) and 15–1316(a), (c), (d), (e), and (f)
+23 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0521*
+
+2 SENATE BILL 521
+1 (2017 Replacement Volume and 2025 Supplement)
+2 BY adding to
+3 Article – Insurance
+4 Section 15–112(b)(4) and (y)
+5 Annotated Code of Maryland
+6 (2017 Replacement Volume and 2025 Supplement)
+7 BY repealing and reenacting, without amendments,
+8 Article – Insurance
+9 Section 15–112(c)(1)
+10 Annotated Code of Maryland
+11 (2017 Replacement Volume and 2025 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Health – General
+15 19–310.7.
+16 (A) IN THIS SECTION, “HEALTH SYSTEM” HAS THE MEANING STATED IN §
+17 15–112(Y) OF THE INSURANCE ARTICLE.
+18 (B) A HEALTH SYSTEM SHALL COMPLY WITH § 15–112(Y) OF THE
+19 INSURANCE ARTICLE.
+20 Article – Insurance
+21 15–112.
+22 (b) (1) Subject to paragraph (3) of this subsection, a carrier that uses a
+23 provider panel shall:
+24 (ii) establish procedures to:
+25 2. notify an enrollee of:
+26 A. the termination from the carrier’s provider panel,
+27 INCLUDING WHEN THE PROVIDER ELECTS TO TERMINATE PARTICIPATION FROM
+28 THE PROVIDER PANEL, of the primary care provider that was furnishing health care
+29 services to the enrollee AND ANY PROVIDER OF BEHAVIORAL HEALTH CARE SERVICES
+30 FOR WHOM THE CARRIER HAS RECEIVED A CLAIM FOR SERVICES PERFORMED ON
+31 THE ENROLLEE WITHIN THE 3 MONTHS IMMEDIATELY PRECEDING THE DATE OF THE
+32 TERMINATION; and
+
+SENATE BILL 521 3
+1 B. the right of the enrollee, on request, to continue to receive
+2 health care services from the [enrollee’s primary care provider] PROVIDERS DESCRIBED
+3 IN ITEM A OF THIS ITEM for up to 90 days after the date of the notice of termination of the
+4 [enrollee’s primary care] provider from the carrier’s provider panel, if the termination was
+5 for reasons unrelated to fraud, patient abuse, incompetency, or loss of licensure status;
+6 (4) THE NOTICE REQUIRED UNDER PARAGRAPH (1)(II)2 OF THIS
+7 SUBSECTION SHALL INCLUDE:
+8 (I) CONTACT INFORMATION THAT THE ENROLLEE MAY USE TO
+9 DIRECT COMMENTS OR CONCERNS TO THE CARRIER REGARDING THE TERMINATION
+10 OF THE PROVIDER FROM THE CARRIER’S PROVIDER PANEL;
+11 (II) INSTRUCTIONS ON HOW THE ENROLLEE MAY NOTIFY THE
+12 CARRIER OF THE NEED FOR TRANSITIONAL CARE AS DESCRIBED IN PARAGRAPH
+13 (1)(II)2B OF THIS SUBSECTION BY SUBMITTING A UNIFORM FORM DEVELOPED BY
+14 THE COMMISSIONER UNDER SUBSECTION (Y)(4) OF THIS SECTION; AND
+15 (III) THE TELEPHONE NUMBER AND E–MAIL ADDRESS FOR THE
+16 OFFICE IN THE ADMINISTRATION THAT IS RESPONSIBLE FOR RECEIVING AND
+17 RESPONDING TO COMPLAINTS FROM ENROLLEES ABOUT CARRIERS.
+18 (c) (1) This subsection applies to a carrier that:
+19 (i) is an insurer, a nonprofit health service plan, or a health
+20 maintenance organization; and
+21 (ii) uses a provider panel for a health benefit plan offered by the
+22 carrier.
+23 (2) (i) On or before July 1, 2018, and annually thereafter, a carrier shall
+24 file with the Commissioner for review by the Commissioner an access plan that meets the
+25 requirements of subsection (b) of this section and any regulations adopted by the
+26 Commissioner under subsections (b) and (d) of this section.
+27 (ii) If the [carrier makes] TERMINATION OF A PROVIDER OR
+28 HEALTH CARE FACILITY FROM THE CARRIER’S PROVIDER PANEL WILL RESULT IN a
+29 material change to the access plan, the carrier shall:
+30 1. SUBJECT TO SUBPARAGRAPH (IV) OF THIS
+31 PARAGRAPH, notify the Commissioner of the [change within 15 business days after the
+32 change occurs] IMPENDING TERMINATION AT LEAST 60 DAYS BEFORE THE
+33 ANTICIPATED DATE OF TERMINATION; [and]
+
+4 SENATE BILL 521
+1 2. HAVE A CONTINUING OBLIGATION TO UPDATE AND
+2 SUPPLEMENT THE INITIAL AND SUBSEQUENT NOTIFICATIONS UNTIL THE
+3 TERMINATION IS EFFECTIVE OR AN AGREEMENT IS REACHED WITH THE PROVIDER
+4 OR HEALTH CARE FACILITY; AND
+5 [2.] 3. [include in the notice required under item 1 of this
+6 subparagraph a reasonable timeframe within which the carrier will] SUBJECT TO
+7 SUBPARAGRAPH (V) OF THIS PARAGRAPH, WITHIN 5 BUSINESS DAYS AFTER THE
+8 EFFECTIVE DATE OF THE TERMINATION, file with the Commissioner an update to the
+9 existing access plan for review by the Commissioner.
+10 (iii) The Commissioner may order corrective action if, after review,
+11 the access plan is determined not to meet the requirements of this subsection.
+12 (IV) THE NOTICE REQUIRED UNDER SUBPARAGRAPH (II)1 OF
+13 THIS PARAGRAPH SHALL BE PROVIDED IF:
+14 1. THE PROVIDER OR HEALTH CARE FACILITY PROVIDES
+15 ADVANCE NOTICE TO THE CARRIER OF ITS INTENTION TO TERMINATE
+16 PARTICIPATION IN THE CARRIER’S PROVIDER PANEL;
+17 2. THE CARRIER PROVIDES ADVANCE NOTICE TO THE
+18 PROVIDER OR HEALTH CARE FACILITY OF THE CARRIER’S INTENTION TO
+19 TERMINATE THE PROVIDER OR HEALTH CARE FACILITY FROM THE CARRIER’S
+20 PROVIDER PANEL;
+21 3. THE CURRENT TERM OF THE EXISTING NETWORK
+22 PARTICIPATION CONTRACT BETWEEN THE CARRIER AND THE PROVIDER OR HEALTH
+23 CARE FACILITY IS SET TO EXPIRE WITHIN 60 DAYS AND AN AGREEMENT TO EXTEND
+24 OR RENEW THE CONTRACT HAS NOT BEEN REACHED; OR
+25 4. THE CARRIER POSSESSES OTHER INFORMATION THAT
+26 IT REASONABLY DETERMINES IS AN INDICATION THAT TERMINATION OF THE
+27 PROVIDER OR HEALTH CARE FACILITY FROM THE CARRIER’S PROVIDER PANEL IS
+28 LIKELY IN THE NEXT 60 DAYS.
+29 (V) THE UPDATE TO THE EXISTING ACCESS PLAN REQUIRED TO
+30 BE FILED UNDER SUBPARAGRAPH (II)3 OF THIS PARAGRAPH IS REQUIRED TO
+31 INCLUDE ONLY INFORMATION RELATED TO:
+32 1. THE PROVIDER SPECIALTY TYPES AFFECTED BY THE
+33 MATERIAL CHANGE; AND
+
+SENATE BILL 521 5
+1 2. UNLESS THE NETWORK AS A WHOLE EXPERIENCED A
+2 10% REDUCTION, THE GEOGRAPHIC AREAS WHERE ENROLLEES WERE AFFECTED BY
+3 THE MATERIAL CHANGE.
+4 (VI) THE COMMISSIONER MAY IMPOSE A FINE OF $5,000 PER
+5 DAY FOR EACH DAY PAST 5 BUSINESS DAYS THAT THE CARRIER FAILS TO FILE AN
+6 UPDATE TO THE EXISTING ACCESS PLAN AS REQUIRED BY SUBPARAGRAPH (II)3 OF
+7 THIS PARAGRAPH.
+8 (m) (1) For at least 90 days after the date of the notice of termination of a
+9 primary care provider OR A PROVIDER OF BEHAVIORAL HEALTH CARE SERVICES from
+10 a carrier’s provider panel for reasons unrelated to fraud, patient abuse, incompetency, or
+11 loss of licensure status, the [primary care] provider shall furnish health care services to
+12 each enrollee:
+13 (i) who was receiving health care services from the [primary care]
+14 provider before the notice of termination; and
+15 (ii) who, after receiving notice under subsection (b) of this section of
+16 the termination of the [primary care] provider, requests to continue receiving health care
+17 services from the [primary care] provider.
+18 (2) A carrier shall reimburse a [primary care] provider that furnishes
+19 health care services under this subsection in accordance with the [primary care] provider’s
+20 agreement with the carrier.
+21 (3) A PROVIDER THAT FURNISHES HEALTH CARE SERVICES UNDER
+22 THIS SUBSECTION IN ACCORDANCE WITH A PROVIDER’S AGREEMENT WITH A
+23 CARRIER SHALL ACCEPT AS PAYMENT IN FULL FOR THE SERVICES PAYMENT FROM
+24 THE CARRIER AND COST–SHARING FROM THE PATIENT, AS APPLICABLE.
+25 (Y) (1) IN THIS SUBSECTION, “HEALTH SYSTEM” MEANS:
+26 (I) A HOSPITAL AND ANY ENTITY AFFILIATED WITH THE
+27 HOSPITAL THROUGH OWNERSHIP, GOVERNANCE, MEMBERSHIP, OR OTHER MEANS;
+28 OR
+29 (II) A PARENT CORPORATION OF ONE OR MORE HOSPITALS AND
+30 ANY ENTITY AFFILIATED WITH THE PARENT CORPORATION THROUGH OWNERSHIP,
+31 GOVERNANCE, MEMBERSHIP, OR OTHER MEANS.
+32 (2) (I) A CARRIER AND A HEALTH SYSTEM SHALL PROVIDE TO
+33 EACH OTHER WRITTEN NOTICE OF ANY INTENT TO TERMINATE A CONTRACT
+34 BETWEEN THE CARRIER AND THE HEALTH SYSTEM:
+
+6 SENATE BILL 521
+1 1. (I) AT LEAST 90 DAYS BEFORE THE PROPOSED DATE OF
+2 TERMINATION OF THE CONTRACT; OR
+3 2. (II) IN THE CASE OF A NONRENEWAL, AT LEAST 90 DAYS
+4 BEFORE THE END OF THE CONTRACT PERIOD.
+5 (II) A CARRIER SHALL MAKE A GOOD FAITH EFFORT TO
+6 PROVIDE WRITTEN NOTICE OF A TERMINATION AS REQUIRED UNDER
+7 SUBPARAGRAPH (I) OF THIS PARAGRAPH TO ALL COVERED INDIVIDUALS WHO ARE
+8 PATIENTS BEING TREATED ON A REGULAR BASIS BY OR AT THE HEALTH SYSTEM:
+9 1. AT LEAST 30 DAYS BEFORE THE PROPOSED DATE OF
+10 TERMINATION OF THE CONTRACT; OR
+11 2. IN THE CASE OF A NONRENEWAL, AT LEAST 30 DAYS
+12 BEFORE THE END OF THE CONTRACT PERIOD.
+13 (3) (I) FOR EACH CONTRACT BETWEEN A CARRIER AND A HEALTH
+14 SYSTEM THAT IS ENTERED INTO, RENEWED, AMENDED, OR CONTINUED ON OR AFTER
+15 OCTOBER 1, 2026, IF THE CONTRACT IS NOT RENEWED OR IS TERMINATED BY THE
+16 CARRIER OR THE HEALTH SYSTEM, THE CARRIER AND THE HEALTH SYSTEM SHALL
+17 CONTINUE TO ADHERE TO THE TERMS OF THE CONTRACT, INCLUDING
+18 REIMBURSEMENT TERMS AND PATIENT BALANCE BILLING PROTECTIONS FOR ALL
+19 HEALTH CARE SERVICES PROVIDED UNDER THE CONTRACT, FOR A PERIOD OF:
+20 1. AT LEAST 90 DAYS AFTER THE DATE OF TERMINATION;
+21 OR
+22 2. IN THE CASE OF A NONRENEWAL, AT LEAST 90 DAYS
+23 AFTER THE END OF THE CONTRACT PERIOD.
+24 (II) EXCEPT AS OTHERWISE AGREED TO BY A CARRIER AND A
+25 HEALTH SYSTEM, THE REIMBURSEMENT TERMS OF A CONTRACT ENTERED INTO BY
+26 THE CARRIER AND THE HEALTH SYSTEM DURING THE 90–DAY PERIOD SHALL BE
+27 RETROACTIVE TO:
+28 1. THE DATE OF TERMINATION; OR
+29 2. IN THE CASE OF A NONRENEWAL, THE END DATE OF
+30 THE CONTRACT PERIOD.
+
+SENATE BILL 521 7
+1 (III) THIS PARAGRAPH DOES NOT APPLY IF THE CARRIER AND
+2 HEALTH SYSTEM:
+3 1. AGREE, IN WRITING, TO THE TERMINATION OR
+4 NONRENEWAL OF THE CONTRACT; AND
+5 2. PROVIDE THE NOTICES REQUIRED UNDER
+6 PARAGRAPH (1) (2) OF THIS SUBSECTION.
+7 (4) THE COMMISSIONER SHALL DEVELOP A UNIFORM FORM THAT
+8 CARRIERS, PROVIDERS, AND HEALTH SYSTEMS SHALL USE FOR REQUESTS TO
+9 CONTINUE TO RECEIVE HEALTH CARE SERVICES IN ACCORDANCE WITH SUBSECTION
+10 (B) OF THIS SECTION OR 42 U.S.C. § 300GG–113.
+11 15–1316.
+12 (a) (1) In this section the following words have the meanings indicated.
+13 (2) “Dependent” means an individual who is or who may become eligible
+14 for coverage under the terms of a health benefit plan because of a relationship with another
+15 individual.
+16 (3) “Health care practitioner” has the meaning stated in § 1–301 of the
+17 Health Occupations Article.
+18 (4) “PROVIDER” MEANS A HEALTH CARE PRACTITIONER OR A
+19 HEALTH CARE FACILITY THAT PARTICIPATES ON A HEALTH BENEFIT PLAN’S
+20 PROVIDER PANEL.
+21 [(4)] (5) “Qualifying coverage in an eligible employer–sponsored plan”
+22 has the meaning stated in 45 C.F.R. § 155.300.
+23 (c) A carrier participating in the Individual Exchange shall provide:
+24 (1) the special enrollment periods specified in 45 C.F.R. § 155.420 for
+25 individuals who purchase coverage through the Individual Exchange; [and]
+26 (2) a special enrollment period for an individual who purchases coverage
+27 through the Individual Exchange if the individual or a dependent of the individual becomes
+28 pregnant, as confirmed by a health care practitioner; AND
+29 (3) A SPECIAL ENROLLMENT PERIOD FOR AN INDIVIDUAL WHO
+30 PURCHASES COVERAGE THROUGH THE INDIVIDUAL EXCHANGE IF THE INDIVIDUAL
+31 OR A DEPENDENT OF THE INDIVIDUAL IS:
+
+8 SENATE BILL 521
+1 (I) A PATIENT BEING TREATED ON A REGULAR BASIS BY OR AT
+2 A PROVIDER; AND
+3 (II) ENROLLED IN A HEALTH BENEFIT PLAN IN WHICH THE
+4 PROVIDER TREATING THE INDIVIDUAL OR DEPENDENT IS TERMINATED FROM THE
+5 HEALTH BENEFIT PLAN’S PROVIDER PANEL.
+6 (d) A carrier shall provide:
+7 (1) the special enrollment periods specified in 45 C.F.R. § 147.104(b)(2) for
+8 individuals who purchase coverage outside the Individual Exchange; [and]
+9 (2) a special enrollment period for an individual who purchases coverage
+10 outside the Individual Exchange if the individual or a dependent of the individual becomes
+11 pregnant, as confirmed by a health care practitioner; AND
+12 (3) A SPECIAL ENROLLMENT PERIOD FOR AN INDIVIDUAL WHO
+13 PURCHASES COVERAGE OUTSIDE THE INDIVIDUAL EXCHANGE IF THE INDIVIDUAL
+14 OR A DEPENDENT OF THE INDIVIDUAL IS:
+15 (I) A PATIENT BEING TREATED ON A REGULAR BASIS BY OR AT
+16 A PROVIDER; AND
+17 (II) ENROLLED IN A HEALTH BENEFIT PLAN IN WHICH THE
+18 PROVIDER TREATING THE INDIVIDUAL OR DEPENDENT IS TERMINATED FROM THE
+19 HEALTH BENEFIT PLAN’S PROVIDER PANEL.
+20 (e) (1) A special enrollment period described in subsection (c)(2) or (d)(2) of this
+21 section shall:
+22 [(1)] (I) be open for a period of 90 days; and
+23 [(2)] (II) begin on the date the health care practitioner confirms the
+24 pregnancy.
+25 (2) A SPECIAL ENROLLMENT PERIOD DESCRIBED IN SUBSECTION
+26 (C)(3) OR (D)(3) OF THIS SECTION SHALL:
+27 (I) BE OPEN FOR A PERIOD OF 90 DAYS; AND
+28 (II) BEGIN ON:
+29 1. THE DATE OF TERMINATION OF THE PROVIDER FROM
+30 THE HEALTH BENEFIT PLAN’S PROVIDER PANEL; OR
+
+SENATE BILL 521 9
+1 2. IF THE CONSUMER DID NOT RECEIVE NOTICE OF THE
+2 TERMINATION BEFORE THE TERMINATION DATE, THE DATE OF THE NOTICE OF
+3 TERMINATION.
+4 (f) (1) If an individual enrolls for coverage during one of the open enrollment
+5 periods described in subsection (b) of this section or during one of the special open
+6 enrollment periods described in subsections (c)(1) and (d)(1) of this section, coverage shall
+7 be effective in accordance with the requirements in 45 C.F.R. § 155.420.
+8 (2) If an individual enrolls for coverage or enrolls a dependent for coverage
+9 during a special enrollment period described in subsection (c)(2) or (d)(2) of this section, the
+10 coverage shall become effective on the first day of the month in which the individual
+11 receives confirmation of pregnancy.
+12 (3) IF AN INDIVIDUAL ENROLLS FOR COVERAGE OR ENROLLS A
+13 DEPENDENT FOR COVERAGE DURING A SPECIAL ENROLLMENT PERIOD DESCRIBED
+14 IN SUBSECTION (C)(3) OR (D)(3) OF THIS SECTION, THE INDIVIDUAL SHALL SELECT
+15 IF COVERAGE SHALL BECOME EFFECTIVE:
+16 (I) ON THE FIRST DAY OF THE MONTH FOLLOWING THE DATE
+17 THE HEALTH BENEFIT PLAN WAS SELECTED; OR
+18 (II) ON THE FIRST DAY OF THE MONTH IN WHICH THE
+19 TERMINATION OF THE PROVIDER ON THE HEALTH BENEFIT PLAN’S PROVIDER
+20 PANEL BECAME EFFECTIVE.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6     A H S F s p r n o t o c a t n r c p p p r c n i a c a h s i t t t t t o c c u c c r c c t p c s e p f i w a p g B  A S  A  ( B  A  S  A]
+[DELETED:  S   ( B  A S  A  ( B  A S  A  (  S T A() I,“”§NN HM  ()IA.  N R() A§1( H S S C W  Y O TA. R A 1  ( ( S t p ( o t s a c t u a p    ( e     2 n     A t t f t c p p W T P E T T P F  o t p c p t w f h c s   ;]
+[DELETED: S 3     B t h e   f ee  f ( T(() N R U P II O T  ()CRS;  ()II T M N A()I  O Y N ());  () ITEM I T D T I R F R A  ( ( T    ( i a i a n h s p o a h m    ( u b c   ( ( O f r o s ( o t s a a r a b t C    ( I t c mT O A P ORS   m     1 T S IV O TH n c c o6I T A L  D B T ; a]]
+[DELETED:  S    2 A C O T U A T I A S N U TY        2. i i t n r u i 1 o t]3 s a r t w w t c wl T V O T PH W  B D A T),N f e    ( T t  () T()VH N R U S II O   1 N T T C O I I T TRS;   2 C P A N T T O H C F O T CRS I T T P O H C F F T CRS   3 C T O T E N  D    4 R D I A I T T O TRS  0.  () H F U S II O T P I R T)   1E ]
+[DELETED: S 5   2%N   () TC$IH O M I A F O  P   II )  ( ( F p   a l pe  e    ( w pe p    ( w t pe  s pe    ( A c s r a p ce p t f h pe  a    S I A W A PRS A W ATST ,.() ( I,“”:NN HM S  ()A H A A E A W TP E P S,,  ()IAPE P ,. ( ()  C A A H S S P T O W N O A I T T A C]
+[DELETED:  S    1.() 9IA  T    2.() ,9IIIL     () I C S M A G F E T W N O A T A R U I    1 3  T    2 ,3L    ( () OO D D ,1,2   M  T A T T T O T CT IT :   1 90  N   2 ,9L     () IXM  H D   1 ;N    2 L D]
+[DELETED: S 7  () IH   1 ,E I WG T T T OT    2 T N R U   )().   T O S D A U F TS PS A H S S U F R T)42U.§3     1  ( ( I   ( “ f i   ( “ H   “PR M A H C P O A C F T P O A H B PNS   () “ c i a e e p]( h  ( A   ( t s e p s i 4 C § 1 f i a]   ( a t p ( S E P F A I W N X]
+[DELETED:  S   ()AR   ()IE I A H B P I W TNS .  ( A   ( t i a]   ( a o p ( S E P F A I W N X  ()AR   ()IE I A H B P I W TNS .  ( A s   () b] (   () b o t d t h c p c t] ( p   S E P D I S))()):  D   () 90;B  S   () :IB   1NSL ;]
+[DELETED: S 9   2 B T T DE T D O T N O  ( ( I p d i s ( o t s o d o o t s o e b   ( I d c s b e o t f d o t m i w t i r    A I E F C O E A C  D N ))())  ()OD   ()IO T F D O T M I W T O T P O T H B PNS P  S A B I F E T t A s t e O          G               ]

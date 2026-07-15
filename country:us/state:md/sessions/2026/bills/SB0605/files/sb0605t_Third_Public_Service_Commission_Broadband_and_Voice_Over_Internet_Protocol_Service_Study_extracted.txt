@@ -1,0 +1,457 @@
+Title: SENATE BILL 605
+Official Title: SENATE BILL 605
+Number of Sections: 1
+Source: versions - Third - Public Service Commission - Broadband and Voice Over Internet Protocol Service - Study
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+C5, S1 6lr2445
+CF HB 1037
+By: Senator M. Washington
+Introduced and read first time: February 5, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 19, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Public Service Commission – Broadband and Voice Over Internet Protocol
+3 Service – Oversight Study
+4 (Broadband Accountability and Affordability Act)
+5 FOR the purpose of authorizing requiring the Public Service Commission to exercise certain
+6 oversight of broadband service and voice over Internet protocol service; requiring the
+7 Commission to assess the adequacy of certain plans for each Internet service
+8 provider; authorizing the Commission to conduct certain evaluations or audits and
+9 require certain remedial action under certain circumstances; conduct a study and
+10 make recommendations on the potential scope, structure, and implementation of
+11 Commission oversight of broadband service and voice over Internet protocol service;
+12 and generally relating to broadband service and voice over Internet protocol service.
+13 BY adding to
+14 Article – Public Utilities
+15 Section 5–107
+16 Annotated Code of Maryland
+17 (2025 Replacement Volume and 2025 Supplement)
+18 BY repealing and reenacting, without amendments,
+19 Article – Public Utilities
+20 Section 8–601
+21 Annotated Code of Maryland
+22 (2025 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0605*
+2 SENATE BILL 605
+1 BY repealing and reenacting, with amendments,
+2 Article – Public Utilities
+3 Section 8–602
+4 Annotated Code of Maryland
+5 (2025 Replacement Volume and 2025 Supplement)
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
+8 (a) (1) In this section the following words have the meanings indicated.
+9 (2) (i) “Broadband service” means a mass–market retail service that
+10 provides the capability to transmit data to and receive data from all or substantially all
+11 Internet endpoints, including any capabilities that are incidental to and enable the
+12 operation of communications services provided by an Internet service provider.
+13 (ii) “Broadband service” does not include dial–up Internet service.
+14 (3) “Internet service provider” means an entity that provides broadband
+15 service to a customer in the State through any of the following modes:
+16 (i) wireline;
+17 (ii) fixed wireless;
+18 (iii) mobile wireless; or
+19 (iv) satellite.
+20 (4) (i) “Voice over Internet protocol service” or “VoIP service” means
+21 any service that:
+22 1. enables real–time two–way voice communications that
+23 originate from or terminate to the subscriber end user’s location requiring Internet protocol
+24 or any successor protocol to Internet protocol; and
+25 2. requires a broadband connection from the user’s location.
+26 (ii) “Voice over Internet protocol service” or “VoIP service” includes
+27 any service that allows users generally to receive calls that originate on the public switched
+28 telephone network and to terminate calls to the public switched telephone network.
+29 (b) The Public Service Commission shall conduct a study and make
+30 recommendations regarding the potential scope, structure, and implementation of
+31 Commission oversight of broadband service and VoIP service in the State, including
+32 considering:
+SENATE BILL 605 3
+1 (1) the extent to which federal jurisdiction preempts State regulation of
+2 broadband service and VoIP service;
+3 (2) an appropriate regulatory framework to implement oversight of
+4 broadband service and VoIP service that encompasses:
+5 (i) standards for Internet service provider resiliency and reliability,
+6 including the requirement to submit outage data;
+7 (ii) standards for Internet service provider emergency preparedness;
+8 (iii) public disclosure reporting requirements for the availability,
+9 deployment, pricing, and adoption of broadband services and VoIP services;
+10 (iv) a customer complaint process at the Commission; and
+11 (v) a publicly accessible resource that contains information on
+12 broadband services, including prices;
+13 (3) the applicability of the current regulatory framework for landline
+14 telecommunications to the regulation of broadband services and VoIP services;
+15 (4) the expected cost to the Commission to implement the appropriate
+16 regulatory framework and obtain the resources necessary to regulate broadband services
+17 and VoIP services;
+18 (5) statutory mechanisms and regulatory mechanisms utilized in other
+19 states to oversee broadband services and VoIP services; and
+20 (6) any legislative changes that must be enacted to establish the
+21 Commission’s oversight authority.
+22 (c) On or before December 31, 2026, the Public Service Commission shall report,
+23 in accordance with § 2–1257 of the State Government Article, its findings and
+24 recommendations to the Senate Committee on Education, Energy, and the Environment,
+25 the House Environment and Transportation Committee, and the General Assembly.
+26 Article – Public Utilities
+27 5–107.
+28 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+29 INDICATED.
+30 (2) (I) “BROADBAND SERVICE” MEANS A MASS–MARKET RETAIL
+31 SERVICE THAT PROVIDES THE CAPABILITY TO TRANSMIT DATA TO AND RECEIVE
+4 SENATE BILL 605
+1 DATA FROM ALL OR SUBSTANTIALLY ALL INTERNET ENDPOINTS, INCLUDING ANY
+2 CAPABILITIES THAT ARE INCIDENTAL TO AND ENABLE THE OPERATION OF
+3 COMMUNICATIONS SERVICES PROVIDED BY A WIRELINE, FIXED WIRELESS, MOBILE
+4 WIRELESS BROADBAND, OR SATELLITE SERVICE PROVIDER.
+5 (II) “BROADBAND SERVICE” DOES NOT INCLUDE DIAL–UP
+6 INTERNET SERVICE.
+7 (3) “INTERNET SERVICE PROVIDER” MEANS AN ENTITY THAT
+8 PROVIDES BROADBAND SERVICE TO A CUSTOMER IN THE STATE.
+9 (4) “VOICE OVER INTERNET PROTOCOL SERVICE” OR “VOIP
+10 SERVICE” HAS THE MEANING STATED IN § 8–601 OF THIS ARTICLE.
+11 (B) THE COMMISSION MAY EXERCISE OVERSIGHT OF BROADBAND SERVICE
+12 AND VOIP SERVICE.
+13 (C) THE COMMISSION SHALL ADOPT REGULATIONS TO IMPLEMENT
+14 EFFECTIVE OVERSIGHT OF THE QUALITY, RELIABILITY, AND RESILIENCE OF
+15 BROADBAND SERVICE AND VOIP SERVICE, INCLUDING:
+16 (1) ESTABLISHING STANDARDS TO ENSURE THE RESILIENCE AND
+17 RELIABILITY OF BROADBAND INFRASTRUCTURE;
+18 (2) REQUIRING EACH INTERNET SERVICE PROVIDER TO:
+19 (I) SUBMIT INFORMATION RELATING TO NETWORK
+20 RELIABILITY, INCLUDING REPORTING OUTAGES;
+21 (II) MAINTAIN NETWORKS SUFFICIENTLY IN ORDER TO ENSURE
+22 RELIABLE, SAFE, AND ADEQUATE SERVICES;
+23 (III) REPORT DATA ON THE AVAILABILITY, DEPLOYMENT,
+24 PRICING, AND ADOPTION OF BROADBAND SERVICES AND VOIP SERVICES; AND
+25 (IV) SUBMIT TO THE COMMISSION THE PROVIDER’S PLANS FOR
+26 EMERGENCY PREPAREDNESS AND POSTEMERGENCY NETWORK RESTORATION;
+27 (3) ESTABLISHING A SYSTEM FOR ASSESSING THE ADEQUACY OF
+28 INTERNET SERVICE PROVIDERS’ PLANS FOR EMERGENCY PREPAREDNESS AND
+29 POSTEMERGENCY NETWORK RESTORATION; AND
+SENATE BILL 605 5
+1 (4) ESTABLISHING MINIMUM REQUIREMENTS FOR BACKUP POWER
+2 GENERATION.
+3 (D) THE COMMISSION SHALL ASSESS THE ADEQUACY OF EACH INTERNET
+4 SERVICE PROVIDER’S PLAN FOR EMERGENCY PREPAREDNESS AND
+5 POSTEMERGENCY NETWORK RESTORATION IN ACCORDANCE WITH REGULATIONS
+6 ADOPTED UNDER THIS SECTION.
+7 (E) (1) ON RECEIPT OF A COMPLAINT FROM A CUSTOMER OR BASED ON
+8 DATA COLLECTED FROM PROVIDERS, THE COMMISSION MAY CONDUCT AN
+9 EVALUATION OR AUDIT OF AN INTERNET SERVICE PROVIDER’S FACILITIES AND
+10 INFRASTRUCTURE TO ASSESS SERVICE QUALITY, PUBLIC SAFETY CONCERNS, OR
+11 NETWORK RESILIENCE.
+12 (2) THE COMMISSION MAY HOLD A HEARING AS PART OF THE
+13 EVALUATION OR AUDIT AUTHORIZED UNDER PARAGRAPH (1) OF THIS SUBSECTION.
+14 (3) IF THE COMMISSION DETERMINES THAT THE PRACTICES,
+15 FACILITIES, OR SERVICES OF AN INTERNET SERVICE PROVIDER ARE UNJUST,
+16 UNREASONABLE, UNSAFE, IMPROPER, OR INADEQUATE TO ENSURE NETWORK
+17 RELIABILITY, RESILIENCE, AND PUBLIC SAFETY IN ACCORDANCE WITH THE
+18 STANDARDS ESTABLISHED UNDER SUBSECTION (C) OF THIS SECTION, THE
+19 COMMISSION MAY REQUIRE THE PROVIDER TO UNDERTAKE REMEDIAL ACTIONS.
+20 (F) ON OR BEFORE JANUARY 1, 2028, AND EACH JANUARY 1 THEREAFTER,
+21 THE COMMISSION SHALL REPORT TO THE GENERAL ASSEMBLY, IN ACCORDANCE
+22 WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, ON PROGRESS MADE
+23 TOWARD IMPROVING SERVICE QUALITY, PUBLIC SAFETY, AND NETWORK
+24 RESILIENCE.
+25 (G) (1) NOTHING IN THIS SECTION MAY BE CONSTRUED TO LIMIT ANY
+26 RIGHT OR AUTHORITY GRANTED TO THE OFFICE OF STATEWIDE BROADBAND
+27 UNDER TITLE 6.5 OF THE HOUSING AND COMMUNITY DEVELOPMENT ARTICLE.
+28 (2) THE COMMISSION MAY COORDINATE WITH THE OFFICE OF
+29 STATEWIDE BROADBAND WHEN COLLECTING DATA TO CARRY OUT THE PROVISIONS
+30 OF THIS SECTION.
+31 8–601.
+32 In this subtitle:
+33 (1) “voice over Internet protocol service” or “VoIP service” means any
+34 service that:
+6 SENATE BILL 605
+1 (i) enables real–time two–way voice communications that originate
+2 from or terminate to the subscriber end user’s location requiring Internet protocol or any
+3 successor protocol to Internet protocol; and
+4 (ii) requires a broadband connection from the user’s location; and
+5 (2) “voice over Internet protocol service” or “VoIP service” includes any
+6 such service that permits users generally to receive calls that originate on the public
+7 switched telephone network and to terminate calls to the public switched telephone
+8 network.
+9 8–602.
+10 (a) [The] EXCEPT AS PROVIDED IN § 5–107 OF THIS ARTICLE, THE
+11 Commission does not have jurisdiction over the regulation of VoIP service, including the
+12 imposition of regulatory fees, certification requirements, and the filing or approval of
+13 tariffs.
+14 (b) Nothing in this subtitle may be construed to:
+15 (1) require or prohibit the assessment of 9–1–1 fees in accordance with §
+16 1–310 of the Public Safety Article on VoIP;
+17 (2) require or prohibit the assessment of fees for telecommunications relay
+18 service under Title 3, Subtitle 8 of the State Finance and Procurement Article;
+19 (3) require or prohibit the payment of any switched network access rates
+20 or other intercarrier compensation rates that may be determined to apply;
+21 (4) relieve a company that is otherwise subject to § 8–201 of this title of its
+22 obligation to provide telephone lifeline service over local exchange access lines that are
+23 subject to the Commission’s jurisdiction;
+24 (5) exempt VoIP service from generally applicable State and federal laws
+25 relating to public safety, consumer protection, and unfair and deceptive trade practices, or
+26 to exempt VoIP service from the authority of the Division of Consumer Protection in the
+27 Office of the Attorney General; or
+28 (6) remove the Commission’s jurisdiction over circuit switched local
+29 exchange access service.
+30 (c) A company that moves a customer from a Commission–approved tariff service
+31 to VoIP service shall notify the customer that the Commission does not have jurisdiction
+32 over the regulation of VoIP service and that complaints about VoIP service may be filed
+33 with the Division of Consumer Protection in the Office of the Attorney General.
+SENATE BILL 605 7
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 October July 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6   C A P S ( F o C t a t a o c p f e I s p r m i C a B  A S  A  ( B  A S  A  (]
+[DELETED:  S  B  A S  A  (  S T  ( ( I   ( ( “ m p I e i a c t a i t a e t o    ( “   ( “ s    ( w    ( f    ( m    ( s   ( ( “ m a     1 e r t v c t o o     2 r    ( “ a t  ( T P S C s c a s a m r r t p s s a i o C o o b s a V s i t S i c]
+[DELETED: S 3   ( t b   ( a a r f t i o o b    ( s i    ( s    ( p d r r f t a d    ( a    ( a p a r t c i o b   ( t a o t c r f f l t   ( t e c t t C t i t a r a   ( s m a r m u i o s   ( a l c t m b e t e t C  ( O i a w § 2 o t S G A i f a r t A() ( N ( () “B”R SE M A MSM R T C T T A R]
+[DELETED:  S  NS  T A I T A E T O OE S D .  () “B”IR SE D N I DLU. ( “I S PR M A E T T. ( “VI”“VI O N P SE O OE    §81.() TH O O EIP.() TH O S A R T I O O T QY RY A R O O E IP,: ( S T E T R A ( I: N  ()S I R T NY ;  ()IME E S,;  () ,IR D O T AY DTG  O S VIP;  () CVS ORSN ( A S F A T A O S PS P F E P AN ]
+[DELETED: S 5 ( M R F B P() TCH O N PRS P F E P A N R I A W R() ( N C F PS T O M C A O A O A N S PRS F A T A S QY P S CS O ( T O M H A H A P O T  ). ( IC T O D T T PSS O S O A N S P A UTIE UE IR O I T E N,Y RE A P S I A W T E U S C O T SN T).() OJ1,2,J1N A    A  R O E SY GA   O T T O RE O P M27SGA I S QY P SY A N() ( O I T S M B C T L A O A G T T F O T RS I   O O E R65HCDA. ( TC O M C W T F O R 8  I   ( “ o I p s o “ s m a s]
+[DELETED:  S     ( e f s    ( r   ( “ o I p s o “ s i a s s t p u g t r c t o o t p s t n a t t c t t p s t n 8  ( Te]E§57X A P I   O T AE T C i o r f c r a t f o a o t  ( N   ( r 1   ( r s   ( r o   ( r o s   ( e r t O   ( r t C j o c s l e  ( A t o w]
+[DELETED: S 7  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 605
+C5, S1 6lr2445
+CF HB 1037
+By: Senator M. Washington
+Introduced and read first time: February 5, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 19, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Public Service Commission – Broadband and Voice Over Internet Protocol
+3 Service – Oversight Study
+4 (Broadband Accountability and Affordability Act)
+5 FOR the purpose of authorizing requiring the Public Service Commission to exercise certain
+6 oversight of broadband service and voice over Internet protocol service; requiring the
+7 Commission to assess the adequacy of certain plans for each Internet service
+8 provider; authorizing the Commission to conduct certain evaluations or audits and
+9 require certain remedial action under certain circumstances; conduct a study and
+10 make recommendations on the potential scope, structure, and implementation of
+11 Commission oversight of broadband service and voice over Internet protocol service;
+12 and generally relating to broadband service and voice over Internet protocol service.
+13 BY adding to
+14 Article – Public Utilities
+15 Section 5–107
+16 Annotated Code of Maryland
+17 (2025 Replacement Volume and 2025 Supplement)
+18 BY repealing and reenacting, without amendments,
+19 Article – Public Utilities
+20 Section 8–601
+21 Annotated Code of Maryland
+22 (2025 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0605*
+
+2 SENATE BILL 605
+1 BY repealing and reenacting, with amendments,
+2 Article – Public Utilities
+3 Section 8–602
+4 Annotated Code of Maryland
+5 (2025 Replacement Volume and 2025 Supplement)
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
+8 (a) (1) In this section the following words have the meanings indicated.
+9 (2) (i) “Broadband service” means a mass–market retail service that
+10 provides the capability to transmit data to and receive data from all or substantially all
+11 Internet endpoints, including any capabilities that are incidental to and enable the
+12 operation of communications services provided by an Internet service provider.
+13 (ii) “Broadband service” does not include dial–up Internet service.
+14 (3) “Internet service provider” means an entity that provides broadband
+15 service to a customer in the State through any of the following modes:
+16 (i) wireline;
+17 (ii) fixed wireless;
+18 (iii) mobile wireless; or
+19 (iv) satellite.
+20 (4) (i) “Voice over Internet protocol service” or “VoIP service” means
+21 any service that:
+22 1. enables real–time two–way voice communications that
+23 originate from or terminate to the subscriber end user’s location requiring Internet protocol
+24 or any successor protocol to Internet protocol; and
+25 2. requires a broadband connection from the user’s location.
+26 (ii) “Voice over Internet protocol service” or “VoIP service” includes
+27 any service that allows users generally to receive calls that originate on the public switched
+28 telephone network and to terminate calls to the public switched telephone network.
+29 (b) The Public Service Commission shall conduct a study and make
+30 recommendations regarding the potential scope, structure, and implementation of
+31 Commission oversight of broadband service and VoIP service in the State, including
+32 considering:
+
+SENATE BILL 605 3
+1 (1) the extent to which federal jurisdiction preempts State regulation of
+2 broadband service and VoIP service;
+3 (2) an appropriate regulatory framework to implement oversight of
+4 broadband service and VoIP service that encompasses:
+5 (i) standards for Internet service provider resiliency and reliability,
+6 including the requirement to submit outage data;
+7 (ii) standards for Internet service provider emergency preparedness;
+8 (iii) public disclosure reporting requirements for the availability,
+9 deployment, pricing, and adoption of broadband services and VoIP services;
+10 (iv) a customer complaint process at the Commission; and
+11 (v) a publicly accessible resource that contains information on
+12 broadband services, including prices;
+13 (3) the applicability of the current regulatory framework for landline
+14 telecommunications to the regulation of broadband services and VoIP services;
+15 (4) the expected cost to the Commission to implement the appropriate
+16 regulatory framework and obtain the resources necessary to regulate broadband services
+17 and VoIP services;
+18 (5) statutory mechanisms and regulatory mechanisms utilized in other
+19 states to oversee broadband services and VoIP services; and
+20 (6) any legislative changes that must be enacted to establish the
+21 Commission’s oversight authority.
+22 (c) On or before December 31, 2026, the Public Service Commission shall report,
+23 in accordance with § 2–1257 of the State Government Article, its findings and
+24 recommendations to the Senate Committee on Education, Energy, and the Environment,
+25 the House Environment and Transportation Committee, and the General Assembly.
+26 Article – Public Utilities
+27 5–107.
+28 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+29 INDICATED.
+30 (2) (I) “BROADBAND SERVICE” MEANS A MASS–MARKET RETAIL
+31 SERVICE THAT PROVIDES THE CAPABILITY TO TRANSMIT DATA TO AND RECEIVE
+
+4 SENATE BILL 605
+1 DATA FROM ALL OR SUBSTANTIALLY ALL INTERNET ENDPOINTS, INCLUDING ANY
+2 CAPABILITIES THAT ARE INCIDENTAL TO AND ENABLE THE OPERATION OF
+3 COMMUNICATIONS SERVICES PROVIDED BY A WIRELINE, FIXED WIRELESS, MOBILE
+4 WIRELESS BROADBAND, OR SATELLITE SERVICE PROVIDER.
+5 (II) “BROADBAND SERVICE” DOES NOT INCLUDE DIAL–UP
+6 INTERNET SERVICE.
+7 (3) “INTERNET SERVICE PROVIDER” MEANS AN ENTITY THAT
+8 PROVIDES BROADBAND SERVICE TO A CUSTOMER IN THE STATE.
+9 (4) “VOICE OVER INTERNET PROTOCOL SERVICE” OR “VOIP
+10 SERVICE” HAS THE MEANING STATED IN § 8–601 OF THIS ARTICLE.
+11 (B) THE COMMISSION MAY EXERCISE OVERSIGHT OF BROADBAND SERVICE
+12 AND VOIP SERVICE.
+13 (C) THE COMMISSION SHALL ADOPT REGULATIONS TO IMPLEMENT
+14 EFFECTIVE OVERSIGHT OF THE QUALITY, RELIABILITY, AND RESILIENCE OF
+15 BROADBAND SERVICE AND VOIP SERVICE, INCLUDING:
+16 (1) ESTABLISHING STANDARDS TO ENSURE THE RESILIENCE AND
+17 RELIABILITY OF BROADBAND INFRASTRUCTURE;
+18 (2) REQUIRING EACH INTERNET SERVICE PROVIDER TO:
+19 (I) SUBMIT INFORMATION RELATING TO NETWORK
+20 RELIABILITY, INCLUDING REPORTING OUTAGES;
+21 (II) MAINTAIN NETWORKS SUFFICIENTLY IN ORDER TO ENSURE
+22 RELIABLE, SAFE, AND ADEQUATE SERVICES;
+23 (III) REPORT DATA ON THE AVAILABILITY, DEPLOYMENT,
+24 PRICING, AND ADOPTION OF BROADBAND SERVICES AND VOIP SERVICES; AND
+25 (IV) SUBMIT TO THE COMMISSION THE PROVIDER’S PLANS FOR
+26 EMERGENCY PREPAREDNESS AND POSTEMERGENCY NETWORK RESTORATION;
+27 (3) ESTABLISHING A SYSTEM FOR ASSESSING THE ADEQUACY OF
+28 INTERNET SERVICE PROVIDERS’ PLANS FOR EMERGENCY PREPAREDNESS AND
+29 POSTEMERGENCY NETWORK RESTORATION; AND
+
+SENATE BILL 605 5
+1 (4) ESTABLISHING MINIMUM REQUIREMENTS FOR BACKUP POWER
+2 GENERATION.
+3 (D) THE COMMISSION SHALL ASSESS THE ADEQUACY OF EACH INTERNET
+4 SERVICE PROVIDER’S PLAN FOR EMERGENCY PREPAREDNESS AND
+5 POSTEMERGENCY NETWORK RESTORATION IN ACCORDANCE WITH REGULATIONS
+6 ADOPTED UNDER THIS SECTION.
+7 (E) (1) ON RECEIPT OF A COMPLAINT FROM A CUSTOMER OR BASED ON
+8 DATA COLLECTED FROM PROVIDERS, THE COMMISSION MAY CONDUCT AN
+9 EVALUATION OR AUDIT OF AN INTERNET SERVICE PROVIDER’S FACILITIES AND
+10 INFRASTRUCTURE TO ASSESS SERVICE QUALITY, PUBLIC SAFETY CONCERNS, OR
+11 NETWORK RESILIENCE.
+12 (2) THE COMMISSION MAY HOLD A HEARING AS PART OF THE
+13 EVALUATION OR AUDIT AUTHORIZED UNDER PARAGRAPH (1) OF THIS SUBSECTION.
+14 (3) IF THE COMMISSION DETERMINES THAT THE PRACTICES,
+15 FACILITIES, OR SERVICES OF AN INTERNET SERVICE PROVIDER ARE UNJUST,
+16 UNREASONABLE, UNSAFE, IMPROPER, OR INADEQUATE TO ENSURE NETWORK
+17 RELIABILITY, RESILIENCE, AND PUBLIC SAFETY IN ACCORDANCE WITH THE
+18 STANDARDS ESTABLISHED UNDER SUBSECTION (C) OF THIS SECTION, THE
+19 COMMISSION MAY REQUIRE THE PROVIDER TO UNDERTAKE REMEDIAL ACTIONS.
+20 (F) ON OR BEFORE JANUARY 1, 2028, AND EACH JANUARY 1 THEREAFTER,
+21 THE COMMISSION SHALL REPORT TO THE GENERAL ASSEMBLY, IN ACCORDANCE
+22 WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, ON PROGRESS MADE
+23 TOWARD IMPROVING SERVICE QUALITY, PUBLIC SAFETY, AND NETWORK
+24 RESILIENCE.
+25 (G) (1) NOTHING IN THIS SECTION MAY BE CONSTRUED TO LIMIT ANY
+26 RIGHT OR AUTHORITY GRANTED TO THE OFFICE OF STATEWIDE BROADBAND
+27 UNDER TITLE 6.5 OF THE HOUSING AND COMMUNITY DEVELOPMENT ARTICLE.
+28 (2) THE COMMISSION MAY COORDINATE WITH THE OFFICE OF
+29 STATEWIDE BROADBAND WHEN COLLECTING DATA TO CARRY OUT THE PROVISIONS
+30 OF THIS SECTION.
+31 8–601.
+32 In this subtitle:
+33 (1) “voice over Internet protocol service” or “VoIP service” means any
+34 service that:
+
+6 SENATE BILL 605
+1 (i) enables real–time two–way voice communications that originate
+2 from or terminate to the subscriber end user’s location requiring Internet protocol or any
+3 successor protocol to Internet protocol; and
+4 (ii) requires a broadband connection from the user’s location; and
+5 (2) “voice over Internet protocol service” or “VoIP service” includes any
+6 such service that permits users generally to receive calls that originate on the public
+7 switched telephone network and to terminate calls to the public switched telephone
+8 network.
+9 8–602.
+10 (a) [The] EXCEPT AS PROVIDED IN § 5–107 OF THIS ARTICLE, THE
+11 Commission does not have jurisdiction over the regulation of VoIP service, including the
+12 imposition of regulatory fees, certification requirements, and the filing or approval of
+13 tariffs.
+14 (b) Nothing in this subtitle may be construed to:
+15 (1) require or prohibit the assessment of 9–1–1 fees in accordance with §
+16 1–310 of the Public Safety Article on VoIP;
+17 (2) require or prohibit the assessment of fees for telecommunications relay
+18 service under Title 3, Subtitle 8 of the State Finance and Procurement Article;
+19 (3) require or prohibit the payment of any switched network access rates
+20 or other intercarrier compensation rates that may be determined to apply;
+21 (4) relieve a company that is otherwise subject to § 8–201 of this title of its
+22 obligation to provide telephone lifeline service over local exchange access lines that are
+23 subject to the Commission’s jurisdiction;
+24 (5) exempt VoIP service from generally applicable State and federal laws
+25 relating to public safety, consumer protection, and unfair and deceptive trade practices, or
+26 to exempt VoIP service from the authority of the Division of Consumer Protection in the
+27 Office of the Attorney General; or
+28 (6) remove the Commission’s jurisdiction over circuit switched local
+29 exchange access service.
+30 (c) A company that moves a customer from a Commission–approved tariff service
+31 to VoIP service shall notify the customer that the Commission does not have jurisdiction
+32 over the regulation of VoIP service and that complaints about VoIP service may be filed
+33 with the Division of Consumer Protection in the Office of the Attorney General.
+
+SENATE BILL 605 7
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 October July 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6   C A P S ( F o C t a t a o c p f e I s p r m i C a B  A S  A  ( B  A S  A  (]
+[DELETED:  S  B  A S  A  (  S T  ( ( I   ( ( “ m p I e i a c t a i t a e t o    ( “   ( “ s    ( w    ( f    ( m    ( s   ( ( “ m a     1 e r t v c t o o     2 r    ( “ a t  ( T P S C s c a s a m r r t p s s a i o C o o b s a V s i t S i c]
+[DELETED: S 3   ( t b   ( a a r f t i o o b    ( s i    ( s    ( p d r r f t a d    ( a    ( a p a r t c i o b   ( t a o t c r f f l t   ( t e c t t C t i t a r a   ( s m a r m u i o s   ( a l c t m b e t e t C  ( O i a w § 2 o t S G A i f a r t A() ( N ( () “B”R SE M A MSM R T C T T A R]
+[DELETED:  S  NS  T A I T A E T O OE S D .  () “B”IR SE D N I DLU. ( “I S PR M A E T T. ( “VI”“VI O N P SE O OE    §81.() TH O O EIP.() TH O S A R T I O O T QY RY A R O O E IP,: ( S T E T R A ( I: N  ()S I R T NY ;  ()IME E S,;  () ,IR D O T AY DTG  O S VIP;  () CVS ORSN ( A S F A T A O S PS P F E P AN ]
+[DELETED: S 5 ( M R F B P() TCH O N PRS P F E P A N R I A W R() ( N C F PS T O M C A O A O A N S PRS F A T A S QY P S CS O ( T O M H A H A P O T  ). ( IC T O D T T PSS O S O A N S P A UTIE UE IR O I T E N,Y RE A P S I A W T E U S C O T SN T).() OJ1,2,J1N A    A  R O E SY GA   O T T O RE O P M27SGA I S QY P SY A N() ( O I T S M B C T L A O A G T T F O T RS I   O O E R65HCDA. ( TC O M C W T F O R 8  I   ( “ o I p s o “ s m a s]
+[DELETED:  S     ( e f s    ( r   ( “ o I p s o “ s i a s s t p u g t r c t o o t p s t n a t t c t t p s t n 8  ( Te]E§57X A P I   O T AE T C i o r f c r a t f o a o t  ( N   ( r 1   ( r s   ( r o   ( r o s   ( e r t O   ( r t C j o c s l e  ( A t o w]
+[DELETED: S 7  S A B I F E T t A s t e O          G               ]

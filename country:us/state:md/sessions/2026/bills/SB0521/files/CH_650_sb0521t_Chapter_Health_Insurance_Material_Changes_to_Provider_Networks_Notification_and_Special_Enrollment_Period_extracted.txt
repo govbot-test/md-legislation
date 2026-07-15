@@ -1,0 +1,675 @@
+Title: (Senate Bill 521)
+Official Title: (Senate Bill 521)
+Number of Sections: 29
+Source: versions - Chapter - Health Insurance - Material Changes to Provider Networks - Notification and Special Enrollment Period
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 650
+Chapter 650
+AN ACT concerning
+Health Insurance – Material Changes to Provider Networks – Notification and
+Special Enrollment Period
+FOR the purpose of requiring certain health systems to comply with certain insurance
+provisions regarding notice of termination of contracts; altering the notification
+requirements a carrier is required to provide an enrollee regarding changes to the
+carrier’s provider panel; altering the notice requirements a carrier is required to
+provide to the Insurance Commissioner for certain material changes to the carrier’s
+provider panel; requiring certain notice if a carrier and health system intend to
+terminate certain contracts; requiring certain carriers and health systems to adhere
+to the terms of certain contracts under certain circumstances; requiring certain
+carriers to provide certain special enrollment periods for individuals who are
+patients of certain providers that are terminated from certain provider panels; and
+generally relating to material changes to carrier provider networks.
+BY adding to
+Article – Health – General
+
+Section 2:
+Section 19–310.7
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Insurance
+
+Section 3:
+Section 15–112(b)(1)(ii)2. and, (c)(2), and (m) and 15–1316(a), (c), (d), (e), and (f)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Insurance
+
+Section 4:
+Section 15–112(b)(4) and (y)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Insurance
+
+Section 5:
+Section 15–112(c)(1)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+
+Section 6:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+– 1 –
+Ch. 650 2026 LAWS OF MARYLAND
+Article – Health – General
+19–310.7.
+(A) IN THIS SECTION, “HEALTH SYSTEM” HAS THE MEANING STATED IN §
+15–112(Y) OF THE INSURANCE ARTICLE.
+(B) A HEALTH SYSTEM SHALL COMPLY WITH § 15–112(Y) OF THE
+INSURANCE ARTICLE.
+Article – Insurance
+15–112.
+(b) (1) Subject to paragraph (3) of this subsection, a carrier that uses a
+provider panel shall:
+(ii) establish procedures to:
+
+Section 7:
+2. notify an enrollee of:
+A. the termination from the carrier’s provider panel,
+INCLUDING WHEN THE PROVIDER ELECTS TO TERMINATE PARTICIPATION FROM
+THE PROVIDER PANEL, of the primary care provider that was furnishing health care
+services to the enrollee AND ANY PROVIDER OF BEHAVIORAL HEALTH CARE SERVICES
+FOR WHOM THE CARRIER HAS RECEIVED A CLAIM FOR SERVICES PERFORMED ON
+THE ENROLLEE WITHIN THE 3 MONTHS IMMEDIATELY PRECEDING THE DATE OF THE
+TERMINATION; and
+B. the right of the enrollee, on request, to continue to receive
+health care services from the [enrollee’s primary care provider] PROVIDERS DESCRIBED
+IN ITEM A OF THIS ITEM for up to 90 days after the date of the notice of termination of the
+[enrollee’s primary care] provider from the carrier’s provider panel, if the termination was
+for reasons unrelated to fraud, patient abuse, incompetency, or loss of licensure status;
+(4) THE NOTICE REQUIRED UNDER PARAGRAPH (1)(II)2 OF THIS
+SUBSECTION SHALL INCLUDE:
+(I) CONTACT INFORMATION THAT THE ENROLLEE MAY USE TO
+DIRECT COMMENTS OR CONCERNS TO THE CARRIER REGARDING THE TERMINATION
+OF THE PROVIDER FROM THE CARRIER’S PROVIDER PANEL;
+– 2 –
+WES MOORE, Governor Ch. 650
+(II) INSTRUCTIONS ON HOW THE ENROLLEE MAY NOTIFY THE
+CARRIER OF THE NEED FOR TRANSITIONAL CARE AS DESCRIBED IN PARAGRAPH
+(1)(II)2B OF THIS SUBSECTION BY SUBMITTING A UNIFORM FORM DEVELOPED BY
+THE COMMISSIONER UNDER SUBSECTION (Y)(4) OF THIS SECTION; AND
+(III) THE TELEPHONE NUMBER AND E–MAIL ADDRESS FOR THE
+OFFICE IN THE ADMINISTRATION THAT IS RESPONSIBLE FOR RECEIVING AND
+RESPONDING TO COMPLAINTS FROM ENROLLEES ABOUT CARRIERS.
+(c) (1) This subsection applies to a carrier that:
+(i) is an insurer, a nonprofit health service plan, or a health
+maintenance organization; and
+(ii) uses a provider panel for a health benefit plan offered by the
+carrier.
+(2) (i) On or before July 1, 2018, and annually thereafter, a carrier shall
+file with the Commissioner for review by the Commissioner an access plan that meets the
+requirements of subsection (b) of this section and any regulations adopted by the
+Commissioner under subsections (b) and (d) of this section.
+(ii) If the [carrier makes] TERMINATION OF A PROVIDER OR
+HEALTH CARE FACILITY FROM THE CARRIER’S PROVIDER PANEL WILL RESULT IN a
+material change to the access plan, the carrier shall:
+
+Section 8:
+1. SUBJECT TO SUBPARAGRAPH (IV) OF THIS
+PARAGRAPH, notify the Commissioner of the [change within 15 business days after the
+change occurs] IMPENDING TERMINATION AT LEAST 60 DAYS BEFORE THE
+ANTICIPATED DATE OF TERMINATION; [and]
+
+Section 9:
+2. HAVE A CONTINUING OBLIGATION TO UPDATE AND
+SUPPLEMENT THE INITIAL AND SUBSEQUENT NOTIFICATIONS UNTIL THE
+TERMINATION IS EFFECTIVE OR AN AGREEMENT IS REACHED WITH THE PROVIDER
+OR HEALTH CARE FACILITY; AND
+[2.] 3. [include in the notice required under item 1 of this
+subparagraph a reasonable timeframe within which the carrier will] SUBJECT TO
+SUBPARAGRAPH (V) OF THIS PARAGRAPH, WITHIN 5 BUSINESS DAYS AFTER THE
+EFFECTIVE DATE OF THE TERMINATION, file with the Commissioner an update to the
+existing access plan for review by the Commissioner.
+(iii) The Commissioner may order corrective action if, after review,
+the access plan is determined not to meet the requirements of this subsection.
+– 3 –
+Ch. 650 2026 LAWS OF MARYLAND
+(IV) THE NOTICE REQUIRED UNDER SUBPARAGRAPH (II)1 OF
+THIS PARAGRAPH SHALL BE PROVIDED IF:
+
+Section 10:
+1. THE PROVIDER OR HEALTH CARE FACILITY PROVIDES
+ADVANCE NOTICE TO THE CARRIER OF ITS INTENTION TO TERMINATE
+PARTICIPATION IN THE CARRIER’S PROVIDER PANEL;
+
+Section 11:
+2. THE CARRIER PROVIDES ADVANCE NOTICE TO THE
+PROVIDER OR HEALTH CARE FACILITY OF THE CARRIER’S INTENTION TO
+TERMINATE THE PROVIDER OR HEALTH CARE FACILITY FROM THE CARRIER’S
+PROVIDER PANEL;
+
+Section 12:
+3. THE CURRENT TERM OF THE EXISTING NETWORK
+PARTICIPATION CONTRACT BETWEEN THE CARRIER AND THE PROVIDER OR HEALTH
+CARE FACILITY IS SET TO EXPIRE WITHIN 60 DAYS AND AN AGREEMENT TO EXTEND
+OR RENEW THE CONTRACT HAS NOT BEEN REACHED; OR
+
+Section 13:
+4. THE CARRIER POSSESSES OTHER INFORMATION THAT
+IT REASONABLY DETERMINES IS AN INDICATION THAT TERMINATION OF THE
+PROVIDER OR HEALTH CARE FACILITY FROM THE CARRIER’S PROVIDER PANEL IS
+LIKELY IN THE NEXT 60 DAYS.
+(V) THE UPDATE TO THE EXISTING ACCESS PLAN REQUIRED TO
+BE FILED UNDER SUBPARAGRAPH (II)3 OF THIS PARAGRAPH IS REQUIRED TO
+INCLUDE ONLY INFORMATION RELATED TO:
+
+Section 14:
+1. THE PROVIDER SPECIALTY TYPES AFFECTED BY THE
+MATERIAL CHANGE; AND
+
+Section 15:
+2. UNLESS THE NETWORK AS A WHOLE EXPERIENCED A
+10% REDUCTION, THE GEOGRAPHIC AREAS WHERE ENROLLEES WERE AFFECTED BY
+THE MATERIAL CHANGE.
+(VI) THE COMMISSIONER MAY IMPOSE A FINE OF $5,000 PER
+DAY FOR EACH DAY PAST 5 BUSINESS DAYS THAT THE CARRIER FAILS TO FILE AN
+UPDATE TO THE EXISTING ACCESS PLAN AS REQUIRED BY SUBPARAGRAPH (II)3 OF
+THIS PARAGRAPH.
+(m) (1) For at least 90 days after the date of the notice of termination of a
+primary care provider OR A PROVIDER OF BEHAVIORAL HEALTH CARE SERVICES from
+a carrier’s provider panel for reasons unrelated to fraud, patient abuse, incompetency, or
+loss of licensure status, the [primary care] provider shall furnish health care services to
+each enrollee:
+– 4 –
+WES MOORE, Governor Ch. 650
+(i) who was receiving health care services from the [primary care]
+provider before the notice of termination; and
+(ii) who, after receiving notice under subsection (b) of this section of
+the termination of the [primary care] provider, requests to continue receiving health care
+services from the [primary care] provider.
+(2) A carrier shall reimburse a [primary care] provider that furnishes
+health care services under this subsection in accordance with the [primary care] provider’s
+agreement with the carrier.
+(3) A PROVIDER THAT FURNISHES HEALTH CARE SERVICES UNDER
+THIS SUBSECTION IN ACCORDANCE WITH A PROVIDER’S AGREEMENT WITH A
+CARRIER SHALL ACCEPT AS PAYMENT IN FULL FOR THE SERVICES PAYMENT FROM
+THE CARRIER AND COST–SHARING FROM THE PATIENT, AS APPLICABLE.
+(Y) (1) IN THIS SUBSECTION, “HEALTH SYSTEM” MEANS:
+(I) A HOSPITAL AND ANY ENTITY AFFILIATED WITH THE
+HOSPITAL THROUGH OWNERSHIP, GOVERNANCE, MEMBERSHIP, OR OTHER MEANS;
+OR
+(II) A PARENT CORPORATION OF ONE OR MORE HOSPITALS AND
+ANY ENTITY AFFILIATED WITH THE PARENT CORPORATION THROUGH OWNERSHIP,
+GOVERNANCE, MEMBERSHIP, OR OTHER MEANS.
+(2) (I) A CARRIER AND A HEALTH SYSTEM SHALL PROVIDE TO
+EACH OTHER WRITTEN NOTICE OF ANY INTENT TO TERMINATE A CONTRACT
+BETWEEN THE CARRIER AND THE HEALTH SYSTEM:
+
+Section 16:
+1. (I) AT LEAST 90 DAYS BEFORE THE PROPOSED DATE OF
+TERMINATION OF THE CONTRACT; OR
+
+Section 17:
+2. (II) IN THE CASE OF A NONRENEWAL, AT LEAST 90 DAYS
+BEFORE THE END OF THE CONTRACT PERIOD.
+(II) A CARRIER SHALL MAKE A GOOD FAITH EFFORT TO
+PROVIDE WRITTEN NOTICE OF A TERMINATION AS REQUIRED UNDER
+SUBPARAGRAPH (I) OF THIS PARAGRAPH TO ALL COVERED INDIVIDUALS WHO ARE
+PATIENTS BEING TREATED ON A REGULAR BASIS BY OR AT THE HEALTH SYSTEM:
+– 5 –
+Ch. 650 2026 LAWS OF MARYLAND
+
+Section 18:
+1. AT LEAST 30 DAYS BEFORE THE PROPOSED DATE OF
+TERMINATION OF THE CONTRACT; OR
+
+Section 19:
+2. IN THE CASE OF A NONRENEWAL, AT LEAST 30 DAYS
+BEFORE THE END OF THE CONTRACT PERIOD.
+(3) (I) FOR EACH CONTRACT BETWEEN A CARRIER AND A HEALTH
+SYSTEM THAT IS ENTERED INTO, RENEWED, AMENDED, OR CONTINUED ON OR AFTER
+OCTOBER 1, 2026, IF THE CONTRACT IS NOT RENEWED OR IS TERMINATED BY THE
+CARRIER OR THE HEALTH SYSTEM, THE CARRIER AND THE HEALTH SYSTEM SHALL
+CONTINUE TO ADHERE TO THE TERMS OF THE CONTRACT, INCLUDING
+REIMBURSEMENT TERMS AND PATIENT BALANCE BILLING PROTECTIONS FOR ALL
+HEALTH CARE SERVICES PROVIDED UNDER THE CONTRACT, FOR A PERIOD OF:
+
+Section 20:
+1. AT LEAST 90 DAYS AFTER THE DATE OF TERMINATION;
+OR
+
+Section 21:
+2. IN THE CASE OF A NONRENEWAL, AT LEAST 90 DAYS
+AFTER THE END OF THE CONTRACT PERIOD.
+(II) EXCEPT AS OTHERWISE AGREED TO BY A CARRIER AND A
+HEALTH SYSTEM, THE REIMBURSEMENT TERMS OF A CONTRACT ENTERED INTO BY
+THE CARRIER AND THE HEALTH SYSTEM DURING THE 90–DAY PERIOD SHALL BE
+RETROACTIVE TO:
+
+Section 22:
+1. THE DATE OF TERMINATION; OR
+
+Section 23:
+2. IN THE CASE OF A NONRENEWAL, THE END DATE OF
+THE CONTRACT PERIOD.
+(III) THIS PARAGRAPH DOES NOT APPLY IF THE CARRIER AND
+HEALTH SYSTEM:
+
+Section 24:
+1. AGREE, IN WRITING, TO THE TERMINATION OR
+NONRENEWAL OF THE CONTRACT; AND
+
+Section 25:
+2. PROVIDE THE NOTICES REQUIRED UNDER
+PARAGRAPH (1) (2) OF THIS SUBSECTION.
+(4) THE COMMISSIONER SHALL DEVELOP A UNIFORM FORM THAT
+CARRIERS, PROVIDERS, AND HEALTH SYSTEMS SHALL USE FOR REQUESTS TO
+CONTINUE TO RECEIVE HEALTH CARE SERVICES IN ACCORDANCE WITH SUBSECTION
+(B) OF THIS SECTION OR 42 U.S.C. § 300GG–113.
+– 6 –
+WES MOORE, Governor Ch. 650
+15–1316.
+(a) (1) In this section the following words have the meanings indicated.
+(2) “Dependent” means an individual who is or who may become eligible
+for coverage under the terms of a health benefit plan because of a relationship with another
+individual.
+(3) “Health care practitioner” has the meaning stated in § 1–301 of the
+Health Occupations Article.
+(4) “PROVIDER” MEANS A HEALTH CARE PRACTITIONER OR A
+HEALTH CARE FACILITY THAT PARTICIPATES ON A HEALTH BENEFIT PLAN’S
+PROVIDER PANEL.
+[(4)] (5) “Qualifying coverage in an eligible employer–sponsored plan”
+has the meaning stated in 45 C.F.R. § 155.300.
+(c) A carrier participating in the Individual Exchange shall provide:
+(1) the special enrollment periods specified in 45 C.F.R. § 155.420 for
+individuals who purchase coverage through the Individual Exchange; [and]
+(2) a special enrollment period for an individual who purchases coverage
+through the Individual Exchange if the individual or a dependent of the individual becomes
+pregnant, as confirmed by a health care practitioner; AND
+(3) A SPECIAL ENROLLMENT PERIOD FOR AN INDIVIDUAL WHO
+PURCHASES COVERAGE THROUGH THE INDIVIDUAL EXCHANGE IF THE INDIVIDUAL
+OR A DEPENDENT OF THE INDIVIDUAL IS:
+(I) A PATIENT BEING TREATED ON A REGULAR BASIS BY OR AT
+A PROVIDER; AND
+(II) ENROLLED IN A HEALTH BENEFIT PLAN IN WHICH THE
+PROVIDER TREATING THE INDIVIDUAL OR DEPENDENT IS TERMINATED FROM THE
+HEALTH BENEFIT PLAN’S PROVIDER PANEL.
+(d) A carrier shall provide:
+(1) the special enrollment periods specified in 45 C.F.R. § 147.104(b)(2) for
+individuals who purchase coverage outside the Individual Exchange; [and]
+– 7 –
+Ch. 650 2026 LAWS OF MARYLAND
+(2) a special enrollment period for an individual who purchases coverage
+outside the Individual Exchange if the individual or a dependent of the individual becomes
+pregnant, as confirmed by a health care practitioner; AND
+(3) A SPECIAL ENROLLMENT PERIOD FOR AN INDIVIDUAL WHO
+PURCHASES COVERAGE OUTSIDE THE INDIVIDUAL EXCHANGE IF THE INDIVIDUAL
+OR A DEPENDENT OF THE INDIVIDUAL IS:
+(I) A PATIENT BEING TREATED ON A REGULAR BASIS BY OR AT
+A PROVIDER; AND
+(II) ENROLLED IN A HEALTH BENEFIT PLAN IN WHICH THE
+PROVIDER TREATING THE INDIVIDUAL OR DEPENDENT IS TERMINATED FROM THE
+HEALTH BENEFIT PLAN’S PROVIDER PANEL.
+(e) (1) A special enrollment period described in subsection (c)(2) or (d)(2) of this
+
+Section 26:
+section shall:
+[(1)] (I) be open for a period of 90 days; and
+[(2)] (II) begin on the date the health care practitioner confirms the
+pregnancy.
+(2) A SPECIAL ENROLLMENT PERIOD DESCRIBED IN SUBSECTION
+(C)(3) OR (D)(3) OF THIS SECTION SHALL:
+(I) BE OPEN FOR A PERIOD OF 90 DAYS; AND
+(II) BEGIN ON:
+
+Section 27:
+1. THE DATE OF TERMINATION OF THE PROVIDER FROM
+THE HEALTH BENEFIT PLAN’S PROVIDER PANEL; OR
+
+Section 28:
+2. IF THE CONSUMER DID NOT RECEIVE NOTICE OF THE
+TERMINATION BEFORE THE TERMINATION DATE, THE DATE OF THE NOTICE OF
+TERMINATION.
+(f) (1) If an individual enrolls for coverage during one of the open enrollment
+periods described in subsection (b) of this section or during one of the special open
+enrollment periods described in subsections (c)(1) and (d)(1) of this section, coverage shall
+be effective in accordance with the requirements in 45 C.F.R. § 155.420.
+(2) If an individual enrolls for coverage or enrolls a dependent for coverage
+during a special enrollment period described in subsection (c)(2) or (d)(2) of this section, the
+– 8 –
+WES MOORE, Governor Ch. 650
+coverage shall become effective on the first day of the month in which the individual
+receives confirmation of pregnancy.
+(3) IF AN INDIVIDUAL ENROLLS FOR COVERAGE OR ENROLLS A
+DEPENDENT FOR COVERAGE DURING A SPECIAL ENROLLMENT PERIOD DESCRIBED
+IN SUBSECTION (C)(3) OR (D)(3) OF THIS SECTION, THE INDIVIDUAL SHALL SELECT
+IF COVERAGE SHALL BECOME EFFECTIVE:
+(I) ON THE FIRST DAY OF THE MONTH FOLLOWING THE DATE
+THE HEALTH BENEFIT PLAN WAS SELECTED; OR
+(II) ON THE FIRST DAY OF THE MONTH IN WHICH THE
+TERMINATION OF THE PROVIDER ON THE HEALTH BENEFIT PLAN’S PROVIDER
+PANEL BECAME EFFECTIVE.
+
+Section 29:
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, May 26, 2026.
+– 9 –
+[DELETED: W C r n o t o c a t n p r c n i a c a h s i t t t o c c u c c r c t p c s e p f i w aAA(ASA(AA(AA(S]
+[DELETED:  2 () I,“”§NN HM  ()IA.  N R() A§1( H S S C W  Y O TA. R( ( S t p ( o t s a c t u a  ( e   2 n   A t t f t c p p W T P E T T P Fo t p c p t w f h c     B t e  e  ( T(() N R U P II O T  ()CRS;]
+[DELETED: W C  ()II T M N A()I  O Y N ());  () ITEM I T D T I R F R A( ( T  ( i a i a n h s p o a h  ( u ( ( O o s ( o t s a a r a b t  ( I t c mT O A P ORS   1 T S IV O TH c o6I T A L  D B T a]   2 A C O T U A T I A S N U TY    2. i i t n r u i 1 o t]3 a r t w w t c wl T V O T PH W  B D A T),N  ( T]
+[DELETED:  2   () T()VH N R U S II O   1 N T T C O I I T TRS;   2 C P A N T T O H C F O T CRS I T T P O H C F F T CRS   3 C T O T E N  D    4 R D I A I T T O TRS  0.  () H F U S II O T P I R T)   1E    2%N   () TC$IH O M I A F O  P   II )( ( F   pe ]
+[DELETED: W C  ( w pe  ( w pe  pe  ( A c s r a p ce p t f pe   S I A W A PRS A W ATST ,.() ( I,“”:NN HM S  ()A H A A E A W TP E P S,,  ()IAPE P ,. ( ()  C A A H S S P T O W N O A I T T A C   1.() 9IA  T    2.() ,9IIIL     () I C S M A G F E T W N O A T A R U I ]
+[DELETED:  2    1 3  T    2 ,3L    ( () OO D D ,1,2   M  T A T T T O T CT IT :   1 90  N   2 ,9L     () IXM  H D   1 ;N    2 L D  () IH   1 ,E I WG T T T OT    2 T N R U   )(). T O S D A U F TS PS A H S S U F R T)42U.§3    ]
+[DELETED: W C( ( I ( “ ( “ “PR M A H C P O A C F T P O A H B PNS () “ c i a e e p](( A ( t s e p s i 4 C § 1 f a] ( a ( S E P F A I W N X  ()AR   ()IE I A H B P I W TNS( A ( t a]]
+[DELETED:  2  ( a ( S E P F A I W N X  ()AR   ()IE I A H B P I W TNS( A () b] ( () b o t d t h c p c t] ( S E P D I S))()):  D   () 90;B  S   () :IB   1NSL ;   2 B T T DE T D O T N O( ( I d i s ( o t s o d o o t s o ( I]
+[DELETED: W C s b e o t f d o t m i w t i  A I E F C O E A C  D N ))())  ()OD   ()IO T F D O T M I W T O T P O T H B PNS PS A B I F E T t A s t e]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 650
+Chapter 650
+(Senate Bill 521)
+AN ACT concerning
+Health Insurance – Material Changes to Provider Networks – Notification and
+Special Enrollment Period
+FOR the purpose of requiring certain health systems to comply with certain insurance
+provisions regarding notice of termination of contracts; altering the notification
+requirements a carrier is required to provide an enrollee regarding changes to the
+carrier’s provider panel; altering the notice requirements a carrier is required to
+provide to the Insurance Commissioner for certain material changes to the carrier’s
+provider panel; requiring certain notice if a carrier and health system intend to
+terminate certain contracts; requiring certain carriers and health systems to adhere
+to the terms of certain contracts under certain circumstances; requiring certain
+carriers to provide certain special enrollment periods for individuals who are
+patients of certain providers that are terminated from certain provider panels; and
+generally relating to material changes to carrier provider networks.
+BY adding to
+Article – Health – General
+Section 19–310.7
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Insurance
+Section 15–112(b)(1)(ii)2. and, (c)(2), and (m) and 15–1316(a), (c), (d), (e), and (f)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Insurance
+Section 15–112(b)(4) and (y)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Insurance
+Section 15–112(c)(1)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+– 1 –
+
+Ch. 650 2026 LAWS OF MARYLAND
+Article – Health – General
+19–310.7.
+(A) IN THIS SECTION, “HEALTH SYSTEM” HAS THE MEANING STATED IN §
+15–112(Y) OF THE INSURANCE ARTICLE.
+(B) A HEALTH SYSTEM SHALL COMPLY WITH § 15–112(Y) OF THE
+INSURANCE ARTICLE.
+Article – Insurance
+15–112.
+(b) (1) Subject to paragraph (3) of this subsection, a carrier that uses a
+provider panel shall:
+(ii) establish procedures to:
+2. notify an enrollee of:
+A. the termination from the carrier’s provider panel,
+INCLUDING WHEN THE PROVIDER ELECTS TO TERMINATE PARTICIPATION FROM
+THE PROVIDER PANEL, of the primary care provider that was furnishing health care
+services to the enrollee AND ANY PROVIDER OF BEHAVIORAL HEALTH CARE SERVICES
+FOR WHOM THE CARRIER HAS RECEIVED A CLAIM FOR SERVICES PERFORMED ON
+THE ENROLLEE WITHIN THE 3 MONTHS IMMEDIATELY PRECEDING THE DATE OF THE
+TERMINATION; and
+B. the right of the enrollee, on request, to continue to receive
+health care services from the [enrollee’s primary care provider] PROVIDERS DESCRIBED
+IN ITEM A OF THIS ITEM for up to 90 days after the date of the notice of termination of the
+[enrollee’s primary care] provider from the carrier’s provider panel, if the termination was
+for reasons unrelated to fraud, patient abuse, incompetency, or loss of licensure status;
+(4) THE NOTICE REQUIRED UNDER PARAGRAPH (1)(II)2 OF THIS
+SUBSECTION SHALL INCLUDE:
+(I) CONTACT INFORMATION THAT THE ENROLLEE MAY USE TO
+DIRECT COMMENTS OR CONCERNS TO THE CARRIER REGARDING THE TERMINATION
+OF THE PROVIDER FROM THE CARRIER’S PROVIDER PANEL;
+– 2 –
+
+WES MOORE, Governor Ch. 650
+(II) INSTRUCTIONS ON HOW THE ENROLLEE MAY NOTIFY THE
+CARRIER OF THE NEED FOR TRANSITIONAL CARE AS DESCRIBED IN PARAGRAPH
+(1)(II)2B OF THIS SUBSECTION BY SUBMITTING A UNIFORM FORM DEVELOPED BY
+THE COMMISSIONER UNDER SUBSECTION (Y)(4) OF THIS SECTION; AND
+(III) THE TELEPHONE NUMBER AND E–MAIL ADDRESS FOR THE
+OFFICE IN THE ADMINISTRATION THAT IS RESPONSIBLE FOR RECEIVING AND
+RESPONDING TO COMPLAINTS FROM ENROLLEES ABOUT CARRIERS.
+(c) (1) This subsection applies to a carrier that:
+(i) is an insurer, a nonprofit health service plan, or a health
+maintenance organization; and
+(ii) uses a provider panel for a health benefit plan offered by the
+carrier.
+(2) (i) On or before July 1, 2018, and annually thereafter, a carrier shall
+file with the Commissioner for review by the Commissioner an access plan that meets the
+requirements of subsection (b) of this section and any regulations adopted by the
+Commissioner under subsections (b) and (d) of this section.
+(ii) If the [carrier makes] TERMINATION OF A PROVIDER OR
+HEALTH CARE FACILITY FROM THE CARRIER’S PROVIDER PANEL WILL RESULT IN a
+material change to the access plan, the carrier shall:
+1. SUBJECT TO SUBPARAGRAPH (IV) OF THIS
+PARAGRAPH, notify the Commissioner of the [change within 15 business days after the
+change occurs] IMPENDING TERMINATION AT LEAST 60 DAYS BEFORE THE
+ANTICIPATED DATE OF TERMINATION; [and]
+2. HAVE A CONTINUING OBLIGATION TO UPDATE AND
+SUPPLEMENT THE INITIAL AND SUBSEQUENT NOTIFICATIONS UNTIL THE
+TERMINATION IS EFFECTIVE OR AN AGREEMENT IS REACHED WITH THE PROVIDER
+OR HEALTH CARE FACILITY; AND
+[2.] 3. [include in the notice required under item 1 of this
+subparagraph a reasonable timeframe within which the carrier will] SUBJECT TO
+SUBPARAGRAPH (V) OF THIS PARAGRAPH, WITHIN 5 BUSINESS DAYS AFTER THE
+EFFECTIVE DATE OF THE TERMINATION, file with the Commissioner an update to the
+existing access plan for review by the Commissioner.
+(iii) The Commissioner may order corrective action if, after review,
+the access plan is determined not to meet the requirements of this subsection.
+– 3 –
+
+Ch. 650 2026 LAWS OF MARYLAND
+(IV) THE NOTICE REQUIRED UNDER SUBPARAGRAPH (II)1 OF
+THIS PARAGRAPH SHALL BE PROVIDED IF:
+1. THE PROVIDER OR HEALTH CARE FACILITY PROVIDES
+ADVANCE NOTICE TO THE CARRIER OF ITS INTENTION TO TERMINATE
+PARTICIPATION IN THE CARRIER’S PROVIDER PANEL;
+2. THE CARRIER PROVIDES ADVANCE NOTICE TO THE
+PROVIDER OR HEALTH CARE FACILITY OF THE CARRIER’S INTENTION TO
+TERMINATE THE PROVIDER OR HEALTH CARE FACILITY FROM THE CARRIER’S
+PROVIDER PANEL;
+3. THE CURRENT TERM OF THE EXISTING NETWORK
+PARTICIPATION CONTRACT BETWEEN THE CARRIER AND THE PROVIDER OR HEALTH
+CARE FACILITY IS SET TO EXPIRE WITHIN 60 DAYS AND AN AGREEMENT TO EXTEND
+OR RENEW THE CONTRACT HAS NOT BEEN REACHED; OR
+4. THE CARRIER POSSESSES OTHER INFORMATION THAT
+IT REASONABLY DETERMINES IS AN INDICATION THAT TERMINATION OF THE
+PROVIDER OR HEALTH CARE FACILITY FROM THE CARRIER’S PROVIDER PANEL IS
+LIKELY IN THE NEXT 60 DAYS.
+(V) THE UPDATE TO THE EXISTING ACCESS PLAN REQUIRED TO
+BE FILED UNDER SUBPARAGRAPH (II)3 OF THIS PARAGRAPH IS REQUIRED TO
+INCLUDE ONLY INFORMATION RELATED TO:
+1. THE PROVIDER SPECIALTY TYPES AFFECTED BY THE
+MATERIAL CHANGE; AND
+2. UNLESS THE NETWORK AS A WHOLE EXPERIENCED A
+10% REDUCTION, THE GEOGRAPHIC AREAS WHERE ENROLLEES WERE AFFECTED BY
+THE MATERIAL CHANGE.
+(VI) THE COMMISSIONER MAY IMPOSE A FINE OF $5,000 PER
+DAY FOR EACH DAY PAST 5 BUSINESS DAYS THAT THE CARRIER FAILS TO FILE AN
+UPDATE TO THE EXISTING ACCESS PLAN AS REQUIRED BY SUBPARAGRAPH (II)3 OF
+THIS PARAGRAPH.
+(m) (1) For at least 90 days after the date of the notice of termination of a
+primary care provider OR A PROVIDER OF BEHAVIORAL HEALTH CARE SERVICES from
+a carrier’s provider panel for reasons unrelated to fraud, patient abuse, incompetency, or
+loss of licensure status, the [primary care] provider shall furnish health care services to
+each enrollee:
+– 4 –
+
+WES MOORE, Governor Ch. 650
+(i) who was receiving health care services from the [primary care]
+provider before the notice of termination; and
+(ii) who, after receiving notice under subsection (b) of this section of
+the termination of the [primary care] provider, requests to continue receiving health care
+services from the [primary care] provider.
+(2) A carrier shall reimburse a [primary care] provider that furnishes
+health care services under this subsection in accordance with the [primary care] provider’s
+agreement with the carrier.
+(3) A PROVIDER THAT FURNISHES HEALTH CARE SERVICES UNDER
+THIS SUBSECTION IN ACCORDANCE WITH A PROVIDER’S AGREEMENT WITH A
+CARRIER SHALL ACCEPT AS PAYMENT IN FULL FOR THE SERVICES PAYMENT FROM
+THE CARRIER AND COST–SHARING FROM THE PATIENT, AS APPLICABLE.
+(Y) (1) IN THIS SUBSECTION, “HEALTH SYSTEM” MEANS:
+(I) A HOSPITAL AND ANY ENTITY AFFILIATED WITH THE
+HOSPITAL THROUGH OWNERSHIP, GOVERNANCE, MEMBERSHIP, OR OTHER MEANS;
+OR
+(II) A PARENT CORPORATION OF ONE OR MORE HOSPITALS AND
+ANY ENTITY AFFILIATED WITH THE PARENT CORPORATION THROUGH OWNERSHIP,
+GOVERNANCE, MEMBERSHIP, OR OTHER MEANS.
+(2) (I) A CARRIER AND A HEALTH SYSTEM SHALL PROVIDE TO
+EACH OTHER WRITTEN NOTICE OF ANY INTENT TO TERMINATE A CONTRACT
+BETWEEN THE CARRIER AND THE HEALTH SYSTEM:
+1. (I) AT LEAST 90 DAYS BEFORE THE PROPOSED DATE OF
+TERMINATION OF THE CONTRACT; OR
+2. (II) IN THE CASE OF A NONRENEWAL, AT LEAST 90 DAYS
+BEFORE THE END OF THE CONTRACT PERIOD.
+(II) A CARRIER SHALL MAKE A GOOD FAITH EFFORT TO
+PROVIDE WRITTEN NOTICE OF A TERMINATION AS REQUIRED UNDER
+SUBPARAGRAPH (I) OF THIS PARAGRAPH TO ALL COVERED INDIVIDUALS WHO ARE
+PATIENTS BEING TREATED ON A REGULAR BASIS BY OR AT THE HEALTH SYSTEM:
+– 5 –
+
+Ch. 650 2026 LAWS OF MARYLAND
+1. AT LEAST 30 DAYS BEFORE THE PROPOSED DATE OF
+TERMINATION OF THE CONTRACT; OR
+2. IN THE CASE OF A NONRENEWAL, AT LEAST 30 DAYS
+BEFORE THE END OF THE CONTRACT PERIOD.
+(3) (I) FOR EACH CONTRACT BETWEEN A CARRIER AND A HEALTH
+SYSTEM THAT IS ENTERED INTO, RENEWED, AMENDED, OR CONTINUED ON OR AFTER
+OCTOBER 1, 2026, IF THE CONTRACT IS NOT RENEWED OR IS TERMINATED BY THE
+CARRIER OR THE HEALTH SYSTEM, THE CARRIER AND THE HEALTH SYSTEM SHALL
+CONTINUE TO ADHERE TO THE TERMS OF THE CONTRACT, INCLUDING
+REIMBURSEMENT TERMS AND PATIENT BALANCE BILLING PROTECTIONS FOR ALL
+HEALTH CARE SERVICES PROVIDED UNDER THE CONTRACT, FOR A PERIOD OF:
+1. AT LEAST 90 DAYS AFTER THE DATE OF TERMINATION;
+OR
+2. IN THE CASE OF A NONRENEWAL, AT LEAST 90 DAYS
+AFTER THE END OF THE CONTRACT PERIOD.
+(II) EXCEPT AS OTHERWISE AGREED TO BY A CARRIER AND A
+HEALTH SYSTEM, THE REIMBURSEMENT TERMS OF A CONTRACT ENTERED INTO BY
+THE CARRIER AND THE HEALTH SYSTEM DURING THE 90–DAY PERIOD SHALL BE
+RETROACTIVE TO:
+1. THE DATE OF TERMINATION; OR
+2. IN THE CASE OF A NONRENEWAL, THE END DATE OF
+THE CONTRACT PERIOD.
+(III) THIS PARAGRAPH DOES NOT APPLY IF THE CARRIER AND
+HEALTH SYSTEM:
+1. AGREE, IN WRITING, TO THE TERMINATION OR
+NONRENEWAL OF THE CONTRACT; AND
+2. PROVIDE THE NOTICES REQUIRED UNDER
+PARAGRAPH (1) (2) OF THIS SUBSECTION.
+(4) THE COMMISSIONER SHALL DEVELOP A UNIFORM FORM THAT
+CARRIERS, PROVIDERS, AND HEALTH SYSTEMS SHALL USE FOR REQUESTS TO
+CONTINUE TO RECEIVE HEALTH CARE SERVICES IN ACCORDANCE WITH SUBSECTION
+(B) OF THIS SECTION OR 42 U.S.C. § 300GG–113.
+– 6 –
+
+WES MOORE, Governor Ch. 650
+15–1316.
+(a) (1) In this section the following words have the meanings indicated.
+(2) “Dependent” means an individual who is or who may become eligible
+for coverage under the terms of a health benefit plan because of a relationship with another
+individual.
+(3) “Health care practitioner” has the meaning stated in § 1–301 of the
+Health Occupations Article.
+(4) “PROVIDER” MEANS A HEALTH CARE PRACTITIONER OR A
+HEALTH CARE FACILITY THAT PARTICIPATES ON A HEALTH BENEFIT PLAN’S
+PROVIDER PANEL.
+[(4)] (5) “Qualifying coverage in an eligible employer–sponsored plan”
+has the meaning stated in 45 C.F.R. § 155.300.
+(c) A carrier participating in the Individual Exchange shall provide:
+(1) the special enrollment periods specified in 45 C.F.R. § 155.420 for
+individuals who purchase coverage through the Individual Exchange; [and]
+(2) a special enrollment period for an individual who purchases coverage
+through the Individual Exchange if the individual or a dependent of the individual becomes
+pregnant, as confirmed by a health care practitioner; AND
+(3) A SPECIAL ENROLLMENT PERIOD FOR AN INDIVIDUAL WHO
+PURCHASES COVERAGE THROUGH THE INDIVIDUAL EXCHANGE IF THE INDIVIDUAL
+OR A DEPENDENT OF THE INDIVIDUAL IS:
+(I) A PATIENT BEING TREATED ON A REGULAR BASIS BY OR AT
+A PROVIDER; AND
+(II) ENROLLED IN A HEALTH BENEFIT PLAN IN WHICH THE
+PROVIDER TREATING THE INDIVIDUAL OR DEPENDENT IS TERMINATED FROM THE
+HEALTH BENEFIT PLAN’S PROVIDER PANEL.
+(d) A carrier shall provide:
+(1) the special enrollment periods specified in 45 C.F.R. § 147.104(b)(2) for
+individuals who purchase coverage outside the Individual Exchange; [and]
+– 7 –
+
+Ch. 650 2026 LAWS OF MARYLAND
+(2) a special enrollment period for an individual who purchases coverage
+outside the Individual Exchange if the individual or a dependent of the individual becomes
+pregnant, as confirmed by a health care practitioner; AND
+(3) A SPECIAL ENROLLMENT PERIOD FOR AN INDIVIDUAL WHO
+PURCHASES COVERAGE OUTSIDE THE INDIVIDUAL EXCHANGE IF THE INDIVIDUAL
+OR A DEPENDENT OF THE INDIVIDUAL IS:
+(I) A PATIENT BEING TREATED ON A REGULAR BASIS BY OR AT
+A PROVIDER; AND
+(II) ENROLLED IN A HEALTH BENEFIT PLAN IN WHICH THE
+PROVIDER TREATING THE INDIVIDUAL OR DEPENDENT IS TERMINATED FROM THE
+HEALTH BENEFIT PLAN’S PROVIDER PANEL.
+(e) (1) A special enrollment period described in subsection (c)(2) or (d)(2) of this
+section shall:
+[(1)] (I) be open for a period of 90 days; and
+[(2)] (II) begin on the date the health care practitioner confirms the
+pregnancy.
+(2) A SPECIAL ENROLLMENT PERIOD DESCRIBED IN SUBSECTION
+(C)(3) OR (D)(3) OF THIS SECTION SHALL:
+(I) BE OPEN FOR A PERIOD OF 90 DAYS; AND
+(II) BEGIN ON:
+1. THE DATE OF TERMINATION OF THE PROVIDER FROM
+THE HEALTH BENEFIT PLAN’S PROVIDER PANEL; OR
+2. IF THE CONSUMER DID NOT RECEIVE NOTICE OF THE
+TERMINATION BEFORE THE TERMINATION DATE, THE DATE OF THE NOTICE OF
+TERMINATION.
+(f) (1) If an individual enrolls for coverage during one of the open enrollment
+periods described in subsection (b) of this section or during one of the special open
+enrollment periods described in subsections (c)(1) and (d)(1) of this section, coverage shall
+be effective in accordance with the requirements in 45 C.F.R. § 155.420.
+(2) If an individual enrolls for coverage or enrolls a dependent for coverage
+during a special enrollment period described in subsection (c)(2) or (d)(2) of this section, the
+– 8 –
+
+WES MOORE, Governor Ch. 650
+coverage shall become effective on the first day of the month in which the individual
+receives confirmation of pregnancy.
+(3) IF AN INDIVIDUAL ENROLLS FOR COVERAGE OR ENROLLS A
+DEPENDENT FOR COVERAGE DURING A SPECIAL ENROLLMENT PERIOD DESCRIBED
+IN SUBSECTION (C)(3) OR (D)(3) OF THIS SECTION, THE INDIVIDUAL SHALL SELECT
+IF COVERAGE SHALL BECOME EFFECTIVE:
+(I) ON THE FIRST DAY OF THE MONTH FOLLOWING THE DATE
+THE HEALTH BENEFIT PLAN WAS SELECTED; OR
+(II) ON THE FIRST DAY OF THE MONTH IN WHICH THE
+TERMINATION OF THE PROVIDER ON THE HEALTH BENEFIT PLAN’S PROVIDER
+PANEL BECAME EFFECTIVE.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, May 26, 2026.
+– 9 –
+
+[DELETED: W C r n o t o c a t n p r c n i a c a h s i t t t o c c u c c r c t p c s e p f i w aAA(ASA(AA(AA(S]
+[DELETED:  2 () I,“”§NN HM  ()IA.  N R() A§1( H S S C W  Y O TA. R( ( S t p ( o t s a c t u a  ( e   2 n   A t t f t c p p W T P E T T P Fo t p c p t w f h c     B t e  e  ( T(() N R U P II O T  ()CRS;]
+[DELETED: W C  ()II T M N A()I  O Y N ());  () ITEM I T D T I R F R A( ( T  ( i a i a n h s p o a h  ( u ( ( O o s ( o t s a a r a b t  ( I t c mT O A P ORS   1 T S IV O TH c o6I T A L  D B T a]   2 A C O T U A T I A S N U TY    2. i i t n r u i 1 o t]3 a r t w w t c wl T V O T PH W  B D A T),N  ( T]
+[DELETED:  2   () T()VH N R U S II O   1 N T T C O I I T TRS;   2 C P A N T T O H C F O T CRS I T T P O H C F F T CRS   3 C T O T E N  D    4 R D I A I T T O TRS  0.  () H F U S II O T P I R T)   1E    2%N   () TC$IH O M I A F O  P   II )( ( F   pe ]
+[DELETED: W C  ( w pe  ( w pe  pe  ( A c s r a p ce p t f pe   S I A W A PRS A W ATST ,.() ( I,“”:NN HM S  ()A H A A E A W TP E P S,,  ()IAPE P ,. ( ()  C A A H S S P T O W N O A I T T A C   1.() 9IA  T    2.() ,9IIIL     () I C S M A G F E T W N O A T A R U I ]
+[DELETED:  2    1 3  T    2 ,3L    ( () OO D D ,1,2   M  T A T T T O T CT IT :   1 90  N   2 ,9L     () IXM  H D   1 ;N    2 L D  () IH   1 ,E I WG T T T OT    2 T N R U   )(). T O S D A U F TS PS A H S S U F R T)42U.§3    ]
+[DELETED: W C( ( I ( “ ( “ “PR M A H C P O A C F T P O A H B PNS () “ c i a e e p](( A ( t s e p s i 4 C § 1 f a] ( a ( S E P F A I W N X  ()AR   ()IE I A H B P I W TNS( A ( t a]]
+[DELETED:  2  ( a ( S E P F A I W N X  ()AR   ()IE I A H B P I W TNS( A () b] ( () b o t d t h c p c t] ( S E P D I S))()):  D   () 90;B  S   () :IB   1NSL ;   2 B T T DE T D O T N O( ( I d i s ( o t s o d o o t s o ( I]
+[DELETED: W C s b e o t f d o t m i w t i  A I E F C O E A C  D N ))())  ()OD   ()IO T F D O T M I W T O T P O T H B PNS PS A B I F E T t A s t e]

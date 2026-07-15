@@ -1,0 +1,262 @@
+Title: SENATE BILL 437
+Official Title: SENATE BILL 437
+Number of Sections: 1
+Source: versions - Third - Criminal Law – Theft and Fraud Crimes – Valuation and Forgery of Gift Cards
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+E1 6lr2760
+CF HB 752
+By: Senator Folden
+Introduced and read first time: January 30, 2026
+Assigned to: Judicial Proceedings
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 25, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Criminal Law – Theft and Fraud Crimes – Valuation and Forgery of Gift Cards
+3 FOR the purpose of providing for the valuation of a gift card for the purpose of determining
+4 value for crimes involving theft; prohibiting a person, with the intent to defraud
+5 another, from altering or tampering with a gift card or its packaging; and generally
+6 relating to crimes involving gift cards.
+7 BY repealing and reenacting, without amendments,
+8 Article – Commercial Law
+9 Section 14–4901(a), (b), and (e)
+10 Annotated Code of Maryland
+11 (2025 Replacement Volume)
+12 BY repealing and reenacting, without amendments,
+13 Article – Criminal Law
+14 Section 7–103(a) and (b)
+15 Annotated Code of Maryland
+16 (2021 Replacement Volume and 2025 Supplement)
+17 BY adding to
+18 Article – Criminal Law
+19 Section 7–103(h) and 8–409
+20 Annotated Code of Maryland
+21 (2021 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0437*
+2 SENATE BILL 437
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Commercial Law
+4 14–4901.
+5 (a) In this subtitle the following words have the meanings indicated.
+6 (b) “Closed–loop gift card” means a card, code, or device that is:
+7 (1) Issued to a consumer on a prepaid basis primarily for personal, family,
+8 or household purposes in a specified amount, regardless of whether that amount may be
+9 increased or reloaded in exchange for payment; and
+10 (2) Redeemable on presentation by a consumer at a single merchant or a
+11 group of affiliated merchants.
+12 (e) “Open–loop gift card” means a card, code, or device that is:
+13 (1) Issued to a consumer on a prepaid basis primarily for personal, family,
+14 or household purposes in a specified amount, regardless of whether that amount may be
+15 increased or reloaded in exchange for payment;
+16 (2) Payment card network branded; and
+17 (3) (i) Redeemable on presentation at multiple unaffiliated merchants
+18 for goods or services within the payment card network; or
+19 (ii) Usable at an automated teller machine.
+20 Article – Criminal Law
+21 7–103.
+22 (a) In this section, “value” means:
+23 (1) the market value of the property or service at the time and place of the
+24 crime; or
+25 (2) if the market value cannot satisfactorily be ascertained, the cost of the
+26 replacement of the property or service within a reasonable time after the crime.
+27 (b) Except as provided in § 7–104.1 of this subtitle, the value of property or service
+28 under this part shall be determined in accordance with this section.
+SENATE BILL 437 3
+1 (H) (1) (I) IN THIS SUBSECTION THE FOLLOWING WORDS HAVE THE
+2 MEANINGS INDICATED.
+3 (II) “CLOSED–LOOP GIFT CARD” HAS THE MEANING STATED IN
+4 § 14–4901 OF THE COMMERCIAL LAW ARTICLE.
+5 (III) 1. “GIFT CARD” MEANS AN OPEN–LOOP GIFT CARD OR A
+6 CLOSED–LOOP GIFT CARD.
+7 2. “GIFT CARD” DOES NOT INCLUDE:
+8 A. A CREDIT CARD;
+9 B. AN ELECTRONIC FUNDS TRANSFER; OR
+10 C. MONEY, A CHECK, A DRAFT, OR ANY OTHER SIMILAR
+11 PAPER INSTRUMENT.
+12 (IV) “OPEN–LOOP GIFT CARD” HAS THE MEANING STATED IN §
+13 14–4901 OF THE COMMERCIAL LAW ARTICLE.
+14 (2) THE VALUE OF A GIFT CARD IS THE GREATEST OF:
+15 (I) 1. THE HIGHEST VALUE REPRESENTED LISTED ON THE
+16 FACE OF THE GIFT CARD; OR ITS PACKAGING; OR
+17 2. $100, IF NO VALUE IS LISTED ON THE GIFT CARD OR
+18 ITS PACKAGING; OR
+19 (II) THE VALUE THAT A DEFENDANT WHO IS ALLEGED TO HAVE
+20 VIOLATED THIS SUBTITLE REPRESENTED THE VALUE OF THE GIFT CARD TO BE; OR
+21 (III) THE AMOUNT OF LOSS INCURRED BY ANY PERSON
+22 INVOLVING THE USE OF THE GIFT CARD.
+23 8–409.
+24 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+25 INDICATED.
+26 (2) “CLOSED–LOOP GIFT CARD” HAS THE MEANING STATED IN §
+27 14–4901 OF THE COMMERCIAL LAW ARTICLE.
+4 SENATE BILL 437
+1 (3) (I) “GIFT CARD” MEANS AN OPEN–LOOP GIFT CARD OR A
+2 CLOSED–LOOP GIFT CARD.
+3 (II) “GIFT CARD” DOES NOT INCLUDE:
+4 1. A CREDIT CARD;
+5 2. AN ELECTRONIC FUNDS TRANSFER; OR
+6 3. MONEY, A CHECK, A DRAFT, OR ANY OTHER SIMILAR
+7 PAPER INSTRUMENT.
+8 (4) “OPEN–LOOP GIFT CARD” HAS THE MEANING STATED IN §
+9 14–4901 OF THE COMMERCIAL LAW ARTICLE.
+10 (B) A PERSON MAY NOT, WITH THE INTENT TO DEFRAUD ANOTHER, ALTER
+11 OR TAMPER WITH A GIFT CARD OR ITS PACKAGING.
+12 (C) A PERSON WHO VIOLATES THIS SECTION IS GUILTY OF THE
+13 MISDEMEANOR OF GIFT CARD FORGERY AND ON CONVICTION IS SUBJECT TO
+14 IMPRISONMENT NOT EXCEEDING 18 MONTHS OR A FINE NOT EXCEEDING $500 OR
+15 BOTH.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+17 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6   C A C F v a r B  A S  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  S   S T A 1  ( I  ( “   ( I o i   ( R g  ( “   ( I o i   ( P   ( ( R f    ( U A 7  ( I   ( t c   ( i r  ( E u]
+[DELETED: S 3 ) ( () IN T S T F W H T  () “C–ILDLD 11CLA.  O A R  () 1 “G”IID NLDL.   2 “G”:D    A ;   B ;R    C ,,Y K T   () “O–”VPNLD  1CLA. O A R ( T:  () 1TD G ;   2 $G   ()ITE   ()IT A O L I B A P() ( N ( “C–”§DL G CD H T M S I 1CLA. O A R]
+[DELETED:  S  ( () “G”I CD M A ONL G C O ADL.  () “G”:IID    1 ;   2 ;R    3 ,,Y K T  ( “O–”§NL G CD H T M S I 1CLA. O A R() A, T R G()  P W V T S I G O T O G C F A O C I S T    8$  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 437
+E1 6lr2760
+CF HB 752
+By: Senator Folden
+Introduced and read first time: January 30, 2026
+Assigned to: Judicial Proceedings
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 25, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Criminal Law – Theft and Fraud Crimes – Valuation and Forgery of Gift Cards
+3 FOR the purpose of providing for the valuation of a gift card for the purpose of determining
+4 value for crimes involving theft; prohibiting a person, with the intent to defraud
+5 another, from altering or tampering with a gift card or its packaging; and generally
+6 relating to crimes involving gift cards.
+7 BY repealing and reenacting, without amendments,
+8 Article – Commercial Law
+9 Section 14–4901(a), (b), and (e)
+10 Annotated Code of Maryland
+11 (2025 Replacement Volume)
+12 BY repealing and reenacting, without amendments,
+13 Article – Criminal Law
+14 Section 7–103(a) and (b)
+15 Annotated Code of Maryland
+16 (2021 Replacement Volume and 2025 Supplement)
+17 BY adding to
+18 Article – Criminal Law
+19 Section 7–103(h) and 8–409
+20 Annotated Code of Maryland
+21 (2021 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0437*
+
+2 SENATE BILL 437
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Commercial Law
+4 14–4901.
+5 (a) In this subtitle the following words have the meanings indicated.
+6 (b) “Closed–loop gift card” means a card, code, or device that is:
+7 (1) Issued to a consumer on a prepaid basis primarily for personal, family,
+8 or household purposes in a specified amount, regardless of whether that amount may be
+9 increased or reloaded in exchange for payment; and
+10 (2) Redeemable on presentation by a consumer at a single merchant or a
+11 group of affiliated merchants.
+12 (e) “Open–loop gift card” means a card, code, or device that is:
+13 (1) Issued to a consumer on a prepaid basis primarily for personal, family,
+14 or household purposes in a specified amount, regardless of whether that amount may be
+15 increased or reloaded in exchange for payment;
+16 (2) Payment card network branded; and
+17 (3) (i) Redeemable on presentation at multiple unaffiliated merchants
+18 for goods or services within the payment card network; or
+19 (ii) Usable at an automated teller machine.
+20 Article – Criminal Law
+21 7–103.
+22 (a) In this section, “value” means:
+23 (1) the market value of the property or service at the time and place of the
+24 crime; or
+25 (2) if the market value cannot satisfactorily be ascertained, the cost of the
+26 replacement of the property or service within a reasonable time after the crime.
+27 (b) Except as provided in § 7–104.1 of this subtitle, the value of property or service
+28 under this part shall be determined in accordance with this section.
+
+SENATE BILL 437 3
+1 (H) (1) (I) IN THIS SUBSECTION THE FOLLOWING WORDS HAVE THE
+2 MEANINGS INDICATED.
+3 (II) “CLOSED–LOOP GIFT CARD” HAS THE MEANING STATED IN
+4 § 14–4901 OF THE COMMERCIAL LAW ARTICLE.
+5 (III) 1. “GIFT CARD” MEANS AN OPEN–LOOP GIFT CARD OR A
+6 CLOSED–LOOP GIFT CARD.
+7 2. “GIFT CARD” DOES NOT INCLUDE:
+8 A. A CREDIT CARD;
+9 B. AN ELECTRONIC FUNDS TRANSFER; OR
+10 C. MONEY, A CHECK, A DRAFT, OR ANY OTHER SIMILAR
+11 PAPER INSTRUMENT.
+12 (IV) “OPEN–LOOP GIFT CARD” HAS THE MEANING STATED IN §
+13 14–4901 OF THE COMMERCIAL LAW ARTICLE.
+14 (2) THE VALUE OF A GIFT CARD IS THE GREATEST OF:
+15 (I) 1. THE HIGHEST VALUE REPRESENTED LISTED ON THE
+16 FACE OF THE GIFT CARD; OR ITS PACKAGING; OR
+17 2. $100, IF NO VALUE IS LISTED ON THE GIFT CARD OR
+18 ITS PACKAGING; OR
+19 (II) THE VALUE THAT A DEFENDANT WHO IS ALLEGED TO HAVE
+20 VIOLATED THIS SUBTITLE REPRESENTED THE VALUE OF THE GIFT CARD TO BE; OR
+21 (III) THE AMOUNT OF LOSS INCURRED BY ANY PERSON
+22 INVOLVING THE USE OF THE GIFT CARD.
+23 8–409.
+24 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+25 INDICATED.
+26 (2) “CLOSED–LOOP GIFT CARD” HAS THE MEANING STATED IN §
+27 14–4901 OF THE COMMERCIAL LAW ARTICLE.
+
+4 SENATE BILL 437
+1 (3) (I) “GIFT CARD” MEANS AN OPEN–LOOP GIFT CARD OR A
+2 CLOSED–LOOP GIFT CARD.
+3 (II) “GIFT CARD” DOES NOT INCLUDE:
+4 1. A CREDIT CARD;
+5 2. AN ELECTRONIC FUNDS TRANSFER; OR
+6 3. MONEY, A CHECK, A DRAFT, OR ANY OTHER SIMILAR
+7 PAPER INSTRUMENT.
+8 (4) “OPEN–LOOP GIFT CARD” HAS THE MEANING STATED IN §
+9 14–4901 OF THE COMMERCIAL LAW ARTICLE.
+10 (B) A PERSON MAY NOT, WITH THE INTENT TO DEFRAUD ANOTHER, ALTER
+11 OR TAMPER WITH A GIFT CARD OR ITS PACKAGING.
+12 (C) A PERSON WHO VIOLATES THIS SECTION IS GUILTY OF THE
+13 MISDEMEANOR OF GIFT CARD FORGERY AND ON CONVICTION IS SUBJECT TO
+14 IMPRISONMENT NOT EXCEEDING 18 MONTHS OR A FINE NOT EXCEEDING $500 OR
+15 BOTH.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+17 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6   C A C F v a r B  A S  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  S   S T A 1  ( I  ( “   ( I o i   ( R g  ( “   ( I o i   ( P   ( ( R f    ( U A 7  ( I   ( t c   ( i r  ( E u]
+[DELETED: S 3 ) ( () IN T S T F W H T  () “C–ILDLD 11CLA.  O A R  () 1 “G”IID NLDL.   2 “G”:D    A ;   B ;R    C ,,Y K T   () “O–”VPNLD  1CLA. O A R ( T:  () 1TD G ;   2 $G   ()ITE   ()IT A O L I B A P() ( N ( “C–”§DL G CD H T M S I 1CLA. O A R]
+[DELETED:  S  ( () “G”I CD M A ONL G C O ADL.  () “G”:IID    1 ;   2 ;R    3 ,,Y K T  ( “O–”§NL G CD H T M S I 1CLA. O A R() A, T R G()  P W V T S I G O T O G C F A O C I S T    8$  S A B I F E T t A s t e O          G               ]

@@ -1,0 +1,2646 @@
+Title: SENATE BILL 806
+Official Title: SENATE BILL 806
+Number of Sections: 1
+Source: versions - Third - Health Occupations - Criminal History Records Checks
+Media Type: application/pdf
+Strikethrough Detection: 40 sections found
+
+================================================================================
+
+Section 1:
+J2 6lr1345
+CF HB 1420
+By: Chair, Joint Audit and Evaluation Committee and Senators Beidle, Gile,
+Hayes, Hershey, Jackson, Kramer, Lam, Mautz, Ready, and A. Washington
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 1, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Health Occupations – Criminal History Records Checks
+3 FOR the purpose of establishing and altering requirements related to criminal history
+4 records checks for certain licenses and certificates issued by the State Board of
+5 Acupuncture, the State Board of Dental Examiners, the State Board of Dietetic
+6 Practice, the State Board of Morticians and Funeral Directors, the State Board of
+7 Nursing, the State Board of Examiners in Optometry, the State Board of Pharmacy,
+8 the State Board of Physical Therapy Examiners, the State Board of Podiatric Medical
+9 Examiners, the State Board of Examiners of Psychologists, the State Board of
+10 Environmental Health Specialists, and the State Board for Certification of
+11 Residential Child Care Program Professionals; and generally relating to health
+12 occupations and criminal history records checks.
+13 BY repealing and reenacting, without amendments,
+14 Article – Health Occupations
+15 Section 1A–302(a)
+16 Annotated Code of Maryland
+17 (2021 Replacement Volume and 2025 Supplement)
+18 BY adding to
+19 Article – Health Occupations
+20 Section 1A–302(b)(4), 1A–302.1, 4–302.2, 4–307(d), 4–310(d), 4–315(a)(39) and
+21 (c)(21), 4–505(e) and (h), 5–302.1, 5–308(f), 8–302.2, 11–308(d), 12–302(d),
+22 12–302.1, 12–308(d), 12–6B–02.1, 13–311(e), 21–302.1, and 21–310(d) and (e)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0806*
+2 SENATE BILL 806
+1 Annotated Code of Maryland
+2 (2021 Replacement Volume and 2025 Supplement)
+3 BY repealing and reenacting, with amendments,
+4 Article – Health Occupations
+5 Section 1A–302(b)(4) and (5), 1A–306(c), 1A–307(c), 4–302, 4–304(a), 4–311,
+6 4–315(a)(37) and (38) and (c)(19) and (20), 4–505(e) and (f), 5–302(d), 5–303(a),
+7 5–309(a) and (b), 5–311, 7–301.1(c), 8–303, 8–6A–05(c), 8–6A–08(b) and (l)(1),
+8 11–308(d) and (e), 11–310, 12–302(d) through (g), 12–303(a), 12–306,
+9 12–308(d), 12–310(b), 12–6C–05.1(a), 12–6C–06(b), 12–6D–03(b) and (c),
+10 12–6D–04, 13–302.1, 13–311(e), 16–302.1, 18–302.1, 20–303(b), 21–302,
+11 21–307, 21–309(c), and 21–315
+12 Annotated Code of Maryland
+13 (2021 Replacement Volume and 2025 Supplement)
+14 BY repealing
+15 Article – Health Occupations
+16 Section 18–309(h)
+17 Annotated Code of Maryland
+18 (2021 Replacement Volume and 2025 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Health Occupations
+22 1A–302.
+23 (a) To qualify for a license, an applicant shall be an individual who meets the
+24 requirements of this section.
+25 (b) The applicant shall:
+26 (4) BEGINNING JULY 1, 2027, SUBMIT TO A CRIMINAL HISTORY
+27 RECORDS CHECK IN ACCORDANCE WITH § 1A–302.1 OF THIS SUBTITLE;
+28 [(4)] (5) Demonstrate the ability to communicate in the English
+29 language; and
+30 [(5)] (6) Meet any other qualifications that the Board establishes in
+31 regulations.
+32 1A–302.1.
+SENATE BILL 806 3
+1 (A) IN THIS SECTION, “CENTRAL REPOSITORY” MEANS THE CRIMINAL
+2 JUSTICE INFORMATION SYSTEM CENTRAL REPOSITORY OF THE DEPARTMENT OF
+3 PUBLIC SAFETY AND CORRECTIONAL SERVICES.
+4 (B) AN APPLICANT SHALL APPLY TO THE CENTRAL REPOSITORY FOR A
+5 STATE AND NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+6 (C) AS PART OF THE APPLICATION FOR A CRIMINAL HISTORY RECORDS
+7 CHECK, AN APPLICANT SHALL COMPLETE AND SUBMIT TO THE CENTRAL
+8 REPOSITORY:
+9 (1) A COMPLETE SET OF LEGIBLE FINGERPRINTS TAKEN IN A FORMAT
+10 APPROVED BY THE DIRECTOR OF THE CENTRAL REPOSITORY AND THE DIRECTOR
+11 OF THE FEDERAL BUREAU OF INVESTIGATION;
+12 (2) THE FEE AUTHORIZED UNDER § 10–221(B)(7) OF THE CRIMINAL
+13 PROCEDURE ARTICLE FOR ACCESS TO MARYLAND CRIMINAL HISTORY RECORDS;
+14 AND
+15 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+16 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+17 (D) IN ACCORDANCE WITH §§ 10–201 THROUGH 10–229 OF THE CRIMINAL
+18 PROCEDURE ARTICLE, THE CENTRAL REPOSITORY SHALL FORWARD TO THE
+19 BOARD AND THE INDIVIDUAL THE INDIVIDUAL’S CRIMINAL HISTORY RECORD
+20 INFORMATION.
+21 (E) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY UNDER
+22 THIS SECTION:
+23 (1) IS CONFIDENTIAL;
+24 (2) MAY NOT BE REDISSEMINATED; AND
+25 (3) MAY BE USED ONLY FOR THE LICENSING PURPOSE AUTHORIZED
+26 BY THIS TITLE.
+27 (F) THE SUBJECT OF A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+28 SECTION MAY CONTEST THE CONTENTS OF THE CRIMINAL HISTORY RECORD
+29 INFORMATION ISSUED BY THE CENTRAL REPOSITORY AS PROVIDED IN § 10–223 OF
+30 THE CRIMINAL PROCEDURE ARTICLE.
+4 SENATE BILL 806
+1 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+2 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+3 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+4 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+5 INDIVIDUAL.
+6 1A–306.
+7 (c) Before the license expires, the licensee periodically may renew it for an
+8 additional term, if the licensee:
+9 (1) Otherwise is entitled to be licensed;
+10 (2) Pays to the Board a renewal fee set by the Board; and
+11 (3) Submits to the Board:
+12 (i) A renewal application on the form that the Board requires; [and]
+13 (ii) Satisfactory evidence of compliance with any continuing
+14 education requirements set under this section for license renewal; AND
+15 (III) FOR INDIVIDUALS LICENSED BEFORE JANUARY 1, 2028,
+16 SATISFACTORY EVIDENCE OF A CRIMINAL HISTORY RECORDS CHECK IN
+17 ACCORDANCE WITH § 1A–302.1 OF THIS SUBTITLE FOR THE LICENSEE’S FIRST
+18 RENEWAL AFTER JANUARY 1, 2028.
+19 1A–307.
+20 (c) The Board may reinstate the license of a former licensee who has failed to
+21 renew the license for any reason if the former licensee:
+22 (1) Meets the continuing education requirements of § 1A–306 of this
+23 subtitle for each year that the license has lapsed;
+24 (2) Applies for reinstatement more than 30 days after the license renewal
+25 deadline;
+26 (3) Submits to the Board an application for reinstatement on the form
+27 required by the Board; [and]
+28 (4) Pays to the Board a reinstatement fee and a renewal fee set by the
+29 Board; AND
+SENATE BILL 806 5
+1 (5) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+2 ACCORDANCE WITH § 1A–302.1 OF THIS SUBTITLE.
+3 4–302.
+4 (a) Except as otherwise provided in this title, to qualify for a license, an applicant
+5 shall be an individual who meets the requirements of this section.
+6 (b) The applicant shall be of good moral character.
+7 (c) To qualify for a license to practice dentistry, the applicant shall be at least 18
+8 years old.
+9 (D) THE APPLICANT SHALL SUBMIT TO A CRIMINAL HISTORY RECORDS
+10 CHECK IN ACCORDANCE WITH § 4–302.2 OF THIS SUBTITLE.
+11 [(d)] (E) Unless waived by the Board under §§ 4–303 and 4–303.1 of this subtitle,
+12 and except as provided in § 4–306.1 of this subtitle, to qualify for a license to practice
+13 dentistry, the applicant shall hold a degree of Doctor of Dental Surgery, Doctor of Dental
+14 Medicine, or the equivalent, from a college or university that is:
+15 (1) Authorized by any state or any province of Canada to grant the degree;
+16 and
+17 (2) Recognized by the Board as requiring adequate preprofessional
+18 collegiate training and as maintaining an acceptable course of dental instruction.
+19 [(e)] (F) To qualify for a license to practice dental hygiene, the applicant shall
+20 be a graduate of a school for dental hygienists that:
+21 (1) Requires at least 2 years of education in an institution of higher
+22 education;
+23 (2) Is accredited by the American Dental Association Commission on
+24 Dental Accreditation; and
+25 (3) Is approved by the Board.
+26 [(f)] (G) (1) Unless the examination requirement is waived under § 4–306 or
+27 § 4–310 of this subtitle, and except as provided in § 4–303.1 of this subtitle, to qualify for a
+28 general license to practice dentistry or a general license to practice dental hygiene, the
+29 applicant shall pass an examination given by the Board under this subtitle.
+30 (2) An examination is not required for a teacher’s license to practice
+31 dentistry, a limited license to practice dentistry, or a teacher’s license to practice dental
+32 hygiene.
+6 SENATE BILL 806
+1 [(g)] (H) In addition to the requirements of subsections (a), (b), (c), [and] (d),
+2 AND (E) of this section, to qualify for a teacher’s license to practice dentistry, the applicant
+3 shall:
+4 (1) Be licensed to practice dentistry in any other state;
+5 (2) Have been active in the dental profession for at least 5 years;
+6 (3) Be a full–time or part–time faculty member at a college or university
+7 where the applicant teaches a subject required by the dental school of that college or
+8 university; and
+9 (4) If the applicant is engaged in a teaching area that is designated as a
+10 specialty by the National Commission on Recognition of Dental Specialties and Certifying
+11 Boards, meet the requirements established by the National Commission on Recognition of
+12 Dental Specialties and Certifying Boards for that specialty.
+13 [(h)] (I) In addition to the requirements of subsections (a), (b), [and (e)] (D),
+14 AND (F) of this section, to qualify for a teacher’s license to practice dental hygiene, the
+15 applicant shall:
+16 (1) Be licensed to practice dental hygiene in any other state;
+17 (2) Have been active as a dental hygienist for at least 5 years before
+18 applying for the teacher’s license to practice dental hygiene; and
+19 (3) Be a full–time or part–time faculty member at a dental school where
+20 the applicant teaches a subject required by that school.
+21 [(i)] (J) In addition to the requirements of subsections (a), (b), (c), [and] (d),
+22 AND (E) of this section, to qualify for a retired volunteer dentist’s license to practice
+23 dentistry, the applicant shall:
+24 (1) Have had a general license to practice dentistry issued under this title
+25 within the last 2 years;
+26 (2) Complete the continuing education requirements that the Board
+27 establishes for a general license; and
+28 (3) Provide dental services as required under § 4–308(c) of this subtitle.
+29 [(j)] (K) In addition to the requirements of subsections (a), (b), [and (e)] (D),
+30 AND (F) of this section, to qualify for a retired dental hygienist’s license to practice dental
+31 hygiene, the applicant shall:
+SENATE BILL 806 7
+1 (1) Have had a general license to practice dental hygiene under this title
+2 within the last 2 years;
+3 (2) Complete the continuing education requirements that the Board
+4 establishes for a general license; and
+5 (3) Provide dental hygiene services as required under § 4–308(g) of this
+6 subtitle.
+7 [(k)] (L) In addition to the requirements of subsections (a), (b), (c), [and] (d),
+8 AND (E) of this section, to qualify for a volunteer dentist’s license to practice dentistry, the
+9 applicant shall:
+10 (1) Satisfy the requirements of § 4–306(b)(1) and (d)(2) of this subtitle;
+11 (2) Hold an active license to practice dentistry in another state or in the
+12 District of Columbia;
+13 (3) Complete the continuing education requirements that the Board
+14 establishes for a general license;
+15 (4) Provide dental services exclusively in the manner described in §
+16 4–308(c) of this subtitle; and
+17 (5) Immediately upon ceasing to provide services exclusively in the manner
+18 described in § 4–308(c) of this subtitle, surrender the volunteer license to the Board.
+19 [(l)] (M) In addition to the requirements of subsections (a), (b), (c), (D), and [(e)]
+20 (F) of this section, to qualify for a volunteer dental hygienist’s license to practice dental
+21 hygiene, an applicant shall:
+22 (1) Satisfy the requirements of § 4–306(b)(2) and (e)(2) of this subtitle;
+23 (2) Hold an active license to practice dental hygiene in another state or in
+24 the District of Columbia;
+25 (3) Complete the continuing education requirements that the Board
+26 establishes for a general license;
+27 (4) Provide dental hygiene services exclusively in the manner described in
+28 § 4–308(g) of this subtitle; and
+29 (5) Immediately upon ceasing to provide services exclusively in the manner
+30 described in § 4–308(g) of this subtitle, surrender the volunteer license to the Board.
+8 SENATE BILL 806
+1 [(m)] (N) To qualify for a limited license to practice dentistry, the applicant shall
+2 meet the requirements set forth in subsections (a), (b), (c), [and] (d), AND (E) of this section.
+3 4–302.2.
+4 (A) IN THIS SECTION, “CENTRAL REPOSITORY” MEANS THE CRIMINAL
+5 JUSTICE INFORMATION SYSTEM CENTRAL REPOSITORY OF THE DEPARTMENT OF
+6 PUBLIC SAFETY AND CORRECTIONAL SERVICES.
+7 (B) AN APPLICANT SHALL APPLY TO THE CENTRAL REPOSITORY FOR A
+8 STATE AND NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+9 (C) AS PART OF THE APPLICATION FOR A CRIMINAL HISTORY RECORDS
+10 CHECK, AN APPLICANT SHALL COMPLETE AND SUBMIT TO THE CENTRAL
+11 REPOSITORY:
+12 (1) A COMPLETE SET OF LEGIBLE FINGERPRINTS TAKEN IN A FORMAT
+13 APPROVED BY THE DIRECTOR OF THE CENTRAL REPOSITORY AND THE DIRECTOR
+14 OF THE FEDERAL BUREAU OF INVESTIGATION;
+15 (2) THE FEE AUTHORIZED UNDER § 10–221(B)(7) OF THE CRIMINAL
+16 PROCEDURE ARTICLE FOR ACCESS TO MARYLAND CRIMINAL HISTORY RECORDS;
+17 AND
+18 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+19 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+20 (D) IN ACCORDANCE WITH §§ 10–201 THROUGH 10–229 OF THE CRIMINAL
+21 PROCEDURE ARTICLE, THE CENTRAL REPOSITORY SHALL FORWARD TO THE
+22 BOARD AND THE INDIVIDUAL THE INDIVIDUAL’S CRIMINAL HISTORY RECORD
+23 INFORMATION.
+24 (E) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY UNDER
+25 THIS SECTION:
+26 (1) IS CONFIDENTIAL;
+27 (2) MAY NOT BE REDISSEMINATED; AND
+28 (3) MAY BE USED ONLY FOR THE LICENSING PURPOSE AUTHORIZED
+29 BY THIS TITLE.
+SENATE BILL 806 9
+1 (F) THE SUBJECT OF A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+2 SECTION MAY CONTEST THE CONTENTS OF THE CRIMINAL HISTORY RECORD
+3 INFORMATION ISSUED BY THE CENTRAL REPOSITORY AS PROVIDED IN § 10–223 OF
+4 THE CRIMINAL PROCEDURE ARTICLE.
+5 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+6 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+7 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+8 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+9 INDIVIDUAL.
+10 (H) ON RECEIPT OF THE CRIMINAL HISTORY RECORD INFORMATION OF AN
+11 APPLICANT FOR LICENSURE OR CERTIFICATION FORWARDED TO THE BOARD IN
+12 ACCORDANCE WITH THIS SECTION, IN DETERMINING WHETHER TO GRANT A
+13 LICENSE OR CERTIFICATE, THE BOARD SHALL CONSIDER:
+14 (1) THE AGE AT WHICH THE CRIME WAS COMMITTED;
+15 (2) THE CIRCUMSTANCES SURROUNDING THE CRIME;
+16 (3) THE LENGTH OF TIME THAT HAS PASSED SINCE THE CRIME;
+17 (4) SUBSEQUENT WORK HISTORY;
+18 (5) EMPLOYMENT AND CHARACTER REFERENCES; AND
+19 (6) OTHER EVIDENCE THAT DEMONSTRATES WHETHER THE
+20 APPLICANT POSES A THREAT TO THE PUBLIC HEALTH OR SAFETY.
+21 4–304.
+22 (a) To apply for a license, an applicant shall:
+23 (1) Submit an application to the Board on the form that the Board requires;
+24 [and]
+25 (2) SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN
+26 ACCORDANCE WITH § 4–302.2 OF THIS SUBTITLE; AND
+27 (3) Pay to the Board an application fee set by the Board.
+28 4–307.
+10 SENATE BILL 806
+1 (D) THE BOARD MAY NOT ISSUE A LICENSE IF THE CRIMINAL HISTORY
+2 RECORD INFORMATION REQUIRED UNDER § 4–302.2 OF THIS SUBTITLE HAS NOT
+3 BEEN RECEIVED.
+4 4–310.
+5 (D) THE BOARD MAY NOT ISSUE A LICENSE IF THE CRIMINAL HISTORY
+6 RECORD INFORMATION REQUIRED UNDER § 4–302.2 OF THIS SUBTITLE HAS NOT
+7 BEEN RECEIVED.
+8 4–311.
+9 (A) The Board shall reinstate a general license to practice dentistry, a teacher’s
+10 license to practice dentistry, a general license to practice dental hygiene, or a teacher’s
+11 license to practice dental hygiene that is expired only if the licensee:
+12 (1) Meets the renewal and reinstatement requirements set by rule and
+13 regulation of the Board; and
+14 (2) Pays to the Board a reinstatement fee set by the Board.
+15 (B) (1) BEGINNING OCTOBER 1, 2027, THE BOARD SHALL REQUIRE A
+16 CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH § 4–302.2 OF THIS
+17 SUBTITLE FOR:
+18 (I) LICENSE RENEWAL APPLICANTS AS DETERMINED BY
+19 REGULATIONS ADOPTED BY THE BOARD; AND
+20 (II) EACH FORMER LICENSEE WHO FILES FOR REINSTATEMENT
+21 AFTER FAILING TO RENEW A LICENSE.
+22 (2) THE BOARD MAY NOT RENEW OR REINSTATE A LICENSE IF THE
+23 CRIMINAL HISTORY RECORD INFORMATION REQUIRED UNDER § 4–302.2 OF THIS
+24 SUBTITLE HAS NOT BEEN RECEIVED.
+25 4–315.
+26 (a) Subject to the hearing provisions of § 4–318 of this subtitle, the Board may
+27 deny a general license to practice dentistry, a limited license to practice dentistry, or a
+28 teacher’s license to practice dentistry to any applicant, reprimand any licensed dentist,
+29 place any licensed dentist on probation, or suspend or revoke the license of any licensed
+30 dentist, if the applicant or licensee:
+31 (37) Accepts or tenders rebates or splits fees in violation of § 4–103(c) of this
+32 title; [or]
+SENATE BILL 806 11
+1 (38) Allows a dental assistant to assist in the practice of dentistry:
+2 (i) In an unauthorized manner in violation of this title or
+3 regulations adopted by the Board;
+4 (ii) Without specifically instructing the certified dental assistant to
+5 perform an intraoral procedure that the certified dental assistant is authorized to perform;
+6 or
+7 (iii) Failing to provide direct supervision of a dental assistant; OR
+8 (39) FAILS TO SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN
+9 ACCORDANCE WITH § 4–302.2 OF THIS SUBTITLE.
+10 (c) Subject to the hearing provisions of § 4–318 of this subtitle, the Board may
+11 deny a general license to practice dental hygiene, a teacher’s license to practice dental
+12 hygiene, or a temporary license to practice dental hygiene to any applicant, reprimand any
+13 licensed dental hygienist, place any licensed dental hygienist on probation, or suspend or
+14 revoke the license of any licensed dental hygienist, if the applicant or licensee:
+15 (19) Fails to comply with any Board order; [or]
+16 (20) Willfully and without legal justification, fails to cooperate with a lawful
+17 investigation conducted by the Board; OR
+18 (21) FAILS TO SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN
+19 ACCORDANCE WITH § 4–302.2 OF THIS SUBTITLE.
+20 4–505.
+21 (E) AN APPLICANT FOR A CERTIFICATE TO PRACTICE AS A DENTAL
+22 RADIATION TECHNOLOGIST SHALL SUBMIT TO A CRIMINAL HISTORY RECORDS
+23 CHECK IN ACCORDANCE WITH § 4–302.2 OF THIS SUBTITLE.
+24 [(e)] (F) At least 1 month before a certificate expires, the Board shall send to
+25 each certificate holder, by electronic means or first–class mail to the last known electronic
+26 or physical address of the certificate holder, a renewal notice that states:
+27 (1) The date on which the current certificate expires;
+28 (2) The date by which the renewal application must be received by the
+29 Board for the renewal to be issued and mailed before the certificate expires; and
+30 (3) The amount of the renewal fee.
+12 SENATE BILL 806
+1 [(f)] (G) An individual may be simultaneously certified as a dental radiation
+2 technologist under this section and as an expanded function dental assistant.
+3 (H) (1) BEGINNING OCTOBER 1, 2027, THE BOARD SHALL REQUIRE A
+4 CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH § 4–302.2 OF THIS
+5 SUBTITLE FOR:
+6 (I) CERTIFICATE RENEWAL APPLICANTS AS DETERMINED BY
+7 REGULATIONS ADOPTED BY THE BOARD; AND
+8 (II) EACH FORMER CERTIFICATE HOLDER WHO FILES FOR
+9 REINSTATEMENT AFTER FAILING TO RENEW A CERTIFICATE.
+10 (2) THE BOARD MAY NOT RENEW OR REINSTATE A CERTIFICATE IF
+11 THE CRIMINAL HISTORY RECORD INFORMATION REQUIRED UNDER § 4–302.2 OF
+12 THIS SUBTITLE HAS NOT BEEN RECEIVED.
+13 5–302.
+14 (d) The applicant for licensure as a dietitian–nutritionist shall:
+15 (1) (i) 1. Have satisfactorily completed academic requirements for
+16 the field of dietetics as approved by the Board; and
+17 2. Have received at a minimum a baccalaureate degree from
+18 a college or university accredited by an educational accrediting association as required by
+19 the Commission on Dietetic Registration; or
+20 (ii) Have received a master’s or doctoral degree from a college or
+21 university accredited by an educational accrediting association recognized by the Council
+22 on Higher Education and Accreditation in nutritional sciences (with emphasis in human
+23 nutrition), food and nutrition, dietetics, human nutrition, community nutrition, public
+24 health nutrition, or equivalent training approved by the Board;
+25 (2) Have satisfactorily completed a program of supervised clinical
+26 experience approved by the Board; [and]
+27 (3) (i) Submit to the Board proof of certification by the Board for
+28 Certification of Nutrition Specialists; or
+29 (ii) Submit to the Board proof of registration as a dietitian with the
+30 Commission on Dietetic Registration of the Academy of Nutrition and Dietetics; AND
+31 (4) BEGINNING JULY 1, 2027, SUBMIT TO A CRIMINAL HISTORY
+32 RECORDS CHECK IN ACCORDANCE WITH § 5–302.1 OF THIS SUBTITLE.
+SENATE BILL 806 13
+1 5–302.1.
+2 (A) IN THIS SECTION, “CENTRAL REPOSITORY” MEANS THE CRIMINAL
+3 JUSTICE INFORMATION SYSTEM CENTRAL REPOSITORY OF THE DEPARTMENT OF
+4 PUBLIC SAFETY AND CORRECTIONAL SERVICES.
+5 (B) AN APPLICANT SHALL APPLY TO THE CENTRAL REPOSITORY FOR A
+6 STATE AND NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+7 (C) AS PART OF THE APPLICATION FOR A CRIMINAL HISTORY RECORDS
+8 CHECK, AN APPLICANT SHALL COMPLETE AND SUBMIT TO THE CENTRAL
+9 REPOSITORY:
+10 (1) A COMPLETE SET OF LEGIBLE FINGERPRINTS TAKEN IN A FORMAT
+11 APPROVED BY THE DIRECTOR OF THE CENTRAL REPOSITORY AND THE DIRECTOR
+12 OF THE FEDERAL BUREAU OF INVESTIGATION;
+13 (2) THE FEE AUTHORIZED UNDER § 10–221(B)(7) OF THE CRIMINAL
+14 PROCEDURE ARTICLE FOR ACCESS TO MARYLAND CRIMINAL HISTORY RECORDS;
+15 AND
+16 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+17 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+18 (D) IN ACCORDANCE WITH §§ 10–201 THROUGH 10–229 OF THE CRIMINAL
+19 PROCEDURE ARTICLE, THE CENTRAL REPOSITORY SHALL FORWARD TO THE
+20 BOARD AND THE INDIVIDUAL THE INDIVIDUAL’S CRIMINAL HISTORY RECORD
+21 INFORMATION.
+22 (E) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY UNDER
+23 THIS SECTION:
+24 (1) IS CONFIDENTIAL;
+25 (2) MAY NOT BE REDISSEMINATED; AND
+26 (3) MAY BE USED ONLY FOR THE LICENSING PURPOSE AUTHORIZED
+27 BY THIS TITLE.
+28 (F) THE SUBJECT OF A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+29 SECTION MAY CONTEST THE CONTENTS OF THE CRIMINAL HISTORY RECORD
+14 SENATE BILL 806
+1 INFORMATION ISSUED BY THE CENTRAL REPOSITORY AS PROVIDED IN § 10–223 OF
+2 THE CRIMINAL PROCEDURE ARTICLE.
+3 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+4 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+5 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+6 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+7 INDIVIDUAL.
+8 5–303.
+9 (a) An applicant for a license shall:
+10 (1) Submit an application to the Board on the form that the Board requires;
+11 (2) Pay the application fee set by the Board; [and]
+12 (3) Provide proof of passing an examination approved by the Board; AND
+13 (4) BEGINNING JULY 1, 2027, SUBMIT TO A CRIMINAL HISTORY
+14 RECORDS CHECK IN ACCORDANCE WITH § 5–302.1 OF THIS SUBTITLE.
+15 5–308.
+16 (F) AN INDIVIDUAL LICENSED BEFORE JULY 1, 2027, SHALL PROVIDE
+17 SATISFACTORY EVIDENCE OF A CRIMINAL HISTORY RECORDS CHECK IN
+18 ACCORDANCE WITH § 5–302.1 OF THIS TITLE FOR THE LICENSEE’S FIRST RENEWAL
+19 AFTER JANUARY 1, 2028.
+20 5–309.
+21 (a) (1) The Board shall place a licensee on inactive status if the licensee:
+22 (i) Submits to the Board an application for inactive status on the
+23 form required by the Board; and
+24 (ii) Pays to the Board the inactive status fee set by the Board.
+25 (2) The Board shall reactivate the license of an individual placed on
+26 inactive status if the individual:
+27 (i) Satisfies the continuing education requirements established by
+28 the Board; [and]
+29 (ii) Pays to the Board a reactivation fee set by the Board; AND
+SENATE BILL 806 15
+1 (III) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+2 ACCORDANCE WITH § 5–302.1 OF THIS SUBTITLE.
+3 (b) The Board, in accordance with its regulations, shall reinstate the license of an
+4 individual who failed to renew a license for any reason if the individual:
+5 (1) Otherwise is entitled to be licensed;
+6 (2) Satisfies the continuing education requirements established by the
+7 Board;
+8 (3) Pays to the Board a reinstatement fee set by the Board; [and]
+9 (4) Applies to the Board for reinstatement of a license within 5 years after
+10 the expiration of the license; AND
+11 (5) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+12 ACCORDANCE WITH § 5–302.1 OF THIS SUBTITLE.
+13 5–311.
+14 Subject to the hearing provisions of § 5–312 of this subtitle, the Board, on the
+15 affirmative vote of a majority of its members then serving, may deny a license to any
+16 applicant, reprimand any licensee, or suspend or revoke a license if the applicant or
+17 licensee:
+18 (1) Fraudulently or deceptively obtains or attempts to obtain a license for
+19 the applicant or licensee or for another;
+20 (2) Fraudulently or deceptively uses a license;
+21 (3) Violates any provision of this title or any regulations adopted under this
+22 title;
+23 (4) Refuses, withholds from, denies, or discriminates against an individual
+24 with regard to the provision of professional service for which the licensee is licensed and
+25 qualified to render because the individual is HIV positive;
+26 (5) Commits fraud or deceit in the practice of dietetics;
+27 (6) Is convicted of or pleads nolo contendere to a felony or to a crime
+28 involving moral turpitude, whether or not any appeal or other proceeding is pending to
+29 have the conviction or plea set aside;
+30 (7) Obtains or attempts to obtain a fee through fraud or misrepresentation;
+16 SENATE BILL 806
+1 (8) Employs any [person] INDIVIDUAL to practice dietetics whose license
+2 or certificate to practice a health occupation under this article has been suspended;
+3 (9) Uses or promotes or causes the use of any misleading, deceiving, or
+4 untruthful advertising matter, or promotional literature, testimonial, guarantee, warranty,
+5 label, brand, insignia, or other representation;
+6 (10) Commits any act of unprofessional conduct, as defined by the rules and
+7 regulations of the Board, or violates the code of ethics adopted by the Board;
+8 (11) Provides professional services while:
+9 (i) Under the influence of alcohol; or
+10 (ii) Using any narcotic or controlled dangerous substance, as defined
+11 in § 5–101 of the Criminal Law Article, or other drug that is in excess of therapeutic
+12 amounts or without valid medical indication;
+13 (12) Is disciplined by a licensing or disciplinary authority of any other state
+14 or country or convicted or disciplined by a court of any other state or country for an act that
+15 would be grounds for disciplinary action under this section;
+16 (13) Practices dietetics with an unauthorized [person] INDIVIDUAL or
+17 supervises or aids an unauthorized [person] INDIVIDUAL in the practice of dietetics;
+18 (14) Fails to file or record any report or record as required by law in the
+19 practice of dietetics, impedes or obstructs the filing or recording of the report or record, or
+20 induces another to fail to file or record the report or record;
+21 (15) Submits a false statement to collect a fee;
+22 (16) Is professionally, physically, or mentally incompetent;
+23 (17) Promotes the sale of devices, appliances, or goods to a patient so as to
+24 exploit the patient for financial gain; [or]
+25 (18) Fails to cooperate with a lawful investigation conducted by the Board;
+26 OR
+27 (19) FAILS TO SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN
+28 ACCORDANCE WITH § 5–302.1 OF THIS SUBTITLE.
+29 7–301.1.
+SENATE BILL 806 17
+1 (c) (1) In this subsection, “Central Repository” means the Criminal Justice
+2 Information System Central Repository of the Department of Public Safety and
+3 Correctional Services.
+4 (2) As part of an application to the Central Repository for a State and
+5 national criminal history records check, an applicant shall submit to the Central
+6 Repository:
+7 (i) A complete set of legible fingerprints taken [on forms] IN A
+8 FORMAT approved by the Director of the Central Repository and the Director of the Federal
+9 Bureau of Investigation;
+10 (ii) The fee authorized under § 10–221(b)(7) of the Criminal
+11 Procedure Article for access to [State] MARYLAND criminal history records; and
+12 (iii) The MANDATORY processing fee required by the Federal Bureau
+13 of Investigation for a national criminal history records check.
+14 (3) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+15 Procedure Article, the Central Repository shall forward to the Board and the applicant the
+16 criminal history record information of the applicant.
+17 (4) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY
+18 UNDER THIS SUBSECTION:
+19 (I) IS CONFIDENTIAL;
+20 (II) MAY NOT BE REDISSEMINATED; AND
+21 (III) MAY BE USED ONLY FOR THE LICENSING PURPOSE
+22 AUTHORIZED BY THIS TITLE.
+23 [(4)] (5) If an applicant has made three or more unsuccessful attempts at
+24 securing legible fingerprints, the Board may accept an alternate method of a criminal
+25 history records check as allowed by the Director of the Central Repository and the Director
+26 of the Federal Bureau of Investigation.
+27 [(5)] (6) The subject of a criminal history records check under this section
+28 may contest the contents of the printed statement issued by the Central Repository as
+29 provided in § 10–223 of the Criminal Procedure Article.
+30 (7) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO
+31 THE CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+32 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+18 SENATE BILL 806
+1 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+2 INDIVIDUAL.
+3 8–302.2.
+4 THE BOARD SHALL REQUIRE A CRIMINAL HISTORY RECORDS CHECK IN
+5 ACCORDANCE WITH § 8–303 OF THIS SUBTITLE FOR:
+6 (1) APPLICANTS FOR CERTIFICATION AS A FORENSIC NURSE
+7 EXAMINER;
+8 (2) APPLICANTS FOR CERTIFICATION AS A WORKERS’
+9 COMPENSATION CASE MANAGER;
+10 (3) SELECTED ANNUAL RENEWAL APPLICANTS FOR CERTIFICATION
+11 AS A FORENSIC NURSE EXAMINER OR WORKERS’ COMPENSATION CASE MANAGER, AS
+12 REQUIRED BY REGULATIONS ADOPTED BY THE BOARD; AND
+13 (4) APPLICANTS FOR REINSTATEMENT AS A CERTIFIED FORENSIC
+14 NURSE EXAMINER OR WORKERS’ COMPENSATION CASE MANAGER, IF THE
+15 APPLICANT FILES FOR REINSTATEMENT AFTER FAILING TO RENEW THE
+16 CERTIFICATION FOR A PERIOD OF 1 YEAR OR MORE.
+17 8–303.
+18 (a) In this section, “Central Repository” means the Criminal Justice Information
+19 System Central Repository of the Department of Public Safety and Correctional Services.
+20 (b) As part of an application to the Central Repository for a State and national
+21 criminal history records check, an applicant shall submit to the Central Repository:
+22 (1) [Two complete sets] A COMPLETE SET of legible fingerprints taken [on
+23 forms] IN A FORMAT approved by the Director of the Central Repository and the Director
+24 of the Federal Bureau of Investigation;
+25 (2) The fee authorized under § 10–221(b)(7) of the Criminal Procedure
+26 Article for access to [State] MARYLAND criminal history records; and
+27 (3) The MANDATORY processing fee required by the Federal Bureau of
+28 Investigation for a national criminal history records check.
+29 (c) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+30 Procedure Article, the Central Repository shall forward to the Board and to the applicant
+31 the criminal history record information of the applicant.
+SENATE BILL 806 19
+1 (d) (1) If criminal history record information is reported to the Central
+2 Repository after the date of the initial criminal history records check, the Central
+3 Repository shall provide to the Board a revised printed statement of the individual’s State
+4 criminal history record.
+5 (2) The Board shall notify each applicant that:
+6 (i) The applicant’s fingerprints will be retained by the Central
+7 Repository; and
+8 (ii) All new and additional criminal information will be reported to
+9 the Board.
+10 (3) The Board may enter into an agreement with the Central Repository
+11 and the Federal Bureau of Investigation to carry out this subsection.
+12 (e) If an applicant has made two or more unsuccessful attempts at securing
+13 legible fingerprints, the Board may accept an alternate method of criminal history records
+14 check as permitted by the Director of the Central Repository and the Director of the Federal
+15 Bureau of Investigation.
+16 (f) Information obtained from the Central Repository under this section [shall
+17 be]:
+18 (1) [Confidential and may] IS CONFIDENTIAL;
+19 (2) MAY not be redisseminated; and
+20 [(2)] (3) [Used] MAY BE USED only for the licensing purpose authorized
+21 by this title.
+22 (g) The subject of a criminal history records check under this section may contest
+23 the contents of the printed statement issued by the Central Repository as provided in §
+24 10–223 of the Criminal Procedure Article.
+25 8–6A–05.
+26 (c) (1) An applicant for a certificate shall:
+27 (i) Submit [an application to the Board on the form that the Board
+28 requires] TO A CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH § 8–303
+29 OF THIS TITLE;
+30 (II) SUBMIT TO THE BOARD:
+20 SENATE BILL 806
+1 1. AN APPLICATION TO THE BOARD ON THE FORM THAT
+2 THE BOARD REQUIRES; AND
+3 2. WRITTEN VERIFICATION THAT THE REQUIREMENT IN
+4 ITEM (I) OF THIS PARAGRAPH IS BEING OR HAS BEEN MET;
+5 [(ii)] (III) Provide evidence, as required by the Board, of successful
+6 completion of:
+7 1. An approved nursing assistant training program or
+8 approved acute care nursing assistant training program;
+9 2. An approved dialysis technician training program;
+10 3. An approved course in medication administration; or
+11 4. A portion of an approved nursing education program that
+12 the Board determines meets the requirements of an approved nursing assistant training
+13 program or medication administration course;
+14 [(iii)] (IV) Pay to the Board an application fee set by the Board;
+15 [(iv)] (V) Be of good moral character;
+16 [(v)] (VI) Be at least 16 years old to apply for certification as a
+17 nursing assistant;
+18 [(vi)] (VII) Be at least 18 years old to apply for certification as a
+19 dialysis technician; and
+20 [(vii)] (VIII) Be at least 18 years old to apply for certification as a
+21 medication technician.
+22 [(2) Subject to paragraph (1) of this subsection, an applicant for certification
+23 as a certified nursing assistant or dialysis technician shall submit to the Board:
+24 (i) A criminal history records check in accordance with § 8–303 of
+25 this title and § 8–6A–08(k) of this subtitle; and
+26 (ii) On the form required by the Board, written, verified evidence
+27 that the requirement of item (i) of this paragraph is being met or has been met.]
+28 [(3)] (2) (i) An applicant for certification as a certified nursing
+29 assistant shall submit to the Board satisfactory evidence of passing a nursing assistant
+30 competency evaluation.
+SENATE BILL 806 21
+1 (ii) An applicant who has completed an approved acute care nursing
+2 assistant training program shall be deemed to have fulfilled the classroom and clinical
+3 standards to sit for the nursing assistant competency evaluation.
+4 [(4)] (3) An applicant for a certificate may not:
+5 (i) Have committed any act or omission that would be grounds for
+6 discipline or denial of certification under this subtitle; and
+7 (ii) Have a record of abuse, negligence, misappropriation of a
+8 resident’s property, or any disciplinary action taken or pending in any other state or
+9 territory of the United States against the certification of the nursing assistant or
+10 medication technician in the state or territory.
+11 [(5)] (4) Beginning October 1, 2025, a certified nursing assistant–II may
+12 be certified as a certified nursing assistant–I by:
+13 (i) Submitting an application to the Board on the form that the
+14 Board requires; and
+15 (ii) Providing satisfactory evidence of:
+16 1. Successful completion of an approved nursing assistant
+17 training program; and
+18 2. Passing a nursing assistant competency evaluation.
+19 8–6A–08.
+20 (b) (1) At least 3 months before a certificate expires, the Board shall send a
+21 renewal notice to the certificate holder by:
+22 (i) First–class mail to the last known mailing address of the
+23 certificate holder; or
+24 (ii) Electronic means to the last known electronic address of the
+25 certificate holder.
+26 (2) A renewal notice shall state:
+27 (i) The date on which the current certificate expires;
+28 (ii) The date by which the renewal application must be received by
+29 the Board for the renewal to be issued and mailed before the certificate expires; and
+30 (iii) The amount of the renewal fee.
+22 SENATE BILL 806
+1 (3) If a [nursing assistant or dialysis technician] CERTIFICATE HOLDER
+2 is required to have a criminal history records check before a certificate may be renewed,
+3 the Board shall send the [nursing assistant or dialysis technician] CERTIFICATE HOLDER
+4 the documents necessary for initiating the criminal history records check in conjunction
+5 with the renewal notice required under paragraph (1) of this subsection.
+6 (l) (1) (i) The Board shall require criminal history records checks in
+7 accordance with § 8–303 of this title on:
+8 1. Selected applicants for certification as a certified nursing
+9 assistant, MEDICATION TECHNICIAN, or dialysis technician who renew their certificates
+10 every 2 years as determined by regulations adopted by the Board; and
+11 2. Each former certified nursing assistant, MEDICATION
+12 TECHNICIAN, or dialysis technician who files for reinstatement under subsection (h) of this
+13 section after failing to renew the certificate for a period of 1 year or more.
+14 (ii) An additional criminal history records check shall be performed
+15 every 12 years thereafter.
+16 11–308.
+17 (D) (1) BEGINNING AUGUST 1, 2026, THE BOARD SHALL REQUIRE A
+18 CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH § 11–302.1 OF THIS
+19 SUBTITLE FOR:
+20 (I) LICENSE RENEWAL APPLICANTS AS DETERMINED BY
+21 REGULATIONS ADOPTED BY THE BOARD; AND
+22 (II) EACH FORMER LICENSEE WHO FILES FOR REINSTATEMENT
+23 AFTER FAILING TO RENEW A LICENSE.
+24 (2) THE BOARD MAY NOT RENEW OR REINSTATE A LICENSE IF THE
+25 CRIMINAL HISTORY RECORD INFORMATION REQUIRED UNDER § 11–302.1 OF THIS
+26 SUBTITLE HAS NOT BEEN RECEIVED.
+27 [(d)] (E) The Board shall renew the license of and issue a renewal certificate to
+28 each licensee who meets the requirements of this section.
+29 [(e)] (F) If an optometrist does not renew a license before its expiration date, the
+30 Board shall send to the optometrist a notice stating that the license will expire 30 days
+31 after the notice is sent unless the optometrist applies for renewal within the grace period.
+32 11–310.
+SENATE BILL 806 23
+1 (a) (1) The Board shall place a licensee on inactive status, if the licensee
+2 submits to the Board:
+3 (i) An application for inactive status on the form required by the
+4 Board; and
+5 (ii) The inactive status fee set by the Board.
+6 (2) The Board shall issue a license to an individual who is on inactive status
+7 if the individual:
+8 (i) Meets any continuing education requirements set by the Board;
+9 [and]
+10 (ii) Pays to the Board the reinstatement fee set by the Board; AND
+11 (III) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+12 ACCORDANCE WITH § 11–302.1 OF THIS SUBTITLE.
+13 (b) The Board may reinstate the license of an optometrist whose license has been
+14 expired for less than 5 years and who has not been put on inactive status, if the optometrist:
+15 (1) Has met the continuing education requirements set by the Board;
+16 (2) Meets the renewal requirements of § 11–308 of this subtitle; [and]
+17 (3) Pays to the Board the reinstatement fee set by the Board; AND
+18 (4) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+19 ACCORDANCE WITH § 11–302.1 OF THIS SUBTITLE.
+20 (c) The Board may not reinstate the license of an optometrist whose license has
+21 been expired for 5 years or more and who has not been put on inactive status, unless the
+22 optometrist:
+23 (1) Passes [an] ALL PARTS OF ANY examination [administered]
+24 REQUIRED by the Board; [and]
+25 (2) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+26 ACCORDANCE WITH § 11–302.1 OF THIS SUBTITLE; AND
+27 [(2)] (3) Otherwise meets the requirements of subsection (b) of this
+28 section.
+24 SENATE BILL 806
+1 (D) THE BOARD MAY REACTIVATE A LICENSEE ON INACTIVE STATUS ONLY
+2 IF THE LICENSEE ATTESTS THAT THE LICENSEE HAS SUBMITTED TO A CRIMINAL
+3 HISTORY RECORDS CHECK UNDER § 11–302.1 OF THIS SUBTITLE.
+4 12–302.
+5 (D) THE APPLICANT SHALL SUBMIT TO A CRIMINAL HISTORY RECORDS
+6 CHECK IN ACCORDANCE WITH § 12–302.1 OF THIS SUBTITLE.
+7 [(d)] (E) The applicant shall:
+8 (1) Be a graduate of a school or college of pharmacy that is approved by the
+9 Board or accredited by the American Council on Pharmaceutical Education; and
+10 (2) Have completed the professional experience program that the Board
+11 requires.
+12 [(e)] (F) Except as otherwise provided in this title, the applicant shall pass an
+13 examination given by the Board under this subtitle.
+14 [(f)] (G) (1) In this subsection, “foreign school or college of pharmacy” means
+15 a school or college of pharmacy that is not located in any state in the United States.
+16 (2) The Board may waive the requirements of subsection [(d)(1)] (E)(1) of
+17 this section for an applicant who is a graduate of a foreign school or college of pharmacy,
+18 provided that the applicant passes an examination approved by the Board in addition to
+19 the examinations otherwise given by the Board under this subtitle.
+20 [(g)] (H) (1) Except as otherwise provided in this subsection, the Board shall
+21 require, as part of its examination or licensing procedures, an applicant for a license to
+22 practice pharmacy to demonstrate an oral competency in the English language by passing
+23 a Board approved standardized test of oral competency.
+24 (2) The Board shall adopt regulations that establish a procedure for testing
+25 an individual who because of the individual’s speech or hearing impairment is unable to
+26 complete satisfactorily a Board approved standardized test of oral competency.
+27 (3) If any disciplinary charge or action that relates to a problem with the
+28 oral communication of the English language is brought against a licensee under this title,
+29 the Board shall require the licensee to pass a Board approved standardized test of oral
+30 competency.
+31 (4) The Board may not require an applicant for a license to practice
+32 pharmacy, who is or was previously licensed in another state to practice pharmacy, to
+33 demonstrate an oral competency in the English language, if the other state’s examination
+SENATE BILL 806 25
+1 and licensing procedures at the time the applicant was licensed in the other state included
+2 an oral competency component.
+3 (5) Graduation from a recognized English–speaking professional school
+4 accredited by the Accreditation Council for Pharmacy Education is acceptable as proof of
+5 proficiency in the oral communication of the English language under this subsection.
+6 12–302.1.
+7 (A) IN THIS SECTION, “CENTRAL REPOSITORY” MEANS THE CRIMINAL
+8 JUSTICE INFORMATION SYSTEM CENTRAL REPOSITORY OF THE DEPARTMENT OF
+9 PUBLIC SAFETY AND CORRECTIONAL SERVICES.
+10 (B) AN APPLICANT SHALL APPLY TO THE CENTRAL REPOSITORY FOR A
+11 STATE AND NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+12 (C) AS PART OF THE APPLICATION FOR A CRIMINAL HISTORY RECORDS
+13 CHECK, AN APPLICANT SHALL COMPLETE AND SUBMIT TO THE CENTRAL
+14 REPOSITORY:
+15 (1) A COMPLETE SET OF LEGIBLE FINGERPRINTS TAKEN IN A FORMAT
+16 APPROVED BY THE DIRECTOR OF THE CENTRAL REPOSITORY AND THE DIRECTOR
+17 OF THE FEDERAL BUREAU OF INVESTIGATION;
+18 (2) THE FEE AUTHORIZED UNDER § 10–221(B)(7) OF THE CRIMINAL
+19 PROCEDURE ARTICLE FOR ACCESS TO MARYLAND CRIMINAL HISTORY RECORDS;
+20 AND
+21 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+22 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+23 (D) IN ACCORDANCE WITH §§ 10–201 THROUGH 10–229 OF THE CRIMINAL
+24 PROCEDURE ARTICLE, THE CENTRAL REPOSITORY SHALL FORWARD TO THE
+25 BOARD AND THE INDIVIDUAL THE INDIVIDUAL’S CRIMINAL HISTORY RECORD
+26 INFORMATION.
+27 (E) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY UNDER
+28 THIS SECTION:
+29 (1) IS CONFIDENTIAL;
+30 (2) MAY NOT BE REDISSEMINATED; AND
+26 SENATE BILL 806
+1 (3) MAY BE USED ONLY FOR THE LICENSING PURPOSE AUTHORIZED
+2 BY THIS TITLE.
+3 (F) THE SUBJECT OF A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+4 SECTION MAY CONTEST THE CONTENTS OF THE CRIMINAL HISTORY RECORD
+5 INFORMATION ISSUED BY THE CENTRAL REPOSITORY AS PROVIDED IN § 10–223 OF
+6 THE CRIMINAL PROCEDURE ARTICLE.
+7 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+8 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+9 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+10 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+11 INDIVIDUAL.
+12 12–303.
+13 (a) To apply for a license, an applicant shall:
+14 (1) Submit an application to the Board on the form that the Board requires;
+15 [and]
+16 (2) Pay the application fees set by the Board; AND
+17 (3) SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN
+18 ACCORDANCE WITH § 12–302.1 OF THIS SUBTITLE.
+19 12–306.
+20 (A) The Board shall issue a license to any applicant who meets the requirements
+21 of this title.
+22 (B) (1) ON RECEIPT OF THE CRIMINAL HISTORY RECORD INFORMATION
+23 OF AN APPLICANT FOR LICENSURE FORWARDED TO THE BOARD IN ACCORDANCE
+24 WITH § 12–302.1 OF THIS SUBTITLE, IN DETERMINING WHETHER TO GRANT A
+25 LICENSE, THE BOARD SHALL CONSIDER:
+26 (I) THE AGE AT WHICH THE CRIME WAS COMMITTED;
+27 (II) THE CIRCUMSTANCES SURROUNDING THE CRIME;
+28 (III) THE LENGTH OF TIME THAT HAS PASSED SINCE THE CRIME;
+29 (IV) SUBSEQUENT WORK HISTORY;
+SENATE BILL 806 27
+1 (V) EMPLOYMENT AND CHARACTER REFERENCES; AND
+2 (VI) OTHER EVIDENCE THAT DEMONSTRATES WHETHER THE
+3 APPLICANT POSES A THREAT TO THE PUBLIC HEALTH OR SAFETY.
+4 (2) THE BOARD MAY NOT ISSUE A LICENSE IF THE CRIMINAL HISTORY
+5 RECORD INFORMATION REQUIRED UNDER § 12–302.1 OF THIS SUBTITLE HAS NOT
+6 BEEN RECEIVED.
+7 12–308.
+8 (D) BEGINNING JULY 1, 2027, THE BOARD SHALL REQUIRE ALL LICENSEES
+9 WHO WERE INITIALLY LICENSED WITHOUT A CRIMINAL HISTORY RECORDS CHECK
+10 TO SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH §
+11 12–302.1 OF THIS SUBTITLE ON RENEWAL AS SET FORTH IN REGULATIONS ADOPTED
+12 BY THE BOARD.
+13 [(d)] (E) The Board shall renew the license of and issue a renewal certificate to
+14 each licensee who meets the requirements of this section.
+15 12–310.
+16 (b) The Board shall reinstate the license of a pharmacist whose license has been
+17 expired for 2 years or more if the pharmacist:
+18 (1) Meets the reinstatement requirements established by the Board in its
+19 rules or regulations; [and]
+20 (2) Satisfies the requirements of subsection (a) of this section; AND
+21 (3) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+22 ACCORDANCE WITH § 12–302.1 OF THIS SUBTITLE.
+23 12–6B–02.1.
+24 (A) IN THIS SECTION, “CENTRAL REPOSITORY” MEANS THE CRIMINAL
+25 JUSTICE INFORMATION SYSTEM CENTRAL REPOSITORY OF THE DEPARTMENT OF
+26 PUBLIC SAFETY AND CORRECTIONAL SERVICES.
+27 (B) AN APPLICANT SHALL APPLY TO THE CENTRAL REPOSITORY FOR A
+28 STATE AND NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+28 SENATE BILL 806
+1 (C) AS PART OF THE APPLICATION FOR A CRIMINAL HISTORY RECORDS
+2 CHECK, AN APPLICANT SHALL COMPLETE AND SUBMIT TO THE CENTRAL
+3 REPOSITORY:
+4 (1) A COMPLETE SET OF LEGIBLE FINGERPRINTS TAKEN IN A FORMAT
+5 APPROVED BY THE DIRECTOR OF THE CENTRAL REPOSITORY AND THE DIRECTOR
+6 OF THE FEDERAL BUREAU OF INVESTIGATION;
+7 (2) THE FEE AUTHORIZED UNDER § 10–221(B)(7) OF THE CRIMINAL
+8 PROCEDURE ARTICLE FOR ACCESS TO MARYLAND CRIMINAL HISTORY RECORDS;
+9 AND
+10 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+11 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+12 (D) IN ACCORDANCE WITH §§ 10–201 THROUGH 10–229 OF THE CRIMINAL
+13 PROCEDURE ARTICLE, THE CENTRAL REPOSITORY SHALL FORWARD TO THE
+14 BOARD AND THE INDIVIDUAL THE INDIVIDUAL’S CRIMINAL HISTORY RECORD
+15 INFORMATION.
+16 (E) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY UNDER
+17 THIS SECTION:
+18 (1) IS CONFIDENTIAL;
+19 (2) MAY NOT BE REDISSEMINATED; AND
+20 (3) MAY BE USED ONLY FOR THE LICENSING PURPOSE AUTHORIZED
+21 BY THIS TITLE.
+22 (F) THE SUBJECT OF A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+23 SECTION MAY CONTEST THE CONTENTS OF THE CRIMINAL HISTORY RECORD
+24 INFORMATION ISSUED BY THE CENTRAL REPOSITORY AS PROVIDED IN § 10–223 OF
+25 THE CRIMINAL PROCEDURE ARTICLE.
+26 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+27 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+28 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+29 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+30 INDIVIDUAL.
+31 12–6C–05.1.
+SENATE BILL 806 29
+1 (a) (1) In this subsection, “Central Repository” means the Criminal Justice
+2 Information System Central Repository of the Department of Public Safety and
+3 Correctional Services.
+4 (2) This subsection applies to applicants located in the State.
+5 (3) As part of an application to the Central Repository for a State and
+6 national criminal history records check, the designated representative and the immediate
+7 supervisor of the designated representative of an applicant shall submit to the Central
+8 Repository:
+9 (i) [Two complete sets] A COMPLETE SET of legible fingerprints
+10 taken [on forms] IN A FORMAT approved by the [director] DIRECTOR of the Central
+11 Repository and the Director of the Federal Bureau of Investigation;
+12 (ii) The fee authorized under § 10–221(b)(7) of the Criminal
+13 Procedure Article for access to [State] MARYLAND criminal history records; and
+14 (iii) The MANDATORY processing fee required by the Federal Bureau
+15 of Investigation for a national criminal history records check.
+16 (4) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+17 Procedure Article, the Central Repository shall forward the criminal history records
+18 information of the designated representative and the immediate supervisor of the
+19 designated representative of an applicant to the Board and the applicant.
+20 (5) [The Board shall ensure that information] INFORMATION obtained
+21 from the Central Repository under this subsection:
+22 (i) Is [kept] confidential;
+23 (ii) [Is] MAY not BE redisseminated; and
+24 (iii) [Is] MAY BE used only for the permitting purpose authorized by
+25 this subtitle.
+26 (6) The subject of a criminal history records check under this subsection
+27 may contest the contents of the [printed statement] CRIMINAL HISTORY RECORDS
+28 INFORMATION issued by the Central Repository as provided in § 10–223 of the Criminal
+29 Procedure Article.
+30 (7) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO
+31 THE CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+32 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+33 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+34 INDIVIDUAL.
+30 SENATE BILL 806
+1 12–6C–06.
+2 (b) (1) Except as provided in paragraph (2) of this subsection, at least 1 month
+3 before a wholesale distributor permit expires, the Board shall send to the wholesale
+4 distributor permit holder a renewal notice by electronic means to the last known e–mail
+5 address of the permit holder.
+6 (2) If requested by a wholesale distributor permit holder, the Board shall
+7 send to the permit holder a renewal notice by first–class mail to the last known address of
+8 the permit holder.
+9 (3) If a renewal notice sent by electronic means under paragraph (1) of this
+10 subsection is returned to the Board as undeliverable, the Board shall send to the wholesale
+11 distributor permit holder a renewal notice by first–class mail to the last known address of
+12 the permit holder.
+13 (4) A renewal notice sent under this subsection shall state:
+14 (i) The date on which the current wholesale distributor permit
+15 expires;
+16 (ii) The date by which the renewal application must be received by
+17 the Board for the renewal to be issued and mailed before the current wholesale distributor
+18 permit expires; and
+19 (iii) The amount of the renewal fee.
+20 (5) Before a wholesale distributor permit expires, a wholesale distributor
+21 permit holder periodically may renew it for an additional 2–year term, if the wholesale
+22 distributor permit holder:
+23 (i) Otherwise is entitled to a wholesale distributor permit;
+24 (ii) Pays to the Board a renewal fee set by the Board; and
+25 (iii) Submits to the Board a renewal application on the form that the
+26 Board requires.
+27 (6) (i) The renewal application form shall set forth the information that
+28 the wholesale distributor provided under § 12–6C–05 of this subtitle.
+29 (ii) Within 30 days after receiving the form, the wholesale
+30 distributor shall identify and state under oath to the Board all changes or corrections to the
+31 information that was provided under § 12–6C–05 of this subtitle.
+SENATE BILL 806 31
+1 (7) The Board shall renew the wholesale distributor permit of a wholesale
+2 distributor permit holder who meets the requirements of this subtitle and any regulations
+3 adopted under this subtitle.
+4 (8) IF A WHOLESALE DISTRIBUTOR IS LOCATED OUTSIDE THE STATE,
+5 THE DESIGNATED REPRESENTATIVE AND IMMEDIATE SUPERVISOR OF THE
+6 DESIGNATED REPRESENTATIVE OF THE PERMIT HOLDER SHALL SUBMIT TO A
+7 CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH § 12–6C–05.1 OF THIS
+8 SUBTITLE BEFORE THE PERMIT MAY BE RENEWED.
+9 [(8)] (9) The Board may deny, suspend, or revoke the permit of a
+10 wholesale distributor if the Board determines that the wholesale distributor no longer
+11 qualifies for a permit.
+12 12–6D–03.
+13 (b) An applicant shall submit a request for a State AND NATIONAL criminal
+14 history records check in accordance with § 12–6D–04 of this subtitle.
+15 (c) The Board may not approve an application until the State AND NATIONAL
+16 criminal history records check is completed.
+17 12–6D–04.
+18 (a) In this section, “Central Repository” means the Criminal Justice Information
+19 System Central Repository of the Department of Public Safety and Correctional Services.
+20 (b) As part of an application to the Central Repository for a State AND NATIONAL
+21 criminal history records check, the applicant shall submit to the Central Repository:
+22 (1) [Two complete sets] A COMPLETE SET of legible fingerprints taken [on
+23 forms] IN A FORMAT approved by the [director] DIRECTOR of the Central Repository AND
+24 THE DIRECTOR OF THE FEDERAL BUREAU OF INVESTIGATION; [and]
+25 (2) The fee authorized under § 10–221(b)(7) of the Criminal Procedure
+26 Article for access to [State] MARYLAND criminal history records; AND
+27 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+28 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+29 (c) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+30 Procedure Article, the Central Repository shall forward [the criminal history records
+31 information of the applicant] to the Board and the [applicant] INDIVIDUAL THE
+32 INDIVIDUAL’S CRIMINAL HISTORY RECORD INFORMATION.
+32 SENATE BILL 806
+1 (d) [The Board shall ensure that information] INFORMATION obtained from the
+2 Central Repository under this [subsection] SECTION:
+3 (1) Is [kept] confidential;
+4 (2) [Is] MAY not BE redisseminated; and
+5 (3) [Is] MAY BE used only for the registration purpose authorized by this
+6 subtitle.
+7 (e) The subject of a criminal history records check under this subsection may
+8 contest the contents of the printed statement issued by the Central Repository as provided
+9 in § 10–223 of the Criminal Procedure Article.
+10 (F) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+11 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+12 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+13 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+14 INDIVIDUAL.
+15 13–302.1.
+16 (a) In this section, “Central Repository” means the Criminal Justice Information
+17 System Central Repository of the Department of Public Safety and Correctional Services.
+18 (b) As part of an application to the Central Repository for a State and national
+19 criminal history records check, an applicant shall submit to the Central Repository:
+20 (1) [Two] A complete [sets] SET of legible fingerprints taken [on forms] IN
+21 A FORMAT approved by the Director of the Central Repository and the Director of the
+22 Federal Bureau of Investigation;
+23 (2) The fee authorized under § 10–221(b)(7) of the Criminal Procedure
+24 Article for access to [State] MARYLAND criminal history records; and
+25 (3) The MANDATORY processing fee required by the Federal Bureau of
+26 Investigation for a national criminal history records check.
+27 (c) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+28 Procedure Article, the Central Repository shall forward to the Board and to the applicant
+29 the criminal history record information of the applicant.
+30 (d) If an applicant has made three or more unsuccessful attempts at securing
+31 legible fingerprints, the Board may accept an alternate method of a criminal history records
+32 check as permitted by the Director of the Central Repository and the Director of the Federal
+33 Bureau of Investigation.
+SENATE BILL 806 33
+1 (e) Information obtained from the Central Repository under this section:
+2 (1) Is confidential [and may];
+3 (2) MAY not be redisseminated; and
+4 [(2)] (3) May be used only for the licensing purpose authorized by this
+5 title.
+6 (f) The subject of a criminal history records check under this section may contest
+7 the contents of the printed statement issued by the Central Repository as provided in §
+8 10–223 of the Criminal Procedure Article.
+9 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+10 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+11 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+12 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+13 INDIVIDUAL.
+14 13–311.
+15 (E) BEGINNING JULY 1, 2027, THE BOARD SHALL REQUIRE ALL LICENSEES
+16 WHO WERE INITIALLY LICENSED WITHOUT A CRIMINAL HISTORY RECORDS CHECK
+17 TO SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH §
+18 13–302.1 OF THIS SUBTITLE ON RENEWAL AS SET FORTH IN REGULATIONS ADOPTED
+19 BY THE BOARD.
+20 [(e)] (F) The Board shall renew the license of each licensee who meets the
+21 requirements of this section.
+22 16–302.1.
+23 (a) In this section, “Central Repository” means the Criminal Justice Information
+24 System Central Repository of the Department of Public Safety and Correctional Services.
+25 (b) As part of an application to the Central Repository for a State and national
+26 criminal history records check, an applicant shall submit to the Central Repository:
+27 (1) [One] A complete set of legible fingerprints taken in a [manner]
+28 FORMAT approved by the Director of the Central Repository and the Director of the Federal
+29 Bureau of Investigation;
+30 (2) The fee authorized under § 10–221(b)(7) of the Criminal Procedure
+31 Article for access to [State] MARYLAND criminal history records; and
+34 SENATE BILL 806
+1 (3) The MANDATORY processing fee required by the Federal Bureau of
+2 Investigation for a national criminal history records check.
+3 (c) In accordance with §§ 10–201 through 10–229 of the Criminal Procedure
+4 Article, the Central Repository shall forward to the Board and the applicant the criminal
+5 history record information of the applicant.
+6 (d) Information obtained from the Central Repository under this section:
+7 (1) Is confidential;
+8 (2) May not be redisseminated; and
+9 (3) [Shall] MAY be used only for the licensing purpose authorized by this
+10 title.
+11 (e) The subject of a criminal history records check under this section may contest
+12 the contents of the printed statement issued by the Central Repository as provided in §
+13 10–223 of the Criminal Procedure Article.
+14 (F) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+15 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+16 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+17 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+18 INDIVIDUAL.
+19 18–302.1.
+20 (a) In this section, “Central Repository” means the Criminal Justice Information
+21 System Central Repository of the Department of Public Safety and Correctional Services.
+22 (b) As part of an application to the Central Repository for a State and national
+23 criminal history records check, an applicant shall submit to the Central Repository:
+24 (1) [Two] A complete [sets] SET of legible fingerprints taken [on forms] IN
+25 A FORMAT approved by the Director of the Central Repository and the Director of the
+26 Federal Bureau of Investigation;
+27 (2) The fee authorized under § 10–221(b)(7) of the Criminal Procedure
+28 Article for access to [State] MARYLAND criminal history records; and
+29 (3) The MANDATORY processing fee required by the Federal Bureau of
+30 Investigation for a national criminal history records check.
+SENATE BILL 806 35
+1 (c) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+2 Procedure Article, the Central Repository shall forward to the Board and the applicant the
+3 criminal history record information of the applicant.
+4 (d) If an applicant has made three or more unsuccessful attempts at securing
+5 legible fingerprints, the Board may accept an alternate method of a criminal history records
+6 check as allowed by the Director of the Central Repository and the Director of the Federal
+7 Bureau of Investigation.
+8 (e) Information obtained from the Central Repository under this section:
+9 (1) [Shall be] IS confidential;
+10 (2) May not be redisseminated; and
+11 (3) [Shall] MAY be used only for the licensing purpose authorized by this
+12 title.
+13 (f) The subject of a criminal history records check under this section may contest
+14 the contents of the printed statement issued by the Central Repository as provided in §
+15 10–223 of the Criminal Procedure Article.
+16 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+17 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+18 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+19 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+20 INDIVIDUAL.
+21 18–309.
+22 [(h) (1) (i) Beginning March 2019, the Board shall begin a process requiring
+23 criminal history records checks in accordance with § 18–302.1 of this subtitle on:
+24 1. Selected annual renewal applicants as determined by
+25 regulations adopted by the Board; and
+26 2. Each former licensee or registrant who files for
+27 reinstatement under § 18–310 of this subtitle after failing to renew the license or
+28 registration for a period of 1 year or more.
+29 (ii) An additional criminal history records check shall be performed:
+30 1. 6 years after a renewal applicant submitted to a criminal
+31 history records check under § 18–302(e) of this subtitle; and
+36 SENATE BILL 806
+1 2. Every 6 years after a renewal applicant was required to
+2 submit to a criminal history records check under subparagraph (i)1 of this paragraph.
+3 (2) On receipt of the criminal history record information of a licensee
+4 forwarded to the Board in accordance with § 18–302.1 of this subtitle, in determining
+5 whether to renew a license or registration, the Board shall consider:
+6 (i) The age at which the crime was committed;
+7 (ii) The circumstances surrounding the crime;
+8 (iii) The length of time that has passed since the crime;
+9 (iv) Subsequent work history;
+10 (v) Employment and character references; and
+11 (vi) Other evidence that demonstrates whether the licensee poses a
+12 threat to the public health or safety.
+13 (3) The Board may not renew a license or registration if the criminal
+14 history record information required under § 18–302.1 of this subtitle has not been received.]
+15 20–303.
+16 (b) (1) As part of the application for a criminal history records check, the
+17 applicant shall submit to the Central Repository:
+18 (i) A COMPLETE SET OF legible [set of] fingerprints taken in a
+19 format approved by the Director of the Central Repository and the Director of the Federal
+20 Bureau of Investigation;
+21 (ii) The fee authorized under § 10–221(b)(7) of the Criminal
+22 Procedure Article for access to [State] MARYLAND criminal history records; and
+23 (iii) The MANDATORY processing fee required by the Federal Bureau
+24 of Investigation for a national criminal history records check.
+25 (2) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+26 Procedure Article, the Central Repository shall forward to the applicant and the Board the
+27 applicant’s criminal history records information.
+28 (3) Information obtained from the Central Repository under this
+29 subsection:
+30 (i) Is confidential [and may];
+SENATE BILL 806 37
+1 (II) MAY not be redisseminated; and
+2 [(ii)] (III) May be used only for the certification purpose authorized
+3 by this subtitle.
+4 (4) The subject of a criminal history records check under this subsection
+5 may contest the contents of the printed statement issued by the Central Repository as
+6 provided in § 10–223 of the Criminal Procedure Article.
+7 (5) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO
+8 THE CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+9 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+10 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+11 INDIVIDUAL.
+12 21–302.
+13 To obtain a license, an applicant shall demonstrate to the satisfaction of the Board
+14 that the applicant:
+15 (1) Is at least 18 years old;
+16 (2) Is of good moral character;
+17 (3) Has satisfied the education and experience requirements to qualify for
+18 examination under § 21–304 of this subtitle; [and]
+19 (4) Except as otherwise provided in this title, has successfully passed an
+20 examination as required by the Board; AND
+21 (5) BEGINNING JULY 1, 2027, HAS SUBMITTED TO A CRIMINAL
+22 HISTORY RECORDS CHECK IN ACCORDANCE WITH § 21–302.1 OF THIS SUBTITLE.
+23 21–302.1.
+24 (A) IN THIS SECTION, “CENTRAL REPOSITORY” MEANS THE CRIMINAL
+25 JUSTICE INFORMATION SYSTEM CENTRAL REPOSITORY OF THE DEPARTMENT OF
+26 PUBLIC SAFETY AND CORRECTIONAL SERVICES.
+27 (B) AN APPLICANT SHALL APPLY TO THE CENTRAL REPOSITORY FOR A
+28 STATE AND NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+38 SENATE BILL 806
+1 (C) AS PART OF THE APPLICATION FOR A CRIMINAL HISTORY RECORDS
+2 CHECK, AN APPLICANT SHALL COMPLETE AND SUBMIT TO THE CENTRAL
+3 REPOSITORY:
+4 (1) A COMPLETE SET OF LEGIBLE FINGERPRINTS TAKEN IN A FORMAT
+5 APPROVED BY THE DIRECTOR OF THE CENTRAL REPOSITORY AND THE DIRECTOR
+6 OF THE FEDERAL BUREAU OF INVESTIGATION;
+7 (2) THE FEE AUTHORIZED UNDER § 10–221(B)(7) OF THE CRIMINAL
+8 PROCEDURE ARTICLE FOR ACCESS TO MARYLAND CRIMINAL HISTORY RECORDS;
+9 AND
+10 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+11 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+12 (D) IN ACCORDANCE WITH §§ 10–201 THROUGH 10–229 OF THE CRIMINAL
+13 PROCEDURE ARTICLE, THE CENTRAL REPOSITORY SHALL FORWARD TO THE
+14 BOARD AND THE INDIVIDUAL THE INDIVIDUAL’S CRIMINAL HISTORY RECORD
+15 INFORMATION.
+16 (E) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY UNDER
+17 THIS SECTION:
+18 (1) IS CONFIDENTIAL;
+19 (2) MAY NOT BE REDISSEMINATED; AND
+20 (3) MAY BE USED ONLY FOR THE LICENSING PURPOSE AUTHORIZED
+21 BY THIS TITLE.
+22 (F) THE SUBJECT OF A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+23 SECTION MAY CONTEST THE CONTENTS OF THE CRIMINAL HISTORY RECORD
+24 INFORMATION ISSUED BY THE CENTRAL REPOSITORY AS PROVIDED IN § 10–223 OF
+25 THE CRIMINAL PROCEDURE ARTICLE.
+26 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+27 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+28 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+29 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+30 INDIVIDUAL.
+31 21–307.
+SENATE BILL 806 39
+1 (a) The Board shall license and issue the appropriate licensure to any applicant
+2 who meets the requirements of this title.
+3 (b) The Board shall include on each license that it issues:
+4 (1) The designation “licensed environmental health specialist”;
+5 (2) The name of the license holder;
+6 (3) The date of issue and serial number of the license;
+7 (4) The Board seal; and
+8 (5) The signature of the Board’s representative.
+9 (c) The Board shall issue a new license to replace a lost, destroyed, or mutilated
+10 license if the license holder pays a fee that is set by the Board.
+11 (D) THE BOARD MAY NOT ISSUE A LICENSE IF THE CRIMINAL HISTORY
+12 RECORD INFORMATION REQUIRED UNDER § 21–302 OF THIS TITLE HAS NOT BEEN
+13 RECEIVED.
+14 21–309.
+15 (c) Before the license expires, the licensee may renew it for an additional 2–year
+16 term, if the licensee:
+17 (1) Otherwise is entitled to be licensed;
+18 (2) Pays to the Board the renewal fee set by the Board;
+19 (3) Submits to the Board a renewal application on the form that the Board
+20 requires; [and]
+21 (4) Submits to the Board proof that during the previous 2–year period, the
+22 licensee has acquired 20 hours of approved training in environmental health or other
+23 equivalent education as approved by the Board; AND
+24 (5) IF LICENSED BEFORE JULY 1, 2027, SUBMITS SATISFACTORY
+25 EVIDENCE OF SUBMITTING TO A CRIMINAL HISTORY RECORDS CHECK IN
+26 ACCORDANCE WITH § 21–302.1 OF THIS SUBTITLE FOR THE LICENSEE’S FIRST
+27 RENEWAL AFTER JULY 1, 2027.
+28 21–310.
+40 SENATE BILL 806
+1 (D) BEGINNING JULY 1, 2027, A LICENSED ENVIRONMENTAL HEALTH
+2 SPECIALIST APPLYING FOR THE REACTIVATION OF AN INACTIVE OR NONRENEWED
+3 LICENSE SHALL SUBMIT SATISFACTORY EVIDENCE OF SUBMITTING TO A CRIMINAL
+4 HISTORY RECORDS CHECK IN ACCORDANCE WITH § 21–302.1 OF THIS SUBTITLE.
+5 (E) THE BOARD MAY NOT REACTIVATE A LICENSE IF THE CRIMINAL
+6 HISTORY RECORD INFORMATION HAS NOT BEEN RECEIVED.
+7 21–315.
+8 (A) The Board, on the affirmative vote of a majority of its full appointed
+9 membership, may reinstate the license of an individual whose license has been revoked.
+10 (B) BEGINNING JULY 1, 2027, AN INDIVIDUAL APPLYING FOR
+11 REINSTATEMENT OF A REVOKED LICENSE SHALL SUBMIT SATISFACTORY EVIDENCE
+12 OF SUBMITTING TO A CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH §
+13 21–302.1 OF THIS SUBTITLE.
+14 (C) THE BOARD MAY NOT REINSTATE A LICENSE IF THE CRIMINAL HISTORY
+15 RECORD INFORMATION HAS NOT BEEN RECEIVED.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+17 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6   C C J A a E C a S B G A H F t p o e a a r r t c h r c f c l a c i b t S B o A t S B o D E t S B o D P N t E t S B o E o P t S B o E H S a t S B f C o R C C P P a g r t h o B  A S  A  ( B  A  S 1 1 4 4 4 4 a  ( 4 a ( 5 5 8 1 1  1]
+[DELETED:  S   A  ( B  A  S 1 a ( 1 1 4 4 4   4   5   1 a ( 1 1 t ( 1 1   1 1 1 1 1 a (   1 1 1 1 1 2 2   2  A  ( B  A S  A  (  S T A 1  ( T r  ( T   BJ1,2 U   S T A C H   E11;   () D t a t c i t E]( l   () M a o q t t B e i]( r]
+[DELETED: S 3 ) I,“CR”N T SN E EY M T RISCR N Y E E ESCS. A O E() ACN A S A T T E E F A.() S P O T A F A C H RK A A S C A S T T E: (  I E E ICR E U NBI; ( T§1())  B  RAM R AS ( T EI. N() I§§1119N      RA,C RE T E E S F T T A T I T ILS C H R() ICN O F T E E U ( I; ( M;D  ( () H M C T C O T C H R E E   R§1 R R RPA.]
+[DELETED:  S () F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 1  ( B t l e t l p m r i f a a   ( O   ( P   ( S    ( A a]    ( S e o c w a c e  () FJ1,2IO I L B A   E O A C H R C I W   O T S F T LES F11 A 1,2 . 1  ( T r   ( M t c e r o § 1 o t s   ( A d   ( S t t B a a f r o t f r a]   ( P B]
+[DELETED: S 5 (  T A C H R C I   1 . 4  ( E s  ( T  ( T y ) H A S S T A C H R   42.  () U]( a d M   ( A a   ( R b t B a r a p c  () T]( b   ( R a l 2 y o e i a i o h e   ( I a b t A D A C o D   ( I  () ( U]( § g a   ( A e i n r f a t l t p d h]
+[DELETED:  S   () I ad ]()[]H    s   ( B   ( H   ( B w t a t a s r b t d s o t c o u   ( I s B D  () I a]()[]()I D    a   ( B   ( H b a a a d h f a l 5 y b a   ( B t  () I ad ]()[]J   o t s t q f a r v d l t p d   ( H w   ( C t c e r t t B e   ( P  () I a]()[]()K D    h]
+[DELETED: S 7   ( H w   ( C t c e r t t B e   ( P s  () I ad ]()[]L    a   ( S   ( H D   ( C t c e r t t B e   ( P d s e i t m d i § 4   ( I d  () I a (]()(),[MD    h   ( S   ( H t   ( C t c e r t t B e   ( P §   ( I d]
+[DELETED:  S   () T]( m ad ) ],(   ) I,“CR”N T SN E EY M T RISCR N Y E E ESCS. A O E() ACN A S A T T E E F A.() S P O T A F A C H RK A A S C A S T T E: (  I E E ICR E U NBI; ( T§1())  B  RAM R AS ( T EI. N() I§§1119N      RA,C RE T E E S F T T A T I T ILS C H R() ICN O F T E E U ( I; ( M;D  ( ]
+[DELETED: S 9() H M C T C O T C H R E E   R§1 R R RPA.() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T() N F L O C F T T O I W T SN I D W T G AE  OB: ( T; ( T; ( T; ( S; ( E;S  (  E T D W T 4  ( T   ( S] a   ( T A C H R C I   E 42;   P 4]
+[DELETED:  S  ) TH O M N I A L I T C H   4D 4 ) TH O M N I A L I T C H   4D 4  T) l l   ( M t r a r r s b r a r   ( P() ( BO1,2,E C   T O S R A H R C I A W   O T4  () I R A A D B OD ;  () IA ( T O   4 4  ( S d t p d   ( A t o]]
+[DELETED: S 1   ( A    ( I a u m i v o t t o r    ( W p o    ( F (    4 .  ( S d h l r   ( F o]   ( W i (    4 . 4 ) N A F A C T P A A D T S S T A C H R   42.[]( () A e o   ( T   ( T d w r a m b r t B   ( T]
+[DELETED:  S   () A]( t ) ( BO1,2,E C   T O S R A H R C I A W   O T4  () E R A A D B OD ;  () IA F C H W F F ( T O C H R I R U   O4 5  ( T   ( ( 1 H t     2 H a t    ( H r a m o d d f a c o u o n f a n d h n c n p h   ( H s c a p o s c e a]   ( ( S t t B p o c b t B f C    ( S C ( BJ1,2 U   S T A C H   5 .]
+[DELETED: S 1  ) I,“CR”N T SN E EY M T RISCR N Y E E ESCS. A O E() ACN A S A T T E E F A.() S P O T A F A C H RK A A S C A S T T E: (  I E E ICR E U NBI; ( T§1())  B  RAM R AS ( T EI. N() I§§1119N      RA,C RE T E E S F T T A T I T ILS C H R() ICN O F T E E U ( I; ( M;D  ( () H M C T C O T C H R]
+[DELETED:  S  E E   R§1 R R RPA.() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 5  ( A   ( S   ( P a]   ( P ( BJ1,2 U   S T A C H   5 . 5 ) AJ1,2N I L B U   S P E OFA C H R C I   ES51 A 1,2 5  ( ( T    ( S f    ( P   ( T B s r t l o a i p o i    ( S t a]    ( P]
+[DELETED: S 1  () IU T A C H R C I   5 .  ( T i   ( O   ( S t c e r e b t B   ( P a]   ( A t (  T A C H R C I   5 . 5  S t t h p o § 5 o t s t B o t a v o a m o i m t s m d a l t a a r a l o s o r a l i t a o l   ( F t   ( F   ( V t   ( R w q   ( C   ( I c o o p n c t a f o t a c i h   ( O]
+[DELETED:  S    ( E pn  o   ( U u l   ( C r   ( P    ( U    ( U i § 5 o t C L A o o d t i i e o t a   ( I o w   ( P d w a u pn oI s pn    ( F p i   ( S   ( I   ( P e o]   ( F (    5 . 7]
+[DELETED: S 1  ( ( I t s “ R t C I S C R o t D o P S a C   ( A p o a a t t C R f a S a n c h r c a a s s t t C R    ( A c s o l f t o fI A   B    ( T f a u § 1 o t C P Se ]A    ( T p o   ( I 18 ]1 P c ( IC O F T E E  () I;S  () M;IAD   () IA B U O F T L P    () I]( s l f t B m a a a m o a c h o   () T]( m p (  E EK  E E OCR]
+[DELETED:  S  I R C H R I F TT O S R A C H R C I   83: (  F C A A F NR ( A F C A A WS ( S R  OD ; (  F R A A C F E O WS C C MR I T F F R A F T R T  . 8  ( I S  ( A c   ( Ts  o]A  fs  o   ( T f a u § 1 o t C P A Se ]A   ( T p f r b t F B o I  ( I a w § 1 t 18 o t C]1 P t]
+[DELETED: S 1  ( ( I c h r i i r t t C R t d o t i c h r c t C R c   ( T    ( T a f w b r b t C R    ( A t   ( T a  ( I a a h m t o m u a a s l c B  ( I s be:   ( Cla]I; S (      () Ud ]()[] A b  ( T t 1 8  ( ( A    ( S a r§8   ;   ) SB:IU O]
+[DELETED:  S    1 A O OS ;   2  I T);    () P](I c     1 A a n a t p o a     2 A     3 A     4 A t p    () P](I    () B](    () B a l 1 y o t a f c a a](V n    () B a l 1 y o t a f c a a](V d    ()  a l 1 y o t a f c a a](V m   ( S a    ( A t    ( O t   () ( A a f c a a c n]( a c]
+[DELETED: S 2    ( A a s   () A](    ( H d    ( H a r o a n m o a r p o a d a t o p i a o s o t o t U S a t c o t n a o m   () B]( b    ( S a a t t B o t f t t B    ( P     1 S c o a a n a t     2 P 8  ( ( A r    ( F m t t l k m a o t c    ( E m t t l k e a o t c   ( A    ( T    ( T t    ( T]
+[DELETED:  S    ( I nn i t nn t w  ( ( ( T B s r c h r c i a     1 S at  e     2 E f c n aM   s    ( A e 1 ) ( BA1,2,E U   T O S R A H R C I A W   O T1  () I R A A D B OD ;  () IA ( T O   1[]( () T e  () I]( B a 1]
+[DELETED: S 2  ( ( T B s p a l o i s i t l s    ( A B    ( T   ( T i    ( M] a    ( P  () IU T A C H R C I   1 .  ( T e   ( H   ( M a]   ( P (  T A C H R C I   1 .  ( T b o   ( P an e a][A P O AY   a] (  T A C H R C I   E 11;   () O m t r o s ( o t]( s]
+[DELETED:  S  ) TH O   E11. 1 ) H A S S T A C H R   11.[]( () T   ( B B   ( H r  () E]( e  () ( I]( a   ( T () ]() t p t  () ( E]( r p a   ( T a c   ( I o t c   ( T B m n r a a f a l t p p d]
+[DELETED: S 2 a a   ( G f a r E p s a p ) I,“CR”N T SN E EY M T RISCR N Y E E ESCS. A O E() ACN A S A T T E E F A.() S P O T A F A C H RK A A S C A S T T E: (  I E E ICR E U NBI; ( T§1())  B  RAM R AS ( T EI. N() I§§1119N      RA,C RE T E E S F T T A T I T ILS C H R() ICN O F T E E U ( I; ( M;D ]
+[DELETED:  S  ( () H M C T C O T C H R E E   R§1 R R RPA.() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T  1  ( T   ( S] a   ( P (  T A C H R C I   1 . 1  T) o ) ( N O   O T SE I D W T G A11E  OB:  () T;H  () T;IH  () T;IH  () S;VU]
+[DELETED: S 2  () E;MS   () IT E T D W T ( T O   1 1 ) BJ1,2,E U    O S T A C H R C I A W  O.[]( () T e 1  ( T e   ( M r a]   ( S (  T A C H R C I   1 . ) I,“CR”N T SN E EY M T RISCR N Y E E ESCS. A O E() ACN A S A T T E E F A.]
+[DELETED:  S () S P O T A F A C H RK A A S C A S T T E: (  I E E ICR E U NBI; ( T§1())  B  RAM R AS ( T EI. N() I§§1119N      RA,C RE T E E S F T T A T I T ILS C H R() ICN O F T E E U ( I; ( M;D  ( () H M C T C O T C H R E E   R§1 R R RPA.() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 1]
+[DELETED: S 2  ( ( I t s “ R t C I S C R o t D o P S a C   ( T   ( A p o a a t t C R f a S a n s R    ( Ts ]  t o fs a b t dr  o t C][]I A FTI R    ( T f a u § 1 o t C P Se ]A    ( T p o   ( I 18 ]1 P A t C R s f t c h r i o t d r a t i s o t d   ( T B s e t in o] f    ( I kt     ( Is  r]AYB    ( Is ]A t   ( T m c t c o t p sC H R   P    E EK  E E OCR I R C H R I F T]
+[DELETED:  S  1  ( ( E b a w d p e t B s s t t w d a   ( I s t   ( I s d t   ( A    ( T d o w t c w d p e    ( T t p    ( T   ( B p d    ( O    ( P    ( S B   ( ( T t    ( W 3 d a r t f t w d i]
+[DELETED: S 3   ( T d a ( IS TE D R A I S O T R O T P H S S T A   1   () T B m d s o r t p o a]( w d i t B d t t w d n l q 1  ( A a s s a r f a S c N h  ( T  c 1  ( I S  ( A c   ( Ts  o]A  fs  dr []T IRA I E U NFBI[] ; a   ( T f a u § 1 o t C P A Se ]M;AD  ( T E N .  ( I a w § 1 t 18 o t C]1 P A t C R s f t c h r i o t at t t B a t a[I TLS .]
+[DELETED:  S   ( Tn ]N C sn:   ( I kt    ( Is   ]AYB   ( Is ]A s  ( T c i() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 1  ( I S  ( A c   ( To  ss  o]A[][ T    F   ( T f a u § 1 o t C P A Se ]A   ( T  p f r b t F B o I  ( I a w § 1 t 18 o t C]1 P t  ( I l c B]
+[DELETED: S 3  ( I   ( I ay ] (  n   () M]( t  ( T t 1 ) F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 1 ) BJ1,2,E U    O S T A C H R C I A W  O.  () T B s r t l o e l w m t]( r 1  ( I S  ( A c   ( Oe c s o l f t i a m]A[   B   ( T f a u § 1 o t C P A Se ]A]
+[DELETED:  S    ( Tep f r b t F B o I  ( I a w § 1 t 1 o t C P A h  ( I   ( I   ( M   ( Sl ]A t  ( T t 1() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 1  ( I S  ( A c   ( To  ss  o]A[][ T    F   ( T f a u § 1 o t C P A Se ]A   ( T p f r b t F B o I]
+[DELETED: S 3  ( I a w § 1 t 18 o t C]1 P c  ( I l c B  ( I   ( Se ]   ( M   ( Sl ]A t  ( T t 1() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 1  ( ( ( B c     1 S a r a a d b r     2 E f l o r w f f r u § 1 o t s a f t r t l o r    ( A     1 6 h]
+[DELETED:  S      2 E s   ( O r o t c h r i o a l f t t B i a w § 1 o t s i d w    ( T    ( T    ( T    ( S    ( E    ( O t   ( T B m n r a l o r i t c h 2  ( ( A p o t a f a c h r c t a    ( A l s of f t i a f B    ( T f a u § 1 o t C P Se ]A    ( T p o   ( I 18 ]1 P a   ( I o f t C R u t s    ( I ay]]
+[DELETED: S 3     ) IA    () M](I b   ( T m p    E EK  E E OCR I R C H R I F T 2  T t   ( I   ( I   ( H e a]   ( E e ( BJ1,2 U   H S T A C   2 .  ) I,“CR”N T SN E EY M T RISCR N Y E E ESCS. A O E() ACN A S A T T E E F A.]
+[DELETED:  S () S P O T A F A C H RK A A S C A S T T E: (  I E E ICR E U NBI; ( T§1())  B  RAM R AS ( T EI. N() I§§1119N      RA,C RE T E E S F T T A T I T ILS C H R() ICN O F T E E U ( I; ( M;D  ( () H M C T C O T C H R E E   R§1 R R RPA.() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 2]
+[DELETED: S 3  ( T w  ( T   ( T   ( T   ( T   ( T   ( T  ( T l() TH O M N I A L I T C H   2 2  ( B t   ( O   ( P   ( S r a]   ( S l h a 2 h o a t i e h o o e   IJ1,2 L B U   S S O S T A C H R C I W   O T S F T LES F21 U 1,2 . 2]
+[DELETED:  S  ) BJ1,2E U   A L E H   E21.() TH O M N R A L I T C 2  T B o t a v o a m o i f a) m ) BJ1,2E U   A I A F 1.E() TH O    S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 806
+J2 6lr1345
+CF HB 1420
+By: Chair, Joint Audit and Evaluation Committee and Senators Beidle, Gile,
+Hayes, Hershey, Jackson, Kramer, Lam, Mautz, Ready, and A. Washington
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 1, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Health Occupations – Criminal History Records Checks
+3 FOR the purpose of establishing and altering requirements related to criminal history
+4 records checks for certain licenses and certificates issued by the State Board of
+5 Acupuncture, the State Board of Dental Examiners, the State Board of Dietetic
+6 Practice, the State Board of Morticians and Funeral Directors, the State Board of
+7 Nursing, the State Board of Examiners in Optometry, the State Board of Pharmacy,
+8 the State Board of Physical Therapy Examiners, the State Board of Podiatric Medical
+9 Examiners, the State Board of Examiners of Psychologists, the State Board of
+10 Environmental Health Specialists, and the State Board for Certification of
+11 Residential Child Care Program Professionals; and generally relating to health
+12 occupations and criminal history records checks.
+13 BY repealing and reenacting, without amendments,
+14 Article – Health Occupations
+15 Section 1A–302(a)
+16 Annotated Code of Maryland
+17 (2021 Replacement Volume and 2025 Supplement)
+18 BY adding to
+19 Article – Health Occupations
+20 Section 1A–302(b)(4), 1A–302.1, 4–302.2, 4–307(d), 4–310(d), 4–315(a)(39) and
+21 (c)(21), 4–505(e) and (h), 5–302.1, 5–308(f), 8–302.2, 11–308(d), 12–302(d),
+22 12–302.1, 12–308(d), 12–6B–02.1, 13–311(e), 21–302.1, and 21–310(d) and (e)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0806*
+
+2 SENATE BILL 806
+1 Annotated Code of Maryland
+2 (2021 Replacement Volume and 2025 Supplement)
+3 BY repealing and reenacting, with amendments,
+4 Article – Health Occupations
+5 Section 1A–302(b)(4) and (5), 1A–306(c), 1A–307(c), 4–302, 4–304(a), 4–311,
+6 4–315(a)(37) and (38) and (c)(19) and (20), 4–505(e) and (f), 5–302(d), 5–303(a),
+7 5–309(a) and (b), 5–311, 7–301.1(c), 8–303, 8–6A–05(c), 8–6A–08(b) and (l)(1),
+8 11–308(d) and (e), 11–310, 12–302(d) through (g), 12–303(a), 12–306,
+9 12–308(d), 12–310(b), 12–6C–05.1(a), 12–6C–06(b), 12–6D–03(b) and (c),
+10 12–6D–04, 13–302.1, 13–311(e), 16–302.1, 18–302.1, 20–303(b), 21–302,
+11 21–307, 21–309(c), and 21–315
+12 Annotated Code of Maryland
+13 (2021 Replacement Volume and 2025 Supplement)
+14 BY repealing
+15 Article – Health Occupations
+16 Section 18–309(h)
+17 Annotated Code of Maryland
+18 (2021 Replacement Volume and 2025 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Health Occupations
+22 1A–302.
+23 (a) To qualify for a license, an applicant shall be an individual who meets the
+24 requirements of this section.
+25 (b) The applicant shall:
+26 (4) BEGINNING JULY 1, 2027, SUBMIT TO A CRIMINAL HISTORY
+27 RECORDS CHECK IN ACCORDANCE WITH § 1A–302.1 OF THIS SUBTITLE;
+28 [(4)] (5) Demonstrate the ability to communicate in the English
+29 language; and
+30 [(5)] (6) Meet any other qualifications that the Board establishes in
+31 regulations.
+32 1A–302.1.
+
+SENATE BILL 806 3
+1 (A) IN THIS SECTION, “CENTRAL REPOSITORY” MEANS THE CRIMINAL
+2 JUSTICE INFORMATION SYSTEM CENTRAL REPOSITORY OF THE DEPARTMENT OF
+3 PUBLIC SAFETY AND CORRECTIONAL SERVICES.
+4 (B) AN APPLICANT SHALL APPLY TO THE CENTRAL REPOSITORY FOR A
+5 STATE AND NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+6 (C) AS PART OF THE APPLICATION FOR A CRIMINAL HISTORY RECORDS
+7 CHECK, AN APPLICANT SHALL COMPLETE AND SUBMIT TO THE CENTRAL
+8 REPOSITORY:
+9 (1) A COMPLETE SET OF LEGIBLE FINGERPRINTS TAKEN IN A FORMAT
+10 APPROVED BY THE DIRECTOR OF THE CENTRAL REPOSITORY AND THE DIRECTOR
+11 OF THE FEDERAL BUREAU OF INVESTIGATION;
+12 (2) THE FEE AUTHORIZED UNDER § 10–221(B)(7) OF THE CRIMINAL
+13 PROCEDURE ARTICLE FOR ACCESS TO MARYLAND CRIMINAL HISTORY RECORDS;
+14 AND
+15 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+16 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+17 (D) IN ACCORDANCE WITH §§ 10–201 THROUGH 10–229 OF THE CRIMINAL
+18 PROCEDURE ARTICLE, THE CENTRAL REPOSITORY SHALL FORWARD TO THE
+19 BOARD AND THE INDIVIDUAL THE INDIVIDUAL’S CRIMINAL HISTORY RECORD
+20 INFORMATION.
+21 (E) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY UNDER
+22 THIS SECTION:
+23 (1) IS CONFIDENTIAL;
+24 (2) MAY NOT BE REDISSEMINATED; AND
+25 (3) MAY BE USED ONLY FOR THE LICENSING PURPOSE AUTHORIZED
+26 BY THIS TITLE.
+27 (F) THE SUBJECT OF A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+28 SECTION MAY CONTEST THE CONTENTS OF THE CRIMINAL HISTORY RECORD
+29 INFORMATION ISSUED BY THE CENTRAL REPOSITORY AS PROVIDED IN § 10–223 OF
+30 THE CRIMINAL PROCEDURE ARTICLE.
+
+4 SENATE BILL 806
+1 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+2 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+3 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+4 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+5 INDIVIDUAL.
+6 1A–306.
+7 (c) Before the license expires, the licensee periodically may renew it for an
+8 additional term, if the licensee:
+9 (1) Otherwise is entitled to be licensed;
+10 (2) Pays to the Board a renewal fee set by the Board; and
+11 (3) Submits to the Board:
+12 (i) A renewal application on the form that the Board requires; [and]
+13 (ii) Satisfactory evidence of compliance with any continuing
+14 education requirements set under this section for license renewal; AND
+15 (III) FOR INDIVIDUALS LICENSED BEFORE JANUARY 1, 2028,
+16 SATISFACTORY EVIDENCE OF A CRIMINAL HISTORY RECORDS CHECK IN
+17 ACCORDANCE WITH § 1A–302.1 OF THIS SUBTITLE FOR THE LICENSEE’S FIRST
+18 RENEWAL AFTER JANUARY 1, 2028.
+19 1A–307.
+20 (c) The Board may reinstate the license of a former licensee who has failed to
+21 renew the license for any reason if the former licensee:
+22 (1) Meets the continuing education requirements of § 1A–306 of this
+23 subtitle for each year that the license has lapsed;
+24 (2) Applies for reinstatement more than 30 days after the license renewal
+25 deadline;
+26 (3) Submits to the Board an application for reinstatement on the form
+27 required by the Board; [and]
+28 (4) Pays to the Board a reinstatement fee and a renewal fee set by the
+29 Board; AND
+
+SENATE BILL 806 5
+1 (5) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+2 ACCORDANCE WITH § 1A–302.1 OF THIS SUBTITLE.
+3 4–302.
+4 (a) Except as otherwise provided in this title, to qualify for a license, an applicant
+5 shall be an individual who meets the requirements of this section.
+6 (b) The applicant shall be of good moral character.
+7 (c) To qualify for a license to practice dentistry, the applicant shall be at least 18
+8 years old.
+9 (D) THE APPLICANT SHALL SUBMIT TO A CRIMINAL HISTORY RECORDS
+10 CHECK IN ACCORDANCE WITH § 4–302.2 OF THIS SUBTITLE.
+11 [(d)] (E) Unless waived by the Board under §§ 4–303 and 4–303.1 of this subtitle,
+12 and except as provided in § 4–306.1 of this subtitle, to qualify for a license to practice
+13 dentistry, the applicant shall hold a degree of Doctor of Dental Surgery, Doctor of Dental
+14 Medicine, or the equivalent, from a college or university that is:
+15 (1) Authorized by any state or any province of Canada to grant the degree;
+16 and
+17 (2) Recognized by the Board as requiring adequate preprofessional
+18 collegiate training and as maintaining an acceptable course of dental instruction.
+19 [(e)] (F) To qualify for a license to practice dental hygiene, the applicant shall
+20 be a graduate of a school for dental hygienists that:
+21 (1) Requires at least 2 years of education in an institution of higher
+22 education;
+23 (2) Is accredited by the American Dental Association Commission on
+24 Dental Accreditation; and
+25 (3) Is approved by the Board.
+26 [(f)] (G) (1) Unless the examination requirement is waived under § 4–306 or
+27 § 4–310 of this subtitle, and except as provided in § 4–303.1 of this subtitle, to qualify for a
+28 general license to practice dentistry or a general license to practice dental hygiene, the
+29 applicant shall pass an examination given by the Board under this subtitle.
+30 (2) An examination is not required for a teacher’s license to practice
+31 dentistry, a limited license to practice dentistry, or a teacher’s license to practice dental
+32 hygiene.
+
+6 SENATE BILL 806
+1 [(g)] (H) In addition to the requirements of subsections (a), (b), (c), [and] (d),
+2 AND (E) of this section, to qualify for a teacher’s license to practice dentistry, the applicant
+3 shall:
+4 (1) Be licensed to practice dentistry in any other state;
+5 (2) Have been active in the dental profession for at least 5 years;
+6 (3) Be a full–time or part–time faculty member at a college or university
+7 where the applicant teaches a subject required by the dental school of that college or
+8 university; and
+9 (4) If the applicant is engaged in a teaching area that is designated as a
+10 specialty by the National Commission on Recognition of Dental Specialties and Certifying
+11 Boards, meet the requirements established by the National Commission on Recognition of
+12 Dental Specialties and Certifying Boards for that specialty.
+13 [(h)] (I) In addition to the requirements of subsections (a), (b), [and (e)] (D),
+14 AND (F) of this section, to qualify for a teacher’s license to practice dental hygiene, the
+15 applicant shall:
+16 (1) Be licensed to practice dental hygiene in any other state;
+17 (2) Have been active as a dental hygienist for at least 5 years before
+18 applying for the teacher’s license to practice dental hygiene; and
+19 (3) Be a full–time or part–time faculty member at a dental school where
+20 the applicant teaches a subject required by that school.
+21 [(i)] (J) In addition to the requirements of subsections (a), (b), (c), [and] (d),
+22 AND (E) of this section, to qualify for a retired volunteer dentist’s license to practice
+23 dentistry, the applicant shall:
+24 (1) Have had a general license to practice dentistry issued under this title
+25 within the last 2 years;
+26 (2) Complete the continuing education requirements that the Board
+27 establishes for a general license; and
+28 (3) Provide dental services as required under § 4–308(c) of this subtitle.
+29 [(j)] (K) In addition to the requirements of subsections (a), (b), [and (e)] (D),
+30 AND (F) of this section, to qualify for a retired dental hygienist’s license to practice dental
+31 hygiene, the applicant shall:
+
+SENATE BILL 806 7
+1 (1) Have had a general license to practice dental hygiene under this title
+2 within the last 2 years;
+3 (2) Complete the continuing education requirements that the Board
+4 establishes for a general license; and
+5 (3) Provide dental hygiene services as required under § 4–308(g) of this
+6 subtitle.
+7 [(k)] (L) In addition to the requirements of subsections (a), (b), (c), [and] (d),
+8 AND (E) of this section, to qualify for a volunteer dentist’s license to practice dentistry, the
+9 applicant shall:
+10 (1) Satisfy the requirements of § 4–306(b)(1) and (d)(2) of this subtitle;
+11 (2) Hold an active license to practice dentistry in another state or in the
+12 District of Columbia;
+13 (3) Complete the continuing education requirements that the Board
+14 establishes for a general license;
+15 (4) Provide dental services exclusively in the manner described in §
+16 4–308(c) of this subtitle; and
+17 (5) Immediately upon ceasing to provide services exclusively in the manner
+18 described in § 4–308(c) of this subtitle, surrender the volunteer license to the Board.
+19 [(l)] (M) In addition to the requirements of subsections (a), (b), (c), (D), and [(e)]
+20 (F) of this section, to qualify for a volunteer dental hygienist’s license to practice dental
+21 hygiene, an applicant shall:
+22 (1) Satisfy the requirements of § 4–306(b)(2) and (e)(2) of this subtitle;
+23 (2) Hold an active license to practice dental hygiene in another state or in
+24 the District of Columbia;
+25 (3) Complete the continuing education requirements that the Board
+26 establishes for a general license;
+27 (4) Provide dental hygiene services exclusively in the manner described in
+28 § 4–308(g) of this subtitle; and
+29 (5) Immediately upon ceasing to provide services exclusively in the manner
+30 described in § 4–308(g) of this subtitle, surrender the volunteer license to the Board.
+
+8 SENATE BILL 806
+1 [(m)] (N) To qualify for a limited license to practice dentistry, the applicant shall
+2 meet the requirements set forth in subsections (a), (b), (c), [and] (d), AND (E) of this section.
+3 4–302.2.
+4 (A) IN THIS SECTION, “CENTRAL REPOSITORY” MEANS THE CRIMINAL
+5 JUSTICE INFORMATION SYSTEM CENTRAL REPOSITORY OF THE DEPARTMENT OF
+6 PUBLIC SAFETY AND CORRECTIONAL SERVICES.
+7 (B) AN APPLICANT SHALL APPLY TO THE CENTRAL REPOSITORY FOR A
+8 STATE AND NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+9 (C) AS PART OF THE APPLICATION FOR A CRIMINAL HISTORY RECORDS
+10 CHECK, AN APPLICANT SHALL COMPLETE AND SUBMIT TO THE CENTRAL
+11 REPOSITORY:
+12 (1) A COMPLETE SET OF LEGIBLE FINGERPRINTS TAKEN IN A FORMAT
+13 APPROVED BY THE DIRECTOR OF THE CENTRAL REPOSITORY AND THE DIRECTOR
+14 OF THE FEDERAL BUREAU OF INVESTIGATION;
+15 (2) THE FEE AUTHORIZED UNDER § 10–221(B)(7) OF THE CRIMINAL
+16 PROCEDURE ARTICLE FOR ACCESS TO MARYLAND CRIMINAL HISTORY RECORDS;
+17 AND
+18 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+19 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+20 (D) IN ACCORDANCE WITH §§ 10–201 THROUGH 10–229 OF THE CRIMINAL
+21 PROCEDURE ARTICLE, THE CENTRAL REPOSITORY SHALL FORWARD TO THE
+22 BOARD AND THE INDIVIDUAL THE INDIVIDUAL’S CRIMINAL HISTORY RECORD
+23 INFORMATION.
+24 (E) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY UNDER
+25 THIS SECTION:
+26 (1) IS CONFIDENTIAL;
+27 (2) MAY NOT BE REDISSEMINATED; AND
+28 (3) MAY BE USED ONLY FOR THE LICENSING PURPOSE AUTHORIZED
+29 BY THIS TITLE.
+
+SENATE BILL 806 9
+1 (F) THE SUBJECT OF A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+2 SECTION MAY CONTEST THE CONTENTS OF THE CRIMINAL HISTORY RECORD
+3 INFORMATION ISSUED BY THE CENTRAL REPOSITORY AS PROVIDED IN § 10–223 OF
+4 THE CRIMINAL PROCEDURE ARTICLE.
+5 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+6 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+7 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+8 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+9 INDIVIDUAL.
+10 (H) ON RECEIPT OF THE CRIMINAL HISTORY RECORD INFORMATION OF AN
+11 APPLICANT FOR LICENSURE OR CERTIFICATION FORWARDED TO THE BOARD IN
+12 ACCORDANCE WITH THIS SECTION, IN DETERMINING WHETHER TO GRANT A
+13 LICENSE OR CERTIFICATE, THE BOARD SHALL CONSIDER:
+14 (1) THE AGE AT WHICH THE CRIME WAS COMMITTED;
+15 (2) THE CIRCUMSTANCES SURROUNDING THE CRIME;
+16 (3) THE LENGTH OF TIME THAT HAS PASSED SINCE THE CRIME;
+17 (4) SUBSEQUENT WORK HISTORY;
+18 (5) EMPLOYMENT AND CHARACTER REFERENCES; AND
+19 (6) OTHER EVIDENCE THAT DEMONSTRATES WHETHER THE
+20 APPLICANT POSES A THREAT TO THE PUBLIC HEALTH OR SAFETY.
+21 4–304.
+22 (a) To apply for a license, an applicant shall:
+23 (1) Submit an application to the Board on the form that the Board requires;
+24 [and]
+25 (2) SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN
+26 ACCORDANCE WITH § 4–302.2 OF THIS SUBTITLE; AND
+27 (3) Pay to the Board an application fee set by the Board.
+28 4–307.
+
+10 SENATE BILL 806
+1 (D) THE BOARD MAY NOT ISSUE A LICENSE IF THE CRIMINAL HISTORY
+2 RECORD INFORMATION REQUIRED UNDER § 4–302.2 OF THIS SUBTITLE HAS NOT
+3 BEEN RECEIVED.
+4 4–310.
+5 (D) THE BOARD MAY NOT ISSUE A LICENSE IF THE CRIMINAL HISTORY
+6 RECORD INFORMATION REQUIRED UNDER § 4–302.2 OF THIS SUBTITLE HAS NOT
+7 BEEN RECEIVED.
+8 4–311.
+9 (A) The Board shall reinstate a general license to practice dentistry, a teacher’s
+10 license to practice dentistry, a general license to practice dental hygiene, or a teacher’s
+11 license to practice dental hygiene that is expired only if the licensee:
+12 (1) Meets the renewal and reinstatement requirements set by rule and
+13 regulation of the Board; and
+14 (2) Pays to the Board a reinstatement fee set by the Board.
+15 (B) (1) BEGINNING OCTOBER 1, 2027, THE BOARD SHALL REQUIRE A
+16 CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH § 4–302.2 OF THIS
+17 SUBTITLE FOR:
+18 (I) LICENSE RENEWAL APPLICANTS AS DETERMINED BY
+19 REGULATIONS ADOPTED BY THE BOARD; AND
+20 (II) EACH FORMER LICENSEE WHO FILES FOR REINSTATEMENT
+21 AFTER FAILING TO RENEW A LICENSE.
+22 (2) THE BOARD MAY NOT RENEW OR REINSTATE A LICENSE IF THE
+23 CRIMINAL HISTORY RECORD INFORMATION REQUIRED UNDER § 4–302.2 OF THIS
+24 SUBTITLE HAS NOT BEEN RECEIVED.
+25 4–315.
+26 (a) Subject to the hearing provisions of § 4–318 of this subtitle, the Board may
+27 deny a general license to practice dentistry, a limited license to practice dentistry, or a
+28 teacher’s license to practice dentistry to any applicant, reprimand any licensed dentist,
+29 place any licensed dentist on probation, or suspend or revoke the license of any licensed
+30 dentist, if the applicant or licensee:
+31 (37) Accepts or tenders rebates or splits fees in violation of § 4–103(c) of this
+32 title; [or]
+
+SENATE BILL 806 11
+1 (38) Allows a dental assistant to assist in the practice of dentistry:
+2 (i) In an unauthorized manner in violation of this title or
+3 regulations adopted by the Board;
+4 (ii) Without specifically instructing the certified dental assistant to
+5 perform an intraoral procedure that the certified dental assistant is authorized to perform;
+6 or
+7 (iii) Failing to provide direct supervision of a dental assistant; OR
+8 (39) FAILS TO SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN
+9 ACCORDANCE WITH § 4–302.2 OF THIS SUBTITLE.
+10 (c) Subject to the hearing provisions of § 4–318 of this subtitle, the Board may
+11 deny a general license to practice dental hygiene, a teacher’s license to practice dental
+12 hygiene, or a temporary license to practice dental hygiene to any applicant, reprimand any
+13 licensed dental hygienist, place any licensed dental hygienist on probation, or suspend or
+14 revoke the license of any licensed dental hygienist, if the applicant or licensee:
+15 (19) Fails to comply with any Board order; [or]
+16 (20) Willfully and without legal justification, fails to cooperate with a lawful
+17 investigation conducted by the Board; OR
+18 (21) FAILS TO SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN
+19 ACCORDANCE WITH § 4–302.2 OF THIS SUBTITLE.
+20 4–505.
+21 (E) AN APPLICANT FOR A CERTIFICATE TO PRACTICE AS A DENTAL
+22 RADIATION TECHNOLOGIST SHALL SUBMIT TO A CRIMINAL HISTORY RECORDS
+23 CHECK IN ACCORDANCE WITH § 4–302.2 OF THIS SUBTITLE.
+24 [(e)] (F) At least 1 month before a certificate expires, the Board shall send to
+25 each certificate holder, by electronic means or first–class mail to the last known electronic
+26 or physical address of the certificate holder, a renewal notice that states:
+27 (1) The date on which the current certificate expires;
+28 (2) The date by which the renewal application must be received by the
+29 Board for the renewal to be issued and mailed before the certificate expires; and
+30 (3) The amount of the renewal fee.
+
+12 SENATE BILL 806
+1 [(f)] (G) An individual may be simultaneously certified as a dental radiation
+2 technologist under this section and as an expanded function dental assistant.
+3 (H) (1) BEGINNING OCTOBER 1, 2027, THE BOARD SHALL REQUIRE A
+4 CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH § 4–302.2 OF THIS
+5 SUBTITLE FOR:
+6 (I) CERTIFICATE RENEWAL APPLICANTS AS DETERMINED BY
+7 REGULATIONS ADOPTED BY THE BOARD; AND
+8 (II) EACH FORMER CERTIFICATE HOLDER WHO FILES FOR
+9 REINSTATEMENT AFTER FAILING TO RENEW A CERTIFICATE.
+10 (2) THE BOARD MAY NOT RENEW OR REINSTATE A CERTIFICATE IF
+11 THE CRIMINAL HISTORY RECORD INFORMATION REQUIRED UNDER § 4–302.2 OF
+12 THIS SUBTITLE HAS NOT BEEN RECEIVED.
+13 5–302.
+14 (d) The applicant for licensure as a dietitian–nutritionist shall:
+15 (1) (i) 1. Have satisfactorily completed academic requirements for
+16 the field of dietetics as approved by the Board; and
+17 2. Have received at a minimum a baccalaureate degree from
+18 a college or university accredited by an educational accrediting association as required by
+19 the Commission on Dietetic Registration; or
+20 (ii) Have received a master’s or doctoral degree from a college or
+21 university accredited by an educational accrediting association recognized by the Council
+22 on Higher Education and Accreditation in nutritional sciences (with emphasis in human
+23 nutrition), food and nutrition, dietetics, human nutrition, community nutrition, public
+24 health nutrition, or equivalent training approved by the Board;
+25 (2) Have satisfactorily completed a program of supervised clinical
+26 experience approved by the Board; [and]
+27 (3) (i) Submit to the Board proof of certification by the Board for
+28 Certification of Nutrition Specialists; or
+29 (ii) Submit to the Board proof of registration as a dietitian with the
+30 Commission on Dietetic Registration of the Academy of Nutrition and Dietetics; AND
+31 (4) BEGINNING JULY 1, 2027, SUBMIT TO A CRIMINAL HISTORY
+32 RECORDS CHECK IN ACCORDANCE WITH § 5–302.1 OF THIS SUBTITLE.
+
+SENATE BILL 806 13
+1 5–302.1.
+2 (A) IN THIS SECTION, “CENTRAL REPOSITORY” MEANS THE CRIMINAL
+3 JUSTICE INFORMATION SYSTEM CENTRAL REPOSITORY OF THE DEPARTMENT OF
+4 PUBLIC SAFETY AND CORRECTIONAL SERVICES.
+5 (B) AN APPLICANT SHALL APPLY TO THE CENTRAL REPOSITORY FOR A
+6 STATE AND NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+7 (C) AS PART OF THE APPLICATION FOR A CRIMINAL HISTORY RECORDS
+8 CHECK, AN APPLICANT SHALL COMPLETE AND SUBMIT TO THE CENTRAL
+9 REPOSITORY:
+10 (1) A COMPLETE SET OF LEGIBLE FINGERPRINTS TAKEN IN A FORMAT
+11 APPROVED BY THE DIRECTOR OF THE CENTRAL REPOSITORY AND THE DIRECTOR
+12 OF THE FEDERAL BUREAU OF INVESTIGATION;
+13 (2) THE FEE AUTHORIZED UNDER § 10–221(B)(7) OF THE CRIMINAL
+14 PROCEDURE ARTICLE FOR ACCESS TO MARYLAND CRIMINAL HISTORY RECORDS;
+15 AND
+16 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+17 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+18 (D) IN ACCORDANCE WITH §§ 10–201 THROUGH 10–229 OF THE CRIMINAL
+19 PROCEDURE ARTICLE, THE CENTRAL REPOSITORY SHALL FORWARD TO THE
+20 BOARD AND THE INDIVIDUAL THE INDIVIDUAL’S CRIMINAL HISTORY RECORD
+21 INFORMATION.
+22 (E) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY UNDER
+23 THIS SECTION:
+24 (1) IS CONFIDENTIAL;
+25 (2) MAY NOT BE REDISSEMINATED; AND
+26 (3) MAY BE USED ONLY FOR THE LICENSING PURPOSE AUTHORIZED
+27 BY THIS TITLE.
+28 (F) THE SUBJECT OF A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+29 SECTION MAY CONTEST THE CONTENTS OF THE CRIMINAL HISTORY RECORD
+
+14 SENATE BILL 806
+1 INFORMATION ISSUED BY THE CENTRAL REPOSITORY AS PROVIDED IN § 10–223 OF
+2 THE CRIMINAL PROCEDURE ARTICLE.
+3 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+4 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+5 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+6 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+7 INDIVIDUAL.
+8 5–303.
+9 (a) An applicant for a license shall:
+10 (1) Submit an application to the Board on the form that the Board requires;
+11 (2) Pay the application fee set by the Board; [and]
+12 (3) Provide proof of passing an examination approved by the Board; AND
+13 (4) BEGINNING JULY 1, 2027, SUBMIT TO A CRIMINAL HISTORY
+14 RECORDS CHECK IN ACCORDANCE WITH § 5–302.1 OF THIS SUBTITLE.
+15 5–308.
+16 (F) AN INDIVIDUAL LICENSED BEFORE JULY 1, 2027, SHALL PROVIDE
+17 SATISFACTORY EVIDENCE OF A CRIMINAL HISTORY RECORDS CHECK IN
+18 ACCORDANCE WITH § 5–302.1 OF THIS TITLE FOR THE LICENSEE’S FIRST RENEWAL
+19 AFTER JANUARY 1, 2028.
+20 5–309.
+21 (a) (1) The Board shall place a licensee on inactive status if the licensee:
+22 (i) Submits to the Board an application for inactive status on the
+23 form required by the Board; and
+24 (ii) Pays to the Board the inactive status fee set by the Board.
+25 (2) The Board shall reactivate the license of an individual placed on
+26 inactive status if the individual:
+27 (i) Satisfies the continuing education requirements established by
+28 the Board; [and]
+29 (ii) Pays to the Board a reactivation fee set by the Board; AND
+
+SENATE BILL 806 15
+1 (III) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+2 ACCORDANCE WITH § 5–302.1 OF THIS SUBTITLE.
+3 (b) The Board, in accordance with its regulations, shall reinstate the license of an
+4 individual who failed to renew a license for any reason if the individual:
+5 (1) Otherwise is entitled to be licensed;
+6 (2) Satisfies the continuing education requirements established by the
+7 Board;
+8 (3) Pays to the Board a reinstatement fee set by the Board; [and]
+9 (4) Applies to the Board for reinstatement of a license within 5 years after
+10 the expiration of the license; AND
+11 (5) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+12 ACCORDANCE WITH § 5–302.1 OF THIS SUBTITLE.
+13 5–311.
+14 Subject to the hearing provisions of § 5–312 of this subtitle, the Board, on the
+15 affirmative vote of a majority of its members then serving, may deny a license to any
+16 applicant, reprimand any licensee, or suspend or revoke a license if the applicant or
+17 licensee:
+18 (1) Fraudulently or deceptively obtains or attempts to obtain a license for
+19 the applicant or licensee or for another;
+20 (2) Fraudulently or deceptively uses a license;
+21 (3) Violates any provision of this title or any regulations adopted under this
+22 title;
+23 (4) Refuses, withholds from, denies, or discriminates against an individual
+24 with regard to the provision of professional service for which the licensee is licensed and
+25 qualified to render because the individual is HIV positive;
+26 (5) Commits fraud or deceit in the practice of dietetics;
+27 (6) Is convicted of or pleads nolo contendere to a felony or to a crime
+28 involving moral turpitude, whether or not any appeal or other proceeding is pending to
+29 have the conviction or plea set aside;
+30 (7) Obtains or attempts to obtain a fee through fraud or misrepresentation;
+
+16 SENATE BILL 806
+1 (8) Employs any [person] INDIVIDUAL to practice dietetics whose license
+2 or certificate to practice a health occupation under this article has been suspended;
+3 (9) Uses or promotes or causes the use of any misleading, deceiving, or
+4 untruthful advertising matter, or promotional literature, testimonial, guarantee, warranty,
+5 label, brand, insignia, or other representation;
+6 (10) Commits any act of unprofessional conduct, as defined by the rules and
+7 regulations of the Board, or violates the code of ethics adopted by the Board;
+8 (11) Provides professional services while:
+9 (i) Under the influence of alcohol; or
+10 (ii) Using any narcotic or controlled dangerous substance, as defined
+11 in § 5–101 of the Criminal Law Article, or other drug that is in excess of therapeutic
+12 amounts or without valid medical indication;
+13 (12) Is disciplined by a licensing or disciplinary authority of any other state
+14 or country or convicted or disciplined by a court of any other state or country for an act that
+15 would be grounds for disciplinary action under this section;
+16 (13) Practices dietetics with an unauthorized [person] INDIVIDUAL or
+17 supervises or aids an unauthorized [person] INDIVIDUAL in the practice of dietetics;
+18 (14) Fails to file or record any report or record as required by law in the
+19 practice of dietetics, impedes or obstructs the filing or recording of the report or record, or
+20 induces another to fail to file or record the report or record;
+21 (15) Submits a false statement to collect a fee;
+22 (16) Is professionally, physically, or mentally incompetent;
+23 (17) Promotes the sale of devices, appliances, or goods to a patient so as to
+24 exploit the patient for financial gain; [or]
+25 (18) Fails to cooperate with a lawful investigation conducted by the Board;
+26 OR
+27 (19) FAILS TO SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN
+28 ACCORDANCE WITH § 5–302.1 OF THIS SUBTITLE.
+29 7–301.1.
+
+SENATE BILL 806 17
+1 (c) (1) In this subsection, “Central Repository” means the Criminal Justice
+2 Information System Central Repository of the Department of Public Safety and
+3 Correctional Services.
+4 (2) As part of an application to the Central Repository for a State and
+5 national criminal history records check, an applicant shall submit to the Central
+6 Repository:
+7 (i) A complete set of legible fingerprints taken [on forms] IN A
+8 FORMAT approved by the Director of the Central Repository and the Director of the Federal
+9 Bureau of Investigation;
+10 (ii) The fee authorized under § 10–221(b)(7) of the Criminal
+11 Procedure Article for access to [State] MARYLAND criminal history records; and
+12 (iii) The MANDATORY processing fee required by the Federal Bureau
+13 of Investigation for a national criminal history records check.
+14 (3) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+15 Procedure Article, the Central Repository shall forward to the Board and the applicant the
+16 criminal history record information of the applicant.
+17 (4) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY
+18 UNDER THIS SUBSECTION:
+19 (I) IS CONFIDENTIAL;
+20 (II) MAY NOT BE REDISSEMINATED; AND
+21 (III) MAY BE USED ONLY FOR THE LICENSING PURPOSE
+22 AUTHORIZED BY THIS TITLE.
+23 [(4)] (5) If an applicant has made three or more unsuccessful attempts at
+24 securing legible fingerprints, the Board may accept an alternate method of a criminal
+25 history records check as allowed by the Director of the Central Repository and the Director
+26 of the Federal Bureau of Investigation.
+27 [(5)] (6) The subject of a criminal history records check under this section
+28 may contest the contents of the printed statement issued by the Central Repository as
+29 provided in § 10–223 of the Criminal Procedure Article.
+30 (7) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO
+31 THE CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+32 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+
+18 SENATE BILL 806
+1 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+2 INDIVIDUAL.
+3 8–302.2.
+4 THE BOARD SHALL REQUIRE A CRIMINAL HISTORY RECORDS CHECK IN
+5 ACCORDANCE WITH § 8–303 OF THIS SUBTITLE FOR:
+6 (1) APPLICANTS FOR CERTIFICATION AS A FORENSIC NURSE
+7 EXAMINER;
+8 (2) APPLICANTS FOR CERTIFICATION AS A WORKERS’
+9 COMPENSATION CASE MANAGER;
+10 (3) SELECTED ANNUAL RENEWAL APPLICANTS FOR CERTIFICATION
+11 AS A FORENSIC NURSE EXAMINER OR WORKERS’ COMPENSATION CASE MANAGER, AS
+12 REQUIRED BY REGULATIONS ADOPTED BY THE BOARD; AND
+13 (4) APPLICANTS FOR REINSTATEMENT AS A CERTIFIED FORENSIC
+14 NURSE EXAMINER OR WORKERS’ COMPENSATION CASE MANAGER, IF THE
+15 APPLICANT FILES FOR REINSTATEMENT AFTER FAILING TO RENEW THE
+16 CERTIFICATION FOR A PERIOD OF 1 YEAR OR MORE.
+17 8–303.
+18 (a) In this section, “Central Repository” means the Criminal Justice Information
+19 System Central Repository of the Department of Public Safety and Correctional Services.
+20 (b) As part of an application to the Central Repository for a State and national
+21 criminal history records check, an applicant shall submit to the Central Repository:
+22 (1) [Two complete sets] A COMPLETE SET of legible fingerprints taken [on
+23 forms] IN A FORMAT approved by the Director of the Central Repository and the Director
+24 of the Federal Bureau of Investigation;
+25 (2) The fee authorized under § 10–221(b)(7) of the Criminal Procedure
+26 Article for access to [State] MARYLAND criminal history records; and
+27 (3) The MANDATORY processing fee required by the Federal Bureau of
+28 Investigation for a national criminal history records check.
+29 (c) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+30 Procedure Article, the Central Repository shall forward to the Board and to the applicant
+31 the criminal history record information of the applicant.
+
+SENATE BILL 806 19
+1 (d) (1) If criminal history record information is reported to the Central
+2 Repository after the date of the initial criminal history records check, the Central
+3 Repository shall provide to the Board a revised printed statement of the individual’s State
+4 criminal history record.
+5 (2) The Board shall notify each applicant that:
+6 (i) The applicant’s fingerprints will be retained by the Central
+7 Repository; and
+8 (ii) All new and additional criminal information will be reported to
+9 the Board.
+10 (3) The Board may enter into an agreement with the Central Repository
+11 and the Federal Bureau of Investigation to carry out this subsection.
+12 (e) If an applicant has made two or more unsuccessful attempts at securing
+13 legible fingerprints, the Board may accept an alternate method of criminal history records
+14 check as permitted by the Director of the Central Repository and the Director of the Federal
+15 Bureau of Investigation.
+16 (f) Information obtained from the Central Repository under this section [shall
+17 be]:
+18 (1) [Confidential and may] IS CONFIDENTIAL;
+19 (2) MAY not be redisseminated; and
+20 [(2)] (3) [Used] MAY BE USED only for the licensing purpose authorized
+21 by this title.
+22 (g) The subject of a criminal history records check under this section may contest
+23 the contents of the printed statement issued by the Central Repository as provided in §
+24 10–223 of the Criminal Procedure Article.
+25 8–6A–05.
+26 (c) (1) An applicant for a certificate shall:
+27 (i) Submit [an application to the Board on the form that the Board
+28 requires] TO A CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH § 8–303
+29 OF THIS TITLE;
+30 (II) SUBMIT TO THE BOARD:
+
+20 SENATE BILL 806
+1 1. AN APPLICATION TO THE BOARD ON THE FORM THAT
+2 THE BOARD REQUIRES; AND
+3 2. WRITTEN VERIFICATION THAT THE REQUIREMENT IN
+4 ITEM (I) OF THIS PARAGRAPH IS BEING OR HAS BEEN MET;
+5 [(ii)] (III) Provide evidence, as required by the Board, of successful
+6 completion of:
+7 1. An approved nursing assistant training program or
+8 approved acute care nursing assistant training program;
+9 2. An approved dialysis technician training program;
+10 3. An approved course in medication administration; or
+11 4. A portion of an approved nursing education program that
+12 the Board determines meets the requirements of an approved nursing assistant training
+13 program or medication administration course;
+14 [(iii)] (IV) Pay to the Board an application fee set by the Board;
+15 [(iv)] (V) Be of good moral character;
+16 [(v)] (VI) Be at least 16 years old to apply for certification as a
+17 nursing assistant;
+18 [(vi)] (VII) Be at least 18 years old to apply for certification as a
+19 dialysis technician; and
+20 [(vii)] (VIII) Be at least 18 years old to apply for certification as a
+21 medication technician.
+22 [(2) Subject to paragraph (1) of this subsection, an applicant for certification
+23 as a certified nursing assistant or dialysis technician shall submit to the Board:
+24 (i) A criminal history records check in accordance with § 8–303 of
+25 this title and § 8–6A–08(k) of this subtitle; and
+26 (ii) On the form required by the Board, written, verified evidence
+27 that the requirement of item (i) of this paragraph is being met or has been met.]
+28 [(3)] (2) (i) An applicant for certification as a certified nursing
+29 assistant shall submit to the Board satisfactory evidence of passing a nursing assistant
+30 competency evaluation.
+
+SENATE BILL 806 21
+1 (ii) An applicant who has completed an approved acute care nursing
+2 assistant training program shall be deemed to have fulfilled the classroom and clinical
+3 standards to sit for the nursing assistant competency evaluation.
+4 [(4)] (3) An applicant for a certificate may not:
+5 (i) Have committed any act or omission that would be grounds for
+6 discipline or denial of certification under this subtitle; and
+7 (ii) Have a record of abuse, negligence, misappropriation of a
+8 resident’s property, or any disciplinary action taken or pending in any other state or
+9 territory of the United States against the certification of the nursing assistant or
+10 medication technician in the state or territory.
+11 [(5)] (4) Beginning October 1, 2025, a certified nursing assistant–II may
+12 be certified as a certified nursing assistant–I by:
+13 (i) Submitting an application to the Board on the form that the
+14 Board requires; and
+15 (ii) Providing satisfactory evidence of:
+16 1. Successful completion of an approved nursing assistant
+17 training program; and
+18 2. Passing a nursing assistant competency evaluation.
+19 8–6A–08.
+20 (b) (1) At least 3 months before a certificate expires, the Board shall send a
+21 renewal notice to the certificate holder by:
+22 (i) First–class mail to the last known mailing address of the
+23 certificate holder; or
+24 (ii) Electronic means to the last known electronic address of the
+25 certificate holder.
+26 (2) A renewal notice shall state:
+27 (i) The date on which the current certificate expires;
+28 (ii) The date by which the renewal application must be received by
+29 the Board for the renewal to be issued and mailed before the certificate expires; and
+30 (iii) The amount of the renewal fee.
+
+22 SENATE BILL 806
+1 (3) If a [nursing assistant or dialysis technician] CERTIFICATE HOLDER
+2 is required to have a criminal history records check before a certificate may be renewed,
+3 the Board shall send the [nursing assistant or dialysis technician] CERTIFICATE HOLDER
+4 the documents necessary for initiating the criminal history records check in conjunction
+5 with the renewal notice required under paragraph (1) of this subsection.
+6 (l) (1) (i) The Board shall require criminal history records checks in
+7 accordance with § 8–303 of this title on:
+8 1. Selected applicants for certification as a certified nursing
+9 assistant, MEDICATION TECHNICIAN, or dialysis technician who renew their certificates
+10 every 2 years as determined by regulations adopted by the Board; and
+11 2. Each former certified nursing assistant, MEDICATION
+12 TECHNICIAN, or dialysis technician who files for reinstatement under subsection (h) of this
+13 section after failing to renew the certificate for a period of 1 year or more.
+14 (ii) An additional criminal history records check shall be performed
+15 every 12 years thereafter.
+16 11–308.
+17 (D) (1) BEGINNING AUGUST 1, 2026, THE BOARD SHALL REQUIRE A
+18 CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH § 11–302.1 OF THIS
+19 SUBTITLE FOR:
+20 (I) LICENSE RENEWAL APPLICANTS AS DETERMINED BY
+21 REGULATIONS ADOPTED BY THE BOARD; AND
+22 (II) EACH FORMER LICENSEE WHO FILES FOR REINSTATEMENT
+23 AFTER FAILING TO RENEW A LICENSE.
+24 (2) THE BOARD MAY NOT RENEW OR REINSTATE A LICENSE IF THE
+25 CRIMINAL HISTORY RECORD INFORMATION REQUIRED UNDER § 11–302.1 OF THIS
+26 SUBTITLE HAS NOT BEEN RECEIVED.
+27 [(d)] (E) The Board shall renew the license of and issue a renewal certificate to
+28 each licensee who meets the requirements of this section.
+29 [(e)] (F) If an optometrist does not renew a license before its expiration date, the
+30 Board shall send to the optometrist a notice stating that the license will expire 30 days
+31 after the notice is sent unless the optometrist applies for renewal within the grace period.
+32 11–310.
+
+SENATE BILL 806 23
+1 (a) (1) The Board shall place a licensee on inactive status, if the licensee
+2 submits to the Board:
+3 (i) An application for inactive status on the form required by the
+4 Board; and
+5 (ii) The inactive status fee set by the Board.
+6 (2) The Board shall issue a license to an individual who is on inactive status
+7 if the individual:
+8 (i) Meets any continuing education requirements set by the Board;
+9 [and]
+10 (ii) Pays to the Board the reinstatement fee set by the Board; AND
+11 (III) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+12 ACCORDANCE WITH § 11–302.1 OF THIS SUBTITLE.
+13 (b) The Board may reinstate the license of an optometrist whose license has been
+14 expired for less than 5 years and who has not been put on inactive status, if the optometrist:
+15 (1) Has met the continuing education requirements set by the Board;
+16 (2) Meets the renewal requirements of § 11–308 of this subtitle; [and]
+17 (3) Pays to the Board the reinstatement fee set by the Board; AND
+18 (4) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+19 ACCORDANCE WITH § 11–302.1 OF THIS SUBTITLE.
+20 (c) The Board may not reinstate the license of an optometrist whose license has
+21 been expired for 5 years or more and who has not been put on inactive status, unless the
+22 optometrist:
+23 (1) Passes [an] ALL PARTS OF ANY examination [administered]
+24 REQUIRED by the Board; [and]
+25 (2) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+26 ACCORDANCE WITH § 11–302.1 OF THIS SUBTITLE; AND
+27 [(2)] (3) Otherwise meets the requirements of subsection (b) of this
+28 section.
+
+24 SENATE BILL 806
+1 (D) THE BOARD MAY REACTIVATE A LICENSEE ON INACTIVE STATUS ONLY
+2 IF THE LICENSEE ATTESTS THAT THE LICENSEE HAS SUBMITTED TO A CRIMINAL
+3 HISTORY RECORDS CHECK UNDER § 11–302.1 OF THIS SUBTITLE.
+4 12–302.
+5 (D) THE APPLICANT SHALL SUBMIT TO A CRIMINAL HISTORY RECORDS
+6 CHECK IN ACCORDANCE WITH § 12–302.1 OF THIS SUBTITLE.
+7 [(d)] (E) The applicant shall:
+8 (1) Be a graduate of a school or college of pharmacy that is approved by the
+9 Board or accredited by the American Council on Pharmaceutical Education; and
+10 (2) Have completed the professional experience program that the Board
+11 requires.
+12 [(e)] (F) Except as otherwise provided in this title, the applicant shall pass an
+13 examination given by the Board under this subtitle.
+14 [(f)] (G) (1) In this subsection, “foreign school or college of pharmacy” means
+15 a school or college of pharmacy that is not located in any state in the United States.
+16 (2) The Board may waive the requirements of subsection [(d)(1)] (E)(1) of
+17 this section for an applicant who is a graduate of a foreign school or college of pharmacy,
+18 provided that the applicant passes an examination approved by the Board in addition to
+19 the examinations otherwise given by the Board under this subtitle.
+20 [(g)] (H) (1) Except as otherwise provided in this subsection, the Board shall
+21 require, as part of its examination or licensing procedures, an applicant for a license to
+22 practice pharmacy to demonstrate an oral competency in the English language by passing
+23 a Board approved standardized test of oral competency.
+24 (2) The Board shall adopt regulations that establish a procedure for testing
+25 an individual who because of the individual’s speech or hearing impairment is unable to
+26 complete satisfactorily a Board approved standardized test of oral competency.
+27 (3) If any disciplinary charge or action that relates to a problem with the
+28 oral communication of the English language is brought against a licensee under this title,
+29 the Board shall require the licensee to pass a Board approved standardized test of oral
+30 competency.
+31 (4) The Board may not require an applicant for a license to practice
+32 pharmacy, who is or was previously licensed in another state to practice pharmacy, to
+33 demonstrate an oral competency in the English language, if the other state’s examination
+
+SENATE BILL 806 25
+1 and licensing procedures at the time the applicant was licensed in the other state included
+2 an oral competency component.
+3 (5) Graduation from a recognized English–speaking professional school
+4 accredited by the Accreditation Council for Pharmacy Education is acceptable as proof of
+5 proficiency in the oral communication of the English language under this subsection.
+6 12–302.1.
+7 (A) IN THIS SECTION, “CENTRAL REPOSITORY” MEANS THE CRIMINAL
+8 JUSTICE INFORMATION SYSTEM CENTRAL REPOSITORY OF THE DEPARTMENT OF
+9 PUBLIC SAFETY AND CORRECTIONAL SERVICES.
+10 (B) AN APPLICANT SHALL APPLY TO THE CENTRAL REPOSITORY FOR A
+11 STATE AND NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+12 (C) AS PART OF THE APPLICATION FOR A CRIMINAL HISTORY RECORDS
+13 CHECK, AN APPLICANT SHALL COMPLETE AND SUBMIT TO THE CENTRAL
+14 REPOSITORY:
+15 (1) A COMPLETE SET OF LEGIBLE FINGERPRINTS TAKEN IN A FORMAT
+16 APPROVED BY THE DIRECTOR OF THE CENTRAL REPOSITORY AND THE DIRECTOR
+17 OF THE FEDERAL BUREAU OF INVESTIGATION;
+18 (2) THE FEE AUTHORIZED UNDER § 10–221(B)(7) OF THE CRIMINAL
+19 PROCEDURE ARTICLE FOR ACCESS TO MARYLAND CRIMINAL HISTORY RECORDS;
+20 AND
+21 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+22 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+23 (D) IN ACCORDANCE WITH §§ 10–201 THROUGH 10–229 OF THE CRIMINAL
+24 PROCEDURE ARTICLE, THE CENTRAL REPOSITORY SHALL FORWARD TO THE
+25 BOARD AND THE INDIVIDUAL THE INDIVIDUAL’S CRIMINAL HISTORY RECORD
+26 INFORMATION.
+27 (E) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY UNDER
+28 THIS SECTION:
+29 (1) IS CONFIDENTIAL;
+30 (2) MAY NOT BE REDISSEMINATED; AND
+
+26 SENATE BILL 806
+1 (3) MAY BE USED ONLY FOR THE LICENSING PURPOSE AUTHORIZED
+2 BY THIS TITLE.
+3 (F) THE SUBJECT OF A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+4 SECTION MAY CONTEST THE CONTENTS OF THE CRIMINAL HISTORY RECORD
+5 INFORMATION ISSUED BY THE CENTRAL REPOSITORY AS PROVIDED IN § 10–223 OF
+6 THE CRIMINAL PROCEDURE ARTICLE.
+7 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+8 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+9 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+10 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+11 INDIVIDUAL.
+12 12–303.
+13 (a) To apply for a license, an applicant shall:
+14 (1) Submit an application to the Board on the form that the Board requires;
+15 [and]
+16 (2) Pay the application fees set by the Board; AND
+17 (3) SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN
+18 ACCORDANCE WITH § 12–302.1 OF THIS SUBTITLE.
+19 12–306.
+20 (A) The Board shall issue a license to any applicant who meets the requirements
+21 of this title.
+22 (B) (1) ON RECEIPT OF THE CRIMINAL HISTORY RECORD INFORMATION
+23 OF AN APPLICANT FOR LICENSURE FORWARDED TO THE BOARD IN ACCORDANCE
+24 WITH § 12–302.1 OF THIS SUBTITLE, IN DETERMINING WHETHER TO GRANT A
+25 LICENSE, THE BOARD SHALL CONSIDER:
+26 (I) THE AGE AT WHICH THE CRIME WAS COMMITTED;
+27 (II) THE CIRCUMSTANCES SURROUNDING THE CRIME;
+28 (III) THE LENGTH OF TIME THAT HAS PASSED SINCE THE CRIME;
+29 (IV) SUBSEQUENT WORK HISTORY;
+
+SENATE BILL 806 27
+1 (V) EMPLOYMENT AND CHARACTER REFERENCES; AND
+2 (VI) OTHER EVIDENCE THAT DEMONSTRATES WHETHER THE
+3 APPLICANT POSES A THREAT TO THE PUBLIC HEALTH OR SAFETY.
+4 (2) THE BOARD MAY NOT ISSUE A LICENSE IF THE CRIMINAL HISTORY
+5 RECORD INFORMATION REQUIRED UNDER § 12–302.1 OF THIS SUBTITLE HAS NOT
+6 BEEN RECEIVED.
+7 12–308.
+8 (D) BEGINNING JULY 1, 2027, THE BOARD SHALL REQUIRE ALL LICENSEES
+9 WHO WERE INITIALLY LICENSED WITHOUT A CRIMINAL HISTORY RECORDS CHECK
+10 TO SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH §
+11 12–302.1 OF THIS SUBTITLE ON RENEWAL AS SET FORTH IN REGULATIONS ADOPTED
+12 BY THE BOARD.
+13 [(d)] (E) The Board shall renew the license of and issue a renewal certificate to
+14 each licensee who meets the requirements of this section.
+15 12–310.
+16 (b) The Board shall reinstate the license of a pharmacist whose license has been
+17 expired for 2 years or more if the pharmacist:
+18 (1) Meets the reinstatement requirements established by the Board in its
+19 rules or regulations; [and]
+20 (2) Satisfies the requirements of subsection (a) of this section; AND
+21 (3) SUBMITS TO A CRIMINAL HISTORY RECORDS CHECK IN
+22 ACCORDANCE WITH § 12–302.1 OF THIS SUBTITLE.
+23 12–6B–02.1.
+24 (A) IN THIS SECTION, “CENTRAL REPOSITORY” MEANS THE CRIMINAL
+25 JUSTICE INFORMATION SYSTEM CENTRAL REPOSITORY OF THE DEPARTMENT OF
+26 PUBLIC SAFETY AND CORRECTIONAL SERVICES.
+27 (B) AN APPLICANT SHALL APPLY TO THE CENTRAL REPOSITORY FOR A
+28 STATE AND NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+
+28 SENATE BILL 806
+1 (C) AS PART OF THE APPLICATION FOR A CRIMINAL HISTORY RECORDS
+2 CHECK, AN APPLICANT SHALL COMPLETE AND SUBMIT TO THE CENTRAL
+3 REPOSITORY:
+4 (1) A COMPLETE SET OF LEGIBLE FINGERPRINTS TAKEN IN A FORMAT
+5 APPROVED BY THE DIRECTOR OF THE CENTRAL REPOSITORY AND THE DIRECTOR
+6 OF THE FEDERAL BUREAU OF INVESTIGATION;
+7 (2) THE FEE AUTHORIZED UNDER § 10–221(B)(7) OF THE CRIMINAL
+8 PROCEDURE ARTICLE FOR ACCESS TO MARYLAND CRIMINAL HISTORY RECORDS;
+9 AND
+10 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+11 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+12 (D) IN ACCORDANCE WITH §§ 10–201 THROUGH 10–229 OF THE CRIMINAL
+13 PROCEDURE ARTICLE, THE CENTRAL REPOSITORY SHALL FORWARD TO THE
+14 BOARD AND THE INDIVIDUAL THE INDIVIDUAL’S CRIMINAL HISTORY RECORD
+15 INFORMATION.
+16 (E) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY UNDER
+17 THIS SECTION:
+18 (1) IS CONFIDENTIAL;
+19 (2) MAY NOT BE REDISSEMINATED; AND
+20 (3) MAY BE USED ONLY FOR THE LICENSING PURPOSE AUTHORIZED
+21 BY THIS TITLE.
+22 (F) THE SUBJECT OF A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+23 SECTION MAY CONTEST THE CONTENTS OF THE CRIMINAL HISTORY RECORD
+24 INFORMATION ISSUED BY THE CENTRAL REPOSITORY AS PROVIDED IN § 10–223 OF
+25 THE CRIMINAL PROCEDURE ARTICLE.
+26 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+27 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+28 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+29 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+30 INDIVIDUAL.
+31 12–6C–05.1.
+
+SENATE BILL 806 29
+1 (a) (1) In this subsection, “Central Repository” means the Criminal Justice
+2 Information System Central Repository of the Department of Public Safety and
+3 Correctional Services.
+4 (2) This subsection applies to applicants located in the State.
+5 (3) As part of an application to the Central Repository for a State and
+6 national criminal history records check, the designated representative and the immediate
+7 supervisor of the designated representative of an applicant shall submit to the Central
+8 Repository:
+9 (i) [Two complete sets] A COMPLETE SET of legible fingerprints
+10 taken [on forms] IN A FORMAT approved by the [director] DIRECTOR of the Central
+11 Repository and the Director of the Federal Bureau of Investigation;
+12 (ii) The fee authorized under § 10–221(b)(7) of the Criminal
+13 Procedure Article for access to [State] MARYLAND criminal history records; and
+14 (iii) The MANDATORY processing fee required by the Federal Bureau
+15 of Investigation for a national criminal history records check.
+16 (4) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+17 Procedure Article, the Central Repository shall forward the criminal history records
+18 information of the designated representative and the immediate supervisor of the
+19 designated representative of an applicant to the Board and the applicant.
+20 (5) [The Board shall ensure that information] INFORMATION obtained
+21 from the Central Repository under this subsection:
+22 (i) Is [kept] confidential;
+23 (ii) [Is] MAY not BE redisseminated; and
+24 (iii) [Is] MAY BE used only for the permitting purpose authorized by
+25 this subtitle.
+26 (6) The subject of a criminal history records check under this subsection
+27 may contest the contents of the [printed statement] CRIMINAL HISTORY RECORDS
+28 INFORMATION issued by the Central Repository as provided in § 10–223 of the Criminal
+29 Procedure Article.
+30 (7) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO
+31 THE CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+32 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+33 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+34 INDIVIDUAL.
+
+30 SENATE BILL 806
+1 12–6C–06.
+2 (b) (1) Except as provided in paragraph (2) of this subsection, at least 1 month
+3 before a wholesale distributor permit expires, the Board shall send to the wholesale
+4 distributor permit holder a renewal notice by electronic means to the last known e–mail
+5 address of the permit holder.
+6 (2) If requested by a wholesale distributor permit holder, the Board shall
+7 send to the permit holder a renewal notice by first–class mail to the last known address of
+8 the permit holder.
+9 (3) If a renewal notice sent by electronic means under paragraph (1) of this
+10 subsection is returned to the Board as undeliverable, the Board shall send to the wholesale
+11 distributor permit holder a renewal notice by first–class mail to the last known address of
+12 the permit holder.
+13 (4) A renewal notice sent under this subsection shall state:
+14 (i) The date on which the current wholesale distributor permit
+15 expires;
+16 (ii) The date by which the renewal application must be received by
+17 the Board for the renewal to be issued and mailed before the current wholesale distributor
+18 permit expires; and
+19 (iii) The amount of the renewal fee.
+20 (5) Before a wholesale distributor permit expires, a wholesale distributor
+21 permit holder periodically may renew it for an additional 2–year term, if the wholesale
+22 distributor permit holder:
+23 (i) Otherwise is entitled to a wholesale distributor permit;
+24 (ii) Pays to the Board a renewal fee set by the Board; and
+25 (iii) Submits to the Board a renewal application on the form that the
+26 Board requires.
+27 (6) (i) The renewal application form shall set forth the information that
+28 the wholesale distributor provided under § 12–6C–05 of this subtitle.
+29 (ii) Within 30 days after receiving the form, the wholesale
+30 distributor shall identify and state under oath to the Board all changes or corrections to the
+31 information that was provided under § 12–6C–05 of this subtitle.
+
+SENATE BILL 806 31
+1 (7) The Board shall renew the wholesale distributor permit of a wholesale
+2 distributor permit holder who meets the requirements of this subtitle and any regulations
+3 adopted under this subtitle.
+4 (8) IF A WHOLESALE DISTRIBUTOR IS LOCATED OUTSIDE THE STATE,
+5 THE DESIGNATED REPRESENTATIVE AND IMMEDIATE SUPERVISOR OF THE
+6 DESIGNATED REPRESENTATIVE OF THE PERMIT HOLDER SHALL SUBMIT TO A
+7 CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH § 12–6C–05.1 OF THIS
+8 SUBTITLE BEFORE THE PERMIT MAY BE RENEWED.
+9 [(8)] (9) The Board may deny, suspend, or revoke the permit of a
+10 wholesale distributor if the Board determines that the wholesale distributor no longer
+11 qualifies for a permit.
+12 12–6D–03.
+13 (b) An applicant shall submit a request for a State AND NATIONAL criminal
+14 history records check in accordance with § 12–6D–04 of this subtitle.
+15 (c) The Board may not approve an application until the State AND NATIONAL
+16 criminal history records check is completed.
+17 12–6D–04.
+18 (a) In this section, “Central Repository” means the Criminal Justice Information
+19 System Central Repository of the Department of Public Safety and Correctional Services.
+20 (b) As part of an application to the Central Repository for a State AND NATIONAL
+21 criminal history records check, the applicant shall submit to the Central Repository:
+22 (1) [Two complete sets] A COMPLETE SET of legible fingerprints taken [on
+23 forms] IN A FORMAT approved by the [director] DIRECTOR of the Central Repository AND
+24 THE DIRECTOR OF THE FEDERAL BUREAU OF INVESTIGATION; [and]
+25 (2) The fee authorized under § 10–221(b)(7) of the Criminal Procedure
+26 Article for access to [State] MARYLAND criminal history records; AND
+27 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+28 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+29 (c) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+30 Procedure Article, the Central Repository shall forward [the criminal history records
+31 information of the applicant] to the Board and the [applicant] INDIVIDUAL THE
+32 INDIVIDUAL’S CRIMINAL HISTORY RECORD INFORMATION.
+
+32 SENATE BILL 806
+1 (d) [The Board shall ensure that information] INFORMATION obtained from the
+2 Central Repository under this [subsection] SECTION:
+3 (1) Is [kept] confidential;
+4 (2) [Is] MAY not BE redisseminated; and
+5 (3) [Is] MAY BE used only for the registration purpose authorized by this
+6 subtitle.
+7 (e) The subject of a criminal history records check under this subsection may
+8 contest the contents of the printed statement issued by the Central Repository as provided
+9 in § 10–223 of the Criminal Procedure Article.
+10 (F) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+11 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+12 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+13 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+14 INDIVIDUAL.
+15 13–302.1.
+16 (a) In this section, “Central Repository” means the Criminal Justice Information
+17 System Central Repository of the Department of Public Safety and Correctional Services.
+18 (b) As part of an application to the Central Repository for a State and national
+19 criminal history records check, an applicant shall submit to the Central Repository:
+20 (1) [Two] A complete [sets] SET of legible fingerprints taken [on forms] IN
+21 A FORMAT approved by the Director of the Central Repository and the Director of the
+22 Federal Bureau of Investigation;
+23 (2) The fee authorized under § 10–221(b)(7) of the Criminal Procedure
+24 Article for access to [State] MARYLAND criminal history records; and
+25 (3) The MANDATORY processing fee required by the Federal Bureau of
+26 Investigation for a national criminal history records check.
+27 (c) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+28 Procedure Article, the Central Repository shall forward to the Board and to the applicant
+29 the criminal history record information of the applicant.
+30 (d) If an applicant has made three or more unsuccessful attempts at securing
+31 legible fingerprints, the Board may accept an alternate method of a criminal history records
+32 check as permitted by the Director of the Central Repository and the Director of the Federal
+33 Bureau of Investigation.
+
+SENATE BILL 806 33
+1 (e) Information obtained from the Central Repository under this section:
+2 (1) Is confidential [and may];
+3 (2) MAY not be redisseminated; and
+4 [(2)] (3) May be used only for the licensing purpose authorized by this
+5 title.
+6 (f) The subject of a criminal history records check under this section may contest
+7 the contents of the printed statement issued by the Central Repository as provided in §
+8 10–223 of the Criminal Procedure Article.
+9 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+10 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+11 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+12 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+13 INDIVIDUAL.
+14 13–311.
+15 (E) BEGINNING JULY 1, 2027, THE BOARD SHALL REQUIRE ALL LICENSEES
+16 WHO WERE INITIALLY LICENSED WITHOUT A CRIMINAL HISTORY RECORDS CHECK
+17 TO SUBMIT TO A CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH §
+18 13–302.1 OF THIS SUBTITLE ON RENEWAL AS SET FORTH IN REGULATIONS ADOPTED
+19 BY THE BOARD.
+20 [(e)] (F) The Board shall renew the license of each licensee who meets the
+21 requirements of this section.
+22 16–302.1.
+23 (a) In this section, “Central Repository” means the Criminal Justice Information
+24 System Central Repository of the Department of Public Safety and Correctional Services.
+25 (b) As part of an application to the Central Repository for a State and national
+26 criminal history records check, an applicant shall submit to the Central Repository:
+27 (1) [One] A complete set of legible fingerprints taken in a [manner]
+28 FORMAT approved by the Director of the Central Repository and the Director of the Federal
+29 Bureau of Investigation;
+30 (2) The fee authorized under § 10–221(b)(7) of the Criminal Procedure
+31 Article for access to [State] MARYLAND criminal history records; and
+
+34 SENATE BILL 806
+1 (3) The MANDATORY processing fee required by the Federal Bureau of
+2 Investigation for a national criminal history records check.
+3 (c) In accordance with §§ 10–201 through 10–229 of the Criminal Procedure
+4 Article, the Central Repository shall forward to the Board and the applicant the criminal
+5 history record information of the applicant.
+6 (d) Information obtained from the Central Repository under this section:
+7 (1) Is confidential;
+8 (2) May not be redisseminated; and
+9 (3) [Shall] MAY be used only for the licensing purpose authorized by this
+10 title.
+11 (e) The subject of a criminal history records check under this section may contest
+12 the contents of the printed statement issued by the Central Repository as provided in §
+13 10–223 of the Criminal Procedure Article.
+14 (F) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+15 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+16 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+17 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+18 INDIVIDUAL.
+19 18–302.1.
+20 (a) In this section, “Central Repository” means the Criminal Justice Information
+21 System Central Repository of the Department of Public Safety and Correctional Services.
+22 (b) As part of an application to the Central Repository for a State and national
+23 criminal history records check, an applicant shall submit to the Central Repository:
+24 (1) [Two] A complete [sets] SET of legible fingerprints taken [on forms] IN
+25 A FORMAT approved by the Director of the Central Repository and the Director of the
+26 Federal Bureau of Investigation;
+27 (2) The fee authorized under § 10–221(b)(7) of the Criminal Procedure
+28 Article for access to [State] MARYLAND criminal history records; and
+29 (3) The MANDATORY processing fee required by the Federal Bureau of
+30 Investigation for a national criminal history records check.
+
+SENATE BILL 806 35
+1 (c) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+2 Procedure Article, the Central Repository shall forward to the Board and the applicant the
+3 criminal history record information of the applicant.
+4 (d) If an applicant has made three or more unsuccessful attempts at securing
+5 legible fingerprints, the Board may accept an alternate method of a criminal history records
+6 check as allowed by the Director of the Central Repository and the Director of the Federal
+7 Bureau of Investigation.
+8 (e) Information obtained from the Central Repository under this section:
+9 (1) [Shall be] IS confidential;
+10 (2) May not be redisseminated; and
+11 (3) [Shall] MAY be used only for the licensing purpose authorized by this
+12 title.
+13 (f) The subject of a criminal history records check under this section may contest
+14 the contents of the printed statement issued by the Central Repository as provided in §
+15 10–223 of the Criminal Procedure Article.
+16 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+17 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+18 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+19 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+20 INDIVIDUAL.
+21 18–309.
+22 [(h) (1) (i) Beginning March 2019, the Board shall begin a process requiring
+23 criminal history records checks in accordance with § 18–302.1 of this subtitle on:
+24 1. Selected annual renewal applicants as determined by
+25 regulations adopted by the Board; and
+26 2. Each former licensee or registrant who files for
+27 reinstatement under § 18–310 of this subtitle after failing to renew the license or
+28 registration for a period of 1 year or more.
+29 (ii) An additional criminal history records check shall be performed:
+30 1. 6 years after a renewal applicant submitted to a criminal
+31 history records check under § 18–302(e) of this subtitle; and
+
+36 SENATE BILL 806
+1 2. Every 6 years after a renewal applicant was required to
+2 submit to a criminal history records check under subparagraph (i)1 of this paragraph.
+3 (2) On receipt of the criminal history record information of a licensee
+4 forwarded to the Board in accordance with § 18–302.1 of this subtitle, in determining
+5 whether to renew a license or registration, the Board shall consider:
+6 (i) The age at which the crime was committed;
+7 (ii) The circumstances surrounding the crime;
+8 (iii) The length of time that has passed since the crime;
+9 (iv) Subsequent work history;
+10 (v) Employment and character references; and
+11 (vi) Other evidence that demonstrates whether the licensee poses a
+12 threat to the public health or safety.
+13 (3) The Board may not renew a license or registration if the criminal
+14 history record information required under § 18–302.1 of this subtitle has not been received.]
+15 20–303.
+16 (b) (1) As part of the application for a criminal history records check, the
+17 applicant shall submit to the Central Repository:
+18 (i) A COMPLETE SET OF legible [set of] fingerprints taken in a
+19 format approved by the Director of the Central Repository and the Director of the Federal
+20 Bureau of Investigation;
+21 (ii) The fee authorized under § 10–221(b)(7) of the Criminal
+22 Procedure Article for access to [State] MARYLAND criminal history records; and
+23 (iii) The MANDATORY processing fee required by the Federal Bureau
+24 of Investigation for a national criminal history records check.
+25 (2) In accordance with §§ 10–201 through [10–228] 10–229 of the Criminal
+26 Procedure Article, the Central Repository shall forward to the applicant and the Board the
+27 applicant’s criminal history records information.
+28 (3) Information obtained from the Central Repository under this
+29 subsection:
+30 (i) Is confidential [and may];
+
+SENATE BILL 806 37
+1 (II) MAY not be redisseminated; and
+2 [(ii)] (III) May be used only for the certification purpose authorized
+3 by this subtitle.
+4 (4) The subject of a criminal history records check under this subsection
+5 may contest the contents of the printed statement issued by the Central Repository as
+6 provided in § 10–223 of the Criminal Procedure Article.
+7 (5) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO
+8 THE CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+9 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+10 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+11 INDIVIDUAL.
+12 21–302.
+13 To obtain a license, an applicant shall demonstrate to the satisfaction of the Board
+14 that the applicant:
+15 (1) Is at least 18 years old;
+16 (2) Is of good moral character;
+17 (3) Has satisfied the education and experience requirements to qualify for
+18 examination under § 21–304 of this subtitle; [and]
+19 (4) Except as otherwise provided in this title, has successfully passed an
+20 examination as required by the Board; AND
+21 (5) BEGINNING JULY 1, 2027, HAS SUBMITTED TO A CRIMINAL
+22 HISTORY RECORDS CHECK IN ACCORDANCE WITH § 21–302.1 OF THIS SUBTITLE.
+23 21–302.1.
+24 (A) IN THIS SECTION, “CENTRAL REPOSITORY” MEANS THE CRIMINAL
+25 JUSTICE INFORMATION SYSTEM CENTRAL REPOSITORY OF THE DEPARTMENT OF
+26 PUBLIC SAFETY AND CORRECTIONAL SERVICES.
+27 (B) AN APPLICANT SHALL APPLY TO THE CENTRAL REPOSITORY FOR A
+28 STATE AND NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+
+38 SENATE BILL 806
+1 (C) AS PART OF THE APPLICATION FOR A CRIMINAL HISTORY RECORDS
+2 CHECK, AN APPLICANT SHALL COMPLETE AND SUBMIT TO THE CENTRAL
+3 REPOSITORY:
+4 (1) A COMPLETE SET OF LEGIBLE FINGERPRINTS TAKEN IN A FORMAT
+5 APPROVED BY THE DIRECTOR OF THE CENTRAL REPOSITORY AND THE DIRECTOR
+6 OF THE FEDERAL BUREAU OF INVESTIGATION;
+7 (2) THE FEE AUTHORIZED UNDER § 10–221(B)(7) OF THE CRIMINAL
+8 PROCEDURE ARTICLE FOR ACCESS TO MARYLAND CRIMINAL HISTORY RECORDS;
+9 AND
+10 (3) THE MANDATORY PROCESSING FEE REQUIRED BY THE FEDERAL
+11 BUREAU OF INVESTIGATION FOR A NATIONAL CRIMINAL HISTORY RECORDS CHECK.
+12 (D) IN ACCORDANCE WITH §§ 10–201 THROUGH 10–229 OF THE CRIMINAL
+13 PROCEDURE ARTICLE, THE CENTRAL REPOSITORY SHALL FORWARD TO THE
+14 BOARD AND THE INDIVIDUAL THE INDIVIDUAL’S CRIMINAL HISTORY RECORD
+15 INFORMATION.
+16 (E) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY UNDER
+17 THIS SECTION:
+18 (1) IS CONFIDENTIAL;
+19 (2) MAY NOT BE REDISSEMINATED; AND
+20 (3) MAY BE USED ONLY FOR THE LICENSING PURPOSE AUTHORIZED
+21 BY THIS TITLE.
+22 (F) THE SUBJECT OF A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+23 SECTION MAY CONTEST THE CONTENTS OF THE CRIMINAL HISTORY RECORD
+24 INFORMATION ISSUED BY THE CENTRAL REPOSITORY AS PROVIDED IN § 10–223 OF
+25 THE CRIMINAL PROCEDURE ARTICLE.
+26 (G) IF CRIMINAL HISTORY RECORD INFORMATION IS REPORTED TO THE
+27 CENTRAL REPOSITORY AFTER THE DATE OF THE INITIAL CRIMINAL HISTORY
+28 RECORDS CHECK, THE CENTRAL REPOSITORY SHALL PROVIDE TO THE BOARD AND
+29 THE INDIVIDUAL REVISED CRIMINAL HISTORY RECORD INFORMATION FOR THE
+30 INDIVIDUAL.
+31 21–307.
+
+SENATE BILL 806 39
+1 (a) The Board shall license and issue the appropriate licensure to any applicant
+2 who meets the requirements of this title.
+3 (b) The Board shall include on each license that it issues:
+4 (1) The designation “licensed environmental health specialist”;
+5 (2) The name of the license holder;
+6 (3) The date of issue and serial number of the license;
+7 (4) The Board seal; and
+8 (5) The signature of the Board’s representative.
+9 (c) The Board shall issue a new license to replace a lost, destroyed, or mutilated
+10 license if the license holder pays a fee that is set by the Board.
+11 (D) THE BOARD MAY NOT ISSUE A LICENSE IF THE CRIMINAL HISTORY
+12 RECORD INFORMATION REQUIRED UNDER § 21–302 OF THIS TITLE HAS NOT BEEN
+13 RECEIVED.
+14 21–309.
+15 (c) Before the license expires, the licensee may renew it for an additional 2–year
+16 term, if the licensee:
+17 (1) Otherwise is entitled to be licensed;
+18 (2) Pays to the Board the renewal fee set by the Board;
+19 (3) Submits to the Board a renewal application on the form that the Board
+20 requires; [and]
+21 (4) Submits to the Board proof that during the previous 2–year period, the
+22 licensee has acquired 20 hours of approved training in environmental health or other
+23 equivalent education as approved by the Board; AND
+24 (5) IF LICENSED BEFORE JULY 1, 2027, SUBMITS SATISFACTORY
+25 EVIDENCE OF SUBMITTING TO A CRIMINAL HISTORY RECORDS CHECK IN
+26 ACCORDANCE WITH § 21–302.1 OF THIS SUBTITLE FOR THE LICENSEE’S FIRST
+27 RENEWAL AFTER JULY 1, 2027.
+28 21–310.
+
+40 SENATE BILL 806
+1 (D) BEGINNING JULY 1, 2027, A LICENSED ENVIRONMENTAL HEALTH
+2 SPECIALIST APPLYING FOR THE REACTIVATION OF AN INACTIVE OR NONRENEWED
+3 LICENSE SHALL SUBMIT SATISFACTORY EVIDENCE OF SUBMITTING TO A CRIMINAL
+4 HISTORY RECORDS CHECK IN ACCORDANCE WITH § 21–302.1 OF THIS SUBTITLE.
+5 (E) THE BOARD MAY NOT REACTIVATE A LICENSE IF THE CRIMINAL
+6 HISTORY RECORD INFORMATION HAS NOT BEEN RECEIVED.
+7 21–315.
+8 (A) The Board, on the affirmative vote of a majority of its full appointed
+9 membership, may reinstate the license of an individual whose license has been revoked.
+10 (B) BEGINNING JULY 1, 2027, AN INDIVIDUAL APPLYING FOR
+11 REINSTATEMENT OF A REVOKED LICENSE SHALL SUBMIT SATISFACTORY EVIDENCE
+12 OF SUBMITTING TO A CRIMINAL HISTORY RECORDS CHECK IN ACCORDANCE WITH §
+13 21–302.1 OF THIS SUBTITLE.
+14 (C) THE BOARD MAY NOT REINSTATE A LICENSE IF THE CRIMINAL HISTORY
+15 RECORD INFORMATION HAS NOT BEEN RECEIVED.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+17 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6   C C J A a E C a S B G A H F t p o e a a r r t c h r c f c l a c i b t S B o A t S B o D E t S B o D P N t E t S B o E o P t S B o E H S a t S B f C o R C C P P a g r t h o B  A S  A  ( B  A  S 1 1 4 4 4 4 a  ( 4 a ( 5 5 8 1 1  1]
+[DELETED:  S   A  ( B  A  S 1 a ( 1 1 4 4 4   4   5   1 a ( 1 1 t ( 1 1   1 1 1 1 1 a (   1 1 1 1 1 2 2   2  A  ( B  A S  A  (  S T A 1  ( T r  ( T   BJ1,2 U   S T A C H   E11;   () D t a t c i t E]( l   () M a o q t t B e i]( r]
+[DELETED: S 3 ) I,“CR”N T SN E EY M T RISCR N Y E E ESCS. A O E() ACN A S A T T E E F A.() S P O T A F A C H RK A A S C A S T T E: (  I E E ICR E U NBI; ( T§1())  B  RAM R AS ( T EI. N() I§§1119N      RA,C RE T E E S F T T A T I T ILS C H R() ICN O F T E E U ( I; ( M;D  ( () H M C T C O T C H R E E   R§1 R R RPA.]
+[DELETED:  S () F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 1  ( B t l e t l p m r i f a a   ( O   ( P   ( S    ( A a]    ( S e o c w a c e  () FJ1,2IO I L B A   E O A C H R C I W   O T S F T LES F11 A 1,2 . 1  ( T r   ( M t c e r o § 1 o t s   ( A d   ( S t t B a a f r o t f r a]   ( P B]
+[DELETED: S 5 (  T A C H R C I   1 . 4  ( E s  ( T  ( T y ) H A S S T A C H R   42.  () U]( a d M   ( A a   ( R b t B a r a p c  () T]( b   ( R a l 2 y o e i a i o h e   ( I a b t A D A C o D   ( I  () ( U]( § g a   ( A e i n r f a t l t p d h]
+[DELETED:  S   () I ad ]()[]H    s   ( B   ( H   ( B w t a t a s r b t d s o t c o u   ( I s B D  () I a]()[]()I D    a   ( B   ( H b a a a d h f a l 5 y b a   ( B t  () I ad ]()[]J   o t s t q f a r v d l t p d   ( H w   ( C t c e r t t B e   ( P  () I a]()[]()K D    h]
+[DELETED: S 7   ( H w   ( C t c e r t t B e   ( P s  () I ad ]()[]L    a   ( S   ( H D   ( C t c e r t t B e   ( P d s e i t m d i § 4   ( I d  () I a (]()(),[MD    h   ( S   ( H t   ( C t c e r t t B e   ( P §   ( I d]
+[DELETED:  S   () T]( m ad ) ],(   ) I,“CR”N T SN E EY M T RISCR N Y E E ESCS. A O E() ACN A S A T T E E F A.() S P O T A F A C H RK A A S C A S T T E: (  I E E ICR E U NBI; ( T§1())  B  RAM R AS ( T EI. N() I§§1119N      RA,C RE T E E S F T T A T I T ILS C H R() ICN O F T E E U ( I; ( M;D  ( ]
+[DELETED: S 9() H M C T C O T C H R E E   R§1 R R RPA.() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T() N F L O C F T T O I W T SN I D W T G AE  OB: ( T; ( T; ( T; ( S; ( E;S  (  E T D W T 4  ( T   ( S] a   ( T A C H R C I   E 42;   P 4]
+[DELETED:  S  ) TH O M N I A L I T C H   4D 4 ) TH O M N I A L I T C H   4D 4  T) l l   ( M t r a r r s b r a r   ( P() ( BO1,2,E C   T O S R A H R C I A W   O T4  () I R A A D B OD ;  () IA ( T O   4 4  ( S d t p d   ( A t o]]
+[DELETED: S 1   ( A    ( I a u m i v o t t o r    ( W p o    ( F (    4 .  ( S d h l r   ( F o]   ( W i (    4 . 4 ) N A F A C T P A A D T S S T A C H R   42.[]( () A e o   ( T   ( T d w r a m b r t B   ( T]
+[DELETED:  S   () A]( t ) ( BO1,2,E C   T O S R A H R C I A W   O T4  () E R A A D B OD ;  () IA F C H W F F ( T O C H R I R U   O4 5  ( T   ( ( 1 H t     2 H a t    ( H r a m o d d f a c o u o n f a n d h n c n p h   ( H s c a p o s c e a]   ( ( S t t B p o c b t B f C    ( S C ( BJ1,2 U   S T A C H   5 .]
+[DELETED: S 1  ) I,“CR”N T SN E EY M T RISCR N Y E E ESCS. A O E() ACN A S A T T E E F A.() S P O T A F A C H RK A A S C A S T T E: (  I E E ICR E U NBI; ( T§1())  B  RAM R AS ( T EI. N() I§§1119N      RA,C RE T E E S F T T A T I T ILS C H R() ICN O F T E E U ( I; ( M;D  ( () H M C T C O T C H R]
+[DELETED:  S  E E   R§1 R R RPA.() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 5  ( A   ( S   ( P a]   ( P ( BJ1,2 U   S T A C H   5 . 5 ) AJ1,2N I L B U   S P E OFA C H R C I   ES51 A 1,2 5  ( ( T    ( S f    ( P   ( T B s r t l o a i p o i    ( S t a]    ( P]
+[DELETED: S 1  () IU T A C H R C I   5 .  ( T i   ( O   ( S t c e r e b t B   ( P a]   ( A t (  T A C H R C I   5 . 5  S t t h p o § 5 o t s t B o t a v o a m o i m t s m d a l t a a r a l o s o r a l i t a o l   ( F t   ( F   ( V t   ( R w q   ( C   ( I c o o p n c t a f o t a c i h   ( O]
+[DELETED:  S    ( E pn  o   ( U u l   ( C r   ( P    ( U    ( U i § 5 o t C L A o o d t i i e o t a   ( I o w   ( P d w a u pn oI s pn    ( F p i   ( S   ( I   ( P e o]   ( F (    5 . 7]
+[DELETED: S 1  ( ( I t s “ R t C I S C R o t D o P S a C   ( A p o a a t t C R f a S a n c h r c a a s s t t C R    ( A c s o l f t o fI A   B    ( T f a u § 1 o t C P Se ]A    ( T p o   ( I 18 ]1 P c ( IC O F T E E  () I;S  () M;IAD   () IA B U O F T L P    () I]( s l f t B m a a a m o a c h o   () T]( m p (  E EK  E E OCR]
+[DELETED:  S  I R C H R I F TT O S R A C H R C I   83: (  F C A A F NR ( A F C A A WS ( S R  OD ; (  F R A A C F E O WS C C MR I T F F R A F T R T  . 8  ( I S  ( A c   ( Ts  o]A  fs  o   ( T f a u § 1 o t C P A Se ]A   ( T p f r b t F B o I  ( I a w § 1 t 18 o t C]1 P t]
+[DELETED: S 1  ( ( I c h r i i r t t C R t d o t i c h r c t C R c   ( T    ( T a f w b r b t C R    ( A t   ( T a  ( I a a h m t o m u a a s l c B  ( I s be:   ( Cla]I; S (      () Ud ]()[] A b  ( T t 1 8  ( ( A    ( S a r§8   ;   ) SB:IU O]
+[DELETED:  S    1 A O OS ;   2  I T);    () P](I c     1 A a n a t p o a     2 A     3 A     4 A t p    () P](I    () B](    () B a l 1 y o t a f c a a](V n    () B a l 1 y o t a f c a a](V d    ()  a l 1 y o t a f c a a](V m   ( S a    ( A t    ( O t   () ( A a f c a a c n]( a c]
+[DELETED: S 2    ( A a s   () A](    ( H d    ( H a r o a n m o a r p o a d a t o p i a o s o t o t U S a t c o t n a o m   () B]( b    ( S a a t t B o t f t t B    ( P     1 S c o a a n a t     2 P 8  ( ( A r    ( F m t t l k m a o t c    ( E m t t l k e a o t c   ( A    ( T    ( T t    ( T]
+[DELETED:  S    ( I nn i t nn t w  ( ( ( T B s r c h r c i a     1 S at  e     2 E f c n aM   s    ( A e 1 ) ( BA1,2,E U   T O S R A H R C I A W   O T1  () I R A A D B OD ;  () IA ( T O   1[]( () T e  () I]( B a 1]
+[DELETED: S 2  ( ( T B s p a l o i s i t l s    ( A B    ( T   ( T i    ( M] a    ( P  () IU T A C H R C I   1 .  ( T e   ( H   ( M a]   ( P (  T A C H R C I   1 .  ( T b o   ( P an e a][A P O AY   a] (  T A C H R C I   E 11;   () O m t r o s ( o t]( s]
+[DELETED:  S  ) TH O   E11. 1 ) H A S S T A C H R   11.[]( () T   ( B B   ( H r  () E]( e  () ( I]( a   ( T () ]() t p t  () ( E]( r p a   ( T a c   ( I o t c   ( T B m n r a a f a l t p p d]
+[DELETED: S 2 a a   ( G f a r E p s a p ) I,“CR”N T SN E EY M T RISCR N Y E E ESCS. A O E() ACN A S A T T E E F A.() S P O T A F A C H RK A A S C A S T T E: (  I E E ICR E U NBI; ( T§1())  B  RAM R AS ( T EI. N() I§§1119N      RA,C RE T E E S F T T A T I T ILS C H R() ICN O F T E E U ( I; ( M;D ]
+[DELETED:  S  ( () H M C T C O T C H R E E   R§1 R R RPA.() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T  1  ( T   ( S] a   ( P (  T A C H R C I   1 . 1  T) o ) ( N O   O T SE I D W T G A11E  OB:  () T;H  () T;IH  () T;IH  () S;VU]
+[DELETED: S 2  () E;MS   () IT E T D W T ( T O   1 1 ) BJ1,2,E U    O S T A C H R C I A W  O.[]( () T e 1  ( T e   ( M r a]   ( S (  T A C H R C I   1 . ) I,“CR”N T SN E EY M T RISCR N Y E E ESCS. A O E() ACN A S A T T E E F A.]
+[DELETED:  S () S P O T A F A C H RK A A S C A S T T E: (  I E E ICR E U NBI; ( T§1())  B  RAM R AS ( T EI. N() I§§1119N      RA,C RE T E E S F T T A T I T ILS C H R() ICN O F T E E U ( I; ( M;D  ( () H M C T C O T C H R E E   R§1 R R RPA.() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 1]
+[DELETED: S 2  ( ( I t s “ R t C I S C R o t D o P S a C   ( T   ( A p o a a t t C R f a S a n s R    ( Ts ]  t o fs a b t dr  o t C][]I A FTI R    ( T f a u § 1 o t C P Se ]A    ( T p o   ( I 18 ]1 P A t C R s f t c h r i o t d r a t i s o t d   ( T B s e t in o] f    ( I kt     ( Is  r]AYB    ( Is ]A t   ( T m c t c o t p sC H R   P    E EK  E E OCR I R C H R I F T]
+[DELETED:  S  1  ( ( E b a w d p e t B s s t t w d a   ( I s t   ( I s d t   ( A    ( T d o w t c w d p e    ( T t p    ( T   ( B p d    ( O    ( P    ( S B   ( ( T t    ( W 3 d a r t f t w d i]
+[DELETED: S 3   ( T d a ( IS TE D R A I S O T R O T P H S S T A   1   () T B m d s o r t p o a]( w d i t B d t t w d n l q 1  ( A a s s a r f a S c N h  ( T  c 1  ( I S  ( A c   ( Ts  o]A  fs  dr []T IRA I E U NFBI[] ; a   ( T f a u § 1 o t C P A Se ]M;AD  ( T E N .  ( I a w § 1 t 18 o t C]1 P A t C R s f t c h r i o t at t t B a t a[I TLS .]
+[DELETED:  S   ( Tn ]N C sn:   ( I kt    ( Is   ]AYB   ( Is ]A s  ( T c i() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 1  ( I S  ( A c   ( To  ss  o]A[][ T    F   ( T f a u § 1 o t C P A Se ]A   ( T  p f r b t F B o I  ( I a w § 1 t 18 o t C]1 P t  ( I l c B]
+[DELETED: S 3  ( I   ( I ay ] (  n   () M]( t  ( T t 1 ) F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 1 ) BJ1,2,E U    O S T A C H R C I A W  O.  () T B s r t l o e l w m t]( r 1  ( I S  ( A c   ( Oe c s o l f t i a m]A[   B   ( T f a u § 1 o t C P A Se ]A]
+[DELETED:  S    ( Tep f r b t F B o I  ( I a w § 1 t 1 o t C P A h  ( I   ( I   ( M   ( Sl ]A t  ( T t 1() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 1  ( I S  ( A c   ( To  ss  o]A[][ T    F   ( T f a u § 1 o t C P A Se ]A   ( T p f r b t F B o I]
+[DELETED: S 3  ( I a w § 1 t 18 o t C]1 P c  ( I l c B  ( I   ( Se ]   ( M   ( Sl ]A t  ( T t 1() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 1  ( ( ( B c     1 S a r a a d b r     2 E f l o r w f f r u § 1 o t s a f t r t l o r    ( A     1 6 h]
+[DELETED:  S      2 E s   ( O r o t c h r i o a l f t t B i a w § 1 o t s i d w    ( T    ( T    ( T    ( S    ( E    ( O t   ( T B m n r a l o r i t c h 2  ( ( A p o t a f a c h r c t a    ( A l s of f t i a f B    ( T f a u § 1 o t C P Se ]A    ( T p o   ( I 18 ]1 P a   ( I o f t C R u t s    ( I ay]]
+[DELETED: S 3     ) IA    () M](I b   ( T m p    E EK  E E OCR I R C H R I F T 2  T t   ( I   ( I   ( H e a]   ( E e ( BJ1,2 U   H S T A C   2 .  ) I,“CR”N T SN E EY M T RISCR N Y E E ESCS. A O E() ACN A S A T T E E F A.]
+[DELETED:  S () S P O T A F A C H RK A A S C A S T T E: (  I E E ICR E U NBI; ( T§1())  B  RAM R AS ( T EI. N() I§§1119N      RA,C RE T E E S F T T A T I T ILS C H R() ICN O F T E E U ( I; ( M;D  ( () H M C T C O T C H R E E   R§1 R R RPA.() F C H R I I R T T E A T D O T I C HK  E E OCR I R C H R I F T 2]
+[DELETED: S 3  ( T w  ( T   ( T   ( T   ( T   ( T   ( T  ( T l() TH O M N I A L I T C H   2 2  ( B t   ( O   ( P   ( S r a]   ( S l h a 2 h o a t i e h o o e   IJ1,2 L B U   S S O S T A C H R C I W   O T S F T LES F21 U 1,2 . 2]
+[DELETED:  S  ) BJ1,2E U   A L E H   E21.() TH O M N R A L I T C 2  T B o t a v o a m o i f a) m ) BJ1,2E U   A I A F 1.E() TH O    S 1          G               ]
