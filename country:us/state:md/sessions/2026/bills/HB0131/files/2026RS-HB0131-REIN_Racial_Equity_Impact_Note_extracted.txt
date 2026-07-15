@@ -1,0 +1,327 @@
+Title: Criminal Procedure - Expungement - Adverse Actions and Removal
+Official Title: Criminal Procedure - Expungement - Adverse Actions and Removal
+Number of Sections: 3
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2026 Session
+HB0131
+From Maryland Electronic Courts (MDEC) System
+Bill Summary
+This bill provides that the refusal of a person to disclose information about criminal charges that
+have been expunged may not be the sole reason for a unit, official, or employee of the State to
+deny the person’s application for a license, permit, registration, or governmental service or for an
+educational institution to expel or refuse to admit a person. In addition, the bill establishes that the
+Maryland Electronic Courts (MDEC) system may not refer to the existence of a criminal case in
+which the possession of cannabis is the only charge and the charge was disposed of before
+July 1, 2023.
+Racial Equity Impact Statement
+The bill’s provisions protect individuals from discrimination by specified governmental entities
+and educational institutions when they do not disclose expunged records of criminal charges or
+convictions. The bill also ensures that expunged records for specified cannabis possession charges
+are removed from the Judiciary’s MDEC system. There is no data currently available to estimate
+the extent of the bill’s impacts since no dispositive data exists regarding (1) the demographic
+composition of applicants for expungement; (2) denials of licenses, permits, registrations, or
+admissions by governmental entities or educational institutions; and (3) denials specifically based
+on refusals to disclose expunged records. Statewide criminal justice data suggests, however, that
+Black individuals, in particular, could benefit under the bill to the extent they are currently denied
+services for failing to disclose expunged records.
+HB 131/ Page 1
+Analysis
+The bill generally modifies State law to remove barriers faced by individuals with expunged
+criminal records by clarifying that the denial of access to occupational licenses, permits,
+registrations, or governmental services based solely on an individual’s refusal to disclose
+information regarding an expunged criminal record is prohibited. Refusal to disclose this
+information may also not be used as a sole justification for expulsion from, or admittance to, an
+educational institution. The bill also prohibits the MDEC system, which is the Judiciary’s internal
+case management system, from referring to a case where the only charge was possession of
+cannabis and the case was disposed of before July 1, 2023.
+Expungements Generally
+Specifically, § 10-110 of the Criminal Procedure Article authorizes an individual convicted of any
+of a list of approximately 100 specified offenses, or an attempt, a conspiracy, or a solicitation of
+any of these offenses, to file a petition for expungement of the conviction, subject to specified
+procedures and requirements. With some exceptions, to begin the process of expungement, a
+petitioner must file a petition for expungement with the court under § 10-105 or § 10-110 of the
+Criminal Procedure Article, which establishes eligibility for the expungement of records pertaining
+to a criminal charge or conviction. In general, § 10-110 applies to expungements of convictions,
+and § 10-105 applies to the expungement of criminal charges that resulted in a disposition other
+than a conviction.
+References to Cannabis Criminal Records
+Under existing law, the Maryland Judiciary Case Search (which is not the same as MDEC)
+provides public access to information from Maryland District Court and circuit court traffic,
+criminal, and civil case records. The information shown includes names of parties, addresses, case
+numbers, dates of birth, trial dates, charges, and case dispositions. Among other things, the
+Maryland Judiciary Case Search is prohibited from referring in any way to the existence of records
+of a charge in a case with electronic records for (1) a charge of possession of cannabis that resulted
+in a conviction that was later pardoned by the Governor (effective January 31, 2026) and (2) a
+criminal case in which possession of cannabis is the only charge in the case and the charge was
+disposed of before July 1, 2023. On or before July 1, 2024, the Department of Public Safety and
+Correctional Services (DPSCS) must remove all references in the Criminal Justice Information
+System Central Repository to all cases in which possession of cannabis is the only charge in the
+case and the charge was issued before July 1, 2023.
+Potential Impacts
+The bill’s clarifying provisions could help protect individuals with expunged records of criminal
+charges and/or convictions from the denial of economic opportunities based solely on their refusal
+to disclose expunged information. Criminal records, regardless of their nature, pose a significant
+challenge for individuals seeking to rebuild their lives following a conviction, arrest, or charge.
+Securing employment, housing, health care, education, and access to government services can all
+be more difficult for those with a criminal history. Previous research has detailed notable collateral
+consequences to having a criminal record that often exacerbate the challenges of social
+HB 131/ Page 2
+reintegration following imprisonment. Even indiv iduals convicted of criminal charges that do not
+face imprisonment may still see significant adverse effects resulting from a criminal record.
+According to the Administrative Office of the Courts (AOC), there were 54,069 petitions for
+expungement in fiscal 2024 in both the district and circuit courts. No demographic data is currently
+available to indicate the racial and ethnic composition of expungement applicants.
+Assuming that trends for expungement applications are similar to trends for charges, convictions,
+and incarceration in the State, a significant number and percentage of Black individuals could
+benefit from protections under the bill. DPSCS reports that, as of January 2026, Black individuals
+made up 71% of Maryland’s prison population contrasted with their 30% share of the State’s
+overall population. It is therefore a reasonable assumption that Black individuals comprise a
+meaningful portion of the population seeking to expunge criminal records.
+By way of example, records of cannabis possession violations are eligible for expungement under
+specified conditions. According to AOC data, Black individuals comprised 67% of those charged
+for various possession violations between 2010 and 2021 compared to 30% of their white
+counterparts. Assuming the overall pool of expungement applicants is similarly distributed, Black
+individuals are likely the most affected by the bill's provisions.
+Applicant and Denial Data
+No reliable data exists to indicate significant denial activity by governmental and/or educational
+entities related to individuals that have criminal records. Chapter 796 of 2018 required specified
+departments to report information related to the denial of licenses or certificates for the preceding
+five years based on an applicant’s criminal history. While some of the departments covered under
+Chapter 796 reported little to no data, the Maryland Department of Labor and the Maryland
+Department of Health reported that less than 1% of the applicants for various licenses were
+individuals with criminal histories.
+There is even less data regarding denials due to an applicant’s refusal to disclose information
+within an expunged criminal record. There is also no data on admittance denials and/or expulsions
+from educational institutions. Despite the absence of meaningful data documenting actual adverse
+impacts under existing law, the bill’s provisions could potentially encourage more individuals with
+a criminal record to apply for governmental or educational services.
+Conclusion
+There is no way to reliably measure the impacts of the bill without demographic data for
+expungement applicants, applicants to the entities covered by the bill, and recent data relating to
+the reasons for denial of applications by governmental entities and/or educational institutions. To
+the extent that individuals are denied or discouraged to apply for licenses, permits, registrations,
+and governmental services, or denied admittance to educational institutions solely due to their
+refusal to disclose information contained within an expunged criminal record, the provisions of
+the bill would provide more access to education, employment, professional development, and the
+economic security afforded by such access. Black individuals could benefit the most from the bill
+HB 131/ Page 3
+as these individuals are overrepresented in the p opulation of those charged, arrested, convicted,
+and incarcerated for many of the crimes eligible for expungement.
+Information Sources: Administrative Office of the Courts; Governor’s Office of Crime
+Prevention and Policy; U.S. Bureau of Labor Statistics; Department of Public Safety and
+Correctional Services; Council of State Governments Justice Center; Maryland Department of the
+Environment; Department of Human Services; Maryland Department of Agriculture; Maryland
+Department of Labor; Department of Legislative Services
+Analysis by: Rafael Regales
+Published: 02/05/2026
+HB 131/ Page 4
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+
+Section 2:
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+
+Section 3:
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau, Annual Estimates of the Resident Population by Sex, Race, and Hispanic Origin for the
+United States: April 1, 2020 to July 1, 2024 (NC-EST2024-SR11H) and (SC-EST2024-SR11H-24)
+HB 131/ Page 5
+[DELETED:  t p o c i t o c a t c w d o b o a f e ( d o l p r o]
+[DELETED:  r b c t t d o a t o l p o g s b s o a i r t d r a e c r i p R t d t m s f r t a c w t o c w p o r a e l t M J C S ( i n t s a M p a t i f M D C a c c t d o b t d c a c d A o t t t h a c r t o e t c o s]
+[DELETED: re p I i t a r a t B i c a v p v b 2 a 2 c t 3 o t w 7 r l t n d t M D o L a t M o H r t l t 1 o t a f v l w i n w t r m t i o t b w d d f]
+[DELETED:  S  A O o t C G O o C a P U B o L S D o P S a ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]
+
+
+================================================================================
+
+Raw Text:
+2026 Session
+HB0131
+Criminal Procedure - Expungement - Adverse Actions and Removal
+From Maryland Electronic Courts (MDEC) System
+Bill Summary
+This bill provides that the refusal of a person to disclose information about criminal charges that
+have been expunged may not be the sole reason for a unit, official, or employee of the State to
+deny the person’s application for a license, permit, registration, or governmental service or for an
+educational institution to expel or refuse to admit a person. In addition, the bill establishes that the
+Maryland Electronic Courts (MDEC) system may not refer to the existence of a criminal case in
+which the possession of cannabis is the only charge and the charge was disposed of before
+July 1, 2023.
+Racial Equity Impact Statement
+The bill’s provisions protect individuals from discrimination by specified governmental entities
+and educational institutions when they do not disclose expunged records of criminal charges or
+convictions. The bill also ensures that expunged records for specified cannabis possession charges
+are removed from the Judiciary’s MDEC system. There is no data currently available to estimate
+the extent of the bill’s impacts since no dispositive data exists regarding (1) the demographic
+composition of applicants for expungement; (2) denials of licenses, permits, registrations, or
+admissions by governmental entities or educational institutions; and (3) denials specifically based
+on refusals to disclose expunged records. Statewide criminal justice data suggests, however, that
+Black individuals, in particular, could benefit under the bill to the extent they are currently denied
+services for failing to disclose expunged records.
+HB 131/ Page 1
+
+Analysis
+The bill generally modifies State law to remove barriers faced by individuals with expunged
+criminal records by clarifying that the denial of access to occupational licenses, permits,
+registrations, or governmental services based solely on an individual’s refusal to disclose
+information regarding an expunged criminal record is prohibited. Refusal to disclose this
+information may also not be used as a sole justification for expulsion from, or admittance to, an
+educational institution. The bill also prohibits the MDEC system, which is the Judiciary’s internal
+case management system, from referring to a case where the only charge was possession of
+cannabis and the case was disposed of before July 1, 2023.
+Expungements Generally
+Specifically, § 10-110 of the Criminal Procedure Article authorizes an individual convicted of any
+of a list of approximately 100 specified offenses, or an attempt, a conspiracy, or a solicitation of
+any of these offenses, to file a petition for expungement of the conviction, subject to specified
+procedures and requirements. With some exceptions, to begin the process of expungement, a
+petitioner must file a petition for expungement with the court under § 10-105 or § 10-110 of the
+Criminal Procedure Article, which establishes eligibility for the expungement of records pertaining
+to a criminal charge or conviction. In general, § 10-110 applies to expungements of convictions,
+and § 10-105 applies to the expungement of criminal charges that resulted in a disposition other
+than a conviction.
+References to Cannabis Criminal Records
+Under existing law, the Maryland Judiciary Case Search (which is not the same as MDEC)
+provides public access to information from Maryland District Court and circuit court traffic,
+criminal, and civil case records. The information shown includes names of parties, addresses, case
+numbers, dates of birth, trial dates, charges, and case dispositions. Among other things, the
+Maryland Judiciary Case Search is prohibited from referring in any way to the existence of records
+of a charge in a case with electronic records for (1) a charge of possession of cannabis that resulted
+in a conviction that was later pardoned by the Governor (effective January 31, 2026) and (2) a
+criminal case in which possession of cannabis is the only charge in the case and the charge was
+disposed of before July 1, 2023. On or before July 1, 2024, the Department of Public Safety and
+Correctional Services (DPSCS) must remove all references in the Criminal Justice Information
+System Central Repository to all cases in which possession of cannabis is the only charge in the
+case and the charge was issued before July 1, 2023.
+Potential Impacts
+The bill’s clarifying provisions could help protect individuals with expunged records of criminal
+charges and/or convictions from the denial of economic opportunities based solely on their refusal
+to disclose expunged information. Criminal records, regardless of their nature, pose a significant
+challenge for individuals seeking to rebuild their lives following a conviction, arrest, or charge.
+Securing employment, housing, health care, education, and access to government services can all
+be more difficult for those with a criminal history. Previous research has detailed notable collateral
+consequences to having a criminal record that often exacerbate the challenges of social
+HB 131/ Page 2
+
+reintegration following imprisonment. Even indiv iduals convicted of criminal charges that do not
+face imprisonment may still see significant adverse effects resulting from a criminal record.
+According to the Administrative Office of the Courts (AOC), there were 54,069 petitions for
+expungement in fiscal 2024 in both the district and circuit courts. No demographic data is currently
+available to indicate the racial and ethnic composition of expungement applicants.
+Assuming that trends for expungement applications are similar to trends for charges, convictions,
+and incarceration in the State, a significant number and percentage of Black individuals could
+benefit from protections under the bill. DPSCS reports that, as of January 2026, Black individuals
+made up 71% of Maryland’s prison population contrasted with their 30% share of the State’s
+overall population. It is therefore a reasonable assumption that Black individuals comprise a
+meaningful portion of the population seeking to expunge criminal records.
+By way of example, records of cannabis possession violations are eligible for expungement under
+specified conditions. According to AOC data, Black individuals comprised 67% of those charged
+for various possession violations between 2010 and 2021 compared to 30% of their white
+counterparts. Assuming the overall pool of expungement applicants is similarly distributed, Black
+individuals are likely the most affected by the bill's provisions.
+Applicant and Denial Data
+No reliable data exists to indicate significant denial activity by governmental and/or educational
+entities related to individuals that have criminal records. Chapter 796 of 2018 required specified
+departments to report information related to the denial of licenses or certificates for the preceding
+five years based on an applicant’s criminal history. While some of the departments covered under
+Chapter 796 reported little to no data, the Maryland Department of Labor and the Maryland
+Department of Health reported that less than 1% of the applicants for various licenses were
+individuals with criminal histories.
+There is even less data regarding denials due to an applicant’s refusal to disclose information
+within an expunged criminal record. There is also no data on admittance denials and/or expulsions
+from educational institutions. Despite the absence of meaningful data documenting actual adverse
+impacts under existing law, the bill’s provisions could potentially encourage more individuals with
+a criminal record to apply for governmental or educational services.
+Conclusion
+There is no way to reliably measure the impacts of the bill without demographic data for
+expungement applicants, applicants to the entities covered by the bill, and recent data relating to
+the reasons for denial of applications by governmental entities and/or educational institutions. To
+the extent that individuals are denied or discouraged to apply for licenses, permits, registrations,
+and governmental services, or denied admittance to educational institutions solely due to their
+refusal to disclose information contained within an expunged criminal record, the provisions of
+the bill would provide more access to education, employment, professional development, and the
+economic security afforded by such access. Black individuals could benefit the most from the bill
+HB 131/ Page 3
+
+as these individuals are overrepresented in the p opulation of those charged, arrested, convicted,
+and incarcerated for many of the crimes eligible for expungement.
+Information Sources: Administrative Office of the Courts; Governor’s Office of Crime
+Prevention and Policy; U.S. Bureau of Labor Statistics; Department of Public Safety and
+Correctional Services; Council of State Governments Justice Center; Maryland Department of the
+Environment; Department of Human Services; Maryland Department of Agriculture; Maryland
+Department of Labor; Department of Legislative Services
+Analysis by: Rafael Regales
+Published: 02/05/2026
+HB 131/ Page 4
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau, Annual Estimates of the Resident Population by Sex, Race, and Hispanic Origin for the
+United States: April 1, 2020 to July 1, 2024 (NC-EST2024-SR11H) and (SC-EST2024-SR11H-24)
+HB 131/ Page 5
+
+[DELETED:  t p o c i t o c a t c w d o b o a f e ( d o l p r o]
+[DELETED:  r b c t t d o a t o l p o g s b s o a i r t d r a e c r i p R t d t m s f r t a c w t o c w p o r a e l t M J C S ( i n t s a M p a t i f M D C a c c t d o b t d c a c d A o t t t h a c r t o e t c o s]
+[DELETED: re p I i t a r a t B i c a v p v b 2 a 2 c t 3 o t w 7 r l t n d t M D o L a t M o H r t l t 1 o t a f v l w i n w t r m t i o t b w d d f]
+[DELETED:  S  A O o t C G O o C a P U B o L S D o P S a ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]

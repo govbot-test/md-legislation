@@ -1,0 +1,244 @@
+Title: SENATE BILL 564
+Official Title: SENATE BILL 564
+Number of Sections: 1
+Source: versions - Third - State Government - Office of the Attorney General - Data Protection
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+P1, I3 6lr2788
+By: Senators Gile and Love, Love, Beidle, Hester, and Lam
+Introduced and read first time: February 4, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 18, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 State Government – Office of the Attorney General – Data Protection
+3 FOR the purpose of establishing the Division of Data Protection within the Office of the
+4 Attorney General; authorizing the Division to enforce certain provisions of law;
+5 establishing the Maryland Data Privacy Implementation and Innovation
+6 Workgroup; and generally relating to data protection.
+7 BY adding to
+8 Article – State Government
+9 Section 6–1001 through 6–1003 to be under the new subtitle “Subtitle 10. Division
+10 of Data Protection”
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2025 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – State Government
+16 SUBTITLE 10. DIVISION OF DATA PROTECTION.
+17 6–1001.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0564*
+2 SENATE BILL 564
+1 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (B) “DIVISION” MEANS THE DIVISION OF DATA PROTECTION.
+4 (C) “VIOLATION” MEANS A VIOLATION OF:
+5 (1) SECTION 13–310.1 OF THE COMMERCIAL LAW ARTICLE;
+6 (2) (1) TITLE 14, SUBTITLE 47 OF THE COMMERCIAL LAW
+7 ARTICLE; OR
+8 (3) (2) TITLE 14, SUBTITLE 48 OF THE COMMERCIAL LAW
+9 ARTICLE.
+10 6–1002.
+11 THERE IS A DIVISION OF DATA PROTECTION IN THE OFFICE.
+12 6–1003.
+13 (A) THE FUNCTION OF THE DIVISION IS TO INVESTIGATE AND BRING CIVIL
+14 ACTIONS RELATED TO VIOLATIONS.
+15 (B) THE DIVISION SHALL INCLUDE:
+16 (1) A FULL–TIME CHIEF COUNSEL OF DATA PROTECTION; AND
+17 (2) STAFF, INCLUDING ASSISTANT ATTORNEYS GENERAL,
+18 INVESTIGATORS, AND ADMINISTRATORS, AS PROVIDED IN THE STATE BUDGET.
+19 SECTION 2. AND BE IT FURTHER ENACTED, That:
+20 (a) There is a Maryland Data Privacy Implementation and Innovation
+21 Workgroup.
+22 (b) The Workgroup consists of the following members:
+23 (1) one member of the Senate of Maryland, appointed by the President of
+24 the Senate;
+25 (2) one member of the House of Delegates, appointed by the Speaker of the
+26 House;
+SENATE BILL 564 3
+1 (3) the Attorney General, or a designee from the Attorney General who
+2 represents the Division of Data Protection;
+3 (4) the Secretary of Information Technology, or the Secretary’s designee;
+4 (5) the Secretary of Commerce, or the Secretary’s designee;
+5 (6) the following members, appointed by the Governor:
+6 (i) one consumer privacy advocate from a nonprofit or academic
+7 institution;
+8 (ii) one civil rights or civil liberties advocate with privacy expertise;
+9 (iii) one representative of a Maryland–based small business;
+10 (iv) one representative of the digital advertising industry; and
+11 (v) one representative of industry with experience in data
+12 governance, cybersecurity, or compliance; and
+13 (7) five members, appointed jointly by the President of the Senate and the
+14 Speaker of the House, representing a variety of stakeholder perspectives, including
+15 consumer advocates, technical experts, and regulated industry sectors.
+16 (c) The members of the Workgroup shall elect a chair from among the members
+17 of the Workgroup.
+18 (d) The Office of the Attorney General shall provide staff for the Workgroup.
+19 (e) A member of the Workgroup:
+20 (1) may not receive compensation as a member of the Workgroup; but
+21 (2) is entitled to reimbursement for expenses under the Standard State
+22 Travel Regulations, as provided in the State budget.
+23 (f) The Workgroup shall:
+24 (1) study Maryland’s consumer data privacy framework and evaluate
+25 implementation issues, focused on the following areas:
+26 (i) data minimization;
+27 (ii) compliance challenges faced by businesses;
+28 (iii) privacy law updates in other states;
+4 SENATE BILL 564
+1 (iv) enforcement capacity and funding, including staffing and
+2 operational needs; and
+3 (v) artificial intelligence and privacy, including how artificial
+4 intelligence systems build on personal data and how privacy protections should apply on
+5 emerging contexts; and
+6 (2) make recommendations for legislative or policy changes to make
+7 technical clarifications or improvements while maintaining strong consumer protections.
+8 (g) On or before January 1, 2027, the Workgroup shall report its findings and
+9 recommendations to the Governor and, in accordance with § 2–1257 of the State
+10 Government Article, the General Assembly.
+11 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+12 1, 2026. Section 2 of this Act shall remain effective for a period of 1 year and, at the end of
+13 June 30, 2027, Section 2 of this Act, with no further action required by the General
+14 Assembly, shall be abrogated and of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6     A S F A G a t D t e c p o l e t M D P I a I W B  A S o  A  (  S T A1.DDP.  I A R]
+[DELETED:  S () N T S T F W H T M() “D”DDP.IN  I A R() “V”:IN  ( 11CLA;   O A R ()( T1,S47CI  U  O T O A;E  ()( T1,S48CI  U  O T O A.TDDPO. I A R FE() TH I() TD:H I ( –CCDP;LT H O A RN  ( ,F I A A GLS S  T,S.  S  ( T i a M D P I a I W  ( T   ( o t   ( o H]
+[DELETED: S 3   ( t r   ( t   ( t   ( t    ( o c p a f a n o a i    ( o    ( o    ( o    ( o r o i w e i d g   ( f S o t H r a v o s p i c  ( T o  ( T  ( A   ( m   ( i S T  ( T   ( s M c d p f a e i    ( d    ( c    ( p]
+[DELETED:  S     ( e c a f i s a o    ( a i a p i h a i e   ( m r f l o p c t m t  ( O r t t G a i a w § 2 o t S G  S 1 J 3 2 S 2 o t A w n f a r b t G A          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 564
+P1, I3 6lr2788
+By: Senators Gile and Love, Love, Beidle, Hester, and Lam
+Introduced and read first time: February 4, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 18, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 State Government – Office of the Attorney General – Data Protection
+3 FOR the purpose of establishing the Division of Data Protection within the Office of the
+4 Attorney General; authorizing the Division to enforce certain provisions of law;
+5 establishing the Maryland Data Privacy Implementation and Innovation
+6 Workgroup; and generally relating to data protection.
+7 BY adding to
+8 Article – State Government
+9 Section 6–1001 through 6–1003 to be under the new subtitle “Subtitle 10. Division
+10 of Data Protection”
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2025 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – State Government
+16 SUBTITLE 10. DIVISION OF DATA PROTECTION.
+17 6–1001.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0564*
+
+2 SENATE BILL 564
+1 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (B) “DIVISION” MEANS THE DIVISION OF DATA PROTECTION.
+4 (C) “VIOLATION” MEANS A VIOLATION OF:
+5 (1) SECTION 13–310.1 OF THE COMMERCIAL LAW ARTICLE;
+6 (2) (1) TITLE 14, SUBTITLE 47 OF THE COMMERCIAL LAW
+7 ARTICLE; OR
+8 (3) (2) TITLE 14, SUBTITLE 48 OF THE COMMERCIAL LAW
+9 ARTICLE.
+10 6–1002.
+11 THERE IS A DIVISION OF DATA PROTECTION IN THE OFFICE.
+12 6–1003.
+13 (A) THE FUNCTION OF THE DIVISION IS TO INVESTIGATE AND BRING CIVIL
+14 ACTIONS RELATED TO VIOLATIONS.
+15 (B) THE DIVISION SHALL INCLUDE:
+16 (1) A FULL–TIME CHIEF COUNSEL OF DATA PROTECTION; AND
+17 (2) STAFF, INCLUDING ASSISTANT ATTORNEYS GENERAL,
+18 INVESTIGATORS, AND ADMINISTRATORS, AS PROVIDED IN THE STATE BUDGET.
+19 SECTION 2. AND BE IT FURTHER ENACTED, That:
+20 (a) There is a Maryland Data Privacy Implementation and Innovation
+21 Workgroup.
+22 (b) The Workgroup consists of the following members:
+23 (1) one member of the Senate of Maryland, appointed by the President of
+24 the Senate;
+25 (2) one member of the House of Delegates, appointed by the Speaker of the
+26 House;
+
+SENATE BILL 564 3
+1 (3) the Attorney General, or a designee from the Attorney General who
+2 represents the Division of Data Protection;
+3 (4) the Secretary of Information Technology, or the Secretary’s designee;
+4 (5) the Secretary of Commerce, or the Secretary’s designee;
+5 (6) the following members, appointed by the Governor:
+6 (i) one consumer privacy advocate from a nonprofit or academic
+7 institution;
+8 (ii) one civil rights or civil liberties advocate with privacy expertise;
+9 (iii) one representative of a Maryland–based small business;
+10 (iv) one representative of the digital advertising industry; and
+11 (v) one representative of industry with experience in data
+12 governance, cybersecurity, or compliance; and
+13 (7) five members, appointed jointly by the President of the Senate and the
+14 Speaker of the House, representing a variety of stakeholder perspectives, including
+15 consumer advocates, technical experts, and regulated industry sectors.
+16 (c) The members of the Workgroup shall elect a chair from among the members
+17 of the Workgroup.
+18 (d) The Office of the Attorney General shall provide staff for the Workgroup.
+19 (e) A member of the Workgroup:
+20 (1) may not receive compensation as a member of the Workgroup; but
+21 (2) is entitled to reimbursement for expenses under the Standard State
+22 Travel Regulations, as provided in the State budget.
+23 (f) The Workgroup shall:
+24 (1) study Maryland’s consumer data privacy framework and evaluate
+25 implementation issues, focused on the following areas:
+26 (i) data minimization;
+27 (ii) compliance challenges faced by businesses;
+28 (iii) privacy law updates in other states;
+
+4 SENATE BILL 564
+1 (iv) enforcement capacity and funding, including staffing and
+2 operational needs; and
+3 (v) artificial intelligence and privacy, including how artificial
+4 intelligence systems build on personal data and how privacy protections should apply on
+5 emerging contexts; and
+6 (2) make recommendations for legislative or policy changes to make
+7 technical clarifications or improvements while maintaining strong consumer protections.
+8 (g) On or before January 1, 2027, the Workgroup shall report its findings and
+9 recommendations to the Governor and, in accordance with § 2–1257 of the State
+10 Government Article, the General Assembly.
+11 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+12 1, 2026. Section 2 of this Act shall remain effective for a period of 1 year and, at the end of
+13 June 30, 2027, Section 2 of this Act, with no further action required by the General
+14 Assembly, shall be abrogated and of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6     A S F A G a t D t e c p o l e t M D P I a I W B  A S o  A  (  S T A1.DDP.  I A R]
+[DELETED:  S () N T S T F W H T M() “D”DDP.IN  I A R() “V”:IN  ( 11CLA;   O A R ()( T1,S47CI  U  O T O A;E  ()( T1,S48CI  U  O T O A.TDDPO. I A R FE() TH I() TD:H I ( –CCDP;LT H O A RN  ( ,F I A A GLS S  T,S.  S  ( T i a M D P I a I W  ( T   ( o t   ( o H]
+[DELETED: S 3   ( t r   ( t   ( t   ( t    ( o c p a f a n o a i    ( o    ( o    ( o    ( o r o i w e i d g   ( f S o t H r a v o s p i c  ( T o  ( T  ( A   ( m   ( i S T  ( T   ( s M c d p f a e i    ( d    ( c    ( p]
+[DELETED:  S     ( e c a f i s a o    ( a i a p i h a i e   ( m r f l o p c t m t  ( O r t t G a i a w § 2 o t S G  S 1 J 3 2 S 2 o t A w n f a r b t G A          G               ]

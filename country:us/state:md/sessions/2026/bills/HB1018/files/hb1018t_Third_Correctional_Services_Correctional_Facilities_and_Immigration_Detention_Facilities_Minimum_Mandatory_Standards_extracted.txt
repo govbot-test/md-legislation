@@ -1,0 +1,1021 @@
+Title: HOUSE BILL 1018
+Official Title: HOUSE BILL 1018
+Number of Sections: 1
+Source: versions - Third - Correctional Services - Correctional Facilities and Immigration Detention Facilities - Minimum Mandatory Standards
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+E5 EMERGENCY BILL 6lr1752
+CF SB 985
+By: Delegate Stewart Delegates Stewart, Crutchfield, Fair, Lehman, Ruth,
+Schindler, Solomon, Terrasa, and Wu
+Introduced and read first time: February 6, 2026
+Assigned to: Government, Labor, and Elections
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 19, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Correctional Services – Correctional Facilities and Immigration Detention
+3 Facilities – Minimum Mandatory Standards
+4 FOR the purpose of requiring the Secretary of Public Safety and Correctional Services to
+5 adopt regulations establishing certain minimum mandatory standards governing the
+6 care, custody, and conditions of civil detainees in immigration detention facilities;
+7 altering certain duties of and prohibitions on the actions of the Maryland
+8 Commission on Correctional Standards relating to correctional facilities and
+9 immigration detention facilities, including reporting requirements, receiving and
+10 reviewing reported violations of minimum mandatory standards, submitting an
+11 annual certification to the Commission related to utilities, occupancy standards, and
+12 emergency preparedness, and inspecting facilities; requiring certain health care
+13 practitioners and security guards persons to report certain violations and security
+14 breaches to the Commission or the Office of the Inspector General; requiring a
+15 regulating body to take appropriate disciplinary action if a health care practitioner
+16 or a security guard fails certain persons fail to report a certain violation; applying
+17 certain compliance, audit, and enforcement provisions to immigration detention
+18 facilities; authorizing the Attorney General to bring a certain action against a private
+19 entity that owns, manages, or operates a correctional facility or an immigration
+20 detention facility for certain violations; authorizing requiring the Commission to
+21 cease operation of a correctional facility or an immigration detention facility that is
+22 life–threatening or health–endangering; requiring a certain State, local governing
+23 body, or federal entity to pay the expense incurred by transferring certain
+24 individuals from a closed facility; authorizing the Commission to establish an
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1018*
+2 HOUSE BILL 1018
+1 advisory board on immigration detention facilities; and generally relating to State
+2 oversight of correctional facilities and immigration detention facilities.
+3 BY repealing and reenacting, without amendments,
+4 Article – Correctional Services
+5 Section 1–101(a), (d), (j) through (l), and (q) and 8–106
+6 Annotated Code of Maryland
+7 (2025 Replacement Volume)
+8 BY repealing and reenacting, with amendments,
+9 Article – Correctional Services
+10 Section 8–101 through 8–103, 8–105, 8–110, and 8–112 through 8–116
+11 Annotated Code of Maryland
+12 (2025 Replacement Volume)
+13 BY adding to
+14 Article – Correctional Services
+15 Section 8–111.1, 8–111.2, and 8–114.1
+16 Annotated Code of Maryland
+17 (2025 Replacement Volume)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Correctional Services
+21 1–101.
+22 (a) In this article the following words have the meanings indicated.
+23 (d) “Correctional facility” means a facility that is operated for the purpose of
+24 detaining or confining adults who are charged with or found guilty of a crime.
+25 (j) “Immigration detention facility” means any building, facility, or structure
+26 used, in whole or in part, to house or detain individuals for federal civil immigration
+27 violations.
+28 (k) “Incarcerated individual” means an individual who is actually or
+29 constructively detained or confined in a correctional facility.
+30 (l) “Local correctional facility” means a correctional facility that is operated:
+31 (1) by one or more counties; or
+32 (2) by a municipal corporation.
+HOUSE BILL 1018 3
+1 (q) (1) “State correctional facility” means a correctional facility that is
+2 operated by the State.
+3 (2) “State correctional facility” includes:
+4 (i) the Patuxent Institution;
+5 (ii) the Baltimore City Detention Center; and
+6 (iii) the centralized booking facility in Baltimore City that is operated
+7 by the Division of Pretrial Detention and Services in the Department of Public Safety and
+8 Correctional Services.
+9 8–101.
+10 (a) In this subtitle the following words have the meanings indicated.
+11 (b) “Approved standards” means the standards described in § 8–103(b) of this
+12 subtitle.
+13 (C) “BREACH OF THE SECURITY OF A SYSTEM” MEANS THE UNAUTHORIZED
+14 ACQUISITION OF COMPUTERIZED DATA THAT COMPROMISES THE SECURITY,
+15 CONFIDENTIALITY, OR INTEGRITY OF PERSONAL IDENTIFYING INFORMATION
+16 MAINTAINED IN THE SYSTEM.
+17 (D) “CIVIL DETAINEE” MEANS AN INDIVIDUAL WHO IS ACTUALLY OR
+18 CONSTRUCTIVELY DETAINED OR CONFINED IN AN IMMIGRATION DETENTION
+19 FACILITY.
+20 [(c)] (E) “Commission” means the Maryland Commission on Correctional
+21 Standards.
+22 (F) “LICENSED HEALTH CARE PRACTITIONER” MEANS AN INDIVIDUAL
+23 LICENSED, CERTIFIED, OR OTHERWISE AUTHORIZED TO PRACTICE A HEALTH
+24 OCCUPATION UNDER THE HEALTH OCCUPATIONS ARTICLE.
+25 [(d)] (G) “Minimum mandatory standards” means the standards described in §
+26 8–103(a) of this subtitle.
+27 (H) “PERSONAL IDENTIFYING INFORMATION” HAS THE MEANING STATED IN
+28 § 8–301 OF THE CRIMINAL LAW ARTICLE.
+29 8–102.
+30 The General Assembly finds that there is a need to improve the method of:
+4 HOUSE BILL 1018
+1 (1) establishing standards for correctional facilities, IMMIGRATION
+2 DETENTION FACILITIES, and programs [and of]; AND
+3 (2) ensuring compliance with these standards to better protect the health,
+4 safety, and welfare of the public by reducing incidents of crime.
+5 8–103.
+6 (a) (1) With the advice of the Commission, the Secretary shall adopt
+7 regulations that establish minimum mandatory standards applicable to:
+8 (I) security and CONTROL OF incarcerated [individual control,
+9 incarcerated individual] INDIVIDUALS AND CIVIL DETAINEES;
+10 (II) safety[, incarcerated individual] OF INCARCERATED
+11 INDIVIDUALS AND CIVIL DETAINEES, INCLUDING LIFE AND FIRE SAFETY;
+12 (III) food services[, incarcerated individual] FOR INCARCERATED
+13 INDIVIDUALS AND CIVIL DETAINEES;
+14 (IV) housing and sanitation[, incarcerated] FOR INCARCERATED
+15 INDIVIDUALS AND CIVIL DETAINEES, INCLUDING MAXIMUM OCCUPANCY
+16 RESTRICTIONS;
+17 (V) individual rights[, classification, hearings,] AND HEARINGS
+18 FOR INCARCERATED INDIVIDUALS AND CIVIL DETAINEES;
+19 (VI) CLASSIFICATION, victim notification, AND restitution, AS
+20 APPLICABLE TO INCARCERATED INDIVIDUALS AND CIVIL DETAINEES; and
+21 (VII) administrative record keeping FOR INCARCERATED
+22 INDIVIDUALS AND CIVIL DETAINEES.
+23 (2) The minimum mandatory standards adopted under paragraph (1) of
+24 this subsection shall apply to all State and local correctional facilities AND IMMIGRATION
+25 DETENTION FACILITIES LOCATED IN THE STATE.
+26 (b) (1) With the advice of the Commission, the Secretary shall adopt
+27 regulations that establish approved standards applicable to personnel, training,
+28 administration, management, planning and coordination, research and evaluation,
+29 physical plant, special management incarcerated individuals, rules and discipline, mail and
+30 visiting, reception and orientation, property control, work programs, educational and
+31 vocational training, library services, religious services, recreational activities, counseling,
+32 release preparation, and volunteers.
+HOUSE BILL 1018 5
+1 (2) The approved standards adopted under paragraph (1) of this
+2 subsection:
+3 (i) shall apply to all State correctional facilities; and
+4 (ii) may be adopted, as a whole or in part, by a local correctional
+5 facility.
+6 (c) The standards adopted under this section shall be consistent with federal and
+7 State law.
+8 8–105.
+9 The standards adopted under § 8–103 of this subtitle shall be enforced as provided
+10 under §§ 8–112 through [8–114] 8–114.1 of this subtitle.
+11 8–106.
+12 There is a Maryland Commission on Correctional Standards in the Department.
+13 8–110.
+14 (a) (1) The Commission shall report annually to the Governor and, subject to
+15 § 2–1257 of the State Government Article, to the General Assembly on the activities of the
+16 Commission.
+17 (2) THE ANNUAL REPORT REQUIRED UNDER PARAGRAPH (1) OF THIS
+18 SUBSECTION SHALL INCLUDE:
+19 (I) A DETAILED ANALYSIS OF COMPLIANCE ISSUES AT
+20 CORRECTIONAL FACILITIES AND IMMIGRATION DETENTION FACILITIES; AND
+21 (II) RECOMMENDATIONS TO ADDRESS COMPLIANCE ISSUES
+22 IDENTIFIED UNDER ITEM (I) OF THIS PARAGRAPH.
+23 (3) THE REPORT PROVIDED UNDER THIS SECTION MAY NOT DISCLOSE
+24 PERSONAL IDENTIFYING INFORMATION OF AN INCARCERATED INDIVIDUAL OR A
+25 CIVIL DETAINEE.
+26 (b) The Commission shall provide the Secretary and the governing body of each
+27 county and municipal corporation that has a correctional facility OR AN IMMIGRATION
+28 DETENTION FACILITY with a copy of its annual report.
+29 8–111.1.
+6 HOUSE BILL 1018
+1 (A) (1) ANY PERSON MAY REPORT A VIOLATION OF THE MINIMUM
+2 MANDATORY STANDARDS BY A CORRECTIONAL FACILITY OR AN IMMIGRATION
+3 DETENTION FACILITY TO THE COMMISSION.
+4 (2) THE COMMISSION SHALL ESTABLISH A STANDARDIZED PROCESS
+5 FOR THE REPORTING, RECEIPT, AND TIMELY REVIEW OF REPORTED VIOLATIONS
+6 UNDER PARAGRAPH (1) OF THIS SUBSECTION.
+7 (3) (I) THE DEPARTMENT SHALL PROVIDE AND MAINTAIN A LINK
+8 ON THE COMMISSION’S WEBSITE FOR THE PUBLIC TO REPORT A VIOLATION.
+9 (II) THE LINK PROVIDED UNDER SUBPARAGRAPH (I) OF THIS
+10 PARAGRAPH SHALL ALLOW A VIOLATION TO BE REPORTED ANONYMOUSLY.
+11 (4) THE COMMISSION AND THE DEPARTMENT SHALL MAINTAIN THE
+12 CONFIDENTIALITY OF ANY PERSONAL IDENTIFYING INFORMATION OF AN
+13 INCARCERATED INDIVIDUAL OR A CIVIL DETAINEE THAT IS PROVIDED IN A REPORT.
+14 (5) AFTER COMPLETING REVIEW OF A VIOLATION REPORTED UNDER
+15 THIS SUBSECTION, THE COMMISSION MAY:
+16 (I) INSPECT THE CORRECTIONAL FACILITY OR THE
+17 IMMIGRATION DETENTION FACILITY IN ACCORDANCE WITH § 8–113 OF THIS
+18 SUBTITLE;
+19 (II) SEND A COMPLIANCE PLAN TO THE CORRECTIONAL
+20 FACILITY OR THE IMMIGRATION DETENTION FACILITY IN ACCORDANCE WITH §
+21 8–114 OF THIS SUBTITLE;
+22 (III) DETERMINE THAT THE FACILITY IS LIFE–THREATENING OR
+23 HEALTH–ENDANGERING AND ORDER THE IMMEDIATE CESSATION OF OPERATION OF
+24 THE CORRECTIONAL FACILITY OR THE IMMIGRATION DETENTION FACILITY IN
+25 ACCORDANCE WITH § 8–115 OF THIS SUBTITLE; OR
+26 (IV) REFER THE VIOLATION TO THE OFFICE OF THE INSPECTOR
+27 GENERAL FOR FURTHER INVESTIGATION; OR
+28 (V) TAKE ANY OTHER ACTION NECESSARY TO PROTECT THE
+29 HEALTH AND SAFETY OF INCARCERATED INDIVIDUALS OR CIVIL DETAINEES.
+30 (B) (1) THIS SUBSECTION APPLIES TO AN INDIVIDUAL WHO PROVIDES
+31 SERVICES TO A CORRECTIONAL FACILITY OR AN IMMIGRATION DETENTION
+32 FACILITY IN THE INDIVIDUAL’S CAPACITY AS:
+HOUSE BILL 1018 7
+1 (I) A LICENSED HEALTH CARE PRACTITIONER; OR
+2 (II) A SECURITY GUARD CERTIFIED UNDER TITLE 19, SUBTITLE
+3 4 OF THE BUSINESS OCCUPATIONS AND PROFESSIONS ARTICLE;
+4 (III) AN EMERGENCY MEDICAL TECHNICIAN LICENSED UNDER
+5 TITLE 13, SUBTITLE 5 OF THE EDUCATION ARTICLE; OR
+6 (IV) A PRIVATE CUSTODIAL TRANSPORTATION SERVICE.
+7 (2) AN INDIVIDUAL SUBJECT TO THIS SUBSECTION SHALL REPORT TO
+8 THE COMMISSION:
+9 (I) A VIOLATION OF THE MINIMUM MANDATORY STANDARDS
+10 THAT THE INDIVIDUAL HAS REASON TO BELIEVE HAS BEEN COMMITTED BY A
+11 CORRECTIONAL FACILITY OR AN IMMIGRATION DETENTION FACILITY; AND
+12 (II) A KNOWN BREACH OF THE SECURITY OF A SYSTEM OF A
+13 CORRECTIONAL FACILITY OR AN IMMIGRATION DETENTION FACILITY.
+14 (3) IF THE REGULATING BODY FOR A LICENSED HEALTH CARE
+15 PRACTITIONER OR, A CERTIFIED SECURITY GUARD, AN EMERGENCY MEDICAL
+16 TECHNICIAN, OR A PRIVATE CUSTODIAL TRANSPORTATION SERVICE DETERMINES
+17 THAT AN INDIVIDUAL HAS FAILED TO SUBMIT A REPORT IN VIOLATION OF
+18 PARAGRAPH (2) OF THIS SUBSECTION, THE LICENSING BODY SHALL TAKE
+19 APPROPRIATE DISCIPLINARY ACTION.
+20 (C) A CORRECTIONAL FACILITY OR AN IMMIGRATION DETENTION FACILITY
+21 MAY NOT RETALIATE AGAINST AN EMPLOYEE FOR SUBMITTING, IN GOOD FAITH, A
+22 REPORT OF A VIOLATION UNDER THIS SECTION.
+23 8–111.2.
+24 (A) (1) SUBJECT TO SUBSECTION (B) OF THIS SECTION, ON OR BEFORE
+25 JULY 1, 2026, AND EACH JULY 1 THEREAFTER, EACH CORRECTIONAL FACILITY AND
+26 IMMIGRATION DETENTION FACILITY IN THE STATE SHALL SUBMIT A CERTIFICATION
+27 TO THE COMMISSION THAT THE FACILITY:
+28 (I) HAS ADEQUATE AND RELIABLE UTILITIES THAT COMPLY
+29 WITH STATE AND LOCAL LAWS AND REGULATIONS, INCLUDING POTABLE WATER,
+30 SEWER, AND ELECTRICITY;
+8 HOUSE BILL 1018
+1 (II) HAS FUNCTIONAL HEATING, VENTILATION, AND AIR
+2 CONDITIONING; MAINTAINS UTILITY COORDINATION FOR POTABLE WATER, SEWER,
+3 AND ELECTRICITY SERVICES;
+4 (III) MAINTAINS AN EMERGENCY POWER SYSTEM TO ENSURE
+5 THE SAFE OPERATION OF THE FACILITY IN THE EVENT OF A DISRUPTION IN
+6 ELECTRICAL POWER; AND
+7 (IV) MAINTAINS AN EMERGENCY OPERATIONS PLAN TO
+8 RESPOND TO UTILITY DISRUPTIONS, A BREACH OF THE SECURITY OF A SYSTEM,
+9 FIRES, AND MEDICAL EMERGENCIES;
+10 (V) HAS COORDINATION PROTOCOLS WITH LOCAL FIRE
+11 DEPARTMENTS AND EMERGENCY MEDICAL SERVICES, EMERGENCY MANAGEMENT,
+12 AND LOCAL HOSPITALS;
+13 (VI) OPERATES WITHIN THE OCCUPANCY STANDARD
+14 ESTABLISHED UNDER THE MINIMUM MANDATORY STANDARDS; AND
+15 (VII) OPERATES WITHIN THE CAPACITY OF AVAILABLE UTILITIES
+16 AND EMERGENCY SYSTEMS.
+17 (2) (I) A SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, A
+18 FACILITY SHALL SUBMIT A AN UNREDACTED COPY OF THE EMERGENCY OPERATIONS
+19 PLAN UNDER PARAGRAPH (1)(IV) OF THIS SUBSECTION WITH THE CERTIFICATION
+20 UNDER PARAGRAPH (1) OF THIS SUBSECTION.
+21 (II) A FACILITY MAY REDACT SENSITIVE SECURITY AND
+22 INTELLIGENCE INFORMATION TO MAINTAIN INTERNAL SECURITY PROCEDURES AND
+23 INVESTIGATIONS.
+24 (III) A FACILITY MAY PROVIDE A REDACTED COPY OF THE
+25 EMERGENCY OPERATION PLAN TO THE PUBLIC.
+26 (IV) THE EMERGENCY OPERATIONS PLAN SHALL BE REVIEWED
+27 AND UPDATED BY THE FACILITY AT LEAST ANNUALLY.
+28 (3) THE FACILITY SHALL INCLUDE SUFFICIENT DOCUMENTATION TO
+29 SUPPORT THE BASIS FOR THE CERTIFICATION AND PROMPTLY RESPOND TO
+30 REQUESTS FOR ADDITIONAL INFORMATION FROM THE COMMISSION.
+31 (B) IF A CORRECTIONAL FACILITY OR AN IMMIGRATION DETENTION
+32 FACILITY HAS A MATERIAL CHANGE IN OPERATIONS OR A MATERIAL INCREASE IN
+HOUSE BILL 1018 9
+1 OCCUPANCY, THE FACILITY SHALL SUBMIT AN UPDATED CERTIFICATION TO THE
+2 COMMISSION WITHIN 30 DAYS OF THE CHANGE.
+3 (C) IF A CORRECTIONAL FACILITY OR AN IMMIGRATION DETENTION
+4 FACILITY FAILS TO SUBMIT THE CERTIFICATION OR SUPPORTING DOCUMENTATION
+5 REQUIRED UNDER SUBSECTION (A) OF THIS SECTION, THE COMMISSION SHALL:
+6 (1) DETERMINE THAT THE FACILITY IS LIFE–THREATENING OR
+7 HEALTH–ENDANGERING AND ORDER THE IMMEDIATE CESSATION OF OPERATION OF
+8 THE CORRECTIONAL FACILITY OR THE IMMIGRATION DETENTION FACILITY IN
+9 ACCORDANCE WITH § 8–115 OF THIS SUBTITLE; OR
+10 (2) TAKE ANY OTHER ACTION NECESSARY TO PROTECT THE HEALTH
+11 AND SAFETY OF INCARCERATED INDIVIDUALS OR CIVIL DETAINEES.
+12 8–112.
+13 (a) (1) The Commission shall:
+14 (i) advise the Secretary regarding all:
+15 1. minimum mandatory standards FOR STATE AND LOCAL
+16 CORRECTIONAL FACILITIES AND IMMIGRATION DETENTION FACILITIES LOCATED IN
+17 THE STATE; and
+18 2. approved standards for State and local correctional
+19 facilities;
+20 (ii) consult and coordinate with national bodies promulgating
+21 [correctional] standards FOR CORRECTIONAL FACILITIES AND IMMIGRATION
+22 DETENTION FACILITIES to provide reasonable compatibility between the State standards
+23 and nationally established standards; and
+24 (iii) consult and cooperate with other units of the State and local
+25 jurisdictions concerning [correctional] standards FOR CORRECTIONAL FACILITIES AND
+26 IMMIGRATION DETENTION FACILITIES.
+27 (2) The Commission may provide technical assistance to the extent
+28 authorized in the State budget to aid the State and local jurisdictions in their efforts to
+29 comply with minimum mandatory standards and approved standards.
+30 (b) The Commission shall adopt regulations to carry out this subtitle.
+31 (c) The Commission shall employ a staff necessary to carry out this subtitle as
+32 provided in the State budget.
+10 HOUSE BILL 1018
+1 8–113.
+2 (a) The Commission shall:
+3 (1) establish and implement a process to inspect State and local
+4 correctional facilities AND IMMIGRATION DETENTION FACILITIES LOCATED IN THE
+5 STATE to determine and certify compliance with applicable standards; and
+6 (2) determine deadlines for remedial action and reinspection whenever
+7 inspection reports indicate noncompliance with applicable standards.
+8 (b) The Commission may review and act on appeals from staff inspection reports.
+9 (C) THE COMMISSION MAY CONDUCT AN INSPECTION IN CONJUNCTION
+10 WITH AN APPROPRIATE UNIT OF STATE OR LOCAL GOVERNMENT, SUCH AS THE
+11 STATE FIRE MARSHAL OR THE MARYLAND DEPARTMENT OF HEALTH.
+12 (D) (1) THE MANAGING OFFICIAL OR EMPLOYEES OF A CORRECTIONAL
+13 FACILITY OR THE OWNER, OPERATOR, MANAGER, OR EMPLOYEES OF AN
+14 IMMIGRATION DETENTION FACILITY MAY NOT RESTRICT, PREVENT, OR OTHERWISE
+15 IMPEDE AN INSPECTION FROM BEING CONDUCTED IN ACCORDANCE WITH THIS
+16 SUBTITLE.
+17 (2) IF ANY INDIVIDUAL VIOLATES PARAGRAPH (1) OF THIS
+18 SUBSECTION, THE COMMISSION SHALL ORDER THE IMMEDIATE CESSATION OF
+19 OPERATION OF THE APPLICABLE CORRECTIONAL FACILITY OR IMMIGRATION
+20 DETENTION FACILITY.
+21 8–114.
+22 (a) (1) If the Commission determines that a correctional facility OR AN
+23 IMMIGRATION DETENTION FACILITY is in violation of the minimum mandatory
+24 standards, the Commission shall send a compliance plan to the [correctional] facility.
+25 (2) The compliance plan shall state:
+26 (i) which minimum mandatory standards the [correctional] facility
+27 has violated;
+28 (ii) the time, to be determined by the Commission, that the
+29 [correctional] facility has to address the violations; and
+HOUSE BILL 1018 11
+1 (iii) the date that the Commission shall reinspect the [correctional]
+2 facility to determine if the [correctional] facility has complied with the minimum
+3 mandatory standards.
+4 (3) The Commission shall send a copy of the compliance plan to the
+5 executive and legislative body responsible for the [correctional] facility.
+6 (b) (1) If, after sending a compliance plan and reinspecting a correctional
+7 facility OR AN IMMIGRATION DETENTION FACILITY under subsection (a) of this section,
+8 the Commission determines that the [correctional] facility is in violation of the minimum
+9 mandatory standards, the Commission shall send a letter of reprimand to the [correctional]
+10 facility.
+11 (2) The letter of reprimand shall state:
+12 (i) which minimum standards the [correctional] facility has
+13 violated;
+14 (ii) the time, to be determined by the Commission but not to exceed
+15 60 days, that the [correctional] facility has to address the violations; and
+16 (iii) the date that the Commission will reinspect the [correctional]
+17 facility to determine if the [correctional] facility has complied with the minimum
+18 mandatory standards.
+19 (3) The Commission shall send a copy of the letter of reprimand to the
+20 executive and legislative body responsible for the [correctional] facility.
+21 (c) (1) If, after the Commission has sent a letter of reprimand to a correctional
+22 facility OR AN IMMIGRATION DETENTION FACILITY under subsection (b) of this section
+23 and reinspected the facility, the Commission determines that the [correctional] facility is
+24 in violation of the minimum mandatory standards, the Commission shall:
+25 (i) conduct a full standards and performance audit of the
+26 [correctional] facility; or
+27 (ii) periodically inspect the [correctional] facility until compliance is
+28 attained and send a report of each inspection to the executive and legislative bodies
+29 responsible for the [correctional] facility.
+30 (2) When conducting a full standards and performance audit of a
+31 [correctional] facility, the Commission shall examine:
+32 (i) the physical condition of the [correctional] facility;
+12 HOUSE BILL 1018
+1 (ii) the safety and treatment of incarcerated individuals OR CIVIL
+2 DETAINEES at the [correctional] facility, AS APPLICABLE;
+3 (iii) whether the [correctional] facility has policies and procedures in
+4 place as required by the minimum mandatory standards; and
+5 (iv) whether the [correctional] facility is following the required
+6 policies and procedures.
+7 (3) When conducting a full standards and performance audit, the
+8 Commission shall have unrestricted access to the personnel and records of the
+9 [correctional] facility.
+10 (4) (i) If the Commission lacks the expertise necessary to perform a part
+11 of the full standards and performance audit, the Commission may obtain assistance from
+12 sources with expertise in the specific standard.
+13 (ii) If the Commission needs to obtain assistance, the [correctional]
+14 facility that is being audited shall reimburse the Commission for any cost incurred.
+15 (5) (i) After completing a full standards and performance audit, the
+16 Commission shall send a letter to the [correctional] facility.
+17 (ii) The letter shall contain:
+18 1. a copy of the audit findings, including details on all areas
+19 where the [correctional] facility fails to comply with the minimum mandatory standards;
+20 2. a statement of what actions the [correctional] facility
+21 must take in order to comply with the audit findings;
+22 3. a date when the [correctional] facility must comply with
+23 the audit findings; and
+24 4. a statement that the Commission will conduct an
+25 unannounced inspection of the [correctional] facility within a reasonable amount of time
+26 after the date specified for compliance and that if the [correctional] facility fails to comply,
+27 the Commission may seek a court order requiring compliance or order all or part of the
+28 [correctional] facility to cease operations.
+29 (iii) The Commission shall send a copy of the letter to the executive
+30 and legislative bodies responsible for the [correctional] facility.
+31 (6) Within a reasonable time after the date specified for compliance, the
+32 Commission shall conduct an unannounced inspection to verify that the [correctional]
+33 facility has complied with the audit findings.
+HOUSE BILL 1018 13
+1 (d) (1) If, after performing an audit and unannounced inspection under
+2 subsection (c) of this section and holding a hearing on the issue, the Commission determines
+3 that a [correctional] facility has not complied with the audit findings, the Commission
+4 shall, IN CONJUNCTION WITH THE ATTORNEY GENERAL:
+5 (i) petition a circuit court with venue over the proceeding for a court
+6 order requiring the [correctional] facility to comply with the audit findings; or
+7 (ii) issue an order to cease operation of the [correctional] facility or
+8 any of its [correctional] elements, procedures, or functions.
+9 (2) The Commission shall provide to a [correctional] facility reasonable
+10 notice of a hearing under paragraph (1) of this subsection.
+11 (3) The Commission may subpoena witnesses and hold public hearings in
+12 accordance with Title 10, Subtitle 2 of the State Government Article before making a final
+13 decision on whether to seek a court order or close a [correctional] facility or any of its
+14 [correctional] elements, procedures, or functions.
+15 8–114.1.
+16 (A) THIS SECTION APPLIES TO A PRIVATE ENTITY THAT OWNS, MANAGES,
+17 OR OPERATES, IN WHOLE OR IN PART, A CORRECTIONAL FACILITY OR AN
+18 IMMIGRATION DETENTION FACILITY.
+19 (B) IN ADDITION TO ANY OTHER ACTION AUTHORIZED BY THIS SUBTITLE,
+20 THE ATTORNEY GENERAL MAY BRING AN ACTION AGAINST A PRIVATE ENTITY FOR:
+21 (1) RETALIATING AGAINST AN EMPLOYEE FOR SUBMITTING A REPORT
+22 OF A VIOLATION IN VIOLATION OF § 8–111.1(C) OF THIS SUBTITLE;
+23 (2) FAILING TO COMPLY WITH THE CERTIFICATION REQUIREMENTS
+24 UNDER § 8–111.2 OF THIS SUBTITLE;
+25 (3) IMPEDING A COMMISSION INSPECTION IN VIOLATION OF §
+26 8–113(D)(1) OF THIS SUBTITLE; OR
+27 (4) FAILING TO COMPLY WITH THE AUDIT FINDINGS OF THE
+28 COMMISSION UNDER § 8–114(C) OF THIS SUBTITLE.
+29 (C) IN AN ACTION BROUGHT UNDER THIS SECTION, THE ATTORNEY
+30 GENERAL MAY SEEK:
+14 HOUSE BILL 1018
+1 (1) INJUNCTIVE RELIEF;
+2 (2) A CIVIL PENALTY OF UP TO $10,000 FOR EACH VIOLATION
+3 PAYABLE INTO THE GENERAL FUND OF THE STATE;
+4 (3) REASONABLE ATTORNEY’S FEES AND COSTS; AND
+5 (4) ANY OTHER APPROPRIATE RELIEF.
+6 (D) EACH DAY THAT A PRIVATE ENTITY FAILS TO CORRECT A VIOLATION
+7 UNDER SUBSECTION (B)(2) THROUGH (4) OF THIS SECTION SHALL CONSTITUTE A
+8 SEPARATE VIOLATION.
+9 8–115.
+10 (a) If the Commission or an authorized inspector finds a condition in a
+11 correctional facility OR AN IMMIGRATION DETENTION FACILITY that is life threatening
+12 or health endangering, the Commission or inspector may SHALL order the immediate
+13 cessation of operation.
+14 (b) Within 96 hours after an order is issued under subsection (a) of this section,
+15 the Commission shall hold a review hearing to confirm or countermand the order.
+16 (c) (1) (I) If a correctional facility is ordered closed under this section, all
+17 incarcerated individuals in the facility shall be transferred to and accepted in a suitable
+18 place of detention, as the Secretary determines.
+19 (II) IF AN IMMIGRATION DETENTION FACILITY IS ORDERED
+20 CLOSED UNDER THIS SECTION, ALL CIVIL DETAINEES IN THE FACILITY SHALL BE
+21 TRANSFERRED TO AND ACCEPTED IN A SUITABLE PLACE OF DETENTION, AS
+22 DETERMINED BY THE APPROPRIATE STATE OR FEDERAL ENTITY.
+23 (2) The STATE, LOCAL governing body, OR FEDERAL ENTITY responsible
+24 for the cost of the closed facility shall pay the expenses incurred in transferring and
+25 maintaining incarcerated individuals OR CIVIL DETAINEES under paragraph (1) of this
+26 subsection.
+27 8–116.
+28 (a) (1) The Commission shall establish advisory boards to assist the
+29 Commission in carrying out its powers and duties under this subtitle.
+30 (2) The Commission may establish advisory boards on [adult]:
+31 (i) ADULT detention centers and lockups;
+HOUSE BILL 1018 15
+1 (ii) ADULT community correctional facilities; [and]
+2 (iii) ADULT correctional facilities other than those listed in items (i)
+3 and (ii) of this paragraph; AND
+4 (IV) IMMIGRATION DETENTION FACILITIES.
+5 (b) The chairperson of the Commission shall appoint the members of an advisory
+6 board with the approval of the Commission.
+7 (c) The chairperson of an advisory board shall be a Commission member.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Commission on
+9 Correctional Standards and the Secretary of Public Safety and Correctional Services shall
+10 adopt emergency regulations required under Title 8, Subtitle 1 of the Correctional Services
+11 Article, as enacted by Section 1 of this Act, on or before June 1, 2026.
+12 SECTION 3. AND BE IT FURTHER ENACTED, That this Act is an emergency
+13 measure, is necessary for the immediate preservation of the public health or safety, has
+14 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+15 each of the two Houses of the General Assembly, and shall take effect from the date it is
+16 enacted.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA    E 6   C D S D S C F L R A C F F a c a c d o a p o t a o t M C o C S r t c f a i d f i r r r a r r v o m m s s a a e p a i f r c h c p b t t C o t O o t I G r a r o c c a a e p t i d f e t o m o o a c f o a i d f f c v a r t C t c l b o f e t p t e i b t c i f a c f a t C t e a]
+[DELETED:  H  a o B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 1  ( I  ( “ f m a f t i o f t p o d  ( “ d f m a b f o s u i w o i p t h o d i f f c i v  ( “ i m a i w i a o c  ( “   ( b   ( b]
+[DELETED: H 3  ( ( “ c f m a c f t i o   ( “    ( t    ( t    ( t b C 8  ( I  ( “ s  )“BRM  O C D T C T SYY O I O P I I ) “CI DE M A I W I A O D O C I A I D[]() ()“ m t M C o C S() “LI H C PR M A ID CD O O A T P A H E C ROA.  ()“]() 8 ) “PEN 81CLA.  R A R 8  Tf ]
+[DELETED:  H    egs frclf    IS [];   a   e s 8  ( ( W t a o t C t S s a ro     s a idi c) C O  i;  () [I O I sy, i iSI;   () [I F I f ss, i i  ()[V F I  h a sn, i A C DS I M O  () [  A H i rs,c h    v n, r) ICN  ADA      a r k)I F I .   ( T t T .  ( ( W t a o t C t S s a r t e a s a t p t a m p a c r a e p v r a o p c w p e a v r]
+[DELETED: H 5   ( T a s a u p ( o t s    ( s    ( m f  ( T S 8  T u 84 ]8 8  T 8  ( T § C   T(  E  ()A D A O C I AS     ()IR T A C I I ). (  I I O A I I O A  ( T clfO  ]
+[DELETED:  H () ( N P M R A V O T M S B A C F O A I O. ( T OG T   N). ( () TH E ONS’.  () T(IH L U I O ( TC O E O A P I I O A ( N  OYC:  ()I T C F O T D F I A W   O T8  ()IS A C P T T C O T I D F I A W 4;  () IDETHE C F O T I D F I   E 85;  () OVR F N;N   ()T A O A N T P T() ( H S A T A I W P T A C F O A I DLS:]
+[DELETED: H 7  () ;AR   () T1,IA I  UBOPA; U C R R  ()IA E M T L U1,S5EA;  U   D RE   () .VA (  O:  ()A V O T M M S T I H R T B H B C B AY   ()IA K B O T S O A S O A (  T R B F A L H C OR A C S GD A E MN  A I H F T S A R I V O  O T SN T L B S T)()  G H N() ( S()U B N 1,2,J1    U  R  T O:  ()H A A R U T C TS R,R ;]
+[DELETED:  H   () ,IH F HG VN A AG R R,  ()IM A E P S T E S O O T F I T E O A D IR   ()VM A E O P T T U DS A B O T S O A SMS ;  ()H C P W L F M E ES TMS,S  ()IO W T O SS   ()IO ( () AS() U II H  IV (  ).  () I F M R S S A  () I F M P A R C O T  () VH (  T B F T C A P R T O.() F A C F O A I D]
+[DELETED: H 9Y T F30.  () F A C F O A I D A N  OL),C: (  T T F I LET OHE C F O T I D F I   E 85; ( 8  ( ( T    ( al      m  T TE a     a s f S a l c f    ( c a c w n b p cl s C F A I   a    ( c a c w o u o t S a l j cl  .   ( T C m p t a t t e a c  ( T  ( T p]
+[DELETED:  H  8  ( T   ( e a i a p t i S a l c f I D F L I T t   ( d d f r a a r w i  ( T ) TH O M C A I I C A A U O T O L GT S A TFMMDH. I A A E E() ( H O T OR OR MR O E O A,T T  A I F B C I A W T ( I( A I V P  O TN T O S O T I C O O T A C F O IY 8  ( ( I t C d t a c f A D F i i v o t m m s cl    ( T    ( w cl  h    ( t t t b d b t C t t cl ]
+[DELETED: H 1    ( t cl f t d i t cl f h c w t m m   ( T C s s a c o t c p t t e cl   ( ( I a s a c p a r a c f u t cl  m cl f   ( T    ( w m s t cl f h v    ( t 60d cl     ( t cl f t d i t cl f h c w t m m   ( T e cl   ( ( I f u a cl  i    ( c a f s a p a o t cl     ( p cl  a a s a r o e i t t e a l b r cl    ( W c a f s a p a o a cl     ( t cl ]
+[DELETED:  H     ( tS    cl y;]    ( w cl  p    ( w t cl f i f t r p   ( W c a f s a p a t C s h u a t t p a r o t cl    ( ( I o s    ( I cl f   ( ( A c a f s a p a t C cl     ( T     1 a w cl      2 a s o w a t cl f m     3 a cl  t     4 a s t t C w c a u cl  a cl  t cl     ( T a cl    ( W C s c a u i t v t t cl f]
+[DELETED: H 1  ( ( I a p a a a u i u s t cl  sl :A T E    ( p o cl     ( i cl  a cl    ( T C s p t a cl f r n   ( T a d cl  cl () T,HS S OS I W O I PT A C F O A() INE T EG: (  C 8(); (   E82; ( C§ A O I I V O ()); E  ( T C W T A F O T§8().  C () I,N A A B U T SN T T:]
+[DELETED:  H  ( ; ( $ C P O U T  F E V E U TFS; ( ’;YSS  ( .() A B   ))( 8  ( I t C o a a i f a c i a c   o h e t C o i m  o t i c  ( W t  ( ( I) i p   ) IF A I D F I ON YS  T A A I A S P O DN A T.   ( T gyr,E    f t c o t c f s p t e i i t a m   s 8  ( ( T C s e a b t a t C   ( T at:    ( d]
+[DELETED: H 1    ( c a]    ( c a  ()VI .  ( T b  ( T  S C a A  S m b e e          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1018
+E5 EMERGENCY BILL 6lr1752
+CF SB 985
+By: Delegate Stewart Delegates Stewart, Crutchfield, Fair, Lehman, Ruth,
+Schindler, Solomon, Terrasa, and Wu
+Introduced and read first time: February 6, 2026
+Assigned to: Government, Labor, and Elections
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 19, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Correctional Services – Correctional Facilities and Immigration Detention
+3 Facilities – Minimum Mandatory Standards
+4 FOR the purpose of requiring the Secretary of Public Safety and Correctional Services to
+5 adopt regulations establishing certain minimum mandatory standards governing the
+6 care, custody, and conditions of civil detainees in immigration detention facilities;
+7 altering certain duties of and prohibitions on the actions of the Maryland
+8 Commission on Correctional Standards relating to correctional facilities and
+9 immigration detention facilities, including reporting requirements, receiving and
+10 reviewing reported violations of minimum mandatory standards, submitting an
+11 annual certification to the Commission related to utilities, occupancy standards, and
+12 emergency preparedness, and inspecting facilities; requiring certain health care
+13 practitioners and security guards persons to report certain violations and security
+14 breaches to the Commission or the Office of the Inspector General; requiring a
+15 regulating body to take appropriate disciplinary action if a health care practitioner
+16 or a security guard fails certain persons fail to report a certain violation; applying
+17 certain compliance, audit, and enforcement provisions to immigration detention
+18 facilities; authorizing the Attorney General to bring a certain action against a private
+19 entity that owns, manages, or operates a correctional facility or an immigration
+20 detention facility for certain violations; authorizing requiring the Commission to
+21 cease operation of a correctional facility or an immigration detention facility that is
+22 life–threatening or health–endangering; requiring a certain State, local governing
+23 body, or federal entity to pay the expense incurred by transferring certain
+24 individuals from a closed facility; authorizing the Commission to establish an
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1018*
+
+2 HOUSE BILL 1018
+1 advisory board on immigration detention facilities; and generally relating to State
+2 oversight of correctional facilities and immigration detention facilities.
+3 BY repealing and reenacting, without amendments,
+4 Article – Correctional Services
+5 Section 1–101(a), (d), (j) through (l), and (q) and 8–106
+6 Annotated Code of Maryland
+7 (2025 Replacement Volume)
+8 BY repealing and reenacting, with amendments,
+9 Article – Correctional Services
+10 Section 8–101 through 8–103, 8–105, 8–110, and 8–112 through 8–116
+11 Annotated Code of Maryland
+12 (2025 Replacement Volume)
+13 BY adding to
+14 Article – Correctional Services
+15 Section 8–111.1, 8–111.2, and 8–114.1
+16 Annotated Code of Maryland
+17 (2025 Replacement Volume)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Correctional Services
+21 1–101.
+22 (a) In this article the following words have the meanings indicated.
+23 (d) “Correctional facility” means a facility that is operated for the purpose of
+24 detaining or confining adults who are charged with or found guilty of a crime.
+25 (j) “Immigration detention facility” means any building, facility, or structure
+26 used, in whole or in part, to house or detain individuals for federal civil immigration
+27 violations.
+28 (k) “Incarcerated individual” means an individual who is actually or
+29 constructively detained or confined in a correctional facility.
+30 (l) “Local correctional facility” means a correctional facility that is operated:
+31 (1) by one or more counties; or
+32 (2) by a municipal corporation.
+
+HOUSE BILL 1018 3
+1 (q) (1) “State correctional facility” means a correctional facility that is
+2 operated by the State.
+3 (2) “State correctional facility” includes:
+4 (i) the Patuxent Institution;
+5 (ii) the Baltimore City Detention Center; and
+6 (iii) the centralized booking facility in Baltimore City that is operated
+7 by the Division of Pretrial Detention and Services in the Department of Public Safety and
+8 Correctional Services.
+9 8–101.
+10 (a) In this subtitle the following words have the meanings indicated.
+11 (b) “Approved standards” means the standards described in § 8–103(b) of this
+12 subtitle.
+13 (C) “BREACH OF THE SECURITY OF A SYSTEM” MEANS THE UNAUTHORIZED
+14 ACQUISITION OF COMPUTERIZED DATA THAT COMPROMISES THE SECURITY,
+15 CONFIDENTIALITY, OR INTEGRITY OF PERSONAL IDENTIFYING INFORMATION
+16 MAINTAINED IN THE SYSTEM.
+17 (D) “CIVIL DETAINEE” MEANS AN INDIVIDUAL WHO IS ACTUALLY OR
+18 CONSTRUCTIVELY DETAINED OR CONFINED IN AN IMMIGRATION DETENTION
+19 FACILITY.
+20 [(c)] (E) “Commission” means the Maryland Commission on Correctional
+21 Standards.
+22 (F) “LICENSED HEALTH CARE PRACTITIONER” MEANS AN INDIVIDUAL
+23 LICENSED, CERTIFIED, OR OTHERWISE AUTHORIZED TO PRACTICE A HEALTH
+24 OCCUPATION UNDER THE HEALTH OCCUPATIONS ARTICLE.
+25 [(d)] (G) “Minimum mandatory standards” means the standards described in §
+26 8–103(a) of this subtitle.
+27 (H) “PERSONAL IDENTIFYING INFORMATION” HAS THE MEANING STATED IN
+28 § 8–301 OF THE CRIMINAL LAW ARTICLE.
+29 8–102.
+30 The General Assembly finds that there is a need to improve the method of:
+
+4 HOUSE BILL 1018
+1 (1) establishing standards for correctional facilities, IMMIGRATION
+2 DETENTION FACILITIES, and programs [and of]; AND
+3 (2) ensuring compliance with these standards to better protect the health,
+4 safety, and welfare of the public by reducing incidents of crime.
+5 8–103.
+6 (a) (1) With the advice of the Commission, the Secretary shall adopt
+7 regulations that establish minimum mandatory standards applicable to:
+8 (I) security and CONTROL OF incarcerated [individual control,
+9 incarcerated individual] INDIVIDUALS AND CIVIL DETAINEES;
+10 (II) safety[, incarcerated individual] OF INCARCERATED
+11 INDIVIDUALS AND CIVIL DETAINEES, INCLUDING LIFE AND FIRE SAFETY;
+12 (III) food services[, incarcerated individual] FOR INCARCERATED
+13 INDIVIDUALS AND CIVIL DETAINEES;
+14 (IV) housing and sanitation[, incarcerated] FOR INCARCERATED
+15 INDIVIDUALS AND CIVIL DETAINEES, INCLUDING MAXIMUM OCCUPANCY
+16 RESTRICTIONS;
+17 (V) individual rights[, classification, hearings,] AND HEARINGS
+18 FOR INCARCERATED INDIVIDUALS AND CIVIL DETAINEES;
+19 (VI) CLASSIFICATION, victim notification, AND restitution, AS
+20 APPLICABLE TO INCARCERATED INDIVIDUALS AND CIVIL DETAINEES; and
+21 (VII) administrative record keeping FOR INCARCERATED
+22 INDIVIDUALS AND CIVIL DETAINEES.
+23 (2) The minimum mandatory standards adopted under paragraph (1) of
+24 this subsection shall apply to all State and local correctional facilities AND IMMIGRATION
+25 DETENTION FACILITIES LOCATED IN THE STATE.
+26 (b) (1) With the advice of the Commission, the Secretary shall adopt
+27 regulations that establish approved standards applicable to personnel, training,
+28 administration, management, planning and coordination, research and evaluation,
+29 physical plant, special management incarcerated individuals, rules and discipline, mail and
+30 visiting, reception and orientation, property control, work programs, educational and
+31 vocational training, library services, religious services, recreational activities, counseling,
+32 release preparation, and volunteers.
+
+HOUSE BILL 1018 5
+1 (2) The approved standards adopted under paragraph (1) of this
+2 subsection:
+3 (i) shall apply to all State correctional facilities; and
+4 (ii) may be adopted, as a whole or in part, by a local correctional
+5 facility.
+6 (c) The standards adopted under this section shall be consistent with federal and
+7 State law.
+8 8–105.
+9 The standards adopted under § 8–103 of this subtitle shall be enforced as provided
+10 under §§ 8–112 through [8–114] 8–114.1 of this subtitle.
+11 8–106.
+12 There is a Maryland Commission on Correctional Standards in the Department.
+13 8–110.
+14 (a) (1) The Commission shall report annually to the Governor and, subject to
+15 § 2–1257 of the State Government Article, to the General Assembly on the activities of the
+16 Commission.
+17 (2) THE ANNUAL REPORT REQUIRED UNDER PARAGRAPH (1) OF THIS
+18 SUBSECTION SHALL INCLUDE:
+19 (I) A DETAILED ANALYSIS OF COMPLIANCE ISSUES AT
+20 CORRECTIONAL FACILITIES AND IMMIGRATION DETENTION FACILITIES; AND
+21 (II) RECOMMENDATIONS TO ADDRESS COMPLIANCE ISSUES
+22 IDENTIFIED UNDER ITEM (I) OF THIS PARAGRAPH.
+23 (3) THE REPORT PROVIDED UNDER THIS SECTION MAY NOT DISCLOSE
+24 PERSONAL IDENTIFYING INFORMATION OF AN INCARCERATED INDIVIDUAL OR A
+25 CIVIL DETAINEE.
+26 (b) The Commission shall provide the Secretary and the governing body of each
+27 county and municipal corporation that has a correctional facility OR AN IMMIGRATION
+28 DETENTION FACILITY with a copy of its annual report.
+29 8–111.1.
+
+6 HOUSE BILL 1018
+1 (A) (1) ANY PERSON MAY REPORT A VIOLATION OF THE MINIMUM
+2 MANDATORY STANDARDS BY A CORRECTIONAL FACILITY OR AN IMMIGRATION
+3 DETENTION FACILITY TO THE COMMISSION.
+4 (2) THE COMMISSION SHALL ESTABLISH A STANDARDIZED PROCESS
+5 FOR THE REPORTING, RECEIPT, AND TIMELY REVIEW OF REPORTED VIOLATIONS
+6 UNDER PARAGRAPH (1) OF THIS SUBSECTION.
+7 (3) (I) THE DEPARTMENT SHALL PROVIDE AND MAINTAIN A LINK
+8 ON THE COMMISSION’S WEBSITE FOR THE PUBLIC TO REPORT A VIOLATION.
+9 (II) THE LINK PROVIDED UNDER SUBPARAGRAPH (I) OF THIS
+10 PARAGRAPH SHALL ALLOW A VIOLATION TO BE REPORTED ANONYMOUSLY.
+11 (4) THE COMMISSION AND THE DEPARTMENT SHALL MAINTAIN THE
+12 CONFIDENTIALITY OF ANY PERSONAL IDENTIFYING INFORMATION OF AN
+13 INCARCERATED INDIVIDUAL OR A CIVIL DETAINEE THAT IS PROVIDED IN A REPORT.
+14 (5) AFTER COMPLETING REVIEW OF A VIOLATION REPORTED UNDER
+15 THIS SUBSECTION, THE COMMISSION MAY:
+16 (I) INSPECT THE CORRECTIONAL FACILITY OR THE
+17 IMMIGRATION DETENTION FACILITY IN ACCORDANCE WITH § 8–113 OF THIS
+18 SUBTITLE;
+19 (II) SEND A COMPLIANCE PLAN TO THE CORRECTIONAL
+20 FACILITY OR THE IMMIGRATION DETENTION FACILITY IN ACCORDANCE WITH §
+21 8–114 OF THIS SUBTITLE;
+22 (III) DETERMINE THAT THE FACILITY IS LIFE–THREATENING OR
+23 HEALTH–ENDANGERING AND ORDER THE IMMEDIATE CESSATION OF OPERATION OF
+24 THE CORRECTIONAL FACILITY OR THE IMMIGRATION DETENTION FACILITY IN
+25 ACCORDANCE WITH § 8–115 OF THIS SUBTITLE; OR
+26 (IV) REFER THE VIOLATION TO THE OFFICE OF THE INSPECTOR
+27 GENERAL FOR FURTHER INVESTIGATION; OR
+28 (V) TAKE ANY OTHER ACTION NECESSARY TO PROTECT THE
+29 HEALTH AND SAFETY OF INCARCERATED INDIVIDUALS OR CIVIL DETAINEES.
+30 (B) (1) THIS SUBSECTION APPLIES TO AN INDIVIDUAL WHO PROVIDES
+31 SERVICES TO A CORRECTIONAL FACILITY OR AN IMMIGRATION DETENTION
+32 FACILITY IN THE INDIVIDUAL’S CAPACITY AS:
+
+HOUSE BILL 1018 7
+1 (I) A LICENSED HEALTH CARE PRACTITIONER; OR
+2 (II) A SECURITY GUARD CERTIFIED UNDER TITLE 19, SUBTITLE
+3 4 OF THE BUSINESS OCCUPATIONS AND PROFESSIONS ARTICLE;
+4 (III) AN EMERGENCY MEDICAL TECHNICIAN LICENSED UNDER
+5 TITLE 13, SUBTITLE 5 OF THE EDUCATION ARTICLE; OR
+6 (IV) A PRIVATE CUSTODIAL TRANSPORTATION SERVICE.
+7 (2) AN INDIVIDUAL SUBJECT TO THIS SUBSECTION SHALL REPORT TO
+8 THE COMMISSION:
+9 (I) A VIOLATION OF THE MINIMUM MANDATORY STANDARDS
+10 THAT THE INDIVIDUAL HAS REASON TO BELIEVE HAS BEEN COMMITTED BY A
+11 CORRECTIONAL FACILITY OR AN IMMIGRATION DETENTION FACILITY; AND
+12 (II) A KNOWN BREACH OF THE SECURITY OF A SYSTEM OF A
+13 CORRECTIONAL FACILITY OR AN IMMIGRATION DETENTION FACILITY.
+14 (3) IF THE REGULATING BODY FOR A LICENSED HEALTH CARE
+15 PRACTITIONER OR, A CERTIFIED SECURITY GUARD, AN EMERGENCY MEDICAL
+16 TECHNICIAN, OR A PRIVATE CUSTODIAL TRANSPORTATION SERVICE DETERMINES
+17 THAT AN INDIVIDUAL HAS FAILED TO SUBMIT A REPORT IN VIOLATION OF
+18 PARAGRAPH (2) OF THIS SUBSECTION, THE LICENSING BODY SHALL TAKE
+19 APPROPRIATE DISCIPLINARY ACTION.
+20 (C) A CORRECTIONAL FACILITY OR AN IMMIGRATION DETENTION FACILITY
+21 MAY NOT RETALIATE AGAINST AN EMPLOYEE FOR SUBMITTING, IN GOOD FAITH, A
+22 REPORT OF A VIOLATION UNDER THIS SECTION.
+23 8–111.2.
+24 (A) (1) SUBJECT TO SUBSECTION (B) OF THIS SECTION, ON OR BEFORE
+25 JULY 1, 2026, AND EACH JULY 1 THEREAFTER, EACH CORRECTIONAL FACILITY AND
+26 IMMIGRATION DETENTION FACILITY IN THE STATE SHALL SUBMIT A CERTIFICATION
+27 TO THE COMMISSION THAT THE FACILITY:
+28 (I) HAS ADEQUATE AND RELIABLE UTILITIES THAT COMPLY
+29 WITH STATE AND LOCAL LAWS AND REGULATIONS, INCLUDING POTABLE WATER,
+30 SEWER, AND ELECTRICITY;
+
+8 HOUSE BILL 1018
+1 (II) HAS FUNCTIONAL HEATING, VENTILATION, AND AIR
+2 CONDITIONING; MAINTAINS UTILITY COORDINATION FOR POTABLE WATER, SEWER,
+3 AND ELECTRICITY SERVICES;
+4 (III) MAINTAINS AN EMERGENCY POWER SYSTEM TO ENSURE
+5 THE SAFE OPERATION OF THE FACILITY IN THE EVENT OF A DISRUPTION IN
+6 ELECTRICAL POWER; AND
+7 (IV) MAINTAINS AN EMERGENCY OPERATIONS PLAN TO
+8 RESPOND TO UTILITY DISRUPTIONS, A BREACH OF THE SECURITY OF A SYSTEM,
+9 FIRES, AND MEDICAL EMERGENCIES;
+10 (V) HAS COORDINATION PROTOCOLS WITH LOCAL FIRE
+11 DEPARTMENTS AND EMERGENCY MEDICAL SERVICES, EMERGENCY MANAGEMENT,
+12 AND LOCAL HOSPITALS;
+13 (VI) OPERATES WITHIN THE OCCUPANCY STANDARD
+14 ESTABLISHED UNDER THE MINIMUM MANDATORY STANDARDS; AND
+15 (VII) OPERATES WITHIN THE CAPACITY OF AVAILABLE UTILITIES
+16 AND EMERGENCY SYSTEMS.
+17 (2) (I) A SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, A
+18 FACILITY SHALL SUBMIT A AN UNREDACTED COPY OF THE EMERGENCY OPERATIONS
+19 PLAN UNDER PARAGRAPH (1)(IV) OF THIS SUBSECTION WITH THE CERTIFICATION
+20 UNDER PARAGRAPH (1) OF THIS SUBSECTION.
+21 (II) A FACILITY MAY REDACT SENSITIVE SECURITY AND
+22 INTELLIGENCE INFORMATION TO MAINTAIN INTERNAL SECURITY PROCEDURES AND
+23 INVESTIGATIONS.
+24 (III) A FACILITY MAY PROVIDE A REDACTED COPY OF THE
+25 EMERGENCY OPERATION PLAN TO THE PUBLIC.
+26 (IV) THE EMERGENCY OPERATIONS PLAN SHALL BE REVIEWED
+27 AND UPDATED BY THE FACILITY AT LEAST ANNUALLY.
+28 (3) THE FACILITY SHALL INCLUDE SUFFICIENT DOCUMENTATION TO
+29 SUPPORT THE BASIS FOR THE CERTIFICATION AND PROMPTLY RESPOND TO
+30 REQUESTS FOR ADDITIONAL INFORMATION FROM THE COMMISSION.
+31 (B) IF A CORRECTIONAL FACILITY OR AN IMMIGRATION DETENTION
+32 FACILITY HAS A MATERIAL CHANGE IN OPERATIONS OR A MATERIAL INCREASE IN
+
+HOUSE BILL 1018 9
+1 OCCUPANCY, THE FACILITY SHALL SUBMIT AN UPDATED CERTIFICATION TO THE
+2 COMMISSION WITHIN 30 DAYS OF THE CHANGE.
+3 (C) IF A CORRECTIONAL FACILITY OR AN IMMIGRATION DETENTION
+4 FACILITY FAILS TO SUBMIT THE CERTIFICATION OR SUPPORTING DOCUMENTATION
+5 REQUIRED UNDER SUBSECTION (A) OF THIS SECTION, THE COMMISSION SHALL:
+6 (1) DETERMINE THAT THE FACILITY IS LIFE–THREATENING OR
+7 HEALTH–ENDANGERING AND ORDER THE IMMEDIATE CESSATION OF OPERATION OF
+8 THE CORRECTIONAL FACILITY OR THE IMMIGRATION DETENTION FACILITY IN
+9 ACCORDANCE WITH § 8–115 OF THIS SUBTITLE; OR
+10 (2) TAKE ANY OTHER ACTION NECESSARY TO PROTECT THE HEALTH
+11 AND SAFETY OF INCARCERATED INDIVIDUALS OR CIVIL DETAINEES.
+12 8–112.
+13 (a) (1) The Commission shall:
+14 (i) advise the Secretary regarding all:
+15 1. minimum mandatory standards FOR STATE AND LOCAL
+16 CORRECTIONAL FACILITIES AND IMMIGRATION DETENTION FACILITIES LOCATED IN
+17 THE STATE; and
+18 2. approved standards for State and local correctional
+19 facilities;
+20 (ii) consult and coordinate with national bodies promulgating
+21 [correctional] standards FOR CORRECTIONAL FACILITIES AND IMMIGRATION
+22 DETENTION FACILITIES to provide reasonable compatibility between the State standards
+23 and nationally established standards; and
+24 (iii) consult and cooperate with other units of the State and local
+25 jurisdictions concerning [correctional] standards FOR CORRECTIONAL FACILITIES AND
+26 IMMIGRATION DETENTION FACILITIES.
+27 (2) The Commission may provide technical assistance to the extent
+28 authorized in the State budget to aid the State and local jurisdictions in their efforts to
+29 comply with minimum mandatory standards and approved standards.
+30 (b) The Commission shall adopt regulations to carry out this subtitle.
+31 (c) The Commission shall employ a staff necessary to carry out this subtitle as
+32 provided in the State budget.
+
+10 HOUSE BILL 1018
+1 8–113.
+2 (a) The Commission shall:
+3 (1) establish and implement a process to inspect State and local
+4 correctional facilities AND IMMIGRATION DETENTION FACILITIES LOCATED IN THE
+5 STATE to determine and certify compliance with applicable standards; and
+6 (2) determine deadlines for remedial action and reinspection whenever
+7 inspection reports indicate noncompliance with applicable standards.
+8 (b) The Commission may review and act on appeals from staff inspection reports.
+9 (C) THE COMMISSION MAY CONDUCT AN INSPECTION IN CONJUNCTION
+10 WITH AN APPROPRIATE UNIT OF STATE OR LOCAL GOVERNMENT, SUCH AS THE
+11 STATE FIRE MARSHAL OR THE MARYLAND DEPARTMENT OF HEALTH.
+12 (D) (1) THE MANAGING OFFICIAL OR EMPLOYEES OF A CORRECTIONAL
+13 FACILITY OR THE OWNER, OPERATOR, MANAGER, OR EMPLOYEES OF AN
+14 IMMIGRATION DETENTION FACILITY MAY NOT RESTRICT, PREVENT, OR OTHERWISE
+15 IMPEDE AN INSPECTION FROM BEING CONDUCTED IN ACCORDANCE WITH THIS
+16 SUBTITLE.
+17 (2) IF ANY INDIVIDUAL VIOLATES PARAGRAPH (1) OF THIS
+18 SUBSECTION, THE COMMISSION SHALL ORDER THE IMMEDIATE CESSATION OF
+19 OPERATION OF THE APPLICABLE CORRECTIONAL FACILITY OR IMMIGRATION
+20 DETENTION FACILITY.
+21 8–114.
+22 (a) (1) If the Commission determines that a correctional facility OR AN
+23 IMMIGRATION DETENTION FACILITY is in violation of the minimum mandatory
+24 standards, the Commission shall send a compliance plan to the [correctional] facility.
+25 (2) The compliance plan shall state:
+26 (i) which minimum mandatory standards the [correctional] facility
+27 has violated;
+28 (ii) the time, to be determined by the Commission, that the
+29 [correctional] facility has to address the violations; and
+
+HOUSE BILL 1018 11
+1 (iii) the date that the Commission shall reinspect the [correctional]
+2 facility to determine if the [correctional] facility has complied with the minimum
+3 mandatory standards.
+4 (3) The Commission shall send a copy of the compliance plan to the
+5 executive and legislative body responsible for the [correctional] facility.
+6 (b) (1) If, after sending a compliance plan and reinspecting a correctional
+7 facility OR AN IMMIGRATION DETENTION FACILITY under subsection (a) of this section,
+8 the Commission determines that the [correctional] facility is in violation of the minimum
+9 mandatory standards, the Commission shall send a letter of reprimand to the [correctional]
+10 facility.
+11 (2) The letter of reprimand shall state:
+12 (i) which minimum standards the [correctional] facility has
+13 violated;
+14 (ii) the time, to be determined by the Commission but not to exceed
+15 60 days, that the [correctional] facility has to address the violations; and
+16 (iii) the date that the Commission will reinspect the [correctional]
+17 facility to determine if the [correctional] facility has complied with the minimum
+18 mandatory standards.
+19 (3) The Commission shall send a copy of the letter of reprimand to the
+20 executive and legislative body responsible for the [correctional] facility.
+21 (c) (1) If, after the Commission has sent a letter of reprimand to a correctional
+22 facility OR AN IMMIGRATION DETENTION FACILITY under subsection (b) of this section
+23 and reinspected the facility, the Commission determines that the [correctional] facility is
+24 in violation of the minimum mandatory standards, the Commission shall:
+25 (i) conduct a full standards and performance audit of the
+26 [correctional] facility; or
+27 (ii) periodically inspect the [correctional] facility until compliance is
+28 attained and send a report of each inspection to the executive and legislative bodies
+29 responsible for the [correctional] facility.
+30 (2) When conducting a full standards and performance audit of a
+31 [correctional] facility, the Commission shall examine:
+32 (i) the physical condition of the [correctional] facility;
+
+12 HOUSE BILL 1018
+1 (ii) the safety and treatment of incarcerated individuals OR CIVIL
+2 DETAINEES at the [correctional] facility, AS APPLICABLE;
+3 (iii) whether the [correctional] facility has policies and procedures in
+4 place as required by the minimum mandatory standards; and
+5 (iv) whether the [correctional] facility is following the required
+6 policies and procedures.
+7 (3) When conducting a full standards and performance audit, the
+8 Commission shall have unrestricted access to the personnel and records of the
+9 [correctional] facility.
+10 (4) (i) If the Commission lacks the expertise necessary to perform a part
+11 of the full standards and performance audit, the Commission may obtain assistance from
+12 sources with expertise in the specific standard.
+13 (ii) If the Commission needs to obtain assistance, the [correctional]
+14 facility that is being audited shall reimburse the Commission for any cost incurred.
+15 (5) (i) After completing a full standards and performance audit, the
+16 Commission shall send a letter to the [correctional] facility.
+17 (ii) The letter shall contain:
+18 1. a copy of the audit findings, including details on all areas
+19 where the [correctional] facility fails to comply with the minimum mandatory standards;
+20 2. a statement of what actions the [correctional] facility
+21 must take in order to comply with the audit findings;
+22 3. a date when the [correctional] facility must comply with
+23 the audit findings; and
+24 4. a statement that the Commission will conduct an
+25 unannounced inspection of the [correctional] facility within a reasonable amount of time
+26 after the date specified for compliance and that if the [correctional] facility fails to comply,
+27 the Commission may seek a court order requiring compliance or order all or part of the
+28 [correctional] facility to cease operations.
+29 (iii) The Commission shall send a copy of the letter to the executive
+30 and legislative bodies responsible for the [correctional] facility.
+31 (6) Within a reasonable time after the date specified for compliance, the
+32 Commission shall conduct an unannounced inspection to verify that the [correctional]
+33 facility has complied with the audit findings.
+
+HOUSE BILL 1018 13
+1 (d) (1) If, after performing an audit and unannounced inspection under
+2 subsection (c) of this section and holding a hearing on the issue, the Commission determines
+3 that a [correctional] facility has not complied with the audit findings, the Commission
+4 shall, IN CONJUNCTION WITH THE ATTORNEY GENERAL:
+5 (i) petition a circuit court with venue over the proceeding for a court
+6 order requiring the [correctional] facility to comply with the audit findings; or
+7 (ii) issue an order to cease operation of the [correctional] facility or
+8 any of its [correctional] elements, procedures, or functions.
+9 (2) The Commission shall provide to a [correctional] facility reasonable
+10 notice of a hearing under paragraph (1) of this subsection.
+11 (3) The Commission may subpoena witnesses and hold public hearings in
+12 accordance with Title 10, Subtitle 2 of the State Government Article before making a final
+13 decision on whether to seek a court order or close a [correctional] facility or any of its
+14 [correctional] elements, procedures, or functions.
+15 8–114.1.
+16 (A) THIS SECTION APPLIES TO A PRIVATE ENTITY THAT OWNS, MANAGES,
+17 OR OPERATES, IN WHOLE OR IN PART, A CORRECTIONAL FACILITY OR AN
+18 IMMIGRATION DETENTION FACILITY.
+19 (B) IN ADDITION TO ANY OTHER ACTION AUTHORIZED BY THIS SUBTITLE,
+20 THE ATTORNEY GENERAL MAY BRING AN ACTION AGAINST A PRIVATE ENTITY FOR:
+21 (1) RETALIATING AGAINST AN EMPLOYEE FOR SUBMITTING A REPORT
+22 OF A VIOLATION IN VIOLATION OF § 8–111.1(C) OF THIS SUBTITLE;
+23 (2) FAILING TO COMPLY WITH THE CERTIFICATION REQUIREMENTS
+24 UNDER § 8–111.2 OF THIS SUBTITLE;
+25 (3) IMPEDING A COMMISSION INSPECTION IN VIOLATION OF §
+26 8–113(D)(1) OF THIS SUBTITLE; OR
+27 (4) FAILING TO COMPLY WITH THE AUDIT FINDINGS OF THE
+28 COMMISSION UNDER § 8–114(C) OF THIS SUBTITLE.
+29 (C) IN AN ACTION BROUGHT UNDER THIS SECTION, THE ATTORNEY
+30 GENERAL MAY SEEK:
+
+14 HOUSE BILL 1018
+1 (1) INJUNCTIVE RELIEF;
+2 (2) A CIVIL PENALTY OF UP TO $10,000 FOR EACH VIOLATION
+3 PAYABLE INTO THE GENERAL FUND OF THE STATE;
+4 (3) REASONABLE ATTORNEY’S FEES AND COSTS; AND
+5 (4) ANY OTHER APPROPRIATE RELIEF.
+6 (D) EACH DAY THAT A PRIVATE ENTITY FAILS TO CORRECT A VIOLATION
+7 UNDER SUBSECTION (B)(2) THROUGH (4) OF THIS SECTION SHALL CONSTITUTE A
+8 SEPARATE VIOLATION.
+9 8–115.
+10 (a) If the Commission or an authorized inspector finds a condition in a
+11 correctional facility OR AN IMMIGRATION DETENTION FACILITY that is life threatening
+12 or health endangering, the Commission or inspector may SHALL order the immediate
+13 cessation of operation.
+14 (b) Within 96 hours after an order is issued under subsection (a) of this section,
+15 the Commission shall hold a review hearing to confirm or countermand the order.
+16 (c) (1) (I) If a correctional facility is ordered closed under this section, all
+17 incarcerated individuals in the facility shall be transferred to and accepted in a suitable
+18 place of detention, as the Secretary determines.
+19 (II) IF AN IMMIGRATION DETENTION FACILITY IS ORDERED
+20 CLOSED UNDER THIS SECTION, ALL CIVIL DETAINEES IN THE FACILITY SHALL BE
+21 TRANSFERRED TO AND ACCEPTED IN A SUITABLE PLACE OF DETENTION, AS
+22 DETERMINED BY THE APPROPRIATE STATE OR FEDERAL ENTITY.
+23 (2) The STATE, LOCAL governing body, OR FEDERAL ENTITY responsible
+24 for the cost of the closed facility shall pay the expenses incurred in transferring and
+25 maintaining incarcerated individuals OR CIVIL DETAINEES under paragraph (1) of this
+26 subsection.
+27 8–116.
+28 (a) (1) The Commission shall establish advisory boards to assist the
+29 Commission in carrying out its powers and duties under this subtitle.
+30 (2) The Commission may establish advisory boards on [adult]:
+31 (i) ADULT detention centers and lockups;
+
+HOUSE BILL 1018 15
+1 (ii) ADULT community correctional facilities; [and]
+2 (iii) ADULT correctional facilities other than those listed in items (i)
+3 and (ii) of this paragraph; AND
+4 (IV) IMMIGRATION DETENTION FACILITIES.
+5 (b) The chairperson of the Commission shall appoint the members of an advisory
+6 board with the approval of the Commission.
+7 (c) The chairperson of an advisory board shall be a Commission member.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Commission on
+9 Correctional Standards and the Secretary of Public Safety and Correctional Services shall
+10 adopt emergency regulations required under Title 8, Subtitle 1 of the Correctional Services
+11 Article, as enacted by Section 1 of this Act, on or before June 1, 2026.
+12 SECTION 3. AND BE IT FURTHER ENACTED, That this Act is an emergency
+13 measure, is necessary for the immediate preservation of the public health or safety, has
+14 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+15 each of the two Houses of the General Assembly, and shall take effect from the date it is
+16 enacted.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA    E 6   C D S D S C F L R A C F F a c a c d o a p o t a o t M C o C S r t c f a i d f i r r r a r r v o m m s s a a e p a i f r c h c p b t t C o t O o t I G r a r o c c a a e p t i d f e t o m o o a c f o a i d f f c v a r t C t c l b o f e t p t e i b t c i f a c f a t C t e a]
+[DELETED:  H  a o B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 1  ( I  ( “ f m a f t i o f t p o d  ( “ d f m a b f o s u i w o i p t h o d i f f c i v  ( “ i m a i w i a o c  ( “   ( b   ( b]
+[DELETED: H 3  ( ( “ c f m a c f t i o   ( “    ( t    ( t    ( t b C 8  ( I  ( “ s  )“BRM  O C D T C T SYY O I O P I I ) “CI DE M A I W I A O D O C I A I D[]() ()“ m t M C o C S() “LI H C PR M A ID CD O O A T P A H E C ROA.  ()“]() 8 ) “PEN 81CLA.  R A R 8  Tf ]
+[DELETED:  H    egs frclf    IS [];   a   e s 8  ( ( W t a o t C t S s a ro     s a idi c) C O  i;  () [I O I sy, i iSI;   () [I F I f ss, i i  ()[V F I  h a sn, i A C DS I M O  () [  A H i rs,c h    v n, r) ICN  ADA      a r k)I F I .   ( T t T .  ( ( W t a o t C t S s a r t e a s a t p t a m p a c r a e p v r a o p c w p e a v r]
+[DELETED: H 5   ( T a s a u p ( o t s    ( s    ( m f  ( T S 8  T u 84 ]8 8  T 8  ( T § C   T(  E  ()A D A O C I AS     ()IR T A C I I ). (  I I O A I I O A  ( T clfO  ]
+[DELETED:  H () ( N P M R A V O T M S B A C F O A I O. ( T OG T   N). ( () TH E ONS’.  () T(IH L U I O ( TC O E O A P I I O A ( N  OYC:  ()I T C F O T D F I A W   O T8  ()IS A C P T T C O T I D F I A W 4;  () IDETHE C F O T I D F I   E 85;  () OVR F N;N   ()T A O A N T P T() ( H S A T A I W P T A C F O A I DLS:]
+[DELETED: H 7  () ;AR   () T1,IA I  UBOPA; U C R R  ()IA E M T L U1,S5EA;  U   D RE   () .VA (  O:  ()A V O T M M S T I H R T B H B C B AY   ()IA K B O T S O A S O A (  T R B F A L H C OR A C S GD A E MN  A I H F T S A R I V O  O T SN T L B S T)()  G H N() ( S()U B N 1,2,J1    U  R  T O:  ()H A A R U T C TS R,R ;]
+[DELETED:  H   () ,IH F HG VN A AG R R,  ()IM A E P S T E S O O T F I T E O A D IR   ()VM A E O P T T U DS A B O T S O A SMS ;  ()H C P W L F M E ES TMS,S  ()IO W T O SS   ()IO ( () AS() U II H  IV (  ).  () I F M R S S A  () I F M P A R C O T  () VH (  T B F T C A P R T O.() F A C F O A I D]
+[DELETED: H 9Y T F30.  () F A C F O A I D A N  OL),C: (  T T F I LET OHE C F O T I D F I   E 85; ( 8  ( ( T    ( al      m  T TE a     a s f S a l c f    ( c a c w n b p cl s C F A I   a    ( c a c w o u o t S a l j cl  .   ( T C m p t a t t e a c  ( T  ( T p]
+[DELETED:  H  8  ( T   ( e a i a p t i S a l c f I D F L I T t   ( d d f r a a r w i  ( T ) TH O M C A I I C A A U O T O L GT S A TFMMDH. I A A E E() ( H O T OR OR MR O E O A,T T  A I F B C I A W T ( I( A I V P  O TN T O S O T I C O O T A C F O IY 8  ( ( I t C d t a c f A D F i i v o t m m s cl    ( T    ( w cl  h    ( t t t b d b t C t t cl ]
+[DELETED: H 1    ( t cl f t d i t cl f h c w t m m   ( T C s s a c o t c p t t e cl   ( ( I a s a c p a r a c f u t cl  m cl f   ( T    ( w m s t cl f h v    ( t 60d cl     ( t cl f t d i t cl f h c w t m m   ( T e cl   ( ( I f u a cl  i    ( c a f s a p a o t cl     ( p cl  a a s a r o e i t t e a l b r cl    ( W c a f s a p a o a cl     ( t cl ]
+[DELETED:  H     ( tS    cl y;]    ( w cl  p    ( w t cl f i f t r p   ( W c a f s a p a t C s h u a t t p a r o t cl    ( ( I o s    ( I cl f   ( ( A c a f s a p a t C cl     ( T     1 a w cl      2 a s o w a t cl f m     3 a cl  t     4 a s t t C w c a u cl  a cl  t cl     ( T a cl    ( W C s c a u i t v t t cl f]
+[DELETED: H 1  ( ( I a p a a a u i u s t cl  sl :A T E    ( p o cl     ( i cl  a cl    ( T C s p t a cl f r n   ( T a d cl  cl () T,HS S OS I W O I PT A C F O A() INE T EG: (  C 8(); (   E82; ( C§ A O I I V O ()); E  ( T C W T A F O T§8().  C () I,N A A B U T SN T T:]
+[DELETED:  H  ( ; ( $ C P O U T  F E V E U TFS; ( ’;YSS  ( .() A B   ))( 8  ( I t C o a a i f a c i a c   o h e t C o i m  o t i c  ( W t  ( ( I) i p   ) IF A I D F I ON YS  T A A I A S P O DN A T.   ( T gyr,E    f t c o t c f s p t e i i t a m   s 8  ( ( T C s e a b t a t C   ( T at:    ( d]
+[DELETED: H 1    ( c a]    ( c a  ()VI .  ( T b  ( T  S C a A  S m b e e          G               ]

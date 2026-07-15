@@ -1,0 +1,260 @@
+Title: HOUSE BILL 210
+Official Title: HOUSE BILL 210
+Number of Sections: 1
+Source: versions - Third - Motor Vehicles - Out-of-State Drivers - Automated Enforcement (Out-of-State Driver Accountability Act)
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+R7 6lr0642
+HB 915/25 – ENT (PRE–FILED) CF SB 965
+By: Delegate Foley Delegates Foley, Allen, Behler, Boyce, Guyton, Holmes, Lewis,
+and Odom
+Requested: July 23, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Environment and Transportation
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 22, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Motor Vehicles – Out–of–State Drivers – Automated Enforcement
+3 (Out–of–State Driver Accountability Act)
+4 FOR the purpose of requiring each county and municipal automated traffic enforcement
+5 program to submit to the Vision Zero coordinator a quarterly an annual report
+6 containing certain information regarding each citation issued under the program
+7 during the quarter to a motor vehicle registered in another state; and generally
+8 relating to automated enforcement of the Maryland Vehicle Law against
+9 out–of–state drivers.
+10 BY renumbering
+11 Article – Transportation
+12 Section 8–1006 and 8–1007
+13 to be Section 8–1007 and 8–1008, respectively
+14 Annotated Code of Maryland
+15 (2020 Replacement Volume and 2025 Supplement)
+16 BY repealing and reenacting, without amendments,
+17 Article – Transportation
+18 Section 8–1001 through 8–1003
+19 Annotated Code of Maryland
+20 (2020 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0210*
+2 HOUSE BILL 210
+1 BY adding to
+2 Article – Transportation
+3 Section 8–1006
+4 Annotated Code of Maryland
+5 (2020 Replacement Volume and 2025 Supplement)
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That Section(s) 8–1006 and 8–1007 of Article – Transportation of the Annotated Code of
+8 Maryland be renumbered to be Section(s) 8–1007 and 8–1008, respectively.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+10 as follows:
+11 Article – Transportation
+12 8–1001.
+13 (a) In this subtitle the following words have the meanings indicated.
+14 (b) “Coordinator” means the individual designated by the Department to oversee
+15 the implementation of Vision Zero throughout the State.
+16 (c) “Vision Zero” means a program for planning and developing a State roadway
+17 system that has zero vehicle–related deaths or serious injuries.
+18 8–1002.
+19 There is a program within the Department known as Vision Zero.
+20 8–1003.
+21 (a) The purpose of Vision Zero is to develop strategies to make roadways safer for
+22 drivers and passengers of motor vehicles, bicyclists, and pedestrians.
+23 (b) The goal of Vision Zero is to have zero vehicle–related deaths or serious
+24 injuries on roadways by the year 2030.
+25 8–1006.
+26 (A) THIS SECTION APPLIES TO COUNTY AND MUNICIPAL AUTOMATED
+27 TRAFFIC ENFORCEMENT PROGRAMS THAT IMPLEMENT:
+28 (1) TRAFFIC CONTROL SIGNAL MONITORING SYSTEMS UNDER §
+29 21–202.1 OF THIS ARTICLE;
+HOUSE BILL 210 3
+1 (2) AUTOMATED RAILROAD GRADE CROSSING ENFORCEMENT
+2 SYSTEMS UNDER § 21–704.1 OF THIS ARTICLE;
+3 (3) SCHOOL BUS MONITORING CAMERAS UNDER § 21–706.1 OF THIS
+4 ARTICLE;
+5 (4) STOP SIGN MONITORING SYSTEMS UNDER § 21–707.1 OF THIS
+6 ARTICLE;
+7 (5) SPEED MONITORING SYSTEMS UNDER § 21–809 OF THIS ARTICLE;
+8 (6) WORK ZONE SPEED CONTROL SYSTEMS UNDER § 21–810 OF THIS
+9 ARTICLE;
+10 (7) BUS LANE MONITORING SYSTEMS UNDER § 21–1134 OF THIS
+11 ARTICLE;
+12 (8) NOISE ABATEMENT MONITORING SYSTEMS UNDER § 22–612 OF
+13 THIS ARTICLE;
+14 (9) VEHICLE HEIGHT MONITORING SYSTEMS UNDER § 24–111.3 OF
+15 THIS ARTICLE; OR
+16 (10) ANY OTHER COUNTY OR MUNICIPAL AUTOMATED TRAFFIC
+17 ENFORCEMENT SYSTEM AUTHORIZED UNDER STATE LAW.
+18 (B) EACH COUNTY AND MUNICIPAL AUTOMATED TRAFFIC ENFORCEMENT
+19 PROGRAM SHALL SUBMIT A QUARTERLY AN ANNUAL REPORT TO THE COORDINATOR
+20 STATING, FOR EACH CITATION ISSUED DURING THE APPLICABLE QUARTER TO A
+21 MOTOR VEHICLE REGISTERED IN ANOTHER STATE:
+22 (1) THE REGISTRATION PLATE NUMBER AND STATE OF
+23 REGISTRATION;
+24 (2) WHETHER THE CITATION HAS BEEN PAID; AND
+25 (3) WHETHER THE CITATION IS PAST DUE.
+26 (C) EACH QUARTERLY ANNUAL REPORT SHALL:
+27 (1) INCLUDE THE INFORMATION REQUIRED UNDER SUBSECTION (B)
+28 OF THIS SECTION FOR THE PREVIOUS QUARTER;
+4 HOUSE BILL 210
+1 (2) UPDATE THE INFORMATION PROVIDED IN PREVIOUS QUARTERLY
+2 REPORTS TO REFLECT CITATIONS THAT HAVE BEEN SUBSEQUENTLY PAID AND ARE
+3 NO LONGER CONSIDERED PAST DUE; AND
+4 (3) PROVIDE A CUMULATIVE SUMMARY OF:
+5 (I) CITATIONS ISSUED UNDER THE PROGRAM TO MOTOR
+6 VEHICLES REGISTERED IN ANOTHER STATE;
+7 (II) THE NUMBER OF CITATIONS THAT HAVE BEEN PAID; AND
+8 (III) THE NUMBER OF CITATIONS THAT ARE PAST DUE.
+9 (D) THE COORDINATOR SHALL COLLABORATE WITH COUNTY AND
+10 MUNICIPAL AUTOMATED TRAFFIC ENFORCEMENT PROGRAMS TO IMPLEMENT THIS
+11 SECTION.
+12 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+13 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      6 ( C A M ( F p t s t t V Z c a q a a r c d t q t a m v r i a s a g r t a e o t M V L a o B  A S t  A  ( B  A S  A  (]
+[DELETED:  H  B  A S  A  (  S T M  S a A 8  ( I  ( “ t  ( “ s 8  T 8  ( T d  ( T g o V Z i t h z v d o s i ) H S A T C A M A   T§ C S M S U 1;]
+[DELETED: H 3    R G C E   21;   S§2      S§2 S M S U   O T   S§29;      W§2   E   B§2 L M S U   O T   N§2 U   O   V§2 H   OE     O C O M A T T. ) AG F E C I D T A Q T A    R P N A S O   W;D    W. ) E:A   I( B]
+[DELETED:  H    E    P:   ) I I U T P T M   ) T;IHD    ) T.IH ) H C S C W C A  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 210
+R7 6lr0642
+HB 915/25 – ENT (PRE–FILED) CF SB 965
+By: Delegate Foley Delegates Foley, Allen, Behler, Boyce, Guyton, Holmes, Lewis,
+and Odom
+Requested: July 23, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Environment and Transportation
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 22, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Motor Vehicles – Out–of–State Drivers – Automated Enforcement
+3 (Out–of–State Driver Accountability Act)
+4 FOR the purpose of requiring each county and municipal automated traffic enforcement
+5 program to submit to the Vision Zero coordinator a quarterly an annual report
+6 containing certain information regarding each citation issued under the program
+7 during the quarter to a motor vehicle registered in another state; and generally
+8 relating to automated enforcement of the Maryland Vehicle Law against
+9 out–of–state drivers.
+10 BY renumbering
+11 Article – Transportation
+12 Section 8–1006 and 8–1007
+13 to be Section 8–1007 and 8–1008, respectively
+14 Annotated Code of Maryland
+15 (2020 Replacement Volume and 2025 Supplement)
+16 BY repealing and reenacting, without amendments,
+17 Article – Transportation
+18 Section 8–1001 through 8–1003
+19 Annotated Code of Maryland
+20 (2020 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0210*
+
+2 HOUSE BILL 210
+1 BY adding to
+2 Article – Transportation
+3 Section 8–1006
+4 Annotated Code of Maryland
+5 (2020 Replacement Volume and 2025 Supplement)
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That Section(s) 8–1006 and 8–1007 of Article – Transportation of the Annotated Code of
+8 Maryland be renumbered to be Section(s) 8–1007 and 8–1008, respectively.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+10 as follows:
+11 Article – Transportation
+12 8–1001.
+13 (a) In this subtitle the following words have the meanings indicated.
+14 (b) “Coordinator” means the individual designated by the Department to oversee
+15 the implementation of Vision Zero throughout the State.
+16 (c) “Vision Zero” means a program for planning and developing a State roadway
+17 system that has zero vehicle–related deaths or serious injuries.
+18 8–1002.
+19 There is a program within the Department known as Vision Zero.
+20 8–1003.
+21 (a) The purpose of Vision Zero is to develop strategies to make roadways safer for
+22 drivers and passengers of motor vehicles, bicyclists, and pedestrians.
+23 (b) The goal of Vision Zero is to have zero vehicle–related deaths or serious
+24 injuries on roadways by the year 2030.
+25 8–1006.
+26 (A) THIS SECTION APPLIES TO COUNTY AND MUNICIPAL AUTOMATED
+27 TRAFFIC ENFORCEMENT PROGRAMS THAT IMPLEMENT:
+28 (1) TRAFFIC CONTROL SIGNAL MONITORING SYSTEMS UNDER §
+29 21–202.1 OF THIS ARTICLE;
+
+HOUSE BILL 210 3
+1 (2) AUTOMATED RAILROAD GRADE CROSSING ENFORCEMENT
+2 SYSTEMS UNDER § 21–704.1 OF THIS ARTICLE;
+3 (3) SCHOOL BUS MONITORING CAMERAS UNDER § 21–706.1 OF THIS
+4 ARTICLE;
+5 (4) STOP SIGN MONITORING SYSTEMS UNDER § 21–707.1 OF THIS
+6 ARTICLE;
+7 (5) SPEED MONITORING SYSTEMS UNDER § 21–809 OF THIS ARTICLE;
+8 (6) WORK ZONE SPEED CONTROL SYSTEMS UNDER § 21–810 OF THIS
+9 ARTICLE;
+10 (7) BUS LANE MONITORING SYSTEMS UNDER § 21–1134 OF THIS
+11 ARTICLE;
+12 (8) NOISE ABATEMENT MONITORING SYSTEMS UNDER § 22–612 OF
+13 THIS ARTICLE;
+14 (9) VEHICLE HEIGHT MONITORING SYSTEMS UNDER § 24–111.3 OF
+15 THIS ARTICLE; OR
+16 (10) ANY OTHER COUNTY OR MUNICIPAL AUTOMATED TRAFFIC
+17 ENFORCEMENT SYSTEM AUTHORIZED UNDER STATE LAW.
+18 (B) EACH COUNTY AND MUNICIPAL AUTOMATED TRAFFIC ENFORCEMENT
+19 PROGRAM SHALL SUBMIT A QUARTERLY AN ANNUAL REPORT TO THE COORDINATOR
+20 STATING, FOR EACH CITATION ISSUED DURING THE APPLICABLE QUARTER TO A
+21 MOTOR VEHICLE REGISTERED IN ANOTHER STATE:
+22 (1) THE REGISTRATION PLATE NUMBER AND STATE OF
+23 REGISTRATION;
+24 (2) WHETHER THE CITATION HAS BEEN PAID; AND
+25 (3) WHETHER THE CITATION IS PAST DUE.
+26 (C) EACH QUARTERLY ANNUAL REPORT SHALL:
+27 (1) INCLUDE THE INFORMATION REQUIRED UNDER SUBSECTION (B)
+28 OF THIS SECTION FOR THE PREVIOUS QUARTER;
+
+4 HOUSE BILL 210
+1 (2) UPDATE THE INFORMATION PROVIDED IN PREVIOUS QUARTERLY
+2 REPORTS TO REFLECT CITATIONS THAT HAVE BEEN SUBSEQUENTLY PAID AND ARE
+3 NO LONGER CONSIDERED PAST DUE; AND
+4 (3) PROVIDE A CUMULATIVE SUMMARY OF:
+5 (I) CITATIONS ISSUED UNDER THE PROGRAM TO MOTOR
+6 VEHICLES REGISTERED IN ANOTHER STATE;
+7 (II) THE NUMBER OF CITATIONS THAT HAVE BEEN PAID; AND
+8 (III) THE NUMBER OF CITATIONS THAT ARE PAST DUE.
+9 (D) THE COORDINATOR SHALL COLLABORATE WITH COUNTY AND
+10 MUNICIPAL AUTOMATED TRAFFIC ENFORCEMENT PROGRAMS TO IMPLEMENT THIS
+11 SECTION.
+12 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+13 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      6 ( C A M ( F p t s t t V Z c a q a a r c d t q t a m v r i a s a g r t a e o t M V L a o B  A S t  A  ( B  A S  A  (]
+[DELETED:  H  B  A S  A  (  S T M  S a A 8  ( I  ( “ t  ( “ s 8  T 8  ( T d  ( T g o V Z i t h z v d o s i ) H S A T C A M A   T§ C S M S U 1;]
+[DELETED: H 3    R G C E   21;   S§2      S§2 S M S U   O T   S§29;      W§2   E   B§2 L M S U   O T   N§2 U   O   V§2 H   OE     O C O M A T T. ) AG F E C I D T A Q T A    R P N A S O   W;D    W. ) E:A   I( B]
+[DELETED:  H    E    P:   ) I I U T P T M   ) T;IHD    ) T.IH ) H C S C W C A  S A B I F E T t A s t e O          G               ]

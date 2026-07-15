@@ -1,0 +1,534 @@
+Title: SENATE BILL 523
+Official Title: SENATE BILL 523
+Number of Sections: 1
+Source: versions - Enrolled - Department of Natural Resources - Water Resources - Identification of Vernal Pools (Jack Cover Vernal Pools Act of 2026)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+M3 (6lr2675)
+ENROLLED BILL
+— Education, Energy, and the Environment/Environment and Transportation —
+Introduced by Senator M. Washington
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Department of the Environment Natural Resources – Water Resources –
+3 Protection Identification of Vernal Pools
+4 (Jack Cover Vernal Pools Act of 2026)
+5 (Vernal Pool Wetlands Protection Act of 2026)
+6 FOR the purpose of requiring the Department of the Environment to adopt regulations in
+7 a certain manner Natural Resources in coordination with the Department of the
+8 Environment to identify and protect certain vernal pools in the State in a certain
+9 manner; requiring the Department, when issuing a certain permit, to protect certain
+10 vernal pools that are located within the geographic area covered by the permit of
+11 Natural Resources to create and maintain a certain list of vernal pools in the State
+12 in a certain manner; requiring the Department of the Environment to designate staff
+13 to receive training in vernal pool identification and to notify the Department of
+14 Natural Resources under certain circumstances; and generally relating to the
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0523*
+2 SENATE BILL 523
+1 regulatory protection of water resources and identification of vernal pools in the
+2 State.
+3 BY adding to
+4 Article – Environment Natural Resources
+5 Section 5–205 1–1002
+6 Annotated Code of Maryland
+7 (2013 2023 Replacement Volume and 2025 Supplement)
+8 BY repealing and reenacting, without amendments,
+9 Article – Environment
+10 Section 5–901(a), (b), (f), and (m)
+11 Annotated Code of Maryland
+12 (2013 Replacement Volume and 2025 Supplement)
+13 Preamble
+14 WHEREAS, Vernal pools are unique, small–scale ecosystems that contribute
+15 significantly to the biodiversity of Maryland by providing habitat for species that cannot
+16 reproduce in alternative habitats, including the wood frog, mole salamanders, and fairy
+17 shrimp; and
+18 WHEREAS, Vernal pools provide a significant amount of ecosystem services as they
+19 occur frequently throughout Maryland and have the capacity to replenish groundwater and
+20 filter stormwater flows; and
+21 WHEREAS, Nontidal wetlands that meet the three federal wetland delineation
+22 criteria of hydrology, hydric soils, and hydrophytic vegetation, including vernal pools that
+23 satisfy those criteria, are regulated and protected by the State; and
+24 WHEREAS, Vernal pools that do not meet all three federal wetland delineation
+25 criteria are not afforded the regulatory protections applicable to nontidal wetlands in the
+26 State and may suffer impairments or losses without regulatory review or approval; now,
+27 therefore,
+28 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+29 That the Laws of Maryland read as follows:
+30 Article – Environment
+31 5–205.
+32 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+33 INDICATED.
+SENATE BILL 523 3
+1 (2) “AGRICULTURAL ACTIVITY” HAS THE MEANING STATED IN §
+2 5–901 OF THIS TITLE.
+3 (3) “FORESTRY ACTIVITY” HAS THE MEANING STATED IN § 5–901 OF
+4 THIS TITLE.
+5 (4) “NONTIDAL WETLAND” HAS THE MEANING STATED IN § 5–901 OF
+6 THIS TITLE.
+7 (5) “OBLIGATE SPECIES” MEANS AN ANIMAL SPECIES THAT DEPENDS
+8 ON VERNAL POOLS AS A NECESSARY PART OF ITS LIFE CYCLE.
+9 (6) “QUALIFIED VERNAL POOL” MEANS A CONFINED DEPRESSION
+10 THAT:
+11 (I) HAS SURFACE WATER FOR PART OF THE YEAR;
+12 (II) PROVIDES A PERSISTENT OR BREEDING HABITAT FOR
+13 OBLIGATE SPECIES, INCLUDING NATIVE AMPHIBIANS AND INVERTEBRATES; AND
+14 (III) DOES NOT MEET THE CRITERIA FOR PROTECTION AS A
+15 NONTIDAL WETLAND UNDER FEDERAL OR STATE LAW, INCLUDING THE FEDERAL
+16 WETLAND DELINEATION CRITERIA OF HYDROLOGY, HYDRIC SOILS, AND
+17 HYDROPHYTIC VEGETATION.
+18 (7) (I) “REGULATED ACTIVITY” MEANS ANY OF THE FOLLOWING
+19 ACTIVITIES IN A QUALIFIED VERNAL POOL OR WITHIN A BUFFER AROUND A
+20 QUALIFIED VERNAL POOL:
+21 1. THE REMOVAL, EXCAVATION, OR DREDGING OF SOIL,
+22 SAND, GRAVEL, MINERALS, ORGANIC MATTER, OR MATERIALS OF ANY KIND;
+23 2. THE CHANGING OF EXISTING DRAINAGE
+24 CHARACTERISTICS, SEDIMENTATION PATTERNS, FLOW PATTERNS, OR FLOOD
+25 RETENTION CHARACTERISTICS;
+26 3. THE DISTURBANCE OF THE WATER LEVEL OR WATER
+27 TABLE BY DRAINAGE, IMPOUNDMENT, OR OTHER MEANS;
+28 4. THE DUMPING, DISCHARGING OF MATERIAL, OR
+29 FILLING WITH MATERIAL, INCLUDING THE DRIVING OF PILES AND PLACING OF
+30 OBSTRUCTIONS;
+4 SENATE BILL 523
+1 5. THE GRADING OR REMOVAL OF MATERIAL THAT
+2 WOULD ALTER EXISTING TOPOGRAPHY; AND
+3 6. THE DESTRUCTION OR REMOVAL OF PLANT LIFE
+4 THAT WOULD ALTER THE CHARACTER OF A QUALIFIED VERNAL POOL.
+5 (II) “REGULATED ACTIVITY” DOES NOT INCLUDE AN
+6 AGRICULTURAL ACTIVITY OR FORESTRY ACTIVITY AS DEFINED IN THIS SECTION.
+7 (B) THE DEPARTMENT SHALL ADOPT REGULATIONS TO:
+8 (1) ESTABLISH AND MAINTAIN A LIST OF QUALIFIED VERNAL POOLS
+9 IN THE STATE;
+10 (2) ESTABLISH PROTECTIONS RELATED TO THE PRESERVATION OF
+11 QUALIFIED VERNAL POOLS IN THE STATE;
+12 (3) ESTABLISH PROTECTIONS FOR BUFFERS AROUND QUALIFIED
+13 VERNAL POOLS IN THE STATE; AND
+14 (4) REQUIRE THAT A PERSON CONDUCTING A REGULATED ACTIVITY
+15 RESULTING IN IMPAIRMENTS OR LOSSES TO A QUALIFIED VERNAL POOL OR A
+16 BUFFER AROUND A QUALIFIED VERNAL POOL:
+17 (I) AVOID IMPAIRMENTS AND LOSSES TO THE MAXIMUM
+18 EXTENT PRACTICABLE;
+19 (II) MINIMIZE IMPAIRMENTS AND LOSSES TO THE MAXIMUM
+20 EXTENT PRACTICABLE WHERE AVOIDANCE IS NOT POSSIBLE; AND
+21 (III) PROVIDE COMPENSATION OR OTHER MITIGATION AS
+22 DETERMINED BY THE DEPARTMENT FOR ANY REMAINING UNAVOIDABLE
+23 IMPAIRMENTS AND LOSSES.
+24 (C) THE REGULATIONS ADOPTED UNDER SUBSECTION (B) OF THIS SECTION
+25 SHALL APPLY ONLY TO QUALIFIED VERNAL POOLS THAT HAVE BEEN IDENTIFIED OR
+26 DOCUMENTED BY:
+27 (1) THE DEPARTMENT;
+28 (2) A PERSON USING IDENTIFICATION METHODS APPROVED BY THE
+29 DEPARTMENT, INCLUDING MAPPING OR OTHER SCIENTIFIC INFORMATION; OR
+SENATE BILL 523 5
+1 (3) A CERTIFIED WETLAND DELINEATOR DURING A SITE ASSESSMENT
+2 CONDUCTED BEFORE THE ISSUANCE OF A PERMIT FOR A REGULATED ACTIVITY.
+3 (D) (1) IN DEVELOPING THE REGULATIONS UNDER SUBSECTION (B) OF
+4 THIS SECTION, THE DEPARTMENT SHALL, TO THE EXTENT PRACTICABLE:
+5 (I) ENSURE THAT THE BUFFER SPECIFICATIONS FOR
+6 QUALIFIED VERNAL POOLS BE CONSISTENT WITH THE BUFFER SPECIFICATIONS FOR
+7 NONTIDAL WETLANDS UNDER § 5–906 OF THIS TITLE; AND
+8 (II) ENSURE THAT THE COMPENSATION AND MITIGATION
+9 REQUIREMENTS FOR IMPAIRMENTS AND LOSSES WITHIN QUALIFIED VERNAL POOLS
+10 BE CONSISTENT WITH THE COMPENSATION AND MITIGATION REQUIREMENTS FOR
+11 IMPAIRMENTS AND LOSSES WITHIN NONTIDAL WETLANDS UNDER §§ 5–909 AND
+12 5–910 OF THIS TITLE.
+13 (2) IN ADDITION TO THE REQUIREMENTS UNDER PARAGRAPH (1) OF
+14 THIS SUBSECTION, THE DEPARTMENT MAY:
+15 (I) USE MAPPING OR OTHER SCIENTIFIC INFORMATION TO
+16 IDENTIFY ADDITIONAL QUALIFIED VERNAL POOLS FOR INCLUSION ON THE
+17 DEPARTMENT’S LIST OF QUALIFIED VERNAL POOLS; AND
+18 (II) CONSULT WITH ANY STAKEHOLDER GROUP AS
+19 APPROPRIATE, INCLUDING THE DEPARTMENT OF NATURAL RESOURCES AND THE
+20 UNIVERSITY OF MARYLAND.
+21 (E) IN ISSUING A PERMIT FOR A REGULATED ACTIVITY, THE DEPARTMENT
+22 SHALL PROVIDE PROTECTIONS FOR ANY QUALIFIED VERNAL POOLS THAT ARE:
+23 (1) LISTED BY THE DEPARTMENT IN ACCORDANCE WITH
+24 SUBSECTIONS (B) AND (C) OF THIS SECTION; AND
+25 (2) LOCATED WITHIN THE GEOGRAPHIC AREA COVERED BY THE
+26 PERMIT.
+27 5–901.
+28 (a) In this subtitle the following words have the meanings indicated.
+29 (b) (1) “Agricultural activity” means aquaculture and farming activities.
+30 (2) “Agricultural activity” includes:
+6 SENATE BILL 523
+1 (i) Plowing, tillage, cropping, seeding, cultivating, and harvesting
+2 for the production of food and fiber products; and
+3 (ii) The grazing of livestock.
+4 (f) “Forestry activity” means planting, cultivating, thinning, harvesting, or any
+5 other activity undertaken to use forest resources or to improve their quality or productivity.
+6 (m) (1) “Nontidal wetland” means an area that is inundated or saturated by
+7 surface water or groundwater at a frequency and duration sufficient to support, and that
+8 under normal circumstances does support, a prevalence of vegetation typically adapted for
+9 life in saturated soil conditions, commonly known as hydrophytic vegetation.
+10 (2) The determination of whether an area is a nontidal wetland shall be
+11 made in accordance with the publication known as the “Federal Manual for Identifying and
+12 Delineating Jurisdictional Wetlands”, published in 1989 and as may be amended.
+13 (3) “Nontidal wetlands” do not include tidal wetlands regulated under Title
+14 16 of this article.
+15 Article – Natural Resources
+16 1–1002.
+17 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+18 INDICATED.
+19 (2) “FACULTATIVE SPECIES” MEANS AN ANIMAL SPECIES THAT USES
+20 VERNAL POOLS IRREGULARLY.
+21 (3) “OBLIGATE SPECIES” MEANS AN ANIMAL SPECIES THAT DEPENDS
+22 ON VERNAL POOLS AS A NECESSARY PART OF ITS LIFE CYCLE.
+23 (4) “TYPICAL YEAR” MEANS A YEAR IN WHICH RAINFALL TOTALS
+24 MEET OR EXCEED THE AVERAGE YEARLY RAINFALL FROM THE PREVIOUS 30 YEARS
+25 FOR THE LOCATION WITHIN WHICH THE VERNAL POOL IS LOCATED.
+26 (5) “VERNAL POOL” MEANS A CONFINED DEPRESSION THAT:
+27 (I) HAS SURFACE WATER FOR AT LEAST 2 CONSECUTIVE
+28 MONTHS BETWEEN NOVEMBER AND MAY IN A TYPICAL YEAR;
+29 (II) EXPERIENCES A DECREASE IN WATER LEVEL TO 6 INCHES
+30 OR LESS BETWEEN JUNE AND SEPTEMBER IN A TYPICAL YEAR;
+SENATE BILL 523 7
+1 (III) PROVIDES A PERSISTENT OR BREEDING HABITAT FOR
+2 VARIOUS ANIMAL SPECIES, INCLUDING NATIVE AMPHIBIANS AND INVERTEBRATES
+3 THAT ARE FACULTATIVE SPECIES OR OBLIGATE SPECIES;
+4 (IV) CONTAINS LESS THAN 30% AERIAL COVER OF EMERGENT
+5 VEGETATION WHEN FULL;
+6 (V) IS PREDOMINANTLY OR PARTIALLY SHADED BY WOODY
+7 VEGETATION;
+8 (VI) IS LESS THAN 5 ACRES IN SIZE; AND
+9 (VII) MAY HAVE INTERMITTENT, TEMPORARY CONNECTIONS TO
+10 OTHER BODIES OF WATER.
+11 (B) THE DEPARTMENT SHALL:
+12 (1) IN COORDINATION WITH THE DEPARTMENT OF THE
+13 ENVIRONMENT, CREATE AND MAINTAIN A LIST OF VERNAL POOLS IN THE STATE;
+14 (2) ESTABLISH CRITERIA AND PROCEDURES FOR IDENTIFYING AND
+15 INCLUDING VERNAL POOLS ON THE LIST, INCLUDING:
+16 (I) VERNAL POOLS IDENTIFIED BY THE DEPARTMENT IN
+17 CARRYING OUT ITS DUTIES SET FORTH IN THIS ARTICLE;
+18 (II) LOCATIONS THE DEPARTMENT DETERMINES MEET THE
+19 DEFINITION OF A VERNAL POOL UNDER SUBSECTION (A) OF THIS SECTION; AND
+20 (III) VERNAL POOLS IDENTIFIED BY THE DEPARTMENT OF THE
+21 ENVIRONMENT IN ACCORDANCE WITH SUBSECTION (C) OF THIS SECTION;
+22 (3) AUTHORIZE:
+23 (I) USING MAPPING OR OTHER SCIENTIFIC INFORMATION TO
+24 IDENTIFY ADDITIONAL VERNAL POOLS FOR INCLUSION ON THE LIST; AND
+25 (II) CONSULTING WITH ANY STAKEHOLDER GROUP AS
+26 APPROPRIATE, INCLUDING THE DEPARTMENT OF THE ENVIRONMENT AND THE
+27 UNIVERSITY OF MARYLAND, TO IDENTIFY VERNAL POOLS FOR INCLUSION ON THE
+28 LIST; AND
+29 (4) PROVIDE FOR PUBLICATION OF THE LIST OF VERNAL POOLS ON
+30 THE DEPARTMENT’S WEBSITE.
+8 SENATE BILL 523
+1 (C) (1) THE DEPARTMENT OF THE ENVIRONMENT SHALL DESIGNATE
+2 STAFF TO RECEIVE TRAINING IN VERNAL POOL IDENTIFICATION.
+3 (2) THE DEPARTMENT SHALL PROVIDE VERNAL POOL
+4 IDENTIFICATION TRAINING TO THE STAFF DESIGNATED UNDER PARAGRAPH (1) OF
+5 THIS SUBSECTION.
+6 (3) IF, IN CARRYING OUT RESPONSIBILITIES UNDER TITLE 5,
+7 SUBTITLE 9 OF THE ENVIRONMENT ARTICLE, STAFF TRAINED UNDER THIS
+8 SUBSECTION IDENTIFY A LOCATION THAT MAY QUALIFY AS A VERNAL POOL, THE
+9 DEPARTMENT OF THE ENVIRONMENT SHALL NOTIFY THE DEPARTMENT OF THE
+10 LOCATION FOR POSSIBLE INCLUSION ON THE LIST ESTABLISHED UNDER
+11 SUBSECTION (B) OF THIS SECTION.
+12 (4) NOTHING IN THIS SECTION SHALL BE CONSTRUED TO LIMIT THE
+13 AUTHORITY OF THE DEPARTMENT OF THE ENVIRONMENT TO REGULATE VERNAL
+14 POOLS THAT MEET THE DEFINITION OF NONTIDAL WETLANDS UNDER TITLE 5,
+15 SUBTITLE 9 OF THE ENVIRONMENT ARTICLE.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+17 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      ( w t G S a p t t G f h a t d o _ a _ o _ A D P   ( F a E m v N i t r t i v p i a t n t D o N R u c c a g r t t]
+[DELETED:  S  r S B  A S  A  ( B  A S  A  ( P  W V p a u s e t c s r s  W o f  W N w t m t t f w d c s  W V p t d n m a t f w d c S t  S T A() ( N]
+[DELETED: S 3 ( “A”§ AY H T M S I 1. ( “F”§5Y     ( “N”§5D     ( “OS  ( “Q V PL M A C D  () H;A  () IR A P O B H FS S ;  () IO N M T C F P A A TW  D C O HY H SS A ( () “RE AY M A O T F I A Q V P O W A B A A   1 T,,L N LD L S R ,,,;   2  C O E DS S PS F PS O F,   3 E T ,;   4 T, DG D O ML O W ML I T D O P A P O]
+[DELETED:  S    5  G O R O M TY    6  D O R O P L  () “RIE AY D N I A() TD:H E (  T; (  R T; (  P F B A Q TE ; (  I I O L T A Q V P O A  () V I A L T T M  () II I A L T T ME   () IR C O O M A B T E F A R U() T(H B  ( TD; E ( ,;T N ]
+[DELETED: S 5 ( () ( I(N B N  EL D,:  () N T T B S F   E 56;  () IN T T C A M A L W N W U   A§590. ( I(  N  ED:  () S M O O S I T A Q V P F I O T’;TSS   () IO W A S G AE  E A EDNM. A() I,NY  E ( L B T E I A W B  C N )(); (  W T G A C B T 5  ( I  ( ( “   ( “]
+[DELETED:  S     ( P f    ( T  ( “ o  ( ( “ s u l   ( T m D   ( “ 1 A() ( N ( “FS  ( “OS  ( “T YR M A Y I W R T   ( “V”:L   () HA S W F A L  C O AM;  () EIX   U ES;]
+[DELETED: S 7  () IR A P O B H FS   () C3VO    () S P O P S B W  () I5;IS  E   () MIAT () TD:H E ( I C W T E O T,S;T  T ( T :  () VE P I B T E I  () LIO T E D M T A N );  () VIE E(); C  ( A:  () ST   () IO W A S G AE I T E O T N A TDM AD T  (  ETS’.]
+[DELETED:  S () ( TDH E O T N S D ( T E S P V P   ( I,T5 I C O R U I 9EA  O T N RE S T U TL E O N N E O F P I O T L E U B ). (  E N T M T D O N W U I 59EA.   N R  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 523
+M3 (6lr2675)
+ENROLLED BILL
+— Education, Energy, and the Environment/Environment and Transportation —
+Introduced by Senator M. Washington
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Department of the Environment Natural Resources – Water Resources –
+3 Protection Identification of Vernal Pools
+4 (Jack Cover Vernal Pools Act of 2026)
+5 (Vernal Pool Wetlands Protection Act of 2026)
+6 FOR the purpose of requiring the Department of the Environment to adopt regulations in
+7 a certain manner Natural Resources in coordination with the Department of the
+8 Environment to identify and protect certain vernal pools in the State in a certain
+9 manner; requiring the Department, when issuing a certain permit, to protect certain
+10 vernal pools that are located within the geographic area covered by the permit of
+11 Natural Resources to create and maintain a certain list of vernal pools in the State
+12 in a certain manner; requiring the Department of the Environment to designate staff
+13 to receive training in vernal pool identification and to notify the Department of
+14 Natural Resources under certain circumstances; and generally relating to the
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0523*
+
+2 SENATE BILL 523
+1 regulatory protection of water resources and identification of vernal pools in the
+2 State.
+3 BY adding to
+4 Article – Environment Natural Resources
+5 Section 5–205 1–1002
+6 Annotated Code of Maryland
+7 (2013 2023 Replacement Volume and 2025 Supplement)
+8 BY repealing and reenacting, without amendments,
+9 Article – Environment
+10 Section 5–901(a), (b), (f), and (m)
+11 Annotated Code of Maryland
+12 (2013 Replacement Volume and 2025 Supplement)
+13 Preamble
+14 WHEREAS, Vernal pools are unique, small–scale ecosystems that contribute
+15 significantly to the biodiversity of Maryland by providing habitat for species that cannot
+16 reproduce in alternative habitats, including the wood frog, mole salamanders, and fairy
+17 shrimp; and
+18 WHEREAS, Vernal pools provide a significant amount of ecosystem services as they
+19 occur frequently throughout Maryland and have the capacity to replenish groundwater and
+20 filter stormwater flows; and
+21 WHEREAS, Nontidal wetlands that meet the three federal wetland delineation
+22 criteria of hydrology, hydric soils, and hydrophytic vegetation, including vernal pools that
+23 satisfy those criteria, are regulated and protected by the State; and
+24 WHEREAS, Vernal pools that do not meet all three federal wetland delineation
+25 criteria are not afforded the regulatory protections applicable to nontidal wetlands in the
+26 State and may suffer impairments or losses without regulatory review or approval; now,
+27 therefore,
+28 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+29 That the Laws of Maryland read as follows:
+30 Article – Environment
+31 5–205.
+32 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+33 INDICATED.
+
+SENATE BILL 523 3
+1 (2) “AGRICULTURAL ACTIVITY” HAS THE MEANING STATED IN §
+2 5–901 OF THIS TITLE.
+3 (3) “FORESTRY ACTIVITY” HAS THE MEANING STATED IN § 5–901 OF
+4 THIS TITLE.
+5 (4) “NONTIDAL WETLAND” HAS THE MEANING STATED IN § 5–901 OF
+6 THIS TITLE.
+7 (5) “OBLIGATE SPECIES” MEANS AN ANIMAL SPECIES THAT DEPENDS
+8 ON VERNAL POOLS AS A NECESSARY PART OF ITS LIFE CYCLE.
+9 (6) “QUALIFIED VERNAL POOL” MEANS A CONFINED DEPRESSION
+10 THAT:
+11 (I) HAS SURFACE WATER FOR PART OF THE YEAR;
+12 (II) PROVIDES A PERSISTENT OR BREEDING HABITAT FOR
+13 OBLIGATE SPECIES, INCLUDING NATIVE AMPHIBIANS AND INVERTEBRATES; AND
+14 (III) DOES NOT MEET THE CRITERIA FOR PROTECTION AS A
+15 NONTIDAL WETLAND UNDER FEDERAL OR STATE LAW, INCLUDING THE FEDERAL
+16 WETLAND DELINEATION CRITERIA OF HYDROLOGY, HYDRIC SOILS, AND
+17 HYDROPHYTIC VEGETATION.
+18 (7) (I) “REGULATED ACTIVITY” MEANS ANY OF THE FOLLOWING
+19 ACTIVITIES IN A QUALIFIED VERNAL POOL OR WITHIN A BUFFER AROUND A
+20 QUALIFIED VERNAL POOL:
+21 1. THE REMOVAL, EXCAVATION, OR DREDGING OF SOIL,
+22 SAND, GRAVEL, MINERALS, ORGANIC MATTER, OR MATERIALS OF ANY KIND;
+23 2. THE CHANGING OF EXISTING DRAINAGE
+24 CHARACTERISTICS, SEDIMENTATION PATTERNS, FLOW PATTERNS, OR FLOOD
+25 RETENTION CHARACTERISTICS;
+26 3. THE DISTURBANCE OF THE WATER LEVEL OR WATER
+27 TABLE BY DRAINAGE, IMPOUNDMENT, OR OTHER MEANS;
+28 4. THE DUMPING, DISCHARGING OF MATERIAL, OR
+29 FILLING WITH MATERIAL, INCLUDING THE DRIVING OF PILES AND PLACING OF
+30 OBSTRUCTIONS;
+
+4 SENATE BILL 523
+1 5. THE GRADING OR REMOVAL OF MATERIAL THAT
+2 WOULD ALTER EXISTING TOPOGRAPHY; AND
+3 6. THE DESTRUCTION OR REMOVAL OF PLANT LIFE
+4 THAT WOULD ALTER THE CHARACTER OF A QUALIFIED VERNAL POOL.
+5 (II) “REGULATED ACTIVITY” DOES NOT INCLUDE AN
+6 AGRICULTURAL ACTIVITY OR FORESTRY ACTIVITY AS DEFINED IN THIS SECTION.
+7 (B) THE DEPARTMENT SHALL ADOPT REGULATIONS TO:
+8 (1) ESTABLISH AND MAINTAIN A LIST OF QUALIFIED VERNAL POOLS
+9 IN THE STATE;
+10 (2) ESTABLISH PROTECTIONS RELATED TO THE PRESERVATION OF
+11 QUALIFIED VERNAL POOLS IN THE STATE;
+12 (3) ESTABLISH PROTECTIONS FOR BUFFERS AROUND QUALIFIED
+13 VERNAL POOLS IN THE STATE; AND
+14 (4) REQUIRE THAT A PERSON CONDUCTING A REGULATED ACTIVITY
+15 RESULTING IN IMPAIRMENTS OR LOSSES TO A QUALIFIED VERNAL POOL OR A
+16 BUFFER AROUND A QUALIFIED VERNAL POOL:
+17 (I) AVOID IMPAIRMENTS AND LOSSES TO THE MAXIMUM
+18 EXTENT PRACTICABLE;
+19 (II) MINIMIZE IMPAIRMENTS AND LOSSES TO THE MAXIMUM
+20 EXTENT PRACTICABLE WHERE AVOIDANCE IS NOT POSSIBLE; AND
+21 (III) PROVIDE COMPENSATION OR OTHER MITIGATION AS
+22 DETERMINED BY THE DEPARTMENT FOR ANY REMAINING UNAVOIDABLE
+23 IMPAIRMENTS AND LOSSES.
+24 (C) THE REGULATIONS ADOPTED UNDER SUBSECTION (B) OF THIS SECTION
+25 SHALL APPLY ONLY TO QUALIFIED VERNAL POOLS THAT HAVE BEEN IDENTIFIED OR
+26 DOCUMENTED BY:
+27 (1) THE DEPARTMENT;
+28 (2) A PERSON USING IDENTIFICATION METHODS APPROVED BY THE
+29 DEPARTMENT, INCLUDING MAPPING OR OTHER SCIENTIFIC INFORMATION; OR
+
+SENATE BILL 523 5
+1 (3) A CERTIFIED WETLAND DELINEATOR DURING A SITE ASSESSMENT
+2 CONDUCTED BEFORE THE ISSUANCE OF A PERMIT FOR A REGULATED ACTIVITY.
+3 (D) (1) IN DEVELOPING THE REGULATIONS UNDER SUBSECTION (B) OF
+4 THIS SECTION, THE DEPARTMENT SHALL, TO THE EXTENT PRACTICABLE:
+5 (I) ENSURE THAT THE BUFFER SPECIFICATIONS FOR
+6 QUALIFIED VERNAL POOLS BE CONSISTENT WITH THE BUFFER SPECIFICATIONS FOR
+7 NONTIDAL WETLANDS UNDER § 5–906 OF THIS TITLE; AND
+8 (II) ENSURE THAT THE COMPENSATION AND MITIGATION
+9 REQUIREMENTS FOR IMPAIRMENTS AND LOSSES WITHIN QUALIFIED VERNAL POOLS
+10 BE CONSISTENT WITH THE COMPENSATION AND MITIGATION REQUIREMENTS FOR
+11 IMPAIRMENTS AND LOSSES WITHIN NONTIDAL WETLANDS UNDER §§ 5–909 AND
+12 5–910 OF THIS TITLE.
+13 (2) IN ADDITION TO THE REQUIREMENTS UNDER PARAGRAPH (1) OF
+14 THIS SUBSECTION, THE DEPARTMENT MAY:
+15 (I) USE MAPPING OR OTHER SCIENTIFIC INFORMATION TO
+16 IDENTIFY ADDITIONAL QUALIFIED VERNAL POOLS FOR INCLUSION ON THE
+17 DEPARTMENT’S LIST OF QUALIFIED VERNAL POOLS; AND
+18 (II) CONSULT WITH ANY STAKEHOLDER GROUP AS
+19 APPROPRIATE, INCLUDING THE DEPARTMENT OF NATURAL RESOURCES AND THE
+20 UNIVERSITY OF MARYLAND.
+21 (E) IN ISSUING A PERMIT FOR A REGULATED ACTIVITY, THE DEPARTMENT
+22 SHALL PROVIDE PROTECTIONS FOR ANY QUALIFIED VERNAL POOLS THAT ARE:
+23 (1) LISTED BY THE DEPARTMENT IN ACCORDANCE WITH
+24 SUBSECTIONS (B) AND (C) OF THIS SECTION; AND
+25 (2) LOCATED WITHIN THE GEOGRAPHIC AREA COVERED BY THE
+26 PERMIT.
+27 5–901.
+28 (a) In this subtitle the following words have the meanings indicated.
+29 (b) (1) “Agricultural activity” means aquaculture and farming activities.
+30 (2) “Agricultural activity” includes:
+
+6 SENATE BILL 523
+1 (i) Plowing, tillage, cropping, seeding, cultivating, and harvesting
+2 for the production of food and fiber products; and
+3 (ii) The grazing of livestock.
+4 (f) “Forestry activity” means planting, cultivating, thinning, harvesting, or any
+5 other activity undertaken to use forest resources or to improve their quality or productivity.
+6 (m) (1) “Nontidal wetland” means an area that is inundated or saturated by
+7 surface water or groundwater at a frequency and duration sufficient to support, and that
+8 under normal circumstances does support, a prevalence of vegetation typically adapted for
+9 life in saturated soil conditions, commonly known as hydrophytic vegetation.
+10 (2) The determination of whether an area is a nontidal wetland shall be
+11 made in accordance with the publication known as the “Federal Manual for Identifying and
+12 Delineating Jurisdictional Wetlands”, published in 1989 and as may be amended.
+13 (3) “Nontidal wetlands” do not include tidal wetlands regulated under Title
+14 16 of this article.
+15 Article – Natural Resources
+16 1–1002.
+17 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+18 INDICATED.
+19 (2) “FACULTATIVE SPECIES” MEANS AN ANIMAL SPECIES THAT USES
+20 VERNAL POOLS IRREGULARLY.
+21 (3) “OBLIGATE SPECIES” MEANS AN ANIMAL SPECIES THAT DEPENDS
+22 ON VERNAL POOLS AS A NECESSARY PART OF ITS LIFE CYCLE.
+23 (4) “TYPICAL YEAR” MEANS A YEAR IN WHICH RAINFALL TOTALS
+24 MEET OR EXCEED THE AVERAGE YEARLY RAINFALL FROM THE PREVIOUS 30 YEARS
+25 FOR THE LOCATION WITHIN WHICH THE VERNAL POOL IS LOCATED.
+26 (5) “VERNAL POOL” MEANS A CONFINED DEPRESSION THAT:
+27 (I) HAS SURFACE WATER FOR AT LEAST 2 CONSECUTIVE
+28 MONTHS BETWEEN NOVEMBER AND MAY IN A TYPICAL YEAR;
+29 (II) EXPERIENCES A DECREASE IN WATER LEVEL TO 6 INCHES
+30 OR LESS BETWEEN JUNE AND SEPTEMBER IN A TYPICAL YEAR;
+
+SENATE BILL 523 7
+1 (III) PROVIDES A PERSISTENT OR BREEDING HABITAT FOR
+2 VARIOUS ANIMAL SPECIES, INCLUDING NATIVE AMPHIBIANS AND INVERTEBRATES
+3 THAT ARE FACULTATIVE SPECIES OR OBLIGATE SPECIES;
+4 (IV) CONTAINS LESS THAN 30% AERIAL COVER OF EMERGENT
+5 VEGETATION WHEN FULL;
+6 (V) IS PREDOMINANTLY OR PARTIALLY SHADED BY WOODY
+7 VEGETATION;
+8 (VI) IS LESS THAN 5 ACRES IN SIZE; AND
+9 (VII) MAY HAVE INTERMITTENT, TEMPORARY CONNECTIONS TO
+10 OTHER BODIES OF WATER.
+11 (B) THE DEPARTMENT SHALL:
+12 (1) IN COORDINATION WITH THE DEPARTMENT OF THE
+13 ENVIRONMENT, CREATE AND MAINTAIN A LIST OF VERNAL POOLS IN THE STATE;
+14 (2) ESTABLISH CRITERIA AND PROCEDURES FOR IDENTIFYING AND
+15 INCLUDING VERNAL POOLS ON THE LIST, INCLUDING:
+16 (I) VERNAL POOLS IDENTIFIED BY THE DEPARTMENT IN
+17 CARRYING OUT ITS DUTIES SET FORTH IN THIS ARTICLE;
+18 (II) LOCATIONS THE DEPARTMENT DETERMINES MEET THE
+19 DEFINITION OF A VERNAL POOL UNDER SUBSECTION (A) OF THIS SECTION; AND
+20 (III) VERNAL POOLS IDENTIFIED BY THE DEPARTMENT OF THE
+21 ENVIRONMENT IN ACCORDANCE WITH SUBSECTION (C) OF THIS SECTION;
+22 (3) AUTHORIZE:
+23 (I) USING MAPPING OR OTHER SCIENTIFIC INFORMATION TO
+24 IDENTIFY ADDITIONAL VERNAL POOLS FOR INCLUSION ON THE LIST; AND
+25 (II) CONSULTING WITH ANY STAKEHOLDER GROUP AS
+26 APPROPRIATE, INCLUDING THE DEPARTMENT OF THE ENVIRONMENT AND THE
+27 UNIVERSITY OF MARYLAND, TO IDENTIFY VERNAL POOLS FOR INCLUSION ON THE
+28 LIST; AND
+29 (4) PROVIDE FOR PUBLICATION OF THE LIST OF VERNAL POOLS ON
+30 THE DEPARTMENT’S WEBSITE.
+
+8 SENATE BILL 523
+1 (C) (1) THE DEPARTMENT OF THE ENVIRONMENT SHALL DESIGNATE
+2 STAFF TO RECEIVE TRAINING IN VERNAL POOL IDENTIFICATION.
+3 (2) THE DEPARTMENT SHALL PROVIDE VERNAL POOL
+4 IDENTIFICATION TRAINING TO THE STAFF DESIGNATED UNDER PARAGRAPH (1) OF
+5 THIS SUBSECTION.
+6 (3) IF, IN CARRYING OUT RESPONSIBILITIES UNDER TITLE 5,
+7 SUBTITLE 9 OF THE ENVIRONMENT ARTICLE, STAFF TRAINED UNDER THIS
+8 SUBSECTION IDENTIFY A LOCATION THAT MAY QUALIFY AS A VERNAL POOL, THE
+9 DEPARTMENT OF THE ENVIRONMENT SHALL NOTIFY THE DEPARTMENT OF THE
+10 LOCATION FOR POSSIBLE INCLUSION ON THE LIST ESTABLISHED UNDER
+11 SUBSECTION (B) OF THIS SECTION.
+12 (4) NOTHING IN THIS SECTION SHALL BE CONSTRUED TO LIMIT THE
+13 AUTHORITY OF THE DEPARTMENT OF THE ENVIRONMENT TO REGULATE VERNAL
+14 POOLS THAT MEET THE DEFINITION OF NONTIDAL WETLANDS UNDER TITLE 5,
+15 SUBTITLE 9 OF THE ENVIRONMENT ARTICLE.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+17 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      ( w t G S a p t t G f h a t d o _ a _ o _ A D P   ( F a E m v N i t r t i v p i a t n t D o N R u c c a g r t t]
+[DELETED:  S  r S B  A S  A  ( B  A S  A  ( P  W V p a u s e t c s r s  W o f  W N w t m t t f w d c s  W V p t d n m a t f w d c S t  S T A() ( N]
+[DELETED: S 3 ( “A”§ AY H T M S I 1. ( “F”§5Y     ( “N”§5D     ( “OS  ( “Q V PL M A C D  () H;A  () IR A P O B H FS S ;  () IO N M T C F P A A TW  D C O HY H SS A ( () “RE AY M A O T F I A Q V P O W A B A A   1 T,,L N LD L S R ,,,;   2  C O E DS S PS F PS O F,   3 E T ,;   4 T, DG D O ML O W ML I T D O P A P O]
+[DELETED:  S    5  G O R O M TY    6  D O R O P L  () “RIE AY D N I A() TD:H E (  T; (  R T; (  P F B A Q TE ; (  I I O L T A Q V P O A  () V I A L T T M  () II I A L T T ME   () IR C O O M A B T E F A R U() T(H B  ( TD; E ( ,;T N ]
+[DELETED: S 5 ( () ( I(N B N  EL D,:  () N T T B S F   E 56;  () IN T T C A M A L W N W U   A§590. ( I(  N  ED:  () S M O O S I T A Q V P F I O T’;TSS   () IO W A S G AE  E A EDNM. A() I,NY  E ( L B T E I A W B  C N )(); (  W T G A C B T 5  ( I  ( ( “   ( “]
+[DELETED:  S     ( P f    ( T  ( “ o  ( ( “ s u l   ( T m D   ( “ 1 A() ( N ( “FS  ( “OS  ( “T YR M A Y I W R T   ( “V”:L   () HA S W F A L  C O AM;  () EIX   U ES;]
+[DELETED: S 7  () IR A P O B H FS   () C3VO    () S P O P S B W  () I5;IS  E   () MIAT () TD:H E ( I C W T E O T,S;T  T ( T :  () VE P I B T E I  () LIO T E D M T A N );  () VIE E(); C  ( A:  () ST   () IO W A S G AE I T E O T N A TDM AD T  (  ETS’.]
+[DELETED:  S () ( TDH E O T N S D ( T E S P V P   ( I,T5 I C O R U I 9EA  O T N RE S T U TL E O N N E O F P I O T L E U B ). (  E N T M T D O N W U I 59EA.   N R  S A B I F E T t A s t e O          G               ]

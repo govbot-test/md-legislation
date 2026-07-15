@@ -1,0 +1,173 @@
+Title: HOUSE BILL 922
+Official Title: HOUSE BILL 922
+Number of Sections: 1
+Source: versions - First - Behavioral Health Administration - Behavioral Health Program Relocation - Regulations
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+J3, J1 6lr2578
+CF 6lr2579
+By: Delegates Hutchinson and Adams
+Introduced and read first time: February 5, 2026
+Assigned to: Health
+A BILL ENTITLED
+1 AN ACT concerning
+2 Behavioral Health Administration – Behavioral Health Program Relocation –
+3 Regulations
+4 FOR the purpose of requiring the Behavioral Health Administration to adopt certain
+5 regulations authorizing an existing behavioral health program to move to relocate to
+6 a new site; and generally relating to the relocation of behavioral health programs.
+7 BY repealing and reenacting, with amendments,
+8 Article – Health – General
+9 Section 7.5–402(a)
+10 Annotated Code of Maryland
+11 (2023 Replacement Volume and 2025 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Health – General
+15 7.5–402.
+16 (a) Regulations adopted under this subtitle shall include:
+17 (1) The requirements for licensure of a behavioral health program,
+18 including a requirement that the behavioral health program:
+19 (i) 1. Establish and implement a safety plan for the safety of the
+20 individuals served by the behavioral health program; or
+21 2. Implement a safety or emergency plan established for the
+22 program for another purpose; and
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0922*
+2 HOUSE BILL 922
+1 (ii) Revise the safety plan not less than every 5 years;
+2 (2) The process for a behavioral health program to apply for a license;
+3 (3) A description of the behavioral health programs that are required to be
+4 licensed;
+5 (4) Any requirements for the governance of a behavioral health program,
+6 including:
+7 (i) A provision prohibiting a conflict of interest between the
+8 interests of the provider and those of the individual receiving services;
+9 (ii) A provision authorizing a behavioral health program licensed as
+10 an outpatient mental health center to satisfy any regulatory requirement that the medical
+11 director be on site through the use of telehealth by the director; and
+12 (iii) A provision authorizing a psychiatric nurse practitioner to serve
+13 as a medical director of an outpatient mental health center accredited in accordance with
+14 COMAR 10.63.03.05, including through telehealth;
+15 (5) Provisions for inspections of a behavioral health program, including
+16 inspection and copying of the records of a behavioral health program in accordance with
+17 State and federal law; [and]
+18 (6) Provisions for denials, sanctions, suspensions, and revocations of
+19 licenses, including imposition of civil monetary penalties, and notice and an opportunity to
+20 be heard; AND
+21 (7) PROVISIONS AUTHORIZING A BEHAVIORAL HEALTH PROGRAM TO
+22 RELOCATE TO ANOTHER SITE, INCLUDING:
+23 (I) A PROVISION PROVIDING AN EXPEDITED APPROVAL
+24 PROCESS FOR THE RELOCATION OF AN EXISTING BEHAVIORAL HEALTH PROGRAM
+25 THAT IS SEPARATE FROM THE APPLICATION PROCESS FOR A NEW BEHAVIORAL
+26 HEALTH PROGRAM;
+27 (II) A PROVISION AUTHORIZING A RELOCATING BEHAVIORAL
+28 HEALTH PROGRAM TO USE DOCUMENTATION PREVIOUSLY SUBMITTED TO THE
+29 ADMINISTRATION IF THE INFORMATION IN THE DOCUMENTATION IS UNCHANGED
+30 OR NOT RELEVANT TO THE PROCESS OF RELOCATING TO A NEW SITE;
+31 (III) A PROVISION AUTHORIZING TEMPORARY APPROVAL FOR A
+32 RELOCATING BEHAVIORAL HEALTH PROGRAM TO BEGIN PRACTICING AT THE NEW
+HOUSE BILL 922 3
+1 SITE ON A DETERMINATION OF THE ADMINISTRATION THAT THE NEW LOCATION
+2 MEETS LIFE SAFETY STANDARDS;
+3 (IV) A PROVISION AUTHORIZING THE ADMINISTRATION TO
+4 CONSIDER THE BEHAVIORAL HEALTH PROGRAM’S REGULATORY RECORD AS A BASIS
+5 FOR STREAMLINING THE RELOCATION REVIEW AND APPROVAL PROCESS; AND
+6 (V) A PROVISION REQUIRING THE ADMINISTRATION TO
+7 PROVIDE CLEAR TIMELINES AND STANDARDS FOR THE RELOCATION REVIEW AND
+8 APPROVAL PROCESS.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2026.
+[DELETED: :CA      6   C A B R F t p o r t B H A t a c r a B  A  S  A  (  S T A 7  ( R   ( T r f l o a b h p i    ( 1 E i     2 I p]
+[DELETED:  H     ( R   ( T   ( A l   ( A i    ( A p p a c o i b t i    ( A a d    ( A a C   ( P f i o a b h p i i S a]   ( P f d s s a r o l b ( E :  ()  P P A E A I S F T A P F A N B  () I P A A R B P T U D P S T T  () I ]
+[DELETED: H 3 O D D N  () AV P A T D TMSS   () A P R T D T   S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 922
+J3, J1 6lr2578
+CF 6lr2579
+By: Delegates Hutchinson and Adams
+Introduced and read first time: February 5, 2026
+Assigned to: Health
+A BILL ENTITLED
+1 AN ACT concerning
+2 Behavioral Health Administration – Behavioral Health Program Relocation –
+3 Regulations
+4 FOR the purpose of requiring the Behavioral Health Administration to adopt certain
+5 regulations authorizing an existing behavioral health program to move to relocate to
+6 a new site; and generally relating to the relocation of behavioral health programs.
+7 BY repealing and reenacting, with amendments,
+8 Article – Health – General
+9 Section 7.5–402(a)
+10 Annotated Code of Maryland
+11 (2023 Replacement Volume and 2025 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Health – General
+15 7.5–402.
+16 (a) Regulations adopted under this subtitle shall include:
+17 (1) The requirements for licensure of a behavioral health program,
+18 including a requirement that the behavioral health program:
+19 (i) 1. Establish and implement a safety plan for the safety of the
+20 individuals served by the behavioral health program; or
+21 2. Implement a safety or emergency plan established for the
+22 program for another purpose; and
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0922*
+
+2 HOUSE BILL 922
+1 (ii) Revise the safety plan not less than every 5 years;
+2 (2) The process for a behavioral health program to apply for a license;
+3 (3) A description of the behavioral health programs that are required to be
+4 licensed;
+5 (4) Any requirements for the governance of a behavioral health program,
+6 including:
+7 (i) A provision prohibiting a conflict of interest between the
+8 interests of the provider and those of the individual receiving services;
+9 (ii) A provision authorizing a behavioral health program licensed as
+10 an outpatient mental health center to satisfy any regulatory requirement that the medical
+11 director be on site through the use of telehealth by the director; and
+12 (iii) A provision authorizing a psychiatric nurse practitioner to serve
+13 as a medical director of an outpatient mental health center accredited in accordance with
+14 COMAR 10.63.03.05, including through telehealth;
+15 (5) Provisions for inspections of a behavioral health program, including
+16 inspection and copying of the records of a behavioral health program in accordance with
+17 State and federal law; [and]
+18 (6) Provisions for denials, sanctions, suspensions, and revocations of
+19 licenses, including imposition of civil monetary penalties, and notice and an opportunity to
+20 be heard; AND
+21 (7) PROVISIONS AUTHORIZING A BEHAVIORAL HEALTH PROGRAM TO
+22 RELOCATE TO ANOTHER SITE, INCLUDING:
+23 (I) A PROVISION PROVIDING AN EXPEDITED APPROVAL
+24 PROCESS FOR THE RELOCATION OF AN EXISTING BEHAVIORAL HEALTH PROGRAM
+25 THAT IS SEPARATE FROM THE APPLICATION PROCESS FOR A NEW BEHAVIORAL
+26 HEALTH PROGRAM;
+27 (II) A PROVISION AUTHORIZING A RELOCATING BEHAVIORAL
+28 HEALTH PROGRAM TO USE DOCUMENTATION PREVIOUSLY SUBMITTED TO THE
+29 ADMINISTRATION IF THE INFORMATION IN THE DOCUMENTATION IS UNCHANGED
+30 OR NOT RELEVANT TO THE PROCESS OF RELOCATING TO A NEW SITE;
+31 (III) A PROVISION AUTHORIZING TEMPORARY APPROVAL FOR A
+32 RELOCATING BEHAVIORAL HEALTH PROGRAM TO BEGIN PRACTICING AT THE NEW
+
+HOUSE BILL 922 3
+1 SITE ON A DETERMINATION OF THE ADMINISTRATION THAT THE NEW LOCATION
+2 MEETS LIFE SAFETY STANDARDS;
+3 (IV) A PROVISION AUTHORIZING THE ADMINISTRATION TO
+4 CONSIDER THE BEHAVIORAL HEALTH PROGRAM’S REGULATORY RECORD AS A BASIS
+5 FOR STREAMLINING THE RELOCATION REVIEW AND APPROVAL PROCESS; AND
+6 (V) A PROVISION REQUIRING THE ADMINISTRATION TO
+7 PROVIDE CLEAR TIMELINES AND STANDARDS FOR THE RELOCATION REVIEW AND
+8 APPROVAL PROCESS.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2026.
+
+[DELETED: :CA      6   C A B R F t p o r t B H A t a c r a B  A  S  A  (  S T A 7  ( R   ( T r f l o a b h p i    ( 1 E i     2 I p]
+[DELETED:  H     ( R   ( T   ( A l   ( A i    ( A p p a c o i b t i    ( A a d    ( A a C   ( P f i o a b h p i i S a]   ( P f d s s a r o l b ( E :  ()  P P A E A I S F T A P F A N B  () I P A A R B P T U D P S T T  () I ]
+[DELETED: H 3 O D D N  () AV P A T D TMSS   () A P R T D T   S A B I F E T t A s t e O]

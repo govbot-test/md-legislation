@@ -1,0 +1,556 @@
+Title: SENATE BILL 656
+Official Title: SENATE BILL 656
+Number of Sections: 1
+Source: versions - Third - Public Health - Cosmetic Products - Enforcement and Penalties for Prohibited Ingredients (Crown and Care Act - Protecting Communities From Harmful Hair Chemicals)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+J1 6lr1813
+CF HB 1533
+By: Senator Henson
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 1, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Public Health – Cosmetic Products – Enforcement and Penalties for Prohibited
+3 Ingredients
+4 (Crown and Care Act – Protecting Communities From Harmful Hair Chemicals)
+5 FOR the purpose of making a violation of certain provisions of law regarding the
+6 manufacture, sale, delivery, holding, or offering for sale certain cosmetic products an
+7 unfair, abusive, or deceptive trade practice; providing that a person who violates the
+8 prohibition on the manufacture, sale, delivery, holding, or offering for sale a cosmetic
+9 product that contains certain ingredients is liable for certain civil damages resulting
+10 from actual harm sustained by an individual; authorizing the Maryland Department
+11 of Health to investigate a complaint alleging that a person included certain
+12 prohibited ingredients in cosmetic products; establishing the Harmful Hair
+13 Chemicals Restitution Fund as a special, nonlapsing fund; requiring that interest
+14 earnings of the Fund remain in the Fund; and generally relating to prohibited
+15 ingredients in cosmetic products.
+16 BY renumbering
+17 Article – Health – General
+18 Section 21–259.3
+19 to be Section 21–259.4
+20 Annotated Code of Maryland
+21 (2023 Replacement Volume and 2025 Supplement)
+22 BY repealing and reenacting, with amendments,
+23 Article – Commercial Law
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0656*
+2 SENATE BILL 656
+1 Section 13–301(14)(xlvii)
+2 Annotated Code of Maryland
+3 (2025 Replacement Volume)
+4 BY repealing and reenacting, without amendments,
+5 Article – Commercial Law
+6 Section 13–301(14)(xlviii)
+7 Annotated Code of Maryland
+8 (2025 Replacement Volume)
+9 BY adding to
+10 Article – Commercial Law
+11 Section 13–301(14)(xlix)
+12 Annotated Code of Maryland
+13 (2025 Replacement Volume)
+14 BY repealing and reenacting, without amendments,
+15 Article – Health – General
+16 Section 21–101(a) and (e)
+17 Annotated Code of Maryland
+18 (2023 Replacement Volume and 2025 Supplement)
+19 BY repealing and reenacting, with amendments,
+20 Article – Health – General
+21 Section 21–259.2
+22 Annotated Code of Maryland
+23 (2023 Replacement Volume and 2025 Supplement)
+24 BY adding to
+25 Article – Health – General
+26 Section 21–259.3
+27 Annotated Code of Maryland
+28 (2023 Replacement Volume and 2025 Supplement)
+29 BY repealing and reenacting, without amendments,
+30 Article – State Finance and Procurement
+31 Section 6–226(a)(2)(i) and (ii)
+32 Annotated Code of Maryland
+33 (2021 Replacement Volume and 2025 Supplement)
+34 BY repealing and reenacting, with amendments,
+35 Article – State Finance and Procurement
+36 Section 6–226(a)(2)(iii)212. and 213.
+37 Annotated Code of Maryland
+38 (2021 Replacement Volume and 2025 Supplement)
+39 BY adding to
+SENATE BILL 656 3
+1 Article – State Finance and Procurement
+2 Section 6–226(a)(2)(iii)214.
+3 Annotated Code of Maryland
+4 (2021 Replacement Volume and 2025 Supplement)
+5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+6 That Section(s) 21–259.3 of Article – Health – General of the Annotated Code of Maryland
+7 be renumbered to be Section(s) 21–259.4.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+9 as follows:
+10 Article – Commercial Law
+11 13–301.
+12 Unfair, abusive, or deceptive trade practices include any:
+13 (14) Violation of a provision of:
+14 (xlvii) Title 14, Subtitle 50 of this article; [or]
+15 (xlviii) Section 13–411.1(c)(2) of the Transportation Article; or
+16 (XLIX) SECTION 21–259.2 OF THE HEALTH – GENERAL
+17 ARTICLE; OR
+18 Article – Health – General
+19 21–101.
+20 (a) In this title the following words have the meanings indicated.
+21 (e) (1) “Cosmetic” means any substance, or any component of a substance, that
+22 is intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or otherwise
+23 applied to the human body for cleansing, beautifying, promoting attractiveness, or altering
+24 appearance.
+25 (2) “Cosmetic” does not include soap.
+26 21–259.2.
+27 (a) In this section:
+28 (1) “Ingredient” means any single chemical entity or mixture used as a
+29 component in the manufacture of a cosmetic product; and
+4 SENATE BILL 656
+1 (2) “Ingredient” does not include an incidental ingredient, as described in
+2 21 C.F.R. § 701.3(l).
+3 (b) Except as provided in subsection (c) of this section, a person may not
+4 knowingly manufacture, sell, deliver, hold, or offer for sale in the State a cosmetic product
+5 that contains any of the following intentionally added ingredients:
+6 (1) Dibutyl phthalate (CAS no. 84–74–2);
+7 (2) Diethylhexyl phthalate (CAS no. 117–81–7);
+8 (3) Formaldehyde (CAS no. 50–00–0);
+9 (4) Paraformaldehyde (CAS no. 30525–89–4);
+10 (5) Methylene glycol (CAS no. 463–57–0);
+11 (6) Quaternium–15 (CAS no. 51229–78–8);
+12 (7) Mercury (CAS no. 7439–97–6);
+13 (8) Isobutylparaben (CAS no. 4247–02–3);
+14 (9) Isopropylparaben (CAS no. 4191–73–5);
+15 (10) m–Phenylenediamine and its salts (CAS no. 108–45–2);
+16 (11) o–Phenylenediamine and its salts (CAS no. 95–54–5); or
+17 (12) The following per– and polyfluoroalkyl substances (PFAS) and their
+18 salts:
+19 (i) Perfluorooctane sulfonate (PFOS) or
+20 heptadecafluorooctane–1–sulfonic acid (CAS no. 1763–23–1);
+21 (ii) Potassium perfluorooctanesulfonate or potassium
+22 heptadecafluorooctane–1–sulfonate (CAS no. 2795–39–3);
+23 (iii) Diethanolamine perfluorooctane sulfonate (CAS no.
+24 70225–14–8);
+25 (iv) Ammonium perfluorooctane sulfonate or ammonium
+26 heptadecafluorooctanesulfonate (CAS no. 29081–56–9);
+27 (v) Lithium perfluorooctane sulfonate or lithium
+28 heptadecafluorooctanesulfonate (CAS no. 29457–72–5);
+SENATE BILL 656 5
+1 (vi) Perfluorooctanoic acid (PFOA) (CAS no. 335–67–1);
+2 (vii) Ammonium pentadecafluorooctanoate (CAS no. 3825–26–1);
+3 (viii) Nonadecafluorodecanoic acid (CAS no. 335–76–2);
+4 (ix) Ammonium nonadecafluorodecanoate (CAS no. 3108–42–7);
+5 (x) Sodium nonadecafluorodecanoate (CAS no. 3830–45–3);
+6 (xi) Perfluorononanoic acid (PFNA) (CAS no. 375–95–1);
+7 (xii) Sodium heptadecafluorononanoate (CAS no. 21049–39–8); or
+8 (xiii) Ammonium perfluorononanoate (CAS no. 4149–60–4).
+9 (c) A person is not in violation of this section if the person manufactures, sells,
+10 delivers, holds, or offers for sale in the State a cosmetic product that:
+11 (1) Was manufactured through a process intended to comply with this
+12 section; and
+13 (2) Contains a technically unavoidable trace quantity of an ingredient
+14 listed in subsection (b) of this section due to:
+15 (i) An impurity of a natural or synthetic ingredient;
+16 (ii) The manufacturing process;
+17 (iii) Storage; or
+18 (iv) Packaging.
+19 (D) (1) IN ADDITION TO ANY OTHER PENALTIES UNDER THIS TITLE, A
+20 PERSON WHO VIOLATES THIS SECTION IS LIABLE FOR CIVIL DAMAGES RESULTING
+21 FROM ACTUAL HARM SUSTAINED BY THE INDIVIDUAL RESULTING FROM THE
+22 VIOLATION.
+23 (2) AN ACTION UNDER THIS SECTION MUST BE BROUGHT WITHIN 3
+24 YEARS AFTER THE DATE ON WHICH THE PLAINTIFF DISCOVERED OR REASONABLY
+25 SHOULD HAVE DISCOVERED THAT THE EXPOSURE TO AN INGREDIENT IN VIOLATION
+26 OF THIS SECTION WAS THE PROXIMATE CAUSE OF THE INJURY SUSTAINED BY THE
+27 PLAINTIFF.
+28 (3) IN ANY ACTION BROUGHT TO ENFORCE THIS SECTION, A COURT
+29 MAY AWARD REASONABLE ATTORNEY’S FEES TO A PREVAILING PLAINTIFF:
+6 SENATE BILL 656
+1 (I) TREBLE DAMAGES;
+2 (II) IF THE VIOLATION WAS WILLFUL, PUNITIVE DAMAGES; AND
+3 (III) REASONABLE ATTORNEY’S FEES.
+4 (E) (1) THE DEPARTMENT MAY INVESTIGATE ANY COMPLAINT ALLEGING
+5 THAT A PERSON HAS VIOLATED THIS SECTION.
+6 (2) ON RECEIPT OF A COMPLAINT, A REPRESENTATIVE OF THE
+7 DEPARTMENT, AT A REASONABLE TIME, MAY ENTER AND INSPECT THE PREMISES OF
+8 THE PERSON LOCATED IN THE STATE TO DETERMINE COMPLIANCE WITH THIS
+9 SECTION.
+10 (3) THE PERSON MAY NOT:
+11 (I) REFUSE TO GRANT ACCESS TO A REPRESENTATIVE WHO
+12 REQUESTS TO ENTER AND INSPECT THE PREMISES OF THE PERSON UNDER
+13 PARAGRAPH (2) OF THIS SUBSECTION; OR
+14 (II) INTERFERE WITH AN INSPECTION UNDER PARAGRAPH (2)
+15 OF THIS SUBSECTION.
+16 (4) AN INVESTIGATION OF A PREMISES OF A PERSON CONDUCTED
+17 UNDER THIS SUBSECTION MAY INCLUDE SAMPLING OF A COSMETIC PRODUCT TO
+18 DETERMINE IF THE COSMETIC PRODUCT CONTAINS A TECHNICALLY UNAVOIDABLE
+19 TRACE QUANTITY OF AN INGREDIENT LISTED IN SUBSECTION (B) OF THIS SECTION.
+20 21–259.3.
+21 (A) IN THIS SECTION, “FUND” MEANS THE HARMFUL HAIR CHEMICAL
+22 RESTITUTION FUND.
+23 (B) THERE IS A HARMFUL HAIR CHEMICAL RESTITUTION FUND.
+24 (C) THE PURPOSE OF THE FUND IS TO SUPPORT THE RESEARCH AND
+25 TREATMENT, INCLUDING SCREENINGS AND DIAGNOSIS, OF FIBROIDS, UTERINE
+26 CANCER, HAIR LOSS, AND RELATED CONDITIONS CAUSED BY HARMFUL HAIR
+27 CHEMICALS.
+28 (D) THE ATTORNEY GENERAL SHALL ADMINISTER THE FUND.
+SENATE BILL 656 7
+1 (E) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+2 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+3 (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY,
+4 AND THE COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+5 (F) THE FUND CONSISTS OF:
+6 (1) ALL FUNDS, EXCLUDING FUNDS RECEIVED BY THE AGGRIEVED
+7 PARTY AND THE COSTS OF THE ACTION THE ATTORNEY GENERAL IS ENTITLED TO
+8 RECOVER, RECEIVED BY THE DIVISION OF CONSUMER PROTECTION IN THE OFFICE
+9 OF THE ATTORNEY GENERAL FROM ENFORCING § 21–259.2 OF THIS SUBTITLE
+10 UNDER THE CONSUMER PROTECTION ACT; AND
+11 (2) INTEREST EARNINGS OF THE FUND.
+12 (G) (1) THE FUND SHALL BE USED FOR:
+13 (I) PROVIDING GRANTS FOR THE SUPPORT OF THE RESEARCH
+14 AND TREATMENT, INCLUDING SCREENINGS AND DIAGNOSIS, OF FIBROIDS, UTERINE
+15 CANCER, HAIR LOSS, AND RELATED CONDITIONS CAUSED BY HARMFUL HAIR
+16 CHEMICALS;
+17 (II) CARRYING OUT ANY LAWS ENACTED TO BENEFIT VICTIMS
+18 OF A VIOLATION OF § 21–259.2 OF THIS SUBTITLE; AND
+19 (III) PROVIDING RESTITUTION TO VICTIMS OF A VIOLATION OF §
+20 21–259.2 OF THIS SUBTITLE.
+21 (2) TO QUALIFY FOR A GRANT FROM THE FUND, AN APPLICANT FOR A
+22 GRANT UNDER PARAGRAPH (1)(I) OF THIS SUBSECTION SHALL BE REQUIRED TO:
+23 (I) FILE A COMPLAINT WITH THE ATTORNEY GENERAL FOR A
+24 VIOLATION OF § 21–259.2 OF THIS SUBTITLE; AND
+25 (II) HAVE SUSTAINED HARM AS A RESULT OF A VIOLATION OF §
+26 21–259.2 OF THIS SUBTITLE.
+27 (H) (1) THE STATE TREASURER SHALL INVEST THE MONEY OF THE FUND
+28 IN THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+29 (2) ANY INTEREST EARNINGS OF THE FUND SHALL BE CREDITED TO
+30 THE FUND.
+8 SENATE BILL 656
+1 (I) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN ACCORDANCE
+2 WITH THE STATE BUDGET.
+3 (J) MONEY EXPENDED FROM THE FUND FOR THE SUPPORT OF RESEARCH
+4 AND TREATMENT UNDER SUBSECTION (G) OF THIS SECTION IS SUPPLEMENTAL TO
+5 AND IS NOT INTENDED TO TAKE THE PLACE OF FUNDING THAT OTHERWISE WOULD
+6 BE APPROPRIATED FOR THE SUPPORT OF RESEARCH AND TREATMENT.
+7 Article – State Finance and Procurement
+8 6–226.
+9 (a) (2) (i) This paragraph does not apply in fiscal years 2024 through 2028.
+10 (ii) Notwithstanding any other provision of law, and unless
+11 inconsistent with a federal law, grant agreement, or other federal requirement or with the
+12 terms of a gift or settlement agreement, net interest on all State money allocated by the
+13 State Treasurer under this section to special funds or accounts, and otherwise entitled to
+14 receive interest earnings, as accounted for by the Comptroller, shall accrue to the General
+15 Fund of the State.
+16 (iii) The provisions of subparagraph (ii) of this paragraph do not
+17 apply to the following funds:
+18 212. the Department of Social and Economic Mobility Special
+19 Fund; [and]
+20 213. the Population Health Improvement Fund; AND
+21 214. THE HARMFUL HAIR CHEMICALS RESTITUTION
+22 FUND.
+23 SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+24 July 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6   C A P I ( F t p o m a v o c p o l r t m u p p f o H t i a c a t a p i c p i i c p e t H H C e o t F r i t F a g r t p i B  A S t  A  ( B  A]
+[DELETED:  S  S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B]
+[DELETED: S 3  A S  A  (  S T b  S a A 1  U   ( V    ( o]    ( S   ) S22H–XE  O T E  E;E  A 2  ( I  ( ( “ i a a   ( “ 2  ( I   ( “ c]
+[DELETED:  S    ( “ 2  ( E a p i s ( o t s a p m n k t   ( D   ( D   ( F   ( P   ( M   ( Q   ( M   ( I   ( I   ( m   ( o   ( T f p p s ( a t s    ( P s ( o h    ( P p o p h    ( D p s ( n 7    ( A p s o a h    ( L p s o l h]
+[DELETED: S 5    ( P    ( A    ( N    ( A    ( S    ( P    ( S    ( A  ( A d   ( W m t a p i t c w t s   ( C a t u t q o a i l    ( A    ( T    ( S    ( P() ( IN A T A O P U T TE A A H S B T I R F T ( A  ( IN YS:]
+[DELETED:  S   () T;R  () I,;IFL S   () R’.IEYS() ( TH E ( O R O A CT A R O T,T E  P L I T T T D C W T ( T:  () E T G A T A R W T E A I T P O T P U  N );  () I(IN  (  I O A P O A P C B ).() I,“F”HHN T SN UD M T A A HF. U() THHCRF.H A A H E U() TH P O T U I T S T R AT I S A DS O FS U,R H LS A R C C B H H() TAGF.H T E U]
+[DELETED: S 7() ( TFH U I A SL N F T I N    T I R R72SFPA. ( TSTF T R T UY O UF.() TF:H U ( A FS E F R B T A T ER  I O R FDCP T T E F E   O T SG§2 O R CT PA; ( IF. U() ( TF:H U  () RT S S ,R H LS A R C C B H H  () IA   E 22;  () PIR 2. ( TF UD  I ():  () FAI T E   E 22;  () HIA 2.() ( TSTH T R U T. ( A U U.]
+[DELETED:  S () EX U T.() MO U G  A 6  ( ( ( T    ( N a o p o l a u i t S r F    ( T p o s ( o t p d n a     2 t F a]     2 t   2 HHC A A H E .  S J          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 656
+J1 6lr1813
+CF HB 1533
+By: Senator Henson
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 1, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Public Health – Cosmetic Products – Enforcement and Penalties for Prohibited
+3 Ingredients
+4 (Crown and Care Act – Protecting Communities From Harmful Hair Chemicals)
+5 FOR the purpose of making a violation of certain provisions of law regarding the
+6 manufacture, sale, delivery, holding, or offering for sale certain cosmetic products an
+7 unfair, abusive, or deceptive trade practice; providing that a person who violates the
+8 prohibition on the manufacture, sale, delivery, holding, or offering for sale a cosmetic
+9 product that contains certain ingredients is liable for certain civil damages resulting
+10 from actual harm sustained by an individual; authorizing the Maryland Department
+11 of Health to investigate a complaint alleging that a person included certain
+12 prohibited ingredients in cosmetic products; establishing the Harmful Hair
+13 Chemicals Restitution Fund as a special, nonlapsing fund; requiring that interest
+14 earnings of the Fund remain in the Fund; and generally relating to prohibited
+15 ingredients in cosmetic products.
+16 BY renumbering
+17 Article – Health – General
+18 Section 21–259.3
+19 to be Section 21–259.4
+20 Annotated Code of Maryland
+21 (2023 Replacement Volume and 2025 Supplement)
+22 BY repealing and reenacting, with amendments,
+23 Article – Commercial Law
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0656*
+
+2 SENATE BILL 656
+1 Section 13–301(14)(xlvii)
+2 Annotated Code of Maryland
+3 (2025 Replacement Volume)
+4 BY repealing and reenacting, without amendments,
+5 Article – Commercial Law
+6 Section 13–301(14)(xlviii)
+7 Annotated Code of Maryland
+8 (2025 Replacement Volume)
+9 BY adding to
+10 Article – Commercial Law
+11 Section 13–301(14)(xlix)
+12 Annotated Code of Maryland
+13 (2025 Replacement Volume)
+14 BY repealing and reenacting, without amendments,
+15 Article – Health – General
+16 Section 21–101(a) and (e)
+17 Annotated Code of Maryland
+18 (2023 Replacement Volume and 2025 Supplement)
+19 BY repealing and reenacting, with amendments,
+20 Article – Health – General
+21 Section 21–259.2
+22 Annotated Code of Maryland
+23 (2023 Replacement Volume and 2025 Supplement)
+24 BY adding to
+25 Article – Health – General
+26 Section 21–259.3
+27 Annotated Code of Maryland
+28 (2023 Replacement Volume and 2025 Supplement)
+29 BY repealing and reenacting, without amendments,
+30 Article – State Finance and Procurement
+31 Section 6–226(a)(2)(i) and (ii)
+32 Annotated Code of Maryland
+33 (2021 Replacement Volume and 2025 Supplement)
+34 BY repealing and reenacting, with amendments,
+35 Article – State Finance and Procurement
+36 Section 6–226(a)(2)(iii)212. and 213.
+37 Annotated Code of Maryland
+38 (2021 Replacement Volume and 2025 Supplement)
+39 BY adding to
+
+SENATE BILL 656 3
+1 Article – State Finance and Procurement
+2 Section 6–226(a)(2)(iii)214.
+3 Annotated Code of Maryland
+4 (2021 Replacement Volume and 2025 Supplement)
+5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+6 That Section(s) 21–259.3 of Article – Health – General of the Annotated Code of Maryland
+7 be renumbered to be Section(s) 21–259.4.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+9 as follows:
+10 Article – Commercial Law
+11 13–301.
+12 Unfair, abusive, or deceptive trade practices include any:
+13 (14) Violation of a provision of:
+14 (xlvii) Title 14, Subtitle 50 of this article; [or]
+15 (xlviii) Section 13–411.1(c)(2) of the Transportation Article; or
+16 (XLIX) SECTION 21–259.2 OF THE HEALTH – GENERAL
+17 ARTICLE; OR
+18 Article – Health – General
+19 21–101.
+20 (a) In this title the following words have the meanings indicated.
+21 (e) (1) “Cosmetic” means any substance, or any component of a substance, that
+22 is intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or otherwise
+23 applied to the human body for cleansing, beautifying, promoting attractiveness, or altering
+24 appearance.
+25 (2) “Cosmetic” does not include soap.
+26 21–259.2.
+27 (a) In this section:
+28 (1) “Ingredient” means any single chemical entity or mixture used as a
+29 component in the manufacture of a cosmetic product; and
+
+4 SENATE BILL 656
+1 (2) “Ingredient” does not include an incidental ingredient, as described in
+2 21 C.F.R. § 701.3(l).
+3 (b) Except as provided in subsection (c) of this section, a person may not
+4 knowingly manufacture, sell, deliver, hold, or offer for sale in the State a cosmetic product
+5 that contains any of the following intentionally added ingredients:
+6 (1) Dibutyl phthalate (CAS no. 84–74–2);
+7 (2) Diethylhexyl phthalate (CAS no. 117–81–7);
+8 (3) Formaldehyde (CAS no. 50–00–0);
+9 (4) Paraformaldehyde (CAS no. 30525–89–4);
+10 (5) Methylene glycol (CAS no. 463–57–0);
+11 (6) Quaternium–15 (CAS no. 51229–78–8);
+12 (7) Mercury (CAS no. 7439–97–6);
+13 (8) Isobutylparaben (CAS no. 4247–02–3);
+14 (9) Isopropylparaben (CAS no. 4191–73–5);
+15 (10) m–Phenylenediamine and its salts (CAS no. 108–45–2);
+16 (11) o–Phenylenediamine and its salts (CAS no. 95–54–5); or
+17 (12) The following per– and polyfluoroalkyl substances (PFAS) and their
+18 salts:
+19 (i) Perfluorooctane sulfonate (PFOS) or
+20 heptadecafluorooctane–1–sulfonic acid (CAS no. 1763–23–1);
+21 (ii) Potassium perfluorooctanesulfonate or potassium
+22 heptadecafluorooctane–1–sulfonate (CAS no. 2795–39–3);
+23 (iii) Diethanolamine perfluorooctane sulfonate (CAS no.
+24 70225–14–8);
+25 (iv) Ammonium perfluorooctane sulfonate or ammonium
+26 heptadecafluorooctanesulfonate (CAS no. 29081–56–9);
+27 (v) Lithium perfluorooctane sulfonate or lithium
+28 heptadecafluorooctanesulfonate (CAS no. 29457–72–5);
+
+SENATE BILL 656 5
+1 (vi) Perfluorooctanoic acid (PFOA) (CAS no. 335–67–1);
+2 (vii) Ammonium pentadecafluorooctanoate (CAS no. 3825–26–1);
+3 (viii) Nonadecafluorodecanoic acid (CAS no. 335–76–2);
+4 (ix) Ammonium nonadecafluorodecanoate (CAS no. 3108–42–7);
+5 (x) Sodium nonadecafluorodecanoate (CAS no. 3830–45–3);
+6 (xi) Perfluorononanoic acid (PFNA) (CAS no. 375–95–1);
+7 (xii) Sodium heptadecafluorononanoate (CAS no. 21049–39–8); or
+8 (xiii) Ammonium perfluorononanoate (CAS no. 4149–60–4).
+9 (c) A person is not in violation of this section if the person manufactures, sells,
+10 delivers, holds, or offers for sale in the State a cosmetic product that:
+11 (1) Was manufactured through a process intended to comply with this
+12 section; and
+13 (2) Contains a technically unavoidable trace quantity of an ingredient
+14 listed in subsection (b) of this section due to:
+15 (i) An impurity of a natural or synthetic ingredient;
+16 (ii) The manufacturing process;
+17 (iii) Storage; or
+18 (iv) Packaging.
+19 (D) (1) IN ADDITION TO ANY OTHER PENALTIES UNDER THIS TITLE, A
+20 PERSON WHO VIOLATES THIS SECTION IS LIABLE FOR CIVIL DAMAGES RESULTING
+21 FROM ACTUAL HARM SUSTAINED BY THE INDIVIDUAL RESULTING FROM THE
+22 VIOLATION.
+23 (2) AN ACTION UNDER THIS SECTION MUST BE BROUGHT WITHIN 3
+24 YEARS AFTER THE DATE ON WHICH THE PLAINTIFF DISCOVERED OR REASONABLY
+25 SHOULD HAVE DISCOVERED THAT THE EXPOSURE TO AN INGREDIENT IN VIOLATION
+26 OF THIS SECTION WAS THE PROXIMATE CAUSE OF THE INJURY SUSTAINED BY THE
+27 PLAINTIFF.
+28 (3) IN ANY ACTION BROUGHT TO ENFORCE THIS SECTION, A COURT
+29 MAY AWARD REASONABLE ATTORNEY’S FEES TO A PREVAILING PLAINTIFF:
+
+6 SENATE BILL 656
+1 (I) TREBLE DAMAGES;
+2 (II) IF THE VIOLATION WAS WILLFUL, PUNITIVE DAMAGES; AND
+3 (III) REASONABLE ATTORNEY’S FEES.
+4 (E) (1) THE DEPARTMENT MAY INVESTIGATE ANY COMPLAINT ALLEGING
+5 THAT A PERSON HAS VIOLATED THIS SECTION.
+6 (2) ON RECEIPT OF A COMPLAINT, A REPRESENTATIVE OF THE
+7 DEPARTMENT, AT A REASONABLE TIME, MAY ENTER AND INSPECT THE PREMISES OF
+8 THE PERSON LOCATED IN THE STATE TO DETERMINE COMPLIANCE WITH THIS
+9 SECTION.
+10 (3) THE PERSON MAY NOT:
+11 (I) REFUSE TO GRANT ACCESS TO A REPRESENTATIVE WHO
+12 REQUESTS TO ENTER AND INSPECT THE PREMISES OF THE PERSON UNDER
+13 PARAGRAPH (2) OF THIS SUBSECTION; OR
+14 (II) INTERFERE WITH AN INSPECTION UNDER PARAGRAPH (2)
+15 OF THIS SUBSECTION.
+16 (4) AN INVESTIGATION OF A PREMISES OF A PERSON CONDUCTED
+17 UNDER THIS SUBSECTION MAY INCLUDE SAMPLING OF A COSMETIC PRODUCT TO
+18 DETERMINE IF THE COSMETIC PRODUCT CONTAINS A TECHNICALLY UNAVOIDABLE
+19 TRACE QUANTITY OF AN INGREDIENT LISTED IN SUBSECTION (B) OF THIS SECTION.
+20 21–259.3.
+21 (A) IN THIS SECTION, “FUND” MEANS THE HARMFUL HAIR CHEMICAL
+22 RESTITUTION FUND.
+23 (B) THERE IS A HARMFUL HAIR CHEMICAL RESTITUTION FUND.
+24 (C) THE PURPOSE OF THE FUND IS TO SUPPORT THE RESEARCH AND
+25 TREATMENT, INCLUDING SCREENINGS AND DIAGNOSIS, OF FIBROIDS, UTERINE
+26 CANCER, HAIR LOSS, AND RELATED CONDITIONS CAUSED BY HARMFUL HAIR
+27 CHEMICALS.
+28 (D) THE ATTORNEY GENERAL SHALL ADMINISTER THE FUND.
+
+SENATE BILL 656 7
+1 (E) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+2 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+3 (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY,
+4 AND THE COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+5 (F) THE FUND CONSISTS OF:
+6 (1) ALL FUNDS, EXCLUDING FUNDS RECEIVED BY THE AGGRIEVED
+7 PARTY AND THE COSTS OF THE ACTION THE ATTORNEY GENERAL IS ENTITLED TO
+8 RECOVER, RECEIVED BY THE DIVISION OF CONSUMER PROTECTION IN THE OFFICE
+9 OF THE ATTORNEY GENERAL FROM ENFORCING § 21–259.2 OF THIS SUBTITLE
+10 UNDER THE CONSUMER PROTECTION ACT; AND
+11 (2) INTEREST EARNINGS OF THE FUND.
+12 (G) (1) THE FUND SHALL BE USED FOR:
+13 (I) PROVIDING GRANTS FOR THE SUPPORT OF THE RESEARCH
+14 AND TREATMENT, INCLUDING SCREENINGS AND DIAGNOSIS, OF FIBROIDS, UTERINE
+15 CANCER, HAIR LOSS, AND RELATED CONDITIONS CAUSED BY HARMFUL HAIR
+16 CHEMICALS;
+17 (II) CARRYING OUT ANY LAWS ENACTED TO BENEFIT VICTIMS
+18 OF A VIOLATION OF § 21–259.2 OF THIS SUBTITLE; AND
+19 (III) PROVIDING RESTITUTION TO VICTIMS OF A VIOLATION OF §
+20 21–259.2 OF THIS SUBTITLE.
+21 (2) TO QUALIFY FOR A GRANT FROM THE FUND, AN APPLICANT FOR A
+22 GRANT UNDER PARAGRAPH (1)(I) OF THIS SUBSECTION SHALL BE REQUIRED TO:
+23 (I) FILE A COMPLAINT WITH THE ATTORNEY GENERAL FOR A
+24 VIOLATION OF § 21–259.2 OF THIS SUBTITLE; AND
+25 (II) HAVE SUSTAINED HARM AS A RESULT OF A VIOLATION OF §
+26 21–259.2 OF THIS SUBTITLE.
+27 (H) (1) THE STATE TREASURER SHALL INVEST THE MONEY OF THE FUND
+28 IN THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+29 (2) ANY INTEREST EARNINGS OF THE FUND SHALL BE CREDITED TO
+30 THE FUND.
+
+8 SENATE BILL 656
+1 (I) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN ACCORDANCE
+2 WITH THE STATE BUDGET.
+3 (J) MONEY EXPENDED FROM THE FUND FOR THE SUPPORT OF RESEARCH
+4 AND TREATMENT UNDER SUBSECTION (G) OF THIS SECTION IS SUPPLEMENTAL TO
+5 AND IS NOT INTENDED TO TAKE THE PLACE OF FUNDING THAT OTHERWISE WOULD
+6 BE APPROPRIATED FOR THE SUPPORT OF RESEARCH AND TREATMENT.
+7 Article – State Finance and Procurement
+8 6–226.
+9 (a) (2) (i) This paragraph does not apply in fiscal years 2024 through 2028.
+10 (ii) Notwithstanding any other provision of law, and unless
+11 inconsistent with a federal law, grant agreement, or other federal requirement or with the
+12 terms of a gift or settlement agreement, net interest on all State money allocated by the
+13 State Treasurer under this section to special funds or accounts, and otherwise entitled to
+14 receive interest earnings, as accounted for by the Comptroller, shall accrue to the General
+15 Fund of the State.
+16 (iii) The provisions of subparagraph (ii) of this paragraph do not
+17 apply to the following funds:
+18 212. the Department of Social and Economic Mobility Special
+19 Fund; [and]
+20 213. the Population Health Improvement Fund; AND
+21 214. THE HARMFUL HAIR CHEMICALS RESTITUTION
+22 FUND.
+23 SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+24 July 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6   C A P I ( F t p o m a v o c p o l r t m u p p f o H t i a c a t a p i c p i i c p e t H H C e o t F r i t F a g r t p i B  A S t  A  ( B  A]
+[DELETED:  S  S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B]
+[DELETED: S 3  A S  A  (  S T b  S a A 1  U   ( V    ( o]    ( S   ) S22H–XE  O T E  E;E  A 2  ( I  ( ( “ i a a   ( “ 2  ( I   ( “ c]
+[DELETED:  S    ( “ 2  ( E a p i s ( o t s a p m n k t   ( D   ( D   ( F   ( P   ( M   ( Q   ( M   ( I   ( I   ( m   ( o   ( T f p p s ( a t s    ( P s ( o h    ( P p o p h    ( D p s ( n 7    ( A p s o a h    ( L p s o l h]
+[DELETED: S 5    ( P    ( A    ( N    ( A    ( S    ( P    ( S    ( A  ( A d   ( W m t a p i t c w t s   ( C a t u t q o a i l    ( A    ( T    ( S    ( P() ( IN A T A O P U T TE A A H S B T I R F T ( A  ( IN YS:]
+[DELETED:  S   () T;R  () I,;IFL S   () R’.IEYS() ( TH E ( O R O A CT A R O T,T E  P L I T T T D C W T ( T:  () E T G A T A R W T E A I T P O T P U  N );  () I(IN  (  I O A P O A P C B ).() I,“F”HHN T SN UD M T A A HF. U() THHCRF.H A A H E U() TH P O T U I T S T R AT I S A DS O FS U,R H LS A R C C B H H() TAGF.H T E U]
+[DELETED: S 7() ( TFH U I A SL N F T I N    T I R R72SFPA. ( TSTF T R T UY O UF.() TF:H U ( A FS E F R B T A T ER  I O R FDCP T T E F E   O T SG§2 O R CT PA; ( IF. U() ( TF:H U  () RT S S ,R H LS A R C C B H H  () IA   E 22;  () PIR 2. ( TF UD  I ():  () FAI T E   E 22;  () HIA 2.() ( TSTH T R U T. ( A U U.]
+[DELETED:  S () EX U T.() MO U G  A 6  ( ( ( T    ( N a o p o l a u i t S r F    ( T p o s ( o t p d n a     2 t F a]     2 t   2 HHC A A H E .  S J          G               ]

@@ -1,0 +1,211 @@
+Title: SENATE BILL 739
+Official Title: SENATE BILL 739
+Number of Sections: 1
+Source: versions - Third - Climate Change, Homeowner's Insurance, and Emergency Management - Study
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+C4, M3 6lr2505
+CF HB 1219
+By: Senator Kramer
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 4, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Climate Change, Homeowner’s Insurance, and Emergency Management – Study
+3 FOR the purpose of requiring the University System of Maryland to conduct a study to
+4 evaluate the relationship between climate change, homeowner’s insurance, and
+5 emergency and disaster preparedness; and generally relating to a study on the
+6 relationship between climate change, homeowner’s insurance, and emergency
+7 management.
+8 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+9 That:
+10 (a) The University System of Maryland shall conduct a study to evaluate the
+11 relationship between climate change, the availability and price of homeowner’s insurance,
+12 and emergency and disaster preparedness.
+13 (b) The University System of Maryland shall conduct the study required under
+14 subsection (a) of this section in coordination with and oversight by:
+15 (1) one member of the Senate of Maryland, appointed by the President of
+16 the Senate;
+17 (2) one member of the House of Delegates, appointed by the Speaker of the
+18 House;
+19 (3) the Department of Natural Resources;
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0739*
+2 SENATE BILL 739
+1 (4) the Department of the Environment;
+2 (5) the Maryland Department of Emergency Management;
+3 (6) the Maryland Insurance Administration;
+4 (7) a County Emergency Manager, appointed by the Maryland Association
+5 of Counties; and
+6 (8) a Municipal Emergency Manager, appointed by the Maryland
+7 Municipal League; and
+8 (9) a representative of the Independent Insurance Agents of Maryland,
+9 designated by the Independent Insurance Agents of Maryland.
+10 (c) The study shall evaluate:
+11 (1) the extent to which climate change has contributed to the decreasing
+12 availability of and increasing costs associated with homeowner’s insurance;
+13 (2) the impact of recent and future changes in federal policies and grant
+14 funding streams related to disaster preparedness, response, recovery, mitigation, and
+15 resilience;
+16 (3) how federal funding has supported emergency management
+17 capabilities across the five emergency management mission areas identified by the Federal
+18 Emergency Management Agency; and
+19 (4) existing local resources or reserve funds available for disaster recovery
+20 needs.
+21 (d) (1) On or before January July 1, 2027, the University System of Maryland
+22 shall submit its findings and recommendations to the General Assembly, in accordance
+23 with § 2–1257 of the State Government Article.
+24 (2) The report required under this subsection shall:
+25 (i) include an overview of the current state of the National Flood
+26 Insurance Program, Community Rating System, and the private flood insurance market;
+27 and
+28 (ii) make recommendations on:
+29 1. how the State can incentivize residents to invest in
+30 improvements to protect homes or mitigate damage from extreme weather events, using:
+SENATE BILL 739 3
+1 A. tax credits;
+2 B. waivers;
+3 C. grants;
+4 D. loans; or
+5 E. free inspections of structural enhancements by municipal
+6 or State officials;
+7 2. potential modifications to the Insurance Article to better
+8 ensure that insurers adequately adjust rates for policyholders who:
+9 A. have invested in improvements that have been proven to
+10 enhance resilience to severe weather; or
+11 B. are located in an area where improvements have been
+12 made to local infrastructure or local building codes that reduce risk to the insured home;
+13 and
+14 3. best practices for funding emergency management
+15 capabilities based on an evaluation of similar practices in other states;
+16 4. potential modifications to § 14–110.5 of the Public Safety
+17 Article;
+18 5. recurring, dedicated funding mechanisms;
+19 6. annual per capita funding levels; and
+20 7. allocation ratios between emergency management
+21 programming, including training and staff, and disaster response funds for recovery
+22 assistance.
+23 (e) Notwithstanding any other provision of law, up to $150,000 of the money in
+24 the Strategic Energy Investment Fund established under § 9–20B–05 of the State
+25 Government Article is authorized to be used by the University System of Maryland to
+26 conduct the study required under subsection (a) of this section.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+28 1, 2026.
+[DELETED: :CA      6   C A C F e t r b c c h i a e a d p a g r t a s o t r b c c h i a e m  S T  ( T U S o M s c a s t t r a  ( T s   ( o t   ( o H   ( t]
+[DELETED:  S    ( t   ( t   ( t   ( a o   ( a M E M a b t M M   ( a r o t I I A o M d  ( T   ( t a   ( t f s r t d p r r m a r   ( h f f h s e m c E   ( e n  ( ( O s w   ( T    ( i I a    ( m     1 h t S c i r t i i i]
+[DELETED: S 3     A t     B w     C g     D l     E f o     2 p e     A h e     B a l i a a w i h b m a     3 b p f f e m c     4 p A     5 r     6 a     7   r b e m p i t a s a d r f f r a  ( N t S E I F e u § 9 o t S G A a t u b t U S o M t c  S 1]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 739
+C4, M3 6lr2505
+CF HB 1219
+By: Senator Kramer
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 4, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Climate Change, Homeowner’s Insurance, and Emergency Management – Study
+3 FOR the purpose of requiring the University System of Maryland to conduct a study to
+4 evaluate the relationship between climate change, homeowner’s insurance, and
+5 emergency and disaster preparedness; and generally relating to a study on the
+6 relationship between climate change, homeowner’s insurance, and emergency
+7 management.
+8 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+9 That:
+10 (a) The University System of Maryland shall conduct a study to evaluate the
+11 relationship between climate change, the availability and price of homeowner’s insurance,
+12 and emergency and disaster preparedness.
+13 (b) The University System of Maryland shall conduct the study required under
+14 subsection (a) of this section in coordination with and oversight by:
+15 (1) one member of the Senate of Maryland, appointed by the President of
+16 the Senate;
+17 (2) one member of the House of Delegates, appointed by the Speaker of the
+18 House;
+19 (3) the Department of Natural Resources;
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0739*
+
+2 SENATE BILL 739
+1 (4) the Department of the Environment;
+2 (5) the Maryland Department of Emergency Management;
+3 (6) the Maryland Insurance Administration;
+4 (7) a County Emergency Manager, appointed by the Maryland Association
+5 of Counties; and
+6 (8) a Municipal Emergency Manager, appointed by the Maryland
+7 Municipal League; and
+8 (9) a representative of the Independent Insurance Agents of Maryland,
+9 designated by the Independent Insurance Agents of Maryland.
+10 (c) The study shall evaluate:
+11 (1) the extent to which climate change has contributed to the decreasing
+12 availability of and increasing costs associated with homeowner’s insurance;
+13 (2) the impact of recent and future changes in federal policies and grant
+14 funding streams related to disaster preparedness, response, recovery, mitigation, and
+15 resilience;
+16 (3) how federal funding has supported emergency management
+17 capabilities across the five emergency management mission areas identified by the Federal
+18 Emergency Management Agency; and
+19 (4) existing local resources or reserve funds available for disaster recovery
+20 needs.
+21 (d) (1) On or before January July 1, 2027, the University System of Maryland
+22 shall submit its findings and recommendations to the General Assembly, in accordance
+23 with § 2–1257 of the State Government Article.
+24 (2) The report required under this subsection shall:
+25 (i) include an overview of the current state of the National Flood
+26 Insurance Program, Community Rating System, and the private flood insurance market;
+27 and
+28 (ii) make recommendations on:
+29 1. how the State can incentivize residents to invest in
+30 improvements to protect homes or mitigate damage from extreme weather events, using:
+
+SENATE BILL 739 3
+1 A. tax credits;
+2 B. waivers;
+3 C. grants;
+4 D. loans; or
+5 E. free inspections of structural enhancements by municipal
+6 or State officials;
+7 2. potential modifications to the Insurance Article to better
+8 ensure that insurers adequately adjust rates for policyholders who:
+9 A. have invested in improvements that have been proven to
+10 enhance resilience to severe weather; or
+11 B. are located in an area where improvements have been
+12 made to local infrastructure or local building codes that reduce risk to the insured home;
+13 and
+14 3. best practices for funding emergency management
+15 capabilities based on an evaluation of similar practices in other states;
+16 4. potential modifications to § 14–110.5 of the Public Safety
+17 Article;
+18 5. recurring, dedicated funding mechanisms;
+19 6. annual per capita funding levels; and
+20 7. allocation ratios between emergency management
+21 programming, including training and staff, and disaster response funds for recovery
+22 assistance.
+23 (e) Notwithstanding any other provision of law, up to $150,000 of the money in
+24 the Strategic Energy Investment Fund established under § 9–20B–05 of the State
+25 Government Article is authorized to be used by the University System of Maryland to
+26 conduct the study required under subsection (a) of this section.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+28 1, 2026.
+
+[DELETED: :CA      6   C A C F e t r b c c h i a e a d p a g r t a s o t r b c c h i a e m  S T  ( T U S o M s c a s t t r a  ( T s   ( o t   ( o H   ( t]
+[DELETED:  S    ( t   ( t   ( t   ( a o   ( a M E M a b t M M   ( a r o t I I A o M d  ( T   ( t a   ( t f s r t d p r r m a r   ( h f f h s e m c E   ( e n  ( ( O s w   ( T    ( i I a    ( m     1 h t S c i r t i i i]
+[DELETED: S 3     A t     B w     C g     D l     E f o     2 p e     A h e     B a l i a a w i h b m a     3 b p f f e m c     4 p A     5 r     6 a     7   r b e m p i t a s a d r f f r a  ( N t S E I F e u § 9 o t S G A a t u b t U S o M t c  S 1]
