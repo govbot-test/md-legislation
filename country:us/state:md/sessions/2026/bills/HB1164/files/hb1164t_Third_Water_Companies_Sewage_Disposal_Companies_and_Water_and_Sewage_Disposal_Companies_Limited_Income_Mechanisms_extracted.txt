@@ -1,0 +1,459 @@
+Title: HOUSE BILL 1164
+Official Title: HOUSE BILL 1164
+Number of Sections: 1
+Source: versions - Third - Water Companies, Sewage Disposal Companies, and Water and Sewage Disposal Companies - Limited-Income Mechanisms
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+C5 6lr2976
+CF SB 556
+By: Delegate Foley
+Introduced and read first time: February 11, 2026
+Assigned to: Environment and Transportation
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Water Companies, Sewage Disposal Companies, and Water and Sewage Disposal
+3 Companies – Rate Consolidation and Limited–Income Mechanisms
+4 FOR the purpose of requiring the Public Service Commission to authorize certain rate
+5 consolidations involving two or more water systems or sewage disposal systems;
+6 requiring the Commission to allow water companies, sewage disposal companies, and
+7 water and sewage disposal companies to aggregate certain revenues and costs for
+8 certain purposes; authorizing the Commission to order gradual adjustments to
+9 certain rates charged to a system over a certain time period; applying certain
+10 provisions of law regarding limited–income mechanisms to water companies, sewage
+11 disposal companies, and water and sewage disposal companies; requiring the Public
+12 Service Commission to study the feasibility of requiring certain companies to adopt
+13 a limited–income mechanism to benefit limited–income customers; and generally
+14 relating to water companies, sewage disposal companies, and water and sewage
+15 disposal companies.
+16 BY repealing and reenacting, without amendments,
+17 Article – Public Utilities
+18 Section 1–101(a), (z), (gg), and (uu) and 4–309(d)
+19 Annotated Code of Maryland
+20 (2025 Replacement Volume and 2025 Supplement)
+21 BY repealing and reenacting, with amendments,
+22 Article – Public Utilities
+23 Section 4–307 and 4–309(a) and (e) 4–309
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1164*
+2 HOUSE BILL 1164
+1 Annotated Code of Maryland
+2 (2025 Replacement Volume and 2025 Supplement)
+3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+4 That the Laws of Maryland read as follows:
+5 Article – Public Utilities
+6 1–101.
+7 (a) In this division the following words have the meanings indicated.
+8 (z) (1) “Public service company” means a common carrier company, electric
+9 company, gas company, sewage disposal company, telegraph company, telephone company,
+10 water company, or any combination of public service companies.
+11 (2) “Public service company” does not include:
+12 (i) a campground that provides water, electric, gas, sewage, or
+13 telephone service to campers incident to the campground’s primary business of operating
+14 and maintaining the campground; or
+15 (ii) a person that owns or operates equipment used for charging
+16 electric vehicles, including a person that owns or operates:
+17 1. an electric vehicle charging station;
+18 2. electric vehicle supply equipment; or
+19 3. an electric vehicle charging station service company or
+20 provider.
+21 (gg) “Sewage disposal company” means a privately owned public service company
+22 that owns or maintains facilities for the disposal of sewage.
+23 (uu) “Water company” means a public service company that owns a water plant
+24 and sells or distributes water for gain.
+25 4–307.
+26 (a) (1) In this section[, rate] THE FOLLOWING WORDS HAVE THE MEANINGS
+27 INDICATED.
+28 (2) “RATE consolidation” means the use of the same or similar rates or
+29 tariff schedules of rates for customers of the same class for two or more water or sewage
+30 disposal systems even if the systems are not physically interconnected.
+HOUSE BILL 1164 3
+1 (3) “RATES” INCLUDES FIXED RATES, VOLUMETRIC RATES, TOLLS,
+2 CHARGES, AND SCHEDULES.
+3 (4) “SYSTEM” MEANS AN INTERCONNECTED SYSTEM OF FACILITIES
+4 USED BY A WATER COMPANY, SEWAGE DISPOSAL COMPANY, OR WATER AND SEWAGE
+5 DISPOSAL COMPANY TO PROVIDE WATER OR SEWAGE DISPOSAL SERVICES.
+6 [(b) After notice to customers and holding a public hearing and an evidentiary
+7 hearing, the Commission may authorize a rate consolidation of two or more water or sewage
+8 disposal systems if:
+9 (1) the water or sewage disposal systems have common ownership; and
+10 (2) the rate consolidation is in the public interest.]
+11 (B) THIS SECTION APPLIES ONLY TO PUBLIC SERVICE COMPANIES THAT
+12 ARE WATER COMPANIES, SEWAGE DISPOSAL COMPANIES, OR WATER AND SEWAGE
+13 DISPOSAL COMPANIES.
+14 (C) THE COMMISSION SHALL AUTHORIZE A RATE CONSOLIDATION
+15 PROPOSED BY A PUBLIC SERVICE COMPANY IN A BASE RATE PROCEEDING UNDER §
+16 4–203 OF THIS TITLE INVOLVING TWO OR MORE WATER SYSTEMS OR SEWAGE
+17 DISPOSAL SYSTEMS.
+18 (D) WHEN AUTHORIZING RATE CONSOLIDATION UNDER SUBSECTION (C) OF
+19 THIS SECTION, THE COMMISSION:
+20 (1) SHALL ALLOW THE PUBLIC SERVICE COMPANY TO AGGREGATE
+21 THE REVENUES AND COSTS OF THE WATER SYSTEMS AND SEWAGE DISPOSAL
+22 SYSTEMS FOR PURPOSES OF DETERMINING APPROPRIATE RATES FOR THE SYSTEMS’
+23 CUSTOMERS; AND
+24 (2) MAY ORDER GRADUAL ADJUSTMENTS TO THE RATES CHARGED TO
+25 A SYSTEM OVER A PERIOD NOT TO EXCEED 3 YEARS UNTIL FULL RATE
+26 CONSOLIDATION IS ACHIEVED.
+27 (E) THE COMMISSION:
+28 (1) MAY NOT DISAPPROVE A RATE CONSOLIDATION PROPOSAL UNDER
+29 THIS SECTION; AND
+30 (2) MAY CONDITION THE AUTHORIZATION OF A RATE CONSOLIDATION
+31 PROPOSAL ONLY AS PROVIDED IN SUBSECTION (D)(2) OF THIS SECTION.
+4 HOUSE BILL 1164
+1 (F) AFTER THE COMMISSION HAS AUTHORIZED A RATE CONSOLIDATION
+2 PROPOSAL UNDER THIS SECTION, THE COMMISSION SHALL CONTINUE TO
+3 AUTHORIZE AND MAINTAIN THE RATE CONSOLIDATION IN SUBSEQUENT ORDERS ON
+4 APPLICATIONS OF THE PUBLIC SERVICE COMPANY UNDER § 4–203 OF THIS TITLE.
+5 4–309.
+6 (a) (1) In this section the following words have the meanings indicated.
+7 (2) “Eligible limited–income customer” means a residential customer of a
+8 utility company with annual income that:
+9 (i) 1. is at or below 175% of the federal poverty level; or
+10 2. for a customer at least 67 years of age, is at or below 200%
+11 of the federal poverty level; or
+12 (ii) meets a broader designation approved by the Commission.
+13 (3) “Limited–income mechanism” or “mechanism” means a process
+14 approved by the Commission under this section to benefit an eligible limited–income
+15 customer of a utility company.
+16 (4) “Payment plan” means an agreement between an eligible
+17 limited–income customer and a utility company to pay an arrearage balance over a specific
+18 period of time to avoid disconnection of a utility service.
+19 (5) (i) “Utility company” means:
+20 1. an electric company[,];
+21 2. a gas and electric company[, or];
+22 3. a gas company;
+23 4. A WATER COMPANY;
+24 5. A WATER AND SEWAGE DISPOSAL COMPANY; OR
+25 6. A SEWAGE DISPOSAL COMPANY.
+26 (ii) “Utility company” does not include a small rural electric
+27 cooperative.
+HOUSE BILL 1164 5
+1 (b) The General Assembly finds and declares that the societal benefits of a
+2 well–constructed limited–income mechanism to benefit Maryland’s eligible limited–income
+3 customers are in the public interest.
+4 (c) (1) Subject to the approval of the Commission, a utility company shall
+5 adopt a limited–income mechanism to benefit an eligible limited–income customer.
+6 (2) Notwithstanding § 4–503(b) of this title, the mechanism may take the
+7 form of a program, tariff provision, credit, rate, rider, or other means to assist an eligible
+8 limited–income customer to afford a utility service.
+9 (3) A municipal electric utility may adopt a limited–income mechanism
+10 subject to the approval of the Commission in the same manner as a utility company in
+11 accordance with this section.
+12 (d) (1) A utility company that proposes a limited–income mechanism for
+13 Commission approval under subsection (c) of this section shall include the proposal in:
+14 (i) a separate application for approval of the mechanism; or
+15 (ii) only with the prior approval of the Commission, an application
+16 for a base rate proceeding, including an alternative rate proceeding, or any other proceeding
+17 to alter the utility company’s base rates under the authority of the Commission.
+18 (2) A proposal submitted under this section shall allocate the prudently
+19 incurred costs of the limited–income mechanism across rate classes.
+20 (3) The proposal shall include:
+21 (i) a detailed description of the proposed mechanism;
+22 (ii) the proposed method for allocating the mechanism’s costs across
+23 customer classes;
+24 (iii) the rationale supporting the utility company’s proposal for a
+25 mechanism to benefit the eligible limited–income customers in the utility company’s service
+26 territory;
+27 (iv) a time frame and process for the Commission to review the
+28 effectiveness of the mechanism after implementation; and
+29 (v) any other information the Commission considers necessary or
+30 useful to evaluate the proposal.
+31 (e) In evaluating a limited–income mechanism, the Commission shall consider:
+6 HOUSE BILL 1164
+1 (1) the degree to which the mechanism promotes affordability of WATER,
+2 SEWAGE DISPOSAL, electricity, or natural gas for limited–income customers;
+3 (2) the public interest in allocating the costs of the mechanism between the
+4 utility company’s shareholders and rate payers;
+5 (3) the impact on rates, utility operating costs, customer arrearages,
+6 customer disconnections, uncollectible costs, and successful completion of payment plans;
+7 (4) the ability of a limited–income customer to continue to receive benefits
+8 when relocating within the same service territory;
+9 (5) coordination of benefits under the mechanism with any other public or
+10 private assistance that may be available to the customer;
+11 (6) a minimum level of support or assistance structure to provide equitable
+12 availability of limited–income assistance across the State; and
+13 (7) any other information the Commission considers appropriate.
+14 (f) If an approved limited–income mechanism requires that the Office of Home
+15 Energy Programs must certify an eligible limited–income customer’s qualifications to
+16 participate in a limited–income mechanism, the Office shall certify an eligible
+17 limited–income customer’s qualifications before the customer may participate in the
+18 mechanism.
+19 (g) An eligible limited–income customer who participates in a mechanism under
+20 this section may also be eligible for other assistance programs offered in the State,
+21 including those offered by a utility company or the Office of Home Energy Programs, the
+22 Department of Housing and Community Development, or any other public or private
+23 source.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That:
+25 (a) (1) In this section the following words have the meanings indicated.
+26 (2) “Eligible limited–income customer” and “limited–income mechanism”
+27 have the meanings stated in § 4–309 of the Public Utilities Article.
+28 (3) “Sewage disposal company” and “water company” have the meanings
+29 stated in § 1–101 of the Public Utilities Article.
+30 (b) The Public Service Commission shall study the feasibility of requiring the
+31 following companies to adopt a limited–income mechanism to benefit eligible
+32 limited–income customers:
+33 (1) a water company;
+HOUSE BILL 1164 7
+1 (2) a water and sewage disposal company; and
+2 (3) a sewage disposal company.
+3 (c) On or before December 1, 2026, the Public Service Commission shall report its
+4 findings to the Governor and, in accordance with § 2–1257 of the State Government Article,
+5 the General Assembly.
+6 SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take
+7 effect July 1, 2027.
+8 SECTION 2. 4. AND BE IT FURTHER ENACTED, That, except as provided in
+9 Section 3 of this Act, this Act shall take effect July 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      6   C A W C F r c i t o m w s o s d s r w c p a t C t o g a t c r c t a s o a c t p a c p d S a r t w c s d c a w a s d B  A S  A  ( B  A S]
+[DELETED:  H   A  (  S T A 1  ( I  ( ( “ c w   ( “    ( a c t p w e g s o t a    ( a p t o o o e u f c e     1 a     2 e     3 a e v c s s c o p  ( “ t  ( “ a 4  ( In, [ ( “   t d]
+[DELETED: H 3   “R”,,S I F RS V RS TSS S. ( “SM Y Y [ ()A h d   ( t   ( t()H S A O T P S C T S S () TH O S A A R C O T T I T O M W S O SS() W(H C N  OC: ( A T P S C T A R A C O T W S A S DSS  ( S O A P N T E  Y U F RD() TC:H O (N  ( D N)).]
+[DELETED:  H () AF T O H A A R C U T SN T O S C T   E43. 4  ( ( I   ( “ u    ( 1 i     2 f o    ( m   ( “ m o “ m a p a b t C u t s t b a e l c   ( “ p m a a b a e l p   ( ( “s      ay,  []      ay,r .[]     a ;   4 ;Y   5 ;Y    6 .    ( “ c d n i a s r e c]
+[DELETED: H 5  ( T G A f a d t t s b o a w c  ( ( S t t a o t C a u c s a   ( N f l   ( A m e m a a l m s a  ( ( A u c t p a l m f C    ( a    ( o f t   ( A i   ( T    ( a    ( t c    ( t r s t u c p f a m t    ( a t f a p f t C t r t e    ( a o i t C c n o u  ( I]
+[DELETED:  H    ( tRL ey    ( t u   ( t i o r u o c c a c   ( t w   ( c p   ( a a   ( a  ( I E P m c a e l c q t p i a l m t O s c a e l c q b t c m p i t m  ( A t s m a b e f o a p o i t S i D o H a C D o a o p o p s  S  ( ( I   ( “ h   ( “ s  ( T f c t a a l m t b e l   ( a]
+[DELETED: H 7   ( a   ( a  ( O f t  S e  S 2 4 A B I F E T e a p i S          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1164
+C5 6lr2976
+CF SB 556
+By: Delegate Foley
+Introduced and read first time: February 11, 2026
+Assigned to: Environment and Transportation
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Water Companies, Sewage Disposal Companies, and Water and Sewage Disposal
+3 Companies – Rate Consolidation and Limited–Income Mechanisms
+4 FOR the purpose of requiring the Public Service Commission to authorize certain rate
+5 consolidations involving two or more water systems or sewage disposal systems;
+6 requiring the Commission to allow water companies, sewage disposal companies, and
+7 water and sewage disposal companies to aggregate certain revenues and costs for
+8 certain purposes; authorizing the Commission to order gradual adjustments to
+9 certain rates charged to a system over a certain time period; applying certain
+10 provisions of law regarding limited–income mechanisms to water companies, sewage
+11 disposal companies, and water and sewage disposal companies; requiring the Public
+12 Service Commission to study the feasibility of requiring certain companies to adopt
+13 a limited–income mechanism to benefit limited–income customers; and generally
+14 relating to water companies, sewage disposal companies, and water and sewage
+15 disposal companies.
+16 BY repealing and reenacting, without amendments,
+17 Article – Public Utilities
+18 Section 1–101(a), (z), (gg), and (uu) and 4–309(d)
+19 Annotated Code of Maryland
+20 (2025 Replacement Volume and 2025 Supplement)
+21 BY repealing and reenacting, with amendments,
+22 Article – Public Utilities
+23 Section 4–307 and 4–309(a) and (e) 4–309
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1164*
+
+2 HOUSE BILL 1164
+1 Annotated Code of Maryland
+2 (2025 Replacement Volume and 2025 Supplement)
+3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+4 That the Laws of Maryland read as follows:
+5 Article – Public Utilities
+6 1–101.
+7 (a) In this division the following words have the meanings indicated.
+8 (z) (1) “Public service company” means a common carrier company, electric
+9 company, gas company, sewage disposal company, telegraph company, telephone company,
+10 water company, or any combination of public service companies.
+11 (2) “Public service company” does not include:
+12 (i) a campground that provides water, electric, gas, sewage, or
+13 telephone service to campers incident to the campground’s primary business of operating
+14 and maintaining the campground; or
+15 (ii) a person that owns or operates equipment used for charging
+16 electric vehicles, including a person that owns or operates:
+17 1. an electric vehicle charging station;
+18 2. electric vehicle supply equipment; or
+19 3. an electric vehicle charging station service company or
+20 provider.
+21 (gg) “Sewage disposal company” means a privately owned public service company
+22 that owns or maintains facilities for the disposal of sewage.
+23 (uu) “Water company” means a public service company that owns a water plant
+24 and sells or distributes water for gain.
+25 4–307.
+26 (a) (1) In this section[, rate] THE FOLLOWING WORDS HAVE THE MEANINGS
+27 INDICATED.
+28 (2) “RATE consolidation” means the use of the same or similar rates or
+29 tariff schedules of rates for customers of the same class for two or more water or sewage
+30 disposal systems even if the systems are not physically interconnected.
+
+HOUSE BILL 1164 3
+1 (3) “RATES” INCLUDES FIXED RATES, VOLUMETRIC RATES, TOLLS,
+2 CHARGES, AND SCHEDULES.
+3 (4) “SYSTEM” MEANS AN INTERCONNECTED SYSTEM OF FACILITIES
+4 USED BY A WATER COMPANY, SEWAGE DISPOSAL COMPANY, OR WATER AND SEWAGE
+5 DISPOSAL COMPANY TO PROVIDE WATER OR SEWAGE DISPOSAL SERVICES.
+6 [(b) After notice to customers and holding a public hearing and an evidentiary
+7 hearing, the Commission may authorize a rate consolidation of two or more water or sewage
+8 disposal systems if:
+9 (1) the water or sewage disposal systems have common ownership; and
+10 (2) the rate consolidation is in the public interest.]
+11 (B) THIS SECTION APPLIES ONLY TO PUBLIC SERVICE COMPANIES THAT
+12 ARE WATER COMPANIES, SEWAGE DISPOSAL COMPANIES, OR WATER AND SEWAGE
+13 DISPOSAL COMPANIES.
+14 (C) THE COMMISSION SHALL AUTHORIZE A RATE CONSOLIDATION
+15 PROPOSED BY A PUBLIC SERVICE COMPANY IN A BASE RATE PROCEEDING UNDER §
+16 4–203 OF THIS TITLE INVOLVING TWO OR MORE WATER SYSTEMS OR SEWAGE
+17 DISPOSAL SYSTEMS.
+18 (D) WHEN AUTHORIZING RATE CONSOLIDATION UNDER SUBSECTION (C) OF
+19 THIS SECTION, THE COMMISSION:
+20 (1) SHALL ALLOW THE PUBLIC SERVICE COMPANY TO AGGREGATE
+21 THE REVENUES AND COSTS OF THE WATER SYSTEMS AND SEWAGE DISPOSAL
+22 SYSTEMS FOR PURPOSES OF DETERMINING APPROPRIATE RATES FOR THE SYSTEMS’
+23 CUSTOMERS; AND
+24 (2) MAY ORDER GRADUAL ADJUSTMENTS TO THE RATES CHARGED TO
+25 A SYSTEM OVER A PERIOD NOT TO EXCEED 3 YEARS UNTIL FULL RATE
+26 CONSOLIDATION IS ACHIEVED.
+27 (E) THE COMMISSION:
+28 (1) MAY NOT DISAPPROVE A RATE CONSOLIDATION PROPOSAL UNDER
+29 THIS SECTION; AND
+30 (2) MAY CONDITION THE AUTHORIZATION OF A RATE CONSOLIDATION
+31 PROPOSAL ONLY AS PROVIDED IN SUBSECTION (D)(2) OF THIS SECTION.
+
+4 HOUSE BILL 1164
+1 (F) AFTER THE COMMISSION HAS AUTHORIZED A RATE CONSOLIDATION
+2 PROPOSAL UNDER THIS SECTION, THE COMMISSION SHALL CONTINUE TO
+3 AUTHORIZE AND MAINTAIN THE RATE CONSOLIDATION IN SUBSEQUENT ORDERS ON
+4 APPLICATIONS OF THE PUBLIC SERVICE COMPANY UNDER § 4–203 OF THIS TITLE.
+5 4–309.
+6 (a) (1) In this section the following words have the meanings indicated.
+7 (2) “Eligible limited–income customer” means a residential customer of a
+8 utility company with annual income that:
+9 (i) 1. is at or below 175% of the federal poverty level; or
+10 2. for a customer at least 67 years of age, is at or below 200%
+11 of the federal poverty level; or
+12 (ii) meets a broader designation approved by the Commission.
+13 (3) “Limited–income mechanism” or “mechanism” means a process
+14 approved by the Commission under this section to benefit an eligible limited–income
+15 customer of a utility company.
+16 (4) “Payment plan” means an agreement between an eligible
+17 limited–income customer and a utility company to pay an arrearage balance over a specific
+18 period of time to avoid disconnection of a utility service.
+19 (5) (i) “Utility company” means:
+20 1. an electric company[,];
+21 2. a gas and electric company[, or];
+22 3. a gas company;
+23 4. A WATER COMPANY;
+24 5. A WATER AND SEWAGE DISPOSAL COMPANY; OR
+25 6. A SEWAGE DISPOSAL COMPANY.
+26 (ii) “Utility company” does not include a small rural electric
+27 cooperative.
+
+HOUSE BILL 1164 5
+1 (b) The General Assembly finds and declares that the societal benefits of a
+2 well–constructed limited–income mechanism to benefit Maryland’s eligible limited–income
+3 customers are in the public interest.
+4 (c) (1) Subject to the approval of the Commission, a utility company shall
+5 adopt a limited–income mechanism to benefit an eligible limited–income customer.
+6 (2) Notwithstanding § 4–503(b) of this title, the mechanism may take the
+7 form of a program, tariff provision, credit, rate, rider, or other means to assist an eligible
+8 limited–income customer to afford a utility service.
+9 (3) A municipal electric utility may adopt a limited–income mechanism
+10 subject to the approval of the Commission in the same manner as a utility company in
+11 accordance with this section.
+12 (d) (1) A utility company that proposes a limited–income mechanism for
+13 Commission approval under subsection (c) of this section shall include the proposal in:
+14 (i) a separate application for approval of the mechanism; or
+15 (ii) only with the prior approval of the Commission, an application
+16 for a base rate proceeding, including an alternative rate proceeding, or any other proceeding
+17 to alter the utility company’s base rates under the authority of the Commission.
+18 (2) A proposal submitted under this section shall allocate the prudently
+19 incurred costs of the limited–income mechanism across rate classes.
+20 (3) The proposal shall include:
+21 (i) a detailed description of the proposed mechanism;
+22 (ii) the proposed method for allocating the mechanism’s costs across
+23 customer classes;
+24 (iii) the rationale supporting the utility company’s proposal for a
+25 mechanism to benefit the eligible limited–income customers in the utility company’s service
+26 territory;
+27 (iv) a time frame and process for the Commission to review the
+28 effectiveness of the mechanism after implementation; and
+29 (v) any other information the Commission considers necessary or
+30 useful to evaluate the proposal.
+31 (e) In evaluating a limited–income mechanism, the Commission shall consider:
+
+6 HOUSE BILL 1164
+1 (1) the degree to which the mechanism promotes affordability of WATER,
+2 SEWAGE DISPOSAL, electricity, or natural gas for limited–income customers;
+3 (2) the public interest in allocating the costs of the mechanism between the
+4 utility company’s shareholders and rate payers;
+5 (3) the impact on rates, utility operating costs, customer arrearages,
+6 customer disconnections, uncollectible costs, and successful completion of payment plans;
+7 (4) the ability of a limited–income customer to continue to receive benefits
+8 when relocating within the same service territory;
+9 (5) coordination of benefits under the mechanism with any other public or
+10 private assistance that may be available to the customer;
+11 (6) a minimum level of support or assistance structure to provide equitable
+12 availability of limited–income assistance across the State; and
+13 (7) any other information the Commission considers appropriate.
+14 (f) If an approved limited–income mechanism requires that the Office of Home
+15 Energy Programs must certify an eligible limited–income customer’s qualifications to
+16 participate in a limited–income mechanism, the Office shall certify an eligible
+17 limited–income customer’s qualifications before the customer may participate in the
+18 mechanism.
+19 (g) An eligible limited–income customer who participates in a mechanism under
+20 this section may also be eligible for other assistance programs offered in the State,
+21 including those offered by a utility company or the Office of Home Energy Programs, the
+22 Department of Housing and Community Development, or any other public or private
+23 source.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That:
+25 (a) (1) In this section the following words have the meanings indicated.
+26 (2) “Eligible limited–income customer” and “limited–income mechanism”
+27 have the meanings stated in § 4–309 of the Public Utilities Article.
+28 (3) “Sewage disposal company” and “water company” have the meanings
+29 stated in § 1–101 of the Public Utilities Article.
+30 (b) The Public Service Commission shall study the feasibility of requiring the
+31 following companies to adopt a limited–income mechanism to benefit eligible
+32 limited–income customers:
+33 (1) a water company;
+
+HOUSE BILL 1164 7
+1 (2) a water and sewage disposal company; and
+2 (3) a sewage disposal company.
+3 (c) On or before December 1, 2026, the Public Service Commission shall report its
+4 findings to the Governor and, in accordance with § 2–1257 of the State Government Article,
+5 the General Assembly.
+6 SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take
+7 effect July 1, 2027.
+8 SECTION 2. 4. AND BE IT FURTHER ENACTED, That, except as provided in
+9 Section 3 of this Act, this Act shall take effect July 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      6   C A W C F r c i t o m w s o s d s r w c p a t C t o g a t c r c t a s o a c t p a c p d S a r t w c s d c a w a s d B  A S  A  ( B  A S]
+[DELETED:  H   A  (  S T A 1  ( I  ( ( “ c w   ( “    ( a c t p w e g s o t a    ( a p t o o o e u f c e     1 a     2 e     3 a e v c s s c o p  ( “ t  ( “ a 4  ( In, [ ( “   t d]
+[DELETED: H 3   “R”,,S I F RS V RS TSS S. ( “SM Y Y [ ()A h d   ( t   ( t()H S A O T P S C T S S () TH O S A A R C O T T I T O M W S O SS() W(H C N  OC: ( A T P S C T A R A C O T W S A S DSS  ( S O A P N T E  Y U F RD() TC:H O (N  ( D N)).]
+[DELETED:  H () AF T O H A A R C U T SN T O S C T   E43. 4  ( ( I   ( “ u    ( 1 i     2 f o    ( m   ( “ m o “ m a p a b t C u t s t b a e l c   ( “ p m a a b a e l p   ( ( “s      ay,  []      ay,r .[]     a ;   4 ;Y   5 ;Y    6 .    ( “ c d n i a s r e c]
+[DELETED: H 5  ( T G A f a d t t s b o a w c  ( ( S t t a o t C a u c s a   ( N f l   ( A m e m a a l m s a  ( ( A u c t p a l m f C    ( a    ( o f t   ( A i   ( T    ( a    ( t c    ( t r s t u c p f a m t    ( a t f a p f t C t r t e    ( a o i t C c n o u  ( I]
+[DELETED:  H    ( tRL ey    ( t u   ( t i o r u o c c a c   ( t w   ( c p   ( a a   ( a  ( I E P m c a e l c q t p i a l m t O s c a e l c q b t c m p i t m  ( A t s m a b e f o a p o i t S i D o H a C D o a o p o p s  S  ( ( I   ( “ h   ( “ s  ( T f c t a a l m t b e l   ( a]
+[DELETED: H 7   ( a   ( a  ( O f t  S e  S 2 4 A B I F E T e a p i S          G               ]

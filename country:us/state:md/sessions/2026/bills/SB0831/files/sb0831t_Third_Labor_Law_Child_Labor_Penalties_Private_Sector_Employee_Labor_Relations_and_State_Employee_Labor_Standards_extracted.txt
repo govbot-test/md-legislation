@@ -1,0 +1,1058 @@
+Title: SENATE BILL 831
+Official Title: SENATE BILL 831
+Number of Sections: 1
+Source: versions - Third - Labor Law - Child Labor Penalties, Private Sector Employee Labor Relations, and State Employee Labor Standards
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+K3 6lr2729
+CF HB 1480
+By: Senator Ferguson
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 6, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Labor Law – Child Labor Penalties, Private Sector Employee Labor Relations,
+3 and State Employee Labor Standards
+4 FOR the purpose of establishing certain civil penalties for violations of law involving the
+5 employment of minors; prohibiting employers in the State from allowing the
+6 formation of a certain organization or entity that is expressly exempt from or not
+7 subject to the federal National Labor Relations Act or the jurisdiction of the National
+8 Labor Relations Board; authorizing certain private employees to petition the Public
+9 Employee Relations Board to resolve certain matters under certain circumstances;
+10 authorizing the Public Employee Relations Board to resolve the petitions of private
+11 employees in a certain manner; prohibiting a unit of State government in the
+12 Executive Branch from applying to the federal government for a waiver of any
+13 applicable provision of the federal Fair Labor Standards Act; requiring the Maryland
+14 Department of Labor to monitor certain action by the federal government for a
+15 certain purpose; and generally relating to labor protections for minors, private
+16 employees, and State employees.
+17 BY repealing and reenacting, without amendments,
+18 Article – Labor and Employment
+19 Section 3–213 and 3–216
+20 Annotated Code of Maryland
+21 (2025 Replacement Volume)
+22 BY adding to
+23 Article – Labor and Employment
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0831*
+2 SENATE BILL 831
+1 Section 3–217 and 4–406
+2 Annotated Code of Maryland
+3 (2025 Replacement Volume)
+4 BY repealing and reenacting, with amendments,
+5 Article – State Personnel and Pensions
+6 Section 2–201
+7 Annotated Code of Maryland
+8 (2024 Replacement Volume and 2025 Supplement)
+9 BY repealing and reenacting, with amendments,
+10 Article – State Government
+11 Section 22–101
+12 Annotated Code of Maryland
+13 (2021 Replacement Volume and 2025 Supplement)
+14 BY adding to
+15 Article – State Government
+16 Section 22–2A–01 through 22–2A–04 to be under the new subtitle “Subtitle 2A.
+17 Private Employees”
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2025 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – State Personnel and Pensions
+22 Section 2–201
+23 Annotated Code of Maryland
+24 (2024 Replacement Volume and 2025 Supplement)
+25 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+26 That the Laws of Maryland read as follows:
+27 Article – Labor and Employment
+28 3–213.
+29 (a) Except as otherwise provided in this subtitle, a minor may not be employed or
+30 allowed to work:
+31 (1) in, about, or in connection with the manufacturing of a hazardous
+32 substance;
+33 (2) in, about, or in connection with:
+34 (i) a blast furnace;
+SENATE BILL 831 3
+1 (ii) a distillery where an alcoholic beverage is manufactured, bottled,
+2 wrapped, or packed;
+3 (iii) a railroad;
+4 (iv) an engineer, firefighter, or pilot on a vessel that is engaged in
+5 commerce; or
+6 (v) a dock or wharf other than a marina where pleasure vessels are
+7 sold or served; or
+8 (3) in, about, or in connection with:
+9 (i) the erection or repair of an electrical wire;
+10 (ii) the cleaning, oiling, or wiping of machinery; or
+11 (iii) an occupation that is prohibited by law.
+12 (b) Except as otherwise provided in this subtitle, a minor under the age of 16 may
+13 not be employed or allowed to work:
+14 (1) during the school hours set for that minor;
+15 (2) about or in connection with an acid, dye, gas, lye, or paint;
+16 (3) at, about, or in connection with:
+17 (i) an airport;
+18 (ii) a brickyard;
+19 (iii) a lumberyard;
+20 (iv) a workroom or work site where goods are manufactured or
+21 processed;
+22 (v) scaffolding; or
+23 (vi) a vessel when engaged in navigation or commerce; or
+24 (4) in, about, or in connection with:
+25 (i) construction;
+26 (ii) an occupation that causes dust in an injurious quantity;
+4 SENATE BILL 831
+1 (iii) a manufacturing occupation;
+2 (iv) a mechanical occupation;
+3 (v) a processing occupation; or
+4 (vi) the adjustment, cleaning, or operation of power–driven
+5 machinery except:
+6 1. an office machine; or
+7 2. machinery used in a school or government institution as
+8 part of vocational training.
+9 (c) The Commissioner may prohibit minors being employed in an occupation if:
+10 (1) after a public hearing, the Commissioner determines that employment
+11 in the occupation should be prohibited to minors;
+12 (2) the Commissioner adopts by reference a determination by the United
+13 States Secretary of Labor under the federal Fair Labor Standards Act of 1938 that the
+14 occupation is hazardous; or
+15 (3) after investigation, the Commissioner determines that the occupation
+16 is injurious to:
+17 (i) the health or welfare of minors; or
+18 (ii) the morals of minors under the age of 16 years.
+19 3–216.
+20 (a) A person may not:
+21 (1) interfere with or hinder the performance of any duty of the
+22 Commissioner under this subtitle; or
+23 (2) knowingly give false information to the Commissioner.
+24 (b) A person may not knowingly:
+25 (1) employ a minor in violation of a provision of this subtitle; or
+26 (2) allow a minor to be employed in violation of a provision of this subtitle.
+SENATE BILL 831 5
+1 (c) (1) A person who violates any provision of subsection (a) of this section is
+2 guilty of a misdemeanor and on conviction is subject to a fine not exceeding $1,000 or
+3 imprisonment not exceeding 90 days or both.
+4 (2) A person who violates any provision of subsection (b) of this section is
+5 guilty of a misdemeanor and on conviction is subject to a fine not exceeding $10,000 or
+6 imprisonment not exceeding 1 year or both.
+7 3–217.
+8 (A) THE COMMISSIONER MAY ASSESS A CIVIL PENALTY AGAINST A PERSON
+9 WHO:
+10 (1) VIOLATES § 3–216(A) OR (B) OF THIS SUBTITLE; OR
+11 (2) WILLFULLY OR REPEATEDLY EMPLOYS A MINOR IN VIOLATION OF
+12 § 3–213 OF THIS SUBTITLE.
+13 (B) (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION, A
+14 CIVIL PENALTY ASSESSED UNDER SUBSECTION (A)(1) OF THIS SECTION MAY NOT
+15 EXCEED:
+16 (I) BEFORE JULY 15, 2027, $16,035 FOR EACH VIOLATION; OR
+17 (II) BEGINNING JULY 15, 2027, THE AMOUNT SET BY THE
+18 COMMISSIONER UNDER SUBSECTION (C) OF THIS SECTION FOR EACH VIOLATION.
+19 (2) A CIVIL PENALTY ASSESSED UNDER SUBSECTION (A)(2) OF THIS
+20 SECTION MAY NOT EXCEED:
+21 (I) BEFORE JULY 15, 2027, $72,876 FOR EACH VIOLATION; OR
+22 (II) BEGINNING JULY 15, 2027, THE AMOUNT SET BY THE
+23 COMMISSIONER UNDER SUBSECTION (C) OF THIS SECTION FOR EACH VIOLATION.
+24 (C) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, BEGINNING
+25 JANUARY 1, 2027, AND EACH CALENDAR YEAR THEREAFTER, THE COMMISSIONER
+26 SHALL INCREASE THE MAXIMUM PENALTIES IN EFFECT UNDER SUBSECTION (A) OF
+27 THIS SECTION BY INCREASING EACH CIVIL PENALTY AMOUNT BY THE PERCENTAGE
+28 INCREASE, IF ANY, IN THE CONSUMER PRICE INDEX FOR ALL URBAN CONSUMERS
+29 OR A SUCCESSOR INDEX PUBLISHED BY THE FEDERAL BUREAU OF LABOR
+30 STATISTICS AS NECESSARY TO COMPLY WITH FEDERAL LAW.
+6 SENATE BILL 831
+1 (2) THE ADJUSTMENT UNDER PARAGRAPH (1) OF THIS SUBSECTION
+2 SHALL BE EFFECTIVE JULY 15 EACH YEAR.
+3 (D) A CIVIL PENALTY UNDER THIS SECTION SHALL BE PAID INTO THE
+4 GENERAL FUND OF THE STATE.
+5 4–406.
+6 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+7 INDICATED.
+8 (2) “FEDERAL ACT” MEANS THE FEDERAL NATIONAL LABOR
+9 RELATIONS ACT.
+10 (3) “LABOR ORGANIZATION” HAS THE MEANING STATED IN § 152 OF
+11 THE FEDERAL ACT.
+12 (4) “SUPERVISOR” HAS THE MEANING STATED IN § 152 OF THE
+13 FEDERAL ACT.
+14 (B) AN EMPLOYER IN THE STATE MAY NOT ALLOW THE FORMATION OF AN
+15 ORGANIZATION OR ENTITY IN THE WORKPLACE:
+16 (1) THAT IS INITIATED THROUGH ACTION OF THE EMPLOYER OR THE
+17 EMPLOYEES OF THE EMPLOYER AND ESTABLISHED THROUGH MUTUAL CONSENT OF
+18 THE EMPLOYER AND ANY NUMBER OF EMPLOYEES;
+19 (2) IN WHICH SUPERVISORS AND EMPLOYEE MEMBERS PARTICIPATE
+20 TO ADDRESS OR NEGOTIATE WORKING CONDITIONS OF MUTUAL INTEREST,
+21 INCLUDING THE EMPLOYEES’ QUALITY OF WORK, PRODUCTIVITY, EFFICIENCY,
+22 COMPENSATION, BENEFITS, RECRUITMENT, RETENTION, GRIEVANCES, CHILD CARE,
+23 SAFETY, HEALTH, OR ACCOMMODATION OF RELIGIOUS BELIEFS AND PRACTICES;
+24 (3) THAT MAY BE DISSOLVED UNILATERALLY BY THE EMPLOYER; AND
+25 (4) THAT, THROUGH ANY FEDERAL ACTION OCCURRING ON OR AFTER
+26 JANUARY 1, 2026, IS, IN WHOLE OR IN PART, EXPRESSLY EXEMPT FROM OR
+27 OTHERWISE NOT SUBJECT TO:
+28 (I) THE FEDERAL ACT; OR
+29 (II) THE JURISDICTION OF THE NATIONAL LABOR RELATIONS
+30 BOARD.
+SENATE BILL 831 7
+1 (C) THIS SECTION MAY NOT BE CONSTRUED TO PRECLUDE:
+2 (1) THE FORMATION OF A LABOR ORGANIZATION THAT IS SUBJECT TO
+3 THE FEDERAL ACT AND THE JURISDICTION OF THE NATIONAL LABOR RELATIONS
+4 BOARD; OR
+5 (2) CERTIFICATION AS AN EXCLUSIVE REPRESENTATIVE UNDER THE
+6 FEDERAL ACT; OR
+7 (3) THE FORMATION OF A COMMITTEE OR GOVERNANCE STRUCTURE
+8 REQUIRED FOR ACCREDITATION OR DESIGNATION BY A STATE OR NATIONAL
+9 ORGANIZATION.
+10 Article – State Personnel and Pensions
+11 2–201.
+12 (A) Except as otherwise provided by law, an employee in the Judicial, Legislative,
+13 or Executive Branch of State government is governed by the laws and personnel policies
+14 and procedures applicable in that branch.
+15 (B) A UNIT IN THE EXECUTIVE BRANCH OF STATE GOVERNMENT MAY NOT
+16 PETITION OR APPLY TO THE FEDERAL GOVERNMENT FOR A WAIVER OF ANY
+17 PROVISION OF THE FEDERAL FAIR LABOR STANDARDS ACT THAT IS APPLICABLE TO
+18 THE UNIT, EVEN IF THE WAIVER IS OTHERWISE AUTHORIZED UNDER FEDERAL LAW.
+19 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+20 as follows:
+21 Article – State Government
+22 22–101.
+23 (a) In this title the following words have the meanings indicated.
+24 (b) “Board” means the Public Employee Relations Board.
+25 (c) Unless specifically provided otherwise, “day” means a calendar day.
+26 (d) “Employee organization” means:
+27 (1) a labor organization in which public employees participate and that has
+28 as one of its primary purposes representing public employees; OR
+8 SENATE BILL 831
+1 (2) FOR PURPOSES OF SUBTITLE 2A OF THIS TITLE, A LABOR
+2 ORGANIZATION IN WHICH PRIVATE EMPLOYEES PARTICIPATE AND THAT HAS AS ONE
+3 OF ITS PRIMARY PURPOSES REPRESENTING PRIVATE EMPLOYEES.
+4 (e) “Exclusive representative” means an employee organization that has been
+5 certified by the Board as an exclusive representative FOR PUBLIC EMPLOYEES under
+6 Subtitle 4 of this title OR FOR PRIVATE EMPLOYEES UNDER SUBTITLE 2A OF THIS
+7 TITLE.
+8 (f) “Interested employee organization” means:
+9 (1) an employee organization already representing employees in a
+10 bargaining unit; or
+11 (2) a petitioner who has met the showing of interest requirement under §
+12 22–402 of this title.
+13 (g) “Lockout” means action taken by a public employer to:
+14 (1) interrupt or prevent the continuity of the employees’ usual work for the
+15 purpose and with the intent of coercing the employees into relinquishing rights guaranteed
+16 by this title; or
+17 (2) bring economic pressure on employees for the purpose of securing the
+18 agreement of their executive representative to collective bargaining agreement terms.
+19 (h) “PRIVATE EMPLOYEE” MEANS AN INDIVIDUAL WHO:
+20 (1) IS SUBJECT TO THE FEDERAL NATIONAL LABOR RELATIONS ACT;
+21 OR
+22 (2) WOULD HAVE BEEN SUBJECT TO THE FEDERAL NATIONAL LABOR
+23 RELATIONS ACT AS IT EXISTED ON JANUARY 1, 2025.
+24 (I) “Public employee” means an individual who holds a position by appointment
+25 or employment in the service of a public employer with collective bargaining rights under
+26 Title 3 of the State Personnel and Pensions Article or Title 6, Subtitle 4 or 5 or Title 16,
+27 Subtitle 7 of the Education Article.
+28 [(i)] (J) “Public employer” means:
+29 (1) the State, including any unit, department, or instrumentality of the
+30 State;
+31 (2) a community college listed under § 16–702(b) of the Education Article;
+32 and
+SENATE BILL 831 9
+1 (3) a county board of education or the Baltimore City Board of School
+2 Commissioners.
+3 [(j)] (K) (1) “Showing of interest form” means a written statement from a
+4 public employee who wishes to be represented by a petitioning employee organization for
+5 the purpose of collective bargaining.
+6 (2) “Showing of interest form” includes:
+7 (i) a union authorization card; or
+8 (ii) a union membership card.
+9 [(k)] (L) (1) “Strike” means any concerted action to impede the full and
+10 proper performance of employment duties in order to induce, influence, coerce, or enforce
+11 demands for a change in wages, hours, terms, or other conditions of employment.
+12 (2) “Strike” includes a total or partial:
+13 (i) refusal or failure to report to work;
+14 (ii) refusal or failure to perform employment duties;
+15 (iii) withdrawal from work;
+16 (iv) work stoppage; or
+17 (v) work slowdown.
+18 SUBTITLE 2A. PRIVATE EMPLOYEES.
+19 22–2A–01.
+20 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+21 INDICATED.
+22 (B) “CHARGING PARTY” MEANS THE PARTY ALLEGING THAT AN UNFAIR
+23 LABOR PRACTICE HAS OCCURRED.
+24 (C) “FEDERAL ACT” MEANS THE FEDERAL NATIONAL LABOR RELATIONS
+25 ACT.
+26 (D) “NLRB” MEANS THE NATIONAL LABOR RELATIONS BOARD.
+10 SENATE BILL 831
+1 (E) “RESPONDENT” MEANS THE PARTY THAT ALLEGEDLY COMMITTED AN
+2 UNFAIR LABOR PRACTICE.
+3 22–2A–02.
+4 THIS SUBTITLE:
+5 (1) APPLIES ONLY TO PRIVATE EMPLOYEES AND THE EMPLOYERS OF
+6 PRIVATE EMPLOYEES; AND
+7 (2) MAY NOT BE CONSTRUED TO AFFECT THE RIGHTS OF PRIVATE
+8 EMPLOYEES UNDER ANY OTHER FEDERAL OR STATE LAW.
+9 22–2A–03.
+10 (A) (1) THIS SUBTITLE SHALL BE CONSTRUED LIBERALLY TO ENSURE
+11 THAT ALL PRIVATE EMPLOYEES IN THE STATE CAN EFFECTIVELY EXERCISE THE
+12 FUNDAMENTAL RIGHT TO FULL FREEDOM OF ASSOCIATION, SELF–ORGANIZATION,
+13 AND DESIGNATION OF REPRESENTATIVES OF THEIR OWN CHOOSING, FREE FROM
+14 RETALIATION OR INTIMIDATION BY THEIR EMPLOYERS.
+15 (2) PRIVATE EMPLOYEES IN THE STATE HAVE THE RIGHT:
+16 (I) TO ENGAGE IN COLLECTIVE ACTION AND TO ORGANIZE,
+17 FORM, JOIN, OR ASSIST EMPLOYEE ORGANIZATIONS; AND
+18 (II) WHEN PRIVATE EMPLOYEES CHOOSE TO DO SO
+19 COLLECTIVELY THROUGH SELECTED OR DESIGNATED BARGAINING
+20 REPRESENTATIVES, TO ENGAGE IN EFFECTIVE AND EXPEDITIOUS COLLECTIVE
+21 BARGAINING THAT RESULTS IN A COLLECTIVE BARGAINING AGREEMENT
+22 ADDRESSING THE PRIVATE EMPLOYEES’ TERMS AND CONDITIONS OF EMPLOYMENT.
+23 (3) THE STATE OR A POLITICAL SUBDIVISION OF THE STATE MAY
+24 NOT, DIRECTLY OR INDIRECTLY, DENY, BURDEN, OR ABRIDGE THE RIGHTS
+25 DESCRIBED UNDER PARAGRAPH (2) OF THIS SUBSECTION UNLESS NECESSARY TO
+26 SERVE A COMPELLING STATE INTEREST ACHIEVED BY THE LEAST RESTRICTIVE
+27 MEANS.
+28 (B) A PRIVATE EMPLOYEE MAY PETITION THE BOARD TO PROTECT AND
+29 ENFORCE THE RIGHTS DESCRIBED IN SUBSECTION (A)(2) OF THIS SECTION IF:
+30 (1) THE PRIVATE EMPLOYEE:
+SENATE BILL 831 11
+1 (I) IS EMPLOYED IN A POSITION THAT LOSES COVERAGE UNDER
+2 THE FEDERAL ACT BECAUSE THE FEDERAL ACT IS ENTIRELY REPEALED OR
+3 NARROWED OR ITS ENFORCEMENT IS ENJOINED IN A CASE INVOLVING THE PRIVATE
+4 EMPLOYEE RENDERED ENTIRELY NULL AND VOID; AND
+5 (II) IS NOT COVERED UNDER THE FEDERAL RAILWAY LABOR
+6 ACT; OR
+7 (2) SUBJECT TO SUBSECTION (C) OF THIS SECTION, THE NLRB HAS
+8 EXPRESSLY OR IMPLIEDLY CEDED JURISDICTION TO THE STATES.
+9 (C) (1) THIS SUBSECTION APPLIES ONLY WITH RESPECT TO CASES THAT:
+10 (I) WERE PENDING BEFORE THE NLRB AS OF JUNE 1, 2026; OR
+11 (II) ARE FILED WITH THE NLRB ON OR AFTER JUNE 1, 2026.
+12 (2) THE NLRB SHALL BE DEEMED TO HAVE CEDED JURISDICTION TO
+13 THE STATES IF:
+14 (I) FOR CASES WHERE A CERTIFICATION OF THE RESULTS OF
+15 AN ELECTION, INCLUDING A CERTIFICATION OF A REPRESENTATIVE, IS IN DISPUTE,
+16 A REGIONAL DIRECTOR OR AN ADMINISTRATIVE LAW JUDGE HAS ISSUED A
+17 DECISION, OR WHERE CHALLENGES OR OBJECTIONS TO A REPRESENTATIVE
+18 ELECTION ARE PENDING BEFORE THE NLRB, THE NLRB:
+19 1. LACKS A QUORUM;
+20 2. HAS LOST ITS INDEPENDENCE DUE TO THE U.S.
+21 SUPREME COURT FINDING NLRB MEMBERS ARE UNLAWFULLY PROTECTED FROM
+22 REMOVAL BY THE PRESIDENT OF THE UNITED STATES; OR
+23 3. IS FACING A CONSTITUTIONAL CHALLENGE
+24 REGARDING THE STRUCTURE AND AUTHORITY OF THE NLRB AND, AS A RESULT,
+25 THE CONTINUED PROCESSING OF A CASE BEFORE THE NLRB IS ENJOINED BY A
+26 COURT;
+27 (II) FOR CASES WHERE NO CERTIFICATION, COMPLAINT, OR
+28 DECISION HAS BEEN ISSUED, WHEN THERE IS A PROCESSING DELAY THAT RESULTS
+29 IN THE PRIVATE EMPLOYEE’S CASE REMAINING PENDING:
+30 1. BEFORE A REGIONAL DIRECTOR OF THE NLRB FOR
+31 MORE THAN 6 MONTHS WITHOUT ISSUANCE OF A COMPLAINT OR CERTIFICATION; OR
+12 SENATE BILL 831
+1 2. FOR MORE THAN 6 MONTHS AFTER A COMPLAINT HAS
+2 BEEN ISSUED WITHOUT THE SUBSEQUENT ISSUANCE OF A DECISION BY AN
+3 ADMINISTRATIVE LAW JUDGE OR, WITH RESPECT TO CERTIFICATION, WITHOUT
+4 ISSUANCE OF A DECISION BY THE NLRB;
+5 (III) FOR CASES WHERE A CERTIFICATION OF THE RESULTS OF
+6 AN ELECTION, INCLUDING A CERTIFICATION OF A REPRESENTATIVE, OR OTHER
+7 REVIEWABLE ORDER HAS BEEN ISSUED BY A REGIONAL DIRECTOR OF THE NLRB
+8 OR AN ADMINISTRATIVE LAW JUDGE, WHEN THERE IS A PROCESSING DELAY THAT
+9 RESULTS IN FAILURE BY THE NLRB TO:
+10 1. ACCEPT OR DECLINE REVIEW; OR
+11 2. GRANT SPECIAL PERMISSION TO APPEAL FOR MORE
+12 THAN 6 MONTHS FOLLOWING THE FILING OF A REQUEST FOR REVIEW OR FOR
+13 SPECIAL PERMISSION TO APPEAL; OR
+14 (IV) FOR CASES ON REVIEW OR EXCEPTION BEFORE THE NLRB,
+15 WHEN THERE IS A PROCESSING DELAY THAT RESULTS IN THE CASE REMAINING
+16 PENDING FOR MORE THAN 12 MONTHS WITHOUT ISSUANCE OF A FINAL DECISION.
+17 (D) IF THE BOARD DETERMINES THAT ANY OF THE CONDITIONS UNDER
+18 SUBSECTION (C)(2) OF THIS SECTION NO LONGER APPLY, THE BOARD SHALL RETAIN
+19 JURISDICTION OVER PENDING MATTERS UNLESS ORDERED BY A COURT OF
+20 COMPETENT JURISDICTION TO CEDE JURISDICTION TO THE FEDERAL
+21 GOVERNMENT.
+22 (E) (C) (1) A PRIVATE EMPLOYEE MAY PETITION THE BOARD UNDER
+23 THIS SECTION TO:
+24 (I) PROCESS ANY REPRESENTATION PETITION PREVIOUSLY
+25 FILED WITH THE NLRB;
+26 (II) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION,
+27 PROMPTLY CERTIFY AN EMPLOYEE ORGANIZATION AS AN EXCLUSIVE
+28 REPRESENTATIVE IN ACCORDANCE WITH SUBSECTION (G)(1)(II)1 (E)(1)(II)1 OF
+29 THIS SECTION; OR
+30 (III) DECIDE AN UNFAIR LABOR PRACTICE CASE ARISING UNDER
+31 THE FEDERAL ACT.
+SENATE BILL 831 13
+1 (2) ANY EXISTING TERMS AND CONDITIONS OF EMPLOYMENT
+2 NEGOTIATED BETWEEN A CERTIFIED EXCLUSIVE REPRESENTATIVE AND AN
+3 EMPLOYER SHALL REMAIN IN FULL FORCE AND EFFECT DURING THE BARGAINING
+4 FOLLOWING CERTIFICATION.
+5 (F) (D) (1) TO PURSUE RELIEF FROM THE BOARD UNDER THIS
+6 SECTION, A PRIVATE EMPLOYEE OR THE PRIVATE EMPLOYEE’S REPRESENTATIVE
+7 SHALL FILE WITH THE BOARD:
+8 (I) THE CHARGING PARTY’S NAME, ADDRESS, E–MAIL ADDRESS,
+9 AND TELEPHONE NUMBER;
+10 (II) THE RESPONDENT’S NAME, ADDRESS, E–MAIL ADDRESS,
+11 AND TELEPHONE NUMBER;
+12 (III) WHERE APPLICABLE, THE ORIGINAL CHARGE OR PETITION
+13 FILED WITH THE NLRB ALONG WITH ALL SUPPORTING DOCUMENTATION AND
+14 EVIDENCE THAT WAS SUBMITTED TO THE NLRB; AND
+15 (IV) ALL CORRESPONDENCE, COMMUNICATIONS, OR OTHER
+16 COVERED MATERIALS RECEIVED BY THE CHARGING PARTY, OR OTHERWISE IN THE
+17 CHARGING PARTY’S POSSESSION, FROM THE NLRB REGARDING THE ORIGINAL
+18 CHARGE OR PETITION FILED WITH THE NLRB.
+19 (2) THE DOCUMENTATION AND EVIDENCE FILED WITH THE BOARD
+20 UNDER PARAGRAPH (1) OF THIS SUBSECTION MAY NOT BE SERVED ON THE
+21 RESPONDENT.
+22 (3) THE SUPPORTING DOCUMENTATION AND EVIDENCE SUBMITTED
+23 TO THE BOARD UNDER PARAGRAPH (1) OF THIS SUBSECTION SHALL BE MAINTAINED
+24 CONFIDENTIALLY AS PART OF THE BOARD’S INVESTIGATORY FILE AND IS NOT
+25 SUBJECT TO PUBLIC INSPECTION UNDER THE PUBLIC INFORMATION ACT.
+26 (G) (E) (1) TO CARRY OUT THIS SECTION, THE BOARD MAY:
+27 (I) CONDUCT ELECTIONS TO DETERMINE WHETHER A
+28 MAJORITY OF PRIVATE EMPLOYEES IN AN APPROPRIATE BARGAINING UNIT HAVE
+29 SELECTED AN EXCLUSIVE REPRESENTATIVE FOR PURPOSES OF COLLECTIVE
+30 BARGAINING;
+31 (II) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION:
+14 SENATE BILL 831
+1 1. PROMPTLY CERTIFY AN EXCLUSIVE BARGAINING
+2 REPRESENTATIVE BY DETERMINING WHETHER A MAJORITY OF PRIVATE
+3 EMPLOYEES IN AN APPROPRIATE BARGAINING UNIT HAVE SELECTED AN EXCLUSIVE
+4 REPRESENTATIVE FOR PURPOSES OF COLLECTIVE BARGAINING; AND
+5 2. ORDER THAT AN EMPLOYER BARGAIN WITH THAT
+6 EXCLUSIVE BARGAINING REPRESENTATIVE;
+7 (III) ORDER THAT AN EMPLOYER BARGAIN WITH AN EXCLUSIVE
+8 BARGAINING REPRESENTATIVE AND OTHERWISE DECIDE UNFAIR LABOR
+9 PRACTICES;
+10 (IV) ORDER THAT AN EMPLOYER SUBMIT TO BINDING
+11 ARBITRATION TO ASSIST THE PARTIES IN FINALIZING NEGOTIATIONS FOR A
+12 COLLECTIVE BARGAINING AGREEMENT IF:
+13 1. THE NLRB OR THE BOARD HAS CERTIFIED AN
+14 EXCLUSIVE BARGAINING REPRESENTATIVE; OR
+15 2. AN EMPLOYER HAS VOLUNTARILY RECOGNIZED THE
+16 EXCLUSIVE BARGAINING REPRESENTATIVE OF A GROUP OF PRIVATE EMPLOYEES
+17 AND MORE THAN 6 MONTHS HAVE PASSED WITHOUT THE PARTIES AGREEING ON AND
+18 EXECUTING A COLLECTIVE BARGAINING AGREEMENT;
+19 (V) ORDER ANY APPROPRIATE REMEDY, INCLUDING
+20 INJUNCTIVE RELIEF AND CIVIL PENALTIES UNDER § 22–2A–04(A) OF THIS
+21 SUBTITLE, NECESSARY TO EFFECTUATE THIS SECTION, INCLUDING IF AN EMPLOYER
+22 REFUSES TO COMPLY WITH AN ORDER UNDER THIS SECTION; OR
+23 (VI) OTHERWISE DECIDE ALLEGATIONS OF UNFAIR LABOR
+24 PRACTICES.
+25 (2) (I) SELECTION OF AN EXCLUSIVE REPRESENTATIVE FOR
+26 PURPOSES OF PARAGRAPH (1)(II)1 OF THIS SUBSECTION MAY BE DEMONSTRATED
+27 THROUGH:
+28 1. A PREVIOUS CERTIFICATION BY ANOTHER STATE OR
+29 FEDERAL AGENCY;
+30 2. AN ELECTION;
+31 3. A WRITTEN DESIGNATION; OR
+SENATE BILL 831 15
+1 4. ANOTHER PROCESS RECOGNIZED BY THE BOARD OR
+2 THE NLRB AT THE TIME THE SELECTION IS MADE.
+3 (II) A PENDING OBJECTION OR VOTER ELIGIBILITY CHALLENGE
+4 IN AN ELECTION PREVIOUSLY PENDING WITH THE NLRB MAY BE RESOLVED BY THE
+5 BOARD IN THE EXERCISE OF AUTHORITY UNDER PARAGRAPH (1)(II) OF THIS
+6 SUBSECTION.
+7 (H) (F) TO RESOLVE A MATTER BROUGHT BEFORE THE BOARD UNDER
+8 THIS SECTION, THE BOARD:
+9 (1) MAY RELY ON ITS OWN PRIOR DECISIONS OR PRECEDENT UNDER
+10 THE FEDERAL ACT; AND
+11 (2) SHALL EXERCISE THE AUTHORITY UNDER ITEM (1) OF THIS
+12 SUBSECTION IN A MANNER THAT MOST EXPANSIVELY EFFECTUATES THE RIGHTS
+13 ESTABLISHED UNDER THIS SECTION.
+14 22–2A–04.
+15 (A) IF THE BOARD FINDS THAT AN EMPLOYER COMMITTED AN UNFAIR
+16 LABOR PRACTICE UNDER THE FEDERAL ACT, THE BOARD MAY ASSESS A CIVIL
+17 PENALTY NOT EXCEEDING $1,000 FOR EACH PRIVATE EMPLOYEE WITH RESPECT TO
+18 WHOM THE VIOLATION OCCURRED.
+19 (B) CIVIL PENALTIES ASSESSED UNDER SUBSECTION (A) OF THIS SECTION
+20 SHALL BE DISTRIBUTED TO A SPECIAL FUND TO BE USED ONLY FOR THE BOARD TO
+21 CARRY OUT THE REQUIREMENTS OF THIS SECTION.
+22 (C) AN ORDER BY THE BOARD UNDER THIS SECTION IS SUBJECT TO
+23 JUDICIAL REVIEW BY THE CIRCUIT COURT ON PETITION OF ANY PARTY TO THE
+24 BOARD’S DECISION.
+25 Article – State Personnel and Pensions
+26 2–201.
+27 (A) Except as otherwise provided by law, an employee in the Judicial, Legislative,
+28 or Executive Branch of State government is governed by the laws and personnel policies
+29 and procedures applicable in that branch.
+30 (B) A UNIT IN THE EXECUTIVE BRANCH OF STATE GOVERNMENT MAY NOT
+31 PETITION OR APPLY TO THE FEDERAL GOVERNMENT FOR A WAIVER OF ANY
+16 SENATE BILL 831
+1 PROVISION OF THE FEDERAL FAIR LABOR STANDARDS ACT THAT IS APPLICABLE TO
+2 THE UNIT, EVEN IF THE WAIVER IS OTHERWISE AUTHORIZED UNDER FEDERAL LAW.
+3 SECTION 3. AND BE IT FURTHER ENACTED, That:
+4 (a) Section 2 of this Act is contingent on:
+5 (1) the federal National Labor Relations Act being entirely repealed or
+6 rendered entirely null and void; or
+7 (2) the National Labor Relations Board expressly ceding jurisdiction to the
+8 State regarding any employer, employees, trade, industry, or labor dispute covered under
+9 the federal National Labor Relations Act.
+10 (b) (1) The Maryland Department of Labor shall monitor action by the federal
+11 government to determine whether the contingency described under subsection (a) of this
+12 section is met.
+13 (2) If the Maryland Department of Labor determines the contingency
+14 described under subsection (a) of this section is met, the Secretary of Labor shall notify the
+15 Department of Legislative Services within 30 days after the determination is made.
+16 (c) If the Department of Legislative Services receives notice from the Maryland
+17 Department of Labor as described under subsection (b)(2) of this section, Section 2 of this
+18 Act shall take effect on the date the notice is received by the Department of Legislative
+19 Services.
+20 SECTION 2. 4. AND BE IT FURTHER ENACTED, That, subject to Section 3 of this
+21 Act, this Act shall take effect June 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6   C A L a F e o m p e i t S f a t f s L E a e i a c m p a u o S g i t E B f a t t f g f a w o a a D o L t m c a b t f g f a c p a g r t l p f m p e B  A S  A  ( B  A]
+[DELETED:  S  S  A  ( B  A S  A  ( B  A S  A  ( B  A S 2 t 2 t b u t n s “ 2 P  A  ( B  A S  A  (  S T A 3  ( E a   ( i a o i c w t m o a h s   ( i    ( a]
+[DELETED: S 3    ( a w    ( a    ( a c    ( a s   ( i    ( t    ( t    ( a  ( E n   ( d   ( a   ( a    ( a    ( a    ( a    ( a w o w s w g a m o p    ( s    ( a   ( i    ( c    ( a]
+[DELETED:  S     ( a    ( a    ( a    ( t a c o o o p m     1 a     2 m p  ( T   ( a i   ( t S o   ( a i    ( t    ( t 3  ( A   ( i w o h t p o a d o t C   ( k  ( A   ( e   ( a]
+[DELETED: S 5  ( ( A g i   ( A g i ) TH O ( §3()();  A  B E  (33. () ( E()X  N  A )  () J1,2,$5;B U    N   () J1,2IB U   T A S B T(). C  ( A() A   () J1,2,$6;B U    N   () J1,2IB U   T A S B T(). C () ( S()U  N 1,2,,   R  O A E Y  O R N L R O,CPIAU A S I P B T F U O A.]
+[DELETED:  S  ( T(   U  15.()  C P U T S S B P I TFS. U T() ( N ( “FA”N CT M T F A AA. C ( “L”§1N     E CA. ( “S”§1R H T M S I   O TA. C() AN T ( ( A O N W C O M IT T ES Q O WK PY EY,,N S T N S E,,,,Y H ,; () ;TR  ( T 1,2,,   IS I W O I PT E E F O  () FA;T E CT   () NLIT A A E.]
+[DELETED: S 7() T:H ( E C A A EANL;D  (A; CT  ( F A O D B A S O N A 2  E) o a ) AEB  X R T O A T T F G F A W O A A A T CLST .  S a A 2  ( I  ( “  ( U  ( “ ( a a]
+[DELETED:  S  ( S2A P O U  O T TE A L .  ( “ r m a e o t h b c   S U  2 .  ( “   ( a e o a r e i a b   ( a 2  ( “   ( i p b   ( b a  (P”:E  ( NLRA A A E CT ( N A AAJ1,2 C A   “) o T S  () “](   ( t S   ( a a]
+[DELETED: S 9   ( a c b o e o t B C B o S C  () ( “]( p t   ( “    ( a    ( a  () ( “ m a c a t i t f a]( p d   ( “    ( r    ( r    ( w    ( w    ( w2.PE.  R M() N T S T F W H T M() “CH PY M T P A T A U() “FA”NLE CT  A A E.() “”NLRB.  A A E O]
+[DELETED:  S () “RET T: (S  ( N B C T A T R O P T.() ( H S S B C L T E TN FON–G  ( PS: T  () T E I C A A T OEM N S ,;  ()IW P E C T D S T S O D BS T E I E A E C T R I A C B AS . ( TS T O A P S O T T MT D O IY DY BN O A T R,,   A C T I A B T L R() A P E M P T O T P A A )): ( :]
+[DELETED: S 1  ()I E C B T E C I E R OAFD   () RII N C U T F A A;T  ( (),N C N   () ( T:H  () NBJ1,2;W   U     () NBJ1,2IA   U  ( TN    ()FN E E, R D O A A L J H I AN O W C O O T A R  ,N   1 ;   2 U L I I D T T CN O   R N TS US;   3 F A C C  D TB,    () ,IF C W N CN CT OD ES:   1 N    N ;]
+[DELETED:  S    2    I W T S I O A D B A L J OR W R T CN W  ()IF EN I A C O A RE O O E   B:   1 ;W    2  M F T F O A R F R O FL   () NVF  T I A P D T R I T C R  2.() IF T O D T A O T C U C Y  O)), O P M U O B A C O J T C J T T F()() ( A C  O  ()P A R P P  () ()IS T P  O T SN C A E O A A E I A W S GII EII O)()1()()N   ()ID E CA.]
+[DELETED: S 1 (  E T A C O E B A C E R A A()() ( T DO P R F T O U TN ES O:  () ’,,–TYSE S EMS  () ’,,–IT RTS NE AS EM AS  () IWE  W T  A W A S D A  ;  () ,VA CE CS O OY  PYS PN F T  R T O,N ( T O P  O T S M N B S O T (  O  ( A P O T ODS I F A I N U N CIA.()() ( T,B: EON  O  ()C E T D W A A E R F P O C  () ():IS  ]
+[DELETED:  S    1 C A E B B D W A M O PG    2 T A E B W T  ()IO R A O D U L  ()VO T A E S T B T A T P I F N F A   1 NB  O T O H C AE    2    () O A A RY I R A C P U  A O T2(E N N   ()IO D A O U L ( () E O A E R F II ()   1   2 ;   3 ;N ]
+[DELETED: S 1   4  O  B.  () I   (( I T E O A U P II O T()() T FO M ON  OB: ( E CT A; ( ( E T A U I  O T() IF T O F T A E C A U P U T E CT T O M A A CA,  () C(I A  O() AN O B T O U T S I S T R B T C C O P O A P T T’.DS A 2  E) o a ) AEB  X R T O A T T F G F A W O A]
+[DELETED:  S  A A T CLST .  S  ( S   ( t f N L R A b e r o r   ( t S t  ( ( T g s   ( I t M D o L d t c d D  ( I D A S  S A          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 831
+K3 6lr2729
+CF HB 1480
+By: Senator Ferguson
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 6, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Labor Law – Child Labor Penalties, Private Sector Employee Labor Relations,
+3 and State Employee Labor Standards
+4 FOR the purpose of establishing certain civil penalties for violations of law involving the
+5 employment of minors; prohibiting employers in the State from allowing the
+6 formation of a certain organization or entity that is expressly exempt from or not
+7 subject to the federal National Labor Relations Act or the jurisdiction of the National
+8 Labor Relations Board; authorizing certain private employees to petition the Public
+9 Employee Relations Board to resolve certain matters under certain circumstances;
+10 authorizing the Public Employee Relations Board to resolve the petitions of private
+11 employees in a certain manner; prohibiting a unit of State government in the
+12 Executive Branch from applying to the federal government for a waiver of any
+13 applicable provision of the federal Fair Labor Standards Act; requiring the Maryland
+14 Department of Labor to monitor certain action by the federal government for a
+15 certain purpose; and generally relating to labor protections for minors, private
+16 employees, and State employees.
+17 BY repealing and reenacting, without amendments,
+18 Article – Labor and Employment
+19 Section 3–213 and 3–216
+20 Annotated Code of Maryland
+21 (2025 Replacement Volume)
+22 BY adding to
+23 Article – Labor and Employment
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0831*
+
+2 SENATE BILL 831
+1 Section 3–217 and 4–406
+2 Annotated Code of Maryland
+3 (2025 Replacement Volume)
+4 BY repealing and reenacting, with amendments,
+5 Article – State Personnel and Pensions
+6 Section 2–201
+7 Annotated Code of Maryland
+8 (2024 Replacement Volume and 2025 Supplement)
+9 BY repealing and reenacting, with amendments,
+10 Article – State Government
+11 Section 22–101
+12 Annotated Code of Maryland
+13 (2021 Replacement Volume and 2025 Supplement)
+14 BY adding to
+15 Article – State Government
+16 Section 22–2A–01 through 22–2A–04 to be under the new subtitle “Subtitle 2A.
+17 Private Employees”
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2025 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – State Personnel and Pensions
+22 Section 2–201
+23 Annotated Code of Maryland
+24 (2024 Replacement Volume and 2025 Supplement)
+25 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+26 That the Laws of Maryland read as follows:
+27 Article – Labor and Employment
+28 3–213.
+29 (a) Except as otherwise provided in this subtitle, a minor may not be employed or
+30 allowed to work:
+31 (1) in, about, or in connection with the manufacturing of a hazardous
+32 substance;
+33 (2) in, about, or in connection with:
+34 (i) a blast furnace;
+
+SENATE BILL 831 3
+1 (ii) a distillery where an alcoholic beverage is manufactured, bottled,
+2 wrapped, or packed;
+3 (iii) a railroad;
+4 (iv) an engineer, firefighter, or pilot on a vessel that is engaged in
+5 commerce; or
+6 (v) a dock or wharf other than a marina where pleasure vessels are
+7 sold or served; or
+8 (3) in, about, or in connection with:
+9 (i) the erection or repair of an electrical wire;
+10 (ii) the cleaning, oiling, or wiping of machinery; or
+11 (iii) an occupation that is prohibited by law.
+12 (b) Except as otherwise provided in this subtitle, a minor under the age of 16 may
+13 not be employed or allowed to work:
+14 (1) during the school hours set for that minor;
+15 (2) about or in connection with an acid, dye, gas, lye, or paint;
+16 (3) at, about, or in connection with:
+17 (i) an airport;
+18 (ii) a brickyard;
+19 (iii) a lumberyard;
+20 (iv) a workroom or work site where goods are manufactured or
+21 processed;
+22 (v) scaffolding; or
+23 (vi) a vessel when engaged in navigation or commerce; or
+24 (4) in, about, or in connection with:
+25 (i) construction;
+26 (ii) an occupation that causes dust in an injurious quantity;
+
+4 SENATE BILL 831
+1 (iii) a manufacturing occupation;
+2 (iv) a mechanical occupation;
+3 (v) a processing occupation; or
+4 (vi) the adjustment, cleaning, or operation of power–driven
+5 machinery except:
+6 1. an office machine; or
+7 2. machinery used in a school or government institution as
+8 part of vocational training.
+9 (c) The Commissioner may prohibit minors being employed in an occupation if:
+10 (1) after a public hearing, the Commissioner determines that employment
+11 in the occupation should be prohibited to minors;
+12 (2) the Commissioner adopts by reference a determination by the United
+13 States Secretary of Labor under the federal Fair Labor Standards Act of 1938 that the
+14 occupation is hazardous; or
+15 (3) after investigation, the Commissioner determines that the occupation
+16 is injurious to:
+17 (i) the health or welfare of minors; or
+18 (ii) the morals of minors under the age of 16 years.
+19 3–216.
+20 (a) A person may not:
+21 (1) interfere with or hinder the performance of any duty of the
+22 Commissioner under this subtitle; or
+23 (2) knowingly give false information to the Commissioner.
+24 (b) A person may not knowingly:
+25 (1) employ a minor in violation of a provision of this subtitle; or
+26 (2) allow a minor to be employed in violation of a provision of this subtitle.
+
+SENATE BILL 831 5
+1 (c) (1) A person who violates any provision of subsection (a) of this section is
+2 guilty of a misdemeanor and on conviction is subject to a fine not exceeding $1,000 or
+3 imprisonment not exceeding 90 days or both.
+4 (2) A person who violates any provision of subsection (b) of this section is
+5 guilty of a misdemeanor and on conviction is subject to a fine not exceeding $10,000 or
+6 imprisonment not exceeding 1 year or both.
+7 3–217.
+8 (A) THE COMMISSIONER MAY ASSESS A CIVIL PENALTY AGAINST A PERSON
+9 WHO:
+10 (1) VIOLATES § 3–216(A) OR (B) OF THIS SUBTITLE; OR
+11 (2) WILLFULLY OR REPEATEDLY EMPLOYS A MINOR IN VIOLATION OF
+12 § 3–213 OF THIS SUBTITLE.
+13 (B) (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION, A
+14 CIVIL PENALTY ASSESSED UNDER SUBSECTION (A)(1) OF THIS SECTION MAY NOT
+15 EXCEED:
+16 (I) BEFORE JULY 15, 2027, $16,035 FOR EACH VIOLATION; OR
+17 (II) BEGINNING JULY 15, 2027, THE AMOUNT SET BY THE
+18 COMMISSIONER UNDER SUBSECTION (C) OF THIS SECTION FOR EACH VIOLATION.
+19 (2) A CIVIL PENALTY ASSESSED UNDER SUBSECTION (A)(2) OF THIS
+20 SECTION MAY NOT EXCEED:
+21 (I) BEFORE JULY 15, 2027, $72,876 FOR EACH VIOLATION; OR
+22 (II) BEGINNING JULY 15, 2027, THE AMOUNT SET BY THE
+23 COMMISSIONER UNDER SUBSECTION (C) OF THIS SECTION FOR EACH VIOLATION.
+24 (C) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, BEGINNING
+25 JANUARY 1, 2027, AND EACH CALENDAR YEAR THEREAFTER, THE COMMISSIONER
+26 SHALL INCREASE THE MAXIMUM PENALTIES IN EFFECT UNDER SUBSECTION (A) OF
+27 THIS SECTION BY INCREASING EACH CIVIL PENALTY AMOUNT BY THE PERCENTAGE
+28 INCREASE, IF ANY, IN THE CONSUMER PRICE INDEX FOR ALL URBAN CONSUMERS
+29 OR A SUCCESSOR INDEX PUBLISHED BY THE FEDERAL BUREAU OF LABOR
+30 STATISTICS AS NECESSARY TO COMPLY WITH FEDERAL LAW.
+
+6 SENATE BILL 831
+1 (2) THE ADJUSTMENT UNDER PARAGRAPH (1) OF THIS SUBSECTION
+2 SHALL BE EFFECTIVE JULY 15 EACH YEAR.
+3 (D) A CIVIL PENALTY UNDER THIS SECTION SHALL BE PAID INTO THE
+4 GENERAL FUND OF THE STATE.
+5 4–406.
+6 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+7 INDICATED.
+8 (2) “FEDERAL ACT” MEANS THE FEDERAL NATIONAL LABOR
+9 RELATIONS ACT.
+10 (3) “LABOR ORGANIZATION” HAS THE MEANING STATED IN § 152 OF
+11 THE FEDERAL ACT.
+12 (4) “SUPERVISOR” HAS THE MEANING STATED IN § 152 OF THE
+13 FEDERAL ACT.
+14 (B) AN EMPLOYER IN THE STATE MAY NOT ALLOW THE FORMATION OF AN
+15 ORGANIZATION OR ENTITY IN THE WORKPLACE:
+16 (1) THAT IS INITIATED THROUGH ACTION OF THE EMPLOYER OR THE
+17 EMPLOYEES OF THE EMPLOYER AND ESTABLISHED THROUGH MUTUAL CONSENT OF
+18 THE EMPLOYER AND ANY NUMBER OF EMPLOYEES;
+19 (2) IN WHICH SUPERVISORS AND EMPLOYEE MEMBERS PARTICIPATE
+20 TO ADDRESS OR NEGOTIATE WORKING CONDITIONS OF MUTUAL INTEREST,
+21 INCLUDING THE EMPLOYEES’ QUALITY OF WORK, PRODUCTIVITY, EFFICIENCY,
+22 COMPENSATION, BENEFITS, RECRUITMENT, RETENTION, GRIEVANCES, CHILD CARE,
+23 SAFETY, HEALTH, OR ACCOMMODATION OF RELIGIOUS BELIEFS AND PRACTICES;
+24 (3) THAT MAY BE DISSOLVED UNILATERALLY BY THE EMPLOYER; AND
+25 (4) THAT, THROUGH ANY FEDERAL ACTION OCCURRING ON OR AFTER
+26 JANUARY 1, 2026, IS, IN WHOLE OR IN PART, EXPRESSLY EXEMPT FROM OR
+27 OTHERWISE NOT SUBJECT TO:
+28 (I) THE FEDERAL ACT; OR
+29 (II) THE JURISDICTION OF THE NATIONAL LABOR RELATIONS
+30 BOARD.
+
+SENATE BILL 831 7
+1 (C) THIS SECTION MAY NOT BE CONSTRUED TO PRECLUDE:
+2 (1) THE FORMATION OF A LABOR ORGANIZATION THAT IS SUBJECT TO
+3 THE FEDERAL ACT AND THE JURISDICTION OF THE NATIONAL LABOR RELATIONS
+4 BOARD; OR
+5 (2) CERTIFICATION AS AN EXCLUSIVE REPRESENTATIVE UNDER THE
+6 FEDERAL ACT; OR
+7 (3) THE FORMATION OF A COMMITTEE OR GOVERNANCE STRUCTURE
+8 REQUIRED FOR ACCREDITATION OR DESIGNATION BY A STATE OR NATIONAL
+9 ORGANIZATION.
+10 Article – State Personnel and Pensions
+11 2–201.
+12 (A) Except as otherwise provided by law, an employee in the Judicial, Legislative,
+13 or Executive Branch of State government is governed by the laws and personnel policies
+14 and procedures applicable in that branch.
+15 (B) A UNIT IN THE EXECUTIVE BRANCH OF STATE GOVERNMENT MAY NOT
+16 PETITION OR APPLY TO THE FEDERAL GOVERNMENT FOR A WAIVER OF ANY
+17 PROVISION OF THE FEDERAL FAIR LABOR STANDARDS ACT THAT IS APPLICABLE TO
+18 THE UNIT, EVEN IF THE WAIVER IS OTHERWISE AUTHORIZED UNDER FEDERAL LAW.
+19 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+20 as follows:
+21 Article – State Government
+22 22–101.
+23 (a) In this title the following words have the meanings indicated.
+24 (b) “Board” means the Public Employee Relations Board.
+25 (c) Unless specifically provided otherwise, “day” means a calendar day.
+26 (d) “Employee organization” means:
+27 (1) a labor organization in which public employees participate and that has
+28 as one of its primary purposes representing public employees; OR
+
+8 SENATE BILL 831
+1 (2) FOR PURPOSES OF SUBTITLE 2A OF THIS TITLE, A LABOR
+2 ORGANIZATION IN WHICH PRIVATE EMPLOYEES PARTICIPATE AND THAT HAS AS ONE
+3 OF ITS PRIMARY PURPOSES REPRESENTING PRIVATE EMPLOYEES.
+4 (e) “Exclusive representative” means an employee organization that has been
+5 certified by the Board as an exclusive representative FOR PUBLIC EMPLOYEES under
+6 Subtitle 4 of this title OR FOR PRIVATE EMPLOYEES UNDER SUBTITLE 2A OF THIS
+7 TITLE.
+8 (f) “Interested employee organization” means:
+9 (1) an employee organization already representing employees in a
+10 bargaining unit; or
+11 (2) a petitioner who has met the showing of interest requirement under §
+12 22–402 of this title.
+13 (g) “Lockout” means action taken by a public employer to:
+14 (1) interrupt or prevent the continuity of the employees’ usual work for the
+15 purpose and with the intent of coercing the employees into relinquishing rights guaranteed
+16 by this title; or
+17 (2) bring economic pressure on employees for the purpose of securing the
+18 agreement of their executive representative to collective bargaining agreement terms.
+19 (h) “PRIVATE EMPLOYEE” MEANS AN INDIVIDUAL WHO:
+20 (1) IS SUBJECT TO THE FEDERAL NATIONAL LABOR RELATIONS ACT;
+21 OR
+22 (2) WOULD HAVE BEEN SUBJECT TO THE FEDERAL NATIONAL LABOR
+23 RELATIONS ACT AS IT EXISTED ON JANUARY 1, 2025.
+24 (I) “Public employee” means an individual who holds a position by appointment
+25 or employment in the service of a public employer with collective bargaining rights under
+26 Title 3 of the State Personnel and Pensions Article or Title 6, Subtitle 4 or 5 or Title 16,
+27 Subtitle 7 of the Education Article.
+28 [(i)] (J) “Public employer” means:
+29 (1) the State, including any unit, department, or instrumentality of the
+30 State;
+31 (2) a community college listed under § 16–702(b) of the Education Article;
+32 and
+
+SENATE BILL 831 9
+1 (3) a county board of education or the Baltimore City Board of School
+2 Commissioners.
+3 [(j)] (K) (1) “Showing of interest form” means a written statement from a
+4 public employee who wishes to be represented by a petitioning employee organization for
+5 the purpose of collective bargaining.
+6 (2) “Showing of interest form” includes:
+7 (i) a union authorization card; or
+8 (ii) a union membership card.
+9 [(k)] (L) (1) “Strike” means any concerted action to impede the full and
+10 proper performance of employment duties in order to induce, influence, coerce, or enforce
+11 demands for a change in wages, hours, terms, or other conditions of employment.
+12 (2) “Strike” includes a total or partial:
+13 (i) refusal or failure to report to work;
+14 (ii) refusal or failure to perform employment duties;
+15 (iii) withdrawal from work;
+16 (iv) work stoppage; or
+17 (v) work slowdown.
+18 SUBTITLE 2A. PRIVATE EMPLOYEES.
+19 22–2A–01.
+20 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+21 INDICATED.
+22 (B) “CHARGING PARTY” MEANS THE PARTY ALLEGING THAT AN UNFAIR
+23 LABOR PRACTICE HAS OCCURRED.
+24 (C) “FEDERAL ACT” MEANS THE FEDERAL NATIONAL LABOR RELATIONS
+25 ACT.
+26 (D) “NLRB” MEANS THE NATIONAL LABOR RELATIONS BOARD.
+
+10 SENATE BILL 831
+1 (E) “RESPONDENT” MEANS THE PARTY THAT ALLEGEDLY COMMITTED AN
+2 UNFAIR LABOR PRACTICE.
+3 22–2A–02.
+4 THIS SUBTITLE:
+5 (1) APPLIES ONLY TO PRIVATE EMPLOYEES AND THE EMPLOYERS OF
+6 PRIVATE EMPLOYEES; AND
+7 (2) MAY NOT BE CONSTRUED TO AFFECT THE RIGHTS OF PRIVATE
+8 EMPLOYEES UNDER ANY OTHER FEDERAL OR STATE LAW.
+9 22–2A–03.
+10 (A) (1) THIS SUBTITLE SHALL BE CONSTRUED LIBERALLY TO ENSURE
+11 THAT ALL PRIVATE EMPLOYEES IN THE STATE CAN EFFECTIVELY EXERCISE THE
+12 FUNDAMENTAL RIGHT TO FULL FREEDOM OF ASSOCIATION, SELF–ORGANIZATION,
+13 AND DESIGNATION OF REPRESENTATIVES OF THEIR OWN CHOOSING, FREE FROM
+14 RETALIATION OR INTIMIDATION BY THEIR EMPLOYERS.
+15 (2) PRIVATE EMPLOYEES IN THE STATE HAVE THE RIGHT:
+16 (I) TO ENGAGE IN COLLECTIVE ACTION AND TO ORGANIZE,
+17 FORM, JOIN, OR ASSIST EMPLOYEE ORGANIZATIONS; AND
+18 (II) WHEN PRIVATE EMPLOYEES CHOOSE TO DO SO
+19 COLLECTIVELY THROUGH SELECTED OR DESIGNATED BARGAINING
+20 REPRESENTATIVES, TO ENGAGE IN EFFECTIVE AND EXPEDITIOUS COLLECTIVE
+21 BARGAINING THAT RESULTS IN A COLLECTIVE BARGAINING AGREEMENT
+22 ADDRESSING THE PRIVATE EMPLOYEES’ TERMS AND CONDITIONS OF EMPLOYMENT.
+23 (3) THE STATE OR A POLITICAL SUBDIVISION OF THE STATE MAY
+24 NOT, DIRECTLY OR INDIRECTLY, DENY, BURDEN, OR ABRIDGE THE RIGHTS
+25 DESCRIBED UNDER PARAGRAPH (2) OF THIS SUBSECTION UNLESS NECESSARY TO
+26 SERVE A COMPELLING STATE INTEREST ACHIEVED BY THE LEAST RESTRICTIVE
+27 MEANS.
+28 (B) A PRIVATE EMPLOYEE MAY PETITION THE BOARD TO PROTECT AND
+29 ENFORCE THE RIGHTS DESCRIBED IN SUBSECTION (A)(2) OF THIS SECTION IF:
+30 (1) THE PRIVATE EMPLOYEE:
+
+SENATE BILL 831 11
+1 (I) IS EMPLOYED IN A POSITION THAT LOSES COVERAGE UNDER
+2 THE FEDERAL ACT BECAUSE THE FEDERAL ACT IS ENTIRELY REPEALED OR
+3 NARROWED OR ITS ENFORCEMENT IS ENJOINED IN A CASE INVOLVING THE PRIVATE
+4 EMPLOYEE RENDERED ENTIRELY NULL AND VOID; AND
+5 (II) IS NOT COVERED UNDER THE FEDERAL RAILWAY LABOR
+6 ACT; OR
+7 (2) SUBJECT TO SUBSECTION (C) OF THIS SECTION, THE NLRB HAS
+8 EXPRESSLY OR IMPLIEDLY CEDED JURISDICTION TO THE STATES.
+9 (C) (1) THIS SUBSECTION APPLIES ONLY WITH RESPECT TO CASES THAT:
+10 (I) WERE PENDING BEFORE THE NLRB AS OF JUNE 1, 2026; OR
+11 (II) ARE FILED WITH THE NLRB ON OR AFTER JUNE 1, 2026.
+12 (2) THE NLRB SHALL BE DEEMED TO HAVE CEDED JURISDICTION TO
+13 THE STATES IF:
+14 (I) FOR CASES WHERE A CERTIFICATION OF THE RESULTS OF
+15 AN ELECTION, INCLUDING A CERTIFICATION OF A REPRESENTATIVE, IS IN DISPUTE,
+16 A REGIONAL DIRECTOR OR AN ADMINISTRATIVE LAW JUDGE HAS ISSUED A
+17 DECISION, OR WHERE CHALLENGES OR OBJECTIONS TO A REPRESENTATIVE
+18 ELECTION ARE PENDING BEFORE THE NLRB, THE NLRB:
+19 1. LACKS A QUORUM;
+20 2. HAS LOST ITS INDEPENDENCE DUE TO THE U.S.
+21 SUPREME COURT FINDING NLRB MEMBERS ARE UNLAWFULLY PROTECTED FROM
+22 REMOVAL BY THE PRESIDENT OF THE UNITED STATES; OR
+23 3. IS FACING A CONSTITUTIONAL CHALLENGE
+24 REGARDING THE STRUCTURE AND AUTHORITY OF THE NLRB AND, AS A RESULT,
+25 THE CONTINUED PROCESSING OF A CASE BEFORE THE NLRB IS ENJOINED BY A
+26 COURT;
+27 (II) FOR CASES WHERE NO CERTIFICATION, COMPLAINT, OR
+28 DECISION HAS BEEN ISSUED, WHEN THERE IS A PROCESSING DELAY THAT RESULTS
+29 IN THE PRIVATE EMPLOYEE’S CASE REMAINING PENDING:
+30 1. BEFORE A REGIONAL DIRECTOR OF THE NLRB FOR
+31 MORE THAN 6 MONTHS WITHOUT ISSUANCE OF A COMPLAINT OR CERTIFICATION; OR
+
+12 SENATE BILL 831
+1 2. FOR MORE THAN 6 MONTHS AFTER A COMPLAINT HAS
+2 BEEN ISSUED WITHOUT THE SUBSEQUENT ISSUANCE OF A DECISION BY AN
+3 ADMINISTRATIVE LAW JUDGE OR, WITH RESPECT TO CERTIFICATION, WITHOUT
+4 ISSUANCE OF A DECISION BY THE NLRB;
+5 (III) FOR CASES WHERE A CERTIFICATION OF THE RESULTS OF
+6 AN ELECTION, INCLUDING A CERTIFICATION OF A REPRESENTATIVE, OR OTHER
+7 REVIEWABLE ORDER HAS BEEN ISSUED BY A REGIONAL DIRECTOR OF THE NLRB
+8 OR AN ADMINISTRATIVE LAW JUDGE, WHEN THERE IS A PROCESSING DELAY THAT
+9 RESULTS IN FAILURE BY THE NLRB TO:
+10 1. ACCEPT OR DECLINE REVIEW; OR
+11 2. GRANT SPECIAL PERMISSION TO APPEAL FOR MORE
+12 THAN 6 MONTHS FOLLOWING THE FILING OF A REQUEST FOR REVIEW OR FOR
+13 SPECIAL PERMISSION TO APPEAL; OR
+14 (IV) FOR CASES ON REVIEW OR EXCEPTION BEFORE THE NLRB,
+15 WHEN THERE IS A PROCESSING DELAY THAT RESULTS IN THE CASE REMAINING
+16 PENDING FOR MORE THAN 12 MONTHS WITHOUT ISSUANCE OF A FINAL DECISION.
+17 (D) IF THE BOARD DETERMINES THAT ANY OF THE CONDITIONS UNDER
+18 SUBSECTION (C)(2) OF THIS SECTION NO LONGER APPLY, THE BOARD SHALL RETAIN
+19 JURISDICTION OVER PENDING MATTERS UNLESS ORDERED BY A COURT OF
+20 COMPETENT JURISDICTION TO CEDE JURISDICTION TO THE FEDERAL
+21 GOVERNMENT.
+22 (E) (C) (1) A PRIVATE EMPLOYEE MAY PETITION THE BOARD UNDER
+23 THIS SECTION TO:
+24 (I) PROCESS ANY REPRESENTATION PETITION PREVIOUSLY
+25 FILED WITH THE NLRB;
+26 (II) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION,
+27 PROMPTLY CERTIFY AN EMPLOYEE ORGANIZATION AS AN EXCLUSIVE
+28 REPRESENTATIVE IN ACCORDANCE WITH SUBSECTION (G)(1)(II)1 (E)(1)(II)1 OF
+29 THIS SECTION; OR
+30 (III) DECIDE AN UNFAIR LABOR PRACTICE CASE ARISING UNDER
+31 THE FEDERAL ACT.
+
+SENATE BILL 831 13
+1 (2) ANY EXISTING TERMS AND CONDITIONS OF EMPLOYMENT
+2 NEGOTIATED BETWEEN A CERTIFIED EXCLUSIVE REPRESENTATIVE AND AN
+3 EMPLOYER SHALL REMAIN IN FULL FORCE AND EFFECT DURING THE BARGAINING
+4 FOLLOWING CERTIFICATION.
+5 (F) (D) (1) TO PURSUE RELIEF FROM THE BOARD UNDER THIS
+6 SECTION, A PRIVATE EMPLOYEE OR THE PRIVATE EMPLOYEE’S REPRESENTATIVE
+7 SHALL FILE WITH THE BOARD:
+8 (I) THE CHARGING PARTY’S NAME, ADDRESS, E–MAIL ADDRESS,
+9 AND TELEPHONE NUMBER;
+10 (II) THE RESPONDENT’S NAME, ADDRESS, E–MAIL ADDRESS,
+11 AND TELEPHONE NUMBER;
+12 (III) WHERE APPLICABLE, THE ORIGINAL CHARGE OR PETITION
+13 FILED WITH THE NLRB ALONG WITH ALL SUPPORTING DOCUMENTATION AND
+14 EVIDENCE THAT WAS SUBMITTED TO THE NLRB; AND
+15 (IV) ALL CORRESPONDENCE, COMMUNICATIONS, OR OTHER
+16 COVERED MATERIALS RECEIVED BY THE CHARGING PARTY, OR OTHERWISE IN THE
+17 CHARGING PARTY’S POSSESSION, FROM THE NLRB REGARDING THE ORIGINAL
+18 CHARGE OR PETITION FILED WITH THE NLRB.
+19 (2) THE DOCUMENTATION AND EVIDENCE FILED WITH THE BOARD
+20 UNDER PARAGRAPH (1) OF THIS SUBSECTION MAY NOT BE SERVED ON THE
+21 RESPONDENT.
+22 (3) THE SUPPORTING DOCUMENTATION AND EVIDENCE SUBMITTED
+23 TO THE BOARD UNDER PARAGRAPH (1) OF THIS SUBSECTION SHALL BE MAINTAINED
+24 CONFIDENTIALLY AS PART OF THE BOARD’S INVESTIGATORY FILE AND IS NOT
+25 SUBJECT TO PUBLIC INSPECTION UNDER THE PUBLIC INFORMATION ACT.
+26 (G) (E) (1) TO CARRY OUT THIS SECTION, THE BOARD MAY:
+27 (I) CONDUCT ELECTIONS TO DETERMINE WHETHER A
+28 MAJORITY OF PRIVATE EMPLOYEES IN AN APPROPRIATE BARGAINING UNIT HAVE
+29 SELECTED AN EXCLUSIVE REPRESENTATIVE FOR PURPOSES OF COLLECTIVE
+30 BARGAINING;
+31 (II) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION:
+
+14 SENATE BILL 831
+1 1. PROMPTLY CERTIFY AN EXCLUSIVE BARGAINING
+2 REPRESENTATIVE BY DETERMINING WHETHER A MAJORITY OF PRIVATE
+3 EMPLOYEES IN AN APPROPRIATE BARGAINING UNIT HAVE SELECTED AN EXCLUSIVE
+4 REPRESENTATIVE FOR PURPOSES OF COLLECTIVE BARGAINING; AND
+5 2. ORDER THAT AN EMPLOYER BARGAIN WITH THAT
+6 EXCLUSIVE BARGAINING REPRESENTATIVE;
+7 (III) ORDER THAT AN EMPLOYER BARGAIN WITH AN EXCLUSIVE
+8 BARGAINING REPRESENTATIVE AND OTHERWISE DECIDE UNFAIR LABOR
+9 PRACTICES;
+10 (IV) ORDER THAT AN EMPLOYER SUBMIT TO BINDING
+11 ARBITRATION TO ASSIST THE PARTIES IN FINALIZING NEGOTIATIONS FOR A
+12 COLLECTIVE BARGAINING AGREEMENT IF:
+13 1. THE NLRB OR THE BOARD HAS CERTIFIED AN
+14 EXCLUSIVE BARGAINING REPRESENTATIVE; OR
+15 2. AN EMPLOYER HAS VOLUNTARILY RECOGNIZED THE
+16 EXCLUSIVE BARGAINING REPRESENTATIVE OF A GROUP OF PRIVATE EMPLOYEES
+17 AND MORE THAN 6 MONTHS HAVE PASSED WITHOUT THE PARTIES AGREEING ON AND
+18 EXECUTING A COLLECTIVE BARGAINING AGREEMENT;
+19 (V) ORDER ANY APPROPRIATE REMEDY, INCLUDING
+20 INJUNCTIVE RELIEF AND CIVIL PENALTIES UNDER § 22–2A–04(A) OF THIS
+21 SUBTITLE, NECESSARY TO EFFECTUATE THIS SECTION, INCLUDING IF AN EMPLOYER
+22 REFUSES TO COMPLY WITH AN ORDER UNDER THIS SECTION; OR
+23 (VI) OTHERWISE DECIDE ALLEGATIONS OF UNFAIR LABOR
+24 PRACTICES.
+25 (2) (I) SELECTION OF AN EXCLUSIVE REPRESENTATIVE FOR
+26 PURPOSES OF PARAGRAPH (1)(II)1 OF THIS SUBSECTION MAY BE DEMONSTRATED
+27 THROUGH:
+28 1. A PREVIOUS CERTIFICATION BY ANOTHER STATE OR
+29 FEDERAL AGENCY;
+30 2. AN ELECTION;
+31 3. A WRITTEN DESIGNATION; OR
+
+SENATE BILL 831 15
+1 4. ANOTHER PROCESS RECOGNIZED BY THE BOARD OR
+2 THE NLRB AT THE TIME THE SELECTION IS MADE.
+3 (II) A PENDING OBJECTION OR VOTER ELIGIBILITY CHALLENGE
+4 IN AN ELECTION PREVIOUSLY PENDING WITH THE NLRB MAY BE RESOLVED BY THE
+5 BOARD IN THE EXERCISE OF AUTHORITY UNDER PARAGRAPH (1)(II) OF THIS
+6 SUBSECTION.
+7 (H) (F) TO RESOLVE A MATTER BROUGHT BEFORE THE BOARD UNDER
+8 THIS SECTION, THE BOARD:
+9 (1) MAY RELY ON ITS OWN PRIOR DECISIONS OR PRECEDENT UNDER
+10 THE FEDERAL ACT; AND
+11 (2) SHALL EXERCISE THE AUTHORITY UNDER ITEM (1) OF THIS
+12 SUBSECTION IN A MANNER THAT MOST EXPANSIVELY EFFECTUATES THE RIGHTS
+13 ESTABLISHED UNDER THIS SECTION.
+14 22–2A–04.
+15 (A) IF THE BOARD FINDS THAT AN EMPLOYER COMMITTED AN UNFAIR
+16 LABOR PRACTICE UNDER THE FEDERAL ACT, THE BOARD MAY ASSESS A CIVIL
+17 PENALTY NOT EXCEEDING $1,000 FOR EACH PRIVATE EMPLOYEE WITH RESPECT TO
+18 WHOM THE VIOLATION OCCURRED.
+19 (B) CIVIL PENALTIES ASSESSED UNDER SUBSECTION (A) OF THIS SECTION
+20 SHALL BE DISTRIBUTED TO A SPECIAL FUND TO BE USED ONLY FOR THE BOARD TO
+21 CARRY OUT THE REQUIREMENTS OF THIS SECTION.
+22 (C) AN ORDER BY THE BOARD UNDER THIS SECTION IS SUBJECT TO
+23 JUDICIAL REVIEW BY THE CIRCUIT COURT ON PETITION OF ANY PARTY TO THE
+24 BOARD’S DECISION.
+25 Article – State Personnel and Pensions
+26 2–201.
+27 (A) Except as otherwise provided by law, an employee in the Judicial, Legislative,
+28 or Executive Branch of State government is governed by the laws and personnel policies
+29 and procedures applicable in that branch.
+30 (B) A UNIT IN THE EXECUTIVE BRANCH OF STATE GOVERNMENT MAY NOT
+31 PETITION OR APPLY TO THE FEDERAL GOVERNMENT FOR A WAIVER OF ANY
+
+16 SENATE BILL 831
+1 PROVISION OF THE FEDERAL FAIR LABOR STANDARDS ACT THAT IS APPLICABLE TO
+2 THE UNIT, EVEN IF THE WAIVER IS OTHERWISE AUTHORIZED UNDER FEDERAL LAW.
+3 SECTION 3. AND BE IT FURTHER ENACTED, That:
+4 (a) Section 2 of this Act is contingent on:
+5 (1) the federal National Labor Relations Act being entirely repealed or
+6 rendered entirely null and void; or
+7 (2) the National Labor Relations Board expressly ceding jurisdiction to the
+8 State regarding any employer, employees, trade, industry, or labor dispute covered under
+9 the federal National Labor Relations Act.
+10 (b) (1) The Maryland Department of Labor shall monitor action by the federal
+11 government to determine whether the contingency described under subsection (a) of this
+12 section is met.
+13 (2) If the Maryland Department of Labor determines the contingency
+14 described under subsection (a) of this section is met, the Secretary of Labor shall notify the
+15 Department of Legislative Services within 30 days after the determination is made.
+16 (c) If the Department of Legislative Services receives notice from the Maryland
+17 Department of Labor as described under subsection (b)(2) of this section, Section 2 of this
+18 Act shall take effect on the date the notice is received by the Department of Legislative
+19 Services.
+20 SECTION 2. 4. AND BE IT FURTHER ENACTED, That, subject to Section 3 of this
+21 Act, this Act shall take effect June 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6   C A L a F e o m p e i t S f a t f s L E a e i a c m p a u o S g i t E B f a t t f g f a w o a a D o L t m c a b t f g f a c p a g r t l p f m p e B  A S  A  ( B  A]
+[DELETED:  S  S  A  ( B  A S  A  ( B  A S  A  ( B  A S 2 t 2 t b u t n s “ 2 P  A  ( B  A S  A  (  S T A 3  ( E a   ( i a o i c w t m o a h s   ( i    ( a]
+[DELETED: S 3    ( a w    ( a    ( a c    ( a s   ( i    ( t    ( t    ( a  ( E n   ( d   ( a   ( a    ( a    ( a    ( a    ( a w o w s w g a m o p    ( s    ( a   ( i    ( c    ( a]
+[DELETED:  S     ( a    ( a    ( a    ( t a c o o o p m     1 a     2 m p  ( T   ( a i   ( t S o   ( a i    ( t    ( t 3  ( A   ( i w o h t p o a d o t C   ( k  ( A   ( e   ( a]
+[DELETED: S 5  ( ( A g i   ( A g i ) TH O ( §3()();  A  B E  (33. () ( E()X  N  A )  () J1,2,$5;B U    N   () J1,2IB U   T A S B T(). C  ( A() A   () J1,2,$6;B U    N   () J1,2IB U   T A S B T(). C () ( S()U  N 1,2,,   R  O A E Y  O R N L R O,CPIAU A S I P B T F U O A.]
+[DELETED:  S  ( T(   U  15.()  C P U T S S B P I TFS. U T() ( N ( “FA”N CT M T F A AA. C ( “L”§1N     E CA. ( “S”§1R H T M S I   O TA. C() AN T ( ( A O N W C O M IT T ES Q O WK PY EY,,N S T N S E,,,,Y H ,; () ;TR  ( T 1,2,,   IS I W O I PT E E F O  () FA;T E CT   () NLIT A A E.]
+[DELETED: S 7() T:H ( E C A A EANL;D  (A; CT  ( F A O D B A S O N A 2  E) o a ) AEB  X R T O A T T F G F A W O A A A T CLST .  S a A 2  ( I  ( “  ( U  ( “ ( a a]
+[DELETED:  S  ( S2A P O U  O T TE A L .  ( “ r m a e o t h b c   S U  2 .  ( “   ( a e o a r e i a b   ( a 2  ( “   ( i p b   ( b a  (P”:E  ( NLRA A A E CT ( N A AAJ1,2 C A   “) o T S  () “](   ( t S   ( a a]
+[DELETED: S 9   ( a c b o e o t B C B o S C  () ( “]( p t   ( “    ( a    ( a  () ( “ m a c a t i t f a]( p d   ( “    ( r    ( r    ( w    ( w    ( w2.PE.  R M() N T S T F W H T M() “CH PY M T P A T A U() “FA”NLE CT  A A E.() “”NLRB.  A A E O]
+[DELETED:  S () “RET T: (S  ( N B C T A T R O P T.() ( H S S B C L T E TN FON–G  ( PS: T  () T E I C A A T OEM N S ,;  ()IW P E C T D S T S O D BS T E I E A E C T R I A C B AS . ( TS T O A P S O T T MT D O IY DY BN O A T R,,   A C T I A B T L R() A P E M P T O T P A A )): ( :]
+[DELETED: S 1  ()I E C B T E C I E R OAFD   () RII N C U T F A A;T  ( (),N C N   () ( T:H  () NBJ1,2;W   U     () NBJ1,2IA   U  ( TN    ()FN E E, R D O A A L J H I AN O W C O O T A R  ,N   1 ;   2 U L I I D T T CN O   R N TS US;   3 F A C C  D TB,    () ,IF C W N CN CT OD ES:   1 N    N ;]
+[DELETED:  S    2    I W T S I O A D B A L J OR W R T CN W  ()IF EN I A C O A RE O O E   B:   1 ;W    2  M F T F O A R F R O FL   () NVF  T I A P D T R I T C R  2.() IF T O D T A O T C U C Y  O)), O P M U O B A C O J T C J T T F()() ( A C  O  ()P A R P P  () ()IS T P  O T SN C A E O A A E I A W S GII EII O)()1()()N   ()ID E CA.]
+[DELETED: S 1 (  E T A C O E B A C E R A A()() ( T DO P R F T O U TN ES O:  () ’,,–TYSE S EMS  () ’,,–IT RTS NE AS EM AS  () IWE  W T  A W A S D A  ;  () ,VA CE CS O OY  PYS PN F T  R T O,N ( T O P  O T S M N B S O T (  O  ( A P O T ODS I F A I N U N CIA.()() ( T,B: EON  O  ()C E T D W A A E R F P O C  () ():IS  ]
+[DELETED:  S    1 C A E B B D W A M O PG    2 T A E B W T  ()IO R A O D U L  ()VO T A E S T B T A T P I F N F A   1 NB  O T O H C AE    2    () O A A RY I R A C P U  A O T2(E N N   ()IO D A O U L ( () E O A E R F II ()   1   2 ;   3 ;N ]
+[DELETED: S 1   4  O  B.  () I   (( I T E O A U P II O T()() T FO M ON  OB: ( E CT A; ( ( E T A U I  O T() IF T O F T A E C A U P U T E CT T O M A A CA,  () C(I A  O() AN O B T O U T S I S T R B T C C O P O A P T T’.DS A 2  E) o a ) AEB  X R T O A T T F G F A W O A]
+[DELETED:  S  A A T CLST .  S  ( S   ( t f N L R A b e r o r   ( t S t  ( ( T g s   ( I t M D o L d t c d D  ( I D A S  S A          G               ]

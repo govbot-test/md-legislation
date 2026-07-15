@@ -1,0 +1,335 @@
+Title: HOUSE BILL 374
+Official Title: HOUSE BILL 374
+Number of Sections: 1
+Source: versions - Third - State Acupuncture Board - Revisions
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+J2 6lr2334
+CF SB 370
+By: Delegate White Holland Delegates White Holland, Alston, Bagnall, Cullison,
+Guzzone, Hill, Hutchinson, S. Johnson, Kaufman, Kipke, Lopez, Martinez,
+M. Morgan, Reilly, Rosenberg, Ross, Szeliga, Taveras, and Woorman
+Introduced and read first time: January 19, 2026
+Assigned to: Health
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 6, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 State Acupuncture Board – Revisions
+3 FOR the purpose of defining “manual therapies” as it relates to the practice of acupuncture;
+4 requiring the State Acupuncture Board to make available proof of renewal, rather
+5 than issuing a renewal certificate; prohibiting a person from employing an individual
+6 to practice acupuncture without a license or aiding or abetting the unauthorized
+7 practice of acupuncture; and generally relating to the practice of acupuncture.
+8 BY repealing and reenacting, with amendments,
+9 Article – Health Occupations
+10 Section 1A–101, 1A–302(b), 1A–306(e), and 1A–403
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2025 Supplement)
+13 BY adding to
+14 Article – Health Occupations
+15 Section 1A–403
+16 Annotated Code of Maryland
+17 (2021 Replacement Volume and 2025 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0374*
+2 HOUSE BILL 374
+1 Article – Health Occupations
+2 1A–101.
+3 (a) In this title the following words have the meanings indicated.
+4 (b) “Acupuncture” means a form of health care based on East Asian medical
+5 theories of energetic physiology that describe the interrelationship of the body organs and
+6 functions.
+7 (c) “Auricular detoxification” means an acupuncture technique involving the
+8 needling of the external auricle of the human ear for the purpose of assisting a person who
+9 is undergoing detoxification to remove addictive substances from the body and restoring
+10 health.
+11 (d) “Board” means the State Acupuncture Board.
+12 (e) “License” means, unless the context requires otherwise, a license issued by the
+13 Board to practice acupuncture.
+14 (F) (1) “MANUAL THERAPIES” MEANS TREATMENT MODALITIES THAT
+15 APPLY PRESSURE OR MANIPULATION USING HANDS OR ANOTHER PART OF THE
+16 BODY ALONG POINTS OR MERIDIANS THAT NORMALIZE ELECTROMAGNETIC OR
+17 ENERGETIC FUNCTION.
+18 (2) “MANUAL THERAPIES” INCLUDE ACUPRESSURE OR OTHER
+19 PRESSURE TREATMENT TECHNIQUES BASED ON EAST ASIAN MEDICAL THERAPIES.
+20 [(f)] (G) (1) “Practice acupuncture” means the use of East Asian medical
+21 therapies for the purpose of normalizing energetic physiological functions including pain
+22 control, and for the promotion, maintenance, and restoration of health.
+23 (2) “Practice acupuncture” includes:
+24 (i) Stimulation of the body by the insertion of needles;
+25 (ii) The application of moxibustion; and
+26 (iii) Manual THERAPIES, mechanical THERAPIES, thermal
+27 THERAPIES, electrical THERAPIES, or other East Asian medical therapies only when
+28 performed in accordance with the principles of East Asian medical theories and practices.
+29 [(g)] (H) “Supervision” means:
+30 (1) A formalized professional relationship between a licensed
+31 acupuncturist and an individual performing auricular detoxification that provides
+HOUSE BILL 374 3
+1 evaluation and direction of the individual to adequately ensure the safety and welfare of
+2 clients during the course of treatment; and
+3 (2) As defined by the Board in regulations:
+4 (i) Periodic direct supervision where the licensed acupuncturist is
+5 present or on–site during treatment; and
+6 (ii) General supervision where the licensed acupuncturist is neither
+7 present nor on–site during treatment.
+8 1A–302.
+9 (b) The applicant shall:
+10 (1) Be of good moral character;
+11 (2) Be at least 18 years old;
+12 (3) Demonstrate competence in performing acupuncture by meeting the
+13 following standards for education or training:
+14 (i) If the applicant is issued a license on or before May 31, 2026:
+15 1. Graduation from at least a master’s level program or its
+16 equivalent in acupuncture that is:
+17 A. Approved by the Maryland Higher Education
+18 Commission;
+19 B. Accredited by the Accreditation Commission for
+20 Acupuncture and [Oriental] HERBAL Medicine; or
+21 C. Found by the Board to be equivalent to a course approved
+22 or accredited under item A or B of this item; or
+23 2. Achievement of a:
+24 A. Diplomate in acupuncture from the National Certification
+25 Commission for Acupuncture and Oriental Medicine; or
+26 B. Passing score on an examination that is determined by the
+27 Board to be equivalent to the examination given by the National Certification Commission
+28 for Acupuncture and Oriental Medicine; or
+29 (ii) If the applicant is issued a license on or after June 1, 2026:
+4 HOUSE BILL 374
+1 1. Graduation from at least a master’s level program or its
+2 equivalent in acupuncture that is:
+3 A. Approved by the Maryland Higher Education
+4 Commission;
+5 B. Accredited by the Accreditation Commission for
+6 Acupuncture and [Oriental] HERBAL Medicine; or
+7 C. Found by the Board to be equivalent to a course approved
+8 or accredited under item A or B of this item; and
+9 2. Achievement of a passing score on an examination given
+10 by the National Certification Commission for Acupuncture and Oriental Medicine or
+11 determined by the Board to be equivalent to the examination given by the National
+12 Certification Commission for Acupuncture and Oriental Medicine;
+13 (4) Demonstrate the ability to communicate in the English language; and
+14 (5) Meet any other qualifications that the Board establishes in regulations.
+15 1A–306.
+16 (e) The Board shall renew the license of and [issue a renewal certificate] MAKE
+17 AVAILABLE PROOF OF RENEWAL to each licensee who meets the requirements of this
+18 section.
+19 1A–403.
+20 EXCEPT AS OTHERWISE PROVIDED IN THIS TITLE, A PERSON MAY NOT:
+21 (1) EMPLOY AN INDIVIDUAL TO PRACTICE ACUPUNCTURE WITHOUT A
+22 LICENSE; OR
+23 (2) AID OR ABET THE UNAUTHORIZED PRACTICE OF ACUPUNCTURE
+24 IN VIOLATION OF § 1A–401 OF THIS SUBTITLE.
+25 [1A–403.] 1A–404.
+26 (a) A person who violates [any provision] § 1A–401 OR § 1A–402 of this subtitle
+27 is [guilty]:
+28 (1) GUILTY of a misdemeanor and on conviction is subject to a fine not
+29 exceeding $5,000 or imprisonment not exceeding 3 years or both[.
+HOUSE BILL 374 5
+1 (b) A person who violates § 1A–401 or § 1A–402 of this subtitle is subject]; AND
+2 (2) SUBJECT to a civil fine not to exceed $50,000 to be assessed by the
+3 Board in accordance with regulations adopted by the Board.
+4 (B) A PERSON WHO VIOLATES § 1A–403 OF THIS SUBTITLE IS:
+5 (1) (I) FOR A FIRST OFFENSE, GUILTY OF A MISDEMEANOR AND ON
+6 CONVICTION IS SUBJECT TO A FINE NOT EXCEEDING $5,000 OR IMPRISONMENT NOT
+7 EXCEEDING 1 YEAR OR BOTH; AND
+8 (II) FOR A SUBSEQUENT OFFENSE, GUILTY OF A FELONY AND ON
+9 CONVICTION IS SUBJECT TO A FINE NOT EXCEEDING $5,000 PER DAY OR
+10 IMPRISONMENT NOT EXCEEDING 5 YEARS OR BOTH; AND
+11 (2) SUBJECT TO A CIVIL FINE NOT TO EXCEED $10,000 TO BE
+12 ASSESSED BY THE BOARD IN ACCORDANCE WITH REGULATIONS ADOPTED BY THE
+13 BOARD.
+14 (C) THE BOARD SHALL REMIT ANY PENALTY COLLECTED UNDER THIS
+15 SECTION INTO THE GENERAL FUND OF THE STATE.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+17 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      6   C A S F r t t p B  A  S  A  ( B  A  S  A  (  S T]
+[DELETED:  H  A 1  ( I  ( “ m a f o h c b o E A m t f  ( “ d m a a t i t n i h  ( “  ( “ B() ( “MA TS M T M T P O M U H O A P O T A P O M T N E O ( “M TS I A O O A SA.  ()( “ a m t u o E A m]() t c   ( “    ( S    ( T    ( M , m , tSTST , e , o o E A m t o w p  ()“]()   ( A f p r b a l a a a i p a d t p]
+[DELETED: H 3 e c   ( A    ( P p    ( G p 1  ( T   ( B   ( B   ( D c i p a b m t f    ( I     1 G e     A A b t M H E C     B A b t A C f A Ol ]E     C F o     2 A     A D C     B P B f    ( I]
+[DELETED:  H      1 G e     A A b t M H E C     B A b t A C f A OlM]E     C F o     2 A b t N C C f A a O M o d b t B t b e t t e g b t N C   ( D   ( M 1  ( T i   sE,:E  ( E  (    11.]1 1  ( A an ]§11§1    i g]    o) eh.]
+[DELETED: H 5  ( A;     ) B() A§13:     ( () FOE     H ;  () FIOE  I S T A F N E  P D O  H ; ( S$ T A C F N T E  T B O.() TH O S R A P C U T E U TFS.  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 374
+J2 6lr2334
+CF SB 370
+By: Delegate White Holland Delegates White Holland, Alston, Bagnall, Cullison,
+Guzzone, Hill, Hutchinson, S. Johnson, Kaufman, Kipke, Lopez, Martinez,
+M. Morgan, Reilly, Rosenberg, Ross, Szeliga, Taveras, and Woorman
+Introduced and read first time: January 19, 2026
+Assigned to: Health
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 6, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 State Acupuncture Board – Revisions
+3 FOR the purpose of defining “manual therapies” as it relates to the practice of acupuncture;
+4 requiring the State Acupuncture Board to make available proof of renewal, rather
+5 than issuing a renewal certificate; prohibiting a person from employing an individual
+6 to practice acupuncture without a license or aiding or abetting the unauthorized
+7 practice of acupuncture; and generally relating to the practice of acupuncture.
+8 BY repealing and reenacting, with amendments,
+9 Article – Health Occupations
+10 Section 1A–101, 1A–302(b), 1A–306(e), and 1A–403
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2025 Supplement)
+13 BY adding to
+14 Article – Health Occupations
+15 Section 1A–403
+16 Annotated Code of Maryland
+17 (2021 Replacement Volume and 2025 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0374*
+
+2 HOUSE BILL 374
+1 Article – Health Occupations
+2 1A–101.
+3 (a) In this title the following words have the meanings indicated.
+4 (b) “Acupuncture” means a form of health care based on East Asian medical
+5 theories of energetic physiology that describe the interrelationship of the body organs and
+6 functions.
+7 (c) “Auricular detoxification” means an acupuncture technique involving the
+8 needling of the external auricle of the human ear for the purpose of assisting a person who
+9 is undergoing detoxification to remove addictive substances from the body and restoring
+10 health.
+11 (d) “Board” means the State Acupuncture Board.
+12 (e) “License” means, unless the context requires otherwise, a license issued by the
+13 Board to practice acupuncture.
+14 (F) (1) “MANUAL THERAPIES” MEANS TREATMENT MODALITIES THAT
+15 APPLY PRESSURE OR MANIPULATION USING HANDS OR ANOTHER PART OF THE
+16 BODY ALONG POINTS OR MERIDIANS THAT NORMALIZE ELECTROMAGNETIC OR
+17 ENERGETIC FUNCTION.
+18 (2) “MANUAL THERAPIES” INCLUDE ACUPRESSURE OR OTHER
+19 PRESSURE TREATMENT TECHNIQUES BASED ON EAST ASIAN MEDICAL THERAPIES.
+20 [(f)] (G) (1) “Practice acupuncture” means the use of East Asian medical
+21 therapies for the purpose of normalizing energetic physiological functions including pain
+22 control, and for the promotion, maintenance, and restoration of health.
+23 (2) “Practice acupuncture” includes:
+24 (i) Stimulation of the body by the insertion of needles;
+25 (ii) The application of moxibustion; and
+26 (iii) Manual THERAPIES, mechanical THERAPIES, thermal
+27 THERAPIES, electrical THERAPIES, or other East Asian medical therapies only when
+28 performed in accordance with the principles of East Asian medical theories and practices.
+29 [(g)] (H) “Supervision” means:
+30 (1) A formalized professional relationship between a licensed
+31 acupuncturist and an individual performing auricular detoxification that provides
+
+HOUSE BILL 374 3
+1 evaluation and direction of the individual to adequately ensure the safety and welfare of
+2 clients during the course of treatment; and
+3 (2) As defined by the Board in regulations:
+4 (i) Periodic direct supervision where the licensed acupuncturist is
+5 present or on–site during treatment; and
+6 (ii) General supervision where the licensed acupuncturist is neither
+7 present nor on–site during treatment.
+8 1A–302.
+9 (b) The applicant shall:
+10 (1) Be of good moral character;
+11 (2) Be at least 18 years old;
+12 (3) Demonstrate competence in performing acupuncture by meeting the
+13 following standards for education or training:
+14 (i) If the applicant is issued a license on or before May 31, 2026:
+15 1. Graduation from at least a master’s level program or its
+16 equivalent in acupuncture that is:
+17 A. Approved by the Maryland Higher Education
+18 Commission;
+19 B. Accredited by the Accreditation Commission for
+20 Acupuncture and [Oriental] HERBAL Medicine; or
+21 C. Found by the Board to be equivalent to a course approved
+22 or accredited under item A or B of this item; or
+23 2. Achievement of a:
+24 A. Diplomate in acupuncture from the National Certification
+25 Commission for Acupuncture and Oriental Medicine; or
+26 B. Passing score on an examination that is determined by the
+27 Board to be equivalent to the examination given by the National Certification Commission
+28 for Acupuncture and Oriental Medicine; or
+29 (ii) If the applicant is issued a license on or after June 1, 2026:
+
+4 HOUSE BILL 374
+1 1. Graduation from at least a master’s level program or its
+2 equivalent in acupuncture that is:
+3 A. Approved by the Maryland Higher Education
+4 Commission;
+5 B. Accredited by the Accreditation Commission for
+6 Acupuncture and [Oriental] HERBAL Medicine; or
+7 C. Found by the Board to be equivalent to a course approved
+8 or accredited under item A or B of this item; and
+9 2. Achievement of a passing score on an examination given
+10 by the National Certification Commission for Acupuncture and Oriental Medicine or
+11 determined by the Board to be equivalent to the examination given by the National
+12 Certification Commission for Acupuncture and Oriental Medicine;
+13 (4) Demonstrate the ability to communicate in the English language; and
+14 (5) Meet any other qualifications that the Board establishes in regulations.
+15 1A–306.
+16 (e) The Board shall renew the license of and [issue a renewal certificate] MAKE
+17 AVAILABLE PROOF OF RENEWAL to each licensee who meets the requirements of this
+18 section.
+19 1A–403.
+20 EXCEPT AS OTHERWISE PROVIDED IN THIS TITLE, A PERSON MAY NOT:
+21 (1) EMPLOY AN INDIVIDUAL TO PRACTICE ACUPUNCTURE WITHOUT A
+22 LICENSE; OR
+23 (2) AID OR ABET THE UNAUTHORIZED PRACTICE OF ACUPUNCTURE
+24 IN VIOLATION OF § 1A–401 OF THIS SUBTITLE.
+25 [1A–403.] 1A–404.
+26 (a) A person who violates [any provision] § 1A–401 OR § 1A–402 of this subtitle
+27 is [guilty]:
+28 (1) GUILTY of a misdemeanor and on conviction is subject to a fine not
+29 exceeding $5,000 or imprisonment not exceeding 3 years or both[.
+
+HOUSE BILL 374 5
+1 (b) A person who violates § 1A–401 or § 1A–402 of this subtitle is subject]; AND
+2 (2) SUBJECT to a civil fine not to exceed $50,000 to be assessed by the
+3 Board in accordance with regulations adopted by the Board.
+4 (B) A PERSON WHO VIOLATES § 1A–403 OF THIS SUBTITLE IS:
+5 (1) (I) FOR A FIRST OFFENSE, GUILTY OF A MISDEMEANOR AND ON
+6 CONVICTION IS SUBJECT TO A FINE NOT EXCEEDING $5,000 OR IMPRISONMENT NOT
+7 EXCEEDING 1 YEAR OR BOTH; AND
+8 (II) FOR A SUBSEQUENT OFFENSE, GUILTY OF A FELONY AND ON
+9 CONVICTION IS SUBJECT TO A FINE NOT EXCEEDING $5,000 PER DAY OR
+10 IMPRISONMENT NOT EXCEEDING 5 YEARS OR BOTH; AND
+11 (2) SUBJECT TO A CIVIL FINE NOT TO EXCEED $10,000 TO BE
+12 ASSESSED BY THE BOARD IN ACCORDANCE WITH REGULATIONS ADOPTED BY THE
+13 BOARD.
+14 (C) THE BOARD SHALL REMIT ANY PENALTY COLLECTED UNDER THIS
+15 SECTION INTO THE GENERAL FUND OF THE STATE.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+17 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      6   C A S F r t t p B  A  S  A  ( B  A  S  A  (  S T]
+[DELETED:  H  A 1  ( I  ( “ m a f o h c b o E A m t f  ( “ d m a a t i t n i h  ( “  ( “ B() ( “MA TS M T M T P O M U H O A P O T A P O M T N E O ( “M TS I A O O A SA.  ()( “ a m t u o E A m]() t c   ( “    ( S    ( T    ( M , m , tSTST , e , o o E A m t o w p  ()“]()   ( A f p r b a l a a a i p a d t p]
+[DELETED: H 3 e c   ( A    ( P p    ( G p 1  ( T   ( B   ( B   ( D c i p a b m t f    ( I     1 G e     A A b t M H E C     B A b t A C f A Ol ]E     C F o     2 A     A D C     B P B f    ( I]
+[DELETED:  H      1 G e     A A b t M H E C     B A b t A C f A OlM]E     C F o     2 A b t N C C f A a O M o d b t B t b e t t e g b t N C   ( D   ( M 1  ( T i   sE,:E  ( E  (    11.]1 1  ( A an ]§11§1    i g]    o) eh.]
+[DELETED: H 5  ( A;     ) B() A§13:     ( () FOE     H ;  () FIOE  I S T A F N E  P D O  H ; ( S$ T A C F N T E  T B O.() TH O S R A P C U T E U TFS.  S A B I F E T t A s t e O          G               ]

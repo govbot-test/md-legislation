@@ -1,0 +1,642 @@
+Title: SENATE BILL 829
+Official Title: SENATE BILL 829
+Number of Sections: 1
+Source: versions - Third - Residential-in-Commercial-Zone Laws - Study (Bring Back Main Street Act)
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+L6, C9 6lr2223
+CF HB 1137
+By: Senator Waldstreicher
+Introduced and read first time: February 6, 2026
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 2, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Land Use – Multifamily Developments and Mixed–Use Developments –
+3 Authorization
+4 Residential–in–Commercial–Zone Laws – Study
+5 (Bring Back Main Street Act)
+6 FOR the purpose of requiring certain counties to allow multifamily developments and
+7 mixed–use developments as a permitted use on certain parcels or lots; prohibiting
+8 certain counties from imposing certain restrictions, requirements, or limitations on
+9 permitted developments; authorizing certain counties to require a permitted
+10 development to have a certain percentage of available floor space dedicated to retail
+11 uses and to include on–site parking; prohibiting a restriction on use from imposing
+12 or acting to impose certain limitations on the development of a multifamily
+13 development or mixed–use development; and generally relating to multifamily
+14 developments and mixed–use developments requiring the Department of Housing
+15 and Community Development to study and make recommendations regarding laws
+16 to require certain local jurisdictions to allow certain residential or mixed–use
+17 developments as a permitted use on certain parcels or lots zoned for commercial use;
+18 and generally relating to residential–in–commercial–zone laws.
+19 BY repealing and reenacting, without amendments,
+20 Article – Land Use
+21 Section 1–101(a) and (b) and 7–501(a), (b), (c), (d), and (i)
+22 Annotated Code of Maryland
+23 (2012 Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0829*
+2 SENATE BILL 829
+1 BY repealing and reenacting, with amendments,
+2 Article – Land Use
+3 Section 1–401 and 10–103
+4 Annotated Code of Maryland
+5 (2012 Volume and 2025 Supplement)
+6 BY adding to
+7 Article – Land Use
+8 Section 4–104(e)
+9 Annotated Code of Maryland
+10 (2012 Volume and 2025 Supplement)
+11 BY adding to
+12 Article – Real Property
+13 Section 2–127
+14 Annotated Code of Maryland
+15 (2023 Replacement Volume and 2025 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – Land Use
+19 1–101.
+20 (a) In this division the following words have the meanings indicated.
+21 (b) “Adaptive reuse” means a change granted by a legislative body under § 4–207
+22 of this article to the use restrictions in a zoning classification, as those restrictions are
+23 applied to a particular improved property.
+24 1–401.
+25 (a) Except as provided in this section, this division does not apply to charter
+26 counties.
+27 (b) The following provisions of this division apply to a charter county:
+28 (1) this subtitle, including Parts II and III (Charter county
+29 – Comprehensive plans);
+30 (2) § 1–101(l), (m), and (o) (Definitions – “Plan”, “Priority funding area”,
+31 and “Sensitive area”);
+32 (3) § 1–201 (Visions);
+33 (4) § 1–206 (Required education);
+SENATE BILL 829 3
+1 (5) § 1–207 (Annual report – In general);
+2 (6) § 1–208 (Annual report – Measures and indicators);
+3 (7) Title 1, Subtitle 3 (Consistency);
+4 (8) Title 1, Subtitle 5 (Growth Tiers);
+5 (9) § 4–104(c) (Limitations – Bicycle parking);
+6 (10) § 4–104(d) (Limitations – Manufactured homes and modular dwellings);
+7 (11) § 4–104(E) (MULTIFAMILY DEVELOPMENTS AND MIXED–USE
+8 DEVELOPMENTS);
+9 (12) § 4–208 (Exceptions – Maryland Accessibility Code);
+10 [(12)] (13) § 4–210 (Permits and variances – Solar panels);
+11 [(13)] (14) § 4–211 (Change in zoning classification – Energy generating
+12 systems);
+13 [(14)] (15) § 4–212 (Agritourism);
+14 [(15)] (16) § 4–213 (Alcohol production);
+15 [(16)] (17) § 4–214 (Agricultural alcohol production);
+16 [(17)] (18) § 4–215 (Pollinator–friendly vegetation management);
+17 [(18)] (19) § 4–216 (Limitations – Family child care homes and large family
+18 child care homes);
+19 [(19)] (20) Title 4, Subtitle 5 (Accessory Dwelling Units);
+20 [(20)] (21) § 5–102(d) (Subdivision regulations – Burial sites);
+21 [(21)] (22) § 5–104 (Major subdivision – Review);
+22 [(22)] (23) Title 7, Subtitle 1 (Development Mechanisms);
+23 [(23)] (24) Title 7, Subtitle 2 (Transfer of Development Rights);
+24 [(24)] (25) except in Montgomery County or Prince George’s County, Title
+25 7, Subtitle 3 (Development Rights and Responsibilities Agreements);
+4 SENATE BILL 829
+1 [(25)] (26) Title 7, Subtitle 4 (Inclusionary Zoning);
+2 [(26)] (27) Title 7, Subtitle 5 (Housing Expansion and Affordability);
+3 [(27)] (28) § 8–401 (Conversion of overhead facilities);
+4 [(28)] (29) for Baltimore County only, Title 9, Subtitle 3 (Single–County
+5 Provisions – Baltimore County);
+6 [(29)] (30) for Frederick County only, Title 9, Subtitle 10 (Single–County
+7 Provisions – Frederick County);
+8 [(30)] (31) for Howard County only, Title 9, Subtitle 13 (Single–County
+9 Provisions – Howard County);
+10 [(31)] (32) for Talbot County only, Title 9, Subtitle 18 (Single–County
+11 Provisions – Talbot County); and
+12 [(32)] (33) Title 11, Subtitle 2 (Civil Penalty).
+13 (c) This section supersedes any inconsistent provision of Division II of this article.
+14 4–104.
+15 (E) (1) (I) IN THIS SUBSECTION THE FOLLOWING WORDS HAVE THE
+16 MEANINGS INDICATED.
+17 (II) “AFFORDABLE” HAS THE MEANING STATED IN § 7–501 OF
+18 THIS ARTICLE.
+19 (III) “AFFORDABLE DWELLING UNIT” HAS THE MEANING STATED
+20 IN § 7–501 OF THIS ARTICLE.
+21 (IV) “AREA MEDIAN INCOME” HAS THE MEANING STATED IN §
+22 7–501 OF THIS ARTICLE.
+23 (V) “MIXED–USE DEVELOPMENT” MEANS A DEVELOPMENT
+24 CONSISTING OF RESIDENTIAL AND NONRESIDENTIAL USES IN WHICH THE
+25 NONRESIDENTIAL USES:
+26 1. ARE LESS THAN 50% OF THE TOTAL SQUARE FOOTAGE
+27 OF THE DEVELOPMENT; AND
+SENATE BILL 829 5
+1 2. ARE LIMITED TO THE FIRST FLOOR OF BUILDINGS
+2 THAT ARE TWO OR MORE STORIES.
+3 (VI) “MULTIFAMILY DEVELOPMENT” MEANS A BUILDING
+4 DESIGNED FOR FIVE OR MORE DWELLING UNITS IN WHICH:
+5 1. THE DWELLING UNITS SHARE A COMMON SEPARATION
+6 SUCH AS A CEILING OR WALL; AND
+7 2. COMMON ACCESS BETWEEN THE DWELLING UNITS
+8 CANNOT BE GAINED THROUGH AN INTERNAL DOORWAY, EXCEPT FOR A COMMON
+9 HALLWAY.
+10 (VII) “PERMITTED DEVELOPMENT” MEANS A MULTIFAMILY
+11 DEVELOPMENT OR MIXED–USE DEVELOPMENT ALLOWED AS A PERMITTED USE
+12 UNDER PARAGRAPH (3) OF THIS SUBSECTION.
+13 (VIII) “PERMITTED USE” MEANS THE ABILITY TO BE APPROVED
+14 WITHOUT REQUIRING A PUBLIC HEARING, VARIANCE, CONDITIONAL USE PERMIT,
+15 SPECIAL PERMIT, SPECIAL EXCEPTION, OR ANY OTHER DISCRETIONARY ZONING
+16 ACTION REQUIRED UNDER THIS ARTICLE OTHER THAN A DETERMINATION THAT A
+17 SITE PLAN CONFORMS WITH APPLICABLE ZONING REGULATIONS.
+18 (2) THIS SUBSECTION APPLIES ONLY TO A COUNTY WITH A
+19 POPULATION OF MORE THAN 150,000.
+20 (3) A COUNTY SHALL ALLOW MULTIFAMILY DEVELOPMENTS OR
+21 MIXED–USE DEVELOPMENTS AS A PERMITTED USE ON A PARCEL OR LOT THAT IS:
+22 (I) CURRENTLY SERVICED BY A WATER AND SEWER SYSTEM,
+23 WHETHER PUBLIC OR PRIVATE; AND
+24 (II) LOCATED ON A PARCEL ZONED FOR RECREATIONAL OR
+25 COMMERCIAL USE.
+26 (4) ON A PERMITTED DEVELOPMENT, A COUNTY MAY NOT IMPOSE:
+27 (I) DENSITY LIMITS THAT ARE LOWER THAN THE HIGHEST
+28 ALLOWABLE DENSITY IN THE COUNTY’S RESIDENTIAL ZONES;
+29 (II) SETBACK REQUIREMENTS THAT ARE GREATER THAN THE
+30 LESSER OF:
+6 SENATE BILL 829
+1 1. STANDARD UTILITY EASEMENTS;
+2 2. EXISTING COMMERCIAL SETBACK REQUIREMENTS
+3 FROM SIDE AND REAR LOT LINES; OR
+4 3. EXISTING SETBACK REQUIREMENTS FOR A PROPERTY
+5 BEING CONVERTED TO RESIDENTIAL OR MIXED–USE THROUGH ADAPTIVE REUSE;
+6 (III) RESTRICTIONS ON LOT SIZE OR COVERAGE;
+7 (IV) MANDATORY WALLS, FENCES, OR SCREENING;
+8 (V) MANDATORY USE OF IMPERVIOUS PAVEMENT OUTDOORS
+9 UNLESS IF NECESSARY FOR:
+10 1. DISABILITY ACCOMMODATION; OR
+11 2. PUBLIC HEALTH AND SAFETY; OR
+12 (VI) MANDATORY NONPUBLIC OPEN SPACE OR COMMON AREAS.
+13 (5) A COUNTY MAY NOT REQUIRE A PERMITTED DEVELOPMENT TO
+14 INCLUDE A PERCENTAGE OF AFFORDABLE DWELLING UNITS GREATER THAN THE
+15 PERCENTAGE OTHERWISE REQUIRED IN RESIDENTIAL ZONES IN THAT COUNTY.
+16 (6) A COUNTY MAY REQUIRE:
+17 (I) UP TO 20% OF THE AVAILABLE FLOOR SPACE OF A
+18 PERMITTED DEVELOPMENT TO BE DEDICATED TO RETAIL USES; AND
+19 (II) A PERMITTED DEVELOPMENT TO INCLUDE ON–SITE
+20 PARKING.
+21 (7) A COUNTY MAY REGULATE THE SITING AND DESIGN OF A
+22 PERMITTED DEVELOPMENT.
+23 (8) A COUNTY MAY NOT IMPOSE A MINIMUM OFF–STREET PARKING
+24 REQUIREMENT ON A PERMITTED DEVELOPMENT, EXCEPT AS NECESSARY TO
+25 COMPLY WITH FEDERAL LAW.
+26 7–501.
+27 (a) In this subtitle the following words have the meanings indicated.
+SENATE BILL 829 7
+1 (b) “Affordable” means that housing costs do not exceed 30% of a household’s
+2 income.
+3 (c) “Affordable dwelling unit” means a dwelling unit that is affordable to
+4 households earning 60% or less of the area median income.
+5 (d) “Area median income” means the median household income for the area
+6 adjusted for household size as published and annually updated by the U.S. Department of
+7 Housing and Urban Development.
+8 (i) (1) “Mixed–use” means any combination of a residential use with a
+9 recreational, office, dining, or retail use.
+10 (2) “Mixed–use” does not mean any combination of a residential use with
+11 an industrial or hazardous use.
+12 10–103.
+13 (a) Except as provided in this section, this division does not apply to Baltimore
+14 City.
+15 (b) The following provisions of this division apply to Baltimore City:
+16 (1) this title;
+17 (2) § 1–101(m) (Definitions – “Priority funding area”);
+18 (3) § 1–101(o) (Definitions – “Sensitive area”);
+19 (4) § 1–201 (Visions);
+20 (5) § 1–206 (Required education);
+21 (6) § 1–207 (Annual report – In general);
+22 (7) § 1–208 (Annual report – Measures and indicators);
+23 (8) Title 1, Subtitle 3 (Consistency);
+24 (9) Title 1, Subtitle 4, Parts II and III (Home Rule Counties
+25 – Comprehensive Plans; Implementation);
+26 (10) § 4–104(c) (Limitations – Bicycle parking);
+27 (11) § 4–104(d) (Limitations – Manufactured homes and modular dwellings);
+8 SENATE BILL 829
+1 (12) § 4–104(E) (MULTIFAMILY DEVELOPMENTS AND MIXED–USE
+2 DEVELOPMENTS);
+3 (13) § 4–205 (Administrative adjustments);
+4 [(13)] (14) § 4–208 (Exceptions – Maryland Accessibility Code);
+5 [(14)] (15) § 4–210 (Permits and variances – Solar panels);
+6 [(15)] (16) § 4–211 (Change in zoning classification – Energy generating
+7 systems);
+8 [(16)] (17) § 4–215 (Pollinator–friendly vegetation management);
+9 [(17)] (18) § 4–216 (Limitations – Family child care homes and large family
+10 child care homes);
+11 [(18)] (19) Title 4, Subtitle 5 (Accessory Dwelling Units);
+12 [(19)] (20) § 5–102(d) (Subdivision regulations – Burial sites);
+13 [(20)] (21) Title 7, Subtitle 1 (Development Mechanisms);
+14 [(21)] (22) Title 7, Subtitle 2 (Transfer of Development Rights);
+15 [(22)] (23) Title 7, Subtitle 3 (Development Rights and Responsibilities
+16 Agreements);
+17 [(23)] (24) Title 7, Subtitle 4 (Inclusionary Zoning);
+18 [(24)] (25) Title 7, Subtitle 5 (Housing Expansion and Affordability); and
+19 [(25)] (26) Title 11, Subtitle 2 (Civil Penalty).
+20 Article – Real Property
+21 2–127.
+22 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+23 INDICATED.
+24 (2) “MIXED–USE DEVELOPMENT” HAS THE MEANING STATED IN §
+25 4–104(E) OF THE LAND USE ARTICLE.
+SENATE BILL 829 9
+1 (3) “MULTIFAMILY DEVELOPMENT” HAS THE MEANING STATED IN §
+2 4–104(E) OF THE LAND USE ARTICLE.
+3 (4) “RESTRICTION ON USE” INCLUDES ANY COVENANT,
+4 RESTRICTION, OR CONDITION CONTAINED IN:
+5 (I) A DEED;
+6 (II) A DECLARATION;
+7 (III) A CONTRACT;
+8 (IV) THE BYLAWS OR RULES OF A HOMEOWNERS ASSOCIATION;
+9 (V) A SECURITY INSTRUMENT; OR
+10 (VI) ANY OTHER INSTRUMENT AFFECTING:
+11 1. THE TRANSFER OR SALE OF REAL PROPERTY; OR
+12 2. ANY OTHER INTEREST IN REAL PROPERTY.
+13 (B) (1) IF A PROPERTY OWNER HAS THE EXCLUSIVE RIGHT TO USE THE
+14 PROPERTY AND ABIDES BY ALL APPLICABLE LAWS AND REGULATIONS, A
+15 RESTRICTION ON USE REGARDING LAND USE MAY NOT IMPOSE OR ACT TO IMPOSE
+16 AN UNREASONABLE LIMITATION ON THE ABILITY OF THE PROPERTY OWNER TO
+17 BUILD A RESIDENTIAL DEVELOPMENT OR MIXED–USE DEVELOPMENT.
+18 (2) FOR THE PURPOSE OF PARAGRAPH (1) OF THIS SUBSECTION, AN
+19 UNREASONABLE LIMITATION INCLUDES A LIMITATION THAT:
+20 (I) SIGNIFICANTLY INCREASES THE COST OF DEVELOPING A
+21 MULTIFAMILY DEVELOPMENT OR MIXED–USE DEVELOPMENT; OR
+22 (II) PROHIBITS, EITHER EXPLICITLY OR BY EFFECT OF THE
+23 RESTRICTIONS, A MULTIFAMILY DEVELOPMENT OR MIXED–USE DEVELOPMENT.
+24 (C) THIS SECTION DOES NOT APPLY TO A RESTRICTION ON USE ON HISTORIC
+25 PROPERTY THAT IS LISTED IN OR DETERMINED BY THE DIRECTOR OF THE
+26 MARYLAND HISTORICAL TRUST TO BE ELIGIBLE FOR INCLUSION IN THE MARYLAND
+27 REGISTER OF HISTORIC PROPERTIES.
+28 (a) (1) In this section the following words have the meanings indicated.
+10 SENATE BILL 829
+1 (2) “Department” means the Department of Housing and Community
+2 Development.
+3 (3) “Residential–in–commercial–zone (RICZ) law” means statewide
+4 legislation that requires local jurisdictions to allow multifamily residential or mixed–use
+5 developments as a permitted use in at least some commercially zoned areas.
+6 (b) The Department shall conduct a study of RICZ laws, which shall include:
+7 (1) a summary and comparison of RICZ laws enacted by other states;
+8 (2) an assessment of the impact of RICZ laws on:
+9 (i) urban communities where there is already a mix of commercial
+10 and residential uses;
+11 (ii) local infrastructure;
+12 (iii) local economic development goals; and
+13 (iv) housing production; and
+14 (3) recommendations regarding appropriate requirements and restrictions
+15 applicable to multifamily residential and mixed–use development under RICZ laws,
+16 including recommendations regarding:
+17 (i) off–street parking requirements;
+18 (ii) allowed density;
+19 (iii) first–floor nonresidential use requirements;
+20 (iv) building height restrictions;
+21 (v) the types of commercial areas appropriate for multifamily
+22 residential and mixed–use developments; and
+23 (vi) special considerations for urban, suburban, and rural areas.
+24 (c) On or before December 1, 2026, the Department shall report its findings and
+25 recommendations to the Governor and, in accordance with § 2–1257 of the State
+26 Government Article, the General Assembly.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 October June 1, 2026. It shall remain effective for a period of 1 year and, at the end of May
+29 31, 2027, this Act, with no further action required by the General Assembly, shall be
+30 abrogated and of no further force and effect.
+[DELETED: :CA      6   C A L A R ( F t p o r c c t a m d a m c p d a c c t r a p d u o a t i c l o t d o a m d o m d a g r t m d a t r c l j t a c r o m d a B  A  S  A  (]
+[DELETED:  S  B  A  S  A  ( B  A  S  A  ( B  A  S  A  (  S T A 1  ( I  ( “ o a 1  ( E a p i t s t d d n a t c c  ( T   ( t s i P I a I ( c     ( § a   ( §   ( §]
+[DELETED: S 3   ( §   ( §   ( T   ( T   ( §   ( §   (4()(ME U D A MDU   §   () §](   () § 4 ( i z c – E g]( s   () §](   () §](   () §](   () §](   () §]( c   () T](   () §](   () §](   () T](   () T](   () e]( 7]
+[DELETED:  S    () T](   () T](   () §](   () f B C o T 9 S 3 (]( P   () f]( P   () f H C o T 9 S 1 (]( P   () f T C o T 9 S 1 (]( P   () T](  ( T 4 ) ( () IN T S T F W H T  () “A”§7IFE      () “AIFT    71.  () “A”§VRE  1.  () “M–IDU DT M A D O R A N U I W T   1 5  T ]
+[DELETED: S 5   2 L T T F F O B  () “MIU DT M A B   1L    2 A B T D UY   () “PIE DT M A M O MDU D A A A P U  ).  ()PIEE G E T, PT S EN O A O D Z (  S A O T A C W A ( C S A M D ODU:  () C S B A W A S SME   ()IL O A P Z F R O ( O,:T   ()D L T A L T T HYS;  ()IS R T A G T T]
+[DELETED:  S    1 ;   2 C S RS    3DU;  () ;IR  () ,,;VMS S   ()M U O I P O   1 ;N    2 ;Y   () .IM (  ( A:  () 2U T  O T A F S O AS   () IA P D T I ONS ( C M R T S A D O A ( AFS O A P DT E A N T 7  ( I]
+[DELETED: S 7  ( “ m t h c d n e 3 o a h i  ( “ d u m a d u t i a t h  ( “ m i m t m h i f t a a H  ( ( “ m a c o a r u w a r   ( “ a 1  ( E C  ( T   ( t   ( §   ( §   ( §   ( §   ( §   ( §   ( T   ( T 1 S 4 P I a I ( R C     ( §   ( §]
+[DELETED:  S    (4()(ME U D A MDU   §   () §](   () §](   () § 4 ( i z c – E g]( s   () §](   () §]( c   () T](   () §](   () T](   () T](   () T 7 S 3 ( R a R]( A   () T](   () T](   () T]( A() ( N ( “M–”§DU DT H T M S I ()LUA.  A S R]
+[DELETED: S 9 ( “M”T  ()LUA.  A S R ( “R” O UE I A CTN :  () A;   () A;I   () A;I   () T;VH  () A; T   () A:IN   1 T;Y    2 A.() ( F A A B A A L A RS A U L O T A O T P O TDU. ( F()  N   () I I T C O D ADUT ;  () PIRS E E O B E O TS DU–.() H T I L I O D B T I O THT I R A  ( ( I]
+[DELETED:  S    ( “ m t D o H a C D   ( “ ( l m s l d  ( T   ( a   ( a    ( u a    ( l    ( l    ( h   ( r a t m r a m d u R l i    ( o    ( a    ( f    ( b    ( t t o c a a f m r    ( s  ( O r G  S A B I F E T t A s t e O 3 2 t A w n f a r b t G A s b a]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 829
+L6, C9 6lr2223
+CF HB 1137
+By: Senator Waldstreicher
+Introduced and read first time: February 6, 2026
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 2, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Land Use – Multifamily Developments and Mixed–Use Developments –
+3 Authorization
+4 Residential–in–Commercial–Zone Laws – Study
+5 (Bring Back Main Street Act)
+6 FOR the purpose of requiring certain counties to allow multifamily developments and
+7 mixed–use developments as a permitted use on certain parcels or lots; prohibiting
+8 certain counties from imposing certain restrictions, requirements, or limitations on
+9 permitted developments; authorizing certain counties to require a permitted
+10 development to have a certain percentage of available floor space dedicated to retail
+11 uses and to include on–site parking; prohibiting a restriction on use from imposing
+12 or acting to impose certain limitations on the development of a multifamily
+13 development or mixed–use development; and generally relating to multifamily
+14 developments and mixed–use developments requiring the Department of Housing
+15 and Community Development to study and make recommendations regarding laws
+16 to require certain local jurisdictions to allow certain residential or mixed–use
+17 developments as a permitted use on certain parcels or lots zoned for commercial use;
+18 and generally relating to residential–in–commercial–zone laws.
+19 BY repealing and reenacting, without amendments,
+20 Article – Land Use
+21 Section 1–101(a) and (b) and 7–501(a), (b), (c), (d), and (i)
+22 Annotated Code of Maryland
+23 (2012 Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0829*
+
+2 SENATE BILL 829
+1 BY repealing and reenacting, with amendments,
+2 Article – Land Use
+3 Section 1–401 and 10–103
+4 Annotated Code of Maryland
+5 (2012 Volume and 2025 Supplement)
+6 BY adding to
+7 Article – Land Use
+8 Section 4–104(e)
+9 Annotated Code of Maryland
+10 (2012 Volume and 2025 Supplement)
+11 BY adding to
+12 Article – Real Property
+13 Section 2–127
+14 Annotated Code of Maryland
+15 (2023 Replacement Volume and 2025 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – Land Use
+19 1–101.
+20 (a) In this division the following words have the meanings indicated.
+21 (b) “Adaptive reuse” means a change granted by a legislative body under § 4–207
+22 of this article to the use restrictions in a zoning classification, as those restrictions are
+23 applied to a particular improved property.
+24 1–401.
+25 (a) Except as provided in this section, this division does not apply to charter
+26 counties.
+27 (b) The following provisions of this division apply to a charter county:
+28 (1) this subtitle, including Parts II and III (Charter county
+29 – Comprehensive plans);
+30 (2) § 1–101(l), (m), and (o) (Definitions – “Plan”, “Priority funding area”,
+31 and “Sensitive area”);
+32 (3) § 1–201 (Visions);
+33 (4) § 1–206 (Required education);
+
+SENATE BILL 829 3
+1 (5) § 1–207 (Annual report – In general);
+2 (6) § 1–208 (Annual report – Measures and indicators);
+3 (7) Title 1, Subtitle 3 (Consistency);
+4 (8) Title 1, Subtitle 5 (Growth Tiers);
+5 (9) § 4–104(c) (Limitations – Bicycle parking);
+6 (10) § 4–104(d) (Limitations – Manufactured homes and modular dwellings);
+7 (11) § 4–104(E) (MULTIFAMILY DEVELOPMENTS AND MIXED–USE
+8 DEVELOPMENTS);
+9 (12) § 4–208 (Exceptions – Maryland Accessibility Code);
+10 [(12)] (13) § 4–210 (Permits and variances – Solar panels);
+11 [(13)] (14) § 4–211 (Change in zoning classification – Energy generating
+12 systems);
+13 [(14)] (15) § 4–212 (Agritourism);
+14 [(15)] (16) § 4–213 (Alcohol production);
+15 [(16)] (17) § 4–214 (Agricultural alcohol production);
+16 [(17)] (18) § 4–215 (Pollinator–friendly vegetation management);
+17 [(18)] (19) § 4–216 (Limitations – Family child care homes and large family
+18 child care homes);
+19 [(19)] (20) Title 4, Subtitle 5 (Accessory Dwelling Units);
+20 [(20)] (21) § 5–102(d) (Subdivision regulations – Burial sites);
+21 [(21)] (22) § 5–104 (Major subdivision – Review);
+22 [(22)] (23) Title 7, Subtitle 1 (Development Mechanisms);
+23 [(23)] (24) Title 7, Subtitle 2 (Transfer of Development Rights);
+24 [(24)] (25) except in Montgomery County or Prince George’s County, Title
+25 7, Subtitle 3 (Development Rights and Responsibilities Agreements);
+
+4 SENATE BILL 829
+1 [(25)] (26) Title 7, Subtitle 4 (Inclusionary Zoning);
+2 [(26)] (27) Title 7, Subtitle 5 (Housing Expansion and Affordability);
+3 [(27)] (28) § 8–401 (Conversion of overhead facilities);
+4 [(28)] (29) for Baltimore County only, Title 9, Subtitle 3 (Single–County
+5 Provisions – Baltimore County);
+6 [(29)] (30) for Frederick County only, Title 9, Subtitle 10 (Single–County
+7 Provisions – Frederick County);
+8 [(30)] (31) for Howard County only, Title 9, Subtitle 13 (Single–County
+9 Provisions – Howard County);
+10 [(31)] (32) for Talbot County only, Title 9, Subtitle 18 (Single–County
+11 Provisions – Talbot County); and
+12 [(32)] (33) Title 11, Subtitle 2 (Civil Penalty).
+13 (c) This section supersedes any inconsistent provision of Division II of this article.
+14 4–104.
+15 (E) (1) (I) IN THIS SUBSECTION THE FOLLOWING WORDS HAVE THE
+16 MEANINGS INDICATED.
+17 (II) “AFFORDABLE” HAS THE MEANING STATED IN § 7–501 OF
+18 THIS ARTICLE.
+19 (III) “AFFORDABLE DWELLING UNIT” HAS THE MEANING STATED
+20 IN § 7–501 OF THIS ARTICLE.
+21 (IV) “AREA MEDIAN INCOME” HAS THE MEANING STATED IN §
+22 7–501 OF THIS ARTICLE.
+23 (V) “MIXED–USE DEVELOPMENT” MEANS A DEVELOPMENT
+24 CONSISTING OF RESIDENTIAL AND NONRESIDENTIAL USES IN WHICH THE
+25 NONRESIDENTIAL USES:
+26 1. ARE LESS THAN 50% OF THE TOTAL SQUARE FOOTAGE
+27 OF THE DEVELOPMENT; AND
+
+SENATE BILL 829 5
+1 2. ARE LIMITED TO THE FIRST FLOOR OF BUILDINGS
+2 THAT ARE TWO OR MORE STORIES.
+3 (VI) “MULTIFAMILY DEVELOPMENT” MEANS A BUILDING
+4 DESIGNED FOR FIVE OR MORE DWELLING UNITS IN WHICH:
+5 1. THE DWELLING UNITS SHARE A COMMON SEPARATION
+6 SUCH AS A CEILING OR WALL; AND
+7 2. COMMON ACCESS BETWEEN THE DWELLING UNITS
+8 CANNOT BE GAINED THROUGH AN INTERNAL DOORWAY, EXCEPT FOR A COMMON
+9 HALLWAY.
+10 (VII) “PERMITTED DEVELOPMENT” MEANS A MULTIFAMILY
+11 DEVELOPMENT OR MIXED–USE DEVELOPMENT ALLOWED AS A PERMITTED USE
+12 UNDER PARAGRAPH (3) OF THIS SUBSECTION.
+13 (VIII) “PERMITTED USE” MEANS THE ABILITY TO BE APPROVED
+14 WITHOUT REQUIRING A PUBLIC HEARING, VARIANCE, CONDITIONAL USE PERMIT,
+15 SPECIAL PERMIT, SPECIAL EXCEPTION, OR ANY OTHER DISCRETIONARY ZONING
+16 ACTION REQUIRED UNDER THIS ARTICLE OTHER THAN A DETERMINATION THAT A
+17 SITE PLAN CONFORMS WITH APPLICABLE ZONING REGULATIONS.
+18 (2) THIS SUBSECTION APPLIES ONLY TO A COUNTY WITH A
+19 POPULATION OF MORE THAN 150,000.
+20 (3) A COUNTY SHALL ALLOW MULTIFAMILY DEVELOPMENTS OR
+21 MIXED–USE DEVELOPMENTS AS A PERMITTED USE ON A PARCEL OR LOT THAT IS:
+22 (I) CURRENTLY SERVICED BY A WATER AND SEWER SYSTEM,
+23 WHETHER PUBLIC OR PRIVATE; AND
+24 (II) LOCATED ON A PARCEL ZONED FOR RECREATIONAL OR
+25 COMMERCIAL USE.
+26 (4) ON A PERMITTED DEVELOPMENT, A COUNTY MAY NOT IMPOSE:
+27 (I) DENSITY LIMITS THAT ARE LOWER THAN THE HIGHEST
+28 ALLOWABLE DENSITY IN THE COUNTY’S RESIDENTIAL ZONES;
+29 (II) SETBACK REQUIREMENTS THAT ARE GREATER THAN THE
+30 LESSER OF:
+
+6 SENATE BILL 829
+1 1. STANDARD UTILITY EASEMENTS;
+2 2. EXISTING COMMERCIAL SETBACK REQUIREMENTS
+3 FROM SIDE AND REAR LOT LINES; OR
+4 3. EXISTING SETBACK REQUIREMENTS FOR A PROPERTY
+5 BEING CONVERTED TO RESIDENTIAL OR MIXED–USE THROUGH ADAPTIVE REUSE;
+6 (III) RESTRICTIONS ON LOT SIZE OR COVERAGE;
+7 (IV) MANDATORY WALLS, FENCES, OR SCREENING;
+8 (V) MANDATORY USE OF IMPERVIOUS PAVEMENT OUTDOORS
+9 UNLESS IF NECESSARY FOR:
+10 1. DISABILITY ACCOMMODATION; OR
+11 2. PUBLIC HEALTH AND SAFETY; OR
+12 (VI) MANDATORY NONPUBLIC OPEN SPACE OR COMMON AREAS.
+13 (5) A COUNTY MAY NOT REQUIRE A PERMITTED DEVELOPMENT TO
+14 INCLUDE A PERCENTAGE OF AFFORDABLE DWELLING UNITS GREATER THAN THE
+15 PERCENTAGE OTHERWISE REQUIRED IN RESIDENTIAL ZONES IN THAT COUNTY.
+16 (6) A COUNTY MAY REQUIRE:
+17 (I) UP TO 20% OF THE AVAILABLE FLOOR SPACE OF A
+18 PERMITTED DEVELOPMENT TO BE DEDICATED TO RETAIL USES; AND
+19 (II) A PERMITTED DEVELOPMENT TO INCLUDE ON–SITE
+20 PARKING.
+21 (7) A COUNTY MAY REGULATE THE SITING AND DESIGN OF A
+22 PERMITTED DEVELOPMENT.
+23 (8) A COUNTY MAY NOT IMPOSE A MINIMUM OFF–STREET PARKING
+24 REQUIREMENT ON A PERMITTED DEVELOPMENT, EXCEPT AS NECESSARY TO
+25 COMPLY WITH FEDERAL LAW.
+26 7–501.
+27 (a) In this subtitle the following words have the meanings indicated.
+
+SENATE BILL 829 7
+1 (b) “Affordable” means that housing costs do not exceed 30% of a household’s
+2 income.
+3 (c) “Affordable dwelling unit” means a dwelling unit that is affordable to
+4 households earning 60% or less of the area median income.
+5 (d) “Area median income” means the median household income for the area
+6 adjusted for household size as published and annually updated by the U.S. Department of
+7 Housing and Urban Development.
+8 (i) (1) “Mixed–use” means any combination of a residential use with a
+9 recreational, office, dining, or retail use.
+10 (2) “Mixed–use” does not mean any combination of a residential use with
+11 an industrial or hazardous use.
+12 10–103.
+13 (a) Except as provided in this section, this division does not apply to Baltimore
+14 City.
+15 (b) The following provisions of this division apply to Baltimore City:
+16 (1) this title;
+17 (2) § 1–101(m) (Definitions – “Priority funding area”);
+18 (3) § 1–101(o) (Definitions – “Sensitive area”);
+19 (4) § 1–201 (Visions);
+20 (5) § 1–206 (Required education);
+21 (6) § 1–207 (Annual report – In general);
+22 (7) § 1–208 (Annual report – Measures and indicators);
+23 (8) Title 1, Subtitle 3 (Consistency);
+24 (9) Title 1, Subtitle 4, Parts II and III (Home Rule Counties
+25 – Comprehensive Plans; Implementation);
+26 (10) § 4–104(c) (Limitations – Bicycle parking);
+27 (11) § 4–104(d) (Limitations – Manufactured homes and modular dwellings);
+
+8 SENATE BILL 829
+1 (12) § 4–104(E) (MULTIFAMILY DEVELOPMENTS AND MIXED–USE
+2 DEVELOPMENTS);
+3 (13) § 4–205 (Administrative adjustments);
+4 [(13)] (14) § 4–208 (Exceptions – Maryland Accessibility Code);
+5 [(14)] (15) § 4–210 (Permits and variances – Solar panels);
+6 [(15)] (16) § 4–211 (Change in zoning classification – Energy generating
+7 systems);
+8 [(16)] (17) § 4–215 (Pollinator–friendly vegetation management);
+9 [(17)] (18) § 4–216 (Limitations – Family child care homes and large family
+10 child care homes);
+11 [(18)] (19) Title 4, Subtitle 5 (Accessory Dwelling Units);
+12 [(19)] (20) § 5–102(d) (Subdivision regulations – Burial sites);
+13 [(20)] (21) Title 7, Subtitle 1 (Development Mechanisms);
+14 [(21)] (22) Title 7, Subtitle 2 (Transfer of Development Rights);
+15 [(22)] (23) Title 7, Subtitle 3 (Development Rights and Responsibilities
+16 Agreements);
+17 [(23)] (24) Title 7, Subtitle 4 (Inclusionary Zoning);
+18 [(24)] (25) Title 7, Subtitle 5 (Housing Expansion and Affordability); and
+19 [(25)] (26) Title 11, Subtitle 2 (Civil Penalty).
+20 Article – Real Property
+21 2–127.
+22 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+23 INDICATED.
+24 (2) “MIXED–USE DEVELOPMENT” HAS THE MEANING STATED IN §
+25 4–104(E) OF THE LAND USE ARTICLE.
+
+SENATE BILL 829 9
+1 (3) “MULTIFAMILY DEVELOPMENT” HAS THE MEANING STATED IN §
+2 4–104(E) OF THE LAND USE ARTICLE.
+3 (4) “RESTRICTION ON USE” INCLUDES ANY COVENANT,
+4 RESTRICTION, OR CONDITION CONTAINED IN:
+5 (I) A DEED;
+6 (II) A DECLARATION;
+7 (III) A CONTRACT;
+8 (IV) THE BYLAWS OR RULES OF A HOMEOWNERS ASSOCIATION;
+9 (V) A SECURITY INSTRUMENT; OR
+10 (VI) ANY OTHER INSTRUMENT AFFECTING:
+11 1. THE TRANSFER OR SALE OF REAL PROPERTY; OR
+12 2. ANY OTHER INTEREST IN REAL PROPERTY.
+13 (B) (1) IF A PROPERTY OWNER HAS THE EXCLUSIVE RIGHT TO USE THE
+14 PROPERTY AND ABIDES BY ALL APPLICABLE LAWS AND REGULATIONS, A
+15 RESTRICTION ON USE REGARDING LAND USE MAY NOT IMPOSE OR ACT TO IMPOSE
+16 AN UNREASONABLE LIMITATION ON THE ABILITY OF THE PROPERTY OWNER TO
+17 BUILD A RESIDENTIAL DEVELOPMENT OR MIXED–USE DEVELOPMENT.
+18 (2) FOR THE PURPOSE OF PARAGRAPH (1) OF THIS SUBSECTION, AN
+19 UNREASONABLE LIMITATION INCLUDES A LIMITATION THAT:
+20 (I) SIGNIFICANTLY INCREASES THE COST OF DEVELOPING A
+21 MULTIFAMILY DEVELOPMENT OR MIXED–USE DEVELOPMENT; OR
+22 (II) PROHIBITS, EITHER EXPLICITLY OR BY EFFECT OF THE
+23 RESTRICTIONS, A MULTIFAMILY DEVELOPMENT OR MIXED–USE DEVELOPMENT.
+24 (C) THIS SECTION DOES NOT APPLY TO A RESTRICTION ON USE ON HISTORIC
+25 PROPERTY THAT IS LISTED IN OR DETERMINED BY THE DIRECTOR OF THE
+26 MARYLAND HISTORICAL TRUST TO BE ELIGIBLE FOR INCLUSION IN THE MARYLAND
+27 REGISTER OF HISTORIC PROPERTIES.
+28 (a) (1) In this section the following words have the meanings indicated.
+
+10 SENATE BILL 829
+1 (2) “Department” means the Department of Housing and Community
+2 Development.
+3 (3) “Residential–in–commercial–zone (RICZ) law” means statewide
+4 legislation that requires local jurisdictions to allow multifamily residential or mixed–use
+5 developments as a permitted use in at least some commercially zoned areas.
+6 (b) The Department shall conduct a study of RICZ laws, which shall include:
+7 (1) a summary and comparison of RICZ laws enacted by other states;
+8 (2) an assessment of the impact of RICZ laws on:
+9 (i) urban communities where there is already a mix of commercial
+10 and residential uses;
+11 (ii) local infrastructure;
+12 (iii) local economic development goals; and
+13 (iv) housing production; and
+14 (3) recommendations regarding appropriate requirements and restrictions
+15 applicable to multifamily residential and mixed–use development under RICZ laws,
+16 including recommendations regarding:
+17 (i) off–street parking requirements;
+18 (ii) allowed density;
+19 (iii) first–floor nonresidential use requirements;
+20 (iv) building height restrictions;
+21 (v) the types of commercial areas appropriate for multifamily
+22 residential and mixed–use developments; and
+23 (vi) special considerations for urban, suburban, and rural areas.
+24 (c) On or before December 1, 2026, the Department shall report its findings and
+25 recommendations to the Governor and, in accordance with § 2–1257 of the State
+26 Government Article, the General Assembly.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 October June 1, 2026. It shall remain effective for a period of 1 year and, at the end of May
+29 31, 2027, this Act, with no further action required by the General Assembly, shall be
+30 abrogated and of no further force and effect.
+
+[DELETED: :CA      6   C A L A R ( F t p o r c c t a m d a m c p d a c c t r a p d u o a t i c l o t d o a m d o m d a g r t m d a t r c l j t a c r o m d a B  A  S  A  (]
+[DELETED:  S  B  A  S  A  ( B  A  S  A  ( B  A  S  A  (  S T A 1  ( I  ( “ o a 1  ( E a p i t s t d d n a t c c  ( T   ( t s i P I a I ( c     ( § a   ( §   ( §]
+[DELETED: S 3   ( §   ( §   ( T   ( T   ( §   ( §   (4()(ME U D A MDU   §   () §](   () § 4 ( i z c – E g]( s   () §](   () §](   () §](   () §](   () §]( c   () T](   () §](   () §](   () T](   () T](   () e]( 7]
+[DELETED:  S    () T](   () T](   () §](   () f B C o T 9 S 3 (]( P   () f]( P   () f H C o T 9 S 1 (]( P   () f T C o T 9 S 1 (]( P   () T](  ( T 4 ) ( () IN T S T F W H T  () “A”§7IFE      () “AIFT    71.  () “A”§VRE  1.  () “M–IDU DT M A D O R A N U I W T   1 5  T ]
+[DELETED: S 5   2 L T T F F O B  () “MIU DT M A B   1L    2 A B T D UY   () “PIE DT M A M O MDU D A A A P U  ).  ()PIEE G E T, PT S EN O A O D Z (  S A O T A C W A ( C S A M D ODU:  () C S B A W A S SME   ()IL O A P Z F R O ( O,:T   ()D L T A L T T HYS;  ()IS R T A G T T]
+[DELETED:  S    1 ;   2 C S RS    3DU;  () ;IR  () ,,;VMS S   ()M U O I P O   1 ;N    2 ;Y   () .IM (  ( A:  () 2U T  O T A F S O AS   () IA P D T I ONS ( C M R T S A D O A ( AFS O A P DT E A N T 7  ( I]
+[DELETED: S 7  ( “ m t h c d n e 3 o a h i  ( “ d u m a d u t i a t h  ( “ m i m t m h i f t a a H  ( ( “ m a c o a r u w a r   ( “ a 1  ( E C  ( T   ( t   ( §   ( §   ( §   ( §   ( §   ( §   ( T   ( T 1 S 4 P I a I ( R C     ( §   ( §]
+[DELETED:  S    (4()(ME U D A MDU   §   () §](   () §](   () § 4 ( i z c – E g]( s   () §](   () §]( c   () T](   () §](   () T](   () T](   () T 7 S 3 ( R a R]( A   () T](   () T](   () T]( A() ( N ( “M–”§DU DT H T M S I ()LUA.  A S R]
+[DELETED: S 9 ( “M”T  ()LUA.  A S R ( “R” O UE I A CTN :  () A;   () A;I   () A;I   () T;VH  () A; T   () A:IN   1 T;Y    2 A.() ( F A A B A A L A RS A U L O T A O T P O TDU. ( F()  N   () I I T C O D ADUT ;  () PIRS E E O B E O TS DU–.() H T I L I O D B T I O THT I R A  ( ( I]
+[DELETED:  S    ( “ m t D o H a C D   ( “ ( l m s l d  ( T   ( a   ( a    ( u a    ( l    ( l    ( h   ( r a t m r a m d u R l i    ( o    ( a    ( f    ( b    ( t t o c a a f m r    ( s  ( O r G  S A B I F E T t A s t e O 3 2 t A w n f a r b t G A s b a]

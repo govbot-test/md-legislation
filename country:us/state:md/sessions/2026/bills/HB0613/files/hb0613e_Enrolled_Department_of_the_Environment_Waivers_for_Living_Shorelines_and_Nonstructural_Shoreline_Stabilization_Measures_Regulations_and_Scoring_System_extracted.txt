@@ -1,0 +1,629 @@
+Title: HOUSE BILL 613
+Official Title: HOUSE BILL 613
+Number of Sections: 1
+Source: versions - Enrolled - Department of the Environment - Waivers for Living Shorelines and Nonstructural Shoreline Stabilization Measures - Regulations and Scoring System
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+M1, M3 (6lr1569)
+ENROLLED BILL
+— Environment and Transportation/Education, Energy, and the Environment —
+Introduced by Delegates T. Morgan, Boyce, Crosby, Fisher, Foley, Ghrist,
+Hutchinson, Jacobs, J. Long, M. Morgan, and Ziegler Ziegler, Anderson,
+Behler, Guyton, Holmes, Lewis, and Stein
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+Speaker.
+CHAPTER ______
+1 AN ACT concerning
+2 Calvert and St. Mary’s Counties – Department of the Environment – Waivers for
+3 Living Shorelines and Nonstructural Shoreline Stabilization Measures –
+4 Regulations and Scoring System
+5 FOR the purpose of establishing requirements for the use of authorizing a person to use
+6 living shorelines and nonstructural stabilization measures in Calvert County and St.
+7 Mary’s County; exempting property located in Calvert County and St. Mary’s County
+8 from certain general requirements regarding the use of nonstructural shoreline
+9 stabilization measures as a certain erosion control measure; requiring that certain
+10 regulations adopted by the Department of the Environment require the Department
+11 to take certain action during the evaluation of a certain waiver request under certain
+12 circumstances; requiring the Department to develop a certain scoring system in
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. hb0613*
+2 HOUSE BILL 613
+1 consultation with a certain licensed marine contractor; and generally relating to
+2 shoreline erosion and stabilization.
+3 BY repealing and reenacting, with amendments,
+4 Article – Environment
+5 Section 16–201
+6 Annotated Code of Maryland
+7 (2014 Replacement Volume and 2025 Supplement)
+8 BY repealing
+9 Article – Natural Resources
+10 Section 8–1808.11
+11 Annotated Code of Maryland
+12 (2023 Replacement Volume and 2025 Supplement)
+13 BY adding to
+14 Article – Natural Resources
+15 Section 8–1808.11
+16 Annotated Code of Maryland
+17 (2023 Replacement Volume and 2025 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Environment
+21 16–201.
+22 (a) (1) IN THIS SECTION, THE FOLLOWING WORDS HAVE THE MEANINGS
+23 INDICATED.
+24 (2) (I) “LIVING SHORELINE” MEANS A PROJECT TO MITIGATE THE
+25 EFFECTS OF EROSION CAUSED BY SHORELINE FLOODING OR INUNDATION,
+26 CURRENTS, AND WAVE ENERGY THROUGH PROJECT DESIGN THAT:
+27 1. STABILIZES A SHORELINE BY USING NATURAL
+28 MATERIALS TO CREATE BUFFERS TO ABSORB THE IMPACT OF COASTAL STORMS,
+29 FLOODING, AND WAVE ENERGY AND TO PREVENT OR MINIMIZE SHORELINE
+30 EROSION;
+31 2. INCORPORATES AS MANY NATURAL ELEMENTS AS
+32 POSSIBLE TO ENSURE A SUBSTANTIAL BIOLOGICAL COMPONENT, SUCH AS NATIVE,
+33 OR TIDAL, OR LACUSTRINE FRINGE WETLANDS, OYSTER REEFS, SUBMERGED
+34 AQUATIC VEGETATION, OR NATIVE PLANTS;
+HOUSE BILL 613 3
+1 3. UTILIZES TECHNIQUES THAT INCORPORATE
+2 ECOLOGICAL AND COASTAL ENGINEERING PRINCIPLES IN SHORELINE
+3 STABILIZATION; AND
+4 4. TO THE EXTENT POSSIBLE, MAINTAINS OR RESTORES
+5 EXISTING NATURAL SLOPES AND CONNECTIONS BETWEEN UPLANDS AND ADJACENT
+6 WETLANDS OR SURFACE WATERS.
+7 (II) “LIVING SHORELINE” INCLUDES THE USE OF:
+8 1. NATURAL ELEMENTS SUCH AS SAND, WETLAND
+9 PLANTS, WOODY DEBRIS, OYSTERS OR OTHER SHELLFISH, SUBMERGED AQUATIC
+10 VEGETATION, NATIVE GRASSES, SHRUBS, TREES, OR OTHER BIODEGRADABLE
+11 MATERIALS AS APPROVED BY THE DEPARTMENT; AND
+12 2. LOW PROFILE WHERE APPROPRIATE, STRUCTURAL
+13 ELEMENTS CHANNELWARD OF THE MEAN HIGH WATER LINE, SUCH AS STONE,
+14 CONCRETE, OYSTER DOMES, OR OTHER APPROVED ENGINEERED STRUCTURES.
+15 (III) “LIVING SHORELINE” MAY INCLUDE NONSTRUCTURAL
+16 STABILIZATION MEASURES.
+17 (3) (I) “NONSTRUCTURAL NONSTRUCTURAL SHORELINE
+18 STABILIZATION MEASURE” MEANS AN EROSION CONTROL MEASURE THAT IS:
+19 (I) 1. DOMINATED BY TIDAL WETLAND VEGETATION; AND
+20 (II) 2. DESIGNED TO PRESERVE THE NATURAL SHORELINE,
+21 MINIMIZE EROSION, AND ESTABLISH AQUATIC HABITAT.
+22 (2) (II) “NONSTRUCTURAL SHORELINE STABILIZATION MEASURE”
+23 INCLUDES MARSH OR OTHER TIDAL WETLAND CONSTRUCTION.
+24 (B) (1) A person who is the owner of land bounding on navigable water is
+25 entitled to any natural accretion to the person’s land, to reclaim fast land lost by erosion or
+26 avulsion during the person’s ownership of the land to the extent of provable existing
+27 boundaries.
+28 (2) The person may make improvements into the water in front of the land
+29 to preserve that person’s access to the navigable water or, subject to [subsection (c) (D)]
+30 SUBSECTIONS (D) AND (E) OF THIS SECTION, protect the shore of that person against
+31 erosion.
+4 HOUSE BILL 613
+1 (3) After an improvement has been constructed, the improvement is the
+2 property of the owner of the land to which the improvement is attached.
+3 (4) A right covered in this subtitle does not preclude the owner from
+4 developing any other use approved by the Board.
+5 (5) The right to reclaim lost fast land relates only to fast land lost after
+6 January 1, 1972, and the burden of proof that the loss occurred after this date is on the
+7 owner of the land.
+8 [(b)] (C) The rights of any person, as defined in this subtitle, which existed prior
+9 to July 1, 1973 in relation to natural accretion of land are deemed to have continued to be
+10 in existence subsequent to July 1, 1973 to July 1, 1978.
+11 [(c)] (D) (1) THIS SUBSECTION DOES NOT APPLY TO PROPERTY
+12 LOCATED IN:
+13 (I) CALVERT COUNTY; OR
+14 (II) ST. MARY’S COUNTY APPLIES ONLY TO A SHORELINE
+15 STABILIZATION PROJECT FOR WHICH ANY PORTION OF THE PROJECT IS IN AN AREA
+16 THAT IS NOT DESIGNATED AS APPROPRIATE FOR STRUCTURAL SHORELINE
+17 STABILIZATION MEASURES BY DEPARTMENT MAPPING.
+18 [(1)] (2) Improvements to protect a person’s property against erosion
+19 shall consist of A LIVING SHORELINE OR nonstructural shoreline stabilization measures
+20 that preserve the natural environment, such as marsh creation, except:
+21 (i) In areas designated by Department mapping as appropriate for
+22 structural shoreline stabilization measures; and
+23 (ii) In IN areas where the person can demonstrate to the
+24 Department’s satisfaction that such measures are not feasible, including areas of excessive
+25 erosion, areas subject to heavy tides, and areas too narrow for effective use of nonstructural
+26 shoreline stabilization measures.
+27 [(2)] (3) (i) Subject to subparagraph (ii) of this paragraph, in
+28 consultation with the Department of Natural Resources, the Department shall adopt
+29 regulations to implement the provisions of this subsection.
+30 (ii) Regulations adopted by the Department under subparagraph (i)
+31 of this paragraph shall:
+32 1. include INCLUDE a waiver process that exempts a person
+33 from the requirements of paragraph [(1)] (2) of this subsection on a demonstration to the
+HOUSE BILL 613 5
+1 Department’s satisfaction that A LIVING SHORELINE OR nonstructural shoreline
+2 stabilization measures are not feasible for the person’s property; AND
+3 2. REQUIRE THE DEPARTMENT, AS PART OF ITS
+4 EVALUATION OF WAIVER REQUESTS, TO:
+5 A. ON REQUEST OF THE PROPERTY OWNER AND UNLESS
+6 ANOTHER AMOUNT OF TIME IS AGREED TO WITH THE PROPERTY OWNER, VISIT THE
+7 SITE OF THE PROPOSED PROJECT WITHIN 45 DAYS AFTER THE DATE OF THE WAIVER
+8 REQUEST; AND
+9 B. PROVIDE THE LOCAL SOIL CONSERVATION DISTRICT
+10 WITH WRITTEN NOTICE OF THE WAIVER REQUEST AND PROVIDE THE DISTRICT THE
+11 OPPORTUNITY TO MAKE RECOMMENDATIONS WITHIN 15 DAYS AFTER RECEIPT OF
+12 THE WRITTEN NOTICE ON THE ACCEPTANCE OF OR MODIFICATIONS TO THE WAIVER
+13 REQUEST.
+14 (E) (1) THE DEPARTMENT, IN CONSULTATION WITH A LICENSED MARINE
+15 CONTRACTOR, SHALL DEVELOP A SCORING SYSTEM TO EVALUATE WAIVER
+16 REQUESTS UNDER THIS SECTION.
+17 (2) THE SCORING SYSTEM DEVELOPED UNDER PARAGRAPH (1) OF
+18 THIS SUBSECTION SHALL INCLUDE:
+19 (I) THE FACTORS THE DEPARTMENT WILL CONSIDER IN
+20 EVALUATING A REQUEST;
+21 (II) THE RELATIVE WEIGHT OF EACH FACTOR; AND
+22 (III) THE MINIMUM SCORE THAT A PROJECT MUST RECEIVE TO
+23 DEMONSTRATE TO THE DEPARTMENT’S SATISFACTION THAT A LIVING SHORELINE
+24 OR NONSTRUCTURAL SHORELINE STABILIZATION MEASURE IS NOT FEASIBLE FOR
+25 THE PERSON’S PROPERTY.
+26 (3) THE DEPARTMENT SHALL PUBLISH THE SCORING SYSTEM
+27 DEVELOPED UNDER THIS SUBSECTION ON THE DEPARTMENT’S WEBSITE.
+28 (4) NOTHING IN THIS SUBSECTION MAY BE CONSTRUED TO LIMIT THE
+29 DISCRETION OF THE DEPARTMENT TO GRANT A WAIVER TO A PROJECT THAT DOES
+30 NOT RECEIVE A MINIMUM SCORE.
+31 (E) (1) (I) IN THIS SUBSECTION THE FOLLOWING WORDS HAVE THE
+32 MEANINGS INDICATED.
+6 HOUSE BILL 613
+1 (II) “HIGH–ENERGY ENVIRONMENT” MEANS AN AREA
+2 CHARACTERIZED BY AT LEAST TWO OF THE FOLLOWING CRITERIA:
+3 1. A FETCH OF GREATER THAN 2 MILES;
+4 2. A STEEP NEARSHORE SLOPE EXCEEDING 5%, WHERE
+5 WATER DEEPENS QUICKLY ALLOWING LARGE WAVES TO REACH THE SHORELINE
+6 WITHOUT MUCH DISSIPATION; AND
+7 3. GREATER THAN 2 FEET OF EROSION PER YEAR.
+8 (III) 1. “LIVING SHORELINE” MEANS A PROJECT TO
+9 MITIGATE THE EFFECTS OF EROSION CAUSED BY SHORELINE FLOODING OR
+10 INUNDATION, CURRENTS, AND WAVE ENERGY THROUGH PROJECT DESIGN THAT:
+11 A. STABILIZES A SHORELINE BY USING NATURAL
+12 MATERIALS TO CREATE BUFFERS TO ABSORB THE IMPACT OF COASTAL STORMS,
+13 FLOODING, AND WAVE ENERGY AND TO PREVENT OR MINIMIZE SHORELINE
+14 EROSION;
+15 B. INCORPORATES AS MANY NATURAL ELEMENTS AS
+16 POSSIBLE, SUCH AS NATIVE WETLANDS, OYSTER REEFS, SUBMERGED AQUATIC
+17 VEGETATION, NATIVE GRASSES, SHRUBS, OR TREES;
+18 C. UTILIZES TECHNIQUES THAT INCORPORATE
+19 ECOLOGICAL AND COASTAL ENGINEERING PRINCIPLES IN SHORELINE
+20 STABILIZATION; AND
+21 D. TO THE EXTENT POSSIBLE, MAINTAINS OR RESTORES
+22 EXISTING NATURAL SLOPES AND CONNECTIONS BETWEEN UPLANDS AND ADJACENT
+23 WETLANDS OR SURFACE WATERS.
+24 2. “LIVING SHORELINE” INCLUDES THE USE OF:
+25 A. NATURAL ELEMENTS SUCH AS SAND, WETLAND
+26 PLANTS, LOGS, OYSTERS OR OTHER SHELLFISH, SUBMERGED AQUATIC
+27 VEGETATION, NATIVE GRASSES, SHRUBS, TREES, OR COIR FIBER LOGS; AND
+28 B. STRUCTURAL MATERIALS, SUCH AS STONE,
+29 CONCRETE, OYSTER DOMES, OR OTHER APPROVED ENGINEERED STRUCTURES.
+30 (IV) “MEDIUM–ENERGY ENVIRONMENT” MEANS AN AREA
+31 CHARACTERIZED BY AT LEAST TWO OF THE FOLLOWING CRITERIA:
+HOUSE BILL 613 7
+1 1. A FETCH OF 0.5 MILES TO 2 MILES;
+2 2. A MODERATE NEARSHORE SLOPE OF 2% TO 5% WITH
+3 ENOUGH DEPTH FOR SMALL TO MODERATE WAVES TO PERSIST; AND
+4 3. FROM 0.5 FEET TO 2 FEET OF EROSION PER YEAR.
+5 (2) THIS SUBSECTION APPLIES ONLY TO PROPERTY LOCATED IN:
+6 (I) CALVERT COUNTY; OR
+7 (II) ST. MARY’S COUNTY.
+8 (3) SUBJECT TO PARAGRAPH (7) OF THIS SUBSECTION,
+9 IMPROVEMENTS TO PROTECT A PERSON’S PROPERTY AGAINST EROSION SHALL
+10 CONSIST OF A LIVING SHORELINE OR NONSTRUCTURAL SHORELINE STABILIZATION
+11 MEASURES, EXCEPT IN AREAS WHERE THE PERSON CAN DEMONSTRATE TO THE
+12 LOCAL SOIL CONSERVATION DISTRICT’S SATISFACTION THAT THE PROJECTS AND
+13 MEASURES ARE NOT FEASIBLE, INCLUDING AREAS OF EXCESSIVE EROSION, AREAS
+14 SUBJECT TO HEAVY TIDES, AND AREAS TOO NARROW FOR EFFECTIVE USE OF A
+15 LIVING SHORELINE OR NONSTRUCTURAL SHORELINE STABILIZATION MEASURES.
+16 (4) A SOIL CONSERVATION DISTRICT MAY WAIVE OR REDUCE
+17 MITIGATION REQUIREMENTS FOR LIVING SHORELINES OR NONSTRUCTURAL
+18 SHORELINE STABILIZATION MEASURES IN MEDIUM– AND HIGH–ENERGY
+19 ENVIRONMENTS IF, TO THE SOIL CONSERVATION DISTRICT’S SATISFACTION, THE
+20 LAND–WATER INTERFACE IS MAINTAINED.
+21 (5) ONLY A SOIL CONSERVATION DISTRICT MAY IMPOSE
+22 RESTRICTIONS ON THE TIME OF YEAR WHEN A LIVING SHORELINE OR
+23 NONSTRUCTURAL SHORELINE STABILIZATION MEASURE MAY BE CONSTRUCTED IN
+24 CALVERT COUNTY OR ST. MARY’S COUNTY.
+25 (6) (I) THE CALVERT SOIL CONSERVATION DISTRICT AND THE ST.
+26 MARY’S SOIL CONSERVATION DISTRICT SHALL ADOPT REGULATIONS TO
+27 IMPLEMENT THE PROVISIONS OF THIS SUBSECTION.
+28 (II) THE REGULATIONS SHALL:
+29 1. INCLUDE A WAIVER PROCESS THAT EXEMPTS A
+30 PERSON FROM THE REQUIREMENTS OF PARAGRAPH (3) OF THIS SUBSECTION ON A
+31 DEMONSTRATION TO THE SOIL CONSERVATION DISTRICT’S SATISFACTION THAT THE
+8 HOUSE BILL 613
+1 USE OF A LIVING SHORELINE OR NONSTRUCTURAL SHORELINE STABILIZATION
+2 MEASURES IS NOT FEASIBLE FOR THE PERSON’S PROPERTY; AND
+3 2. REQUIRE A LIVING SHORELINE OR NONSTRUCTURAL
+4 SHORELINE STABILIZATION MEASURE TO BE DESIGNED TO WITHSTAND AT LEAST A
+5 10–YEAR STORM EVENT.
+6 (7) (I) A PERSON MAY NOT BEGIN CONSTRUCTION OF A SHORELINE
+7 STABILIZATION PROJECT FOR WHICH THE CALVERT SOIL CONSERVATION
+8 DISTRICT HAS PROVIDED DESIGN SERVICES UNLESS THE ST. MARY’S SOIL
+9 CONSERVATION DISTRICT HAS REVIEWED THE PROJECT AND CERTIFIED THAT IT
+10 COMPLIES WITH THE REQUIREMENTS OF THIS SUBSECTION.
+11 (II) A PERSON MAY NOT BEGIN CONSTRUCTION OF A SHORELINE
+12 STABILIZATION PROJECT FOR WHICH THE ST. MARY’S SOIL CONSERVATION
+13 DISTRICT HAS PROVIDED DESIGN SERVICES UNLESS THE CALVERT SOIL
+14 CONSERVATION DISTRICT HAS REVIEWED THE PROJECT AND CERTIFIED THAT IT
+15 COMPLIES WITH THE REQUIREMENTS OF THIS SUBSECTION.
+16 Article – Natural Resources
+17 [8–1808.11.
+18 (a) Other than in areas designated by the Department of the Environment
+19 mapping as appropriate for structural shoreline stabilization measures, improvements to
+20 protect a person’s property against erosion shall consist of nonstructural shoreline
+21 stabilization measures that preserve the natural environment, such as marsh creation,
+22 except in areas where the person can demonstrate to the satisfaction of the Department of
+23 the Environment that these measures are not feasible, including areas of excessive erosion,
+24 areas subject to heavy tides, and areas too narrow for effective use of nonstructural
+25 shoreline stabilization measures.
+26 (b) (1) In consultation with the Department, the Department of the
+27 Environment shall adopt regulations to implement the provisions of this subsection.
+28 (2) The regulations shall include a waiver process that exempts a person
+29 from the requirements of subsection (a) of this section on a demonstration to the satisfaction
+30 of the Department of the Environment that nonstructural shoreline stabilization measures
+31 are not feasible for the person’s property.]
+32 8–1808.11.
+33 IMPROVEMENTS TO PROTECT A PERSON’S PROPERTY AGAINST EROSION
+34 SHALL BE IN ACCORDANCE WITH THE PROVISIONS OF § 16–201 OF THE
+35 ENVIRONMENT ARTICLE.
+HOUSE BILL 613 9
+1 SECTION 2. AND BE IT FURTHER ENACTED, That:
+2 (a) (1) The Department of the Environment shall work with stakeholders on
+3 further alterations to the waiver process under § 16–201 of the Environment Article.
+4 (2) In working with stakeholders as required under paragraph (1) of this
+5 subsection, the Department shall:
+6 (i) discuss how to:
+7 1. address the specific challenges with constructing shoreline
+8 stabilization projects in medium– and high–energy environments; and
+9 2. provide greater transparency and certainty to the waiver
+10 process; and
+11 (ii) review existing time–of–year and mitigation requirements.
+12 (b) On or before December 1, 2026, the Department shall report to the Senate
+13 Committee on Education, Energy, and the Environment and the House Environment and
+14 Transportation Committee, in accordance with § 2–1257 of the State Government Article,
+15 on the progress of the stakeholder engagement required under subsection (a) of this section.
+16 SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+17 October July 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      ( b D T B C F F G J J M a Z Z A w t G S a p t t G f h a t d o _ a _ o _ A C L R F l M f c g r r t u o n s s r t c r t D t d a c s s i]
+[DELETED:  H  c w a c l m c a g r t s B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 1  ( IN  ( () “LIE  O E C B S F O INS :   1  A S B U N B I SSG A W E A T P O M S   2  A M N E AT ETL O L F WS O RS S,N ;]
+[DELETED: H 3   3  T T I A C E P I SN    4 TE   () “L”:IIE    1 N E S A SD WS W DS O O O SH S A,N N GS SS TS O O B,, ET ;   2  P  S A C O T M H W LE S A SEE S ,.   )“LII SE M I N  “ ( ( O SE :  () 1 D;ON   () 2 DIEEN . ( () “NIOE   A p w i t o o l b o n w i)( e a d t p o o t l t t e o p e b   T t s() D  E )( , e]
+[DELETED:  H    A p   A r c i t s d n p t o f d   T J o  () T]( t i  () ]()()DH S D N A T P  () CC;A OY   () S.M’IT AYS O A O T A S I N D A A F S S E.   ()I t p a p p a e]( s   t    ( I s    ( I  a w t p c d t t D e s   () ( S t s ( o t p i]( c w t D o N R t D s a r    ( R o   1.  i   f () ](]
+[DELETED: H 5 D s t  n s L S O s   2 RD T ET A P O IS :   A   T    B    . ) ( TH ES D A S S T E W ( T( S S D U P  O  () TH F T E W C IT  () T;IHR   () IH ETSNS. ( T E S P T S S ETS’. (  E ) ( () IN T S T F W H T]
+[DELETED:  H   () “H–IIHE ET M A A   1 A2;     2 A5   D Q A L W T R T SN    3 G2.    () 1 “LII SE M A P T T E O E C B S F ON S ,:   A  A S B U N B I SSG A W E A T P O M S   B  A M N E AE S A N WS O RS S A,N S S ,,;   C  T T I A C E P I SN    D TE    2 “L”:E    A N E S A SD WS LS O O O SH S A,N S S S S ,,,;   B S, MS S A SEE S ,.  () “M–VEME ET M A A]
+[DELETED: H 7   1 A052;    S   2 A2%5    T    3 F052.    R ( T:  () CC;A OY   () S.M’C.IT AYS O ( S() T P  O T SN T P A PNS P A E SS E I A W T P C D T TTSE N  T H TS A A T N F E U O A ( S C D M W O R R F L S O N S M I MM A HHEF T STSN ’DW. (  A S C D M I O T T O Y W A L S OCS.M’C. O T AYS O ( () TCSCDSH A O O I T’SCYS O O I S A R T  () T:IH   1  A W P T E A  TS]
+[DELETED:  H  O A L S O N S SNSY ;   2 –. ( ()   P F W T A O OSS.M’ H P D S U T T AYS O IN  () I  P F W T T AYS O O.M’SC H P D S U T A O I A 8  ()O t i a d b t D o t E m p a p p a e s c ofn s s e t a s t h t a a t n f e u o n s  ( ( I c w t D t D o t E   ( T f o aI T P A PNS P A E B I A W T P O   O T1A. R]
+[DELETED: H 9  S  ( ( T f   ( I s    ( d     1 a s     2 p p    ( r  ( O C T o  S O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 613
+M1, M3 (6lr1569)
+ENROLLED BILL
+— Environment and Transportation/Education, Energy, and the Environment —
+Introduced by Delegates T. Morgan, Boyce, Crosby, Fisher, Foley, Ghrist,
+Hutchinson, Jacobs, J. Long, M. Morgan, and Ziegler Ziegler, Anderson,
+Behler, Guyton, Holmes, Lewis, and Stein
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+Speaker.
+CHAPTER ______
+1 AN ACT concerning
+2 Calvert and St. Mary’s Counties – Department of the Environment – Waivers for
+3 Living Shorelines and Nonstructural Shoreline Stabilization Measures –
+4 Regulations and Scoring System
+5 FOR the purpose of establishing requirements for the use of authorizing a person to use
+6 living shorelines and nonstructural stabilization measures in Calvert County and St.
+7 Mary’s County; exempting property located in Calvert County and St. Mary’s County
+8 from certain general requirements regarding the use of nonstructural shoreline
+9 stabilization measures as a certain erosion control measure; requiring that certain
+10 regulations adopted by the Department of the Environment require the Department
+11 to take certain action during the evaluation of a certain waiver request under certain
+12 circumstances; requiring the Department to develop a certain scoring system in
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. hb0613*
+
+2 HOUSE BILL 613
+1 consultation with a certain licensed marine contractor; and generally relating to
+2 shoreline erosion and stabilization.
+3 BY repealing and reenacting, with amendments,
+4 Article – Environment
+5 Section 16–201
+6 Annotated Code of Maryland
+7 (2014 Replacement Volume and 2025 Supplement)
+8 BY repealing
+9 Article – Natural Resources
+10 Section 8–1808.11
+11 Annotated Code of Maryland
+12 (2023 Replacement Volume and 2025 Supplement)
+13 BY adding to
+14 Article – Natural Resources
+15 Section 8–1808.11
+16 Annotated Code of Maryland
+17 (2023 Replacement Volume and 2025 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Environment
+21 16–201.
+22 (a) (1) IN THIS SECTION, THE FOLLOWING WORDS HAVE THE MEANINGS
+23 INDICATED.
+24 (2) (I) “LIVING SHORELINE” MEANS A PROJECT TO MITIGATE THE
+25 EFFECTS OF EROSION CAUSED BY SHORELINE FLOODING OR INUNDATION,
+26 CURRENTS, AND WAVE ENERGY THROUGH PROJECT DESIGN THAT:
+27 1. STABILIZES A SHORELINE BY USING NATURAL
+28 MATERIALS TO CREATE BUFFERS TO ABSORB THE IMPACT OF COASTAL STORMS,
+29 FLOODING, AND WAVE ENERGY AND TO PREVENT OR MINIMIZE SHORELINE
+30 EROSION;
+31 2. INCORPORATES AS MANY NATURAL ELEMENTS AS
+32 POSSIBLE TO ENSURE A SUBSTANTIAL BIOLOGICAL COMPONENT, SUCH AS NATIVE,
+33 OR TIDAL, OR LACUSTRINE FRINGE WETLANDS, OYSTER REEFS, SUBMERGED
+34 AQUATIC VEGETATION, OR NATIVE PLANTS;
+
+HOUSE BILL 613 3
+1 3. UTILIZES TECHNIQUES THAT INCORPORATE
+2 ECOLOGICAL AND COASTAL ENGINEERING PRINCIPLES IN SHORELINE
+3 STABILIZATION; AND
+4 4. TO THE EXTENT POSSIBLE, MAINTAINS OR RESTORES
+5 EXISTING NATURAL SLOPES AND CONNECTIONS BETWEEN UPLANDS AND ADJACENT
+6 WETLANDS OR SURFACE WATERS.
+7 (II) “LIVING SHORELINE” INCLUDES THE USE OF:
+8 1. NATURAL ELEMENTS SUCH AS SAND, WETLAND
+9 PLANTS, WOODY DEBRIS, OYSTERS OR OTHER SHELLFISH, SUBMERGED AQUATIC
+10 VEGETATION, NATIVE GRASSES, SHRUBS, TREES, OR OTHER BIODEGRADABLE
+11 MATERIALS AS APPROVED BY THE DEPARTMENT; AND
+12 2. LOW PROFILE WHERE APPROPRIATE, STRUCTURAL
+13 ELEMENTS CHANNELWARD OF THE MEAN HIGH WATER LINE, SUCH AS STONE,
+14 CONCRETE, OYSTER DOMES, OR OTHER APPROVED ENGINEERED STRUCTURES.
+15 (III) “LIVING SHORELINE” MAY INCLUDE NONSTRUCTURAL
+16 STABILIZATION MEASURES.
+17 (3) (I) “NONSTRUCTURAL NONSTRUCTURAL SHORELINE
+18 STABILIZATION MEASURE” MEANS AN EROSION CONTROL MEASURE THAT IS:
+19 (I) 1. DOMINATED BY TIDAL WETLAND VEGETATION; AND
+20 (II) 2. DESIGNED TO PRESERVE THE NATURAL SHORELINE,
+21 MINIMIZE EROSION, AND ESTABLISH AQUATIC HABITAT.
+22 (2) (II) “NONSTRUCTURAL SHORELINE STABILIZATION MEASURE”
+23 INCLUDES MARSH OR OTHER TIDAL WETLAND CONSTRUCTION.
+24 (B) (1) A person who is the owner of land bounding on navigable water is
+25 entitled to any natural accretion to the person’s land, to reclaim fast land lost by erosion or
+26 avulsion during the person’s ownership of the land to the extent of provable existing
+27 boundaries.
+28 (2) The person may make improvements into the water in front of the land
+29 to preserve that person’s access to the navigable water or, subject to [subsection (c) (D)]
+30 SUBSECTIONS (D) AND (E) OF THIS SECTION, protect the shore of that person against
+31 erosion.
+
+4 HOUSE BILL 613
+1 (3) After an improvement has been constructed, the improvement is the
+2 property of the owner of the land to which the improvement is attached.
+3 (4) A right covered in this subtitle does not preclude the owner from
+4 developing any other use approved by the Board.
+5 (5) The right to reclaim lost fast land relates only to fast land lost after
+6 January 1, 1972, and the burden of proof that the loss occurred after this date is on the
+7 owner of the land.
+8 [(b)] (C) The rights of any person, as defined in this subtitle, which existed prior
+9 to July 1, 1973 in relation to natural accretion of land are deemed to have continued to be
+10 in existence subsequent to July 1, 1973 to July 1, 1978.
+11 [(c)] (D) (1) THIS SUBSECTION DOES NOT APPLY TO PROPERTY
+12 LOCATED IN:
+13 (I) CALVERT COUNTY; OR
+14 (II) ST. MARY’S COUNTY APPLIES ONLY TO A SHORELINE
+15 STABILIZATION PROJECT FOR WHICH ANY PORTION OF THE PROJECT IS IN AN AREA
+16 THAT IS NOT DESIGNATED AS APPROPRIATE FOR STRUCTURAL SHORELINE
+17 STABILIZATION MEASURES BY DEPARTMENT MAPPING.
+18 [(1)] (2) Improvements to protect a person’s property against erosion
+19 shall consist of A LIVING SHORELINE OR nonstructural shoreline stabilization measures
+20 that preserve the natural environment, such as marsh creation, except:
+21 (i) In areas designated by Department mapping as appropriate for
+22 structural shoreline stabilization measures; and
+23 (ii) In IN areas where the person can demonstrate to the
+24 Department’s satisfaction that such measures are not feasible, including areas of excessive
+25 erosion, areas subject to heavy tides, and areas too narrow for effective use of nonstructural
+26 shoreline stabilization measures.
+27 [(2)] (3) (i) Subject to subparagraph (ii) of this paragraph, in
+28 consultation with the Department of Natural Resources, the Department shall adopt
+29 regulations to implement the provisions of this subsection.
+30 (ii) Regulations adopted by the Department under subparagraph (i)
+31 of this paragraph shall:
+32 1. include INCLUDE a waiver process that exempts a person
+33 from the requirements of paragraph [(1)] (2) of this subsection on a demonstration to the
+
+HOUSE BILL 613 5
+1 Department’s satisfaction that A LIVING SHORELINE OR nonstructural shoreline
+2 stabilization measures are not feasible for the person’s property; AND
+3 2. REQUIRE THE DEPARTMENT, AS PART OF ITS
+4 EVALUATION OF WAIVER REQUESTS, TO:
+5 A. ON REQUEST OF THE PROPERTY OWNER AND UNLESS
+6 ANOTHER AMOUNT OF TIME IS AGREED TO WITH THE PROPERTY OWNER, VISIT THE
+7 SITE OF THE PROPOSED PROJECT WITHIN 45 DAYS AFTER THE DATE OF THE WAIVER
+8 REQUEST; AND
+9 B. PROVIDE THE LOCAL SOIL CONSERVATION DISTRICT
+10 WITH WRITTEN NOTICE OF THE WAIVER REQUEST AND PROVIDE THE DISTRICT THE
+11 OPPORTUNITY TO MAKE RECOMMENDATIONS WITHIN 15 DAYS AFTER RECEIPT OF
+12 THE WRITTEN NOTICE ON THE ACCEPTANCE OF OR MODIFICATIONS TO THE WAIVER
+13 REQUEST.
+14 (E) (1) THE DEPARTMENT, IN CONSULTATION WITH A LICENSED MARINE
+15 CONTRACTOR, SHALL DEVELOP A SCORING SYSTEM TO EVALUATE WAIVER
+16 REQUESTS UNDER THIS SECTION.
+17 (2) THE SCORING SYSTEM DEVELOPED UNDER PARAGRAPH (1) OF
+18 THIS SUBSECTION SHALL INCLUDE:
+19 (I) THE FACTORS THE DEPARTMENT WILL CONSIDER IN
+20 EVALUATING A REQUEST;
+21 (II) THE RELATIVE WEIGHT OF EACH FACTOR; AND
+22 (III) THE MINIMUM SCORE THAT A PROJECT MUST RECEIVE TO
+23 DEMONSTRATE TO THE DEPARTMENT’S SATISFACTION THAT A LIVING SHORELINE
+24 OR NONSTRUCTURAL SHORELINE STABILIZATION MEASURE IS NOT FEASIBLE FOR
+25 THE PERSON’S PROPERTY.
+26 (3) THE DEPARTMENT SHALL PUBLISH THE SCORING SYSTEM
+27 DEVELOPED UNDER THIS SUBSECTION ON THE DEPARTMENT’S WEBSITE.
+28 (4) NOTHING IN THIS SUBSECTION MAY BE CONSTRUED TO LIMIT THE
+29 DISCRETION OF THE DEPARTMENT TO GRANT A WAIVER TO A PROJECT THAT DOES
+30 NOT RECEIVE A MINIMUM SCORE.
+31 (E) (1) (I) IN THIS SUBSECTION THE FOLLOWING WORDS HAVE THE
+32 MEANINGS INDICATED.
+
+6 HOUSE BILL 613
+1 (II) “HIGH–ENERGY ENVIRONMENT” MEANS AN AREA
+2 CHARACTERIZED BY AT LEAST TWO OF THE FOLLOWING CRITERIA:
+3 1. A FETCH OF GREATER THAN 2 MILES;
+4 2. A STEEP NEARSHORE SLOPE EXCEEDING 5%, WHERE
+5 WATER DEEPENS QUICKLY ALLOWING LARGE WAVES TO REACH THE SHORELINE
+6 WITHOUT MUCH DISSIPATION; AND
+7 3. GREATER THAN 2 FEET OF EROSION PER YEAR.
+8 (III) 1. “LIVING SHORELINE” MEANS A PROJECT TO
+9 MITIGATE THE EFFECTS OF EROSION CAUSED BY SHORELINE FLOODING OR
+10 INUNDATION, CURRENTS, AND WAVE ENERGY THROUGH PROJECT DESIGN THAT:
+11 A. STABILIZES A SHORELINE BY USING NATURAL
+12 MATERIALS TO CREATE BUFFERS TO ABSORB THE IMPACT OF COASTAL STORMS,
+13 FLOODING, AND WAVE ENERGY AND TO PREVENT OR MINIMIZE SHORELINE
+14 EROSION;
+15 B. INCORPORATES AS MANY NATURAL ELEMENTS AS
+16 POSSIBLE, SUCH AS NATIVE WETLANDS, OYSTER REEFS, SUBMERGED AQUATIC
+17 VEGETATION, NATIVE GRASSES, SHRUBS, OR TREES;
+18 C. UTILIZES TECHNIQUES THAT INCORPORATE
+19 ECOLOGICAL AND COASTAL ENGINEERING PRINCIPLES IN SHORELINE
+20 STABILIZATION; AND
+21 D. TO THE EXTENT POSSIBLE, MAINTAINS OR RESTORES
+22 EXISTING NATURAL SLOPES AND CONNECTIONS BETWEEN UPLANDS AND ADJACENT
+23 WETLANDS OR SURFACE WATERS.
+24 2. “LIVING SHORELINE” INCLUDES THE USE OF:
+25 A. NATURAL ELEMENTS SUCH AS SAND, WETLAND
+26 PLANTS, LOGS, OYSTERS OR OTHER SHELLFISH, SUBMERGED AQUATIC
+27 VEGETATION, NATIVE GRASSES, SHRUBS, TREES, OR COIR FIBER LOGS; AND
+28 B. STRUCTURAL MATERIALS, SUCH AS STONE,
+29 CONCRETE, OYSTER DOMES, OR OTHER APPROVED ENGINEERED STRUCTURES.
+30 (IV) “MEDIUM–ENERGY ENVIRONMENT” MEANS AN AREA
+31 CHARACTERIZED BY AT LEAST TWO OF THE FOLLOWING CRITERIA:
+
+HOUSE BILL 613 7
+1 1. A FETCH OF 0.5 MILES TO 2 MILES;
+2 2. A MODERATE NEARSHORE SLOPE OF 2% TO 5% WITH
+3 ENOUGH DEPTH FOR SMALL TO MODERATE WAVES TO PERSIST; AND
+4 3. FROM 0.5 FEET TO 2 FEET OF EROSION PER YEAR.
+5 (2) THIS SUBSECTION APPLIES ONLY TO PROPERTY LOCATED IN:
+6 (I) CALVERT COUNTY; OR
+7 (II) ST. MARY’S COUNTY.
+8 (3) SUBJECT TO PARAGRAPH (7) OF THIS SUBSECTION,
+9 IMPROVEMENTS TO PROTECT A PERSON’S PROPERTY AGAINST EROSION SHALL
+10 CONSIST OF A LIVING SHORELINE OR NONSTRUCTURAL SHORELINE STABILIZATION
+11 MEASURES, EXCEPT IN AREAS WHERE THE PERSON CAN DEMONSTRATE TO THE
+12 LOCAL SOIL CONSERVATION DISTRICT’S SATISFACTION THAT THE PROJECTS AND
+13 MEASURES ARE NOT FEASIBLE, INCLUDING AREAS OF EXCESSIVE EROSION, AREAS
+14 SUBJECT TO HEAVY TIDES, AND AREAS TOO NARROW FOR EFFECTIVE USE OF A
+15 LIVING SHORELINE OR NONSTRUCTURAL SHORELINE STABILIZATION MEASURES.
+16 (4) A SOIL CONSERVATION DISTRICT MAY WAIVE OR REDUCE
+17 MITIGATION REQUIREMENTS FOR LIVING SHORELINES OR NONSTRUCTURAL
+18 SHORELINE STABILIZATION MEASURES IN MEDIUM– AND HIGH–ENERGY
+19 ENVIRONMENTS IF, TO THE SOIL CONSERVATION DISTRICT’S SATISFACTION, THE
+20 LAND–WATER INTERFACE IS MAINTAINED.
+21 (5) ONLY A SOIL CONSERVATION DISTRICT MAY IMPOSE
+22 RESTRICTIONS ON THE TIME OF YEAR WHEN A LIVING SHORELINE OR
+23 NONSTRUCTURAL SHORELINE STABILIZATION MEASURE MAY BE CONSTRUCTED IN
+24 CALVERT COUNTY OR ST. MARY’S COUNTY.
+25 (6) (I) THE CALVERT SOIL CONSERVATION DISTRICT AND THE ST.
+26 MARY’S SOIL CONSERVATION DISTRICT SHALL ADOPT REGULATIONS TO
+27 IMPLEMENT THE PROVISIONS OF THIS SUBSECTION.
+28 (II) THE REGULATIONS SHALL:
+29 1. INCLUDE A WAIVER PROCESS THAT EXEMPTS A
+30 PERSON FROM THE REQUIREMENTS OF PARAGRAPH (3) OF THIS SUBSECTION ON A
+31 DEMONSTRATION TO THE SOIL CONSERVATION DISTRICT’S SATISFACTION THAT THE
+
+8 HOUSE BILL 613
+1 USE OF A LIVING SHORELINE OR NONSTRUCTURAL SHORELINE STABILIZATION
+2 MEASURES IS NOT FEASIBLE FOR THE PERSON’S PROPERTY; AND
+3 2. REQUIRE A LIVING SHORELINE OR NONSTRUCTURAL
+4 SHORELINE STABILIZATION MEASURE TO BE DESIGNED TO WITHSTAND AT LEAST A
+5 10–YEAR STORM EVENT.
+6 (7) (I) A PERSON MAY NOT BEGIN CONSTRUCTION OF A SHORELINE
+7 STABILIZATION PROJECT FOR WHICH THE CALVERT SOIL CONSERVATION
+8 DISTRICT HAS PROVIDED DESIGN SERVICES UNLESS THE ST. MARY’S SOIL
+9 CONSERVATION DISTRICT HAS REVIEWED THE PROJECT AND CERTIFIED THAT IT
+10 COMPLIES WITH THE REQUIREMENTS OF THIS SUBSECTION.
+11 (II) A PERSON MAY NOT BEGIN CONSTRUCTION OF A SHORELINE
+12 STABILIZATION PROJECT FOR WHICH THE ST. MARY’S SOIL CONSERVATION
+13 DISTRICT HAS PROVIDED DESIGN SERVICES UNLESS THE CALVERT SOIL
+14 CONSERVATION DISTRICT HAS REVIEWED THE PROJECT AND CERTIFIED THAT IT
+15 COMPLIES WITH THE REQUIREMENTS OF THIS SUBSECTION.
+16 Article – Natural Resources
+17 [8–1808.11.
+18 (a) Other than in areas designated by the Department of the Environment
+19 mapping as appropriate for structural shoreline stabilization measures, improvements to
+20 protect a person’s property against erosion shall consist of nonstructural shoreline
+21 stabilization measures that preserve the natural environment, such as marsh creation,
+22 except in areas where the person can demonstrate to the satisfaction of the Department of
+23 the Environment that these measures are not feasible, including areas of excessive erosion,
+24 areas subject to heavy tides, and areas too narrow for effective use of nonstructural
+25 shoreline stabilization measures.
+26 (b) (1) In consultation with the Department, the Department of the
+27 Environment shall adopt regulations to implement the provisions of this subsection.
+28 (2) The regulations shall include a waiver process that exempts a person
+29 from the requirements of subsection (a) of this section on a demonstration to the satisfaction
+30 of the Department of the Environment that nonstructural shoreline stabilization measures
+31 are not feasible for the person’s property.]
+32 8–1808.11.
+33 IMPROVEMENTS TO PROTECT A PERSON’S PROPERTY AGAINST EROSION
+34 SHALL BE IN ACCORDANCE WITH THE PROVISIONS OF § 16–201 OF THE
+35 ENVIRONMENT ARTICLE.
+
+HOUSE BILL 613 9
+1 SECTION 2. AND BE IT FURTHER ENACTED, That:
+2 (a) (1) The Department of the Environment shall work with stakeholders on
+3 further alterations to the waiver process under § 16–201 of the Environment Article.
+4 (2) In working with stakeholders as required under paragraph (1) of this
+5 subsection, the Department shall:
+6 (i) discuss how to:
+7 1. address the specific challenges with constructing shoreline
+8 stabilization projects in medium– and high–energy environments; and
+9 2. provide greater transparency and certainty to the waiver
+10 process; and
+11 (ii) review existing time–of–year and mitigation requirements.
+12 (b) On or before December 1, 2026, the Department shall report to the Senate
+13 Committee on Education, Energy, and the Environment and the House Environment and
+14 Transportation Committee, in accordance with § 2–1257 of the State Government Article,
+15 on the progress of the stakeholder engagement required under subsection (a) of this section.
+16 SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+17 October July 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      ( b D T B C F F G J J M a Z Z A w t G S a p t t G f h a t d o _ a _ o _ A C L R F l M f c g r r t u o n s s r t c r t D t d a c s s i]
+[DELETED:  H  c w a c l m c a g r t s B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 1  ( IN  ( () “LIE  O E C B S F O INS :   1  A S B U N B I SSG A W E A T P O M S   2  A M N E AT ETL O L F WS O RS S,N ;]
+[DELETED: H 3   3  T T I A C E P I SN    4 TE   () “L”:IIE    1 N E S A SD WS W DS O O O SH S A,N N GS SS TS O O B,, ET ;   2  P  S A C O T M H W LE S A SEE S ,.   )“LII SE M I N  “ ( ( O SE :  () 1 D;ON   () 2 DIEEN . ( () “NIOE   A p w i t o o l b o n w i)( e a d t p o o t l t t e o p e b   T t s() D  E )( , e]
+[DELETED:  H    A p   A r c i t s d n p t o f d   T J o  () T]( t i  () ]()()DH S D N A T P  () CC;A OY   () S.M’IT AYS O A O T A S I N D A A F S S E.   ()I t p a p p a e]( s   t    ( I s    ( I  a w t p c d t t D e s   () ( S t s ( o t p i]( c w t D o N R t D s a r    ( R o   1.  i   f () ](]
+[DELETED: H 5 D s t  n s L S O s   2 RD T ET A P O IS :   A   T    B    . ) ( TH ES D A S S T E W ( T( S S D U P  O  () TH F T E W C IT  () T;IHR   () IH ETSNS. ( T E S P T S S ETS’. (  E ) ( () IN T S T F W H T]
+[DELETED:  H   () “H–IIHE ET M A A   1 A2;     2 A5   D Q A L W T R T SN    3 G2.    () 1 “LII SE M A P T T E O E C B S F ON S ,:   A  A S B U N B I SSG A W E A T P O M S   B  A M N E AE S A N WS O RS S A,N S S ,,;   C  T T I A C E P I SN    D TE    2 “L”:E    A N E S A SD WS LS O O O SH S A,N S S S S ,,,;   B S, MS S A SEE S ,.  () “M–VEME ET M A A]
+[DELETED: H 7   1 A052;    S   2 A2%5    T    3 F052.    R ( T:  () CC;A OY   () S.M’C.IT AYS O ( S() T P  O T SN T P A PNS P A E SS E I A W T P C D T TTSE N  T H TS A A T N F E U O A ( S C D M W O R R F L S O N S M I MM A HHEF T STSN ’DW. (  A S C D M I O T T O Y W A L S OCS.M’C. O T AYS O ( () TCSCDSH A O O I T’SCYS O O I S A R T  () T:IH   1  A W P T E A  TS]
+[DELETED:  H  O A L S O N S SNSY ;   2 –. ( ()   P F W T A O OSS.M’ H P D S U T T AYS O IN  () I  P F W T T AYS O O.M’SC H P D S U T A O I A 8  ()O t i a d b t D o t E m p a p p a e s c ofn s s e t a s t h t a a t n f e u o n s  ( ( I c w t D t D o t E   ( T f o aI T P A PNS P A E B I A W T P O   O T1A. R]
+[DELETED: H 9  S  ( ( T f   ( I s    ( d     1 a s     2 p p    ( r  ( O C T o  S O          G               ]

@@ -1,0 +1,1344 @@
+Title: SENATE BILL 996
+Official Title: SENATE BILL 996
+Number of Sections: 1
+Source: versions - First - Family Law and State Government - Child Protection and the Office of the Child Welfare Ombudsman (Kanaiyah's Law)
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+D4, O4, P1 6lr3726
+CF HB 980
+By: Senator Zucker
+Introduced and read first time: February 22, 2026
+Assigned to: Rules
+A BILL ENTITLED
+1 AN ACT concerning
+2 Family Law and State Government – Child Protection and the Office of the
+3 Child Welfare Ombudsman
+4 (Kanaiyah’s Law)
+5 FOR the purpose of requiring that a juvenile court include in an order granting
+6 guardianship of a child to a specific individual a requirement that the individual
+7 provide certain information to a local department of social services under certain
+8 circumstances; establishing procedures for the review of certain guardianships of
+9 certain children by the juvenile court under certain circumstances; prohibiting the
+10 Social Services Administration from allowing the placement of certain children in
+11 unlicensed settings; expanding the list of individuals who are required to obtain a
+12 certain criminal history records check to include adults living in the home of a child’s
+13 guardian; establishing the Office of the Child Welfare Ombudsman in the Office of
+14 the Attorney General; exempting from disclosure under the Maryland Public
+15 Information Act records related to certain complaints; prohibiting a person from
+16 certain willful interference and discriminatory and retaliatory acts relating to
+17 complaints filed with the Office; and generally relating to child protection and the
+18 Office of the Child Welfare Ombudsman.
+19 BY repealing and reenacting, with amendments,
+20 Article – Courts and Judicial Proceedings
+21 Section 3–819.2(c)
+22 Annotated Code of Maryland
+23 (2020 Replacement Volume and 2025 Supplement)
+24 BY repealing and reenacting, with amendments,
+25 Article – Family Law
+26 Section 5–324(b)(1), 5–326(a)(10)(ii), 5–525(a) and (c), and 5–551(b), (g), and (h)
+27 Annotated Code of Maryland
+28 (2019 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0996*
+2 SENATE BILL 996
+1 BY adding to
+2 Article – Family Law
+3 Section 5–328.1 and 5–551(g)
+4 Annotated Code of Maryland
+5 (2019 Replacement Volume and 2025 Supplement)
+6 BY repealing and reenacting, without amendments,
+7 Article – Family Law
+8 Section 5–525(b)(1)
+9 Annotated Code of Maryland
+10 (2019 Replacement Volume and 2025 Supplement)
+11 BY repealing and reenacting, with amendments,
+12 Article – State Government
+13 Section 6–101
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2025 Supplement)
+16 BY adding to
+17 Article – State Government
+18 Section 6–5A–01 through 6–5A–11 to be under the new subtitle “Subtitle 5A. Office
+19 of the Child Welfare Ombudsman”
+20 Annotated Code of Maryland
+21 (2021 Replacement Volume and 2025 Supplement)
+22 Preamble
+23 WHEREAS, Child abuse and neglect is a serious and reprehensible problem in
+24 society; and
+25 WHEREAS, The protection of children from abuse and neglect by applying
+26 prevention measures and observing best practices in treating children who are abused and
+27 neglected must be one of Maryland’s highest public policy priorities; and
+28 WHEREAS, The child welfare system must protect and serve Maryland’s children in
+29 a manner that keeps them safe and healthy and promotes their well–being; and
+30 WHEREAS, The children and families served by the child welfare system, as well as
+31 the public, must have a high level of confidence that the system will act in a child’s best
+32 interests and will respond to the child’s needs in a timely and professional manner; and
+33 WHEREAS, To engender this high level of confidence in the child welfare system, it
+34 is important that children and families who become involved in the system, mandatory
+35 reporters, and the general public have a well–publicized, easily accessible, and transparent
+36 complaint process for voicing concerns regarding the child welfare system along with the
+37 expectation that those concerns, once voiced, will be heard and addressed in a timely and
+38 appropriate manner; and
+SENATE BILL 996 3
+1 WHEREAS, To improve child welfare outcomes and to foster best practices, there
+2 must be effective accountability mechanisms, including the review and evaluation of
+3 concerns voiced by children and families, mandatory reporters, persons involved in the
+4 child welfare system, and members of the general public, that provide policymakers with
+5 the information necessary to formulate systemic changes, where appropriate; now,
+6 therefore,
+7 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+8 That the Laws of Maryland read as follows:
+9 Article – Courts and Judicial Proceedings
+10 3–819.2.
+11 (c) An order granting custody and guardianship to an individual under this
+12 section:
+13 (1) Rescinds the child’s commitment to the local department;
+14 (2) Achieves the child’s permanency plan;
+15 (3) [Terminates] EXCEPT AS PROVIDED IN § 5–551 OF THE FAMILY
+16 LAW ARTICLE WITH RESPECT TO CRIMINAL HISTORY RECORDS CHECKS OF ADULTS
+17 RESIDING IN THE HOME OF THE GUARDIAN, TERMINATES the local department’s legal
+18 obligations and responsibilities to the child; and
+19 (4) Terminates the child’s case, unless the court finds good cause not to
+20 terminate the child’s case.
+21 Article – Family Law
+22 5–324.
+23 (b) (1) In a separate order accompanying an order granting guardianship of a
+24 child, a juvenile court:
+25 (i) shall include a directive terminating the child’s CINA case;
+26 (ii) consistent with the child’s best interests:
+27 1. may place the child:
+28 A. subject to paragraph (2) of this subsection, in a specific
+29 type of facility; or
+30 B. with a specific individual;
+4 SENATE BILL 996
+1 2. may direct provision of services by a local department to:
+2 A. the child; or
+3 B. the child’s caregiver;
+4 3. subject to a local department retaining legal guardianship,
+5 may award to a caregiver limited authority to make an emergency or ordinary decision as
+6 to the child’s care, education, mental or physical health, or welfare;
+7 4. may allow access to a medical or other record of the child;
+8 5. may allow visitation for the child with a specific
+9 individual;
+10 6. may appoint, or continue the appointment of, a
+11 court–appointed special advocate for any purpose set forth under § 3–830 of the Courts
+12 Article;
+13 7. shall direct the provision of any other service or taking of
+14 any other action as to the child’s education, health, and welfare, including:
+15 A. for a child who is at least 16 years old, services needed to
+16 help the child’s transition from guardianship to independence; or
+17 B. for a child with a developmental disability, services to
+18 obtain ongoing care, if any, needed after the guardianship case ends; and
+19 8. may co–commit the child to the custody of the Maryland
+20 Department of Health and order the Maryland Department of Health to provide a plan for
+21 the child of clinically appropriate services in the least restrictive setting, in accordance with
+22 federal and State law;
+23 (iii) FOR A CHILD PLACED WITH A SPECIFIC INDIVIDUAL, SHALL
+24 DIRECT THE INDIVIDUAL TO IMMEDIATELY NOTIFY A LOCAL DEPARTMENT IF AN
+25 ADULT BEGINS RESIDING IN THE HOME OF THE INDIVIDUAL AND THE ADULT HAS
+26 NOT COMPLETED A CRIMINAL HISTORY RECORDS CHECK UNDER § 5–551 OF THIS
+27 TITLE.
+28 (IV) if entered under § 5–322 of this subtitle, shall state each party’s
+29 response to the petition;
+30 [(iv)] (V) shall state a specific factual finding on whether reasonable
+31 efforts have been made to finalize the child’s permanency plan;
+SENATE BILL 996 5
+1 [(v)] (VI) shall state whether the child’s parent has waived the right
+2 to notice; and
+3 [(vi)] (VII) shall set a date, no later than 180 days after the date of
+4 the order, for the initial guardianship review hearing under § 5–326 of this subtitle.
+5 5–326.
+6 (a) (10) (ii) [Designation] EXCEPT AS PROVIDED IN § 5–551 OF THIS
+7 TITLE WITH RESPECT TO CRIMINAL HISTORY RECORDS CHECKS OF ADULTS
+8 RESIDING IN THE HOME OF THE GUARDIAN, DESIGNATION of a guardian under this
+9 paragraph terminates the local department’s legal obligations and responsibilities to the
+10 child.
+11 5–328.1.
+12 (A) AFTER A JUVENILE COURT GRANTS GUARDIANSHIP, IF A LOCAL
+13 DEPARTMENT DETERMINES THAT REVIEW OF THE GUARDIANSHIP IS IN THE BEST
+14 INTERESTS OF THE CHILD BASED ON INFORMATION RECEIVED FROM A CRIMINAL
+15 HISTORY RECORDS CHECK UNDER § 5–551 OF THIS TITLE REGARDING AN ADULT
+16 WHO RESIDES IN THE HOME OF THE GUARDIAN, THE LOCAL DEPARTMENT SHALL:
+17 (1) FILE A PETITION FOR REVIEW OF THE GUARDIANSHIP WITH
+18 THE JUVENILE COURT; AND
+19 (2) GIVE NOTICE TO EACH PARTY.
+20 (B) (1) THE JUVENILE COURT SHALL SCHEDULE A HEARING TO OCCUR
+21 WITHIN 30 DAYS AFTER THE FILING OF THE PETITION.
+22 (2) IF THE JUVENILE COURT DETERMINES THAT IT IS IN THE BEST
+23 INTERESTS OF THE CHILD, THE JUVENILE COURT SHALL:
+24 (I) SET ASIDE THE GUARDIANSHIP ORDER;
+25 (II) SCHEDULE A PROMPT TRIAL ON THE MERITS OF THE
+26 GUARDIANSHIP PETITION; AND
+27 (III) REOPEN THE CINA CASE FOR REVIEW AS REQUIRED UNDER
+28 TITLE 3, SUBTITLE 8 OF THE COURTS ARTICLE.
+29 5–525.
+6 SENATE BILL 996
+1 (a) (1) In this section[, “disability”] THE FOLLOWING WORDS HAVE THE
+2 MEANINGS INDICATED.
+3 (2) (I) “DISABILITY” means:
+4 [(i)] 1. a physical or mental impairment that substantially limits
+5 one or more of an individual’s major life activities;
+6 [(ii)] 2. a record of having a physical or mental impairment that
+7 substantially limits one or more of an individual’s major life activities; or
+8 [(iii)] 3. being regarded as having a physical or mental impairment
+9 that substantially limits one or more of an individual’s major life activities.
+10 [(2)] (II) “Disability” shall be construed in accordance with the ADA
+11 Amendments Act of 2008, P.L. 110–325.
+12 (3) (I) “UNLICENSED SETTING” MEANS A SETTING FOR AN
+13 OUT–OF–HOME PLACEMENT THAT IS NOT LICENSED.
+14 (II) “UNLICENSED SETTING” INCLUDES:
+15 1. A HOTEL, MOTEL, OR SHORT–TERM RENTAL;
+16 2. A SHELTER DESIGNATED TO MEET THE NEEDS OF A
+17 CHILD WHO HAS RUN AWAY OR WHO IS HOMELESS; AND
+18 3. AN OFFICE BUILDING OR OTHER NONRESIDENTIAL
+19 ENVIRONMENT.
+20 (III) “UNLICENSED SETTING” DOES NOT INCLUDE:
+21 1. THE VOLUNTARY PLACEMENT OF A FORMER CINA;
+22 OR
+23 2. THE PLACEMENT OF A CHILD WITH:
+24 A. AN INDIVIDUAL WHO IS A KINSHIP CAREGIVER OR
+25 FOSTER PARENT OR WHO IS IN THE PROCESS OF APPLYING TO BE A KINSHIP
+26 CAREGIVER OR FOSTER PARENT; OR
+27 B. A PARENT, INCLUDING IN A FAMILY–BASED
+28 RESIDENTIAL TREATMENT SETTING.
+SENATE BILL 996 7
+1 (b) (1) The Administration shall establish a program of out–of–home
+2 placement for minor children:
+3 (i) who are placed in the custody of a local department, for a period
+4 of not more than 180 days, by a parent or legal guardian under a voluntary placement
+5 agreement;
+6 (ii) who are abused, abandoned, neglected, or dependent, if a
+7 juvenile court:
+8 1. has determined that continued residence in the child’s
+9 home is contrary to the child’s welfare; and
+10 2. has committed the child to the custody or guardianship of
+11 a local department; or
+12 (iii) who, with the approval of the Administration, are placed in an
+13 out–of–home placement by a local department under a voluntary placement agreement
+14 subject to paragraph (2) of this subsection.
+15 (c) In establishing the out–of–home placement program the Administration:
+16 (1) shall:
+17 [(1)] (I) provide time–limited family reunification services to a child
+18 placed in an out–of–home placement and to the parents or guardian of the child, in order
+19 to facilitate the child’s safe and appropriate reunification within a timely manner;
+20 [(2)] (II) concurrently develop and implement a permanency plan that is
+21 in the best interests of the child; and
+22 [(3)] (III) provide training on an annual basis for the staff at each local
+23 department who administer requests for voluntary placement agreements for children with
+24 developmental disabilities or mental illnesses under subsection (b) of this section; AND
+25 (2) MAY NOT ALLOW A CHILD TO BE PLACED IN AN UNLICENSED
+26 SETTING.
+27 5–551.
+28 (b) The following individuals shall obtain a criminal history records check under
+29 this Part V of this subtitle:
+30 (1) an individual who is seeking to adopt a child through a child placement
+31 agency;
+8 SENATE BILL 996
+1 (2) an individual who is seeking to become a guardian through a local
+2 department;
+3 (3) an individual whom the juvenile court appoints as a guardian of a child;
+4 (4) an adult relative with whom a child, committed to a local department,
+5 is placed by the local department;
+6 (5) any adult known by a local department or the State Department of
+7 Education to be residing in:
+8 (i) a family child care home or large family child care home required
+9 to be registered under this title;
+10 (ii) a home where informal child care, as defined in child care subsidy
+11 regulations adopted under Title 13A of the Code of Maryland Regulations, is being provided
+12 or will be provided to a child who does not reside there;
+13 (iii) a home of an adult relative of a child with whom the child,
+14 committed to a local department, is placed by the local department;
+15 (iv) a foster care home or child care home required to be approved
+16 under this title;
+17 (v) a home of an individual seeking to adopt a child through a child
+18 placement agency; [or]
+19 (vi) a home of an individual seeking to become a guardian through a
+20 local department; OR
+21 (VII) SUBJECT TO SUBSECTION (G) OF THIS SECTION, AN ADULT
+22 IN THE HOME OF AN INDIVIDUAL WHOM THE JUVENILE COURT APPOINTS AS
+23 GUARDIAN;
+24 (6) an individual who agrees to provide, or to continue providing, informal
+25 child care, as defined in child care subsidy regulations, adopted under Title 13A of the Code
+26 of Maryland Regulations; and
+27 (7) if requested by a local department:
+28 (i) a parent or guardian of a child who is committed to the local
+29 department and is or has been placed in an out–of–home placement within the past year;
+30 and
+31 (ii) any adult known by the local department to be residing in the
+32 home of the parent or guardian.
+SENATE BILL 996 9
+1 (G) (1) TO CARRY OUT SUBSECTION (B)(5)(VII) OF THIS SECTION, AN
+2 INDIVIDUAL WHO IS APPOINTED GUARDIAN BY THE JUVENILE COURT SHALL
+3 PERIODICALLY PROVIDE TO THE LOCAL DEPARTMENT IN THE FORM AND MANNER
+4 REQUIRED BY THE LOCAL DEPARTMENT THE NAME OF EACH ADULT RESIDING IN
+5 THE GUARDIAN’S HOME.
+6 (2) IF A LOCAL DEPARTMENT RECEIVES INFORMATION UNDER
+7 PARAGRAPH (1) OF THIS SUBSECTION OR § 5–324(B)(1)(III) OF THIS TITLE
+8 INDICATING THAT AN ADULT IS RESIDING IN THE GUARDIAN’S HOME, AND THAT
+9 ADULT HAS NOT OBTAINED A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+10 PART V OF THIS SUBTITLE, THE LOCAL DEPARTMENT SHALL IMMEDIATELY REFER
+11 THE ADULT TO THE DEPARTMENT FOR COMPLETION OF A CRIMINAL HISTORY
+12 RECORDS CHECK.
+13 (3) ON COMPLETION OF A CRIMINAL HISTORY RECORDS CHECK
+14 UNDER PARAGRAPH (2) OF THIS SUBSECTION, IF THE LOCAL DEPARTMENT
+15 DETERMINES THAT IT IS IN THE BEST INTERESTS OF THE CHILD, THE LOCAL
+16 DEPARTMENT SHALL FILE A PETITION WITH THE JUVENILE COURT IN ACCORDANCE
+17 WITH § 5–328.1 OF THIS TITLE TO REVIEW THE GUARDIANSHIP.
+18 (4) THE DEPARTMENT SHALL ADOPT REGULATIONS TO CARRY OUT
+19 THIS SUBSECTION.
+20 [(g)] (H) (1) Except as provided in paragraph (2) of this subsection, a person
+21 who is required to have a criminal history records check under this Part V of this subtitle
+22 shall pay for:
+23 (i) the mandatory processing fee required by the Federal Bureau of
+24 Investigation for a national criminal history records check;
+25 (ii) reasonable administrative costs to the Department, not to exceed
+26 10% of the processing fee; and
+27 (iii) the fee authorized under § 10–221(b)(7) of the Criminal
+28 Procedure Article for access to Maryland criminal history records.
+29 (2) A volunteer under subsection (c), (d), or (e) of this section who
+30 volunteers for a program that is registered with the Maryland Mentoring Partnership is
+31 required to pay only the mandatory processing fee required by the Federal Bureau of
+32 Investigation for a national criminal history records check.
+33 [(h)] (I) (1) An employer or other party may pay for the costs borne by the
+34 employee or other individual under subsection [(g)] (H) of this section.
+10 SENATE BILL 996
+1 (2) The local department shall reimburse:
+2 (i) an adult residing in a foster care home for the costs borne by the
+3 individual under subsection [(g)] (H) of this section; and
+4 (ii) an individual described in subsection (b)(7)(ii) of this section for
+5 the costs borne by the individual under subsection [(g)] (H) of this section.
+6 Article – State Government
+7 6–101.
+8 [In] EXCEPT AS PROVIDED IN SUBTITLE 5A OF THIS TITLE, IN this title, “Office”
+9 means the Office of the Attorney General.
+10 SUBTITLE 5A. OFFICE OF THE CHILD WELFARE OMBUDSMAN.
+11 6–5A–01.
+12 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+13 INDICATED.
+14 (B) “CUSTODY” MEANS:
+15 (1) PHYSICAL OR LEGAL CUSTODY OF A CHILD; OR
+16 (2) THE RESPONSIBILITY CREATED BY LAW OR A COURT ORDER FOR
+17 THE CARE OF A CHILD.
+18 (C) “DEPARTMENT” MEANS THE DEPARTMENT OF HUMAN SERVICES.
+19 (D) “LOCAL DEPARTMENT” HAS THE MEANING STATED IN § 3–101 OF THE
+20 HUMAN SERVICES ARTICLE.
+21 (E) “OFFICE” MEANS THE OFFICE OF THE CHILD WELFARE OMBUDSMAN
+22 IN THE OFFICE OF THE ATTORNEY GENERAL.
+23 (F) “OMBUDSMAN” MEANS THE CHILD WELFARE OMBUDSMAN.
+24 (G) “SECRETARY” MEANS THE SECRETARY OF HUMAN SERVICES.
+25 6–5A–02.
+SENATE BILL 996 11
+1 (A) THERE IS AN OFFICE OF THE CHILD WELFARE OMBUDSMAN IN THE
+2 OFFICE OF THE ATTORNEY GENERAL.
+3 (B) THE PURPOSE OF THE OFFICE IS TO INVESTIGATE AND DETERMINE
+4 WHETHER:
+5 (1) THE NEEDS OF CHILDREN AND FAMILIES UNDER THE
+6 JURISDICTION OF THE DEPARTMENT OR A LOCAL DEPARTMENT ARE BEING MET IN
+7 COMPLIANCE WITH STATE LAW;
+8 (2) THE RIGHTS OF CHILDREN AND FAMILIES ARE BEING UPHELD;
+9 AND
+10 (3) THE CHILDREN ARE NOT BEING ABUSED OR NEGLECTED.
+11 6–5A–03.
+12 (A) (1) WITH THE ADVICE AND CONSENT OF THE SENATE AND INPUT
+13 FROM CURRENT OR FORMER FOSTER CHILDREN, SUBJECT TO PARAGRAPH (2) OF
+14 THIS SUBSECTION, THE ATTORNEY GENERAL SHALL APPOINT THE CHILD WELFARE
+15 OMBUDSMAN.
+16 (2) THE OMBUDSMAN SHALL:
+17 (I) HAVE BEEN ADMITTED TO PRACTICE LAW IN THE STATE;
+18 AND
+19 (II) HAVE AT LEAST 5 YEARS OF EXPERIENCE IN CHILD
+20 WELFARE.
+21 (B) (1) THE TERM OF THE OMBUDSMAN IS 5 YEARS.
+22 (2) AT THE END OF A TERM, THE OMBUDSMAN CONTINUES TO SERVE
+23 UNTIL A SUCCESSOR IS APPOINTED AND QUALIFIES.
+24 (3) AN OMBUDSMAN WHO IS APPOINTED AFTER A TERM BEGINS
+25 SERVES FOR THE REMAINDER OF THE TERM UNTIL A SUCCESSOR IS APPOINTED AND
+26 QUALIFIES.
+27 (C) BEFORE TAKING OFFICE, THE OMBUDSMAN SHALL TAKE THE OATH
+28 REQUIRED BY ARTICLE I, § 9 OF THE MARYLAND CONSTITUTION.
+29 (D) THE OMBUDSMAN SHALL BE A FULL–TIME STATE EMPLOYEE.
+12 SENATE BILL 996
+1 (E) THE OMBUDSMAN IS ENTITLED TO AN ANNUAL SALARY AS PROVIDED
+2 FOR IN THE STATE BUDGET.
+3 (F) THE ATTORNEY GENERAL MAY REMOVE THE CHILD WELFARE
+4 OMBUDSMAN FOR GOOD CAUSE SHOWN AFTER NOTICE AND AN OPPORTUNITY TO BE
+5 HEARD.
+6 6–5A–04.
+7 (A) THE OFFICE SHALL INCLUDE:
+8 (1) A FULL–TIME OMBUDSMAN; AND
+9 (2) STAFF, INCLUDING ASSISTANT OMBUDSMEN, AS ALLOWED FOR IN
+10 THE STATE BUDGET.
+11 (B) (1) THE OMBUDSMAN MAY APPOINT AND EMPLOY THE
+12 PROFESSIONAL, INVESTIGATIVE, AND CLERICAL STAFF PROVIDED FOR IN THE
+13 STATE BUDGET.
+14 (2) THE OMBUDSMAN, AS NECESSARY, MAY HIRE OR CONTRACT WITH
+15 EXPERTS IN THE FIELD OF CHILD WELFARE.
+16 (C) (1) TO THE EXTENT PRACTICABLE, THE OMBUDSMAN SHALL USE THE
+17 SERVICES AND PERSONNEL OF:
+18 (I) THE OFFICE OF THE ATTORNEY GENERAL;
+19 (II) THE DEPARTMENT OF STATE POLICE; AND
+20 (III) OTHER STATE AND LAW ENFORCEMENT UNITS.
+21 (2) THE UNITS LISTED IN PARAGRAPH (1) OF THIS SUBSECTION
+22 SHALL COOPERATE, TO THE EXTENT PRACTICABLE, WITH THE OMBUDSMAN AND
+23 THE OMBUDSMAN’S STAFF.
+24 (D) IN COOPERATION WITH THE SECRETARY OF BUDGET AND
+25 MANAGEMENT, THE ATTORNEY GENERAL SHALL SET MINIMUM SALARIES,
+26 QUALIFICATIONS, AND STANDARDS OF TRAINING AND EXPERIENCE FOR POSITIONS
+27 IN THE OFFICE.
+28 6–5A–05.
+SENATE BILL 996 13
+1 (A) THE BUDGET OF THE OMBUDSMAN AND THE OFFICE SHALL BE A PART
+2 OF THE BUDGET OF THE OFFICE OF THE ATTORNEY GENERAL.
+3 (B) SALARIES OF THE OMBUDSMAN AND ASSISTANT OMBUDSMEN AND
+4 EXPENSES FOR RENT, EQUIPMENT, SUPPLIES, AND GENERAL OPERATING EXPENSES
+5 NECESSARY FOR THE WORK OF THE OFFICE SHALL BE AS PROVIDED IN THE STATE
+6 BUDGET.
+7 (C) THE GOVERNOR SHALL PROVIDE IN THE STATE BUDGET SUFFICIENT
+8 MONEY FOR THE OFFICE TO HIRE NECESSARY STAFF.
+9 (D) IF THE BUDGET FOR THE OFFICE IS INSUFFICIENT TO ALLOW THE
+10 OFFICE TO PERFORM THE DUTIES OF THE OFFICE, THE OMBUDSMAN MAY APPLY TO
+11 THE BOARD OF PUBLIC WORKS FOR ADDITIONAL MONEY FROM THE GENERAL
+12 EMERGENCY FUND.
+13 6–5A–06.
+14 (A) EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, OR AS
+15 OTHERWISE PROVIDED BY LAW, ALL PERSONNEL OF THE OFFICE ARE SUBJECT TO
+16 THE PROVISIONS OF THE STATE PERSONNEL AND PENSIONS ARTICLE.
+17 (B) THE COMPENSATION OF THE FOLLOWING PERSONNEL SHALL BE
+18 DETERMINED BY THE OMBUDSMAN AND, IF POSSIBLE, IN ACCORDANCE WITH THE
+19 STATE PAY PLAN:
+20 (1) ASSISTANT OMBUDSMEN;
+21 (2) ATTORNEYS THAT ARE SPECIAL APPOINTEES OR IN THE
+22 MANAGEMENT SERVICE; AND
+23 (3) ALL POSITIONS IN MANAGEMENT, PROFESSIONAL, AND SKILLED
+24 SERVICE CLASSIFICATIONS UNIQUE TO THE OFFICE.
+25 (C) (1) AT LEAST 45 DAYS BEFORE THE EFFECTIVE DATE OF A CHANGE IN
+26 SALARY PLAN, THE OMBUDSMAN SHALL SUBMIT TO THE SECRETARY OF BUDGET
+27 AND MANAGEMENT EACH CHANGE THAT INVOLVES AN INCREASE OR A DECREASE IN
+28 SALARY RANGES OTHER THAN THOSE ASSOCIATED WITH ROUTINE CLASSIFICATIONS
+29 AND PROMOTIONS OR GENERAL SALARY INCREASES APPROVED BY THE GENERAL
+30 ASSEMBLY.
+31 (2) THE SECRETARY OF BUDGET AND MANAGEMENT SHALL:
+14 SENATE BILL 996
+1 (I) REVIEW THE PROPOSED CHANGES; AND
+2 (II) AT LEAST 15 DAYS BEFORE THE EFFECTIVE DATE OF THE
+3 PROPOSED CHANGES, ADVISE THE OMBUDSMAN WHETHER THE CHANGES WOULD
+4 HAVE AN ADVERSE EFFECT ON COMPARABLE STATE JOBS.
+5 (3) FAILURE OF THE SECRETARY TO RESPOND IN A TIMELY MANNER
+6 MAY NOT BE CONSIDERED A STATEMENT OF ADVERSE EFFECT UNDER PARAGRAPH
+7 (2)(II) OF THIS SUBSECTION.
+8 (D) ON OR BEFORE JANUARY 31 EACH YEAR, BEGINNING IN 2028, THE
+9 OMBUDSMAN SHALL REPORT TO THE SECRETARY OF BUDGET AND MANAGEMENT
+10 AND, IN ACCORDANCE WITH § 2–1257 OF THIS ARTICLE, TO THE GENERAL
+11 ASSEMBLY ALL PERSONNEL POSITIONS, CLASSIFICATIONS, AND SALARIES IN THE
+12 OFFICE AS OF THE END OF THE IMMEDIATELY PRECEDING CALENDAR YEAR.
+13 6–5A–07.
+14 THE OFFICE SHALL:
+15 (1) IDENTIFY, RECEIVE, INVESTIGATE, AND SEEK THE RESOLUTION
+16 OR REFERRAL OF COMPLAINTS MADE BY OR ON BEHALF OF A CHILD INVOLVED IN
+17 CHILD IN NEED OF ASSISTANCE CASES CONCERNING ANY ACT, OMISSION, PRACTICE,
+18 POLICY, OR PROCEDURE OF A STATE OR LOCAL AGENCY OR ANY PERSON WORKING
+19 ON BEHALF OF THE AGENCY THAT MAY ADVERSELY AFFECT THE HEALTH, SAFETY,
+20 OR WELFARE OF THE CHILD;
+21 (2) INSPECT AND REVIEW THE OPERATION, POLICIES, AND
+22 PROCEDURES OF FOSTER CARE HOMES, GROUP HOMES, KINSHIP CARE HOMES,
+23 RESIDENTIAL TREATMENT FACILITIES, SHELTERS FOR THE CARE OF ABUSED OR
+24 NEGLECTED CHILDREN, AND INDEPENDENT LIVING ARRANGEMENTS OPERATED,
+25 LICENSED, OR APPROVED FOR PAYMENT BY THE DEPARTMENT OR A LOCAL
+26 DEPARTMENT OR USED BY THE DEPARTMENT OR BY A LOCAL DEPARTMENT FOR THE
+27 CARE OF CHILDREN IN ITS CUSTODY;
+28 (3) REVIEW, EVALUATE, REPORT, AND MAKE RECOMMENDATIONS TO
+29 A STATE OR LOCAL AGENCY CONCERNING PROCEDURES ESTABLISHED BY THE
+30 AGENCY TO PROVIDE SERVICES TO CHILDREN AND FAMILIES THAT ARE AT RISK OF
+31 ABUSE OR NEGLECT, CHILDREN IN STATE OR INSTITUTIONAL CUSTODY, OR
+32 CHILDREN AND FAMILIES WHO RECEIVE CHILD PROTECTIVE KINSHIP CARE OR
+33 FOSTER CARE SERVICES;
+SENATE BILL 996 15
+1 (4) RECEIVE, INVESTIGATE, AND MAKE REFERRALS TO OTHER STATE
+2 OR LOCAL AGENCIES, OR TAKE OTHER APPROPRIATE ACTIONS WITH RESPECT TO A
+3 COMPLAINT RECEIVED BY THE OFFICE REGARDING THE ACTIONS OF THE
+4 DEPARTMENT OR A LOCAL DEPARTMENT OR A STATE–FUNDED PRIVATE ENTITY
+5 THAT PROVIDES SERVICES TO CHILDREN AND FAMILIES WHO ARE AT RISK OF ABUSE
+6 OR NEGLECT, CHILDREN IN STATE OR INSTITUTIONAL CUSTODY, OR CHILDREN AND
+7 FAMILIES WHO RECEIVE CHILD PROTECTIVE, KINSHIP CARE, OR FOSTER CARE
+8 SERVICES;
+9 (5) ESTABLISH AND MAINTAIN A 24–HOUR TOLL–FREE TELEPHONE
+10 HELPLINE AND WEBSITE TO RECEIVE AND RESPOND TO CALLS FROM INDIVIDUALS
+11 REGARDING THE WELFARE OF CHILDREN UNDER THE JURISDICTION OF THE
+12 DEPARTMENT OR A LOCAL DEPARTMENT;
+13 (6) CONDUCT UNANNOUNCED SITE VISITS AT REASONABLE TIMES
+14 AND IN A REASONABLE MANNER TO ANY INSTITUTION OR FACILITY TO WHICH
+15 CHILDREN ARE COMMITTED OR PLACED, IF:
+16 (I) THE OMBUDSMAN, BEFORE CONDUCTING AN
+17 UNANNOUNCED SITE VISIT, HAS INITIATED AN INVESTIGATION INTO THE RESPONSE
+18 OR DISPOSITION OF AN ALLEGATION OF ABUSE OR NEGLECT AT THE INSTITUTION
+19 OR FACILITY; AND
+20 (II) THERE IS A REASONABLE BASIS TO BELIEVE THAT AN
+21 UNANNOUNCED SITE VISIT IS NECESSARY TO CARRY OUT THE OMBUDSMAN’S
+22 RESPONSIBILITIES UNDER THIS SUBTITLE;
+23 (7) CONSULT WITH ANY APPROPRIATE STATE OR COUNTY AGENCY OR
+24 STATE–FUNDED PRIVATE ENTITY PROVIDING CHILD WELFARE SERVICES TO
+25 CHILDREN, AND MAY REQUEST FROM ANY SUCH ENTITY, WHICH IS HEREBY
+26 AUTHORIZED AND DIRECTED TO PROVIDE, SUCH COOPERATION AND ASSISTANCE AS
+27 WILL ENABLE THE CHILD ADVOCATE TO PROPERLY PERFORM ITS RESPONSIBILITIES
+28 UNDER THIS SECTION; AND
+29 (8) ESTABLISH AND IMPLEMENT PROCEDURES FOR RECEIVING,
+30 PROCESSING, RESPONDING TO, AND RESOLVING COMPLAINTS MADE BY OR ON
+31 BEHALF OF CHILDREN WHO ARE RECIPIENTS OF THE SERVICES OF THE LOCAL
+32 DEPARTMENTS, AS PROVIDED FOR IN § 6–5A–09 OF THIS SUBTITLE.
+33 6–5A–08.
+34 (A) THE OMBUDSMAN MAY:
+16 SENATE BILL 996
+1 (1) REVIEW AND COPY RELEVANT LAWS, POLICIES, PROCEDURES,
+2 AND DEPARTMENT AND LOCAL DEPARTMENT RECORDS AND REPORTS, INCLUDING
+3 RECORDS RELATING TO AN INDIVIDUAL CHILD;
+4 (2) CONDUCT INTERVIEWS WITH STAFF, CHILDREN, AND OTHERS;
+5 (3) ISSUE SUBPOENAS TO COMPEL THE ATTENDANCE AND TESTIMONY
+6 OF WITNESSES OR THE PRODUCTION OF BOOKS, PAPERS, AND OTHER DOCUMENTS;
+7 (4) ADMINISTER OATHS TO WITNESSES IN ANY MATTER UNDER
+8 INVESTIGATION IN THE OFFICE; AND
+9 (5) IF THE OMBUDSMAN CONSIDERS THAT LEGISLATION WOULD
+10 AFFECT THE INTERESTS OF PERSONS UNDER ITS JURISDICTION, RECOMMEND THE
+11 LEGISLATION TO THE GENERAL ASSEMBLY.
+12 (B) (1) IF A PERSON TO WHOM A SUBPOENA IS ISSUED UNDER
+13 SUBSECTION (A)(3) OF THIS SECTION FAILS TO APPEAR OR, HAVING APPEARED,
+14 REFUSES TO GIVE TESTIMONY, OR FAILS TO PRODUCE THE BOOKS, PAPERS, OR
+15 OTHER DOCUMENTS REQUIRED, THE OMBUDSMAN MAY APPLY TO THE
+16 APPROPRIATE CIRCUIT COURT FOR RELIEF.
+17 (2) THE APPROPRIATE COURT MAY ORDER THE PERSON TO APPEAR
+18 AND GIVE TESTIMONY OR PRODUCE THE BOOKS, PAPERS, OR OTHER DOCUMENTS,
+19 AS APPLICABLE.
+20 6–5A–09.
+21 (A) A CHILD WHO IS A RECIPIENT OF THE SERVICES OF THE DEPARTMENT
+22 OR A LOCAL DEPARTMENT OR A CHILD IDENTIFIED AS A CHILD IN NEED OF
+23 ASSISTANCE UNDER TITLE 3, SUBTITLE 8 OF THE COURTS ARTICLE MAY FILE A
+24 COMPLAINT WITH THE OMBUDSMAN:
+25 (1) BY CALLING THE OMBUDSMAN’S 24–HOUR TOLL–FREE HELPLINE;
+26 (2) BY FILING THE COMPLAINT ELECTRONICALLY WITH THE OFFICE;
+27 (3) BY MEETING IN PERSON WITH STAFF FROM THE OFFICE;
+28 (4) THROUGH AN ADULT REPRESENTING THE CHILD’S INTERESTS; OR
+29 (5) BY ANY OTHER REASONABLE MEANS ESTABLISHED BY THE
+30 OMBUDSMAN.
+SENATE BILL 996 17
+1 (B) THE COMPLAINT PROCESS SHALL BE CONFIDENTIAL, EXPEDIENT, AND
+2 RESPONSIVE TO THE CHILD’S PERCEPTION OF SAFETY ISSUES AND THE CHILD’S
+3 EMOTIONAL NEEDS.
+4 (C) THE OMBUDSMAN SHALL ESTABLISH AND IMPLEMENT APPROPRIATE
+5 RESPONSE TIMES AND SAFETY MEASURES FOR DIFFERENT TYPES OF COMPLAINTS.
+6 (D) FOR A CHILD WITH SAFETY CONCERNS ABOUT THE CHILD’S
+7 OUT–OF–HOME PLACEMENT, THE CHILD’S SAFETY MUST BE PARAMOUNT SO THAT
+8 THE CHILD FEELS COMFORTABLE REPORTING COMPLAINTS AND FEELS SAFE
+9 PENDING THE OUTCOME OF ANY INVESTIGATION.
+10 (E) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THE LOCAL
+11 DEPARTMENT SHALL INCLUDE, IN DEVELOPMENTALLY APPROPRIATE LANGUAGE,
+12 INFORMATION IN EACH CHILD’S RECORD ABOUT THE COMPLAINT PROCEDURE.
+13 (2) THE INFORMATION SHALL INCLUDE:
+14 (I) THE DEFINITION OF A COMPLAINT, INCLUDING EXAMPLES
+15 OF SITUATIONS WHERE IT IS APPROPRIATE TO FILE A COMPLAINT;
+16 (II) HOW TO FILE A FORMAL COMPLAINT WITH THE OFFICE;
+17 (III) AN EXPLANATION OF THE PURPOSES OF THE OFFICE;
+18 (IV) THE RESPONSE TIMES ESTABLISHED UNDER SUBSECTION
+19 (C) OF THIS SECTION;
+20 (V) POTENTIAL RESOLUTIONS BASED ON THE TYPE OF
+21 COMPLAINTS;
+22 (VI) HOW THE CHILD’S SAFETY WILL BE PROTECTED DURING
+23 THE INVESTIGATION OF THE COMPLAINT;
+24 (VII) AN EXPLANATION OF THE CHILD’S RIGHTS AS OUTLINED IN
+25 ANY DEPARTMENT HANDBOOK FOR CHILDREN IN FOSTER CARE; AND
+26 (VIII) ANY OTHER INFORMATION THE OFFICE REQUIRES.
+27 (3) A CHILD SHALL BE GIVEN THE INFORMATION:
+28 (I) AT THE CHILD’S INITIAL COURT HEARING;
+18 SENATE BILL 996
+1 (II) BEFORE ANY SUBSEQUENT COURT HEARINGS; AND
+2 (III) BEFORE EVERY NEW PLACEMENT.
+3 (F) THE OFFICE SHALL PROVIDE TRAINING ON COMPLAINT POLICIES AND
+4 PROCEDURES TO ALL LOCAL DEPARTMENT CASEWORKERS, ATTORNEYS FOR
+5 CHILDREN, OUT–OF–HOME PLACEMENT PROVIDERS, COURT–APPOINTED SPECIAL
+6 ADVOCATES, JUDICIAL OFFICERS, AND OTHER PROFESSIONALS WORKING WITH
+7 CHILDREN THROUGH THEIR CHILD IN NEED OF ASSISTANCE CASES AS PART OF
+8 THEIR EMPLOYMENT ORIENTATION AND CONTINUING PROFESSIONAL
+9 DEVELOPMENT.
+10 (G) (1) ON CONCLUSION OF AN INVESTIGATION UNDER THIS SECTION,
+11 THE OFFICE SHALL INFORM THE CHILD, IN A DEVELOPMENTALLY APPROPRIATE
+12 MANNER, OF THE OUTCOME OF THE INVESTIGATION.
+13 (2) IF THE OUTCOME OF THE INVESTIGATION ENTAILS SITE VISITS
+14 WITH THE CHILD FOR A SPECIFIED PERIOD OF TIME, THE CHILD SHALL BE
+15 INFORMED OF THE SCOPE AND INTENT OF THIS FOLLOW–UP PROCESS.
+16 (H) (1) EXCEPT AS PROVIDED UNDER PARAGRAPH (2) OF THIS
+17 SUBSECTION, THE OMBUDSMAN SHALL TREAT ALL COMPLAINTS RECEIVED UNDER
+18 SUBSECTION (A) OF THIS SECTION AS CONFIDENTIAL, INCLUDING THE IDENTITIES
+19 OF COMPLAINANTS AND INDIVIDUALS FROM WHOM INFORMATION IS ACQUIRED.
+20 (2) THE OMBUDSMAN MAY DISCLOSE INFORMATION AS NECESSARY
+21 TO ENABLE THE OMBUDSMAN TO PERFORM THE OMBUDSMAN’S DUTIES AND TO
+22 SUPPORT ANY RECOMMENDATIONS RESULTING FROM AN INVESTIGATION.
+23 (I) RECORDS RELATING TO COMPLAINTS RECEIVED BY THE OFFICE AND
+24 THE INVESTIGATION OF COMPLAINTS ARE EXEMPT FROM DISCLOSURE UNDER THE
+25 PUBLIC INFORMATION ACT.
+26 6–5A–10.
+27 (A) THE OFFICE SHALL REPORT IN A TIMELY MANNER TO THE SECRETARY
+28 AND, IN ACCORDANCE WITH § 2–1257 OF THIS ARTICLE, THE GENERAL ASSEMBLY:
+29 (1) KNOWLEDGE OF ANY SYSTEMIC OR LIFE–THREATENING
+30 PROBLEMS AND ANY FINDINGS, ACTIONS, AND RECOMMENDATIONS RELATING TO
+31 INVESTIGATIONS REGARDING THE CARE, SUPERVISION, AND TREATMENT OF:
+SENATE BILL 996 19
+1 (I) CHILDREN AND FAMILIES WHO ARE AT RISK OF ABUSE OR
+2 NEGLECT;
+3 (II) CHILDREN IN DEPARTMENT OR LOCAL DEPARTMENT
+4 CUSTODY; OR
+5 (III) CHILDREN AND FAMILIES WHO RECEIVE CHILD
+6 PROTECTIVE KINSHIP CARE OR FOSTER CARE SERVICES; AND
+7 (2) ALL OTHER FINDINGS, ACTIONS, AND RECOMMENDATIONS
+8 RELATED TO THE ACTIVITIES REQUIRED UNDER THIS SUBTITLE.
+9 (B) (1) THE OFFICE SHALL REPORT QUARTERLY TO THE SECRETARY.
+10 (2) A COPY OF THE REPORT SHALL BE PROVIDED TO THE CITIZENS
+11 REVIEW BOARD FOR CHILDREN, THE STATE COUNCIL ON CHILD ABUSE AND
+12 NEGLECT, AND, IN ACCORDANCE WITH § 2–1257 OF THIS ARTICLE, THE GENERAL
+13 ASSEMBLY.
+14 (3) THE REPORT SHALL INCLUDE:
+15 (I) ALL ACTIVITIES OF THE OFFICE;
+16 (II) ALL COMPLAINTS MADE TO THE OFFICE INCLUDING:
+17 1. THE JURISDICTION WHERE THE INCIDENT
+18 OCCURRED;
+19 2. THE JURISDICTION THAT HAS CARE AND CUSTODY OF
+20 THE CHILD IN NEED OF ASSISTANCE WHOSE CASE IS BEING REVIEWED;
+21 3. THE NATURE OF THE COMPLAINT;
+22 4. THE DISPOSITION OF THE COMPLAINT;
+23 5. WHAT, IF ANY, FOLLOW–UP ACTION THE OFFICE TOOK
+24 AND WHY;
+25 6. THE CHILD’S PLACEMENT; AND
+26 7. DEMOGRAPHIC INFORMATION ABOUT THE CHILD
+27 INCLUDING AGE, GENDER IDENTITY, RACE, AND ETHNICITY;
+20 SENATE BILL 996
+1 (III) ACTIONS TAKEN BY THE DEPARTMENT OR A LOCAL
+2 DEPARTMENT RESULTING FROM THE FINDINGS AND RECOMMENDATIONS OF THE
+3 OFFICE, INCLUDING THE RESPONSE BY THE DEPARTMENT OR LOCAL DEPARTMENT;
+4 AND
+5 (IV) A SUMMARY OF ANY VIOLATIONS OF THE STANDARDS AND
+6 REGULATIONS OF THE DEPARTMENT THAT REMAINED UNABATED FOR 30 DAYS OR
+7 MORE DURING THE REPORTING PERIOD.
+8 (C) ON OR BEFORE NOVEMBER 30 EACH YEAR, BEGINNING IN 2028, THE
+9 OFFICE SHALL REPORT TO THE SECRETARY, THE CITIZENS REVIEW BOARD FOR
+10 CHILDREN, THE STATE COUNCIL ON CHILD ABUSE AND NEGLECT, THE GOVERNOR,
+11 AND, IN ACCORDANCE WITH § 2–1257 OF THIS ARTICLE, THE GENERAL ASSEMBLY
+12 ON ALL THE ACTIVITIES OF THE OFFICE AND THE ACTIONS TAKEN BY THE
+13 DEPARTMENT IN RESPONSE TO FINDINGS AND RECOMMENDATIONS OF THE OFFICE.
+14 (D) BEFORE SUBMITTING A REPORT UNDER SUBSECTION (B) OR (C) OF THIS
+15 SECTION, THE OFFICE SHALL REMOVE ANY IDENTIFYING INFORMATION AS
+16 NECESSARY TO PROTECT THE PRIVACY OF THE CHILD AND THE CHILD’S FAMILY.
+17 6–5A–11.
+18 (A) A PERSON MAY NOT:
+19 (1) DISCRIMINATE OR RETALIATE IN ANY MANNER AGAINST ANY
+20 PERSON FOR:
+21 (I) FILING A COMPLAINT UNDER THIS SUBTITLE; OR
+22 (II) PROVIDING INFORMATION TO AN ADVOCATE OF A CHILD IN
+23 GOOD FAITH; OR
+24 (2) WILLFULLY INTERFERE WITH AN ADVOCATE OF A CHILD IN THE
+25 PERFORMANCE OF THE ADVOCATE’S OFFICIAL DUTIES.
+26 (B) A PERSON WHO VIOLATES SUBSECTION (A) OF THIS SECTION IS GUILTY
+27 OF A MISDEMEANOR AND ON CONVICTION IS SUBJECT TO A FINE NOT EXCEEDING
+28 $5,000 OR IMPRISONMENT NOT EXCEEDING 5 YEARS OR BOTH.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+30 October 1, 2026.
+[DELETED: :CA      6   C A F C ( F t p o r t a j c i i a o g g p c c S u c g t A G e f d u t M P I A r r t c c p a p f c w i a d a r a r t c O B  A S  A  ( B  A S  A  (]
+[DELETED:  S  B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S o  A  ( P  W C a a n i a s a r p i s  W T p o c f a a n b a p n  W a  W t i  W i r c e a]
+[DELETED: S 3  W m b e a m i t r a e o c i c t i n t f s c w a n t  S T A 3  ( A o g c a g t a i u t s   ( R   ( A   ( T]E§51X P I   O A RN    o   ( T t A 5  ( ( I c    ( s    ( c     1 m     A s t     B w]
+[DELETED:  S      2 m     A t     B t     3 s m t     4 m     5 m a v f t c w a s i     6 m a o c t a o a c A     7 s a     A f h     B f a c w a d d s t o     8 m D t f    (L  I   5    i) r    () s]( e]
+[DELETED: S 5    () s](V t    () s](V t 5  ( ( ( D]E§5X A P I   O T W R T C H R C O AN    p c() AF A J C G GP I A L   5N :  (T   ( .() ( H  0. ( D :  () ;S  ()IS A P T O T M O TN   () CIR  3,S8CA.  U   O R 5]
+[DELETED:  S   ( ( I t sn, “T F W H T ()() “D   I    () a] 1 o    () a] 2 s    () b] 3 t   () “ s b c i a w t A] ( A   () “U”N SG M A S F ATOFH–.  () “U”:ING    1 ,,–;L L TTL   2S    3 O B O O N  () “U”:ING    1 C V P O A F    2 :   A I W I A K C O P O W I I T P O A T B A KT    B , PT I I A FYB]
+[DELETED: S 7  ( ( T A s e a p o o p    ( w o a    ( w a a a n o d i a j     1 h d t c r i t c h     2 h a    ( w o s  ( I ( s   () p t f r s t a c] ( p t   () c] ( i   () p] ( d d ( N A A C T B P I A U . 5  ( T t   ( a a]
+[DELETED:  S    ( a i w i s t b a g t a l d   ( a   ( a i   ( a k b d o t S D o E    ( a t    ( a r o    ( a h o a a r o a c w w t c c    ( a u    ( a p o]    ( a l  () ()IS G N  T H O A I W T J C A A   ( a c o   ( i    ( a d a    ( a h]
+[DELETED: S 9  )( T()()O C O S BVI O T SN A W I A G B T J C SNS. (  A L D R I U  O T S O  BII O T T)§5()( T A A I R I T GNSE A T H N O A C H R C U TV  E  A T T E F C O A C H (  C O A C H R C P  O T SN I T L D) T I I I T B I O T CD T L   51. ( T E  () ( E]() w s    ( t I    ( r 1    ( t f a u § 1 o t C P   ( A v u s ( ( o ( o t s w v r t p o t m p f r b t F B o I  () ( A]( e () ](]
+[DELETED:  S    ( T    ( a i () ](    ( a t () ]( A 6  In  ]ES5AX U  EI m5.OCWO.  F H E M() N T S T F W H T M() “C”:UY  ( ;D  (() “D”DHS.ET  E U E() “L”§3OT    SA. E R() “O”OCWFE  F H E M F T EAG.() “O”CWO.MN  H E M() “S”SHS.EY  E U E]
+[DELETED: S 1() TOCWH F H E MAG. T E() TH P O T F I T I A D ( N O C A F U T E T; (  R O C A F A B UD ( .() ( WI T A A C O T E A IN   (N  T E H EAGC. ( TO: M  () SH B A T P L I T TE  () IH A L  Y O E I C() ( TO5.H M   ( A,M  M ( A M W I A A A T B() B,E T OE T M S T T O R     A OI,§9MC.() TO–S.H MLT T]
+[DELETED:  S () TH M T.() TAGCH T E M R T H E() TO:H F ( –O;LT MN  ( ,F N  T.() ( TH M M A A E TL IE A C S P F I T. ( TO, MN Y () ( T,OE  M  () OAG;T F T E  () DSP;IT E T OE   () S.IO T ( T( U L I P  O T SE E  M, MNS’. ) ISN C W T E O U A,AGT T T E S S M SSS  F.]
+[DELETED: S 1 ) TOH M F F T EAG.() SA O T M A A O AT T S , F T() TGH O T FF.() IF T B F T F I I T A TO, FE  M O O U O F A M F T EPWF. U() E()X A P I S B O T SN O AW  F T E E RPPA.() H C O T F P S B MD E ,: ( ; ( T A S A O I TE  ( ,T L  F.() ( A4T  N  M E UOS A E.Y ( TSBM: E U A]
+[DELETED:  S   () ;RS   () 1IA  S  M TS. ( F E().I () OJ31,2N O B A  E YR B I  TSB E U AD I A W   O T AE T T E§27,,S S . O: F ( ,,Y E E T N E,Y  TH Y ( , A R T ON PS A O F C HS G HS K C HS,S S C O CN A I L A ODD O A F P B T E O A L E ( ,,W E T  T O L A C P E B T O NT C I T O I CY OS A F W R C P K C O]
+[DELETED: S 1 ( ,,E E  TS  R B T F R T A O TS O A L D O A TEF P ET  TY S W R C PE K CE O F C ( 2– M HLF T T W O C U T J O T; ( U S V A R T I A R M T A I O F T WD :  () OT MN B C AT Y   ()IT I A R B T B T A S V I N T C O T MNSE (  TEF P E P C W S TN A M R F A S EY W I HE N  (  A I P F RGG R TO A R C M B O O O C W A R O T S O T LS    §69.  ) TO:H M]
+[DELETED:  S  ( ,, A C R LS PS PS ES  ( ,,;F N  (S S S,; ( O T W I A M U FE ; (  T M C T L WN  E SA. ) ( F A P T W A S I I U A O T S F T A OR H AD)), T G TY O F T P T BS PS O, D RD T M M A T TF ( S S S,() A  E A L D O A C I A A C I N O I  U   O R3,S8C M  ( O’2––; MNS HLF ( O; F ( O; F ( ’;DSS  ( A O R M E B T.]
+[DELETED: S 1() T,HL T  T T CDS P O S I A T CDS() TH M() F’O A C W S C A T CDSTOFHT DS–, C F C R C A F SN() ( S()U  N E EDS. ( T:  () TT   () O;IH F  () O;IA F  ()VT R T E U S);   ()P R B O T T O  () IH T CDS S W B P D  () IADS EE ;  () O.IA F ( A:  () ’;ADSG]
+[DELETED:  S   () ;IBS   () .IB() TH F T A L D CS A FN TOFHS TA––,S J OS A O P W W T T C I N O A C A P O E O A C P() ( ON C O A I U T SN FD R N. (  O O I V T C F A S P O TE T C S BWU.() ( E(X A P U P  O TN  M A L ) ( T M E T M T T MNS D A TON() RE FIA. N C ) TOH F ED    E  E S§27,GA: (  O A S O LETS S E N ,:]
+[DELETED: S 1  ()C  () IC I E O L DY   ()IC A F W R CS  ( , O FS AS A R() ( TOS.H F E ( A IBC,SCC O F HN T T O O H B A,,§27,T D    E  E. ( T:  () O;A F  () O:IA F   1 J W T I   2   3 ;   4 ;   5 ,,–T Y WU F   6 ’;DST    7 I A T CE Y E ,,;]
+[DELETED:  S   () IA T B T E O A L,DE  ET  ()VA E  3() ON30,2N O  R   S,CR EY  I E O,SCCAN,GN  T O H B ET  ORD    E  E S§27,G A T A O T F A T A T B TO. F() B()(E B  C N T F S R A I I ADS.() A:  ( O R I A M A A  () ;FE   ()IPH  (ES.() A(  A 05.  H S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 996
+D4, O4, P1 6lr3726
+CF HB 980
+By: Senator Zucker
+Introduced and read first time: February 22, 2026
+Assigned to: Rules
+A BILL ENTITLED
+1 AN ACT concerning
+2 Family Law and State Government – Child Protection and the Office of the
+3 Child Welfare Ombudsman
+4 (Kanaiyah’s Law)
+5 FOR the purpose of requiring that a juvenile court include in an order granting
+6 guardianship of a child to a specific individual a requirement that the individual
+7 provide certain information to a local department of social services under certain
+8 circumstances; establishing procedures for the review of certain guardianships of
+9 certain children by the juvenile court under certain circumstances; prohibiting the
+10 Social Services Administration from allowing the placement of certain children in
+11 unlicensed settings; expanding the list of individuals who are required to obtain a
+12 certain criminal history records check to include adults living in the home of a child’s
+13 guardian; establishing the Office of the Child Welfare Ombudsman in the Office of
+14 the Attorney General; exempting from disclosure under the Maryland Public
+15 Information Act records related to certain complaints; prohibiting a person from
+16 certain willful interference and discriminatory and retaliatory acts relating to
+17 complaints filed with the Office; and generally relating to child protection and the
+18 Office of the Child Welfare Ombudsman.
+19 BY repealing and reenacting, with amendments,
+20 Article – Courts and Judicial Proceedings
+21 Section 3–819.2(c)
+22 Annotated Code of Maryland
+23 (2020 Replacement Volume and 2025 Supplement)
+24 BY repealing and reenacting, with amendments,
+25 Article – Family Law
+26 Section 5–324(b)(1), 5–326(a)(10)(ii), 5–525(a) and (c), and 5–551(b), (g), and (h)
+27 Annotated Code of Maryland
+28 (2019 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0996*
+
+2 SENATE BILL 996
+1 BY adding to
+2 Article – Family Law
+3 Section 5–328.1 and 5–551(g)
+4 Annotated Code of Maryland
+5 (2019 Replacement Volume and 2025 Supplement)
+6 BY repealing and reenacting, without amendments,
+7 Article – Family Law
+8 Section 5–525(b)(1)
+9 Annotated Code of Maryland
+10 (2019 Replacement Volume and 2025 Supplement)
+11 BY repealing and reenacting, with amendments,
+12 Article – State Government
+13 Section 6–101
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2025 Supplement)
+16 BY adding to
+17 Article – State Government
+18 Section 6–5A–01 through 6–5A–11 to be under the new subtitle “Subtitle 5A. Office
+19 of the Child Welfare Ombudsman”
+20 Annotated Code of Maryland
+21 (2021 Replacement Volume and 2025 Supplement)
+22 Preamble
+23 WHEREAS, Child abuse and neglect is a serious and reprehensible problem in
+24 society; and
+25 WHEREAS, The protection of children from abuse and neglect by applying
+26 prevention measures and observing best practices in treating children who are abused and
+27 neglected must be one of Maryland’s highest public policy priorities; and
+28 WHEREAS, The child welfare system must protect and serve Maryland’s children in
+29 a manner that keeps them safe and healthy and promotes their well–being; and
+30 WHEREAS, The children and families served by the child welfare system, as well as
+31 the public, must have a high level of confidence that the system will act in a child’s best
+32 interests and will respond to the child’s needs in a timely and professional manner; and
+33 WHEREAS, To engender this high level of confidence in the child welfare system, it
+34 is important that children and families who become involved in the system, mandatory
+35 reporters, and the general public have a well–publicized, easily accessible, and transparent
+36 complaint process for voicing concerns regarding the child welfare system along with the
+37 expectation that those concerns, once voiced, will be heard and addressed in a timely and
+38 appropriate manner; and
+
+SENATE BILL 996 3
+1 WHEREAS, To improve child welfare outcomes and to foster best practices, there
+2 must be effective accountability mechanisms, including the review and evaluation of
+3 concerns voiced by children and families, mandatory reporters, persons involved in the
+4 child welfare system, and members of the general public, that provide policymakers with
+5 the information necessary to formulate systemic changes, where appropriate; now,
+6 therefore,
+7 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+8 That the Laws of Maryland read as follows:
+9 Article – Courts and Judicial Proceedings
+10 3–819.2.
+11 (c) An order granting custody and guardianship to an individual under this
+12 section:
+13 (1) Rescinds the child’s commitment to the local department;
+14 (2) Achieves the child’s permanency plan;
+15 (3) [Terminates] EXCEPT AS PROVIDED IN § 5–551 OF THE FAMILY
+16 LAW ARTICLE WITH RESPECT TO CRIMINAL HISTORY RECORDS CHECKS OF ADULTS
+17 RESIDING IN THE HOME OF THE GUARDIAN, TERMINATES the local department’s legal
+18 obligations and responsibilities to the child; and
+19 (4) Terminates the child’s case, unless the court finds good cause not to
+20 terminate the child’s case.
+21 Article – Family Law
+22 5–324.
+23 (b) (1) In a separate order accompanying an order granting guardianship of a
+24 child, a juvenile court:
+25 (i) shall include a directive terminating the child’s CINA case;
+26 (ii) consistent with the child’s best interests:
+27 1. may place the child:
+28 A. subject to paragraph (2) of this subsection, in a specific
+29 type of facility; or
+30 B. with a specific individual;
+
+4 SENATE BILL 996
+1 2. may direct provision of services by a local department to:
+2 A. the child; or
+3 B. the child’s caregiver;
+4 3. subject to a local department retaining legal guardianship,
+5 may award to a caregiver limited authority to make an emergency or ordinary decision as
+6 to the child’s care, education, mental or physical health, or welfare;
+7 4. may allow access to a medical or other record of the child;
+8 5. may allow visitation for the child with a specific
+9 individual;
+10 6. may appoint, or continue the appointment of, a
+11 court–appointed special advocate for any purpose set forth under § 3–830 of the Courts
+12 Article;
+13 7. shall direct the provision of any other service or taking of
+14 any other action as to the child’s education, health, and welfare, including:
+15 A. for a child who is at least 16 years old, services needed to
+16 help the child’s transition from guardianship to independence; or
+17 B. for a child with a developmental disability, services to
+18 obtain ongoing care, if any, needed after the guardianship case ends; and
+19 8. may co–commit the child to the custody of the Maryland
+20 Department of Health and order the Maryland Department of Health to provide a plan for
+21 the child of clinically appropriate services in the least restrictive setting, in accordance with
+22 federal and State law;
+23 (iii) FOR A CHILD PLACED WITH A SPECIFIC INDIVIDUAL, SHALL
+24 DIRECT THE INDIVIDUAL TO IMMEDIATELY NOTIFY A LOCAL DEPARTMENT IF AN
+25 ADULT BEGINS RESIDING IN THE HOME OF THE INDIVIDUAL AND THE ADULT HAS
+26 NOT COMPLETED A CRIMINAL HISTORY RECORDS CHECK UNDER § 5–551 OF THIS
+27 TITLE.
+28 (IV) if entered under § 5–322 of this subtitle, shall state each party’s
+29 response to the petition;
+30 [(iv)] (V) shall state a specific factual finding on whether reasonable
+31 efforts have been made to finalize the child’s permanency plan;
+
+SENATE BILL 996 5
+1 [(v)] (VI) shall state whether the child’s parent has waived the right
+2 to notice; and
+3 [(vi)] (VII) shall set a date, no later than 180 days after the date of
+4 the order, for the initial guardianship review hearing under § 5–326 of this subtitle.
+5 5–326.
+6 (a) (10) (ii) [Designation] EXCEPT AS PROVIDED IN § 5–551 OF THIS
+7 TITLE WITH RESPECT TO CRIMINAL HISTORY RECORDS CHECKS OF ADULTS
+8 RESIDING IN THE HOME OF THE GUARDIAN, DESIGNATION of a guardian under this
+9 paragraph terminates the local department’s legal obligations and responsibilities to the
+10 child.
+11 5–328.1.
+12 (A) AFTER A JUVENILE COURT GRANTS GUARDIANSHIP, IF A LOCAL
+13 DEPARTMENT DETERMINES THAT REVIEW OF THE GUARDIANSHIP IS IN THE BEST
+14 INTERESTS OF THE CHILD BASED ON INFORMATION RECEIVED FROM A CRIMINAL
+15 HISTORY RECORDS CHECK UNDER § 5–551 OF THIS TITLE REGARDING AN ADULT
+16 WHO RESIDES IN THE HOME OF THE GUARDIAN, THE LOCAL DEPARTMENT SHALL:
+17 (1) FILE A PETITION FOR REVIEW OF THE GUARDIANSHIP WITH
+18 THE JUVENILE COURT; AND
+19 (2) GIVE NOTICE TO EACH PARTY.
+20 (B) (1) THE JUVENILE COURT SHALL SCHEDULE A HEARING TO OCCUR
+21 WITHIN 30 DAYS AFTER THE FILING OF THE PETITION.
+22 (2) IF THE JUVENILE COURT DETERMINES THAT IT IS IN THE BEST
+23 INTERESTS OF THE CHILD, THE JUVENILE COURT SHALL:
+24 (I) SET ASIDE THE GUARDIANSHIP ORDER;
+25 (II) SCHEDULE A PROMPT TRIAL ON THE MERITS OF THE
+26 GUARDIANSHIP PETITION; AND
+27 (III) REOPEN THE CINA CASE FOR REVIEW AS REQUIRED UNDER
+28 TITLE 3, SUBTITLE 8 OF THE COURTS ARTICLE.
+29 5–525.
+
+6 SENATE BILL 996
+1 (a) (1) In this section[, “disability”] THE FOLLOWING WORDS HAVE THE
+2 MEANINGS INDICATED.
+3 (2) (I) “DISABILITY” means:
+4 [(i)] 1. a physical or mental impairment that substantially limits
+5 one or more of an individual’s major life activities;
+6 [(ii)] 2. a record of having a physical or mental impairment that
+7 substantially limits one or more of an individual’s major life activities; or
+8 [(iii)] 3. being regarded as having a physical or mental impairment
+9 that substantially limits one or more of an individual’s major life activities.
+10 [(2)] (II) “Disability” shall be construed in accordance with the ADA
+11 Amendments Act of 2008, P.L. 110–325.
+12 (3) (I) “UNLICENSED SETTING” MEANS A SETTING FOR AN
+13 OUT–OF–HOME PLACEMENT THAT IS NOT LICENSED.
+14 (II) “UNLICENSED SETTING” INCLUDES:
+15 1. A HOTEL, MOTEL, OR SHORT–TERM RENTAL;
+16 2. A SHELTER DESIGNATED TO MEET THE NEEDS OF A
+17 CHILD WHO HAS RUN AWAY OR WHO IS HOMELESS; AND
+18 3. AN OFFICE BUILDING OR OTHER NONRESIDENTIAL
+19 ENVIRONMENT.
+20 (III) “UNLICENSED SETTING” DOES NOT INCLUDE:
+21 1. THE VOLUNTARY PLACEMENT OF A FORMER CINA;
+22 OR
+23 2. THE PLACEMENT OF A CHILD WITH:
+24 A. AN INDIVIDUAL WHO IS A KINSHIP CAREGIVER OR
+25 FOSTER PARENT OR WHO IS IN THE PROCESS OF APPLYING TO BE A KINSHIP
+26 CAREGIVER OR FOSTER PARENT; OR
+27 B. A PARENT, INCLUDING IN A FAMILY–BASED
+28 RESIDENTIAL TREATMENT SETTING.
+
+SENATE BILL 996 7
+1 (b) (1) The Administration shall establish a program of out–of–home
+2 placement for minor children:
+3 (i) who are placed in the custody of a local department, for a period
+4 of not more than 180 days, by a parent or legal guardian under a voluntary placement
+5 agreement;
+6 (ii) who are abused, abandoned, neglected, or dependent, if a
+7 juvenile court:
+8 1. has determined that continued residence in the child’s
+9 home is contrary to the child’s welfare; and
+10 2. has committed the child to the custody or guardianship of
+11 a local department; or
+12 (iii) who, with the approval of the Administration, are placed in an
+13 out–of–home placement by a local department under a voluntary placement agreement
+14 subject to paragraph (2) of this subsection.
+15 (c) In establishing the out–of–home placement program the Administration:
+16 (1) shall:
+17 [(1)] (I) provide time–limited family reunification services to a child
+18 placed in an out–of–home placement and to the parents or guardian of the child, in order
+19 to facilitate the child’s safe and appropriate reunification within a timely manner;
+20 [(2)] (II) concurrently develop and implement a permanency plan that is
+21 in the best interests of the child; and
+22 [(3)] (III) provide training on an annual basis for the staff at each local
+23 department who administer requests for voluntary placement agreements for children with
+24 developmental disabilities or mental illnesses under subsection (b) of this section; AND
+25 (2) MAY NOT ALLOW A CHILD TO BE PLACED IN AN UNLICENSED
+26 SETTING.
+27 5–551.
+28 (b) The following individuals shall obtain a criminal history records check under
+29 this Part V of this subtitle:
+30 (1) an individual who is seeking to adopt a child through a child placement
+31 agency;
+
+8 SENATE BILL 996
+1 (2) an individual who is seeking to become a guardian through a local
+2 department;
+3 (3) an individual whom the juvenile court appoints as a guardian of a child;
+4 (4) an adult relative with whom a child, committed to a local department,
+5 is placed by the local department;
+6 (5) any adult known by a local department or the State Department of
+7 Education to be residing in:
+8 (i) a family child care home or large family child care home required
+9 to be registered under this title;
+10 (ii) a home where informal child care, as defined in child care subsidy
+11 regulations adopted under Title 13A of the Code of Maryland Regulations, is being provided
+12 or will be provided to a child who does not reside there;
+13 (iii) a home of an adult relative of a child with whom the child,
+14 committed to a local department, is placed by the local department;
+15 (iv) a foster care home or child care home required to be approved
+16 under this title;
+17 (v) a home of an individual seeking to adopt a child through a child
+18 placement agency; [or]
+19 (vi) a home of an individual seeking to become a guardian through a
+20 local department; OR
+21 (VII) SUBJECT TO SUBSECTION (G) OF THIS SECTION, AN ADULT
+22 IN THE HOME OF AN INDIVIDUAL WHOM THE JUVENILE COURT APPOINTS AS
+23 GUARDIAN;
+24 (6) an individual who agrees to provide, or to continue providing, informal
+25 child care, as defined in child care subsidy regulations, adopted under Title 13A of the Code
+26 of Maryland Regulations; and
+27 (7) if requested by a local department:
+28 (i) a parent or guardian of a child who is committed to the local
+29 department and is or has been placed in an out–of–home placement within the past year;
+30 and
+31 (ii) any adult known by the local department to be residing in the
+32 home of the parent or guardian.
+
+SENATE BILL 996 9
+1 (G) (1) TO CARRY OUT SUBSECTION (B)(5)(VII) OF THIS SECTION, AN
+2 INDIVIDUAL WHO IS APPOINTED GUARDIAN BY THE JUVENILE COURT SHALL
+3 PERIODICALLY PROVIDE TO THE LOCAL DEPARTMENT IN THE FORM AND MANNER
+4 REQUIRED BY THE LOCAL DEPARTMENT THE NAME OF EACH ADULT RESIDING IN
+5 THE GUARDIAN’S HOME.
+6 (2) IF A LOCAL DEPARTMENT RECEIVES INFORMATION UNDER
+7 PARAGRAPH (1) OF THIS SUBSECTION OR § 5–324(B)(1)(III) OF THIS TITLE
+8 INDICATING THAT AN ADULT IS RESIDING IN THE GUARDIAN’S HOME, AND THAT
+9 ADULT HAS NOT OBTAINED A CRIMINAL HISTORY RECORDS CHECK UNDER THIS
+10 PART V OF THIS SUBTITLE, THE LOCAL DEPARTMENT SHALL IMMEDIATELY REFER
+11 THE ADULT TO THE DEPARTMENT FOR COMPLETION OF A CRIMINAL HISTORY
+12 RECORDS CHECK.
+13 (3) ON COMPLETION OF A CRIMINAL HISTORY RECORDS CHECK
+14 UNDER PARAGRAPH (2) OF THIS SUBSECTION, IF THE LOCAL DEPARTMENT
+15 DETERMINES THAT IT IS IN THE BEST INTERESTS OF THE CHILD, THE LOCAL
+16 DEPARTMENT SHALL FILE A PETITION WITH THE JUVENILE COURT IN ACCORDANCE
+17 WITH § 5–328.1 OF THIS TITLE TO REVIEW THE GUARDIANSHIP.
+18 (4) THE DEPARTMENT SHALL ADOPT REGULATIONS TO CARRY OUT
+19 THIS SUBSECTION.
+20 [(g)] (H) (1) Except as provided in paragraph (2) of this subsection, a person
+21 who is required to have a criminal history records check under this Part V of this subtitle
+22 shall pay for:
+23 (i) the mandatory processing fee required by the Federal Bureau of
+24 Investigation for a national criminal history records check;
+25 (ii) reasonable administrative costs to the Department, not to exceed
+26 10% of the processing fee; and
+27 (iii) the fee authorized under § 10–221(b)(7) of the Criminal
+28 Procedure Article for access to Maryland criminal history records.
+29 (2) A volunteer under subsection (c), (d), or (e) of this section who
+30 volunteers for a program that is registered with the Maryland Mentoring Partnership is
+31 required to pay only the mandatory processing fee required by the Federal Bureau of
+32 Investigation for a national criminal history records check.
+33 [(h)] (I) (1) An employer or other party may pay for the costs borne by the
+34 employee or other individual under subsection [(g)] (H) of this section.
+
+10 SENATE BILL 996
+1 (2) The local department shall reimburse:
+2 (i) an adult residing in a foster care home for the costs borne by the
+3 individual under subsection [(g)] (H) of this section; and
+4 (ii) an individual described in subsection (b)(7)(ii) of this section for
+5 the costs borne by the individual under subsection [(g)] (H) of this section.
+6 Article – State Government
+7 6–101.
+8 [In] EXCEPT AS PROVIDED IN SUBTITLE 5A OF THIS TITLE, IN this title, “Office”
+9 means the Office of the Attorney General.
+10 SUBTITLE 5A. OFFICE OF THE CHILD WELFARE OMBUDSMAN.
+11 6–5A–01.
+12 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+13 INDICATED.
+14 (B) “CUSTODY” MEANS:
+15 (1) PHYSICAL OR LEGAL CUSTODY OF A CHILD; OR
+16 (2) THE RESPONSIBILITY CREATED BY LAW OR A COURT ORDER FOR
+17 THE CARE OF A CHILD.
+18 (C) “DEPARTMENT” MEANS THE DEPARTMENT OF HUMAN SERVICES.
+19 (D) “LOCAL DEPARTMENT” HAS THE MEANING STATED IN § 3–101 OF THE
+20 HUMAN SERVICES ARTICLE.
+21 (E) “OFFICE” MEANS THE OFFICE OF THE CHILD WELFARE OMBUDSMAN
+22 IN THE OFFICE OF THE ATTORNEY GENERAL.
+23 (F) “OMBUDSMAN” MEANS THE CHILD WELFARE OMBUDSMAN.
+24 (G) “SECRETARY” MEANS THE SECRETARY OF HUMAN SERVICES.
+25 6–5A–02.
+
+SENATE BILL 996 11
+1 (A) THERE IS AN OFFICE OF THE CHILD WELFARE OMBUDSMAN IN THE
+2 OFFICE OF THE ATTORNEY GENERAL.
+3 (B) THE PURPOSE OF THE OFFICE IS TO INVESTIGATE AND DETERMINE
+4 WHETHER:
+5 (1) THE NEEDS OF CHILDREN AND FAMILIES UNDER THE
+6 JURISDICTION OF THE DEPARTMENT OR A LOCAL DEPARTMENT ARE BEING MET IN
+7 COMPLIANCE WITH STATE LAW;
+8 (2) THE RIGHTS OF CHILDREN AND FAMILIES ARE BEING UPHELD;
+9 AND
+10 (3) THE CHILDREN ARE NOT BEING ABUSED OR NEGLECTED.
+11 6–5A–03.
+12 (A) (1) WITH THE ADVICE AND CONSENT OF THE SENATE AND INPUT
+13 FROM CURRENT OR FORMER FOSTER CHILDREN, SUBJECT TO PARAGRAPH (2) OF
+14 THIS SUBSECTION, THE ATTORNEY GENERAL SHALL APPOINT THE CHILD WELFARE
+15 OMBUDSMAN.
+16 (2) THE OMBUDSMAN SHALL:
+17 (I) HAVE BEEN ADMITTED TO PRACTICE LAW IN THE STATE;
+18 AND
+19 (II) HAVE AT LEAST 5 YEARS OF EXPERIENCE IN CHILD
+20 WELFARE.
+21 (B) (1) THE TERM OF THE OMBUDSMAN IS 5 YEARS.
+22 (2) AT THE END OF A TERM, THE OMBUDSMAN CONTINUES TO SERVE
+23 UNTIL A SUCCESSOR IS APPOINTED AND QUALIFIES.
+24 (3) AN OMBUDSMAN WHO IS APPOINTED AFTER A TERM BEGINS
+25 SERVES FOR THE REMAINDER OF THE TERM UNTIL A SUCCESSOR IS APPOINTED AND
+26 QUALIFIES.
+27 (C) BEFORE TAKING OFFICE, THE OMBUDSMAN SHALL TAKE THE OATH
+28 REQUIRED BY ARTICLE I, § 9 OF THE MARYLAND CONSTITUTION.
+29 (D) THE OMBUDSMAN SHALL BE A FULL–TIME STATE EMPLOYEE.
+
+12 SENATE BILL 996
+1 (E) THE OMBUDSMAN IS ENTITLED TO AN ANNUAL SALARY AS PROVIDED
+2 FOR IN THE STATE BUDGET.
+3 (F) THE ATTORNEY GENERAL MAY REMOVE THE CHILD WELFARE
+4 OMBUDSMAN FOR GOOD CAUSE SHOWN AFTER NOTICE AND AN OPPORTUNITY TO BE
+5 HEARD.
+6 6–5A–04.
+7 (A) THE OFFICE SHALL INCLUDE:
+8 (1) A FULL–TIME OMBUDSMAN; AND
+9 (2) STAFF, INCLUDING ASSISTANT OMBUDSMEN, AS ALLOWED FOR IN
+10 THE STATE BUDGET.
+11 (B) (1) THE OMBUDSMAN MAY APPOINT AND EMPLOY THE
+12 PROFESSIONAL, INVESTIGATIVE, AND CLERICAL STAFF PROVIDED FOR IN THE
+13 STATE BUDGET.
+14 (2) THE OMBUDSMAN, AS NECESSARY, MAY HIRE OR CONTRACT WITH
+15 EXPERTS IN THE FIELD OF CHILD WELFARE.
+16 (C) (1) TO THE EXTENT PRACTICABLE, THE OMBUDSMAN SHALL USE THE
+17 SERVICES AND PERSONNEL OF:
+18 (I) THE OFFICE OF THE ATTORNEY GENERAL;
+19 (II) THE DEPARTMENT OF STATE POLICE; AND
+20 (III) OTHER STATE AND LAW ENFORCEMENT UNITS.
+21 (2) THE UNITS LISTED IN PARAGRAPH (1) OF THIS SUBSECTION
+22 SHALL COOPERATE, TO THE EXTENT PRACTICABLE, WITH THE OMBUDSMAN AND
+23 THE OMBUDSMAN’S STAFF.
+24 (D) IN COOPERATION WITH THE SECRETARY OF BUDGET AND
+25 MANAGEMENT, THE ATTORNEY GENERAL SHALL SET MINIMUM SALARIES,
+26 QUALIFICATIONS, AND STANDARDS OF TRAINING AND EXPERIENCE FOR POSITIONS
+27 IN THE OFFICE.
+28 6–5A–05.
+
+SENATE BILL 996 13
+1 (A) THE BUDGET OF THE OMBUDSMAN AND THE OFFICE SHALL BE A PART
+2 OF THE BUDGET OF THE OFFICE OF THE ATTORNEY GENERAL.
+3 (B) SALARIES OF THE OMBUDSMAN AND ASSISTANT OMBUDSMEN AND
+4 EXPENSES FOR RENT, EQUIPMENT, SUPPLIES, AND GENERAL OPERATING EXPENSES
+5 NECESSARY FOR THE WORK OF THE OFFICE SHALL BE AS PROVIDED IN THE STATE
+6 BUDGET.
+7 (C) THE GOVERNOR SHALL PROVIDE IN THE STATE BUDGET SUFFICIENT
+8 MONEY FOR THE OFFICE TO HIRE NECESSARY STAFF.
+9 (D) IF THE BUDGET FOR THE OFFICE IS INSUFFICIENT TO ALLOW THE
+10 OFFICE TO PERFORM THE DUTIES OF THE OFFICE, THE OMBUDSMAN MAY APPLY TO
+11 THE BOARD OF PUBLIC WORKS FOR ADDITIONAL MONEY FROM THE GENERAL
+12 EMERGENCY FUND.
+13 6–5A–06.
+14 (A) EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, OR AS
+15 OTHERWISE PROVIDED BY LAW, ALL PERSONNEL OF THE OFFICE ARE SUBJECT TO
+16 THE PROVISIONS OF THE STATE PERSONNEL AND PENSIONS ARTICLE.
+17 (B) THE COMPENSATION OF THE FOLLOWING PERSONNEL SHALL BE
+18 DETERMINED BY THE OMBUDSMAN AND, IF POSSIBLE, IN ACCORDANCE WITH THE
+19 STATE PAY PLAN:
+20 (1) ASSISTANT OMBUDSMEN;
+21 (2) ATTORNEYS THAT ARE SPECIAL APPOINTEES OR IN THE
+22 MANAGEMENT SERVICE; AND
+23 (3) ALL POSITIONS IN MANAGEMENT, PROFESSIONAL, AND SKILLED
+24 SERVICE CLASSIFICATIONS UNIQUE TO THE OFFICE.
+25 (C) (1) AT LEAST 45 DAYS BEFORE THE EFFECTIVE DATE OF A CHANGE IN
+26 SALARY PLAN, THE OMBUDSMAN SHALL SUBMIT TO THE SECRETARY OF BUDGET
+27 AND MANAGEMENT EACH CHANGE THAT INVOLVES AN INCREASE OR A DECREASE IN
+28 SALARY RANGES OTHER THAN THOSE ASSOCIATED WITH ROUTINE CLASSIFICATIONS
+29 AND PROMOTIONS OR GENERAL SALARY INCREASES APPROVED BY THE GENERAL
+30 ASSEMBLY.
+31 (2) THE SECRETARY OF BUDGET AND MANAGEMENT SHALL:
+
+14 SENATE BILL 996
+1 (I) REVIEW THE PROPOSED CHANGES; AND
+2 (II) AT LEAST 15 DAYS BEFORE THE EFFECTIVE DATE OF THE
+3 PROPOSED CHANGES, ADVISE THE OMBUDSMAN WHETHER THE CHANGES WOULD
+4 HAVE AN ADVERSE EFFECT ON COMPARABLE STATE JOBS.
+5 (3) FAILURE OF THE SECRETARY TO RESPOND IN A TIMELY MANNER
+6 MAY NOT BE CONSIDERED A STATEMENT OF ADVERSE EFFECT UNDER PARAGRAPH
+7 (2)(II) OF THIS SUBSECTION.
+8 (D) ON OR BEFORE JANUARY 31 EACH YEAR, BEGINNING IN 2028, THE
+9 OMBUDSMAN SHALL REPORT TO THE SECRETARY OF BUDGET AND MANAGEMENT
+10 AND, IN ACCORDANCE WITH § 2–1257 OF THIS ARTICLE, TO THE GENERAL
+11 ASSEMBLY ALL PERSONNEL POSITIONS, CLASSIFICATIONS, AND SALARIES IN THE
+12 OFFICE AS OF THE END OF THE IMMEDIATELY PRECEDING CALENDAR YEAR.
+13 6–5A–07.
+14 THE OFFICE SHALL:
+15 (1) IDENTIFY, RECEIVE, INVESTIGATE, AND SEEK THE RESOLUTION
+16 OR REFERRAL OF COMPLAINTS MADE BY OR ON BEHALF OF A CHILD INVOLVED IN
+17 CHILD IN NEED OF ASSISTANCE CASES CONCERNING ANY ACT, OMISSION, PRACTICE,
+18 POLICY, OR PROCEDURE OF A STATE OR LOCAL AGENCY OR ANY PERSON WORKING
+19 ON BEHALF OF THE AGENCY THAT MAY ADVERSELY AFFECT THE HEALTH, SAFETY,
+20 OR WELFARE OF THE CHILD;
+21 (2) INSPECT AND REVIEW THE OPERATION, POLICIES, AND
+22 PROCEDURES OF FOSTER CARE HOMES, GROUP HOMES, KINSHIP CARE HOMES,
+23 RESIDENTIAL TREATMENT FACILITIES, SHELTERS FOR THE CARE OF ABUSED OR
+24 NEGLECTED CHILDREN, AND INDEPENDENT LIVING ARRANGEMENTS OPERATED,
+25 LICENSED, OR APPROVED FOR PAYMENT BY THE DEPARTMENT OR A LOCAL
+26 DEPARTMENT OR USED BY THE DEPARTMENT OR BY A LOCAL DEPARTMENT FOR THE
+27 CARE OF CHILDREN IN ITS CUSTODY;
+28 (3) REVIEW, EVALUATE, REPORT, AND MAKE RECOMMENDATIONS TO
+29 A STATE OR LOCAL AGENCY CONCERNING PROCEDURES ESTABLISHED BY THE
+30 AGENCY TO PROVIDE SERVICES TO CHILDREN AND FAMILIES THAT ARE AT RISK OF
+31 ABUSE OR NEGLECT, CHILDREN IN STATE OR INSTITUTIONAL CUSTODY, OR
+32 CHILDREN AND FAMILIES WHO RECEIVE CHILD PROTECTIVE KINSHIP CARE OR
+33 FOSTER CARE SERVICES;
+
+SENATE BILL 996 15
+1 (4) RECEIVE, INVESTIGATE, AND MAKE REFERRALS TO OTHER STATE
+2 OR LOCAL AGENCIES, OR TAKE OTHER APPROPRIATE ACTIONS WITH RESPECT TO A
+3 COMPLAINT RECEIVED BY THE OFFICE REGARDING THE ACTIONS OF THE
+4 DEPARTMENT OR A LOCAL DEPARTMENT OR A STATE–FUNDED PRIVATE ENTITY
+5 THAT PROVIDES SERVICES TO CHILDREN AND FAMILIES WHO ARE AT RISK OF ABUSE
+6 OR NEGLECT, CHILDREN IN STATE OR INSTITUTIONAL CUSTODY, OR CHILDREN AND
+7 FAMILIES WHO RECEIVE CHILD PROTECTIVE, KINSHIP CARE, OR FOSTER CARE
+8 SERVICES;
+9 (5) ESTABLISH AND MAINTAIN A 24–HOUR TOLL–FREE TELEPHONE
+10 HELPLINE AND WEBSITE TO RECEIVE AND RESPOND TO CALLS FROM INDIVIDUALS
+11 REGARDING THE WELFARE OF CHILDREN UNDER THE JURISDICTION OF THE
+12 DEPARTMENT OR A LOCAL DEPARTMENT;
+13 (6) CONDUCT UNANNOUNCED SITE VISITS AT REASONABLE TIMES
+14 AND IN A REASONABLE MANNER TO ANY INSTITUTION OR FACILITY TO WHICH
+15 CHILDREN ARE COMMITTED OR PLACED, IF:
+16 (I) THE OMBUDSMAN, BEFORE CONDUCTING AN
+17 UNANNOUNCED SITE VISIT, HAS INITIATED AN INVESTIGATION INTO THE RESPONSE
+18 OR DISPOSITION OF AN ALLEGATION OF ABUSE OR NEGLECT AT THE INSTITUTION
+19 OR FACILITY; AND
+20 (II) THERE IS A REASONABLE BASIS TO BELIEVE THAT AN
+21 UNANNOUNCED SITE VISIT IS NECESSARY TO CARRY OUT THE OMBUDSMAN’S
+22 RESPONSIBILITIES UNDER THIS SUBTITLE;
+23 (7) CONSULT WITH ANY APPROPRIATE STATE OR COUNTY AGENCY OR
+24 STATE–FUNDED PRIVATE ENTITY PROVIDING CHILD WELFARE SERVICES TO
+25 CHILDREN, AND MAY REQUEST FROM ANY SUCH ENTITY, WHICH IS HEREBY
+26 AUTHORIZED AND DIRECTED TO PROVIDE, SUCH COOPERATION AND ASSISTANCE AS
+27 WILL ENABLE THE CHILD ADVOCATE TO PROPERLY PERFORM ITS RESPONSIBILITIES
+28 UNDER THIS SECTION; AND
+29 (8) ESTABLISH AND IMPLEMENT PROCEDURES FOR RECEIVING,
+30 PROCESSING, RESPONDING TO, AND RESOLVING COMPLAINTS MADE BY OR ON
+31 BEHALF OF CHILDREN WHO ARE RECIPIENTS OF THE SERVICES OF THE LOCAL
+32 DEPARTMENTS, AS PROVIDED FOR IN § 6–5A–09 OF THIS SUBTITLE.
+33 6–5A–08.
+34 (A) THE OMBUDSMAN MAY:
+
+16 SENATE BILL 996
+1 (1) REVIEW AND COPY RELEVANT LAWS, POLICIES, PROCEDURES,
+2 AND DEPARTMENT AND LOCAL DEPARTMENT RECORDS AND REPORTS, INCLUDING
+3 RECORDS RELATING TO AN INDIVIDUAL CHILD;
+4 (2) CONDUCT INTERVIEWS WITH STAFF, CHILDREN, AND OTHERS;
+5 (3) ISSUE SUBPOENAS TO COMPEL THE ATTENDANCE AND TESTIMONY
+6 OF WITNESSES OR THE PRODUCTION OF BOOKS, PAPERS, AND OTHER DOCUMENTS;
+7 (4) ADMINISTER OATHS TO WITNESSES IN ANY MATTER UNDER
+8 INVESTIGATION IN THE OFFICE; AND
+9 (5) IF THE OMBUDSMAN CONSIDERS THAT LEGISLATION WOULD
+10 AFFECT THE INTERESTS OF PERSONS UNDER ITS JURISDICTION, RECOMMEND THE
+11 LEGISLATION TO THE GENERAL ASSEMBLY.
+12 (B) (1) IF A PERSON TO WHOM A SUBPOENA IS ISSUED UNDER
+13 SUBSECTION (A)(3) OF THIS SECTION FAILS TO APPEAR OR, HAVING APPEARED,
+14 REFUSES TO GIVE TESTIMONY, OR FAILS TO PRODUCE THE BOOKS, PAPERS, OR
+15 OTHER DOCUMENTS REQUIRED, THE OMBUDSMAN MAY APPLY TO THE
+16 APPROPRIATE CIRCUIT COURT FOR RELIEF.
+17 (2) THE APPROPRIATE COURT MAY ORDER THE PERSON TO APPEAR
+18 AND GIVE TESTIMONY OR PRODUCE THE BOOKS, PAPERS, OR OTHER DOCUMENTS,
+19 AS APPLICABLE.
+20 6–5A–09.
+21 (A) A CHILD WHO IS A RECIPIENT OF THE SERVICES OF THE DEPARTMENT
+22 OR A LOCAL DEPARTMENT OR A CHILD IDENTIFIED AS A CHILD IN NEED OF
+23 ASSISTANCE UNDER TITLE 3, SUBTITLE 8 OF THE COURTS ARTICLE MAY FILE A
+24 COMPLAINT WITH THE OMBUDSMAN:
+25 (1) BY CALLING THE OMBUDSMAN’S 24–HOUR TOLL–FREE HELPLINE;
+26 (2) BY FILING THE COMPLAINT ELECTRONICALLY WITH THE OFFICE;
+27 (3) BY MEETING IN PERSON WITH STAFF FROM THE OFFICE;
+28 (4) THROUGH AN ADULT REPRESENTING THE CHILD’S INTERESTS; OR
+29 (5) BY ANY OTHER REASONABLE MEANS ESTABLISHED BY THE
+30 OMBUDSMAN.
+
+SENATE BILL 996 17
+1 (B) THE COMPLAINT PROCESS SHALL BE CONFIDENTIAL, EXPEDIENT, AND
+2 RESPONSIVE TO THE CHILD’S PERCEPTION OF SAFETY ISSUES AND THE CHILD’S
+3 EMOTIONAL NEEDS.
+4 (C) THE OMBUDSMAN SHALL ESTABLISH AND IMPLEMENT APPROPRIATE
+5 RESPONSE TIMES AND SAFETY MEASURES FOR DIFFERENT TYPES OF COMPLAINTS.
+6 (D) FOR A CHILD WITH SAFETY CONCERNS ABOUT THE CHILD’S
+7 OUT–OF–HOME PLACEMENT, THE CHILD’S SAFETY MUST BE PARAMOUNT SO THAT
+8 THE CHILD FEELS COMFORTABLE REPORTING COMPLAINTS AND FEELS SAFE
+9 PENDING THE OUTCOME OF ANY INVESTIGATION.
+10 (E) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THE LOCAL
+11 DEPARTMENT SHALL INCLUDE, IN DEVELOPMENTALLY APPROPRIATE LANGUAGE,
+12 INFORMATION IN EACH CHILD’S RECORD ABOUT THE COMPLAINT PROCEDURE.
+13 (2) THE INFORMATION SHALL INCLUDE:
+14 (I) THE DEFINITION OF A COMPLAINT, INCLUDING EXAMPLES
+15 OF SITUATIONS WHERE IT IS APPROPRIATE TO FILE A COMPLAINT;
+16 (II) HOW TO FILE A FORMAL COMPLAINT WITH THE OFFICE;
+17 (III) AN EXPLANATION OF THE PURPOSES OF THE OFFICE;
+18 (IV) THE RESPONSE TIMES ESTABLISHED UNDER SUBSECTION
+19 (C) OF THIS SECTION;
+20 (V) POTENTIAL RESOLUTIONS BASED ON THE TYPE OF
+21 COMPLAINTS;
+22 (VI) HOW THE CHILD’S SAFETY WILL BE PROTECTED DURING
+23 THE INVESTIGATION OF THE COMPLAINT;
+24 (VII) AN EXPLANATION OF THE CHILD’S RIGHTS AS OUTLINED IN
+25 ANY DEPARTMENT HANDBOOK FOR CHILDREN IN FOSTER CARE; AND
+26 (VIII) ANY OTHER INFORMATION THE OFFICE REQUIRES.
+27 (3) A CHILD SHALL BE GIVEN THE INFORMATION:
+28 (I) AT THE CHILD’S INITIAL COURT HEARING;
+
+18 SENATE BILL 996
+1 (II) BEFORE ANY SUBSEQUENT COURT HEARINGS; AND
+2 (III) BEFORE EVERY NEW PLACEMENT.
+3 (F) THE OFFICE SHALL PROVIDE TRAINING ON COMPLAINT POLICIES AND
+4 PROCEDURES TO ALL LOCAL DEPARTMENT CASEWORKERS, ATTORNEYS FOR
+5 CHILDREN, OUT–OF–HOME PLACEMENT PROVIDERS, COURT–APPOINTED SPECIAL
+6 ADVOCATES, JUDICIAL OFFICERS, AND OTHER PROFESSIONALS WORKING WITH
+7 CHILDREN THROUGH THEIR CHILD IN NEED OF ASSISTANCE CASES AS PART OF
+8 THEIR EMPLOYMENT ORIENTATION AND CONTINUING PROFESSIONAL
+9 DEVELOPMENT.
+10 (G) (1) ON CONCLUSION OF AN INVESTIGATION UNDER THIS SECTION,
+11 THE OFFICE SHALL INFORM THE CHILD, IN A DEVELOPMENTALLY APPROPRIATE
+12 MANNER, OF THE OUTCOME OF THE INVESTIGATION.
+13 (2) IF THE OUTCOME OF THE INVESTIGATION ENTAILS SITE VISITS
+14 WITH THE CHILD FOR A SPECIFIED PERIOD OF TIME, THE CHILD SHALL BE
+15 INFORMED OF THE SCOPE AND INTENT OF THIS FOLLOW–UP PROCESS.
+16 (H) (1) EXCEPT AS PROVIDED UNDER PARAGRAPH (2) OF THIS
+17 SUBSECTION, THE OMBUDSMAN SHALL TREAT ALL COMPLAINTS RECEIVED UNDER
+18 SUBSECTION (A) OF THIS SECTION AS CONFIDENTIAL, INCLUDING THE IDENTITIES
+19 OF COMPLAINANTS AND INDIVIDUALS FROM WHOM INFORMATION IS ACQUIRED.
+20 (2) THE OMBUDSMAN MAY DISCLOSE INFORMATION AS NECESSARY
+21 TO ENABLE THE OMBUDSMAN TO PERFORM THE OMBUDSMAN’S DUTIES AND TO
+22 SUPPORT ANY RECOMMENDATIONS RESULTING FROM AN INVESTIGATION.
+23 (I) RECORDS RELATING TO COMPLAINTS RECEIVED BY THE OFFICE AND
+24 THE INVESTIGATION OF COMPLAINTS ARE EXEMPT FROM DISCLOSURE UNDER THE
+25 PUBLIC INFORMATION ACT.
+26 6–5A–10.
+27 (A) THE OFFICE SHALL REPORT IN A TIMELY MANNER TO THE SECRETARY
+28 AND, IN ACCORDANCE WITH § 2–1257 OF THIS ARTICLE, THE GENERAL ASSEMBLY:
+29 (1) KNOWLEDGE OF ANY SYSTEMIC OR LIFE–THREATENING
+30 PROBLEMS AND ANY FINDINGS, ACTIONS, AND RECOMMENDATIONS RELATING TO
+31 INVESTIGATIONS REGARDING THE CARE, SUPERVISION, AND TREATMENT OF:
+
+SENATE BILL 996 19
+1 (I) CHILDREN AND FAMILIES WHO ARE AT RISK OF ABUSE OR
+2 NEGLECT;
+3 (II) CHILDREN IN DEPARTMENT OR LOCAL DEPARTMENT
+4 CUSTODY; OR
+5 (III) CHILDREN AND FAMILIES WHO RECEIVE CHILD
+6 PROTECTIVE KINSHIP CARE OR FOSTER CARE SERVICES; AND
+7 (2) ALL OTHER FINDINGS, ACTIONS, AND RECOMMENDATIONS
+8 RELATED TO THE ACTIVITIES REQUIRED UNDER THIS SUBTITLE.
+9 (B) (1) THE OFFICE SHALL REPORT QUARTERLY TO THE SECRETARY.
+10 (2) A COPY OF THE REPORT SHALL BE PROVIDED TO THE CITIZENS
+11 REVIEW BOARD FOR CHILDREN, THE STATE COUNCIL ON CHILD ABUSE AND
+12 NEGLECT, AND, IN ACCORDANCE WITH § 2–1257 OF THIS ARTICLE, THE GENERAL
+13 ASSEMBLY.
+14 (3) THE REPORT SHALL INCLUDE:
+15 (I) ALL ACTIVITIES OF THE OFFICE;
+16 (II) ALL COMPLAINTS MADE TO THE OFFICE INCLUDING:
+17 1. THE JURISDICTION WHERE THE INCIDENT
+18 OCCURRED;
+19 2. THE JURISDICTION THAT HAS CARE AND CUSTODY OF
+20 THE CHILD IN NEED OF ASSISTANCE WHOSE CASE IS BEING REVIEWED;
+21 3. THE NATURE OF THE COMPLAINT;
+22 4. THE DISPOSITION OF THE COMPLAINT;
+23 5. WHAT, IF ANY, FOLLOW–UP ACTION THE OFFICE TOOK
+24 AND WHY;
+25 6. THE CHILD’S PLACEMENT; AND
+26 7. DEMOGRAPHIC INFORMATION ABOUT THE CHILD
+27 INCLUDING AGE, GENDER IDENTITY, RACE, AND ETHNICITY;
+
+20 SENATE BILL 996
+1 (III) ACTIONS TAKEN BY THE DEPARTMENT OR A LOCAL
+2 DEPARTMENT RESULTING FROM THE FINDINGS AND RECOMMENDATIONS OF THE
+3 OFFICE, INCLUDING THE RESPONSE BY THE DEPARTMENT OR LOCAL DEPARTMENT;
+4 AND
+5 (IV) A SUMMARY OF ANY VIOLATIONS OF THE STANDARDS AND
+6 REGULATIONS OF THE DEPARTMENT THAT REMAINED UNABATED FOR 30 DAYS OR
+7 MORE DURING THE REPORTING PERIOD.
+8 (C) ON OR BEFORE NOVEMBER 30 EACH YEAR, BEGINNING IN 2028, THE
+9 OFFICE SHALL REPORT TO THE SECRETARY, THE CITIZENS REVIEW BOARD FOR
+10 CHILDREN, THE STATE COUNCIL ON CHILD ABUSE AND NEGLECT, THE GOVERNOR,
+11 AND, IN ACCORDANCE WITH § 2–1257 OF THIS ARTICLE, THE GENERAL ASSEMBLY
+12 ON ALL THE ACTIVITIES OF THE OFFICE AND THE ACTIONS TAKEN BY THE
+13 DEPARTMENT IN RESPONSE TO FINDINGS AND RECOMMENDATIONS OF THE OFFICE.
+14 (D) BEFORE SUBMITTING A REPORT UNDER SUBSECTION (B) OR (C) OF THIS
+15 SECTION, THE OFFICE SHALL REMOVE ANY IDENTIFYING INFORMATION AS
+16 NECESSARY TO PROTECT THE PRIVACY OF THE CHILD AND THE CHILD’S FAMILY.
+17 6–5A–11.
+18 (A) A PERSON MAY NOT:
+19 (1) DISCRIMINATE OR RETALIATE IN ANY MANNER AGAINST ANY
+20 PERSON FOR:
+21 (I) FILING A COMPLAINT UNDER THIS SUBTITLE; OR
+22 (II) PROVIDING INFORMATION TO AN ADVOCATE OF A CHILD IN
+23 GOOD FAITH; OR
+24 (2) WILLFULLY INTERFERE WITH AN ADVOCATE OF A CHILD IN THE
+25 PERFORMANCE OF THE ADVOCATE’S OFFICIAL DUTIES.
+26 (B) A PERSON WHO VIOLATES SUBSECTION (A) OF THIS SECTION IS GUILTY
+27 OF A MISDEMEANOR AND ON CONVICTION IS SUBJECT TO A FINE NOT EXCEEDING
+28 $5,000 OR IMPRISONMENT NOT EXCEEDING 5 YEARS OR BOTH.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+30 October 1, 2026.
+
+[DELETED: :CA      6   C A F C ( F t p o r t a j c i i a o g g p c c S u c g t A G e f d u t M P I A r r t c c p a p f c w i a d a r a r t c O B  A S  A  ( B  A S  A  (]
+[DELETED:  S  B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S o  A  ( P  W C a a n i a s a r p i s  W T p o c f a a n b a p n  W a  W t i  W i r c e a]
+[DELETED: S 3  W m b e a m i t r a e o c i c t i n t f s c w a n t  S T A 3  ( A o g c a g t a i u t s   ( R   ( A   ( T]E§51X P I   O A RN    o   ( T t A 5  ( ( I c    ( s    ( c     1 m     A s t     B w]
+[DELETED:  S      2 m     A t     B t     3 s m t     4 m     5 m a v f t c w a s i     6 m a o c t a o a c A     7 s a     A f h     B f a c w a d d s t o     8 m D t f    (L  I   5    i) r    () s]( e]
+[DELETED: S 5    () s](V t    () s](V t 5  ( ( ( D]E§5X A P I   O T W R T C H R C O AN    p c() AF A J C G GP I A L   5N :  (T   ( .() ( H  0. ( D :  () ;S  ()IS A P T O T M O TN   () CIR  3,S8CA.  U   O R 5]
+[DELETED:  S   ( ( I t sn, “T F W H T ()() “D   I    () a] 1 o    () a] 2 s    () b] 3 t   () “ s b c i a w t A] ( A   () “U”N SG M A S F ATOFH–.  () “U”:ING    1 ,,–;L L TTL   2S    3 O B O O N  () “U”:ING    1 C V P O A F    2 :   A I W I A K C O P O W I I T P O A T B A KT    B , PT I I A FYB]
+[DELETED: S 7  ( ( T A s e a p o o p    ( w o a    ( w a a a n o d i a j     1 h d t c r i t c h     2 h a    ( w o s  ( I ( s   () p t f r s t a c] ( p t   () c] ( i   () p] ( d d ( N A A C T B P I A U . 5  ( T t   ( a a]
+[DELETED:  S    ( a i w i s t b a g t a l d   ( a   ( a i   ( a k b d o t S D o E    ( a t    ( a r o    ( a h o a a r o a c w w t c c    ( a u    ( a p o]    ( a l  () ()IS G N  T H O A I W T J C A A   ( a c o   ( i    ( a d a    ( a h]
+[DELETED: S 9  )( T()()O C O S BVI O T SN A W I A G B T J C SNS. (  A L D R I U  O T S O  BII O T T)§5()( T A A I R I T GNSE A T H N O A C H R C U TV  E  A T T E F C O A C H (  C O A C H R C P  O T SN I T L D) T I I I T B I O T CD T L   51. ( T E  () ( E]() w s    ( t I    ( r 1    ( t f a u § 1 o t C P   ( A v u s ( ( o ( o t s w v r t p o t m p f r b t F B o I  () ( A]( e () ](]
+[DELETED:  S    ( T    ( a i () ](    ( a t () ]( A 6  In  ]ES5AX U  EI m5.OCWO.  F H E M() N T S T F W H T M() “C”:UY  ( ;D  (() “D”DHS.ET  E U E() “L”§3OT    SA. E R() “O”OCWFE  F H E M F T EAG.() “O”CWO.MN  H E M() “S”SHS.EY  E U E]
+[DELETED: S 1() TOCWH F H E MAG. T E() TH P O T F I T I A D ( N O C A F U T E T; (  R O C A F A B UD ( .() ( WI T A A C O T E A IN   (N  T E H EAGC. ( TO: M  () SH B A T P L I T TE  () IH A L  Y O E I C() ( TO5.H M   ( A,M  M ( A M W I A A A T B() B,E T OE T M S T T O R     A OI,§9MC.() TO–S.H MLT T]
+[DELETED:  S () TH M T.() TAGCH T E M R T H E() TO:H F ( –O;LT MN  ( ,F N  T.() ( TH M M A A E TL IE A C S P F I T. ( TO, MN Y () ( T,OE  M  () OAG;T F T E  () DSP;IT E T OE   () S.IO T ( T( U L I P  O T SE E  M, MNS’. ) ISN C W T E O U A,AGT T T E S S M SSS  F.]
+[DELETED: S 1 ) TOH M F F T EAG.() SA O T M A A O AT T S , F T() TGH O T FF.() IF T B F T F I I T A TO, FE  M O O U O F A M F T EPWF. U() E()X A P I S B O T SN O AW  F T E E RPPA.() H C O T F P S B MD E ,: ( ; ( T A S A O I TE  ( ,T L  F.() ( A4T  N  M E UOS A E.Y ( TSBM: E U A]
+[DELETED:  S   () ;RS   () 1IA  S  M TS. ( F E().I () OJ31,2N O B A  E YR B I  TSB E U AD I A W   O T AE T T E§27,,S S . O: F ( ,,Y E E T N E,Y  TH Y ( , A R T ON PS A O F C HS G HS K C HS,S S C O CN A I L A ODD O A F P B T E O A L E ( ,,W E T  T O L A C P E B T O NT C I T O I CY OS A F W R C P K C O]
+[DELETED: S 1 ( ,,E E  TS  R B T F R T A O TS O A L D O A TEF P ET  TY S W R C PE K CE O F C ( 2– M HLF T T W O C U T J O T; ( U S V A R T I A R M T A I O F T WD :  () OT MN B C AT Y   ()IT I A R B T B T A S V I N T C O T MNSE (  TEF P E P C W S TN A M R F A S EY W I HE N  (  A I P F RGG R TO A R C M B O O O C W A R O T S O T LS    §69.  ) TO:H M]
+[DELETED:  S  ( ,, A C R LS PS PS ES  ( ,,;F N  (S S S,; ( O T W I A M U FE ; (  T M C T L WN  E SA. ) ( F A P T W A S I I U A O T S F T A OR H AD)), T G TY O F T P T BS PS O, D RD T M M A T TF ( S S S,() A  E A L D O A C I A A C I N O I  U   O R3,S8C M  ( O’2––; MNS HLF ( O; F ( O; F ( ’;DSS  ( A O R M E B T.]
+[DELETED: S 1() T,HL T  T T CDS P O S I A T CDS() TH M() F’O A C W S C A T CDSTOFHT DS–, C F C R C A F SN() ( S()U  N E EDS. ( T:  () TT   () O;IH F  () O;IA F  ()VT R T E U S);   ()P R B O T T O  () IH T CDS S W B P D  () IADS EE ;  () O.IA F ( A:  () ’;ADSG]
+[DELETED:  S   () ;IBS   () .IB() TH F T A L D CS A FN TOFHS TA––,S J OS A O P W W T T C I N O A C A P O E O A C P() ( ON C O A I U T SN FD R N. (  O O I V T C F A S P O TE T C S BWU.() ( E(X A P U P  O TN  M A L ) ( T M E T M T T MNS D A TON() RE FIA. N C ) TOH F ED    E  E S§27,GA: (  O A S O LETS S E N ,:]
+[DELETED: S 1  ()C  () IC I E O L DY   ()IC A F W R CS  ( , O FS AS A R() ( TOS.H F E ( A IBC,SCC O F HN T T O O H B A,,§27,T D    E  E. ( T:  () O;A F  () O:IA F   1 J W T I   2   3 ;   4 ;   5 ,,–T Y WU F   6 ’;DST    7 I A T CE Y E ,,;]
+[DELETED:  S   () IA T B T E O A L,DE  ET  ()VA E  3() ON30,2N O  R   S,CR EY  I E O,SCCAN,GN  T O H B ET  ORD    E  E S§27,G A T A O T F A T A T B TO. F() B()(E B  C N T F S R A I I ADS.() A:  ( O R I A M A A  () ;FE   ()IPH  (ES.() A(  A 05.  H S A B I F E T t A s t e O]

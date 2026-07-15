@@ -1,0 +1,136 @@
+Title: SENATE BILL 163
+Official Title: SENATE BILL 163
+Number of Sections: 1
+Source: versions - Third - Income Tax - Addition Modification for Federal Tax-Exempt Income - Alterations
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Q3 6lr1302
+(PRE–FILED) CF HB 694
+By: Senator West Senators West and McCray
+Requested: October 22, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Budget and Taxation
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 9, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Income Tax – Addition Modification for Federal Tax–Exempt Income –
+3 Alterations
+4 FOR the purpose of providing that an addition modification under the Maryland income
+5 tax for certain income exempt from federal tax by federal law or treaty but not State
+6 tax does not apply to certain foreign earned income; and generally relating to the
+7 calculation of Maryland adjusted gross income and taxation of federal tax–exempt
+8 income.
+9 BY repealing and reenacting, without amendments,
+10 Article – Tax – General
+11 Section 10–204(a)
+12 Annotated Code of Maryland
+13 (2022 Replacement Volume and 2025 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Article – Tax – General
+16 Section 10–204(c)(1)
+17 Annotated Code of Maryland
+18 (2022 Replacement Volume and 2025 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0163*
+2 SENATE BILL 163
+1 Article – Tax – General
+2 10–204.
+3 (a) To the extent excluded from federal adjusted gross income, the amounts under
+4 this section are added to the federal adjusted gross income of a resident to determine
+5 Maryland adjusted gross income.
+6 (c) (1) (I) THIS PARAGRAPH DOES NOT APPLY TO FOREIGN EARNED
+7 INCOME WITHIN THE MEANING OF § 911(B)(1) OF THE INTERNAL REVENUE CODE,
+8 SUBJECT TO THE LIMITATION UNDER § 911(B)(2) OF THE INTERNAL REVENUE
+9 CODE.
+10 (II) If exempted by federal law or by treaty from federal but not State
+11 tax on income, the addition under subsection (a) of this section includes salary, wages, or
+12 other compensation for personal services.
+13 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+14 1, 2026, and shall be applicable to all taxable years beginning after December 31, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6 ( C A I A F t t c i B  A S  A  ( B  A S  A  (  S T]
+[DELETED:  S  A 1  ( T t s a a t t f a g i o a r t d M  ( () H  B  N E OE9())IRC T T L U  B O T N E9())I.  () I t o  S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 163
+Q3 6lr1302
+(PRE–FILED) CF HB 694
+By: Senator West Senators West and McCray
+Requested: October 22, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Budget and Taxation
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 9, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Income Tax – Addition Modification for Federal Tax–Exempt Income –
+3 Alterations
+4 FOR the purpose of providing that an addition modification under the Maryland income
+5 tax for certain income exempt from federal tax by federal law or treaty but not State
+6 tax does not apply to certain foreign earned income; and generally relating to the
+7 calculation of Maryland adjusted gross income and taxation of federal tax–exempt
+8 income.
+9 BY repealing and reenacting, without amendments,
+10 Article – Tax – General
+11 Section 10–204(a)
+12 Annotated Code of Maryland
+13 (2022 Replacement Volume and 2025 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Article – Tax – General
+16 Section 10–204(c)(1)
+17 Annotated Code of Maryland
+18 (2022 Replacement Volume and 2025 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0163*
+
+2 SENATE BILL 163
+1 Article – Tax – General
+2 10–204.
+3 (a) To the extent excluded from federal adjusted gross income, the amounts under
+4 this section are added to the federal adjusted gross income of a resident to determine
+5 Maryland adjusted gross income.
+6 (c) (1) (I) THIS PARAGRAPH DOES NOT APPLY TO FOREIGN EARNED
+7 INCOME WITHIN THE MEANING OF § 911(B)(1) OF THE INTERNAL REVENUE CODE,
+8 SUBJECT TO THE LIMITATION UNDER § 911(B)(2) OF THE INTERNAL REVENUE
+9 CODE.
+10 (II) If exempted by federal law or by treaty from federal but not State
+11 tax on income, the addition under subsection (a) of this section includes salary, wages, or
+12 other compensation for personal services.
+13 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+14 1, 2026, and shall be applicable to all taxable years beginning after December 31, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6 ( C A I A F t t c i B  A S  A  ( B  A S  A  (  S T]
+[DELETED:  S  A 1  ( T t s a a t t f a g i o a r t d M  ( () H  B  N E OE9())IRC T T L U  B O T N E9())I.  () I t o  S 1          G               ]

@@ -1,0 +1,410 @@
+Title: HOUSE BILL 1369
+Official Title: HOUSE BILL 1369
+Number of Sections: 1
+Source: versions - Third - Department of Budget and Management - Audit and Finance Compliance Unit - Establishment
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+P1 6lr2539
+CF SB 858
+By: Delegate Solomon (By Request – Joint Audit and Evaluation Committee)
+Introduced and read first time: February 13, 2026
+Assigned to: Government, Labor, and Elections
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 6, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Department of Budget and Management – Audit and Finance Compliance Unit –
+3 Establishment
+4 FOR the purpose of establishing the Audit and Finance Compliance Unit in the Department
+5 of Budget and Management; requiring the Governor to implement systems and
+6 processes to monitor certain efforts; requiring the Unit to carry out certain
+7 responsibilities and perform certain duties, including monitoring efforts of Executive
+8 Branch agencies Departmental Units to correct certain audit findings and
+9 implement certain corrective actions provide certain guidance, coordination, and
+10 technical assistance; requiring the Unit to establish a certain specialized team to
+11 provide certain direct assistance to certain agencies Executive Departmental Units
+12 under certain circumstances; requiring the Unit to establish and maintain a
+13 dashboard with certain information on its website submit a certain annual report by
+14 a certain date each year; authorizing certain unredacted cybersecurity findings to be
+15 viewed by certain individuals; and generally relating to the establishment of the
+16 Audit and Finance Compliance Unit in the Department of Budget and Management.
+17 BY repealing and reenacting, without amendments,
+18 Article – State Finance and Procurement
+19 Section 3–101
+20 Annotated Code of Maryland
+21 (2021 Replacement Volume and 2025 Supplement)
+22 BY adding to
+23 Article – State Finance and Procurement
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1369*
+2 HOUSE BILL 1369
+1 Section 3–401 through 3–407 to be under the new subtitle “Subtitle 4. Audit and
+2 Finance Compliance Unit”
+3 Annotated Code of Maryland
+4 (2021 Replacement Volume and 2025 Supplement)
+5 BY repealing and reenacting, without amendments,
+6 Article – State Government
+7 Section 2–1224(h)(1)
+8 Annotated Code of Maryland
+9 (2021 Replacement Volume and 2025 Supplement)
+10 BY repealing and reenacting, with amendments,
+11 Article – State Government
+12 Section 2–1224(i)
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2025 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – State Finance and Procurement
+18 3–101.
+19 (a) In this title the following words have the meanings indicated.
+20 (b) “Department” means the Department of Budget and Management.
+21 (c) “Secretary” means the Secretary of Budget and Management.
+22 SUBTITLE 4. AUDIT AND FINANCE COMPLIANCE UNIT.
+23 3–401.
+24 (A) IN THIS SUBTITLE, THE FOLLOWING WORDS HAVE THE MEANINGS
+25 INDICATED.
+26 (B) “AGENCY” MEANS AN ENTITY OF THE EXECUTIVE BRANCH OF STATE
+27 GOVERNMENT.
+28 (C) “UNIT” MEANS THE AUDIT AND FINANCE COMPLIANCE UNIT.
+29 3–402.
+30 THERE IS AN AUDIT AND FINANCE COMPLIANCE UNIT IN THE DEPARTMENT.
+HOUSE BILL 1369 3
+1 3–403.
+2 (A) IN ACCORDANCE WITH § 2–1224(H)(1) OF THE STATE GOVERNMENT
+3 ARTICLE, THE GOVERNOR SHALL IMPLEMENT SYSTEMS AND PROCESSES TO
+4 MONITOR THE EFFORTS OF THE EXECUTIVE DEPARTMENTAL UNITS TO CORRECT
+5 AUDIT FINDINGS REPORTED BY THE OFFICE OF LEGISLATIVE AUDITS.
+6 (B) THE UNIT IS RESPONSIBLE FOR MONITORING THE EFFORTS OF
+7 AGENCIES EXECUTIVE DEPARTMENTAL UNITS IN CORRECTING AUDIT FINDINGS
+8 REPORTED BY THE OFFICE OF LEGISLATIVE AUDITS IN ACCORDANCE WITH TITLE
+9 2, SUBTITLE 12, PART IV OF THE STATE GOVERNMENT ARTICLE.
+10 3–404.
+11 (A) IN CARRYING OUT ITS RESPONSIBILITIES, THE UNIT SHALL ASSIST
+12 AGENCIES EXECUTIVE DEPARTMENTAL UNITS WITH THE RESOLUTION OF AUDIT
+13 FINDINGS BY:
+14 (1) PROVIDING OBJECTIVE ASSESSMENT OF CORRECTIVE ACTIONS;
+15 AND
+16 (2) MONITORING PROGRESS IN THE IMPLEMENTATION OF
+17 CORRECTIVE ACTIONS.
+18 (B) THE UNIT MAY IMPLEMENT PROACTIVE STEPS TO ADDRESS AND
+19 PREVENT AUDIT FINDINGS THROUGH ADVICE AND SUPPORT PROVIDED TO
+20 AGENCIES PROVIDE GUIDANCE, COORDINATION, AND TECHNICAL ASSISTANCE TO
+21 EXECUTIVE DEPARTMENTAL UNITS TO STRENGTHEN EFFORTS TO ADDRESS AND
+22 PREVENT AUDIT FINDINGS AND TO STRENGTHEN INTERNAL CONTROLS AND
+23 COMPLIANCE PRACTICES.
+24 3–405.
+25 (A) THE UNIT SHALL PROVIDE DIRECT ASSISTANCE TO AGENCIES
+26 EXECUTIVE DEPARTMENTAL UNITS WITH:
+27 (1) FOUR OR MORE REPEAT AUDIT FINDINGS; OR
+28 (2) AS REQUESTED BY THE JOINT AUDIT AND EVALUATION
+29 COMMITTEE UNSATISFACTORY AUDITS.
+4 HOUSE BILL 1369
+1 (B) THE DIRECT ASSISTANCE PROVIDED UNDER SUBSECTION (A) OF THIS
+2 SECTION SHALL INCLUDE:
+3 (1) ADVICE AND SUPPORT TO DEVELOP CORRECTIVE ACTIONS AS
+4 SOON AS PRACTICABLE, A REVIEW OF THE TIMELINE DEVELOPED BY THE
+5 EXECUTIVE DEPARTMENTAL UNIT FOR THE IMPLEMENTATION OF CORRECTIVE
+6 ACTIONS FOR EACH RECOMMENDATION TO ENSURE THAT THE TIMELINE HAS
+7 ACHIEVABLE COMPLETION DATES;
+8 (2) A REVIEW OF RESOLUTION ACTIONS ON EACH FINDING WITH A
+9 FOCUS ON REPEAT AND SIGNIFICANT FINDINGS TO PROVIDE ADVICE AND SUPPORT
+10 IN ASSISTING WITH THE DEVELOPMENT OF CORRECTIVE ACTIONS;
+11 (3) PERFORMING SAMPLE TESTS OF IMPLEMENTED CORRECTIVE
+12 ACTIONS, AS NEEDED; AND
+13 (4) MONITORING PROGRESS IN OF THE IMPLEMENTATION OF
+14 CORRECTIVE ACTIONS UNTIL THE LEGISLATIVE AUDITORS RETURN TO BEGIN THE
+15 NEXT RELATED FISCAL COMPLIANCE AUDIT.
+16 (C) (1) THE UNIT SHALL ESTABLISH A SPECIALIZED TEAM TO PROVIDE
+17 THE DIRECT ASSISTANCE REQUIRED UNDER THIS SECTION.
+18 (2) THE SPECIALIZED TEAM ESTABLISHED IN PARAGRAPH (1) OF
+19 THIS SUBSECTION MAY INCLUDE CURRENT STATE EMPLOYEES, CURRENT
+20 CONTRACTUAL EMPLOYEES, AND EXTERNAL CONTRACTORS.
+21 3–406.
+22 (A) THE UNIT SHALL MAINTAIN A DASHBOARD ON CURRENT AND REPEAT
+23 AUDIT FINDINGS ON ITS WEBSITE.
+24 (B) (1) THE DASHBOARD REQUIRED UNDER SUBSECTION (A) OF THIS
+25 SECTION SHALL INCLUDE ALL AUDIT FINDINGS FOR AGENCIES UNDER
+26 EXAMINATION EACH YEAR, ORGANIZED BY UNITS OF THE AGENCY.
+27 (2) FOR EACH FINDING, THE DASHBOARD SHALL INCLUDE:
+28 (I) THE RECOMMENDATIONS OF THE OFFICE OF LEGISLATIVE
+29 AUDITS;
+30 (II) THE NUMBER OF YEARS THAT A REPEAT FINDING REMAINS
+31 UNRESOLVED;
+HOUSE BILL 1369 5
+1 (III) THE PROJECTED COMPLETION DATE OF THE RESOLUTION;
+2 (IV) INFORMATION ON UNRESOLVED FINDINGS, INCLUDING THE
+3 REASON A FINDING IS UNRESOLVED; AND
+4 (V) A GRAPHIC REPRESENTATION OF THE PROGRESS OF
+5 CORRECTIVE ACTIONS THAT INCLUDES WHETHER THE FINDING IS UNRESOLVED, IN
+6 PROGRESS, OR RESOLVED.
+7 (C) THE DASHBOARD SHALL BE FULLY OPERATIONAL ON OR BEFORE
+8 OCTOBER 1, 2027.
+9 (A) ON OR BEFORE OCTOBER 1 EACH YEAR, THE UNIT SHALL SUBMIT AN
+10 ANNUAL REPORT TO THE JOINT AUDIT AND EVALUATION COMMITTEE, IN
+11 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, ON ALL AUDIT
+12 FINDINGS FOR EXECUTIVE DEPARTMENTAL UNITS UNDER EXAMINATION.
+13 (B) THE REPORT SHALL INCLUDE THE FOLLOWING INFORMATION FOR
+14 EACH FINDING:
+15 (1) THE RECOMMENDATIONS OF THE OFFICE OF LEGISLATIVE
+16 AUDITS;
+17 (2) THE NUMBER OF YEARS THAT A REPEAT FINDING REMAINS
+18 UNRESOLVED;
+19 (3) THE PROJECTED COMPLETION DATE FOR RESOLUTION OF A
+20 FINDING;
+21 (4) INFORMATION ON UNRESOLVED FINDINGS, INCLUDING THE
+22 REASON A FINDING IS UNRESOLVED; AND
+23 (5) THE PROGRESS OF CORRECTIVE ACTIONS THAT INCLUDES
+24 WHETHER THE FINDING IS UNRESOLVED, IN PROGRESS, OR RESOLVED.
+25 3–407.
+26 THE SECRETARY MAY ADOPT REGULATIONS TO CARRY OUT THIS SUBTITLE.
+27 Article – State Government
+28 2–1224.
+6 HOUSE BILL 1369
+1 (h) (1) The Governor and the Chief Justice of the Supreme Court of Maryland
+2 shall implement systems and processes to monitor the efforts of the Executive
+3 Departmental Units and the Judiciary, respectively, to correct audit findings reported by
+4 the Office of Legislative Audits.
+5 (i) (1) A report auditing a unit of State or local government shall have any
+6 cybersecurity findings redacted in a manner consistent with auditing best practices before
+7 the report is made available to the public.
+8 (2) AN UNREDACTED CYBERSECURITY FINDING IN A REPORT
+9 AUDITING A UNIT OF STATE OR LOCAL GOVERNMENT MAY BE VIEWED BY:
+10 (I) MEMBERS OF THE JOINT AUDIT AND EVALUATION
+11 COMMITTEE;
+12 (II) MEMBERS OF THE JOINT COMMITTEE ON CYBERSECURITY,
+13 INFORMATION TECHNOLOGY, AND BIOTECHNOLOGY;
+14 (III) THE CHAIR AND THE SUBCOMMITTEE CHAIRS OF THE
+15 SENATE BUDGET AND TAXATION COMMITTEE;
+16 (IV) THE CHAIR AND THE SUBCOMMITTEE CHAIRS OF THE
+17 HOUSE APPROPRIATIONS COMMITTEE;
+18 (V) THE GOVERNOR, THE GOVERNOR’S CHIEF OF STAFF, AND
+19 THE GOVERNOR’S DEPUTY CHIEFS OF STAFF; AND
+20 (VI) THE AUDIT AND FINANCE COMPLIANCE UNIT IN THE
+21 DEPARTMENT OF BUDGET AND MANAGEMENT.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before October 1, 2026,
+23 and October 1, 2027, the Audit and Finance Compliance Unit shall report to the Joint Audit
+24 and Evaluation Committee, in accordance with § 2–1257 of the State Government Article,
+25 on the status of the dashboard required under § 3–406 of the State Finance and
+26 Procurement Article, as enacted by Section 1 of this Act.
+27 SECTION 3. 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 July 1, 2026.
+[DELETED: :CA      6   C A D E F o B a M r t G t i s a p t m c e r t U t c o c r B a D U t c c a f a i c c a p c g c a t p u c c r t U t e a m a d a v A B  A S  A  ( B  A]
+[DELETED:  H  S F  A  ( B  A  S  A  ( B  A S  A  (  S T A 3  ( I  ( “  ( “4.AFCU.  U I O N() IN T SE T F W H T M() “A”EBGY  X R T() “U”AFCU.NT  U I O NTAFCUD. U I O N E]
+[DELETED: H 3() I§2())SN A W  H O T T O,E T O S I S A P T X E ND F E ULA.() TH N I R F M T E O X E N I C A FD F E U ILA,S1,PIVSGA.U  A   T O RE() I,N C O I RS T N S A X E N W OD (  O A O C AS ( P I T I O() TH N M I P S T A A A F T A A S P TE N D E N A F A T S I C AS() TH N S P D A T ADU: E N ( ;S  ( JA R B T O U A V.]
+[DELETED:  H () T(H A  ( A S T D C A A A PE A R O T T D B TD E N F T I O C F E R T E T T T H ( R O R A O E F W A ( S T O I CS D ; ( P I O T I O() ( TH N ( T( S T E I P  O S M I C T ES CS .() TH N() ( T(H D R U S A O T S I A A F F A UR . ( F,:G   () OT F E;  ()IT]
+[DELETED: H 5  () ;ITN  () VIS D   ()A G R O T P OD S .() H D S B F O O O B1,2  ) OO1,N C  R  N R T T O U A V OE IAEC    T O RE 27SGA X E NDU.() H R S I T F I F ( O R O T F O E; ( N O Y T A R F R ( P C D F R O A (  O U FS I TD  ( P O C A T ID S ,.TS. E A 2]
+[DELETED:  H   ( ( T s i s a p t m t e o t E D t  ( A c t    U C F I A R T:  () JAM O T O U A V;  () JCCIM O O YYT,B; EY  I  ()IT C A T S C O TBTC; U A O  ()VT C A T S C O TAC; P O  () G,G’CST OR  ORS H TF  ORSF ’;  () AFCIT U A I O N I TBM. U A  S a a o t s o t d r u § 3 o t S F a P  S J]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1369
+P1 6lr2539
+CF SB 858
+By: Delegate Solomon (By Request – Joint Audit and Evaluation Committee)
+Introduced and read first time: February 13, 2026
+Assigned to: Government, Labor, and Elections
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 6, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Department of Budget and Management – Audit and Finance Compliance Unit –
+3 Establishment
+4 FOR the purpose of establishing the Audit and Finance Compliance Unit in the Department
+5 of Budget and Management; requiring the Governor to implement systems and
+6 processes to monitor certain efforts; requiring the Unit to carry out certain
+7 responsibilities and perform certain duties, including monitoring efforts of Executive
+8 Branch agencies Departmental Units to correct certain audit findings and
+9 implement certain corrective actions provide certain guidance, coordination, and
+10 technical assistance; requiring the Unit to establish a certain specialized team to
+11 provide certain direct assistance to certain agencies Executive Departmental Units
+12 under certain circumstances; requiring the Unit to establish and maintain a
+13 dashboard with certain information on its website submit a certain annual report by
+14 a certain date each year; authorizing certain unredacted cybersecurity findings to be
+15 viewed by certain individuals; and generally relating to the establishment of the
+16 Audit and Finance Compliance Unit in the Department of Budget and Management.
+17 BY repealing and reenacting, without amendments,
+18 Article – State Finance and Procurement
+19 Section 3–101
+20 Annotated Code of Maryland
+21 (2021 Replacement Volume and 2025 Supplement)
+22 BY adding to
+23 Article – State Finance and Procurement
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1369*
+
+2 HOUSE BILL 1369
+1 Section 3–401 through 3–407 to be under the new subtitle “Subtitle 4. Audit and
+2 Finance Compliance Unit”
+3 Annotated Code of Maryland
+4 (2021 Replacement Volume and 2025 Supplement)
+5 BY repealing and reenacting, without amendments,
+6 Article – State Government
+7 Section 2–1224(h)(1)
+8 Annotated Code of Maryland
+9 (2021 Replacement Volume and 2025 Supplement)
+10 BY repealing and reenacting, with amendments,
+11 Article – State Government
+12 Section 2–1224(i)
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2025 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – State Finance and Procurement
+18 3–101.
+19 (a) In this title the following words have the meanings indicated.
+20 (b) “Department” means the Department of Budget and Management.
+21 (c) “Secretary” means the Secretary of Budget and Management.
+22 SUBTITLE 4. AUDIT AND FINANCE COMPLIANCE UNIT.
+23 3–401.
+24 (A) IN THIS SUBTITLE, THE FOLLOWING WORDS HAVE THE MEANINGS
+25 INDICATED.
+26 (B) “AGENCY” MEANS AN ENTITY OF THE EXECUTIVE BRANCH OF STATE
+27 GOVERNMENT.
+28 (C) “UNIT” MEANS THE AUDIT AND FINANCE COMPLIANCE UNIT.
+29 3–402.
+30 THERE IS AN AUDIT AND FINANCE COMPLIANCE UNIT IN THE DEPARTMENT.
+
+HOUSE BILL 1369 3
+1 3–403.
+2 (A) IN ACCORDANCE WITH § 2–1224(H)(1) OF THE STATE GOVERNMENT
+3 ARTICLE, THE GOVERNOR SHALL IMPLEMENT SYSTEMS AND PROCESSES TO
+4 MONITOR THE EFFORTS OF THE EXECUTIVE DEPARTMENTAL UNITS TO CORRECT
+5 AUDIT FINDINGS REPORTED BY THE OFFICE OF LEGISLATIVE AUDITS.
+6 (B) THE UNIT IS RESPONSIBLE FOR MONITORING THE EFFORTS OF
+7 AGENCIES EXECUTIVE DEPARTMENTAL UNITS IN CORRECTING AUDIT FINDINGS
+8 REPORTED BY THE OFFICE OF LEGISLATIVE AUDITS IN ACCORDANCE WITH TITLE
+9 2, SUBTITLE 12, PART IV OF THE STATE GOVERNMENT ARTICLE.
+10 3–404.
+11 (A) IN CARRYING OUT ITS RESPONSIBILITIES, THE UNIT SHALL ASSIST
+12 AGENCIES EXECUTIVE DEPARTMENTAL UNITS WITH THE RESOLUTION OF AUDIT
+13 FINDINGS BY:
+14 (1) PROVIDING OBJECTIVE ASSESSMENT OF CORRECTIVE ACTIONS;
+15 AND
+16 (2) MONITORING PROGRESS IN THE IMPLEMENTATION OF
+17 CORRECTIVE ACTIONS.
+18 (B) THE UNIT MAY IMPLEMENT PROACTIVE STEPS TO ADDRESS AND
+19 PREVENT AUDIT FINDINGS THROUGH ADVICE AND SUPPORT PROVIDED TO
+20 AGENCIES PROVIDE GUIDANCE, COORDINATION, AND TECHNICAL ASSISTANCE TO
+21 EXECUTIVE DEPARTMENTAL UNITS TO STRENGTHEN EFFORTS TO ADDRESS AND
+22 PREVENT AUDIT FINDINGS AND TO STRENGTHEN INTERNAL CONTROLS AND
+23 COMPLIANCE PRACTICES.
+24 3–405.
+25 (A) THE UNIT SHALL PROVIDE DIRECT ASSISTANCE TO AGENCIES
+26 EXECUTIVE DEPARTMENTAL UNITS WITH:
+27 (1) FOUR OR MORE REPEAT AUDIT FINDINGS; OR
+28 (2) AS REQUESTED BY THE JOINT AUDIT AND EVALUATION
+29 COMMITTEE UNSATISFACTORY AUDITS.
+
+4 HOUSE BILL 1369
+1 (B) THE DIRECT ASSISTANCE PROVIDED UNDER SUBSECTION (A) OF THIS
+2 SECTION SHALL INCLUDE:
+3 (1) ADVICE AND SUPPORT TO DEVELOP CORRECTIVE ACTIONS AS
+4 SOON AS PRACTICABLE, A REVIEW OF THE TIMELINE DEVELOPED BY THE
+5 EXECUTIVE DEPARTMENTAL UNIT FOR THE IMPLEMENTATION OF CORRECTIVE
+6 ACTIONS FOR EACH RECOMMENDATION TO ENSURE THAT THE TIMELINE HAS
+7 ACHIEVABLE COMPLETION DATES;
+8 (2) A REVIEW OF RESOLUTION ACTIONS ON EACH FINDING WITH A
+9 FOCUS ON REPEAT AND SIGNIFICANT FINDINGS TO PROVIDE ADVICE AND SUPPORT
+10 IN ASSISTING WITH THE DEVELOPMENT OF CORRECTIVE ACTIONS;
+11 (3) PERFORMING SAMPLE TESTS OF IMPLEMENTED CORRECTIVE
+12 ACTIONS, AS NEEDED; AND
+13 (4) MONITORING PROGRESS IN OF THE IMPLEMENTATION OF
+14 CORRECTIVE ACTIONS UNTIL THE LEGISLATIVE AUDITORS RETURN TO BEGIN THE
+15 NEXT RELATED FISCAL COMPLIANCE AUDIT.
+16 (C) (1) THE UNIT SHALL ESTABLISH A SPECIALIZED TEAM TO PROVIDE
+17 THE DIRECT ASSISTANCE REQUIRED UNDER THIS SECTION.
+18 (2) THE SPECIALIZED TEAM ESTABLISHED IN PARAGRAPH (1) OF
+19 THIS SUBSECTION MAY INCLUDE CURRENT STATE EMPLOYEES, CURRENT
+20 CONTRACTUAL EMPLOYEES, AND EXTERNAL CONTRACTORS.
+21 3–406.
+22 (A) THE UNIT SHALL MAINTAIN A DASHBOARD ON CURRENT AND REPEAT
+23 AUDIT FINDINGS ON ITS WEBSITE.
+24 (B) (1) THE DASHBOARD REQUIRED UNDER SUBSECTION (A) OF THIS
+25 SECTION SHALL INCLUDE ALL AUDIT FINDINGS FOR AGENCIES UNDER
+26 EXAMINATION EACH YEAR, ORGANIZED BY UNITS OF THE AGENCY.
+27 (2) FOR EACH FINDING, THE DASHBOARD SHALL INCLUDE:
+28 (I) THE RECOMMENDATIONS OF THE OFFICE OF LEGISLATIVE
+29 AUDITS;
+30 (II) THE NUMBER OF YEARS THAT A REPEAT FINDING REMAINS
+31 UNRESOLVED;
+
+HOUSE BILL 1369 5
+1 (III) THE PROJECTED COMPLETION DATE OF THE RESOLUTION;
+2 (IV) INFORMATION ON UNRESOLVED FINDINGS, INCLUDING THE
+3 REASON A FINDING IS UNRESOLVED; AND
+4 (V) A GRAPHIC REPRESENTATION OF THE PROGRESS OF
+5 CORRECTIVE ACTIONS THAT INCLUDES WHETHER THE FINDING IS UNRESOLVED, IN
+6 PROGRESS, OR RESOLVED.
+7 (C) THE DASHBOARD SHALL BE FULLY OPERATIONAL ON OR BEFORE
+8 OCTOBER 1, 2027.
+9 (A) ON OR BEFORE OCTOBER 1 EACH YEAR, THE UNIT SHALL SUBMIT AN
+10 ANNUAL REPORT TO THE JOINT AUDIT AND EVALUATION COMMITTEE, IN
+11 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, ON ALL AUDIT
+12 FINDINGS FOR EXECUTIVE DEPARTMENTAL UNITS UNDER EXAMINATION.
+13 (B) THE REPORT SHALL INCLUDE THE FOLLOWING INFORMATION FOR
+14 EACH FINDING:
+15 (1) THE RECOMMENDATIONS OF THE OFFICE OF LEGISLATIVE
+16 AUDITS;
+17 (2) THE NUMBER OF YEARS THAT A REPEAT FINDING REMAINS
+18 UNRESOLVED;
+19 (3) THE PROJECTED COMPLETION DATE FOR RESOLUTION OF A
+20 FINDING;
+21 (4) INFORMATION ON UNRESOLVED FINDINGS, INCLUDING THE
+22 REASON A FINDING IS UNRESOLVED; AND
+23 (5) THE PROGRESS OF CORRECTIVE ACTIONS THAT INCLUDES
+24 WHETHER THE FINDING IS UNRESOLVED, IN PROGRESS, OR RESOLVED.
+25 3–407.
+26 THE SECRETARY MAY ADOPT REGULATIONS TO CARRY OUT THIS SUBTITLE.
+27 Article – State Government
+28 2–1224.
+
+6 HOUSE BILL 1369
+1 (h) (1) The Governor and the Chief Justice of the Supreme Court of Maryland
+2 shall implement systems and processes to monitor the efforts of the Executive
+3 Departmental Units and the Judiciary, respectively, to correct audit findings reported by
+4 the Office of Legislative Audits.
+5 (i) (1) A report auditing a unit of State or local government shall have any
+6 cybersecurity findings redacted in a manner consistent with auditing best practices before
+7 the report is made available to the public.
+8 (2) AN UNREDACTED CYBERSECURITY FINDING IN A REPORT
+9 AUDITING A UNIT OF STATE OR LOCAL GOVERNMENT MAY BE VIEWED BY:
+10 (I) MEMBERS OF THE JOINT AUDIT AND EVALUATION
+11 COMMITTEE;
+12 (II) MEMBERS OF THE JOINT COMMITTEE ON CYBERSECURITY,
+13 INFORMATION TECHNOLOGY, AND BIOTECHNOLOGY;
+14 (III) THE CHAIR AND THE SUBCOMMITTEE CHAIRS OF THE
+15 SENATE BUDGET AND TAXATION COMMITTEE;
+16 (IV) THE CHAIR AND THE SUBCOMMITTEE CHAIRS OF THE
+17 HOUSE APPROPRIATIONS COMMITTEE;
+18 (V) THE GOVERNOR, THE GOVERNOR’S CHIEF OF STAFF, AND
+19 THE GOVERNOR’S DEPUTY CHIEFS OF STAFF; AND
+20 (VI) THE AUDIT AND FINANCE COMPLIANCE UNIT IN THE
+21 DEPARTMENT OF BUDGET AND MANAGEMENT.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before October 1, 2026,
+23 and October 1, 2027, the Audit and Finance Compliance Unit shall report to the Joint Audit
+24 and Evaluation Committee, in accordance with § 2–1257 of the State Government Article,
+25 on the status of the dashboard required under § 3–406 of the State Finance and
+26 Procurement Article, as enacted by Section 1 of this Act.
+27 SECTION 3. 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 July 1, 2026.
+
+[DELETED: :CA      6   C A D E F o B a M r t G t i s a p t m c e r t U t c o c r B a D U t c c a f a i c c a p c g c a t p u c c r t U t e a m a d a v A B  A S  A  ( B  A]
+[DELETED:  H  S F  A  ( B  A  S  A  ( B  A S  A  (  S T A 3  ( I  ( “  ( “4.AFCU.  U I O N() IN T SE T F W H T M() “A”EBGY  X R T() “U”AFCU.NT  U I O NTAFCUD. U I O N E]
+[DELETED: H 3() I§2())SN A W  H O T T O,E T O S I S A P T X E ND F E ULA.() TH N I R F M T E O X E N I C A FD F E U ILA,S1,PIVSGA.U  A   T O RE() I,N C O I RS T N S A X E N W OD (  O A O C AS ( P I T I O() TH N M I P S T A A A F T A A S P TE N D E N A F A T S I C AS() TH N S P D A T ADU: E N ( ;S  ( JA R B T O U A V.]
+[DELETED:  H () T(H A  ( A S T D C A A A PE A R O T T D B TD E N F T I O C F E R T E T T T H ( R O R A O E F W A ( S T O I CS D ; ( P I O T I O() ( TH N ( T( S T E I P  O S M I C T ES CS .() TH N() ( T(H D R U S A O T S I A A F F A UR . ( F,:G   () OT F E;  ()IT]
+[DELETED: H 5  () ;ITN  () VIS D   ()A G R O T P OD S .() H D S B F O O O B1,2  ) OO1,N C  R  N R T T O U A V OE IAEC    T O RE 27SGA X E NDU.() H R S I T F I F ( O R O T F O E; ( N O Y T A R F R ( P C D F R O A (  O U FS I TD  ( P O C A T ID S ,.TS. E A 2]
+[DELETED:  H   ( ( T s i s a p t m t e o t E D t  ( A c t    U C F I A R T:  () JAM O T O U A V;  () JCCIM O O YYT,B; EY  I  ()IT C A T S C O TBTC; U A O  ()VT C A T S C O TAC; P O  () G,G’CST OR  ORS H TF  ORSF ’;  () AFCIT U A I O N I TBM. U A  S a a o t s o t d r u § 3 o t S F a P  S J]

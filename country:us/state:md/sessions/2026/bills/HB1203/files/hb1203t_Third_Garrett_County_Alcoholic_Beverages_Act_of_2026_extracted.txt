@@ -1,0 +1,1451 @@
+Title: HOUSE BILL 1203
+Official Title: HOUSE BILL 1203
+Number of Sections: 1
+Source: versions - Third - Garrett County - Alcoholic Beverages Act of 2026
+Media Type: application/pdf
+Strikethrough Detection: 23 sections found
+
+================================================================================
+
+Section 1:
+A2 6lr2920
+HB 685/25 – ECM CF SB 802
+By: Delegate Hinebaugh
+Introduced and read first time: February 11, 2026
+Assigned to: Government, Labor, and Elections
+Committee Report: Favorable
+House action: Adopted
+Read second time: March 9, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Garrett County – Alcoholic Beverages Act of 2026
+3 FOR the purpose of adding a substitute member to the Board of License Commissioners for
+4 Garrett County; establishing a certain special event permit that the Board may issue
+5 to a holder of a Class 3 winery license or a Class 4 limited winery license; establishing
+6 certain additional requirements for certain holders of certain licenses with catering
+7 option; requiring the holder of a certain caterer’s license at a catered event to supply
+8 certain service personnel, ensure that certain service personnel are present at all
+9 times, and ensure the sale of food represents a specific amount of the total cost of the
+10 event; requiring a certain statement on an alcoholic beverages license application
+11 about the citizenship status of an applicant; and generally relating to alcoholic
+12 beverages in Garrett County.
+13 BY repealing and reenacting, without amendments,
+14 Article – Alcoholic Beverages and Cannabis
+15 Section 21–102
+16 Annotated Code of Maryland
+17 (2024 Replacement Volume and 2025 Supplement)
+18 BY repealing and reenacting, with amendments,
+19 Article – Alcoholic Beverages and Cannabis
+20 Section 21–202(a) and (b), 21–204, 21–401, 21–602, 21–803, 21–804, 21–804.1,
+21 21–806, 21–902, 21–903, 21–903.1, 21–905, 21–1002.1, 21–1201, and 21–1408
+22 Annotated Code of Maryland
+23 (2024 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1203*
+2 HOUSE BILL 1203
+1 BY adding to
+2 Article – Alcoholic Beverages and Cannabis
+3 Section 21–405.1
+4 Annotated Code of Maryland
+5 (2024 Replacement Volume and 2025 Supplement)
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
+8 Article – Alcoholic Beverages and Cannabis
+9 21–102.
+10 This title applies only in Garrett County.
+11 21–202.
+12 (a) (1) The Governor shall appoint three members to the Board AND ONE
+13 SUBSTITUTE MEMBER.
+14 (2) The appointments shall be made:
+15 (i) if there is a resident Senator elected from the county, with the
+16 advice and consent of the Senate; or
+17 (ii) if there is no resident Senator elected from the county, with
+18 confirmation by the House of Delegates.
+19 (b) (1) Each member of the Board shall be:
+20 (i) a resident and voter of the county; and
+21 (ii) an individual of high character and integrity and of recognized
+22 business capacity.
+23 (2) An individual who is receiving compensation from the county may not
+24 be appointed to the Board.
+25 (3) (i) Two members of the Board shall be members of the same political
+26 party as that of a majority of the members of the Board of County Commissioners.
+27 (ii) One member of the Board shall be a member of a political party
+28 other than the one represented by a majority of the Board of County Commissioners.
+29 (4) THE SUBSTITUTE MEMBER:
+HOUSE BILL 1203 3
+1 (I) MAY SERVE ON THE BOARD IN THE ABSENCE OF A QUORUM
+2 OF THE REGULAR MEMBERS DUE TO ILLNESS OR CONFLICT OF INTEREST; AND
+3 (II) HAS ALL OF THE POWERS AND DUTIES OF A REGULAR
+4 MEMBER WHEN SERVING ON THE BOARD.
+5 21–204.
+6 (a) (1) Subject to paragraph (2) of this subsection, the Board shall meet at least
+7 once each month.
+8 (2) The chair may cancel a meeting for lack of an agenda.
+9 (b) (1) In accordance with § 32.44 of the Garrett County Code of Ordinances,
+10 the County Commissioners shall set the salaries of the members of the Board, INCLUDING
+11 THE SUBSTITUTE MEMBER.
+12 (2) When attending meetings, each member is entitled to reimbursement
+13 for expenses under the Standard State Travel Regulations, as provided in the State budget.
+14 (c) The County Commissioners shall provide to the Board:
+15 (1) administrative, clerical, and accounting services as needed; and
+16 (2) (i) legal counsel through the office of the County Attorney; or
+17 (ii) funds for the payment for competent private legal counsel.
+18 21–401.
+19 (a) The following sections of Title 2, Subtitle 2 (“Manufacturer’s Licenses”) of
+20 Division I of this article apply in the county without exception or variation:
+21 (1) § 2–201 (“Issuance by Comptroller”);
+22 (2) [§ 2–205 (“Class 3 winery license”);
+23 (3)] § 2–207 (“Class 5 brewery license”);
+24 [(4)] (3) § 2–209 (“Class 7 micro–brewery license”);
+25 [(5)] (4) § 2–211 (“Residency requirement”);
+26 [(6)] (5) § 2–212 (“Additional licenses”);
+27 [(7)] (6) § 2–213 (“Additional fees”);
+4 HOUSE BILL 1203
+1 [(8)] (7) § 2–214 (“Sale or delivery restricted”);
+2 [(9)] (8) § 2–215 (“Beer sale on credit to retail dealer prohibited”);
+3 [(10)] (9) § 2–216 (“Interaction between manufacturing entities and
+4 retailers”);
+5 [(11)] (10) § 2–217 (“Distribution of alcoholic beverages – Prohibited
+6 practices”); and
+7 [(12)] (11) § 2–218 (“Restrictive agreements between producers and
+8 retailers – Prohibited”).
+9 (b) The following sections of Title 2, Subtitle 2 (“Manufacturer’s Licenses”) of
+10 Division I of this article apply in the county:
+11 (1) § 2–202 (“Class 1 distillery license”), subject to § 21–403 of this subtitle;
+12 (2) § 2–203 (“Class 9 limited distillery license”), subject to § 21–403.1 of
+13 this subtitle;
+14 (3) § 2–204 (“Class 2 rectifying license”), subject to § 21–404 of this subtitle;
+15 (4) § 2–205 (“CLASS 3 WINERY LICENSE”), SUBJECT TO § 21–405.1 OF
+16 THIS SUBTITLE;
+17 (5) § 2–206 (“Class 4 limited winery license”), subject to [§ 21–405] §§
+18 21–405 AND 21–405.1 of this subtitle;
+19 [(5)] (6) § 2–208 (“Class 6 pub–brewery license”), subject to § 21–406 of
+20 this subtitle; and
+21 [(6)] (7) § 2–210 (“Class 8 farm brewery license”), subject to § 21–407 of
+22 this subtitle.
+23 21–405.1.
+24 (A) THERE IS A SPECIAL EVENT PERMIT.
+25 (B) THE BOARD MAY ISSUE THE PERMIT TO A HOLDER OF A CLASS 3 WINERY
+26 LICENSE OR A CLASS 4 LIMITED WINERY LICENSE.
+27 (C) THE PERMIT AUTHORIZES THE HOLDER TO SELL FOR ON–PREMISES
+28 CONSUMPTION BEER, WINE PRODUCED BY THE HOLDER, SPARKLING WINE THAT IS
+HOUSE BILL 1203 5
+1 NATURALLY OR ARTIFICIALLY CARBONATED, AND LIQUOR AT A PRIVATE EVENT FOR
+2 WHICH THE ENTIRE LICENSED PREMISES HAS BEEN RENTED.
+3 (D) (1) THE PERMIT SHALL BE USED FOR PRIVATE PARTIES THAT ARE
+4 SCHEDULED AND RESERVED AT LEAST 7 DAYS IN ADVANCE OF THE ACTUAL EVENT.
+5 (2) THE PERMIT HOLDER MAY PROVIDE THE FOLLOWING SERVICES
+6 FOR A PRIVATE EVENT:
+7 (I) FOOD AND BEVERAGE SERVICE, INCLUDING THE USE OF A
+8 LICENSED KITCHEN AND BAR FACILITY FOR PREPARING AND SERVING MEALS AND
+9 BEVERAGES ON THE PREMISES;
+10 (II) SEATING ACCOMMODATIONS, INCLUDING TABLES FOR
+11 ON–PREMISES MEAL SERVICE; AND
+12 (III) AN ASSEMBLY AREA THAT COMPLIES WITH THE STATE’S
+13 FIRE CODE.
+14 (E) THE PERMIT HOLDER MAY NOT:
+15 (1) HAVE A DIRECT OR INDIRECT PECUNIARY INTEREST IN THE
+16 LICENSED CATERER OR OTHER CONTRACTED PARTY; AND
+17 (2) ALLOW THE GENERAL PUBLIC TO ENTER ANY PART OF THE
+18 LICENSED PREMISES WHILE THE PRIVATE EVENT IS BEING HELD.
+19 (F) THE PERMIT HOLDER SHALL PURCHASE BEER, SPARKLING WINE THAT
+20 IS NATURALLY OR ARTIFICIALLY CARBONATED, OR LIQUOR INTENDED FOR SALE
+21 UNDER THE PERMIT FROM A LICENSED ALCOHOLIC BEVERAGES RETAILER LOCATED
+22 IN THE COUNTY.
+23 (G) (1) THE PERMIT HOLDER SHALL KEEP ALL RECEIPTS FROM
+24 PURCHASES OF ALCOHOLIC BEVERAGES FOR 1 YEAR AFTER THE DATE OF
+25 PURCHASE.
+26 (2) THE RECEIPTS SHALL BE MADE AVAILABLE FOR INSPECTION BY
+27 THE BOARD.
+28 (H) A PERMIT HOLDER THAT INTENDS TO USE THE PERMIT SHALL NOTIFY
+29 THE BOARD AT LEAST 7 DAYS BEFORE THE EVENT IS TO OCCUR ON A FORM
+30 PROVIDED BY THE BOARD.
+6 HOUSE BILL 1203
+1 (I) THE PERMIT HOLDER SHALL ENSURE THAT:
+2 (1) SERVICE PERSONNEL, INCLUDING BARTENDERS AND WAIT STAFF,
+3 ARE PRESENT AT ALL TIMES DURING THE PRIVATE EVENT WHEN FOOD OR
+4 ALCOHOLIC BEVERAGES ARE AVAILABLE; AND
+5 (2) AT LEAST ONE PERMIT HOLDER OR ONE EMPLOYEE WHO IS
+6 CERTIFIED BY AN APPROVED ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF
+7 THIS ARTICLE IS ON THE PREMISES WHILE ALCOHOLIC BEVERAGES ARE AVAILABLE.
+8 (J) (1) THE PERMIT HOLDER MAY USE THE PERMIT NOT MORE THAN 32
+9 TIMES IN A CALENDAR YEAR.
+10 (2) A PRIVATE EVENT MAY EXTEND UP TO 7 DAYS IF THE EVENT IS FOR
+11 THE SAME CLIENT.
+12 (K) (1) A PRIVATE EVENT MAY BE HELD MONDAYS THROUGH SATURDAYS
+13 FROM 6 A.M. TO 2 A.M. THE FOLLOWING DAY.
+14 (2) SUNDAY SALES ARE ALLOWED FROM 6 A.M. TO MIDNIGHT IN:
+15 (I) COUNTY ELECTION DISTRICTS 11 AND 15; AND
+16 (II) ANY OTHER COUNTY ELECTION DISTRICT OR PRECINCT OF
+17 A COUNTY ELECTION DISTRICT IN WHICH THE VOTERS IN A REFERENDUM
+18 AUTHORIZED BY LAW APPROVE SUNDAY SALES AS SPECIFIED IN THIS PARAGRAPH.
+19 (L) THE PERMIT HOLDER MAY NOT STORE ALCOHOLIC BEVERAGES THAT
+20 ARE NOT PRODUCED BY THE PERMIT HOLDER ON THE MANUFACTURER’S LICENSED
+21 PREMISES IN BETWEEN EVENTS.
+22 (M) (1) THE ANNUAL PERMIT FEE IS $1,750.
+23 (2) THE BOARD SHALL CHARGE A ONE–TIME ISSUING FEE FOR A NEW
+24 PERMIT IN AN AMOUNT EQUAL TO THE ANNUAL PERMIT FEE.
+25 21–602.
+26 (a) There is a Class B beer license.
+27 (b) The license authorizes the license holder to sell beer for on– or off–premises
+28 consumption:
+29 (1) at a hotel, a motel, or an inn that:
+HOUSE BILL 1203 7
+1 (i) accommodates the public;
+2 (ii) provides services ordinarily found in hotels, motels, or inns;
+3 (iii) is equipped with at least 10 bedrooms for public accommodation;
+4 and
+5 (iv) has a lobby with a registration and mail desk, and seating; or
+6 (2) a restaurant that:
+7 (i) has seating at tables, not including bars or counters, for at least
+8 20 individuals; and
+9 (ii) can prepare and serve full–course meals for at least 20
+10 individuals at one seating.
+11 (c) (1) The Board may issue the license with or without a catering option.
+12 (2) A license holder with a catering option may sell beer for consumption
+13 at events that the holder caters off the licensed premises ANYWHERE IN THE COUNTY TO
+14 A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT HAVE A
+15 LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+16 (3) To exercise the catering option, the license holder:
+17 (i) shall provide food if the holder provides beer at a catered event
+18 off the licensed premises; and
+19 (ii) may exercise the catering option only during the hours and days
+20 that are allowed under the license.
+21 (4) AT EACH CATERED EVENT WHERE BEER IS SERVED, THE HOLDER
+22 OF THE CATERING OPTION SHALL:
+23 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+24 AND WAIT STAFF;
+25 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+26 ALL TIMES DURING THE CATERED EVENT; AND
+27 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+28 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+29 ARTICLE.
+8 HOUSE BILL 1203
+1 (d) The annual license fees are:
+2 (1) $150 for a 6–day license without a catering option;
+3 (2) $250 for a 6–day license with a catering option;
+4 (3) $175 for a 7–day license without a catering option; and
+5 (4) $275 for a 7–day license with a catering option.
+6 (e) The Board shall charge a one–time issuing fee for a new license in an amount
+7 equal to the annual license fee.
+8 21–803.
+9 (a) There is a Class B beer and wine license.
+10 (b) (1) The Board may issue the license for use in:
+11 (i) a hotel, a motel, or an inn that:
+12 1. provides services ordinarily found in a hotel, a motel, or an
+13 inn;
+14 2. is equipped with at least 10 bedrooms for public
+15 accommodation; and
+16 3. has a lobby with a registration and mail desk and seating
+17 facilities; or
+18 (ii) a restaurant that:
+19 1. has seating at tables, not including seats at bars or
+20 counters, for at least 20 individuals; and
+21 2. can prepare and serve full–course meals for at least 20
+22 individuals at one seating.
+23 (2) The license authorizes the license holder to sell, at retail, at the place
+24 described in the license:
+25 (i) beer and wine for on–premises consumption; and
+26 (ii) beer for off–premises consumption.
+27 (c) (1) The Board may issue the license with a catering option.
+HOUSE BILL 1203 9
+1 (2) In addition to exercising the privileges stated in subsection (b)(2) of this
+2 section, a holder of a license with a catering option may sell beer and wine for consumption
+3 at events that the license holder caters off the licensed premises ANYWHERE IN THE
+4 COUNTY TO A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT
+5 HAVE A LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+6 (3) To exercise the catering option, the license holder shall provide food at
+7 the catered event.
+8 (4) The license holder may exercise the catering option only during the
+9 hours and days that are allowed under the license.
+10 (5) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+11 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+12 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+13 AND WAIT STAFF;
+14 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+15 ALL TIMES DURING THE CATERED EVENT; AND
+16 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+17 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+18 ARTICLE.
+19 (d) The annual license fees are:
+20 (1) $350 for a 6–day license without a catering option;
+21 (2) $475 for a 6–day license with a catering option;
+22 (3) $410 for a 7–day license without a catering option; and
+23 (4) $535 for a 7–day license with a catering option.
+24 (e) The Board shall charge a one–time issuing fee for a new license in an amount
+25 equal to the annual license fee.
+26 21–804.
+27 (a) There is a Class BDR (deluxe restaurant) beer and wine license.
+28 (b) The license may be issued to a holder of:
+29 (1) any Class B alcoholic beverages license issued by the Board; or
+10 HOUSE BILL 1203
+1 (2) an equivalent license that the local licensing board of a different
+2 jurisdiction issues only for use by a restaurant.
+3 (c) (1) The Board may issue the license for use by a deluxe restaurant, as
+4 defined in the regulations of the Board, that:
+5 (i) has seating for at least 20 individuals; and
+6 (ii) has a minimum capital investment of $25,000 for the restaurant
+7 facilities, not including the cost of land or buildings.
+8 (2) If the applicant purchases or leases an existing building, the capital
+9 investment attributable to the cost of the land and improvements shall be based on the
+10 assessed value of the land and improvements in accordance with the records of the State
+11 Department of Assessments and Taxation at the time of purchase.
+12 (3) The license authorizes the license holder to sell, at retail, at the place
+13 described in the license:
+14 (i) beer and wine for on–premises consumption; and
+15 (ii) beer for off–premises consumption.
+16 (d) (1) The Board may issue the license with a catering option.
+17 (2) In addition to exercising the privileges stated in subsection (c)(3) of this
+18 section, a holder of a license with a catering option may sell beer and wine for consumption
+19 at events that the license holder caters off the licensed premises ANYWHERE IN THE
+20 COUNTY TO A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT
+21 HAVE A LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+22 (3) To exercise the catering option, the license holder shall provide food at
+23 the catered event.
+24 (4) The license holder may exercise the catering option only during the
+25 hours and days that the Board allows.
+26 (5) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+27 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+28 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+29 AND WAIT STAFF;
+30 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+31 ALL TIMES DURING THE CATERED EVENT; AND
+HOUSE BILL 1203 11
+1 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+2 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+3 ARTICLE.
+4 (e) The annual license fees are:
+5 (1) $500 for a 6–day license without a catering option;
+6 (2) $625 for a 6–day license with a catering option;
+7 (3) $585 for a 7–day license without a catering option; and
+8 (4) $710 for a 7–day license with a catering option.
+9 (f) The Board shall charge a one–time issuing fee for a new license in an amount
+10 equal to the annual license fee.
+11 21–804.1.
+12 (a) There is a Class BDR–DC (deluxe complex restaurant) beer and wine license.
+13 (b) The license may be issued to a holder of:
+14 (1) any Class B alcoholic beverages license issued by the Board; or
+15 (2) an equivalent license that the local licensing board of a different
+16 jurisdiction issues only for use by a restaurant.
+17 (c) (1) The Board may issue the license for use by a deluxe complex restaurant,
+18 as defined in the regulations of the Board, that:
+19 (i) has seating for at least 20 individuals; and
+20 (ii) has a minimum capital investment of $25,000 for the restaurant
+21 facilities, not including the cost of land or buildings.
+22 (2) If the applicant purchases or leases an existing building, the capital
+23 investment attributable to the cost of the land and improvements shall be based on the
+24 assessed value of the land and improvements in accordance with the records of the State
+25 Department of Assessments and Taxation at the time of purchase.
+26 (3) The license authorizes the license holder to sell, at retail, at the place
+27 described in the license:
+28 (i) beer and wine for on–premises consumption; and
+29 (ii) beer for off–premises consumption.
+12 HOUSE BILL 1203
+1 (d) (1) The Board may issue the license with a catering option.
+2 (2) In addition to exercising the privileges stated in subsection (c)(3) of this
+3 section, a holder of a license with a catering option may sell beer and wine for consumption
+4 at events that the license holder caters off the licensed premises ANYWHERE IN THE
+5 COUNTY TO A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT
+6 HAVE A LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+7 (3) To exercise the catering option, the license holder shall provide food at
+8 the catered event.
+9 (4) The license holder may exercise the catering option only during the
+10 hours and days that the Board allows.
+11 (5) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+12 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+13 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+14 AND WAIT STAFF;
+15 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+16 ALL TIMES DURING THE CATERED EVENT; AND
+17 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+18 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+19 ARTICLE.
+20 (e) The annual license fees are:
+21 (1) $500 for a 6–day license without a catering option;
+22 (2) $625 for a 6–day license with a catering option;
+23 (3) $585 for a 7–day license without a catering option; and
+24 (4) $710 for a 7–day license with a catering option.
+25 (f) The Board shall:
+26 (1) charge a one–time issuing fee for a new license in an amount equal to
+27 the annual license fee; and
+28 (2) adopt regulations to carry out this section.
+29 21–806.
+HOUSE BILL 1203 13
+1 (a) There is a Class D beer and wine license.
+2 (b) The license authorizes the license holder to sell beer and wine, at retail, at the
+3 place described in the license, for on– and off–premises consumption.
+4 (c) (1) The Board may issue the license with a catering option.
+5 (2) In addition to exercising the privileges stated in subsection (b) of this
+6 section, a holder of a license with a catering option may sell beer and wine for consumption
+7 at events that the license holder caters off the licensed premises ANYWHERE IN THE
+8 COUNTY TO A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT
+9 HAVE A LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+10 (3) To exercise the catering option, the license holder shall provide food at
+11 the catered event.
+12 (4) The license holder may exercise the catering option only during the
+13 hours and days that the Board allows.
+14 (5) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+15 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+16 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+17 AND WAIT STAFF;
+18 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+19 ALL TIMES DURING THE CATERED EVENT; AND
+20 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+21 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+22 ARTICLE.
+23 (d) The license may not be issued for use by a drugstore.
+24 (e) The annual license fees are:
+25 (1) $350 for a 6–day license without a catering option;
+26 (2) $475 for a 6–day license with a catering option;
+27 (3) $410 for a 7–day license without a catering option; and
+28 (4) $535 for a 7–day license with a catering option.
+14 HOUSE BILL 1203
+1 (f) The Board shall charge a one–time issuing fee for a new license in an amount
+2 equal to the annual license fee.
+3 21–902.
+4 (a) There is a Class B beer, wine, and liquor license.
+5 (b) The Board shall deny an application for a license under this section if the
+6 Board determines that the business to be operated under this license will not enhance
+7 recreational, business, and economic development in the county.
+8 (c) The Board may issue the license for use by a hotel or motel that:
+9 (1) is an establishment to accommodate the public by providing customary
+10 hotel or motel services;
+11 (2) has at least 10 rooms; and
+12 (3) has a lobby with a registration and mail desk and seating facilities.
+13 (d) The Board may issue the license for use by a restaurant that:
+14 (1) has seating at tables, not including seats at bars or counters, for at least
+15 20 individuals; and
+16 (2) can prepare and serve full–course meals for at least 20 individuals at
+17 one seating.
+18 (e) The license authorizes the license holder to sell at a hotel, motel, or restaurant
+19 at retail at the place described in the license:
+20 (1) beer, wine, and liquor for on–premises consumption; and
+21 (2) beer for off–premises consumption.
+22 (f) (1) The catering option authorizes the license holder to sell beer, wine, and
+23 liquor for consumption at events catered by the license holder [in the county] off the
+24 licensed premises ANYWHERE IN THE COUNTY TO A PERSON OF LEGAL DRINKING AGE
+25 ON PREMISES THAT EITHER DO NOT HAVE A LICENSE OR HAVE A TEMPORARY
+26 LICENSE ISSUED BY THE BOARD.
+27 (2) A license holder providing alcoholic beverages at a catered event off the
+28 licensed premises shall also provide food.
+29 (3) The license holder may exercise catering privileges only during hours
+30 and days that are authorized under the Class B license.
+HOUSE BILL 1203 15
+1 (4) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+2 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+3 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+4 AND WAIT STAFF;
+5 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+6 ALL TIMES DURING THE CATERED EVENT; AND
+7 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+8 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+9 ARTICLE.
+10 (g) The annual license fees are:
+11 (1) $1,500 for a 6–day license without the catering option;
+12 (2) $2,000 for a 6–day license with the catering option;
+13 (3) $1,750 for a 7–day license without the catering option; and
+14 (4) $2,250 for a 7–day license with the catering option.
+15 (h) The Board shall charge a one–time issuing fee for a new license in an amount
+16 equal to the annual license fee.
+17 21–903.
+18 (a) There is a Class BDR (deluxe restaurant) beer, wine, and liquor license.
+19 (b) The Board may issue the license to a holder of:
+20 (1) any Class B alcoholic beverages license issued by the Board; or
+21 (2) an equivalent license that the local licensing board of a different
+22 jurisdiction issues only for use by a restaurant.
+23 (c) (1) The Board may issue the license for use by a deluxe restaurant as
+24 defined by the Board with:
+25 (i) seating at tables, not including seats at bars or counters, for at
+26 least 20 individuals; and
+27 (ii) a capital investment of at least $250,000 for the restaurant
+28 facilities, not including the cost of land or buildings.
+16 HOUSE BILL 1203
+1 (2) If an applicant purchases or leases an existing building, the capital
+2 investment attributable to the cost of the land and improvements shall be based on the
+3 assessed value of the land and improvements in accordance with the records of the State
+4 Department of Assessments and Taxation at the time of purchase or lease.
+5 (3) The license authorizes the license holder to sell, at retail, at the place
+6 described in the license:
+7 (i) beer, wine, and liquor for on–premises consumption; and
+8 (ii) beer for off–premises consumption.
+9 (d) (1) A license holder of a Class BDR license may acquire a catering option
+10 that authorizes the license holder to sell beer, wine, and liquor for consumption at events
+11 catered by the license holder [in the county] off the licensed premises ANYWHERE IN THE
+12 COUNTY TO A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT
+13 HAVE A LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+14 (2) A license holder providing alcoholic beverages at a catered event off the
+15 licensed premises shall also provide food.
+16 (3) The license holder may exercise catering privileges only during hours
+17 and days that are authorized under the Class B license.
+18 (4) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+19 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+20 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+21 AND WAIT STAFF;
+22 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+23 ALL TIMES DURING THE CATERED EVENT; AND
+24 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+25 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+26 ARTICLE.
+27 (e) The annual license fees are:
+28 (1) $2,250 for a 6–day license without a catering option;
+29 (2) $2,750 for a 6–day license with a catering option;
+30 (3) $2,625 for a 7–day license without a catering option; and
+31 (4) $3,125 for a 7–day license with a catering option.
+HOUSE BILL 1203 17
+1 (f) The Board shall charge a one–time issuing fee for a new license in an amount
+2 equal to the annual license fee.
+3 21–903.1.
+4 (a) There is a Class BDR–DC (deluxe complex restaurant) beer, wine, and liquor
+5 license.
+6 (b) The Board may issue the license to a holder of:
+7 (1) any Class B alcoholic beverages license issued by the Board; or
+8 (2) an equivalent license that the local licensing board of a different
+9 jurisdiction issues only for use by a restaurant.
+10 (c) (1) The Board may issue the license for use by a deluxe complex restaurant,
+11 as defined in the regulations of the Board, with:
+12 (i) seating at tables, not including seats at bars or counters, for at
+13 least 20 individuals; and
+14 (ii) a capital investment of at least $250,000 for the restaurant
+15 facilities, not including the cost of land or buildings.
+16 (2) If an applicant purchases or leases an existing building, the capital
+17 investment attributable to the cost of the land and improvements shall be based on the
+18 assessed value of the land and improvements in accordance with the records of the State
+19 Department of Assessments and Taxation at the time of purchase or lease.
+20 (3) The license authorizes the license holder to sell, at retail, at the place
+21 described in the license:
+22 (i) beer, wine, and liquor for on–premises consumption; and
+23 (ii) beer for off–premises consumption.
+24 (d) (1) A license holder of a Class BDR–DC (deluxe complex restaurant) license
+25 may acquire a catering option that authorizes the license holder to sell beer, wine, and
+26 liquor for consumption at events catered by the license holder [in the county] off the
+27 licensed premises ANYWHERE IN THE COUNTY TO A PERSON OF LEGAL DRINKING AGE
+28 ON PREMISES THAT EITHER DO NOT HAVE A LICENSE OR HAVE A TEMPORARY
+29 LICENSE ISSUED BY THE BOARD.
+30 (2) A license holder providing alcoholic beverages at a catered event off the
+31 licensed premises shall also provide food.
+18 HOUSE BILL 1203
+1 (3) The license holder may exercise catering privileges only during hours
+2 and days that are authorized under the Class B license.
+3 (4) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+4 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+5 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+6 AND WAIT STAFF;
+7 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+8 ALL TIMES DURING THE CATERED EVENT; AND
+9 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+10 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+11 ARTICLE.
+12 (e) The annual license fees are:
+13 (1) $2,250 for a 6–day license without a catering option;
+14 (2) $2,750 for a 6–day license with a catering option;
+15 (3) $2,625 for a 7–day license without a catering option; and
+16 (4) $3,125 for a 7–day license with a catering option.
+17 (f) The Board shall:
+18 (1) charge a one–time issuing fee for a new license in an amount equal to
+19 the annual license fee; and
+20 (2) adopt regulations to carry out this section.
+21 21–905.
+22 (a) (1) There is:
+23 (i) a Class D (75% on–sale) beer, wine, and liquor license; and
+24 (ii) a Class D (75% off–sale) beer, wine, and liquor license.
+25 (2) The Board may not issue a license under this section to a grocery store
+26 whose primary business is to sell food at retail to the public for off–premises consumption.
+HOUSE BILL 1203 19
+1 (b) The Board shall issue the license for on–premises consumption for use by an
+2 establishment whose total beer, wine, and liquor sales are at least 75% on–premises
+3 consumption and not more than 25% off–premises consumption.
+4 (c) The Board shall issue the license for off–sale consumption for use by an
+5 establishment whose total beer, wine, and liquor sales are at least 75% off–premises
+6 consumption and not more than 25% on–premises consumption.
+7 (d) (1) A holder of the license with a catering option may sell beer, wine, and
+8 liquor for consumption at events that the holder caters off the licensed premises during the
+9 hours and days that the Board allows.
+10 (2) The license holder shall provide food if the license holder provides
+11 alcoholic beverages at a catered event off the licensed premises ANYWHERE IN THE
+12 COUNTY TO A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT
+13 HAVE A LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+14 (3) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+15 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+16 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+17 AND WAIT STAFF;
+18 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+19 ALL TIMES DURING THE CATERED EVENT; AND
+20 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+21 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+22 ARTICLE.
+23 (e) The annual license fees are:
+24 (1) $1,500 for a 6–day (on–sale) license without a catering option;
+25 (2) $2,000 for a 6–day (on–sale) license with a catering option;
+26 (3) $3,000 for a 6–day (off–sale) license;
+27 (4) $1,750 for a 7–day (on–sale) license without a catering option;
+28 (5) $2,250 for a 7–day (on–sale) license with a catering option; and
+29 (6) $3,500 for a 7–day (off–sale) license.
+30 (f) The Board shall charge a one–time issuing fee for a new license in an amount
+31 equal to the annual license fee.
+20 HOUSE BILL 1203
+1 21–1002.1.
+2 (a) There is a Class B–resort beer and wine license.
+3 (b) The Board may issue the license to a license holder for a complex that has at
+4 least two facilities that are:
+5 (1) located on the same contiguous property;
+6 (2) separated by at least 150 feet from the main area of the licensed
+7 premises; and
+8 (3) determined by the Board to be hotel, motel, recreational, or restaurant
+9 facilities.
+10 (c) The license authorizes the license holder to sell at a hotel, motel, recreational,
+11 or restaurant facility at retail at the place described in the license:
+12 (1) beer and wine for on–premises consumption; and
+13 (2) beer for off–premises consumption.
+14 (d) The license holder may sell beer and wine during the hours and days as set
+15 out for a Class B beer and wine license under § 21–2003 of this title.
+16 (e) (1) THE BOARD MAY ISSUE THE LICENSE WITH OR WITHOUT A
+17 CATERING OPTION.
+18 (2) A LICENSE HOLDER WITH A CATERING OPTION MAY SELL
+19 ALCOHOLIC BEVERAGES FOR CONSUMPTION AT EVENTS CATERED BY THE LICENSE
+20 HOLDER OFF THE LICENSED PREMISES ANYWHERE IN THE COUNTY TO A PERSON OF
+21 LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT HAVE A LICENSE OR HAVE
+22 A TEMPORARY LICENSE ISSUED BY THE BOARD.
+23 (3) A LICENSE HOLDER PROVIDING ALCOHOLIC BEVERAGES AT A
+24 CATERED EVENT OFF THE LICENSED PREMISES SHALL ALSO PROVIDE FOOD.
+25 (4) THE LICENSE HOLDER MAY EXERCISE CATERING PRIVILEGES
+26 ONLY DURING HOURS AND DAYS THAT ARE AUTHORIZED UNDER THE CLASS B
+27 LICENSE.
+28 (5) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+29 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+HOUSE BILL 1203 21
+1 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+2 AND WAIT STAFF;
+3 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+4 ALL TIMES DURING THE CATERED EVENT; AND
+5 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+6 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+7 ARTICLE.
+8 (F) The annual license fees are:
+9 (1) $700 for a 6–day license for two facilities;
+10 (2) $350 for each additional facility for a 6–day license;
+11 (3) $820 for a 7–day license for two facilities; and
+12 (4) $410 for each additional facility for a 7–day license.
+13 [(f)] (G) The Board shall charge a one–time issuing fee for a new license in an
+14 amount equal to the annual license fee.
+15 21–1201.
+16 (a) There is a local caterer’s license.
+17 (b) (1) The Board may issue the license to a person that:
+18 (i) has facilities to prepare and deliver food to the site of a catered
+19 event;
+20 (ii) obtains approval of the facilities from the county Department of
+21 Health; and
+22 (iii) does not hold any other license that the Board issues.
+23 (2) A license holder is not required to have a banquet hall.
+24 (c) The license authorizes a holder to:
+25 (1) sell or provide off–sale alcoholic beverages during a catered event; and
+26 (2) exercise the privileges of the license only during the hours and on the
+27 days that are authorized for a Class B beer, wine, and liquor license.
+22 HOUSE BILL 1203
+1 (d) A LICENSE HOLDER MAY SERVE ALCOHOLIC BEVERAGES AT A CATERED
+2 EVENT ANYWHERE IN THE COUNTY TO A PERSON OF LEGAL DRINKING AGE ON
+3 PREMISES THAT EITHER DO NOT HAVE A LICENSE OR HAVE A TEMPORARY LICENSE
+4 ISSUED BY THE BOARD.
+5 (E) The license holder may not:
+6 (1) hold a catered event that the license holder sponsors; or
+7 (2) provide only alcoholic beverages at a catered event.
+8 [(e)] (F) The license holder shall:
+9 (1) purchase all alcoholic beverages from a wholesaler or retail dealer
+10 licensed to sell alcoholic beverages in the county;
+11 (2) contract for and provide food for consumption at the catered event;
+12 (3) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS AND
+13 WAIT STAFF;
+14 (4) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT ALL
+15 TIMES DURING THE CATERED EVENT;
+16 (5) ENSURE THAT THE SALE OF FOOD REPRESENTS AT LEAST 70% OF
+17 THE TOTAL COST OF THE CATERED EVENT;
+18 [(3)] (6) during the catered event, ensure that at least one individual on
+19 the site is certified by an alcohol awareness program under § 4–505 of this article; and
+20 [(4)] (7) at the end of the catered event, return all containers of alcoholic
+21 beverages that are not empty to the license holder’s principal place of business.
+22 [(f)] (G) (1) The issuing fee that is charged for each new license is $500.
+23 (2) The annual license fee is $500.
+24 21–1408.
+25 (a) At the time an application for an alcoholic beverages license is filed, at least
+26 one of the applicants shall be a resident of the State.
+27 (b) AN APPLICANT FOR A LICENSE IN THE COUNTY SHALL INCLUDE ON THE
+28 APPLICATION:
+HOUSE BILL 1203 23
+1 (1) A STATEMENT INDICATING WHETHER THE APPLICANT IS A
+2 NATURAL–BORN CITIZEN OR A NATURALIZED CITIZEN; OR
+3 (2) IF THE APPLICANT IS NOT A CITIZEN OF THE UNITED STATES:
+4 (I) A STATEMENT THAT THE APPLICANT’S IMMIGRATION
+5 STATUS IS IN COMPLIANCE WITH FEDERAL LAW; AND
+6 (II) EVIDENCE TO VERIFY THE IMMIGRATION STATUS OF THE
+7 APPLICANT.
+8 (C) The license remains valid only for as long as at least one of the applicants
+9 remains a resident of the State.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+11 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      6   C A G F G t c o c t e a t c s o a a a g r t a b B  A S  A  ( B  A S 2 a ( 2 2 2 2 2 2 2  A  (]
+[DELETED:  H  B  A S  A  (  S T A 2  T 2  ( ( T G s a t m t t B O .   ( T    ( i a    ( i t i n r S e f t c w c  ( ( E    ( a    ( a b   ( A b   ( ( T p    ( O o ( T:]
+[DELETED: H 3  () M OT   ()IH A O T P A D O A R O. 2  ( ( S o   ( T  ( ( I t .   ( W f  ( T   ( a   ( ( l    ( f 2  ( T f s o T 2 S 2 ( L o D   ( §   ( §   () §   () §](   () §](   () §](   () §](]
+[DELETED:  H    () §](   () §](   () § 2 ( b m e a]( r   () § 2 ( o a b – P]( p   () § 2 ( a b p a]( r  ( T f s o T 2 S 2 ( L o D   ( §   ( § t   ( §   (25(C3”,§2 L  E     ( []§§ § 2 ( 4 l w l s t § 2552  o   () §]( t   () §]( t() TSEP.H P V E() TBCH O L   L  4.() TH P A T H T S F ONPR R ]
+[DELETED: H 5D () ( H U  T. (   () FE   () ,IS AS I T FNPE ;  () SIA A A T C W T TESE() T:H ( A D O I P I I TY  ( T G P T E A P O T() THR  ND O() ( H P H S K A R F O A B F  Y A T D O (  O.()   O A L  D B T E I T O O A F O.]
+[DELETED:  H () T:H ( ,L F P A A T D T P E W F OE  ( L O P H O O E W I   4() ( T3H  ( A  T() ( AM  O A  AM   AM ..2... ( S6..:  AM   () 111;C      ()IA C E D I W T V I A R UH.() HRS() ( T$H ( TB OETE 2  ( T  ( T c   ( a]
+[DELETED: H 7    ( a    ( p    ( i a    ( h   ( a    ( h 2    ( c p a s f m f a l 2 i  ( ( T   ( A a O .   ( T    ( s o    ( m t ( AD   () S S PL I B  ()IET   ()IH C B A A A P U   O T4]
+[DELETED:  H   ( T   ( $   ( $   ( $   ( $  ( T e 2  ( T  ( ( T    ( a     1 p i     2 i e w a l 1 b f p a     3 h f    ( a     1 h s a t n i s a b o c     2 c i   ( T d    ( b    ( b  ( ( T]
+[DELETED: H 9   ( I s a e t t l h c o t l p I O .   ( T t   ( T h ( D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4  ( T   ( $   ( $   ( $   ( $  ( T e 2  ( T  ( T   ( a]
+[DELETED:  H    ( a e l t t l l b o a d j  ( ( T B m i t l f u b a d r a d    ( h    ( h f   ( I i a D   ( T d    ( b    ( b  ( ( T   ( I s a e t t l h c o t l p I O .   ( T t   ( T h   D :  () S S PL I B  ()IET ]
+[DELETED: H 1  ()IH C B A A A P U   O T4  ( T   ( $   ( $   ( $   ( $  ( T e 2  ( T  ( T   ( a   ( a e l t t l l b o a d j  ( ( T a    ( h    ( h f   ( I i a D   ( T d    ( b    ( b]
+[DELETED:  H   ( ( T   ( I s a e t t l h c o t l p I O .   ( T t   ( T d h ( D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4  ( T   ( $   ( $   ( $   ( $  ( T   ( c t   ( a 2]
+[DELETED: H 1  ( T  ( T p  ( ( T   ( I s a e t t l h c o t l p I O .   ( T t   ( T h   D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4   ( T  ( T   ( $   ( $   ( $   ( $]
+[DELETED:  H   ( T e 2  ( T  ( T B r  ( T   ( i h   ( h   ( h  ( T   ( h 2   ( c o  ( T a   ( b   ( b  ( ( T l f c a e c b t l h i t cy o t l P T E D N H A L O H A T O .   ( A l   ( T a]
+[DELETED: H 1 ( D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4   ( T   ( $   ( $   ( $   ( $  ( T e 2  ( T  ( T   ( a   ( a e l t t l l b o a d j  ( ( T B m i t l f u b a d r a d    ( s l    ( a c i o a l $ f t r f]
+[DELETED:  H    ( I a p o l a e b t i a D   ( T d    ( b    ( b  ( ( A t c iy  O .   ( A l   ( T a   D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4   ( T   ( $   ( $   ( $   ( $]
+[DELETED: H 1  ( T e 2  ( T l  ( T   ( a   ( a e l t t l l b o a d j  ( ( T a    ( s l    ( a c i o a l $ f t r f   ( I a p o l a e b t i a D   ( T d    ( b    ( b  ( ( A m l f c a e c b t l h i t cy o t l P T E D N H A L O H A T O .   ( A l]
+[DELETED:  H    ( T a   D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4  ( T   ( $   ( $   ( $   ( $  ( T   ( c t   ( a 2  ( ( T    ( a    ( a   ( T w]
+[DELETED: H 1  ( T e w t b w a l s a a l 7 o c  ( T B s i t l f o c f u b a e w t b w a l s a a l 7 o c  ( ( A l h   ( T l h s p f i t l h p a b a a c e o t l p I T O .   D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4  ( T   ( $   ( $   ( $   ( $   ( $   ( $  ( T e]
+[DELETED:  H  2  ( T  ( T l   ( l   ( s b a l 1 f f t m a o t l p   ( d f  ( T o   ( b   ( b  ( T o  (( T O M I T L W O W A ( L H W A C O M S O. ( L H P A B A A (  L H M E C P D H A D T A A U T L  ( D :]
+[DELETED: H 2  () S S PL I B  ()IET   ()IH C B A A A P U   O T4   T   ( $   ( $   ( $   ( $  () T]( a 2  ( T  ( ( T    ( h e    ( o H    ( d   ( A  ( T   ( s   ( e d]
+[DELETED:  H   ( A I T C T A P O L D A O O.  T)   ( h   ( p  () T](   ( p a a b f a w o r d l   ( c   ) S PL I B A ( T T S P A P A A ( 7     ()d]( t   () a]( b  () ( T](   ( T 2  ( A o  (]
+[DELETED: H 2 ( S I W T A I ALBN ; ( US: N T  () A S T T ATS IW   ()IE T V T I S O T  T) r  S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1203
+A2 6lr2920
+HB 685/25 – ECM CF SB 802
+By: Delegate Hinebaugh
+Introduced and read first time: February 11, 2026
+Assigned to: Government, Labor, and Elections
+Committee Report: Favorable
+House action: Adopted
+Read second time: March 9, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Garrett County – Alcoholic Beverages Act of 2026
+3 FOR the purpose of adding a substitute member to the Board of License Commissioners for
+4 Garrett County; establishing a certain special event permit that the Board may issue
+5 to a holder of a Class 3 winery license or a Class 4 limited winery license; establishing
+6 certain additional requirements for certain holders of certain licenses with catering
+7 option; requiring the holder of a certain caterer’s license at a catered event to supply
+8 certain service personnel, ensure that certain service personnel are present at all
+9 times, and ensure the sale of food represents a specific amount of the total cost of the
+10 event; requiring a certain statement on an alcoholic beverages license application
+11 about the citizenship status of an applicant; and generally relating to alcoholic
+12 beverages in Garrett County.
+13 BY repealing and reenacting, without amendments,
+14 Article – Alcoholic Beverages and Cannabis
+15 Section 21–102
+16 Annotated Code of Maryland
+17 (2024 Replacement Volume and 2025 Supplement)
+18 BY repealing and reenacting, with amendments,
+19 Article – Alcoholic Beverages and Cannabis
+20 Section 21–202(a) and (b), 21–204, 21–401, 21–602, 21–803, 21–804, 21–804.1,
+21 21–806, 21–902, 21–903, 21–903.1, 21–905, 21–1002.1, 21–1201, and 21–1408
+22 Annotated Code of Maryland
+23 (2024 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1203*
+
+2 HOUSE BILL 1203
+1 BY adding to
+2 Article – Alcoholic Beverages and Cannabis
+3 Section 21–405.1
+4 Annotated Code of Maryland
+5 (2024 Replacement Volume and 2025 Supplement)
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
+8 Article – Alcoholic Beverages and Cannabis
+9 21–102.
+10 This title applies only in Garrett County.
+11 21–202.
+12 (a) (1) The Governor shall appoint three members to the Board AND ONE
+13 SUBSTITUTE MEMBER.
+14 (2) The appointments shall be made:
+15 (i) if there is a resident Senator elected from the county, with the
+16 advice and consent of the Senate; or
+17 (ii) if there is no resident Senator elected from the county, with
+18 confirmation by the House of Delegates.
+19 (b) (1) Each member of the Board shall be:
+20 (i) a resident and voter of the county; and
+21 (ii) an individual of high character and integrity and of recognized
+22 business capacity.
+23 (2) An individual who is receiving compensation from the county may not
+24 be appointed to the Board.
+25 (3) (i) Two members of the Board shall be members of the same political
+26 party as that of a majority of the members of the Board of County Commissioners.
+27 (ii) One member of the Board shall be a member of a political party
+28 other than the one represented by a majority of the Board of County Commissioners.
+29 (4) THE SUBSTITUTE MEMBER:
+
+HOUSE BILL 1203 3
+1 (I) MAY SERVE ON THE BOARD IN THE ABSENCE OF A QUORUM
+2 OF THE REGULAR MEMBERS DUE TO ILLNESS OR CONFLICT OF INTEREST; AND
+3 (II) HAS ALL OF THE POWERS AND DUTIES OF A REGULAR
+4 MEMBER WHEN SERVING ON THE BOARD.
+5 21–204.
+6 (a) (1) Subject to paragraph (2) of this subsection, the Board shall meet at least
+7 once each month.
+8 (2) The chair may cancel a meeting for lack of an agenda.
+9 (b) (1) In accordance with § 32.44 of the Garrett County Code of Ordinances,
+10 the County Commissioners shall set the salaries of the members of the Board, INCLUDING
+11 THE SUBSTITUTE MEMBER.
+12 (2) When attending meetings, each member is entitled to reimbursement
+13 for expenses under the Standard State Travel Regulations, as provided in the State budget.
+14 (c) The County Commissioners shall provide to the Board:
+15 (1) administrative, clerical, and accounting services as needed; and
+16 (2) (i) legal counsel through the office of the County Attorney; or
+17 (ii) funds for the payment for competent private legal counsel.
+18 21–401.
+19 (a) The following sections of Title 2, Subtitle 2 (“Manufacturer’s Licenses”) of
+20 Division I of this article apply in the county without exception or variation:
+21 (1) § 2–201 (“Issuance by Comptroller”);
+22 (2) [§ 2–205 (“Class 3 winery license”);
+23 (3)] § 2–207 (“Class 5 brewery license”);
+24 [(4)] (3) § 2–209 (“Class 7 micro–brewery license”);
+25 [(5)] (4) § 2–211 (“Residency requirement”);
+26 [(6)] (5) § 2–212 (“Additional licenses”);
+27 [(7)] (6) § 2–213 (“Additional fees”);
+
+4 HOUSE BILL 1203
+1 [(8)] (7) § 2–214 (“Sale or delivery restricted”);
+2 [(9)] (8) § 2–215 (“Beer sale on credit to retail dealer prohibited”);
+3 [(10)] (9) § 2–216 (“Interaction between manufacturing entities and
+4 retailers”);
+5 [(11)] (10) § 2–217 (“Distribution of alcoholic beverages – Prohibited
+6 practices”); and
+7 [(12)] (11) § 2–218 (“Restrictive agreements between producers and
+8 retailers – Prohibited”).
+9 (b) The following sections of Title 2, Subtitle 2 (“Manufacturer’s Licenses”) of
+10 Division I of this article apply in the county:
+11 (1) § 2–202 (“Class 1 distillery license”), subject to § 21–403 of this subtitle;
+12 (2) § 2–203 (“Class 9 limited distillery license”), subject to § 21–403.1 of
+13 this subtitle;
+14 (3) § 2–204 (“Class 2 rectifying license”), subject to § 21–404 of this subtitle;
+15 (4) § 2–205 (“CLASS 3 WINERY LICENSE”), SUBJECT TO § 21–405.1 OF
+16 THIS SUBTITLE;
+17 (5) § 2–206 (“Class 4 limited winery license”), subject to [§ 21–405] §§
+18 21–405 AND 21–405.1 of this subtitle;
+19 [(5)] (6) § 2–208 (“Class 6 pub–brewery license”), subject to § 21–406 of
+20 this subtitle; and
+21 [(6)] (7) § 2–210 (“Class 8 farm brewery license”), subject to § 21–407 of
+22 this subtitle.
+23 21–405.1.
+24 (A) THERE IS A SPECIAL EVENT PERMIT.
+25 (B) THE BOARD MAY ISSUE THE PERMIT TO A HOLDER OF A CLASS 3 WINERY
+26 LICENSE OR A CLASS 4 LIMITED WINERY LICENSE.
+27 (C) THE PERMIT AUTHORIZES THE HOLDER TO SELL FOR ON–PREMISES
+28 CONSUMPTION BEER, WINE PRODUCED BY THE HOLDER, SPARKLING WINE THAT IS
+
+HOUSE BILL 1203 5
+1 NATURALLY OR ARTIFICIALLY CARBONATED, AND LIQUOR AT A PRIVATE EVENT FOR
+2 WHICH THE ENTIRE LICENSED PREMISES HAS BEEN RENTED.
+3 (D) (1) THE PERMIT SHALL BE USED FOR PRIVATE PARTIES THAT ARE
+4 SCHEDULED AND RESERVED AT LEAST 7 DAYS IN ADVANCE OF THE ACTUAL EVENT.
+5 (2) THE PERMIT HOLDER MAY PROVIDE THE FOLLOWING SERVICES
+6 FOR A PRIVATE EVENT:
+7 (I) FOOD AND BEVERAGE SERVICE, INCLUDING THE USE OF A
+8 LICENSED KITCHEN AND BAR FACILITY FOR PREPARING AND SERVING MEALS AND
+9 BEVERAGES ON THE PREMISES;
+10 (II) SEATING ACCOMMODATIONS, INCLUDING TABLES FOR
+11 ON–PREMISES MEAL SERVICE; AND
+12 (III) AN ASSEMBLY AREA THAT COMPLIES WITH THE STATE’S
+13 FIRE CODE.
+14 (E) THE PERMIT HOLDER MAY NOT:
+15 (1) HAVE A DIRECT OR INDIRECT PECUNIARY INTEREST IN THE
+16 LICENSED CATERER OR OTHER CONTRACTED PARTY; AND
+17 (2) ALLOW THE GENERAL PUBLIC TO ENTER ANY PART OF THE
+18 LICENSED PREMISES WHILE THE PRIVATE EVENT IS BEING HELD.
+19 (F) THE PERMIT HOLDER SHALL PURCHASE BEER, SPARKLING WINE THAT
+20 IS NATURALLY OR ARTIFICIALLY CARBONATED, OR LIQUOR INTENDED FOR SALE
+21 UNDER THE PERMIT FROM A LICENSED ALCOHOLIC BEVERAGES RETAILER LOCATED
+22 IN THE COUNTY.
+23 (G) (1) THE PERMIT HOLDER SHALL KEEP ALL RECEIPTS FROM
+24 PURCHASES OF ALCOHOLIC BEVERAGES FOR 1 YEAR AFTER THE DATE OF
+25 PURCHASE.
+26 (2) THE RECEIPTS SHALL BE MADE AVAILABLE FOR INSPECTION BY
+27 THE BOARD.
+28 (H) A PERMIT HOLDER THAT INTENDS TO USE THE PERMIT SHALL NOTIFY
+29 THE BOARD AT LEAST 7 DAYS BEFORE THE EVENT IS TO OCCUR ON A FORM
+30 PROVIDED BY THE BOARD.
+
+6 HOUSE BILL 1203
+1 (I) THE PERMIT HOLDER SHALL ENSURE THAT:
+2 (1) SERVICE PERSONNEL, INCLUDING BARTENDERS AND WAIT STAFF,
+3 ARE PRESENT AT ALL TIMES DURING THE PRIVATE EVENT WHEN FOOD OR
+4 ALCOHOLIC BEVERAGES ARE AVAILABLE; AND
+5 (2) AT LEAST ONE PERMIT HOLDER OR ONE EMPLOYEE WHO IS
+6 CERTIFIED BY AN APPROVED ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF
+7 THIS ARTICLE IS ON THE PREMISES WHILE ALCOHOLIC BEVERAGES ARE AVAILABLE.
+8 (J) (1) THE PERMIT HOLDER MAY USE THE PERMIT NOT MORE THAN 32
+9 TIMES IN A CALENDAR YEAR.
+10 (2) A PRIVATE EVENT MAY EXTEND UP TO 7 DAYS IF THE EVENT IS FOR
+11 THE SAME CLIENT.
+12 (K) (1) A PRIVATE EVENT MAY BE HELD MONDAYS THROUGH SATURDAYS
+13 FROM 6 A.M. TO 2 A.M. THE FOLLOWING DAY.
+14 (2) SUNDAY SALES ARE ALLOWED FROM 6 A.M. TO MIDNIGHT IN:
+15 (I) COUNTY ELECTION DISTRICTS 11 AND 15; AND
+16 (II) ANY OTHER COUNTY ELECTION DISTRICT OR PRECINCT OF
+17 A COUNTY ELECTION DISTRICT IN WHICH THE VOTERS IN A REFERENDUM
+18 AUTHORIZED BY LAW APPROVE SUNDAY SALES AS SPECIFIED IN THIS PARAGRAPH.
+19 (L) THE PERMIT HOLDER MAY NOT STORE ALCOHOLIC BEVERAGES THAT
+20 ARE NOT PRODUCED BY THE PERMIT HOLDER ON THE MANUFACTURER’S LICENSED
+21 PREMISES IN BETWEEN EVENTS.
+22 (M) (1) THE ANNUAL PERMIT FEE IS $1,750.
+23 (2) THE BOARD SHALL CHARGE A ONE–TIME ISSUING FEE FOR A NEW
+24 PERMIT IN AN AMOUNT EQUAL TO THE ANNUAL PERMIT FEE.
+25 21–602.
+26 (a) There is a Class B beer license.
+27 (b) The license authorizes the license holder to sell beer for on– or off–premises
+28 consumption:
+29 (1) at a hotel, a motel, or an inn that:
+
+HOUSE BILL 1203 7
+1 (i) accommodates the public;
+2 (ii) provides services ordinarily found in hotels, motels, or inns;
+3 (iii) is equipped with at least 10 bedrooms for public accommodation;
+4 and
+5 (iv) has a lobby with a registration and mail desk, and seating; or
+6 (2) a restaurant that:
+7 (i) has seating at tables, not including bars or counters, for at least
+8 20 individuals; and
+9 (ii) can prepare and serve full–course meals for at least 20
+10 individuals at one seating.
+11 (c) (1) The Board may issue the license with or without a catering option.
+12 (2) A license holder with a catering option may sell beer for consumption
+13 at events that the holder caters off the licensed premises ANYWHERE IN THE COUNTY TO
+14 A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT HAVE A
+15 LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+16 (3) To exercise the catering option, the license holder:
+17 (i) shall provide food if the holder provides beer at a catered event
+18 off the licensed premises; and
+19 (ii) may exercise the catering option only during the hours and days
+20 that are allowed under the license.
+21 (4) AT EACH CATERED EVENT WHERE BEER IS SERVED, THE HOLDER
+22 OF THE CATERING OPTION SHALL:
+23 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+24 AND WAIT STAFF;
+25 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+26 ALL TIMES DURING THE CATERED EVENT; AND
+27 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+28 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+29 ARTICLE.
+
+8 HOUSE BILL 1203
+1 (d) The annual license fees are:
+2 (1) $150 for a 6–day license without a catering option;
+3 (2) $250 for a 6–day license with a catering option;
+4 (3) $175 for a 7–day license without a catering option; and
+5 (4) $275 for a 7–day license with a catering option.
+6 (e) The Board shall charge a one–time issuing fee for a new license in an amount
+7 equal to the annual license fee.
+8 21–803.
+9 (a) There is a Class B beer and wine license.
+10 (b) (1) The Board may issue the license for use in:
+11 (i) a hotel, a motel, or an inn that:
+12 1. provides services ordinarily found in a hotel, a motel, or an
+13 inn;
+14 2. is equipped with at least 10 bedrooms for public
+15 accommodation; and
+16 3. has a lobby with a registration and mail desk and seating
+17 facilities; or
+18 (ii) a restaurant that:
+19 1. has seating at tables, not including seats at bars or
+20 counters, for at least 20 individuals; and
+21 2. can prepare and serve full–course meals for at least 20
+22 individuals at one seating.
+23 (2) The license authorizes the license holder to sell, at retail, at the place
+24 described in the license:
+25 (i) beer and wine for on–premises consumption; and
+26 (ii) beer for off–premises consumption.
+27 (c) (1) The Board may issue the license with a catering option.
+
+HOUSE BILL 1203 9
+1 (2) In addition to exercising the privileges stated in subsection (b)(2) of this
+2 section, a holder of a license with a catering option may sell beer and wine for consumption
+3 at events that the license holder caters off the licensed premises ANYWHERE IN THE
+4 COUNTY TO A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT
+5 HAVE A LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+6 (3) To exercise the catering option, the license holder shall provide food at
+7 the catered event.
+8 (4) The license holder may exercise the catering option only during the
+9 hours and days that are allowed under the license.
+10 (5) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+11 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+12 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+13 AND WAIT STAFF;
+14 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+15 ALL TIMES DURING THE CATERED EVENT; AND
+16 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+17 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+18 ARTICLE.
+19 (d) The annual license fees are:
+20 (1) $350 for a 6–day license without a catering option;
+21 (2) $475 for a 6–day license with a catering option;
+22 (3) $410 for a 7–day license without a catering option; and
+23 (4) $535 for a 7–day license with a catering option.
+24 (e) The Board shall charge a one–time issuing fee for a new license in an amount
+25 equal to the annual license fee.
+26 21–804.
+27 (a) There is a Class BDR (deluxe restaurant) beer and wine license.
+28 (b) The license may be issued to a holder of:
+29 (1) any Class B alcoholic beverages license issued by the Board; or
+
+10 HOUSE BILL 1203
+1 (2) an equivalent license that the local licensing board of a different
+2 jurisdiction issues only for use by a restaurant.
+3 (c) (1) The Board may issue the license for use by a deluxe restaurant, as
+4 defined in the regulations of the Board, that:
+5 (i) has seating for at least 20 individuals; and
+6 (ii) has a minimum capital investment of $25,000 for the restaurant
+7 facilities, not including the cost of land or buildings.
+8 (2) If the applicant purchases or leases an existing building, the capital
+9 investment attributable to the cost of the land and improvements shall be based on the
+10 assessed value of the land and improvements in accordance with the records of the State
+11 Department of Assessments and Taxation at the time of purchase.
+12 (3) The license authorizes the license holder to sell, at retail, at the place
+13 described in the license:
+14 (i) beer and wine for on–premises consumption; and
+15 (ii) beer for off–premises consumption.
+16 (d) (1) The Board may issue the license with a catering option.
+17 (2) In addition to exercising the privileges stated in subsection (c)(3) of this
+18 section, a holder of a license with a catering option may sell beer and wine for consumption
+19 at events that the license holder caters off the licensed premises ANYWHERE IN THE
+20 COUNTY TO A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT
+21 HAVE A LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+22 (3) To exercise the catering option, the license holder shall provide food at
+23 the catered event.
+24 (4) The license holder may exercise the catering option only during the
+25 hours and days that the Board allows.
+26 (5) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+27 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+28 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+29 AND WAIT STAFF;
+30 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+31 ALL TIMES DURING THE CATERED EVENT; AND
+
+HOUSE BILL 1203 11
+1 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+2 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+3 ARTICLE.
+4 (e) The annual license fees are:
+5 (1) $500 for a 6–day license without a catering option;
+6 (2) $625 for a 6–day license with a catering option;
+7 (3) $585 for a 7–day license without a catering option; and
+8 (4) $710 for a 7–day license with a catering option.
+9 (f) The Board shall charge a one–time issuing fee for a new license in an amount
+10 equal to the annual license fee.
+11 21–804.1.
+12 (a) There is a Class BDR–DC (deluxe complex restaurant) beer and wine license.
+13 (b) The license may be issued to a holder of:
+14 (1) any Class B alcoholic beverages license issued by the Board; or
+15 (2) an equivalent license that the local licensing board of a different
+16 jurisdiction issues only for use by a restaurant.
+17 (c) (1) The Board may issue the license for use by a deluxe complex restaurant,
+18 as defined in the regulations of the Board, that:
+19 (i) has seating for at least 20 individuals; and
+20 (ii) has a minimum capital investment of $25,000 for the restaurant
+21 facilities, not including the cost of land or buildings.
+22 (2) If the applicant purchases or leases an existing building, the capital
+23 investment attributable to the cost of the land and improvements shall be based on the
+24 assessed value of the land and improvements in accordance with the records of the State
+25 Department of Assessments and Taxation at the time of purchase.
+26 (3) The license authorizes the license holder to sell, at retail, at the place
+27 described in the license:
+28 (i) beer and wine for on–premises consumption; and
+29 (ii) beer for off–premises consumption.
+
+12 HOUSE BILL 1203
+1 (d) (1) The Board may issue the license with a catering option.
+2 (2) In addition to exercising the privileges stated in subsection (c)(3) of this
+3 section, a holder of a license with a catering option may sell beer and wine for consumption
+4 at events that the license holder caters off the licensed premises ANYWHERE IN THE
+5 COUNTY TO A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT
+6 HAVE A LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+7 (3) To exercise the catering option, the license holder shall provide food at
+8 the catered event.
+9 (4) The license holder may exercise the catering option only during the
+10 hours and days that the Board allows.
+11 (5) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+12 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+13 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+14 AND WAIT STAFF;
+15 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+16 ALL TIMES DURING THE CATERED EVENT; AND
+17 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+18 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+19 ARTICLE.
+20 (e) The annual license fees are:
+21 (1) $500 for a 6–day license without a catering option;
+22 (2) $625 for a 6–day license with a catering option;
+23 (3) $585 for a 7–day license without a catering option; and
+24 (4) $710 for a 7–day license with a catering option.
+25 (f) The Board shall:
+26 (1) charge a one–time issuing fee for a new license in an amount equal to
+27 the annual license fee; and
+28 (2) adopt regulations to carry out this section.
+29 21–806.
+
+HOUSE BILL 1203 13
+1 (a) There is a Class D beer and wine license.
+2 (b) The license authorizes the license holder to sell beer and wine, at retail, at the
+3 place described in the license, for on– and off–premises consumption.
+4 (c) (1) The Board may issue the license with a catering option.
+5 (2) In addition to exercising the privileges stated in subsection (b) of this
+6 section, a holder of a license with a catering option may sell beer and wine for consumption
+7 at events that the license holder caters off the licensed premises ANYWHERE IN THE
+8 COUNTY TO A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT
+9 HAVE A LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+10 (3) To exercise the catering option, the license holder shall provide food at
+11 the catered event.
+12 (4) The license holder may exercise the catering option only during the
+13 hours and days that the Board allows.
+14 (5) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+15 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+16 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+17 AND WAIT STAFF;
+18 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+19 ALL TIMES DURING THE CATERED EVENT; AND
+20 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+21 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+22 ARTICLE.
+23 (d) The license may not be issued for use by a drugstore.
+24 (e) The annual license fees are:
+25 (1) $350 for a 6–day license without a catering option;
+26 (2) $475 for a 6–day license with a catering option;
+27 (3) $410 for a 7–day license without a catering option; and
+28 (4) $535 for a 7–day license with a catering option.
+
+14 HOUSE BILL 1203
+1 (f) The Board shall charge a one–time issuing fee for a new license in an amount
+2 equal to the annual license fee.
+3 21–902.
+4 (a) There is a Class B beer, wine, and liquor license.
+5 (b) The Board shall deny an application for a license under this section if the
+6 Board determines that the business to be operated under this license will not enhance
+7 recreational, business, and economic development in the county.
+8 (c) The Board may issue the license for use by a hotel or motel that:
+9 (1) is an establishment to accommodate the public by providing customary
+10 hotel or motel services;
+11 (2) has at least 10 rooms; and
+12 (3) has a lobby with a registration and mail desk and seating facilities.
+13 (d) The Board may issue the license for use by a restaurant that:
+14 (1) has seating at tables, not including seats at bars or counters, for at least
+15 20 individuals; and
+16 (2) can prepare and serve full–course meals for at least 20 individuals at
+17 one seating.
+18 (e) The license authorizes the license holder to sell at a hotel, motel, or restaurant
+19 at retail at the place described in the license:
+20 (1) beer, wine, and liquor for on–premises consumption; and
+21 (2) beer for off–premises consumption.
+22 (f) (1) The catering option authorizes the license holder to sell beer, wine, and
+23 liquor for consumption at events catered by the license holder [in the county] off the
+24 licensed premises ANYWHERE IN THE COUNTY TO A PERSON OF LEGAL DRINKING AGE
+25 ON PREMISES THAT EITHER DO NOT HAVE A LICENSE OR HAVE A TEMPORARY
+26 LICENSE ISSUED BY THE BOARD.
+27 (2) A license holder providing alcoholic beverages at a catered event off the
+28 licensed premises shall also provide food.
+29 (3) The license holder may exercise catering privileges only during hours
+30 and days that are authorized under the Class B license.
+
+HOUSE BILL 1203 15
+1 (4) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+2 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+3 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+4 AND WAIT STAFF;
+5 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+6 ALL TIMES DURING THE CATERED EVENT; AND
+7 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+8 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+9 ARTICLE.
+10 (g) The annual license fees are:
+11 (1) $1,500 for a 6–day license without the catering option;
+12 (2) $2,000 for a 6–day license with the catering option;
+13 (3) $1,750 for a 7–day license without the catering option; and
+14 (4) $2,250 for a 7–day license with the catering option.
+15 (h) The Board shall charge a one–time issuing fee for a new license in an amount
+16 equal to the annual license fee.
+17 21–903.
+18 (a) There is a Class BDR (deluxe restaurant) beer, wine, and liquor license.
+19 (b) The Board may issue the license to a holder of:
+20 (1) any Class B alcoholic beverages license issued by the Board; or
+21 (2) an equivalent license that the local licensing board of a different
+22 jurisdiction issues only for use by a restaurant.
+23 (c) (1) The Board may issue the license for use by a deluxe restaurant as
+24 defined by the Board with:
+25 (i) seating at tables, not including seats at bars or counters, for at
+26 least 20 individuals; and
+27 (ii) a capital investment of at least $250,000 for the restaurant
+28 facilities, not including the cost of land or buildings.
+
+16 HOUSE BILL 1203
+1 (2) If an applicant purchases or leases an existing building, the capital
+2 investment attributable to the cost of the land and improvements shall be based on the
+3 assessed value of the land and improvements in accordance with the records of the State
+4 Department of Assessments and Taxation at the time of purchase or lease.
+5 (3) The license authorizes the license holder to sell, at retail, at the place
+6 described in the license:
+7 (i) beer, wine, and liquor for on–premises consumption; and
+8 (ii) beer for off–premises consumption.
+9 (d) (1) A license holder of a Class BDR license may acquire a catering option
+10 that authorizes the license holder to sell beer, wine, and liquor for consumption at events
+11 catered by the license holder [in the county] off the licensed premises ANYWHERE IN THE
+12 COUNTY TO A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT
+13 HAVE A LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+14 (2) A license holder providing alcoholic beverages at a catered event off the
+15 licensed premises shall also provide food.
+16 (3) The license holder may exercise catering privileges only during hours
+17 and days that are authorized under the Class B license.
+18 (4) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+19 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+20 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+21 AND WAIT STAFF;
+22 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+23 ALL TIMES DURING THE CATERED EVENT; AND
+24 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+25 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+26 ARTICLE.
+27 (e) The annual license fees are:
+28 (1) $2,250 for a 6–day license without a catering option;
+29 (2) $2,750 for a 6–day license with a catering option;
+30 (3) $2,625 for a 7–day license without a catering option; and
+31 (4) $3,125 for a 7–day license with a catering option.
+
+HOUSE BILL 1203 17
+1 (f) The Board shall charge a one–time issuing fee for a new license in an amount
+2 equal to the annual license fee.
+3 21–903.1.
+4 (a) There is a Class BDR–DC (deluxe complex restaurant) beer, wine, and liquor
+5 license.
+6 (b) The Board may issue the license to a holder of:
+7 (1) any Class B alcoholic beverages license issued by the Board; or
+8 (2) an equivalent license that the local licensing board of a different
+9 jurisdiction issues only for use by a restaurant.
+10 (c) (1) The Board may issue the license for use by a deluxe complex restaurant,
+11 as defined in the regulations of the Board, with:
+12 (i) seating at tables, not including seats at bars or counters, for at
+13 least 20 individuals; and
+14 (ii) a capital investment of at least $250,000 for the restaurant
+15 facilities, not including the cost of land or buildings.
+16 (2) If an applicant purchases or leases an existing building, the capital
+17 investment attributable to the cost of the land and improvements shall be based on the
+18 assessed value of the land and improvements in accordance with the records of the State
+19 Department of Assessments and Taxation at the time of purchase or lease.
+20 (3) The license authorizes the license holder to sell, at retail, at the place
+21 described in the license:
+22 (i) beer, wine, and liquor for on–premises consumption; and
+23 (ii) beer for off–premises consumption.
+24 (d) (1) A license holder of a Class BDR–DC (deluxe complex restaurant) license
+25 may acquire a catering option that authorizes the license holder to sell beer, wine, and
+26 liquor for consumption at events catered by the license holder [in the county] off the
+27 licensed premises ANYWHERE IN THE COUNTY TO A PERSON OF LEGAL DRINKING AGE
+28 ON PREMISES THAT EITHER DO NOT HAVE A LICENSE OR HAVE A TEMPORARY
+29 LICENSE ISSUED BY THE BOARD.
+30 (2) A license holder providing alcoholic beverages at a catered event off the
+31 licensed premises shall also provide food.
+
+18 HOUSE BILL 1203
+1 (3) The license holder may exercise catering privileges only during hours
+2 and days that are authorized under the Class B license.
+3 (4) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+4 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+5 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+6 AND WAIT STAFF;
+7 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+8 ALL TIMES DURING THE CATERED EVENT; AND
+9 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+10 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+11 ARTICLE.
+12 (e) The annual license fees are:
+13 (1) $2,250 for a 6–day license without a catering option;
+14 (2) $2,750 for a 6–day license with a catering option;
+15 (3) $2,625 for a 7–day license without a catering option; and
+16 (4) $3,125 for a 7–day license with a catering option.
+17 (f) The Board shall:
+18 (1) charge a one–time issuing fee for a new license in an amount equal to
+19 the annual license fee; and
+20 (2) adopt regulations to carry out this section.
+21 21–905.
+22 (a) (1) There is:
+23 (i) a Class D (75% on–sale) beer, wine, and liquor license; and
+24 (ii) a Class D (75% off–sale) beer, wine, and liquor license.
+25 (2) The Board may not issue a license under this section to a grocery store
+26 whose primary business is to sell food at retail to the public for off–premises consumption.
+
+HOUSE BILL 1203 19
+1 (b) The Board shall issue the license for on–premises consumption for use by an
+2 establishment whose total beer, wine, and liquor sales are at least 75% on–premises
+3 consumption and not more than 25% off–premises consumption.
+4 (c) The Board shall issue the license for off–sale consumption for use by an
+5 establishment whose total beer, wine, and liquor sales are at least 75% off–premises
+6 consumption and not more than 25% on–premises consumption.
+7 (d) (1) A holder of the license with a catering option may sell beer, wine, and
+8 liquor for consumption at events that the holder caters off the licensed premises during the
+9 hours and days that the Board allows.
+10 (2) The license holder shall provide food if the license holder provides
+11 alcoholic beverages at a catered event off the licensed premises ANYWHERE IN THE
+12 COUNTY TO A PERSON OF LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT
+13 HAVE A LICENSE OR HAVE A TEMPORARY LICENSE ISSUED BY THE BOARD.
+14 (3) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+15 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+16 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+17 AND WAIT STAFF;
+18 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+19 ALL TIMES DURING THE CATERED EVENT; AND
+20 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+21 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+22 ARTICLE.
+23 (e) The annual license fees are:
+24 (1) $1,500 for a 6–day (on–sale) license without a catering option;
+25 (2) $2,000 for a 6–day (on–sale) license with a catering option;
+26 (3) $3,000 for a 6–day (off–sale) license;
+27 (4) $1,750 for a 7–day (on–sale) license without a catering option;
+28 (5) $2,250 for a 7–day (on–sale) license with a catering option; and
+29 (6) $3,500 for a 7–day (off–sale) license.
+30 (f) The Board shall charge a one–time issuing fee for a new license in an amount
+31 equal to the annual license fee.
+
+20 HOUSE BILL 1203
+1 21–1002.1.
+2 (a) There is a Class B–resort beer and wine license.
+3 (b) The Board may issue the license to a license holder for a complex that has at
+4 least two facilities that are:
+5 (1) located on the same contiguous property;
+6 (2) separated by at least 150 feet from the main area of the licensed
+7 premises; and
+8 (3) determined by the Board to be hotel, motel, recreational, or restaurant
+9 facilities.
+10 (c) The license authorizes the license holder to sell at a hotel, motel, recreational,
+11 or restaurant facility at retail at the place described in the license:
+12 (1) beer and wine for on–premises consumption; and
+13 (2) beer for off–premises consumption.
+14 (d) The license holder may sell beer and wine during the hours and days as set
+15 out for a Class B beer and wine license under § 21–2003 of this title.
+16 (e) (1) THE BOARD MAY ISSUE THE LICENSE WITH OR WITHOUT A
+17 CATERING OPTION.
+18 (2) A LICENSE HOLDER WITH A CATERING OPTION MAY SELL
+19 ALCOHOLIC BEVERAGES FOR CONSUMPTION AT EVENTS CATERED BY THE LICENSE
+20 HOLDER OFF THE LICENSED PREMISES ANYWHERE IN THE COUNTY TO A PERSON OF
+21 LEGAL DRINKING AGE ON PREMISES THAT EITHER DO NOT HAVE A LICENSE OR HAVE
+22 A TEMPORARY LICENSE ISSUED BY THE BOARD.
+23 (3) A LICENSE HOLDER PROVIDING ALCOHOLIC BEVERAGES AT A
+24 CATERED EVENT OFF THE LICENSED PREMISES SHALL ALSO PROVIDE FOOD.
+25 (4) THE LICENSE HOLDER MAY EXERCISE CATERING PRIVILEGES
+26 ONLY DURING HOURS AND DAYS THAT ARE AUTHORIZED UNDER THE CLASS B
+27 LICENSE.
+28 (5) AT EACH CATERED EVENT WHERE ALCOHOLIC BEVERAGES ARE
+29 SERVED, THE HOLDER OF THE CATERING OPTION SHALL:
+
+HOUSE BILL 1203 21
+1 (I) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS
+2 AND WAIT STAFF;
+3 (II) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT
+4 ALL TIMES DURING THE CATERED EVENT; AND
+5 (III) HAVE AT LEAST ONE PERSON AT THE CATERED EVENT WHO
+6 IS CERTIFIED BY AN ALCOHOL AWARENESS PROGRAM UNDER § 4–505 OF THIS
+7 ARTICLE.
+8 (F) The annual license fees are:
+9 (1) $700 for a 6–day license for two facilities;
+10 (2) $350 for each additional facility for a 6–day license;
+11 (3) $820 for a 7–day license for two facilities; and
+12 (4) $410 for each additional facility for a 7–day license.
+13 [(f)] (G) The Board shall charge a one–time issuing fee for a new license in an
+14 amount equal to the annual license fee.
+15 21–1201.
+16 (a) There is a local caterer’s license.
+17 (b) (1) The Board may issue the license to a person that:
+18 (i) has facilities to prepare and deliver food to the site of a catered
+19 event;
+20 (ii) obtains approval of the facilities from the county Department of
+21 Health; and
+22 (iii) does not hold any other license that the Board issues.
+23 (2) A license holder is not required to have a banquet hall.
+24 (c) The license authorizes a holder to:
+25 (1) sell or provide off–sale alcoholic beverages during a catered event; and
+26 (2) exercise the privileges of the license only during the hours and on the
+27 days that are authorized for a Class B beer, wine, and liquor license.
+
+22 HOUSE BILL 1203
+1 (d) A LICENSE HOLDER MAY SERVE ALCOHOLIC BEVERAGES AT A CATERED
+2 EVENT ANYWHERE IN THE COUNTY TO A PERSON OF LEGAL DRINKING AGE ON
+3 PREMISES THAT EITHER DO NOT HAVE A LICENSE OR HAVE A TEMPORARY LICENSE
+4 ISSUED BY THE BOARD.
+5 (E) The license holder may not:
+6 (1) hold a catered event that the license holder sponsors; or
+7 (2) provide only alcoholic beverages at a catered event.
+8 [(e)] (F) The license holder shall:
+9 (1) purchase all alcoholic beverages from a wholesaler or retail dealer
+10 licensed to sell alcoholic beverages in the county;
+11 (2) contract for and provide food for consumption at the catered event;
+12 (3) SUPPLY SERVICE PERSONNEL, INCLUDING BARTENDERS AND
+13 WAIT STAFF;
+14 (4) ENSURE THAT THE SERVICE PERSONNEL ARE PRESENT AT ALL
+15 TIMES DURING THE CATERED EVENT;
+16 (5) ENSURE THAT THE SALE OF FOOD REPRESENTS AT LEAST 70% OF
+17 THE TOTAL COST OF THE CATERED EVENT;
+18 [(3)] (6) during the catered event, ensure that at least one individual on
+19 the site is certified by an alcohol awareness program under § 4–505 of this article; and
+20 [(4)] (7) at the end of the catered event, return all containers of alcoholic
+21 beverages that are not empty to the license holder’s principal place of business.
+22 [(f)] (G) (1) The issuing fee that is charged for each new license is $500.
+23 (2) The annual license fee is $500.
+24 21–1408.
+25 (a) At the time an application for an alcoholic beverages license is filed, at least
+26 one of the applicants shall be a resident of the State.
+27 (b) AN APPLICANT FOR A LICENSE IN THE COUNTY SHALL INCLUDE ON THE
+28 APPLICATION:
+
+HOUSE BILL 1203 23
+1 (1) A STATEMENT INDICATING WHETHER THE APPLICANT IS A
+2 NATURAL–BORN CITIZEN OR A NATURALIZED CITIZEN; OR
+3 (2) IF THE APPLICANT IS NOT A CITIZEN OF THE UNITED STATES:
+4 (I) A STATEMENT THAT THE APPLICANT’S IMMIGRATION
+5 STATUS IS IN COMPLIANCE WITH FEDERAL LAW; AND
+6 (II) EVIDENCE TO VERIFY THE IMMIGRATION STATUS OF THE
+7 APPLICANT.
+8 (C) The license remains valid only for as long as at least one of the applicants
+9 remains a resident of the State.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+11 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      6   C A G F G t c o c t e a t c s o a a a g r t a b B  A S  A  ( B  A S 2 a ( 2 2 2 2 2 2 2  A  (]
+[DELETED:  H  B  A S  A  (  S T A 2  T 2  ( ( T G s a t m t t B O .   ( T    ( i a    ( i t i n r S e f t c w c  ( ( E    ( a    ( a b   ( A b   ( ( T p    ( O o ( T:]
+[DELETED: H 3  () M OT   ()IH A O T P A D O A R O. 2  ( ( S o   ( T  ( ( I t .   ( W f  ( T   ( a   ( ( l    ( f 2  ( T f s o T 2 S 2 ( L o D   ( §   ( §   () §   () §](   () §](   () §](   () §](]
+[DELETED:  H    () §](   () §](   () § 2 ( b m e a]( r   () § 2 ( o a b – P]( p   () § 2 ( a b p a]( r  ( T f s o T 2 S 2 ( L o D   ( §   ( § t   ( §   (25(C3”,§2 L  E     ( []§§ § 2 ( 4 l w l s t § 2552  o   () §]( t   () §]( t() TSEP.H P V E() TBCH O L   L  4.() TH P A T H T S F ONPR R ]
+[DELETED: H 5D () ( H U  T. (   () FE   () ,IS AS I T FNPE ;  () SIA A A T C W T TESE() T:H ( A D O I P I I TY  ( T G P T E A P O T() THR  ND O() ( H P H S K A R F O A B F  Y A T D O (  O.()   O A L  D B T E I T O O A F O.]
+[DELETED:  H () T:H ( ,L F P A A T D T P E W F OE  ( L O P H O O E W I   4() ( T3H  ( A  T() ( AM  O A  AM   AM ..2... ( S6..:  AM   () 111;C      ()IA C E D I W T V I A R UH.() HRS() ( T$H ( TB OETE 2  ( T  ( T c   ( a]
+[DELETED: H 7    ( a    ( p    ( i a    ( h   ( a    ( h 2    ( c p a s f m f a l 2 i  ( ( T   ( A a O .   ( T    ( s o    ( m t ( AD   () S S PL I B  ()IET   ()IH C B A A A P U   O T4]
+[DELETED:  H   ( T   ( $   ( $   ( $   ( $  ( T e 2  ( T  ( ( T    ( a     1 p i     2 i e w a l 1 b f p a     3 h f    ( a     1 h s a t n i s a b o c     2 c i   ( T d    ( b    ( b  ( ( T]
+[DELETED: H 9   ( I s a e t t l h c o t l p I O .   ( T t   ( T h ( D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4  ( T   ( $   ( $   ( $   ( $  ( T e 2  ( T  ( T   ( a]
+[DELETED:  H    ( a e l t t l l b o a d j  ( ( T B m i t l f u b a d r a d    ( h    ( h f   ( I i a D   ( T d    ( b    ( b  ( ( T   ( I s a e t t l h c o t l p I O .   ( T t   ( T h   D :  () S S PL I B  ()IET ]
+[DELETED: H 1  ()IH C B A A A P U   O T4  ( T   ( $   ( $   ( $   ( $  ( T e 2  ( T  ( T   ( a   ( a e l t t l l b o a d j  ( ( T a    ( h    ( h f   ( I i a D   ( T d    ( b    ( b]
+[DELETED:  H   ( ( T   ( I s a e t t l h c o t l p I O .   ( T t   ( T d h ( D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4  ( T   ( $   ( $   ( $   ( $  ( T   ( c t   ( a 2]
+[DELETED: H 1  ( T  ( T p  ( ( T   ( I s a e t t l h c o t l p I O .   ( T t   ( T h   D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4   ( T  ( T   ( $   ( $   ( $   ( $]
+[DELETED:  H   ( T e 2  ( T  ( T B r  ( T   ( i h   ( h   ( h  ( T   ( h 2   ( c o  ( T a   ( b   ( b  ( ( T l f c a e c b t l h i t cy o t l P T E D N H A L O H A T O .   ( A l   ( T a]
+[DELETED: H 1 ( D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4   ( T   ( $   ( $   ( $   ( $  ( T e 2  ( T  ( T   ( a   ( a e l t t l l b o a d j  ( ( T B m i t l f u b a d r a d    ( s l    ( a c i o a l $ f t r f]
+[DELETED:  H    ( I a p o l a e b t i a D   ( T d    ( b    ( b  ( ( A t c iy  O .   ( A l   ( T a   D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4   ( T   ( $   ( $   ( $   ( $]
+[DELETED: H 1  ( T e 2  ( T l  ( T   ( a   ( a e l t t l l b o a d j  ( ( T a    ( s l    ( a c i o a l $ f t r f   ( I a p o l a e b t i a D   ( T d    ( b    ( b  ( ( A m l f c a e c b t l h i t cy o t l P T E D N H A L O H A T O .   ( A l]
+[DELETED:  H    ( T a   D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4  ( T   ( $   ( $   ( $   ( $  ( T   ( c t   ( a 2  ( ( T    ( a    ( a   ( T w]
+[DELETED: H 1  ( T e w t b w a l s a a l 7 o c  ( T B s i t l f o c f u b a e w t b w a l s a a l 7 o c  ( ( A l h   ( T l h s p f i t l h p a b a a c e o t l p I T O .   D :  () S S PL I B  ()IET   ()IH C B A A A P U   O T4  ( T   ( $   ( $   ( $   ( $   ( $   ( $  ( T e]
+[DELETED:  H  2  ( T  ( T l   ( l   ( s b a l 1 f f t m a o t l p   ( d f  ( T o   ( b   ( b  ( T o  (( T O M I T L W O W A ( L H W A C O M S O. ( L H P A B A A (  L H M E C P D H A D T A A U T L  ( D :]
+[DELETED: H 2  () S S PL I B  ()IET   ()IH C B A A A P U   O T4   T   ( $   ( $   ( $   ( $  () T]( a 2  ( T  ( ( T    ( h e    ( o H    ( d   ( A  ( T   ( s   ( e d]
+[DELETED:  H   ( A I T C T A P O L D A O O.  T)   ( h   ( p  () T](   ( p a a b f a w o r d l   ( c   ) S PL I B A ( T T S P A P A A ( 7     ()d]( t   () a]( b  () ( T](   ( T 2  ( A o  (]
+[DELETED: H 2 ( S I W T A I ALBN ; ( US: N T  () A S T T ATS IW   ()IE T V T I S O T  T) r  S 1          G               ]
