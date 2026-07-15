@@ -1,0 +1,373 @@
+Title: (House Bill 1279)
+Official Title: (House Bill 1279)
+Number of Sections: 8
+Source: versions - Chapter - Catalytic Revitalization Project Tax Credit - Alterations
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 310
+Chapter 310
+AN ACT concerning
+Catalytic Revitalization Project Tax Credit – Alterations
+FOR the purpose of altering eligibility for and the manner for claiming a certain credit
+against the State income tax that certain persons may claim for certain construction
+and rehabilitation costs for certain catalytic revitalization projects in the State;
+altering certain limitations on the Secretary of Housing and Community
+Development to accept certain applications and award certain tax credit certificates
+adding applications promoting certain workforce housing to the types of applications
+that certain regulations governing the application process for the catalytic
+revitalization project tax credit must emphasize; and generally relating to the
+catalytic revitalization project tax credit.
+BY repealing and reenacting, without amendments,
+Article – Housing and Community Development
+
+Section 2:
+Section 4–1801(l) and 6–903(a)
+Annotated Code of Maryland
+(2019 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Housing and Community Development
+
+Section 3:
+Section 6–901, 6–902, and 6–903(b) 6–901 and 6–904
+Annotated Code of Maryland
+(2019 Replacement Volume and 2025 Supplement)
+
+Section 4:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Housing and Community Development
+4–1801.
+(l) “Workforce housing” means:
+(1) rental housing that is affordable for a household with an aggregate
+annual income between 50% and 100% of the area median income; or
+(2) homeownership housing that:
+(i) except as provided in item (ii) of this item, is affordable to a
+household with an aggregate annual income between 60% and 120% of the area median
+income; or
+– 1 –
+Ch. 310 2026 LAWS OF MARYLAND
+(ii) in target areas that are recognized by the Secretary for purposes
+of administering the Maryland Mortgage Program, is affordable to a household with an
+aggregate annual income between 60% and 150% of the area median income.
+6–901.
+(A) In this subtitle[, “catalytic] THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+(B) “CATALYTIC revitalization project” means the substantial rehabilitation of a
+property in the State:
+(1) [that was formerly owned by the State or the federal government;
+(2)] the rehabilitation of which will foster economic, housing, and
+community development within the community in which the property is located; and
+(2) (I) 1. A. THAT WAS FORMERLY OWNED BY THE FEDERAL
+GOVERNMENT; OR
+B. THAT WAS FORMERLY OR IS CURRENTLY OWNED BY
+THE STATE; AND
+[(3)] 2. that is out of service and was formerly used as a college or
+university, K–12 school, hospital, mental health facility, or military facility or installation;
+OR
+(II) THAT IS LOCATED:
+
+Section 5:
+1. WITHIN A TRANSIT–ORIENTED DEVELOPMENT OR A
+SITE PENDING DESIGNATION AS A TRANSIT–ORIENTED DEVELOPMENT;
+
+Section 6:
+2. ON A PARCEL OF REAL PROPERTY SHARING A
+BOUNDARY LINE WITH A SITE DESCRIBED UNDER ITEM 1 OF THIS ITEM; OR
+
+Section 7:
+3. WITHIN A ONE–HALF MILE RADIUS OF A PASSENGER
+BOARDING AND ALIGHTING LOCATION OF A SUBWAY, LIGHT RAIL, OR RAILROAD.
+(C) “TRANSIT–ORIENTED DEVELOPMENT” HAS THE MEANING STATED IN §
+7–101 OF THE TRANSPORTATION ARTICLE.
+– 2 –
+WES MOORE, Governor Ch. 310
+(D) (C) “WORKFORCE HOUSING” HAS THE MEANING STATED IN § 4–1801
+OF THIS ARTICLE.
+(E) “WORKFORCE HOUSING PROJECT” MEANS A PROJECT IN WHICH AT
+LEAST 20% OF THE RESIDENTIAL UNITS PRODUCED ARE WORKFORCE HOUSING
+UNITS.
+6–902.
+(a) [An] EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, AN
+individual, a nonprofit organization, or a business entity may claim a tax credit in an
+amount equal to:
+(1) for a project issued a single tax credit certificate on completion, 20% of
+the amount stated in the final tax credit certificate issued by the Secretary under § 6–903
+of this subtitle for 5 consecutive taxable years beginning with the taxable year in which a
+final tax credit certificate is issued; or
+(2) for a phased project issued a tax credit certificate on completion of a
+phase, 100% of the amount stated in the final tax credit certificate issued by the Secretary
+under § 6–903 of this subtitle for the taxable year in which the final tax credit certificate is
+issued.
+(b) IF THE PROJECT IS A WORKFORCE HOUSING PROJECT, AN INDIVIDUAL,
+A NONPROFIT ORGANIZATION, OR A BUSINESS ENTITY MAY CLAIM THE TAX CREDIT
+IN AN AMOUNT EQUAL TO:
+(1) ONE–HALF OF THE AMOUNT STATED IN A FINAL TAX CREDIT
+CERTIFICATE ISSUED BY THE SECRETARY UNDER § 6–903 OF THIS SUBTITLE THAT
+IS ATTRIBUTABLE TO THE PRODUCTION OF THE WORKFORCE HOUSING UNITS IN THE
+TAXABLE YEAR IN WHICH THE FINAL TAX CREDIT CERTIFICATE IS ISSUED AND THE
+IMMEDIATELY FOLLOWING TAXABLE YEAR; AND
+(2) ONE–THIRD OF THE AMOUNT STATED IN THE FINAL TAX CREDIT
+CERTIFICATE ISSUED BY THE SECRETARY UNDER § 6–903 OF THIS SUBTITLE THAT
+IS ATTRIBUTABLE TO PROJECT COSTS NOT ATTRIBUTABLE TO THE PRODUCTION OF
+THE WORKFORCE HOUSING UNITS IN EACH OF THE 3 CONSECUTIVE TAXABLE YEARS
+FOLLOWING THE TAXABLE YEARS DESCRIBED UNDER ITEM (1) OF THIS SUBSECTION.
+(C) The Comptroller or the Secretary may not recapture a tax credit authorized
+under this subtitle if:
+(1) the catalytic revitalization project is transferred, in whole or in part, by
+fee simple transfer of real property or by transfer of an ownership interest in the entity
+that owns the project to a new owner; and
+– 3 –
+Ch. 310 2026 LAWS OF MARYLAND
+(2) the Secretary has issued a final tax credit certificate for the catalytic
+revitalization project under § 6–903 of this subtitle.
+[(c)] (D) The Secretary may issue multiple final tax credit certificates for a
+project that is issued an initial tax certificate under this section if:
+(1) the project has been determined by the Secretary to be in phases;
+(2) a phase of the project has been completed;
+(3) a final tax credit certificate is not issued for more than 20% of the
+project’s eligible expenses to date; and
+(4) a final tax credit certificate is not issued that would exceed the
+aggregated limit of a project’s credit under § 6–903(b) of this subtitle.
+6–903.
+(a) (1) Subject to the limitations of paragraph (2) of this subsection and
+subsection (b) of this section, on application by an individual, a nonprofit organization, or
+a business entity, the Secretary shall issue:
+(i) an initial tax credit certificate in an amount equal to 20% of the
+individual’s, nonprofit organization’s, or business entity’s estimated new construction costs
+and rehabilitation costs for the project; and
+(ii) on completion of the catalytic revitalization project or a phase of
+the catalytic revitalization project, a final tax credit certificate in an amount equal to 20%
+of the individual’s, nonprofit organization’s, or business entity’s actual new construction
+costs and rehabilitation costs for the project.
+(2) For purposes of calculating the credit authorized under paragraph (1)
+of this subsection, new construction costs:
+(i) must be related to the construction of new structures that
+connect, expand, or integrate the existing structures to be rehabilitated; and
+(ii) may not exceed 50% of the total costs of the catalytic
+revitalization project.
+(b) (1) Except as provided in paragraph [(2)(ii)] (3)(II) of this subsection, the
+Secretary may not:
+(i) accept applications and award initial credit certificates for
+catalytic revitalization projects more than once [within a 2–year period] EACH YEAR; or
+– 4 –
+WES MOORE, Governor Ch. 310
+(ii) issue tax credit certificates for credit amounts in the aggregate
+totaling more than [$15,000,000 within a 2–year period] $30,000,000 EACH YEAR.
+(2) THE SECRETARY MAY NOT ACCEPT APPLICATIONS AND AWARD
+INITIAL CREDIT CERTIFICATES FOR CATALYTIC REVITALIZATION PROJECTS THAT
+ARE TRANSIT–ORIENTED DEVELOPMENT PROJECTS OR WORKFORCE HOUSING
+PROJECTS UNLESS THE SECRETARY CERTIFIES THAT THE STATE HAS NOT YET MET
+CONTINUED PRODUCTION TARGETS FOR HOUSING UNITS.
+(3) (i) The Secretary may revoke an initial credit certificate on a finding
+by the Secretary that the recipient is not in compliance with the initial credit certificate or
+an agreement with the Department regarding the initial credit certificate.
+(ii) If the Secretary revokes an initial credit certificate under
+subparagraph (i) of this paragraph, the Secretary may award an initial credit certificate to
+another applicant, provided that the award does not exceed the amount of the revoked
+initial credit certificate.
+6–904.
+The Secretary, in consultation with the Department of Commerce, shall adopt
+regulations to carry out the provisions of this subtitle, including regulations that:
+(1) establish procedures and standards for certifying new construction
+costs and rehabilitation costs under this subtitle;
+(2) establish an application process for the issuance of tax credit
+certificates under this subtitle, with an emphasis on applications that promote affordable
+housing OR WORKFORCE HOUSING; and
+(3) establish procedures for the approval of project phases for tax credit
+certificates issued under this subtitle.
+
+Section 8:
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+1, 2026, and shall be applicable to all initial credit certificates issued for the catalytic
+revitalization project tax credit on or after July 1, 2026.
+Approved by the Governor, April 28, 2026.
+– 5 –
+[DELETED: W C r c f c c r p i t S c l o t S o H a C c r g t a p f t c p t c m e a g r t tAA(AA(S( “ ( r h t i a f a h w a a ( h  ( e a p i i ( o t i i a t a]
+[DELETED:  2   ( iIe,) [ () “A ( t () t r o w w f e h a  ()1 ATT    B TE ; []  2)t  () :IT   1  A TTO D O ATOT;   2 A P O R P S A  M ;   3 EHY L ) “T–”RTOT  1TA. R R]
+[DELETED: W C()() “W”§4 COG   () “WO H PT M A P I W A  O T R U P A W H( An]E()X B N  n o o a e m t c i a ( f ( f(,T LN  ( EH O T A S I A F T C E   §6R  ( ET E   §6    ).T) ( t]
+[DELETED:  2  ( t() T S m i m f t c c f a]( ( t ( a ( a f t c c i n i f m t 2 o t ( a f t c c i n i t w e t( ( S t t l o p ( o t s a  ( a  ( o ( F  ( m b r t t c o n s t  ( m n e 5 o t t c o t c( ( E () ]((I  ( a a a a i c c f wd;]
+[DELETED: W C  ( i $d.]$  ( E M A A TTO D P O W H E T ( T  ( I t S r a i c c uT S i c w t D o C s a ( e p a s f c n c ( e a a p f t i o t c ; ( eS 2 s b a t i c c i f t c]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 310
+Chapter 310
+(House Bill 1279)
+AN ACT concerning
+Catalytic Revitalization Project Tax Credit – Alterations
+FOR the purpose of altering eligibility for and the manner for claiming a certain credit
+against the State income tax that certain persons may claim for certain construction
+and rehabilitation costs for certain catalytic revitalization projects in the State;
+altering certain limitations on the Secretary of Housing and Community
+Development to accept certain applications and award certain tax credit certificates
+adding applications promoting certain workforce housing to the types of applications
+that certain regulations governing the application process for the catalytic
+revitalization project tax credit must emphasize; and generally relating to the
+catalytic revitalization project tax credit.
+BY repealing and reenacting, without amendments,
+Article – Housing and Community Development
+Section 4–1801(l) and 6–903(a)
+Annotated Code of Maryland
+(2019 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Housing and Community Development
+Section 6–901, 6–902, and 6–903(b) 6–901 and 6–904
+Annotated Code of Maryland
+(2019 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Housing and Community Development
+4–1801.
+(l) “Workforce housing” means:
+(1) rental housing that is affordable for a household with an aggregate
+annual income between 50% and 100% of the area median income; or
+(2) homeownership housing that:
+(i) except as provided in item (ii) of this item, is affordable to a
+household with an aggregate annual income between 60% and 120% of the area median
+income; or
+– 1 –
+
+Ch. 310 2026 LAWS OF MARYLAND
+(ii) in target areas that are recognized by the Secretary for purposes
+of administering the Maryland Mortgage Program, is affordable to a household with an
+aggregate annual income between 60% and 150% of the area median income.
+6–901.
+(A) In this subtitle[, “catalytic] THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+(B) “CATALYTIC revitalization project” means the substantial rehabilitation of a
+property in the State:
+(1) [that was formerly owned by the State or the federal government;
+(2)] the rehabilitation of which will foster economic, housing, and
+community development within the community in which the property is located; and
+(2) (I) 1. A. THAT WAS FORMERLY OWNED BY THE FEDERAL
+GOVERNMENT; OR
+B. THAT WAS FORMERLY OR IS CURRENTLY OWNED BY
+THE STATE; AND
+[(3)] 2. that is out of service and was formerly used as a college or
+university, K–12 school, hospital, mental health facility, or military facility or installation;
+OR
+(II) THAT IS LOCATED:
+1. WITHIN A TRANSIT–ORIENTED DEVELOPMENT OR A
+SITE PENDING DESIGNATION AS A TRANSIT–ORIENTED DEVELOPMENT;
+2. ON A PARCEL OF REAL PROPERTY SHARING A
+BOUNDARY LINE WITH A SITE DESCRIBED UNDER ITEM 1 OF THIS ITEM; OR
+3. WITHIN A ONE–HALF MILE RADIUS OF A PASSENGER
+BOARDING AND ALIGHTING LOCATION OF A SUBWAY, LIGHT RAIL, OR RAILROAD.
+(C) “TRANSIT–ORIENTED DEVELOPMENT” HAS THE MEANING STATED IN §
+7–101 OF THE TRANSPORTATION ARTICLE.
+– 2 –
+
+WES MOORE, Governor Ch. 310
+(D) (C) “WORKFORCE HOUSING” HAS THE MEANING STATED IN § 4–1801
+OF THIS ARTICLE.
+(E) “WORKFORCE HOUSING PROJECT” MEANS A PROJECT IN WHICH AT
+LEAST 20% OF THE RESIDENTIAL UNITS PRODUCED ARE WORKFORCE HOUSING
+UNITS.
+6–902.
+(a) [An] EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, AN
+individual, a nonprofit organization, or a business entity may claim a tax credit in an
+amount equal to:
+(1) for a project issued a single tax credit certificate on completion, 20% of
+the amount stated in the final tax credit certificate issued by the Secretary under § 6–903
+of this subtitle for 5 consecutive taxable years beginning with the taxable year in which a
+final tax credit certificate is issued; or
+(2) for a phased project issued a tax credit certificate on completion of a
+phase, 100% of the amount stated in the final tax credit certificate issued by the Secretary
+under § 6–903 of this subtitle for the taxable year in which the final tax credit certificate is
+issued.
+(b) IF THE PROJECT IS A WORKFORCE HOUSING PROJECT, AN INDIVIDUAL,
+A NONPROFIT ORGANIZATION, OR A BUSINESS ENTITY MAY CLAIM THE TAX CREDIT
+IN AN AMOUNT EQUAL TO:
+(1) ONE–HALF OF THE AMOUNT STATED IN A FINAL TAX CREDIT
+CERTIFICATE ISSUED BY THE SECRETARY UNDER § 6–903 OF THIS SUBTITLE THAT
+IS ATTRIBUTABLE TO THE PRODUCTION OF THE WORKFORCE HOUSING UNITS IN THE
+TAXABLE YEAR IN WHICH THE FINAL TAX CREDIT CERTIFICATE IS ISSUED AND THE
+IMMEDIATELY FOLLOWING TAXABLE YEAR; AND
+(2) ONE–THIRD OF THE AMOUNT STATED IN THE FINAL TAX CREDIT
+CERTIFICATE ISSUED BY THE SECRETARY UNDER § 6–903 OF THIS SUBTITLE THAT
+IS ATTRIBUTABLE TO PROJECT COSTS NOT ATTRIBUTABLE TO THE PRODUCTION OF
+THE WORKFORCE HOUSING UNITS IN EACH OF THE 3 CONSECUTIVE TAXABLE YEARS
+FOLLOWING THE TAXABLE YEARS DESCRIBED UNDER ITEM (1) OF THIS SUBSECTION.
+(C) The Comptroller or the Secretary may not recapture a tax credit authorized
+under this subtitle if:
+(1) the catalytic revitalization project is transferred, in whole or in part, by
+fee simple transfer of real property or by transfer of an ownership interest in the entity
+that owns the project to a new owner; and
+– 3 –
+
+Ch. 310 2026 LAWS OF MARYLAND
+(2) the Secretary has issued a final tax credit certificate for the catalytic
+revitalization project under § 6–903 of this subtitle.
+[(c)] (D) The Secretary may issue multiple final tax credit certificates for a
+project that is issued an initial tax certificate under this section if:
+(1) the project has been determined by the Secretary to be in phases;
+(2) a phase of the project has been completed;
+(3) a final tax credit certificate is not issued for more than 20% of the
+project’s eligible expenses to date; and
+(4) a final tax credit certificate is not issued that would exceed the
+aggregated limit of a project’s credit under § 6–903(b) of this subtitle.
+6–903.
+(a) (1) Subject to the limitations of paragraph (2) of this subsection and
+subsection (b) of this section, on application by an individual, a nonprofit organization, or
+a business entity, the Secretary shall issue:
+(i) an initial tax credit certificate in an amount equal to 20% of the
+individual’s, nonprofit organization’s, or business entity’s estimated new construction costs
+and rehabilitation costs for the project; and
+(ii) on completion of the catalytic revitalization project or a phase of
+the catalytic revitalization project, a final tax credit certificate in an amount equal to 20%
+of the individual’s, nonprofit organization’s, or business entity’s actual new construction
+costs and rehabilitation costs for the project.
+(2) For purposes of calculating the credit authorized under paragraph (1)
+of this subsection, new construction costs:
+(i) must be related to the construction of new structures that
+connect, expand, or integrate the existing structures to be rehabilitated; and
+(ii) may not exceed 50% of the total costs of the catalytic
+revitalization project.
+(b) (1) Except as provided in paragraph [(2)(ii)] (3)(II) of this subsection, the
+Secretary may not:
+(i) accept applications and award initial credit certificates for
+catalytic revitalization projects more than once [within a 2–year period] EACH YEAR; or
+– 4 –
+
+WES MOORE, Governor Ch. 310
+(ii) issue tax credit certificates for credit amounts in the aggregate
+totaling more than [$15,000,000 within a 2–year period] $30,000,000 EACH YEAR.
+(2) THE SECRETARY MAY NOT ACCEPT APPLICATIONS AND AWARD
+INITIAL CREDIT CERTIFICATES FOR CATALYTIC REVITALIZATION PROJECTS THAT
+ARE TRANSIT–ORIENTED DEVELOPMENT PROJECTS OR WORKFORCE HOUSING
+PROJECTS UNLESS THE SECRETARY CERTIFIES THAT THE STATE HAS NOT YET MET
+CONTINUED PRODUCTION TARGETS FOR HOUSING UNITS.
+(3) (i) The Secretary may revoke an initial credit certificate on a finding
+by the Secretary that the recipient is not in compliance with the initial credit certificate or
+an agreement with the Department regarding the initial credit certificate.
+(ii) If the Secretary revokes an initial credit certificate under
+subparagraph (i) of this paragraph, the Secretary may award an initial credit certificate to
+another applicant, provided that the award does not exceed the amount of the revoked
+initial credit certificate.
+6–904.
+The Secretary, in consultation with the Department of Commerce, shall adopt
+regulations to carry out the provisions of this subtitle, including regulations that:
+(1) establish procedures and standards for certifying new construction
+costs and rehabilitation costs under this subtitle;
+(2) establish an application process for the issuance of tax credit
+certificates under this subtitle, with an emphasis on applications that promote affordable
+housing OR WORKFORCE HOUSING; and
+(3) establish procedures for the approval of project phases for tax credit
+certificates issued under this subtitle.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+1, 2026, and shall be applicable to all initial credit certificates issued for the catalytic
+revitalization project tax credit on or after July 1, 2026.
+Approved by the Governor, April 28, 2026.
+– 5 –
+
+[DELETED: W C r c f c c r p i t S c l o t S o H a C c r g t a p f t c p t c m e a g r t tAA(AA(S( “ ( r h t i a f a h w a a ( h  ( e a p i i ( o t i i a t a]
+[DELETED:  2   ( iIe,) [ () “A ( t () t r o w w f e h a  ()1 ATT    B TE ; []  2)t  () :IT   1  A TTO D O ATOT;   2 A P O R P S A  M ;   3 EHY L ) “T–”RTOT  1TA. R R]
+[DELETED: W C()() “W”§4 COG   () “WO H PT M A P I W A  O T R U P A W H( An]E()X B N  n o o a e m t c i a ( f ( f(,T LN  ( EH O T A S I A F T C E   §6R  ( ET E   §6    ).T) ( t]
+[DELETED:  2  ( t() T S m i m f t c c f a]( ( t ( a ( a f t c c i n i f m t 2 o t ( a f t c c i n i t w e t( ( S t t l o p ( o t s a  ( a  ( o ( F  ( m b r t t c o n s t  ( m n e 5 o t t c o t c( ( E () ]((I  ( a a a a i c c f wd;]
+[DELETED: W C  ( i $d.]$  ( E M A A TTO D P O W H E T ( T  ( I t S r a i c c uT S i c w t D o C s a ( e p a s f c n c ( e a a p f t i o t c ; ( eS 2 s b a t i c c i f t c]

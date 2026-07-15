@@ -1,0 +1,462 @@
+Title: Criminal Procedure - Domestic Violence Offenders - Registration
+Official Title: Criminal Procedure - Domestic Violence Offenders - Registration
+Number of Sections: 16
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2026 Session
+HB1363
+Bill Summary
+This bill requires a person, who is convicted of at least two domestically related crimes, to register
+with the person’s supervising authority. A domestic violence offender must register with the
+appropriate supervising authority in the State within seven days after a second conviction for a
+domestically related crime. A person is no longer subject to registration if the underlying
+conviction requiring registration is reversed, vacated, or set aside, or the registrant is pardoned for
+the underlying conviction. The bill requires the Department of Public Safety and Correctional
+Services (DPSCS) to make certain registration statements available to the public. The bill also
+establishes a penalty for failure to register.
+Racial Equity Impact Statement
+The bill would require specified domestic violence repeat offenders to register with a supervising
+authority and for a registrant’s identifying information to be posted on a public Internet site. Crime
+reporting data from the Department of State Police (DSP) provides a detailed picture of domestic
+violence victims and the multitude of underlying offenses involved. Just over half (52%) of
+domestically related crime victims in the State in 2024 were Black, and women comprised 68% of
+all victims. Black women were 58% of all domestic violence homicides in 2022. While there is no
+data readily available to precisely determine the demographic makeup of offenders, assault was
+the underlying offense for 84% of all domestically related crimes in 2024. Black individuals
+comprised 56% of the arrests for assault, including aggravated assault, during that time period.
+Given the DSP data, the impacts of the bill will likely be mixed. Victims or potential victims will
+benefit from the public safety aspects of having offender information available online. However,
+domestic violence offenders, a substantial portion of which may be Black, would be subject to
+reporting and monitoring requirements as well as any public scrutiny resulting from inclusion on
+the registry. Determination of any specific impacts would require additional data on those
+convicted of a domestically related crime two or more times.
+HB 1363/ Page 1
+Analysis
+The bill requires a person convicted of at least two domestically related crimes to register with the
+appropriate supervising authority in the State within seven days after a second conviction for a
+domestically related crime. The term of registration is graduated depending on the number of prior
+convictions. The bill also specifies penalties for failure to register, allows for registration fees, and
+authorizes DPSCS to promulgate regulations.
+A registration statement must include (1) the registrant’s full name, including any suffix; (2) a
+description of the crime for which the registrant was convicted; (3) the date that the registrant was
+convicted; (4) the jurisdiction and the name of the court in which the registrant was convicted;
+(5) all identifying factors, including a physical description of the registrant; (6) a copy of the
+registrant’s valid driver’s license or identification card; and (7) the registrant’s signature and date
+signed.
+DPSCS must make registration statements or information about them available to the public online
+and include (1) a current listing of each registrant, including each registrant’s name, date of birth,
+date of conviction, jurisdiction of the conviction, and digital image and (2) a plain language factual
+description of the crime of the offender that is the basis for the registration, excluding details that
+would identify the victim.
+Domestic Violence Data Collection
+Maryland has been collecting data involving domestic violence since the passage of the Domestic
+Violence Act of 1994, which requires all law enforcement agencies in the State to submit incident
+reports involving domestic violence to DSP. Chapter 554 of 2012 further improved the recording
+and tracking of domestic violence crimes within the court system by requiring all cases designated
+by a court to be a “domestically related crime” to become part of the court record for purposes of
+reporting to the Criminal Justice Information System Central Repository.
+The Administrative Office of the Courts houses the Domestic Violence Monthly Reports database,
+which contains data on protective and peace orders across the State. The database reports the total
+number of protective or peace orders by sex, race, age, and case type of the respondent and is
+searchable by county, month, and year; however, the database does not generate aggregate data
+and does not provide identifying information, criminal history, or the outcome of protective peace
+orders.
+The Maryland Domestic Violence Fatality Review State Implementation Team collects data on
+domestic violence deaths. According to its latest report in 2023, there were 40 total deaths due to
+domestic violence in Maryland in 2022, with 26 victims killed alongside 14 bystanders. According
+to the report, 58% of the domestic violence deaths were Black women.
+Impacts of the Bill
+According to DSP’s Uniform Crime Report, there were 31,582 reports of domestically related
+crimes reported statewide in 2024. DSP classifies domestically related crimes as a broad category
+under which there are specific underlying offenses, such as homicide, rape, or a sex offense. A
+large majority of the reports (26,596 or 84%) were domestically related assaults. Of that total, 19%
+HB 1363/ Page 2
+were aggravated assaults, which are defined as an unlawful attack by one person upon another for
+the purpose of inflicting severe or aggravated bodily injury. Women made up 68% of all domestic
+violence victims.
+Exhibit 1 illustrates the demographic breakdown of domestically related crime victims for 2024,
+highlighting the disparity for Black victims who comprised 52% of all victims compared to 44%
+of victims who were white. Asian victims comprised 1.5% of the total, and individuals of other
+races were 2% of the total. Because the data is aggregated by race and not ethnicity, the percentage
+of Hispanic victims is unknown.
+Exhibit 1
+Victims of Domestically Related Crimes by Race
+2024
+Asian Other
+
+Section 2:
+1.5% 2%
+White
+44%
+Black
+52%
+Source: Department of State Police; Department of Legislative Services
+Racial Disproportionality and Disparity in Domestic Violence Victims
+When compared to their share of the overall State population, Black victims and victims who
+identify as some other race are overrepresented in domestic violence incidents. Exhibit 2 shows
+the disproportionality and disparity ratios by race and ethnicity from the DSP data. The
+disproportionality ratio for Black individuals and individuals categorized as other races is 1.80 and
+
+Section 3:
+1.86, respectively. This means that these individuals are nearly twice as likely to be a victim of
+domestic violence in Maryland, given their share of the adult population in the State. The
+disproportionality ratio for Asian individuals of 0.21 is significantly less than 1.00, which means
+these individuals are considerably less likely to be victims of domestic violence compared to their
+share of the overall adult population.
+HB 1363/ Page 3
+The disparity ratio illustrates inequities in outcomes by comparing one or more racial or ethnic
+groups in a dataset to the white population in the same dataset. Exhibit 2 shows that the disparity
+ratio for Black victims is 1.92. This means that Black individuals are almost two times more likely
+to be victims of domestic violence relative to their white peers. Individuals identified as other races
+are also significantly more likely to be victims compared to white individuals, with a disparity
+ratio of 1.99.
+Exhibit 2
+Disproportionality and Disparity Ratios
+Victims of Domestically Related Crimes
+2024
+
+Section 4:
+2.50
+
+Section 5:
+1.99
+
+Section 6:
+1.92 1.86
+
+Section 7:
+2.00
+
+Section 8:
+1.80
+
+Section 9:
+1.50
+
+Section 10:
+0.94 1.00
+
+Section 11:
+1.00
+
+Section 12:
+0.50
+
+Section 13:
+0.21 0.23
+
+Section 14:
+0.00
+White Black Asian Other
+Disproportionality Disparity
+Source: Department of State Police; Department of Legislative Services
+Domestic Violence Offenders
+Demographic data is limited regarding domestic violence offenders in part because Maryland does
+not have a specific crime of domestic violence. Thus, domestic violence offenders are arrested,
+charged, and convicted of various underlying crimes connected to a domestic incident, including
+breaking and entering, destruction of property, motor vehicle theft, disorderly conduct, and arson.
+As stated above, assault is the largest category of offenses associated with domestic violence.
+Demographic data for assaults in 2024, including aggravated assault, shows that Black offenders
+account for approximately 56% of all assaults, compared to white offenders who accounted for
+32%. Since one of the largest groups of victims of domestic violence is Black women, it is likely
+that Black offenders comprise a meaningful portion of domestic violence offenders. Additional
+data would be needed to determine the specific demographics of domestic violence offenders. The
+bill would not require a registrant’s race or ethnicity to be entered into the registry, but it does
+require a digital image of the registrant.
+Critics of a registration system point out some of the unintended consequences and limitations of
+domestic violence registries, including that abusers are not always physically violent or able to be
+HB 1363/ Page 4
+convicted in the courts, potentially leading to a fa lse sense of security for individuals that rely on
+a registry to avoid relationships with potential abusers. In addition, in jurisdictions with primary
+aggressor laws, arrests can be made based on law enforcement’s perception of the violence
+initiator, which sometimes results in the arrest of a victim exercising physical self-defense. Dual
+arrests can have significant consequences for victims, including potential impacts on child custody,
+employment, and access to support services. Critics advocate instead for other criminal justice
+responses that they believe would better serve victims or potential victims, such as training law
+enforcement in best practices when responding to domestic or intimate partner violence calls.
+Despite any potential unintended consequences, the bill’s registration requirement would likely
+have a significant beneficial impact on victims of domestic violence by documenting past domestic
+violence incidents. Additionally, individuals who are not victims of domestic violence would be
+able to protect against potential future domestic related crimes through the use of the online
+registration information as a prevention tool.
+Conclusion
+For the individuals overrepresented as victims of domestically related crimes, the bill’s
+establishment of a public Internet site listing persons convicted of multiple domestically related
+crimes would be particularly beneficial. Other benefits include the ability of individuals who are
+not victims of a domestically related crime to use the public site to prevent potential future
+incidents. That said, the bill also has the potential to negatively impact Black individuals in the
+State who may comprise a substantial amount of domestic violence offenders, given their high rate
+of arrest for assault, aggravated assault, and other crimes that underlie domestically related crimes.
+It is unknown to what extent the creation of the online offender registration information system
+would have on various demographic groups without more detailed data on those charged, arrested,
+and convicted of crimes that are domestically related, as well as historical data regarding repeat
+offenders of these crimes.
+Information Sources: Administrative Office of the Courts; Department of State Police;
+Governor’s Office of Crime Prevention and Policy; Maryland Network Against Domestic
+Violence; Department of Legislative Services
+Analysis by: Rafael Regales
+Published: 03/18/2026
+HB 1363/ Page 5
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+
+Section 15:
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+
+Section 16:
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+HB 1363/ Page 6
+[DELETED:  t p s a A d v o m r t r c A p i n l s t r i t u v a t m o u o i J o h ( o c r D o a s i w r a d o t]
+[DELETED:  d a d r b r a e f t D d T v i M g t s o t a p i t S T]
+[DELETED: eBkAnOyD]
+[DELETED:  l a c b m b o l e p o t v t p a p f d r c t t u o o t i o a v o d r c t b v o a d r c t u t p s t p p f S  A O o t C D o S P O o C P a P M N A D ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]
+
+
+================================================================================
+
+Raw Text:
+2026 Session
+HB1363
+Criminal Procedure - Domestic Violence Offenders - Registration
+Bill Summary
+This bill requires a person, who is convicted of at least two domestically related crimes, to register
+with the person’s supervising authority. A domestic violence offender must register with the
+appropriate supervising authority in the State within seven days after a second conviction for a
+domestically related crime. A person is no longer subject to registration if the underlying
+conviction requiring registration is reversed, vacated, or set aside, or the registrant is pardoned for
+the underlying conviction. The bill requires the Department of Public Safety and Correctional
+Services (DPSCS) to make certain registration statements available to the public. The bill also
+establishes a penalty for failure to register.
+Racial Equity Impact Statement
+The bill would require specified domestic violence repeat offenders to register with a supervising
+authority and for a registrant’s identifying information to be posted on a public Internet site. Crime
+reporting data from the Department of State Police (DSP) provides a detailed picture of domestic
+violence victims and the multitude of underlying offenses involved. Just over half (52%) of
+domestically related crime victims in the State in 2024 were Black, and women comprised 68% of
+all victims. Black women were 58% of all domestic violence homicides in 2022. While there is no
+data readily available to precisely determine the demographic makeup of offenders, assault was
+the underlying offense for 84% of all domestically related crimes in 2024. Black individuals
+comprised 56% of the arrests for assault, including aggravated assault, during that time period.
+Given the DSP data, the impacts of the bill will likely be mixed. Victims or potential victims will
+benefit from the public safety aspects of having offender information available online. However,
+domestic violence offenders, a substantial portion of which may be Black, would be subject to
+reporting and monitoring requirements as well as any public scrutiny resulting from inclusion on
+the registry. Determination of any specific impacts would require additional data on those
+convicted of a domestically related crime two or more times.
+HB 1363/ Page 1
+
+Analysis
+The bill requires a person convicted of at least two domestically related crimes to register with the
+appropriate supervising authority in the State within seven days after a second conviction for a
+domestically related crime. The term of registration is graduated depending on the number of prior
+convictions. The bill also specifies penalties for failure to register, allows for registration fees, and
+authorizes DPSCS to promulgate regulations.
+A registration statement must include (1) the registrant’s full name, including any suffix; (2) a
+description of the crime for which the registrant was convicted; (3) the date that the registrant was
+convicted; (4) the jurisdiction and the name of the court in which the registrant was convicted;
+(5) all identifying factors, including a physical description of the registrant; (6) a copy of the
+registrant’s valid driver’s license or identification card; and (7) the registrant’s signature and date
+signed.
+DPSCS must make registration statements or information about them available to the public online
+and include (1) a current listing of each registrant, including each registrant’s name, date of birth,
+date of conviction, jurisdiction of the conviction, and digital image and (2) a plain language factual
+description of the crime of the offender that is the basis for the registration, excluding details that
+would identify the victim.
+Domestic Violence Data Collection
+Maryland has been collecting data involving domestic violence since the passage of the Domestic
+Violence Act of 1994, which requires all law enforcement agencies in the State to submit incident
+reports involving domestic violence to DSP. Chapter 554 of 2012 further improved the recording
+and tracking of domestic violence crimes within the court system by requiring all cases designated
+by a court to be a “domestically related crime” to become part of the court record for purposes of
+reporting to the Criminal Justice Information System Central Repository.
+The Administrative Office of the Courts houses the Domestic Violence Monthly Reports database,
+which contains data on protective and peace orders across the State. The database reports the total
+number of protective or peace orders by sex, race, age, and case type of the respondent and is
+searchable by county, month, and year; however, the database does not generate aggregate data
+and does not provide identifying information, criminal history, or the outcome of protective peace
+orders.
+The Maryland Domestic Violence Fatality Review State Implementation Team collects data on
+domestic violence deaths. According to its latest report in 2023, there were 40 total deaths due to
+domestic violence in Maryland in 2022, with 26 victims killed alongside 14 bystanders. According
+to the report, 58% of the domestic violence deaths were Black women.
+Impacts of the Bill
+According to DSP’s Uniform Crime Report, there were 31,582 reports of domestically related
+crimes reported statewide in 2024. DSP classifies domestically related crimes as a broad category
+under which there are specific underlying offenses, such as homicide, rape, or a sex offense. A
+large majority of the reports (26,596 or 84%) were domestically related assaults. Of that total, 19%
+HB 1363/ Page 2
+
+were aggravated assaults, which are defined as an unlawful attack by one person upon another for
+the purpose of inflicting severe or aggravated bodily injury. Women made up 68% of all domestic
+violence victims.
+Exhibit 1 illustrates the demographic breakdown of domestically related crime victims for 2024,
+highlighting the disparity for Black victims who comprised 52% of all victims compared to 44%
+of victims who were white. Asian victims comprised 1.5% of the total, and individuals of other
+races were 2% of the total. Because the data is aggregated by race and not ethnicity, the percentage
+of Hispanic victims is unknown.
+Exhibit 1
+Victims of Domestically Related Crimes by Race
+2024
+Asian Other
+1.5% 2%
+White
+44%
+Black
+52%
+Source: Department of State Police; Department of Legislative Services
+Racial Disproportionality and Disparity in Domestic Violence Victims
+When compared to their share of the overall State population, Black victims and victims who
+identify as some other race are overrepresented in domestic violence incidents. Exhibit 2 shows
+the disproportionality and disparity ratios by race and ethnicity from the DSP data. The
+disproportionality ratio for Black individuals and individuals categorized as other races is 1.80 and
+1.86, respectively. This means that these individuals are nearly twice as likely to be a victim of
+domestic violence in Maryland, given their share of the adult population in the State. The
+disproportionality ratio for Asian individuals of 0.21 is significantly less than 1.00, which means
+these individuals are considerably less likely to be victims of domestic violence compared to their
+share of the overall adult population.
+HB 1363/ Page 3
+
+The disparity ratio illustrates inequities in outcomes by comparing one or more racial or ethnic
+groups in a dataset to the white population in the same dataset. Exhibit 2 shows that the disparity
+ratio for Black victims is 1.92. This means that Black individuals are almost two times more likely
+to be victims of domestic violence relative to their white peers. Individuals identified as other races
+are also significantly more likely to be victims compared to white individuals, with a disparity
+ratio of 1.99.
+Exhibit 2
+Disproportionality and Disparity Ratios
+Victims of Domestically Related Crimes
+2024
+2.50
+1.99
+1.92 1.86
+2.00
+1.80
+1.50
+0.94 1.00
+1.00
+0.50
+0.21 0.23
+0.00
+White Black Asian Other
+Disproportionality Disparity
+Source: Department of State Police; Department of Legislative Services
+Domestic Violence Offenders
+Demographic data is limited regarding domestic violence offenders in part because Maryland does
+not have a specific crime of domestic violence. Thus, domestic violence offenders are arrested,
+charged, and convicted of various underlying crimes connected to a domestic incident, including
+breaking and entering, destruction of property, motor vehicle theft, disorderly conduct, and arson.
+As stated above, assault is the largest category of offenses associated with domestic violence.
+Demographic data for assaults in 2024, including aggravated assault, shows that Black offenders
+account for approximately 56% of all assaults, compared to white offenders who accounted for
+32%. Since one of the largest groups of victims of domestic violence is Black women, it is likely
+that Black offenders comprise a meaningful portion of domestic violence offenders. Additional
+data would be needed to determine the specific demographics of domestic violence offenders. The
+bill would not require a registrant’s race or ethnicity to be entered into the registry, but it does
+require a digital image of the registrant.
+Critics of a registration system point out some of the unintended consequences and limitations of
+domestic violence registries, including that abusers are not always physically violent or able to be
+HB 1363/ Page 4
+
+convicted in the courts, potentially leading to a fa lse sense of security for individuals that rely on
+a registry to avoid relationships with potential abusers. In addition, in jurisdictions with primary
+aggressor laws, arrests can be made based on law enforcement’s perception of the violence
+initiator, which sometimes results in the arrest of a victim exercising physical self-defense. Dual
+arrests can have significant consequences for victims, including potential impacts on child custody,
+employment, and access to support services. Critics advocate instead for other criminal justice
+responses that they believe would better serve victims or potential victims, such as training law
+enforcement in best practices when responding to domestic or intimate partner violence calls.
+Despite any potential unintended consequences, the bill’s registration requirement would likely
+have a significant beneficial impact on victims of domestic violence by documenting past domestic
+violence incidents. Additionally, individuals who are not victims of domestic violence would be
+able to protect against potential future domestic related crimes through the use of the online
+registration information as a prevention tool.
+Conclusion
+For the individuals overrepresented as victims of domestically related crimes, the bill’s
+establishment of a public Internet site listing persons convicted of multiple domestically related
+crimes would be particularly beneficial. Other benefits include the ability of individuals who are
+not victims of a domestically related crime to use the public site to prevent potential future
+incidents. That said, the bill also has the potential to negatively impact Black individuals in the
+State who may comprise a substantial amount of domestic violence offenders, given their high rate
+of arrest for assault, aggravated assault, and other crimes that underlie domestically related crimes.
+It is unknown to what extent the creation of the online offender registration information system
+would have on various demographic groups without more detailed data on those charged, arrested,
+and convicted of crimes that are domestically related, as well as historical data regarding repeat
+offenders of these crimes.
+Information Sources: Administrative Office of the Courts; Department of State Police;
+Governor’s Office of Crime Prevention and Policy; Maryland Network Against Domestic
+Violence; Department of Legislative Services
+Analysis by: Rafael Regales
+Published: 03/18/2026
+HB 1363/ Page 5
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+HB 1363/ Page 6
+
+[DELETED:  t p s a A d v o m r t r c A p i n l s t r i t u v a t m o u o i J o h ( o c r D o a s i w r a d o t]
+[DELETED:  d a d r b r a e f t D d T v i M g t s o t a p i t S T]
+[DELETED: eBkAnOyD]
+[DELETED:  l a c b m b o l e p o t v t p a p f d r c t t u o o t i o a v o d r c t b v o a d r c t u t p s t p p f S  A O o t C D o S P O o C P a P M N A D ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]

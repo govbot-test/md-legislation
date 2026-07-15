@@ -1,0 +1,365 @@
+Title: (House Bill 1091)
+Official Title: (House Bill 1091)
+Number of Sections: 6
+Source: versions - Chapter - Health Insurance and Dental Plan Organizations - Dentists - Assignment of Benefits and Reimbursement of Nonpreferred Providers
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 736
+Chapter 736
+AN ACT concerning
+Health Insurance and Dental Plan Organizations – Dentists – Assignment of
+Benefits and Reimbursement of Nonpreferred Providers
+FOR the purpose of prohibiting certain insurers and dental plan organizations from
+prohibiting an assignment of benefits to a provider who is a dentist by an insured or
+refusing to directly reimburse a nonpreferred provider who is a dentist; requiring a
+nonpreferred provider who is a dentist and who seeks an assignment of benefits from
+an insured or enrollee to provide certain information to the insured or enrollee before
+performing a health care service and submit a disclosure form to document the
+assignment of benefits; authorizing certain insurers and dental plan organizations
+to refuse to directly reimburse a nonparticipating provider who is a dentist under
+certain circumstances; and generally relating to insurance coverage for dental
+services.
+BY repealing and reenacting, without amendments,
+Article – Insurance
+
+Section 2:
+Section 14–201(a)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Insurance
+
+Section 3:
+Section 14–201(p) and (r) and 14–205.3
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Insurance
+
+Section 4:
+Section 14–410.1
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+
+Section 5:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Insurance
+14–201.
+(a) In this subtitle the following words have the meanings indicated.
+– 1 –
+Ch. 736 2026 LAWS OF MARYLAND
+(p) “Provider” means a physician, DENTIST, hospital, or other person that is
+licensed or otherwise authorized to provide health care services.
+(r) “Similarly licensed provider” means:
+(1) for a physician:
+(i) a physician who is board certified or eligible in the same practice
+specialty; or
+(ii) a group physician practice that contains board certified or
+eligible physicians in the same practice specialty; [or]
+(2) FOR A DENTIST:
+(I) A DENTIST LICENSED TO PRACTICE DENTISTRY IN THE
+STATE UNDER TITLE 4 OF THE HEALTH OCCUPATIONS ARTICLE WHO PERFORMS
+THE SAME OR SIMILAR DENTAL SERVICES; OR
+(II) A GROUP DENTAL PRACTICE THAT CONSISTS OF DENTISTS
+LICENSED IN THE STATE UNDER TITLE 4 OF THE HEALTH OCCUPATIONS ARTICLE
+WHO PERFORM THE SAME OR SIMILAR DENTAL SERVICES; OR
+[(2)] (3) for a health care provider OR DENTIST who is not a physician
+OR DENTIST, a health care provider OR DENTIST who holds the same type of license or
+certification.
+14–205.3.
+(a) This section does not apply to on–call physicians or hospital–based physicians.
+(b) An insurer may not:
+(1) prohibit the assignment of benefits to a provider who is a physician OR
+DENTIST by an insured; or
+(2) refuse to directly reimburse a nonpreferred provider who is a physician
+OR DENTIST under an assignment of benefits.
+(c) If an insured has not provided an assignment of benefits, the insurer shall
+include the following information with the payment to the insured for health care services
+rendered by the nonpreferred provider who is a physician OR DENTIST:
+(1) the specific claim covered by the payment;
+– 2 –
+WES MOORE, Governor Ch. 736
+(2) the amount paid for the claim;
+(3) the amount that is the insured’s responsibility; and
+(4) a statement instructing the insured to use the payment to pay the
+nonpreferred provider in the event the insured has not paid the nonpreferred provider in
+full for the health care services rendered by the nonpreferred provider.
+(d) If a physician OR DENTIST who is a nonpreferred provider seeks an
+assignment of benefits from an insured, the physician OR DENTIST shall provide the
+following information to the insured, prior to performing a health care service:
+(1) a statement informing the insured that the physician OR DENTIST is a
+nonpreferred provider;
+(2) a statement informing the insured that the physician OR DENTIST may
+charge the insured for noncovered services;
+(3) a statement informing the insured that the physician OR DENTIST may
+charge the insured the balance bill for covered services;
+(4) an estimate of the cost of services that the physician OR DENTIST will
+provide to the insured;
+(5) any terms of payment that may apply; and
+(6) whether interest will apply and, if so, the amount of interest charged
+by the physician OR DENTIST.
+(e) A physician OR DENTIST who is a nonpreferred provider shall submit the
+disclosure form developed by the Commissioner under subsection (f) of this section to
+document to the insurer the assignment of benefits by an insured.
+(f) The Commissioner shall develop disclosure forms to implement the
+requirements under subsections (c) and (d) of this section.
+(g) Notwithstanding the provisions of subsection (b) of this section, an insurer
+may refuse to directly reimburse a nonpreferred provider under an assignment of benefits
+if:
+(1) the insurer receives notice of the assignment of benefits after the time
+the insurer has paid the benefits to the insured;
+(2) the insurer, due to an inadvertent administrative error, has previously
+paid the insured;
+– 3 –
+Ch. 736 2026 LAWS OF MARYLAND
+(3) the insured withdraws the assignment of benefits before the insurer
+has paid the benefits to the nonpreferred provider; or
+(4) the insured paid the nonpreferred provider the full amount due at the
+time of service.
+14–410.1.
+(A) IN THIS SECTION, “DENTIST” MEANS AN INDIVIDUAL LICENSED UNDER
+TITLE 4 OF THE HEALTH OCCUPATIONS ARTICLE.
+(B) EXCEPT AS PROVIDED IN SUBSECTION (G) OF THIS SECTION, A DENTAL
+PLAN ORGANIZATION MAY NOT:
+(1) PROHIBIT THE ASSIGNMENT OF BENEFITS TO A DENTIST BY AN
+ENROLLEE; OR
+(2) REFUSE TO DIRECTLY REIMBURSE A NONPREFERRED DENTIST
+UNDER AN ASSIGNMENT OF BENEFITS.
+(C) IF AN ENROLLEE HAS NOT PROVIDED AN ASSIGNMENT OF BENEFITS,
+THE DENTAL PLAN ORGANIZATION SHALL INCLUDE THE FOLLOWING INFORMATION
+WITH THE PAYMENT TO THE ENROLLEE FOR DENTAL SERVICES RENDERED BY THE
+NONPREFERRED DENTIST:
+(1) THE SPECIFIC CLAIM COVERED BY THE PAYMENT;
+(2) THE AMOUNT PAID FOR THE CLAIM;
+(3) THE AMOUNT THAT IS THE ENROLLEE’S RESPONSIBILITY OF THE
+DENTAL PLAN ORGANIZATION; AND
+(4) A STATEMENT INSTRUCTING THE ENROLLEE TO USE THE
+PAYMENT TO PAY THE NONPREFERRED DENTIST IN THE EVENT THAT THE ENROLLEE
+HAS NOT PAID THE NONPREFERRED DENTIST IN FULL FOR DENTAL SERVICES
+RENDERED BY THE NONPREFERRED DENTIST.
+(D) IF A NONPREFERRED DENTIST SEEKS AN ASSIGNMENT OF BENEFITS
+FROM AN ENROLLEE, THE DENTIST SHALL PROVIDE THE FOLLOWING INFORMATION
+TO THE ENROLLEE BEFORE PERFORMING A DENTAL SERVICE:
+(1) A STATEMENT INFORMING THE ENROLLEE THAT THE DENTIST IS
+A NONPREFERRED DENTIST;
+– 4 –
+WES MOORE, Governor Ch. 736
+(2) A STATEMENT INFORMING THE ENROLLEE THAT THE DENTIST
+MAY CHARGE THE ENROLLEE FOR NONCOVERED SERVICES;
+(3) A STATEMENT INFORMING THE ENROLLEE THAT THE DENTIST
+MAY CHARGE THE ENROLLEE THE BALANCE BILL FOR COVERED SERVICES;
+(4) AN ESTIMATE OF THE COST OF SERVICES THAT THE DENTIST WILL
+PROVIDE TO THE ENROLLEE;
+(5) ANY TERMS OF PAYMENT THAT MAY APPLY; AND
+(6) WHETHER INTEREST WILL APPLY AND, IF SO, THE AMOUNT OF
+INTEREST CHARGED BY THE DENTIST.
+(E) A NONPREFERRED DENTIST SHALL SUBMIT THE DISCLOSURE FORM
+DEVELOPED BY THE COMMISSIONER UNDER SUBSECTION (F) OF THIS SECTION TO
+DOCUMENT TO THE DENTAL PLAN ORGANIZATION THE ASSIGNMENT OF BENEFITS
+BY THE ENROLLEE.
+(F) THE COMMISSIONER SHALL DEVELOP THE FORMS NECESSARY TO
+IMPLEMENT THIS SUBSECTION SECTION.
+(G) A DENTAL PLAN ORGANIZATION MAY REFUSE TO DIRECTLY REIMBURSE
+A NONPREFERRED DENTIST UNDER AN ASSIGNMENT OF BENEFITS IF:
+(1) THE DENTAL PLAN ORGANIZATION RECEIVES NOTICE OF THE
+ASSIGNMENT OF BENEFITS AFTER THE TIME THE DENTAL PLAN ORGANIZATION HAS
+PAID THE BENEFITS TO THE ENROLLEE;
+(2) THE ENROLLEE WITHDRAWS THE ASSIGNMENT OF BENEFITS
+BEFORE THE DENTAL PLAN ORGANIZATION HAS PAID THE BENEFITS TO THE
+NONPREFERRED DENTIST; OR
+(3) THE ENROLLEE PAID THE NONPREFERRED DENTIST THE FULL
+AMOUNT DUE AT THE TIME OF SERVICE.
+
+Section 6:
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+January 1, 2027.
+Approved by the Governor, May 26, 2026.
+– 5 –
+[DELETED: W C t p o p c i a d p o f a h c s a s a d f t d t c a g r t i c f dAA(AA(AA(S( I]
+[DELETED:  2 ( “ m a p  h o o p t i( “ ( f  ( a  ( a g p p t c b c o o] ( :T  ()A D L T P D I TT4HO I   E C RS   ()IA T I   E C RT4HOS  () f  ](OTO w( T( A ( p ( r( I : ( t]
+[DELETED: W C ( t ( t ( a s i t i t u t p t p t( I a p w i a n p s a D o b f a i t p  s p t D ( a   ( a   ( a   ( a   ( a ( w .( A   f d b t C u s ( o t s t( T C s d d f t i t( N ( t ( t]
+[DELETED:  2  ( t ( t() I,“NN DT 4HOA.   E C RE() E()X G N  (E  ( T D R A N DS() IFS ( ; ( ; ( ESN  ( S I T E T U T N P T N D I F F D S() F A N D S A A O BE  (]
+[DELETED: W C ( S I T E T T DS ( S I T E T T D (E ( ;Y  ( , I W A AD I SO T A OT()  N D S S T D F O F (E() TH O S D T F N TN()   ( D P O R N O TE ( E W T A O B T D P O H P T B T TT  ( E P T N D T FS A B I F E T t A s t e]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 736
+Chapter 736
+(House Bill 1091)
+AN ACT concerning
+Health Insurance and Dental Plan Organizations – Dentists – Assignment of
+Benefits and Reimbursement of Nonpreferred Providers
+FOR the purpose of prohibiting certain insurers and dental plan organizations from
+prohibiting an assignment of benefits to a provider who is a dentist by an insured or
+refusing to directly reimburse a nonpreferred provider who is a dentist; requiring a
+nonpreferred provider who is a dentist and who seeks an assignment of benefits from
+an insured or enrollee to provide certain information to the insured or enrollee before
+performing a health care service and submit a disclosure form to document the
+assignment of benefits; authorizing certain insurers and dental plan organizations
+to refuse to directly reimburse a nonparticipating provider who is a dentist under
+certain circumstances; and generally relating to insurance coverage for dental
+services.
+BY repealing and reenacting, without amendments,
+Article – Insurance
+Section 14–201(a)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Insurance
+Section 14–201(p) and (r) and 14–205.3
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Insurance
+Section 14–410.1
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Insurance
+14–201.
+(a) In this subtitle the following words have the meanings indicated.
+– 1 –
+
+Ch. 736 2026 LAWS OF MARYLAND
+(p) “Provider” means a physician, DENTIST, hospital, or other person that is
+licensed or otherwise authorized to provide health care services.
+(r) “Similarly licensed provider” means:
+(1) for a physician:
+(i) a physician who is board certified or eligible in the same practice
+specialty; or
+(ii) a group physician practice that contains board certified or
+eligible physicians in the same practice specialty; [or]
+(2) FOR A DENTIST:
+(I) A DENTIST LICENSED TO PRACTICE DENTISTRY IN THE
+STATE UNDER TITLE 4 OF THE HEALTH OCCUPATIONS ARTICLE WHO PERFORMS
+THE SAME OR SIMILAR DENTAL SERVICES; OR
+(II) A GROUP DENTAL PRACTICE THAT CONSISTS OF DENTISTS
+LICENSED IN THE STATE UNDER TITLE 4 OF THE HEALTH OCCUPATIONS ARTICLE
+WHO PERFORM THE SAME OR SIMILAR DENTAL SERVICES; OR
+[(2)] (3) for a health care provider OR DENTIST who is not a physician
+OR DENTIST, a health care provider OR DENTIST who holds the same type of license or
+certification.
+14–205.3.
+(a) This section does not apply to on–call physicians or hospital–based physicians.
+(b) An insurer may not:
+(1) prohibit the assignment of benefits to a provider who is a physician OR
+DENTIST by an insured; or
+(2) refuse to directly reimburse a nonpreferred provider who is a physician
+OR DENTIST under an assignment of benefits.
+(c) If an insured has not provided an assignment of benefits, the insurer shall
+include the following information with the payment to the insured for health care services
+rendered by the nonpreferred provider who is a physician OR DENTIST:
+(1) the specific claim covered by the payment;
+– 2 –
+
+WES MOORE, Governor Ch. 736
+(2) the amount paid for the claim;
+(3) the amount that is the insured’s responsibility; and
+(4) a statement instructing the insured to use the payment to pay the
+nonpreferred provider in the event the insured has not paid the nonpreferred provider in
+full for the health care services rendered by the nonpreferred provider.
+(d) If a physician OR DENTIST who is a nonpreferred provider seeks an
+assignment of benefits from an insured, the physician OR DENTIST shall provide the
+following information to the insured, prior to performing a health care service:
+(1) a statement informing the insured that the physician OR DENTIST is a
+nonpreferred provider;
+(2) a statement informing the insured that the physician OR DENTIST may
+charge the insured for noncovered services;
+(3) a statement informing the insured that the physician OR DENTIST may
+charge the insured the balance bill for covered services;
+(4) an estimate of the cost of services that the physician OR DENTIST will
+provide to the insured;
+(5) any terms of payment that may apply; and
+(6) whether interest will apply and, if so, the amount of interest charged
+by the physician OR DENTIST.
+(e) A physician OR DENTIST who is a nonpreferred provider shall submit the
+disclosure form developed by the Commissioner under subsection (f) of this section to
+document to the insurer the assignment of benefits by an insured.
+(f) The Commissioner shall develop disclosure forms to implement the
+requirements under subsections (c) and (d) of this section.
+(g) Notwithstanding the provisions of subsection (b) of this section, an insurer
+may refuse to directly reimburse a nonpreferred provider under an assignment of benefits
+if:
+(1) the insurer receives notice of the assignment of benefits after the time
+the insurer has paid the benefits to the insured;
+(2) the insurer, due to an inadvertent administrative error, has previously
+paid the insured;
+– 3 –
+
+Ch. 736 2026 LAWS OF MARYLAND
+(3) the insured withdraws the assignment of benefits before the insurer
+has paid the benefits to the nonpreferred provider; or
+(4) the insured paid the nonpreferred provider the full amount due at the
+time of service.
+14–410.1.
+(A) IN THIS SECTION, “DENTIST” MEANS AN INDIVIDUAL LICENSED UNDER
+TITLE 4 OF THE HEALTH OCCUPATIONS ARTICLE.
+(B) EXCEPT AS PROVIDED IN SUBSECTION (G) OF THIS SECTION, A DENTAL
+PLAN ORGANIZATION MAY NOT:
+(1) PROHIBIT THE ASSIGNMENT OF BENEFITS TO A DENTIST BY AN
+ENROLLEE; OR
+(2) REFUSE TO DIRECTLY REIMBURSE A NONPREFERRED DENTIST
+UNDER AN ASSIGNMENT OF BENEFITS.
+(C) IF AN ENROLLEE HAS NOT PROVIDED AN ASSIGNMENT OF BENEFITS,
+THE DENTAL PLAN ORGANIZATION SHALL INCLUDE THE FOLLOWING INFORMATION
+WITH THE PAYMENT TO THE ENROLLEE FOR DENTAL SERVICES RENDERED BY THE
+NONPREFERRED DENTIST:
+(1) THE SPECIFIC CLAIM COVERED BY THE PAYMENT;
+(2) THE AMOUNT PAID FOR THE CLAIM;
+(3) THE AMOUNT THAT IS THE ENROLLEE’S RESPONSIBILITY OF THE
+DENTAL PLAN ORGANIZATION; AND
+(4) A STATEMENT INSTRUCTING THE ENROLLEE TO USE THE
+PAYMENT TO PAY THE NONPREFERRED DENTIST IN THE EVENT THAT THE ENROLLEE
+HAS NOT PAID THE NONPREFERRED DENTIST IN FULL FOR DENTAL SERVICES
+RENDERED BY THE NONPREFERRED DENTIST.
+(D) IF A NONPREFERRED DENTIST SEEKS AN ASSIGNMENT OF BENEFITS
+FROM AN ENROLLEE, THE DENTIST SHALL PROVIDE THE FOLLOWING INFORMATION
+TO THE ENROLLEE BEFORE PERFORMING A DENTAL SERVICE:
+(1) A STATEMENT INFORMING THE ENROLLEE THAT THE DENTIST IS
+A NONPREFERRED DENTIST;
+– 4 –
+
+WES MOORE, Governor Ch. 736
+(2) A STATEMENT INFORMING THE ENROLLEE THAT THE DENTIST
+MAY CHARGE THE ENROLLEE FOR NONCOVERED SERVICES;
+(3) A STATEMENT INFORMING THE ENROLLEE THAT THE DENTIST
+MAY CHARGE THE ENROLLEE THE BALANCE BILL FOR COVERED SERVICES;
+(4) AN ESTIMATE OF THE COST OF SERVICES THAT THE DENTIST WILL
+PROVIDE TO THE ENROLLEE;
+(5) ANY TERMS OF PAYMENT THAT MAY APPLY; AND
+(6) WHETHER INTEREST WILL APPLY AND, IF SO, THE AMOUNT OF
+INTEREST CHARGED BY THE DENTIST.
+(E) A NONPREFERRED DENTIST SHALL SUBMIT THE DISCLOSURE FORM
+DEVELOPED BY THE COMMISSIONER UNDER SUBSECTION (F) OF THIS SECTION TO
+DOCUMENT TO THE DENTAL PLAN ORGANIZATION THE ASSIGNMENT OF BENEFITS
+BY THE ENROLLEE.
+(F) THE COMMISSIONER SHALL DEVELOP THE FORMS NECESSARY TO
+IMPLEMENT THIS SUBSECTION SECTION.
+(G) A DENTAL PLAN ORGANIZATION MAY REFUSE TO DIRECTLY REIMBURSE
+A NONPREFERRED DENTIST UNDER AN ASSIGNMENT OF BENEFITS IF:
+(1) THE DENTAL PLAN ORGANIZATION RECEIVES NOTICE OF THE
+ASSIGNMENT OF BENEFITS AFTER THE TIME THE DENTAL PLAN ORGANIZATION HAS
+PAID THE BENEFITS TO THE ENROLLEE;
+(2) THE ENROLLEE WITHDRAWS THE ASSIGNMENT OF BENEFITS
+BEFORE THE DENTAL PLAN ORGANIZATION HAS PAID THE BENEFITS TO THE
+NONPREFERRED DENTIST; OR
+(3) THE ENROLLEE PAID THE NONPREFERRED DENTIST THE FULL
+AMOUNT DUE AT THE TIME OF SERVICE.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+January 1, 2027.
+Approved by the Governor, May 26, 2026.
+– 5 –
+
+[DELETED: W C t p o p c i a d p o f a h c s a s a d f t d t c a g r t i c f dAA(AA(AA(S( I]
+[DELETED:  2 ( “ m a p  h o o p t i( “ ( f  ( a  ( a g p p t c b c o o] ( :T  ()A D L T P D I TT4HO I   E C RS   ()IA T I   E C RT4HOS  () f  ](OTO w( T( A ( p ( r( I : ( t]
+[DELETED: W C ( t ( t ( a s i t i t u t p t p t( I a p w i a n p s a D o b f a i t p  s p t D ( a   ( a   ( a   ( a   ( a ( w .( A   f d b t C u s ( o t s t( T C s d d f t i t( N ( t ( t]
+[DELETED:  2  ( t ( t() I,“NN DT 4HOA.   E C RE() E()X G N  (E  ( T D R A N DS() IFS ( ; ( ; ( ESN  ( S I T E T U T N P T N D I F F D S() F A N D S A A O BE  (]
+[DELETED: W C ( S I T E T T DS ( S I T E T T D (E ( ;Y  ( , I W A AD I SO T A OT()  N D S S T D F O F (E() TH O S D T F N TN()   ( D P O R N O TE ( E W T A O B T D P O H P T B T TT  ( E P T N D T FS A B I F E T t A s t e]

@@ -1,0 +1,710 @@
+Title: SENATE BILL 237
+Official Title: SENATE BILL 237
+Number of Sections: 1
+Source: versions - Third - Election Law - Presidential Electors - Selection and Voting
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+G1 6lr0667
+CF HB 182
+By: Senator Kagan
+Introduced and read first time: January 15, 2026
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 25, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Election Law – Presidential Electors – Selection and Voting
+3 FOR the purpose of altering the procedures for the selection of presidential elector
+4 nominees and alternate presidential elector nominees; requiring the State
+5 Administrator of Elections to preside at a certain meeting of certain presidential
+6 electors; altering the procedures for the meeting of presidential electors; establishing
+7 procedures for the preparation, delivery, signing, and transmission of an amended
+8 certificate of ascertainment after the vote of the State’s presidential electors under
+9 certain circumstances; and generally relating to presidential electors.
+10 BY repealing and reenacting, without amendments,
+11 Article – Election Law
+12 Section 1–101(a)
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2025 Supplement)
+15 BY adding to
+16 Article – Election Law
+17 Section 1–101(ii–2) and (tt–1), 8–504, 8–506, 8–507, and 8–509
+18 Annotated Code of Maryland
+19 (2022 Replacement Volume and 2025 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – Election Law
+22 Section 1–101(tt–1) and 8–503 through 8–505
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0237*
+2 SENATE BILL 237
+1 Annotated Code of Maryland
+2 (2022 Replacement Volume and 2025 Supplement)
+3 BY repealing and reenacting, with amendments,
+4 Article – Election Law
+5 Section 8–504 and 8–505
+6 Annotated Code of Maryland
+7 (2022 Replacement Volume and 2025 Supplement)
+8 (As enacted by Chapters 43 and 44 of the Acts of the General Assembly of 2007)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That the Laws of Maryland read as follows:
+11 Article – Election Law
+12 1–101.
+13 (a) In this article the following words have the meanings indicated unless a
+14 different meaning is clearly intended from the context.
+15 (II–2) “PRESIDENTIAL ELECTOR” MEANS AN ELECTOR FOR PRESIDENT AND
+16 VICE PRESIDENT OF THE UNITED STATES.
+17 (TT–1) “UNAFFILIATED PRESIDENTIAL CANDIDATE” MEANS A
+18 CANDIDATE FOR PRESIDENT OF THE UNITED STATES WHO QUALIFIES FOR THE
+19 GENERAL ELECTION BALLOT BY MEANS OTHER THAN NOMINATION BY A POLITICAL
+20 PARTY.
+21 [(tt–1)] (TT–2) “Uniformed services” has the meaning stated in § 9–901 of the
+22 State Government Article.
+23 8–503.
+24 [(a) Each political party shall nominate or provide for the nomination of
+25 candidates for presidential elector of the party in accordance with party rules.
+26 (b) The number of candidates nominated by each political party shall be the
+27 number that this State is entitled to elect.]
+28 (A) (1) FOR EACH PRESIDENTIAL ELECTOR, A POLITICAL PARTY
+29 CONTESTING THE POSITION, OR AN UNAFFILIATED PRESIDENTIAL CANDIDATE,
+30 SHALL SUBMIT TO THE STATE BOARD THE NAMES OF TWO QUALIFIED INDIVIDUALS.
+31 (2) ONE OF THE INDIVIDUALS SHALL BE DESIGNATED
+32 “PRESIDENTIAL ELECTOR NOMINEE” AND THE OTHER “ALTERNATE PRESIDENTIAL
+33 ELECTOR NOMINEE”.
+SENATE BILL 237 3
+1 [(c)] (B) (1) The names and residential addresses of [individuals nominated
+2 as candidates for presidential elector] THE PRESIDENTIAL ELECTOR NOMINEES AND
+3 ALTERNATE PRESIDENTIAL ELECTOR NOMINEES SUBMITTED TO THE STATE BOARD
+4 IN ACCORDANCE WITH SUBSECTION (A) OF THIS SECTION by a political party shall be
+5 certified to the State Board by the presiding officers of the political party.
+6 (2) The names and residential addresses of [individuals nominated as
+7 candidates for presidential elector] THE PRESIDENTIAL ELECTOR NOMINEES AND
+8 ALTERNATE PRESIDENTIAL ELECTOR NOMINEES SUBMITTED TO THE STATE BOARD
+9 IN ACCORDANCE WITH SUBSECTION (A) OF THIS SECTION by a candidate for President
+10 of the United States who is nominated by petition shall be certified to the State Board by
+11 the candidate.
+12 (3) The NOMINEES FOR PRESIDENTIAL electors AND ALTERNATE
+13 PRESIDENTIAL ELECTORS shall be certified to the State Board at least 30 days before the
+14 general election.
+15 8–504.
+16 (A) EACH PRESIDENTIAL ELECTOR NOMINEE AND ALTERNATE
+17 PRESIDENTIAL ELECTOR NOMINEE OF A POLITICAL PARTY SHALL EXECUTE THE
+18 FOLLOWING PLEDGE: “IF SELECTED FOR THE POSITION OF PRESIDENTIAL
+19 ELECTOR, I AGREE TO SERVE AND TO MARK MY BALLOTS FOR PRESIDENT AND VICE
+20 PRESIDENT FOR THE NOMINEES FOR THOSE OFFICES OF THE PARTY THAT
+21 NOMINATED ME.”.
+22 (B) EACH PRESIDENTIAL ELECTOR NOMINEE AND ALTERNATE
+23 PRESIDENTIAL ELECTOR NOMINEE OF AN UNAFFILIATED PRESIDENTIAL
+24 CANDIDATE SHALL EXECUTE THE FOLLOWING PLEDGE: “IF SELECTED FOR THE
+25 POSITION OF PRESIDENTIAL ELECTOR AS A NOMINEE OF AN UNAFFILIATED
+26 PRESIDENTIAL CANDIDATE, I AGREE TO SERVE AND TO MARK MY BALLOTS FOR THAT
+27 CANDIDATE AND FOR THAT CANDIDATE’S VICE PRESIDENTIAL RUNNING MATE.”.
+28 (C) THE EXECUTED PLEDGES SHALL ACCOMPANY THE SUBMISSION OF THE
+29 CORRESPONDING PRESIDENTIAL ELECTOR NOMINEE NAMES TO THE STATE BOARD.
+30 (D) IF, AFTER THE NOMINATION OF A CANDIDATE FOR PRESIDENT OR VICE
+31 PRESIDENT BY A POLITICAL PARTY AND BEFORE THE MEETING OF PRESIDENTIAL
+32 ELECTORS UNDER § 8–508 OF THIS SUBTITLE, THE CANDIDATE DIES OR WITHDRAWS
+33 AS A CANDIDATE FOR THAT OFFICE IN ACCORDANCE WITH THE RULES OF THE
+34 POLITICAL PARTY, THE PLEDGE EXECUTED UNDER SUBSECTION (A) OF THIS
+35 SECTION OR § 8–507(D) OF THIS SUBTITLE APPLIES TO THE SUCCESSOR CANDIDATE
+36 FOR THAT OFFICE NOMINATED BY THE POLITICAL PARTY IN ACCORDANCE WITH THE
+4 SENATE BILL 237
+1 PARTY RULES.
+2 8–506.
+3 IN SUBMITTING THIS STATE’S CERTIFICATE OF ASCERTAINMENT AS
+4 REQUIRED BY 3 U.S.C. § 6, THE GOVERNOR SHALL CERTIFY THE STATE’S
+5 PRESIDENTIAL ELECTORS AND STATE IN THE CERTIFICATE THAT:
+6 (1) THE PRESIDENTIAL ELECTORS WILL SERVE AS PRESIDENTIAL
+7 ELECTORS UNLESS A VACANCY OCCURS IN THE OFFICE OF PRESIDENTIAL ELECTOR
+8 BEFORE THE END OF THE MEETING AT WHICH PRESIDENTIAL ELECTOR VOTES ARE
+9 CAST, IN WHICH CASE A SUBSTITUTE PRESIDENTIAL ELECTOR WILL FILL THE
+10 VACANCY; AND
+11 (2) IF A SUBSTITUTE PRESIDENTIAL ELECTOR IS APPOINTED TO FILL
+12 A VACANCY, THE GOVERNOR WILL SUBMIT AN AMENDED CERTIFICATE OF
+13 ASCERTAINMENT STATING THE NAMES ON THE FINAL LIST OF THE PRESIDENTIAL
+14 ELECTORS.
+15 8–507.
+16 (A) THE STATE ADMINISTRATOR SHALL PRESIDE AT THE MEETING OF
+17 PRESIDENTIAL ELECTORS DESCRIBED IN § 8–508 OF THIS SUBTITLE.
+18 (B) THE POSITION OF A PRESIDENTIAL ELECTOR NOT PRESENT TO VOTE IS
+19 VACANT.
+20 (C) THE STATE ADMINISTRATOR SHALL APPOINT AN INDIVIDUAL AS A
+21 SUBSTITUTE PRESIDENTIAL ELECTOR TO FILL A VACANCY AS FOLLOWS:
+22 (1) IF THE ALTERNATE PRESIDENTIAL ELECTOR IS PRESENT TO
+23 VOTE, BY APPOINTING THE ALTERNATE PRESIDENTIAL ELECTOR FOR THE VACANT
+24 POSITION;
+25 (2) IF THE ALTERNATE PRESIDENTIAL ELECTOR FOR THE VACANT
+26 POSITION IS NOT PRESENT TO VOTE, BY APPOINTING A PRESIDENTIAL ELECTOR
+27 CHOSEN BY LOT FROM AMONG THE ALTERNATE PRESIDENTIAL ELECTORS PRESENT
+28 TO VOTE WHO WERE NOMINATED BY THE SAME POLITICAL PARTY OR THE
+29 UNAFFILIATED PRESIDENTIAL CANDIDATE;
+30 (3) IF THE NUMBER OF ALTERNATE PRESIDENTIAL ELECTORS
+31 PRESENT TO VOTE IS INSUFFICIENT TO FILL ANY VACANT POSITION IN ACCORDANCE
+32 WITH ITEM (1) OR (2) OF THIS SUBSECTION, BY APPOINTING ANY IMMEDIATELY
+SENATE BILL 237 5
+1 AVAILABLE INDIVIDUAL WHO IS QUALIFIED TO SERVE AS A PRESIDENTIAL ELECTOR
+2 AND CHOSEN THROUGH NOMINATION BY AND PLURALITY VOTE OF THE REMAINING
+3 PRESIDENTIAL ELECTORS, INCLUDING NOMINATION AND VOTE BY A SINGLE
+4 PRESIDENTIAL ELECTOR IF ONLY ONE REMAINS;
+5 (4) IF THERE IS A TIE BETWEEN AT LEAST TWO NOMINEES FOR
+6 SUBSTITUTE PRESIDENTIAL ELECTOR IN A VOTE CONDUCTED UNDER ITEM (3) OF
+7 THIS SUBSECTION, BY APPOINTING A PRESIDENTIAL ELECTOR CHOSEN BY LOT
+8 FROM AMONG THOSE NOMINEES; OR
+9 (5) IF ALL PRESIDENTIAL ELECTOR POSITIONS ARE VACANT AND
+10 CANNOT BE FILLED IN ACCORDANCE WITH ITEM (1), (2), (3), OR (4) OF THIS
+11 SUBSECTION, BY APPOINTING A SINGLE PRESIDENTIAL ELECTOR, WITH REMAINING
+12 VACANT POSITIONS TO BE FILLED IN ACCORDANCE WITH ITEM (3) OR (4) OF THIS
+13 SUBSECTION.
+14 (D) TO QUALIFY AS A SUBSTITUTE PRESIDENTIAL ELECTOR UNDER
+15 SUBSECTION (C) OF THIS SECTION, AN INDIVIDUAL WHO HAS NOT EXECUTED THE
+16 PLEDGE REQUIRED UNDER § 8–504 OF THIS SUBTITLE SHALL EXECUTE THE
+17 FOLLOWING PLEDGE: “I AGREE TO SERVE AND TO MARK MY BALLOTS FOR
+18 PRESIDENT AND VICE PRESIDENT CONSISTENT WITH THE PLEDGE OF THE
+19 INDIVIDUAL TO WHOSE PRESIDENTIAL ELECTOR POSITION I HAVE SUCCEEDED.”.
+20 8–509.
+21 (A) AFTER THE VOTE OF THE STATE’S PRESIDENTIAL ELECTORS IS
+22 COMPLETED, IF THE FINAL LIST OF PRESIDENTIAL ELECTORS DIFFERS FROM ANY
+23 LIST THAT THE GOVERNOR PREVIOUSLY INCLUDED ON A CERTIFICATE OF
+24 ASCERTAINMENT PREPARED AND TRANSMITTED UNDER 3 U.S.C. § 6, THE STATE
+25 ADMINISTRATOR IMMEDIATELY SHALL PREPARE AN AMENDED CERTIFICATE OF
+26 ASCERTAINMENT IN ACCORDANCE WITH 3 U.S.C. § 4 AND TRANSMIT IT TO THE
+27 GOVERNOR FOR THE GOVERNOR’S SIGNATURE.
+28 (B) THE GOVERNOR IMMEDIATELY SHALL DELIVER THE SIGNED AMENDED
+29 CERTIFICATE OF ASCERTAINMENT TO THE STATE ADMINISTRATOR AND A SIGNED
+30 DUPLICATE ORIGINAL OF THE AMENDED CERTIFICATE OF ASCERTAINMENT TO ALL
+31 INDIVIDUALS ENTITLED TO RECEIVE THIS STATE’S CERTIFICATE OF
+32 ASCERTAINMENT, INDICATING THAT THE AMENDED CERTIFICATE OF
+33 ASCERTAINMENT IS TO BE SUBSTITUTED FOR THE CERTIFICATE OF
+34 ASCERTAINMENT PREVIOUSLY SUBMITTED.
+35 (C) (1) THE STATE ADMINISTRATOR SHALL PREPARE A CERTIFICATE OF
+36 THE VOTE.
+6 SENATE BILL 237
+1 (2) THE PRESIDENTIAL ELECTORS ON THE FINAL LIST SHALL SIGN
+2 THE CERTIFICATE.
+3 (3) THE STATE ADMINISTRATOR SHALL PROCESS AND TRANSMIT THE
+4 SIGNED CERTIFICATE WITH THE AMENDED CERTIFICATE OF ASCERTAINMENT
+5 UNDER 3 U.S.C. §§ 9 THROUGH 11.
+6 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+7 as follows:
+8 Article – Election Law
+9 [8–504.] 8–505.
+10 (a) (1) At the general election for President and Vice President of the United
+11 States there shall be elected, in accordance with subsection (b) of this section, the number
+12 of presidential electors to which this State is entitled.
+13 (2) Presidential electors shall be elected at large by the voters of the entire
+14 State.
+15 (b) (1) The names of the candidates for the office of presidential elector may
+16 not be printed on the ballot.
+17 (2) A vote for the candidates for President and Vice President of a political
+18 party shall be considered to be and counted as a vote for each of the NOMINEES FOR
+19 presidential [electors] ELECTOR of the political party [nominated] SUBMITTED in
+20 accordance with § 8–503 of this subtitle.
+21 (3) A VOTE FOR AN UNAFFILIATED CANDIDATE FOR PRESIDENT AND
+22 VICE PRESIDENT SHALL BE CONSIDERED TO BE AND COUNTED AS A VOTE FOR EACH
+23 OF THE NOMINEES FOR PRESIDENTIAL ELECTOR SUBMITTED BY THE UNAFFILIATED
+24 PRESIDENTIAL CANDIDATE TO THE STATE BOARD IN ACCORDANCE WITH § 8–503 OF
+25 THIS SUBTITLE.
+26 [8–505.] 8–508.
+27 (a) (1) The individuals elected to the office of presidential elector shall meet in
+28 the State House in the City of Annapolis on the day provided by the Constitution and laws
+29 of the United States.
+30 (2) The conduct of the meeting shall be consistent with the requirements
+31 of federal law.
+32 (b) (1) Before proceeding to perform the duties of their office, the presidential
+SENATE BILL 237 7
+1 electors who are present shall fill any vacancy in the office of PRESIDENTIAL elector IN
+2 ACCORDANCE WITH § 8–507 OF THIS SUBTITLE, whether the vacancy is caused by
+3 absence or other reason.
+4 (2) An individual appointed to fill a vacancy is entitled to all rights and
+5 privileges of the duly elected electors.
+6 (c) (1) After taking the oath prescribed by Article I, § 9 of the Maryland
+7 Constitution before the Clerk of the Supreme Court of Maryland or, in the Clerk’s absence,
+8 before one of the Clerk’s deputies, the presidential electors shall cast their votes for the
+9 candidates for President and Vice President who received a plurality of the votes cast in
+10 the State of Maryland.
+11 (2) THE STATE ADMINISTRATOR SHALL PROVIDE EACH
+12 PRESIDENTIAL ELECTOR WITH A PRESIDENTIAL AND VICE PRESIDENTIAL BALLOT.
+13 (3) EACH PRESIDENTIAL ELECTOR SHALL MARK THE PRESIDENTIAL
+14 ELECTOR’S PRESIDENTIAL AND VICE PRESIDENTIAL BALLOTS WITH THE
+15 PRESIDENTIAL ELECTOR’S SIGNATURE AND THE PRESIDENTIAL ELECTOR’S
+16 LEGIBLY PRINTED NAME.
+17 (D) (1) EACH PRESIDENTIAL ELECTOR SHALL PRESENT BOTH
+18 COMPLETED BALLOTS TO THE STATE ADMINISTRATOR.
+19 (2) THE STATE ADMINISTRATOR SHALL EXAMINE THE BALLOTS
+20 PRESENTED UNDER PARAGRAPH (1) OF THIS SUBSECTION AND ACCEPT AS CAST ALL
+21 BALLOTS OF PRESIDENTIAL ELECTORS WHOSE VOTES ARE CONSISTENT WITH THEIR
+22 PLEDGES EXECUTED UNDER § 8–504 OR § 8–507(D) OF THIS SUBTITLE.
+23 (3) THE STATE ADMINISTRATOR MAY NOT COUNT EITHER A
+24 PRESIDENTIAL ELECTOR’S PRESIDENTIAL OR VICE PRESIDENTIAL BALLOT IF THE
+25 PRESIDENTIAL ELECTOR HAS NOT MARKED BOTH BALLOTS OR HAS MARKED A
+26 BALLOT IN VIOLATION OF THE PRESIDENTIAL ELECTOR’S PLEDGE.
+27 (E) A PRESIDENTIAL ELECTOR WHO REFUSES TO PRESENT A BALLOT,
+28 PRESENTS AN UNMARKED BALLOT, OR PRESENTS A BALLOT MARKED IN VIOLATION
+29 OF THE PRESIDENTIAL ELECTOR’S PLEDGE EXECUTED UNDER § 8–504 OR § 8–507(D)
+30 OF THIS SUBTITLE VACATES THE OFFICE OF ELECTOR, CREATING A VACANT
+31 POSITION TO BE FILLED UNDER § 8–507 OF THIS SUBTITLE.
+32 (F) THE STATE ADMINISTRATOR SHALL DISTRIBUTE BALLOTS AND
+33 COLLECT BALLOTS FROM A SUBSTITUTE PRESIDENTIAL ELECTOR AND REPEAT THE
+34 PROCESS UNDER THIS SECTION, DECLARING AND FILLING VACANT POSITIONS AS
+35 REQUIRED, AND RECORDING APPROPRIATELY COMPLETED BALLOTS FROM THE
+8 SENATE BILL 237
+1 SUBSTITUTED PRESIDENTIAL ELECTORS, UNTIL ALL OF THE STATE’S ELECTORAL
+2 VOTES HAVE BEEN CAST AND RECORDED.
+3 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+4 as follows:
+5 Article – Election Law
+6 [8–504.] 8–505.
+7 (a) (1) At the general election for President and Vice President of the United
+8 States there shall be elected, in accordance with subsection (b) of this section, the number
+9 of presidential electors to which this State is entitled.
+10 (2) Presidential electors shall be elected under the procedure provided in §
+11 8–5A–01 of this title.
+12 (b) (1) The names of the candidates for the office of presidential elector may
+13 not be printed on the ballot.
+14 (2) A vote for the candidates for President and Vice President of a political
+15 party shall be considered to be and counted as a vote for each of the NOMINEES FOR
+16 presidential [electors] ELECTOR of the political party [nominated] SUBMITTED in
+17 accordance with § 8–503 of this subtitle.
+18 (3) A VOTE FOR AN UNAFFILIATED CANDIDATE FOR PRESIDENT AND
+19 VICE PRESIDENT SHALL BE CONSIDERED TO BE AND COUNTED AS A VOTE FOR EACH
+20 OF THE NOMINEES FOR PRESIDENTIAL ELECTOR SUBMITTED BY THE UNAFFILIATED
+21 PRESIDENTIAL CANDIDATE TO THE STATE BOARD IN ACCORDANCE WITH § 8–503 OF
+22 THIS SUBTITLE.
+23 [8–505.] 8–508.
+24 (a) (1) The individuals elected to the office of presidential elector shall meet in
+25 the State House in the City of Annapolis on the day provided by the Constitution and laws
+26 of the United States.
+27 (2) The conduct of the meeting shall be consistent with the requirements
+28 of federal law.
+29 (b) (1) Before proceeding to perform the duties of their office, the presidential
+30 electors who are present shall fill any vacancy in the office of PRESIDENTIAL elector IN
+31 ACCORDANCE WITH § 8–507 OF THIS SUBTITLE, whether the vacancy is caused by
+32 absence or other reason.
+33 (2) An individual appointed to fill a vacancy is entitled to all rights and
+SENATE BILL 237 9
+1 privileges of the duly elected electors.
+2 (c) (1) After taking the oath prescribed by Article I, § 9 of the Maryland
+3 Constitution before the Clerk of the Supreme Court of Maryland or, in the Clerk’s absence,
+4 before one of the Clerk’s deputies, the presidential electors shall cast their votes for the
+5 candidates for President and Vice President who received a plurality of the votes cast in
+6 the national popular vote total defined in § 8–5A–01 of this title.
+7 (2) THE STATE ADMINISTRATOR SHALL PROVIDE EACH
+8 PRESIDENTIAL ELECTOR WITH A PRESIDENTIAL AND VICE PRESIDENTIAL BALLOT.
+9 (3) EACH PRESIDENTIAL ELECTOR SHALL MARK THE PRESIDENTIAL
+10 ELECTOR’S PRESIDENTIAL AND VICE PRESIDENTIAL BALLOTS WITH THE
+11 PRESIDENTIAL ELECTOR’S SIGNATURE AND THE PRESIDENTIAL ELECTOR’S
+12 LEGIBLY PRINTED NAME.
+13 (D) (1) EACH PRESIDENTIAL ELECTOR SHALL PRESENT BOTH
+14 COMPLETED BALLOTS TO THE STATE ADMINISTRATOR, WHO SHALL EXAMINE THE
+15 BALLOTS AND ACCEPT AS CAST ALL BALLOTS OF PRESIDENTIAL ELECTORS WHOSE
+16 VOTES ARE CONSISTENT WITH THEIR PLEDGES EXECUTED FOR THE CANDIDATES
+17 FOR PRESIDENT AND VICE PRESIDENT WHO ARE THE NATIONAL POPULAR VOTE
+18 WINNERS AS DEFINED IN § 8–5A–01 OF THIS TITLE.
+19 (2) THE STATE ADMINISTRATOR MAY NOT COUNT EITHER A
+20 PRESIDENTIAL ELECTOR’S PRESIDENTIAL OR VICE PRESIDENTIAL BALLOT IF THE
+21 PRESIDENTIAL ELECTOR HAS NOT MARKED BOTH BALLOTS OR HAS MARKED A
+22 BALLOT IN VIOLATION OF THE PRESIDENTIAL ELECTOR’S PLEDGE.
+23 (E) A PRESIDENTIAL ELECTOR WHO REFUSES TO PRESENT A BALLOT,
+24 PRESENTS AN UNMARKED BALLOT, OR PRESENTS A BALLOT MARKED IN VIOLATION
+25 OF THE PRESIDENTIAL ELECTOR’S PLEDGE EXECUTED UNDER § 8–504 OR § 8–507(D)
+26 OF THIS SUBTITLE VACATES THE OFFICE OF ELECTOR, CREATING A VACANT
+27 POSITION TO BE FILLED UNDER § 8–507 OF THIS SUBTITLE.
+28 (F) THE STATE ADMINISTRATOR SHALL DISTRIBUTE BALLOTS AND
+29 COLLECT BALLOTS FROM A SUBSTITUTE PRESIDENTIAL ELECTOR AND REPEAT THE
+30 PROCESS UNDER THIS SECTION, DECLARING AND FILLING VACANT POSITIONS AS
+31 REQUIRED, AND RECORDING APPROPRIATELY COMPLETED BALLOTS FROM THE
+32 SUBSTITUTE PRESIDENTIAL ELECTORS, UNTIL ALL OF THIS STATE’S ELECTORAL
+33 VOTES HAVE BEEN CAST AND RECORDED.
+34 SECTION 4. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take
+35 effect October 1, 2026. It shall remain effective until the taking effect of Section 1 of
+36 Chapters 43 and 44 of the Acts of the General Assembly of 2007. If the contingency stated
+10 SENATE BILL 237
+1 in Section 3 of Chapters 43 and 44 of the Acts of the General Assembly of 2007 takes effect,
+2 Section 2 of this Act shall be abrogated and of no further force and effect.
+3 SECTION 5. AND BE IT FURTHER ENACTED, That Section 3 of this Act shall take
+4 effect on the taking effect of Section 1 of Chapters 43 and 44 of the Acts of the General
+5 Assembly of 2007.
+6 SECTION 6. AND BE IT FURTHER ENACTED, That, subject to the provisions of
+7 Sections 4 and 5 of this Act, this Act shall take effect October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6   C A E F t p o a t p f t s o p e n a a p e n r t S A e p c c B  A  S  A  ( B  A  S  A  ( B  A  S]
+[DELETED:  S   A  ( B  A  S  A  (  (  S T A 1  ( I t a t f w h t m i u a d –P”IRR  RPUS. R N TS(– “UTN P CE M A F R O T N T W Q F TU   ()“](–T S 8  ( E p p s n o p f t n o c  ( T n o c n b e p p s b t n.  )( FO E P ER A P P T PN O A U P CE T OB. (  O T I S B D”E  A]
+[DELETED: S 3  ()  ( T i]() ar T O A    c   ( T n a r a o i n a c f p er P E N A T O A    o t   ( T  e F PL A A   g() A P E N A A E N O A P P S E T PE F S F T P O P“R   R IIP F T N F T O O T P T() A P E N A A E N O A U P S E T F PE F S F T“ O P E A A N O A UE  ES.() H T OB.() IF    E 88 A C F T O I A W T R O T PY T P E U S A O T(  D 8(]
+[DELETED:  S  IS S T TES C O A A B     T O S C T TESU.§6,GST ( P E W S A PT I W C A S P E W F TY  ( VY T O W S A A C O() TSH T D S P A T M O   E88.() HT() TSH T D S A A I A A ( T A P E I P TE  ( T A P E F T V I N P VE B A A P E V W W N B T S P P O T ( T N O A P E I  O  O T SN B A A I)()]
+[DELETED: S 5 ES I N A V B A SS ( T I A T B A L T N F   SN B A A P E C B LS  ( A P E P A V A B F I A W I    O  O T,(,(,(N R     )(N() O Q A A S P E U C N ) R U   O T S S E T8 PE  A T S A T M M B F“V A I R C W T P O T  . () ASF T V O T TES P E ID  T T O P I O A C O      TU.§6, I S P A A C O I A W     A T I T TU.§G’. ORS() TH O T D E T R T TES C OT I T T A C O I T B S F T C O() ( TSH T DE]
+[DELETED:  S  ( E ( TS T D C W T A C O A     U.§§91 S a A]8 8.   ( ( A S o   ( P S  ( ( T n   ( A p p es o t p p nd i][ER S a   A R R T O   B§8]8 8  ( ( T t o   ( T o  ( ( B]
+[DELETED: S 7 e e I W   O T S8 , w t v i c b a   ( A p  (  A t t o p b A I § 9 o t M C b c t   TS T D S P E   RS P A V P B W T ERS S A T P ERS() ( A P E S P B T DA. ( TS T D S E T B       D 84§8(). ( TS T D M N C E ARS E H N M B B O H M ARS.() A P E W R T P A BTT RS     D§84§8( T S V T O O ER C A V   87.() TSH T D S D B AN D A R A C B F T]
+[DELETED:  S S  TESSD   S a A]8 8.  ( ( A S o   ( P 8  ( ( T n   ( A p p es o t p p nd i][ER S a   A R R T O   B§8]8 8.  ( ( T t o   ( T o  ( ( B e e I W   O T S8 , w t v i c b a   ( A]
+[DELETED: S 9 p  (  A t t o p b A I § 9 o t M C b c t   TS T D S P ET   RS P A V P B W T ERS S A T P ERS() ( A P E S P B T DR A R I RV   81. ( TS T D M N C E ARS E H N M B B O H M ARS.() A P E W R T P A BTT RS     D§84§8( T S V T O O ER C A V   87.() TSH T D S D B AN D A R A C B F T P ES U A O TESSD  S e O 1 2 I s r e u t t e o S 1 o C]
+[DELETED:  S  i S  S e A  S S          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 237
+G1 6lr0667
+CF HB 182
+By: Senator Kagan
+Introduced and read first time: January 15, 2026
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 25, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Election Law – Presidential Electors – Selection and Voting
+3 FOR the purpose of altering the procedures for the selection of presidential elector
+4 nominees and alternate presidential elector nominees; requiring the State
+5 Administrator of Elections to preside at a certain meeting of certain presidential
+6 electors; altering the procedures for the meeting of presidential electors; establishing
+7 procedures for the preparation, delivery, signing, and transmission of an amended
+8 certificate of ascertainment after the vote of the State’s presidential electors under
+9 certain circumstances; and generally relating to presidential electors.
+10 BY repealing and reenacting, without amendments,
+11 Article – Election Law
+12 Section 1–101(a)
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2025 Supplement)
+15 BY adding to
+16 Article – Election Law
+17 Section 1–101(ii–2) and (tt–1), 8–504, 8–506, 8–507, and 8–509
+18 Annotated Code of Maryland
+19 (2022 Replacement Volume and 2025 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – Election Law
+22 Section 1–101(tt–1) and 8–503 through 8–505
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0237*
+
+2 SENATE BILL 237
+1 Annotated Code of Maryland
+2 (2022 Replacement Volume and 2025 Supplement)
+3 BY repealing and reenacting, with amendments,
+4 Article – Election Law
+5 Section 8–504 and 8–505
+6 Annotated Code of Maryland
+7 (2022 Replacement Volume and 2025 Supplement)
+8 (As enacted by Chapters 43 and 44 of the Acts of the General Assembly of 2007)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That the Laws of Maryland read as follows:
+11 Article – Election Law
+12 1–101.
+13 (a) In this article the following words have the meanings indicated unless a
+14 different meaning is clearly intended from the context.
+15 (II–2) “PRESIDENTIAL ELECTOR” MEANS AN ELECTOR FOR PRESIDENT AND
+16 VICE PRESIDENT OF THE UNITED STATES.
+17 (TT–1) “UNAFFILIATED PRESIDENTIAL CANDIDATE” MEANS A
+18 CANDIDATE FOR PRESIDENT OF THE UNITED STATES WHO QUALIFIES FOR THE
+19 GENERAL ELECTION BALLOT BY MEANS OTHER THAN NOMINATION BY A POLITICAL
+20 PARTY.
+21 [(tt–1)] (TT–2) “Uniformed services” has the meaning stated in § 9–901 of the
+22 State Government Article.
+23 8–503.
+24 [(a) Each political party shall nominate or provide for the nomination of
+25 candidates for presidential elector of the party in accordance with party rules.
+26 (b) The number of candidates nominated by each political party shall be the
+27 number that this State is entitled to elect.]
+28 (A) (1) FOR EACH PRESIDENTIAL ELECTOR, A POLITICAL PARTY
+29 CONTESTING THE POSITION, OR AN UNAFFILIATED PRESIDENTIAL CANDIDATE,
+30 SHALL SUBMIT TO THE STATE BOARD THE NAMES OF TWO QUALIFIED INDIVIDUALS.
+31 (2) ONE OF THE INDIVIDUALS SHALL BE DESIGNATED
+32 “PRESIDENTIAL ELECTOR NOMINEE” AND THE OTHER “ALTERNATE PRESIDENTIAL
+33 ELECTOR NOMINEE”.
+
+SENATE BILL 237 3
+1 [(c)] (B) (1) The names and residential addresses of [individuals nominated
+2 as candidates for presidential elector] THE PRESIDENTIAL ELECTOR NOMINEES AND
+3 ALTERNATE PRESIDENTIAL ELECTOR NOMINEES SUBMITTED TO THE STATE BOARD
+4 IN ACCORDANCE WITH SUBSECTION (A) OF THIS SECTION by a political party shall be
+5 certified to the State Board by the presiding officers of the political party.
+6 (2) The names and residential addresses of [individuals nominated as
+7 candidates for presidential elector] THE PRESIDENTIAL ELECTOR NOMINEES AND
+8 ALTERNATE PRESIDENTIAL ELECTOR NOMINEES SUBMITTED TO THE STATE BOARD
+9 IN ACCORDANCE WITH SUBSECTION (A) OF THIS SECTION by a candidate for President
+10 of the United States who is nominated by petition shall be certified to the State Board by
+11 the candidate.
+12 (3) The NOMINEES FOR PRESIDENTIAL electors AND ALTERNATE
+13 PRESIDENTIAL ELECTORS shall be certified to the State Board at least 30 days before the
+14 general election.
+15 8–504.
+16 (A) EACH PRESIDENTIAL ELECTOR NOMINEE AND ALTERNATE
+17 PRESIDENTIAL ELECTOR NOMINEE OF A POLITICAL PARTY SHALL EXECUTE THE
+18 FOLLOWING PLEDGE: “IF SELECTED FOR THE POSITION OF PRESIDENTIAL
+19 ELECTOR, I AGREE TO SERVE AND TO MARK MY BALLOTS FOR PRESIDENT AND VICE
+20 PRESIDENT FOR THE NOMINEES FOR THOSE OFFICES OF THE PARTY THAT
+21 NOMINATED ME.”.
+22 (B) EACH PRESIDENTIAL ELECTOR NOMINEE AND ALTERNATE
+23 PRESIDENTIAL ELECTOR NOMINEE OF AN UNAFFILIATED PRESIDENTIAL
+24 CANDIDATE SHALL EXECUTE THE FOLLOWING PLEDGE: “IF SELECTED FOR THE
+25 POSITION OF PRESIDENTIAL ELECTOR AS A NOMINEE OF AN UNAFFILIATED
+26 PRESIDENTIAL CANDIDATE, I AGREE TO SERVE AND TO MARK MY BALLOTS FOR THAT
+27 CANDIDATE AND FOR THAT CANDIDATE’S VICE PRESIDENTIAL RUNNING MATE.”.
+28 (C) THE EXECUTED PLEDGES SHALL ACCOMPANY THE SUBMISSION OF THE
+29 CORRESPONDING PRESIDENTIAL ELECTOR NOMINEE NAMES TO THE STATE BOARD.
+30 (D) IF, AFTER THE NOMINATION OF A CANDIDATE FOR PRESIDENT OR VICE
+31 PRESIDENT BY A POLITICAL PARTY AND BEFORE THE MEETING OF PRESIDENTIAL
+32 ELECTORS UNDER § 8–508 OF THIS SUBTITLE, THE CANDIDATE DIES OR WITHDRAWS
+33 AS A CANDIDATE FOR THAT OFFICE IN ACCORDANCE WITH THE RULES OF THE
+34 POLITICAL PARTY, THE PLEDGE EXECUTED UNDER SUBSECTION (A) OF THIS
+35 SECTION OR § 8–507(D) OF THIS SUBTITLE APPLIES TO THE SUCCESSOR CANDIDATE
+36 FOR THAT OFFICE NOMINATED BY THE POLITICAL PARTY IN ACCORDANCE WITH THE
+
+4 SENATE BILL 237
+1 PARTY RULES.
+2 8–506.
+3 IN SUBMITTING THIS STATE’S CERTIFICATE OF ASCERTAINMENT AS
+4 REQUIRED BY 3 U.S.C. § 6, THE GOVERNOR SHALL CERTIFY THE STATE’S
+5 PRESIDENTIAL ELECTORS AND STATE IN THE CERTIFICATE THAT:
+6 (1) THE PRESIDENTIAL ELECTORS WILL SERVE AS PRESIDENTIAL
+7 ELECTORS UNLESS A VACANCY OCCURS IN THE OFFICE OF PRESIDENTIAL ELECTOR
+8 BEFORE THE END OF THE MEETING AT WHICH PRESIDENTIAL ELECTOR VOTES ARE
+9 CAST, IN WHICH CASE A SUBSTITUTE PRESIDENTIAL ELECTOR WILL FILL THE
+10 VACANCY; AND
+11 (2) IF A SUBSTITUTE PRESIDENTIAL ELECTOR IS APPOINTED TO FILL
+12 A VACANCY, THE GOVERNOR WILL SUBMIT AN AMENDED CERTIFICATE OF
+13 ASCERTAINMENT STATING THE NAMES ON THE FINAL LIST OF THE PRESIDENTIAL
+14 ELECTORS.
+15 8–507.
+16 (A) THE STATE ADMINISTRATOR SHALL PRESIDE AT THE MEETING OF
+17 PRESIDENTIAL ELECTORS DESCRIBED IN § 8–508 OF THIS SUBTITLE.
+18 (B) THE POSITION OF A PRESIDENTIAL ELECTOR NOT PRESENT TO VOTE IS
+19 VACANT.
+20 (C) THE STATE ADMINISTRATOR SHALL APPOINT AN INDIVIDUAL AS A
+21 SUBSTITUTE PRESIDENTIAL ELECTOR TO FILL A VACANCY AS FOLLOWS:
+22 (1) IF THE ALTERNATE PRESIDENTIAL ELECTOR IS PRESENT TO
+23 VOTE, BY APPOINTING THE ALTERNATE PRESIDENTIAL ELECTOR FOR THE VACANT
+24 POSITION;
+25 (2) IF THE ALTERNATE PRESIDENTIAL ELECTOR FOR THE VACANT
+26 POSITION IS NOT PRESENT TO VOTE, BY APPOINTING A PRESIDENTIAL ELECTOR
+27 CHOSEN BY LOT FROM AMONG THE ALTERNATE PRESIDENTIAL ELECTORS PRESENT
+28 TO VOTE WHO WERE NOMINATED BY THE SAME POLITICAL PARTY OR THE
+29 UNAFFILIATED PRESIDENTIAL CANDIDATE;
+30 (3) IF THE NUMBER OF ALTERNATE PRESIDENTIAL ELECTORS
+31 PRESENT TO VOTE IS INSUFFICIENT TO FILL ANY VACANT POSITION IN ACCORDANCE
+32 WITH ITEM (1) OR (2) OF THIS SUBSECTION, BY APPOINTING ANY IMMEDIATELY
+
+SENATE BILL 237 5
+1 AVAILABLE INDIVIDUAL WHO IS QUALIFIED TO SERVE AS A PRESIDENTIAL ELECTOR
+2 AND CHOSEN THROUGH NOMINATION BY AND PLURALITY VOTE OF THE REMAINING
+3 PRESIDENTIAL ELECTORS, INCLUDING NOMINATION AND VOTE BY A SINGLE
+4 PRESIDENTIAL ELECTOR IF ONLY ONE REMAINS;
+5 (4) IF THERE IS A TIE BETWEEN AT LEAST TWO NOMINEES FOR
+6 SUBSTITUTE PRESIDENTIAL ELECTOR IN A VOTE CONDUCTED UNDER ITEM (3) OF
+7 THIS SUBSECTION, BY APPOINTING A PRESIDENTIAL ELECTOR CHOSEN BY LOT
+8 FROM AMONG THOSE NOMINEES; OR
+9 (5) IF ALL PRESIDENTIAL ELECTOR POSITIONS ARE VACANT AND
+10 CANNOT BE FILLED IN ACCORDANCE WITH ITEM (1), (2), (3), OR (4) OF THIS
+11 SUBSECTION, BY APPOINTING A SINGLE PRESIDENTIAL ELECTOR, WITH REMAINING
+12 VACANT POSITIONS TO BE FILLED IN ACCORDANCE WITH ITEM (3) OR (4) OF THIS
+13 SUBSECTION.
+14 (D) TO QUALIFY AS A SUBSTITUTE PRESIDENTIAL ELECTOR UNDER
+15 SUBSECTION (C) OF THIS SECTION, AN INDIVIDUAL WHO HAS NOT EXECUTED THE
+16 PLEDGE REQUIRED UNDER § 8–504 OF THIS SUBTITLE SHALL EXECUTE THE
+17 FOLLOWING PLEDGE: “I AGREE TO SERVE AND TO MARK MY BALLOTS FOR
+18 PRESIDENT AND VICE PRESIDENT CONSISTENT WITH THE PLEDGE OF THE
+19 INDIVIDUAL TO WHOSE PRESIDENTIAL ELECTOR POSITION I HAVE SUCCEEDED.”.
+20 8–509.
+21 (A) AFTER THE VOTE OF THE STATE’S PRESIDENTIAL ELECTORS IS
+22 COMPLETED, IF THE FINAL LIST OF PRESIDENTIAL ELECTORS DIFFERS FROM ANY
+23 LIST THAT THE GOVERNOR PREVIOUSLY INCLUDED ON A CERTIFICATE OF
+24 ASCERTAINMENT PREPARED AND TRANSMITTED UNDER 3 U.S.C. § 6, THE STATE
+25 ADMINISTRATOR IMMEDIATELY SHALL PREPARE AN AMENDED CERTIFICATE OF
+26 ASCERTAINMENT IN ACCORDANCE WITH 3 U.S.C. § 4 AND TRANSMIT IT TO THE
+27 GOVERNOR FOR THE GOVERNOR’S SIGNATURE.
+28 (B) THE GOVERNOR IMMEDIATELY SHALL DELIVER THE SIGNED AMENDED
+29 CERTIFICATE OF ASCERTAINMENT TO THE STATE ADMINISTRATOR AND A SIGNED
+30 DUPLICATE ORIGINAL OF THE AMENDED CERTIFICATE OF ASCERTAINMENT TO ALL
+31 INDIVIDUALS ENTITLED TO RECEIVE THIS STATE’S CERTIFICATE OF
+32 ASCERTAINMENT, INDICATING THAT THE AMENDED CERTIFICATE OF
+33 ASCERTAINMENT IS TO BE SUBSTITUTED FOR THE CERTIFICATE OF
+34 ASCERTAINMENT PREVIOUSLY SUBMITTED.
+35 (C) (1) THE STATE ADMINISTRATOR SHALL PREPARE A CERTIFICATE OF
+36 THE VOTE.
+
+6 SENATE BILL 237
+1 (2) THE PRESIDENTIAL ELECTORS ON THE FINAL LIST SHALL SIGN
+2 THE CERTIFICATE.
+3 (3) THE STATE ADMINISTRATOR SHALL PROCESS AND TRANSMIT THE
+4 SIGNED CERTIFICATE WITH THE AMENDED CERTIFICATE OF ASCERTAINMENT
+5 UNDER 3 U.S.C. §§ 9 THROUGH 11.
+6 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+7 as follows:
+8 Article – Election Law
+9 [8–504.] 8–505.
+10 (a) (1) At the general election for President and Vice President of the United
+11 States there shall be elected, in accordance with subsection (b) of this section, the number
+12 of presidential electors to which this State is entitled.
+13 (2) Presidential electors shall be elected at large by the voters of the entire
+14 State.
+15 (b) (1) The names of the candidates for the office of presidential elector may
+16 not be printed on the ballot.
+17 (2) A vote for the candidates for President and Vice President of a political
+18 party shall be considered to be and counted as a vote for each of the NOMINEES FOR
+19 presidential [electors] ELECTOR of the political party [nominated] SUBMITTED in
+20 accordance with § 8–503 of this subtitle.
+21 (3) A VOTE FOR AN UNAFFILIATED CANDIDATE FOR PRESIDENT AND
+22 VICE PRESIDENT SHALL BE CONSIDERED TO BE AND COUNTED AS A VOTE FOR EACH
+23 OF THE NOMINEES FOR PRESIDENTIAL ELECTOR SUBMITTED BY THE UNAFFILIATED
+24 PRESIDENTIAL CANDIDATE TO THE STATE BOARD IN ACCORDANCE WITH § 8–503 OF
+25 THIS SUBTITLE.
+26 [8–505.] 8–508.
+27 (a) (1) The individuals elected to the office of presidential elector shall meet in
+28 the State House in the City of Annapolis on the day provided by the Constitution and laws
+29 of the United States.
+30 (2) The conduct of the meeting shall be consistent with the requirements
+31 of federal law.
+32 (b) (1) Before proceeding to perform the duties of their office, the presidential
+
+SENATE BILL 237 7
+1 electors who are present shall fill any vacancy in the office of PRESIDENTIAL elector IN
+2 ACCORDANCE WITH § 8–507 OF THIS SUBTITLE, whether the vacancy is caused by
+3 absence or other reason.
+4 (2) An individual appointed to fill a vacancy is entitled to all rights and
+5 privileges of the duly elected electors.
+6 (c) (1) After taking the oath prescribed by Article I, § 9 of the Maryland
+7 Constitution before the Clerk of the Supreme Court of Maryland or, in the Clerk’s absence,
+8 before one of the Clerk’s deputies, the presidential electors shall cast their votes for the
+9 candidates for President and Vice President who received a plurality of the votes cast in
+10 the State of Maryland.
+11 (2) THE STATE ADMINISTRATOR SHALL PROVIDE EACH
+12 PRESIDENTIAL ELECTOR WITH A PRESIDENTIAL AND VICE PRESIDENTIAL BALLOT.
+13 (3) EACH PRESIDENTIAL ELECTOR SHALL MARK THE PRESIDENTIAL
+14 ELECTOR’S PRESIDENTIAL AND VICE PRESIDENTIAL BALLOTS WITH THE
+15 PRESIDENTIAL ELECTOR’S SIGNATURE AND THE PRESIDENTIAL ELECTOR’S
+16 LEGIBLY PRINTED NAME.
+17 (D) (1) EACH PRESIDENTIAL ELECTOR SHALL PRESENT BOTH
+18 COMPLETED BALLOTS TO THE STATE ADMINISTRATOR.
+19 (2) THE STATE ADMINISTRATOR SHALL EXAMINE THE BALLOTS
+20 PRESENTED UNDER PARAGRAPH (1) OF THIS SUBSECTION AND ACCEPT AS CAST ALL
+21 BALLOTS OF PRESIDENTIAL ELECTORS WHOSE VOTES ARE CONSISTENT WITH THEIR
+22 PLEDGES EXECUTED UNDER § 8–504 OR § 8–507(D) OF THIS SUBTITLE.
+23 (3) THE STATE ADMINISTRATOR MAY NOT COUNT EITHER A
+24 PRESIDENTIAL ELECTOR’S PRESIDENTIAL OR VICE PRESIDENTIAL BALLOT IF THE
+25 PRESIDENTIAL ELECTOR HAS NOT MARKED BOTH BALLOTS OR HAS MARKED A
+26 BALLOT IN VIOLATION OF THE PRESIDENTIAL ELECTOR’S PLEDGE.
+27 (E) A PRESIDENTIAL ELECTOR WHO REFUSES TO PRESENT A BALLOT,
+28 PRESENTS AN UNMARKED BALLOT, OR PRESENTS A BALLOT MARKED IN VIOLATION
+29 OF THE PRESIDENTIAL ELECTOR’S PLEDGE EXECUTED UNDER § 8–504 OR § 8–507(D)
+30 OF THIS SUBTITLE VACATES THE OFFICE OF ELECTOR, CREATING A VACANT
+31 POSITION TO BE FILLED UNDER § 8–507 OF THIS SUBTITLE.
+32 (F) THE STATE ADMINISTRATOR SHALL DISTRIBUTE BALLOTS AND
+33 COLLECT BALLOTS FROM A SUBSTITUTE PRESIDENTIAL ELECTOR AND REPEAT THE
+34 PROCESS UNDER THIS SECTION, DECLARING AND FILLING VACANT POSITIONS AS
+35 REQUIRED, AND RECORDING APPROPRIATELY COMPLETED BALLOTS FROM THE
+
+8 SENATE BILL 237
+1 SUBSTITUTED PRESIDENTIAL ELECTORS, UNTIL ALL OF THE STATE’S ELECTORAL
+2 VOTES HAVE BEEN CAST AND RECORDED.
+3 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+4 as follows:
+5 Article – Election Law
+6 [8–504.] 8–505.
+7 (a) (1) At the general election for President and Vice President of the United
+8 States there shall be elected, in accordance with subsection (b) of this section, the number
+9 of presidential electors to which this State is entitled.
+10 (2) Presidential electors shall be elected under the procedure provided in §
+11 8–5A–01 of this title.
+12 (b) (1) The names of the candidates for the office of presidential elector may
+13 not be printed on the ballot.
+14 (2) A vote for the candidates for President and Vice President of a political
+15 party shall be considered to be and counted as a vote for each of the NOMINEES FOR
+16 presidential [electors] ELECTOR of the political party [nominated] SUBMITTED in
+17 accordance with § 8–503 of this subtitle.
+18 (3) A VOTE FOR AN UNAFFILIATED CANDIDATE FOR PRESIDENT AND
+19 VICE PRESIDENT SHALL BE CONSIDERED TO BE AND COUNTED AS A VOTE FOR EACH
+20 OF THE NOMINEES FOR PRESIDENTIAL ELECTOR SUBMITTED BY THE UNAFFILIATED
+21 PRESIDENTIAL CANDIDATE TO THE STATE BOARD IN ACCORDANCE WITH § 8–503 OF
+22 THIS SUBTITLE.
+23 [8–505.] 8–508.
+24 (a) (1) The individuals elected to the office of presidential elector shall meet in
+25 the State House in the City of Annapolis on the day provided by the Constitution and laws
+26 of the United States.
+27 (2) The conduct of the meeting shall be consistent with the requirements
+28 of federal law.
+29 (b) (1) Before proceeding to perform the duties of their office, the presidential
+30 electors who are present shall fill any vacancy in the office of PRESIDENTIAL elector IN
+31 ACCORDANCE WITH § 8–507 OF THIS SUBTITLE, whether the vacancy is caused by
+32 absence or other reason.
+33 (2) An individual appointed to fill a vacancy is entitled to all rights and
+
+SENATE BILL 237 9
+1 privileges of the duly elected electors.
+2 (c) (1) After taking the oath prescribed by Article I, § 9 of the Maryland
+3 Constitution before the Clerk of the Supreme Court of Maryland or, in the Clerk’s absence,
+4 before one of the Clerk’s deputies, the presidential electors shall cast their votes for the
+5 candidates for President and Vice President who received a plurality of the votes cast in
+6 the national popular vote total defined in § 8–5A–01 of this title.
+7 (2) THE STATE ADMINISTRATOR SHALL PROVIDE EACH
+8 PRESIDENTIAL ELECTOR WITH A PRESIDENTIAL AND VICE PRESIDENTIAL BALLOT.
+9 (3) EACH PRESIDENTIAL ELECTOR SHALL MARK THE PRESIDENTIAL
+10 ELECTOR’S PRESIDENTIAL AND VICE PRESIDENTIAL BALLOTS WITH THE
+11 PRESIDENTIAL ELECTOR’S SIGNATURE AND THE PRESIDENTIAL ELECTOR’S
+12 LEGIBLY PRINTED NAME.
+13 (D) (1) EACH PRESIDENTIAL ELECTOR SHALL PRESENT BOTH
+14 COMPLETED BALLOTS TO THE STATE ADMINISTRATOR, WHO SHALL EXAMINE THE
+15 BALLOTS AND ACCEPT AS CAST ALL BALLOTS OF PRESIDENTIAL ELECTORS WHOSE
+16 VOTES ARE CONSISTENT WITH THEIR PLEDGES EXECUTED FOR THE CANDIDATES
+17 FOR PRESIDENT AND VICE PRESIDENT WHO ARE THE NATIONAL POPULAR VOTE
+18 WINNERS AS DEFINED IN § 8–5A–01 OF THIS TITLE.
+19 (2) THE STATE ADMINISTRATOR MAY NOT COUNT EITHER A
+20 PRESIDENTIAL ELECTOR’S PRESIDENTIAL OR VICE PRESIDENTIAL BALLOT IF THE
+21 PRESIDENTIAL ELECTOR HAS NOT MARKED BOTH BALLOTS OR HAS MARKED A
+22 BALLOT IN VIOLATION OF THE PRESIDENTIAL ELECTOR’S PLEDGE.
+23 (E) A PRESIDENTIAL ELECTOR WHO REFUSES TO PRESENT A BALLOT,
+24 PRESENTS AN UNMARKED BALLOT, OR PRESENTS A BALLOT MARKED IN VIOLATION
+25 OF THE PRESIDENTIAL ELECTOR’S PLEDGE EXECUTED UNDER § 8–504 OR § 8–507(D)
+26 OF THIS SUBTITLE VACATES THE OFFICE OF ELECTOR, CREATING A VACANT
+27 POSITION TO BE FILLED UNDER § 8–507 OF THIS SUBTITLE.
+28 (F) THE STATE ADMINISTRATOR SHALL DISTRIBUTE BALLOTS AND
+29 COLLECT BALLOTS FROM A SUBSTITUTE PRESIDENTIAL ELECTOR AND REPEAT THE
+30 PROCESS UNDER THIS SECTION, DECLARING AND FILLING VACANT POSITIONS AS
+31 REQUIRED, AND RECORDING APPROPRIATELY COMPLETED BALLOTS FROM THE
+32 SUBSTITUTE PRESIDENTIAL ELECTORS, UNTIL ALL OF THIS STATE’S ELECTORAL
+33 VOTES HAVE BEEN CAST AND RECORDED.
+34 SECTION 4. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take
+35 effect October 1, 2026. It shall remain effective until the taking effect of Section 1 of
+36 Chapters 43 and 44 of the Acts of the General Assembly of 2007. If the contingency stated
+
+10 SENATE BILL 237
+1 in Section 3 of Chapters 43 and 44 of the Acts of the General Assembly of 2007 takes effect,
+2 Section 2 of this Act shall be abrogated and of no further force and effect.
+3 SECTION 5. AND BE IT FURTHER ENACTED, That Section 3 of this Act shall take
+4 effect on the taking effect of Section 1 of Chapters 43 and 44 of the Acts of the General
+5 Assembly of 2007.
+6 SECTION 6. AND BE IT FURTHER ENACTED, That, subject to the provisions of
+7 Sections 4 and 5 of this Act, this Act shall take effect October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6   C A E F t p o a t p f t s o p e n a a p e n r t S A e p c c B  A  S  A  ( B  A  S  A  ( B  A  S]
+[DELETED:  S   A  ( B  A  S  A  (  (  S T A 1  ( I t a t f w h t m i u a d –P”IRR  RPUS. R N TS(– “UTN P CE M A F R O T N T W Q F TU   ()“](–T S 8  ( E p p s n o p f t n o c  ( T n o c n b e p p s b t n.  )( FO E P ER A P P T PN O A U P CE T OB. (  O T I S B D”E  A]
+[DELETED: S 3  ()  ( T i]() ar T O A    c   ( T n a r a o i n a c f p er P E N A T O A    o t   ( T  e F PL A A   g() A P E N A A E N O A P P S E T PE F S F T P O P“R   R IIP F T N F T O O T P T() A P E N A A E N O A U P S E T F PE F S F T“ O P E A A N O A UE  ES.() H T OB.() IF    E 88 A C F T O I A W T R O T PY T P E U S A O T(  D 8(]
+[DELETED:  S  IS S T TES C O A A B     T O S C T TESU.§6,GST ( P E W S A PT I W C A S P E W F TY  ( VY T O W S A A C O() TSH T D S P A T M O   E88.() HT() TSH T D S A A I A A ( T A P E I P TE  ( T A P E F T V I N P VE B A A P E V W W N B T S P P O T ( T N O A P E I  O  O T SN B A A I)()]
+[DELETED: S 5 ES I N A V B A SS ( T I A T B A L T N F   SN B A A P E C B LS  ( A P E P A V A B F I A W I    O  O T,(,(,(N R     )(N() O Q A A S P E U C N ) R U   O T S S E T8 PE  A T S A T M M B F“V A I R C W T P O T  . () ASF T V O T TES P E ID  T T O P I O A C O      TU.§6, I S P A A C O I A W     A T I T TU.§G’. ORS() TH O T D E T R T TES C OT I T T A C O I T B S F T C O() ( TSH T DE]
+[DELETED:  S  ( E ( TS T D C W T A C O A     U.§§91 S a A]8 8.   ( ( A S o   ( P S  ( ( T n   ( A p p es o t p p nd i][ER S a   A R R T O   B§8]8 8  ( ( T t o   ( T o  ( ( B]
+[DELETED: S 7 e e I W   O T S8 , w t v i c b a   ( A p  (  A t t o p b A I § 9 o t M C b c t   TS T D S P E   RS P A V P B W T ERS S A T P ERS() ( A P E S P B T DA. ( TS T D S E T B       D 84§8(). ( TS T D M N C E ARS E H N M B B O H M ARS.() A P E W R T P A BTT RS     D§84§8( T S V T O O ER C A V   87.() TSH T D S D B AN D A R A C B F T]
+[DELETED:  S S  TESSD   S a A]8 8.  ( ( A S o   ( P 8  ( ( T n   ( A p p es o t p p nd i][ER S a   A R R T O   B§8]8 8.  ( ( T t o   ( T o  ( ( B e e I W   O T S8 , w t v i c b a   ( A]
+[DELETED: S 9 p  (  A t t o p b A I § 9 o t M C b c t   TS T D S P ET   RS P A V P B W T ERS S A T P ERS() ( A P E S P B T DR A R I RV   81. ( TS T D M N C E ARS E H N M B B O H M ARS.() A P E W R T P A BTT RS     D§84§8( T S V T O O ER C A V   87.() TSH T D S D B AN D A R A C B F T P ES U A O TESSD  S e O 1 2 I s r e u t t e o S 1 o C]
+[DELETED:  S  i S  S e A  S S          G               ]

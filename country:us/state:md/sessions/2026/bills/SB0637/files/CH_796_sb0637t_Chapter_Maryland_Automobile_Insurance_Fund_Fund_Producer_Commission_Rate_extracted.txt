@@ -1,0 +1,114 @@
+Title: (Senate Bill 637)
+Official Title: (Senate Bill 637)
+Number of Sections: 4
+Source: versions - Chapter - Maryland Automobile Insurance Fund - Fund Producer Commission Rate
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 796
+Chapter 796
+AN ACT concerning
+Maryland Automobile Insurance Fund – Fund Producer Minimum Commission
+Rate – Repeal
+FOR the purpose of repealing altering the minimum commission rate that the Maryland
+Automobile Insurance Fund is required to pay to a fund producer of a policyholder
+to whom a policy is issued for private passenger auto insurance; prohibiting the Fund
+from paying a commission to a fund producer for a policy written directly by the Fund
+without the involvement of a fund producer; and generally relating to the Maryland
+Automobile Insurance Fund.
+BY repealing and reenacting, with amendments,
+Article – Insurance
+
+Section 2:
+Section 20–512
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+
+Section 3:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Insurance
+20–512.
+(a) Except as provided in subsection (b) of this section, the Fund shall pay to a
+fund producer of a policyholder to whom a policy is issued a commission:
+(1) for private passenger auto insurance issued by the Fund, at a rate
+determined by the Fund but [not less than 10% 5% and] not to exceed 15% of the total
+premium; and
+(2) for any other insurance issued by the Fund, at a rate determined by the
+Fund but not to exceed 10% of the total premium.
+(b) The Fund may not pay a commission:
+(1) on a fully earned basis;
+(2) if a prospective insured fails to qualify under § 20–502 of this subtitle;
+or
+– 1 –
+Ch. 796 2026 LAWS OF MARYLAND
+(3) if a prospective insured’s initial payment to the Fund, a fund producer,
+or premium finance company is not honored; OR
+(4) ON A POLICY WRITTEN DIRECTLY BY THE FUND WITHOUT THE
+INVOLVEMENT OF A FUND PRODUCER.
+(c) If a policy issued by the Fund is canceled, the Fund shall refund any unearned
+commissions.
+
+Section 4:
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, May 26, 2026.
+– 2 –
+[DELETED: W CAA(S( E ( f p p a i i b t F a a r n  d 5% ( f( T ( o ( i]
+[DELETED:  2  ( i (  A P W D B T U W T( IS A B I F E T t A s t e]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 796
+Chapter 796
+(Senate Bill 637)
+AN ACT concerning
+Maryland Automobile Insurance Fund – Fund Producer Minimum Commission
+Rate – Repeal
+FOR the purpose of repealing altering the minimum commission rate that the Maryland
+Automobile Insurance Fund is required to pay to a fund producer of a policyholder
+to whom a policy is issued for private passenger auto insurance; prohibiting the Fund
+from paying a commission to a fund producer for a policy written directly by the Fund
+without the involvement of a fund producer; and generally relating to the Maryland
+Automobile Insurance Fund.
+BY repealing and reenacting, with amendments,
+Article – Insurance
+Section 20–512
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Insurance
+20–512.
+(a) Except as provided in subsection (b) of this section, the Fund shall pay to a
+fund producer of a policyholder to whom a policy is issued a commission:
+(1) for private passenger auto insurance issued by the Fund, at a rate
+determined by the Fund but [not less than 10% 5% and] not to exceed 15% of the total
+premium; and
+(2) for any other insurance issued by the Fund, at a rate determined by the
+Fund but not to exceed 10% of the total premium.
+(b) The Fund may not pay a commission:
+(1) on a fully earned basis;
+(2) if a prospective insured fails to qualify under § 20–502 of this subtitle;
+or
+– 1 –
+
+Ch. 796 2026 LAWS OF MARYLAND
+(3) if a prospective insured’s initial payment to the Fund, a fund producer,
+or premium finance company is not honored; OR
+(4) ON A POLICY WRITTEN DIRECTLY BY THE FUND WITHOUT THE
+INVOLVEMENT OF A FUND PRODUCER.
+(c) If a policy issued by the Fund is canceled, the Fund shall refund any unearned
+commissions.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, May 26, 2026.
+– 2 –
+
+[DELETED: W CAA(S( E ( f p p a i i b t F a a r n  d 5% ( f( T ( o ( i]
+[DELETED:  2  ( i (  A P W D B T U W T( IS A B I F E T t A s t e]

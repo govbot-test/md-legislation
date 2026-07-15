@@ -1,0 +1,527 @@
+Title: (House Bill 1026)
+Official Title: (House Bill 1026)
+Number of Sections: 20
+Source: versions - Chapter - Business Regulation - Rounding Cash Transactions - Authorization
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 515
+Chapter 515
+AN ACT concerning
+Business Regulation – Rounding Cash Transactions – Authorization
+FOR the purpose of authorizing a merchant to round the portion of the price of a certain
+cash transactions transaction for which a customer pays using cash in a certain
+manner or round the amount of change due to a customer in a certain manner;
+authorizing an employer to round a wage that the employer pays using cash in a
+certain manner providing that a certain amount added to or subtracted from the price
+in a cash transaction under this Act is not included in the taxable price; providing
+that certain provisions of this Act shall preempt existing regulations, rules, and
+ordinances that conflict with certain provisions of this Act; altering the definition of
+“taxable price” for the purposes of certain provisions of law governing the State sales
+and use tax to clarify the exclusion from the tax of a certain amount collected due to
+rounding the price for a good or service in accordance with certain provisions of this
+Act; and generally relating to rounding cash transactions.
+BY adding to
+Article – Business Regulation
+
+Section 2:
+Section 1–601 through 1–607 1–606 to be under the new subtitle “Subtitle 6.
+Rounding Cash Transactions in a Trade or Business”
+Annotated Code of Maryland
+(2024 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Labor and Employment
+
+Section 3:
+Section 3–502(a)
+Annotated Code of Maryland
+(2025 Replacement Volume)
+BY adding to
+Article – Labor and Employment
+
+Section 4:
+Section 3–502(g)
+Annotated Code of Maryland
+(2025 Replacement Volume)
+BY repealing and reenacting, without amendments,
+Article – Tax – General
+
+Section 5:
+Section 11–101(a) and (l)(1)
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+– 1 –
+Ch. 515 2026 LAWS OF MARYLAND
+Article – Tax – General
+
+Section 6:
+Section 11–101(l) 11–101(l)(3)
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+
+Section 7:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Business Regulation
+SUBTITLE 6. ROUNDING CASH TRANSACTIONS IN A TRADE OR BUSINESS.
+1–601.
+(A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+(B) (1) “CASH” MEANS UNITED STATES COINS AND CURRENCY.
+(2) “CASH” DOES NOT INCLUDE:
+(I) A PAPER INSTRUMENT OTHER THAN A FEDERAL RESERVE
+NOTE; OR
+(II) A GIFT CARD.
+(C) “CUSTOMER” MEANS A PURCHASER OF A GOOD OR SERVICE FROM A
+MERCHANT.
+(D) “MERCHANT” MEANS A PERSON ENGAGED IN THE TRADE OR BUSINESS
+OF THE SALE OF GOODS OR SERVICES.
+(E) “TOTAL PRICE PRICE” MEANS THE PRICE AMOUNT DUE AND PAYABLE
+BY A CUSTOMER IS RESPONSIBLE FOR PAYING FOR A GOOD OR SERVICE AFTER A
+MERCHANT:
+(1) SUBTRACTS ANY DISCOUNT OR DEDUCTION; AND
+(2) APPLIES ANY APPLICABLE TAX OR FEE; AND
+(3) ROUNDS THE TRANSACTION CONSISTENT WITH THIS SUBTITLE.
+1–602.
+– 2 –
+WES MOORE, Governor Ch. 515
+THIS SUBTITLE:
+(1) DOES NOT APPLY TO A CASH TRANSACTION FOR A GOOD OR
+SERVICE IN EXCHANGE FOR PAID WITH EXACT CHANGE; AND
+(2) MAY NOT BE CONSTRUED TO AUTHORIZE A MERCHANT TO ROUND
+A PRICE FOR A GOOD OR SERVICE IN A MANNER THAT ALTERS THE CALCULATION OF
+ANY TAX OR FEE APPLICABLE TO THE TRANSACTION.
+1–603.
+(A) THIS SECTION APPLIES TO:
+(1) THE PORTION OF THE PRICE OF AN IN–PERSON, CASH
+TRANSACTION IF THE PRICE TOTALS AT LEAST 5 CENTS; OR
+(2) OR A TELEPHONE, MAIL, OR INTERNET TRANSACTION FOR WHICH
+A CUSTOMER PAYS USING CASH IF THE PRICE TOTALS AT LEAST 5 CENTS.
+(B) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A MERCHANT
+DOING BUSINESS IN THE STATE MAY:
+(1) DETERMINE THE TOTAL PRICE OF ROUND THE PRICE FOR A GOOD
+OR SERVICE, AFTER SUBTRACTING ANY DISCOUNT OR DEDUCTION FROM THE PRICE
+AND APPLYING ANY APPLICABLE TAX OR FEE TO THE PRICE, IN THE FOLLOWING
+MANNER:
+(I) IF THE PRICE ENDS IN 1 CENT, 2 CENTS, 6 CENTS, OR 7
+CENTS, BY ROUNDING THE PRICE DOWN TO THE NEAREST CENT DIVISIBLE BY FIVE;
+OR
+(II) IF THE PRICE ENDS IN 3 CENTS, 4 CENTS, 8 CENTS, OR 9
+CENTS, BY ROUNDING THE PRICE UP TO THE NEAREST CENT DIVISIBLE BY FIVE; OR
+(2) ROUND THE AMOUNT OF CHANGE DUE TO A CUSTOMER UP OR
+DOWN CONSISTENT WITH ITEM (1) OF THIS SUBSECTION.
+1–604.
+(A) THIS SECTION APPLIES TO:
+– 3 –
+Ch. 515 2026 LAWS OF MARYLAND
+(1) THE PORTION OF THE PRICE OF AN IN–PERSON, CASH
+TRANSACTION IF THE PRICE TOTALS LESS THAN 5 CENTS; OR
+(2) OR A TELEPHONE, MAIL, OR INTERNET TRANSACTION FOR WHICH
+A PERSON CUSTOMER PAYS USING CASH IF THE PRICE TOTALS LESS THAN 5 CENTS.
+(B) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A MERCHANT
+DOING BUSINESS IN THE STATE MAY DETERMINE THE TOTAL PRICE OF ROUND THE
+PRICE FOR A GOOD OR SERVICE, AFTER SUBTRACTING ANY DISCOUNT OR
+DEDUCTION FROM THE PRICE AND APPLYING ANY APPLICABLE TAX OR FEE TO THE
+PRICE, BY ROUNDING THE PRICE UP TO 5 CENTS.
+1–605.
+AN EMPLOYER, AS DEFINED IN § 3–501 OF THE LABOR AND EMPLOYMENT
+ARTICLE, MAY ROUND A WAGE, AS DEFINED IN § 3–501 OF THE LABOR AND
+EMPLOYMENT ARTICLE, THAT THE EMPLOYER PAYS USING CASH CONSISTENT WITH
+THIS SUBTITLE.
+1–606. 1–605.
+THIS SUBTITLE SUPERSEDES ANY REGULATION, RULE, OR ORDINANCE THAT
+CONFLICTS WITH THIS SUBTITLE.
+1–607. 1–606.
+THE SECRETARY MAY ADOPT REGULATIONS TO CARRY OUT THE PROVISIONS
+OF THIS SUBTITLE.
+Article – Labor and Employment
+3–502.
+(a) (1) Each employer:
+(i) shall set regular pay periods; and
+(ii) except as provided in paragraph (2) of this subsection, shall pay
+each employee at least once in every 2 weeks or twice in each month.
+(2) An employer may pay an administrative, executive, or professional
+employee less frequently than required under paragraph (1)(ii) of this subsection.
+– 4 –
+WES MOORE, Governor Ch. 515
+(G) AN EMPLOYER MAY ROUND A WAGE THAT THE EMPLOYER PAYS USING
+CASH, AS DEFINED IN § 1–601 OF THE BUSINESS REGULATION ARTICLE,
+CONSISTENT WITH TITLE 1, SUBTITLE 6 OF THE BUSINESS REGULATION ARTICLE.
+Article – Tax – General
+11–101.
+(a) In this title the following words have the meanings indicated.
+(l) (1) “Taxable price” means the value, in money, of the consideration of any
+kind that is paid, delivered, payable, or deliverable by a buyer to a vendor in the
+consummation and complete performance of a sale without deduction for any expense or cost,
+including the cost of:
+(i) any labor or service rendered;
+(ii) any material used; or
+(iii) any property, digital code, or digital product sold.
+(2) “Taxable price” includes, for tangible personal property, a digital code,
+or a digital product acquired by a sale for use in the State by the person who assembles,
+fabricates, or manufactures the property or digital product, only the price of the raw
+materials and component parts contained in the property or digital product.
+(3) “Taxable price” does not include:
+(i) a charge that is made in connection with a sale and is stated as a
+separate item of the consideration for:
+
+Section 8:
+1. a delivery, freight, or other transportation service for
+delivery directly to the buyer by the vendor or by another person acting for the vendor, unless
+the transportation service is a taxable service;
+
+Section 9:
+2. a finance charge, interest, or similar charge for credit
+extended to the buyer;
+
+Section 10:
+3. a labor or service for application or installation;
+
+Section 11:
+4. a mandatory gratuity or service charge in the nature of a
+tip for serving food or beverage to a group of 10 or fewer individuals for consumption on the
+premises of the vendor;
+
+Section 12:
+5. a professional service;
+– 5 –
+Ch. 515 2026 LAWS OF MARYLAND
+
+Section 13:
+6. a tax:
+A. imposed by a county on the sale of coal, electricity, oil,
+nuclear fuel assemblies, steam, or artificial or natural gas;
+B. imposed under § 3–302(a) of the Natural Resources Article,
+as a surcharge on electricity, and added to an electric bill;
+C. imposed under §§ 6–201 through 6–203 of the Tax –
+Property Article, on tangible personal property subject to a lease that is for an initial period
+that exceeds 1 year and is noncancellable except for cause; or
+D. imposed under § 4–102 of this article on the gross receipts
+derived from an admissions and amusement charge;
+
+Section 14:
+7. any service for the operation of equipment used for the
+production of audio, video, or film recordings; or
+
+Section 15:
+8. reimbursement of incidental expenses paid to a third party
+and incurred in connection with providing a taxable detective service;
+(ii) the value of a used component or part (core value) received from a
+purchaser of the following remanufactured truck parts:
+
+Section 16:
+1. an air brake system;
+
+Section 17:
+2. an engine;
+
+Section 18:
+3. a rear axle carrier; or
+
+Section 19:
+4. a transmission;
+(iii) a charge for a nontaxable service that is made in connection with
+a sale of a taxable communication service, even if the nontaxable charges are aggregated
+with and not separately stated from the taxable charges for communications services, if the
+vendor can reasonably identify charges not subject to tax from its books and records that are
+kept in the regular course of business; [or]
+(iv) a transportation network company impact fee imposed under §
+10–408 of the Public Utilities Article; OR
+(V) AN AMOUNT LESS THAN 5 NOT EXCEEDING 2 CENTS ADDED
+OR SUBTRACTED IN A CASH TRANSACTION TO DETERMINE THE ROUNDED PRICE
+UNDER COLLECTED DUE TO ROUNDING THE PRICE FOR A GOOD OR SERVICE IN
+ACCORDANCE WITH TITLE 1, SUBTITLE 6 OF THE BUSINESS REGULATION ARTICLE.
+– 6 –
+WES MOORE, Governor Ch. 515
+(4) “Taxable price” includes all sales and charges, including insurance,
+freight handling, equipment and supplies, delivery and pickup, cellular telephone, and other
+accessories, but not including sales of motor fuel subject to the motor fuel tax, made in
+connection with:
+(i) a short–term vehicle rental, as defined in § 11–104(c) of this
+subtitle; or
+(ii) a shared motor vehicle used for peer–to–peer car sharing and
+made available on a peer–to–peer car sharing program, as defined in § 19–520 of the
+Insurance Article.
+(5) “Taxable price” includes:
+(i) for the sale or use of an accommodation facilitated by an
+accommodations intermediary or a short–term rental platform, the full amount of the
+consideration paid by a buyer for the sale or use of an accommodation, but not including
+any tax that is remitted to a taxing authority; and
+(ii) for the sale or use of a home amenity rental facilitated by a home
+amenity rental intermediary or home amenity rental platform, the full amount of
+consideration paid by a buyer for the sale or use of a home amenity rental, but not including
+any tax that is remitted to a taxing authority.
+(6) “Taxable price” does not include:
+(i) for the sale or use of an accommodation facilitated by an
+accommodations intermediary or a short–term rental platform, a commission paid by an
+accommodations provider to a person after facilitating the sale or use of an accommodation;
+or
+(ii) for the sale or use of a home amenity rental facilitated by a home
+amenity rental intermediary or home amenity rental platform, a commission paid by a home
+amenity rental provider to a person after facilitating the sale or use of a home amenity rental.
+
+Section 20:
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency
+measure, is necessary for the immediate preservation of the public health or safety, has
+been passed by a yea and nay vote supported by three–fifths of all the members elected to
+each of the two Houses of the General Assembly, and shall take effect from the date it is
+enacted.
+Approved by the Governor, May 12, 2026.
+– 7 –
+[DELETED: W C t t f w a c p u c i a c o r t a o c d t a c i c m c p o t A s p e r rA 1 t 1 1 t b u t n s “ 6A(AA(AA(AA(]
+[DELETED:  2 AA(S6.RCTTB.  O A R R U() N T S T F W H T M() ( “C”US.AH  N T ( “C”:H   () FA E EE   () .IA() “CUR M P A G F() “MET () “TO  EA ( N ( ;E  ( .]
+[DELETED: W C  N A T A C T F A G O  H  () T:H ( – P O T P OA INPN C  S ; ( ,,E L  N  .() NO A O P O LW A M T: (  E E   () 1,2,6,I T P E I  CT  CS  CS O S E  () 3,4,8,II  S  S  S  S E ; ( T A O C D T A C U O  ).() T:H]
+[DELETED:  2  ( – P O T P OA INPN C  S ; ( ,,E L  N    .() NO A O P O LW A M T FA G O SE A S A D OE   5.A,§31LR     A M,,§31E M R A WE A D I   O T A AA RE T,N E T E( ( E  ( s  ( e ( A e m p a a e o p]
+[DELETED: W C() NH A D I   O T U E RE§11BRA I  U   U E R1,S6BRA.( I( ( “ t i p d p o d b a b t a v i t  ( a  ( a  ( a ( “ o m t p o d p o t p o t r ( “  ( a   1 a d f o o t s f   2 a f c i o s c f c   3 a   4 a   5 a]
+[DELETED:  2    6 a   A i b a c o t s o c e o   B i   C i u § 6 t 6 o t T –   D i   7 a s f t o o e u f t   8 r  ( t   1 a   2 a   3 a   4 a  ( a o]  ( a  )5A     S I A C T T D T R P C D T R T P F A G O S I I  U   U E R1,S6BR]
+[DELETED: W C ( “ p i a s a c i i s t  ( a s v r a d i § 1 o t  ( a s m v u f p c s a a o a p c s p a d i § 1 o t ( “  ( f t s o u o a a f b a i o a s r p t f a o t  ( f r i o h a r p t f a o ( “  ( f t s o u o a a f b a  ( fS]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 515
+Chapter 515
+(House Bill 1026)
+AN ACT concerning
+Business Regulation – Rounding Cash Transactions – Authorization
+FOR the purpose of authorizing a merchant to round the portion of the price of a certain
+cash transactions transaction for which a customer pays using cash in a certain
+manner or round the amount of change due to a customer in a certain manner;
+authorizing an employer to round a wage that the employer pays using cash in a
+certain manner providing that a certain amount added to or subtracted from the price
+in a cash transaction under this Act is not included in the taxable price; providing
+that certain provisions of this Act shall preempt existing regulations, rules, and
+ordinances that conflict with certain provisions of this Act; altering the definition of
+“taxable price” for the purposes of certain provisions of law governing the State sales
+and use tax to clarify the exclusion from the tax of a certain amount collected due to
+rounding the price for a good or service in accordance with certain provisions of this
+Act; and generally relating to rounding cash transactions.
+BY adding to
+Article – Business Regulation
+Section 1–601 through 1–607 1–606 to be under the new subtitle “Subtitle 6.
+Rounding Cash Transactions in a Trade or Business”
+Annotated Code of Maryland
+(2024 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Labor and Employment
+Section 3–502(a)
+Annotated Code of Maryland
+(2025 Replacement Volume)
+BY adding to
+Article – Labor and Employment
+Section 3–502(g)
+Annotated Code of Maryland
+(2025 Replacement Volume)
+BY repealing and reenacting, without amendments,
+Article – Tax – General
+Section 11–101(a) and (l)(1)
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+– 1 –
+
+Ch. 515 2026 LAWS OF MARYLAND
+Article – Tax – General
+Section 11–101(l) 11–101(l)(3)
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Business Regulation
+SUBTITLE 6. ROUNDING CASH TRANSACTIONS IN A TRADE OR BUSINESS.
+1–601.
+(A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+(B) (1) “CASH” MEANS UNITED STATES COINS AND CURRENCY.
+(2) “CASH” DOES NOT INCLUDE:
+(I) A PAPER INSTRUMENT OTHER THAN A FEDERAL RESERVE
+NOTE; OR
+(II) A GIFT CARD.
+(C) “CUSTOMER” MEANS A PURCHASER OF A GOOD OR SERVICE FROM A
+MERCHANT.
+(D) “MERCHANT” MEANS A PERSON ENGAGED IN THE TRADE OR BUSINESS
+OF THE SALE OF GOODS OR SERVICES.
+(E) “TOTAL PRICE PRICE” MEANS THE PRICE AMOUNT DUE AND PAYABLE
+BY A CUSTOMER IS RESPONSIBLE FOR PAYING FOR A GOOD OR SERVICE AFTER A
+MERCHANT:
+(1) SUBTRACTS ANY DISCOUNT OR DEDUCTION; AND
+(2) APPLIES ANY APPLICABLE TAX OR FEE; AND
+(3) ROUNDS THE TRANSACTION CONSISTENT WITH THIS SUBTITLE.
+1–602.
+– 2 –
+
+WES MOORE, Governor Ch. 515
+THIS SUBTITLE:
+(1) DOES NOT APPLY TO A CASH TRANSACTION FOR A GOOD OR
+SERVICE IN EXCHANGE FOR PAID WITH EXACT CHANGE; AND
+(2) MAY NOT BE CONSTRUED TO AUTHORIZE A MERCHANT TO ROUND
+A PRICE FOR A GOOD OR SERVICE IN A MANNER THAT ALTERS THE CALCULATION OF
+ANY TAX OR FEE APPLICABLE TO THE TRANSACTION.
+1–603.
+(A) THIS SECTION APPLIES TO:
+(1) THE PORTION OF THE PRICE OF AN IN–PERSON, CASH
+TRANSACTION IF THE PRICE TOTALS AT LEAST 5 CENTS; OR
+(2) OR A TELEPHONE, MAIL, OR INTERNET TRANSACTION FOR WHICH
+A CUSTOMER PAYS USING CASH IF THE PRICE TOTALS AT LEAST 5 CENTS.
+(B) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A MERCHANT
+DOING BUSINESS IN THE STATE MAY:
+(1) DETERMINE THE TOTAL PRICE OF ROUND THE PRICE FOR A GOOD
+OR SERVICE, AFTER SUBTRACTING ANY DISCOUNT OR DEDUCTION FROM THE PRICE
+AND APPLYING ANY APPLICABLE TAX OR FEE TO THE PRICE, IN THE FOLLOWING
+MANNER:
+(I) IF THE PRICE ENDS IN 1 CENT, 2 CENTS, 6 CENTS, OR 7
+CENTS, BY ROUNDING THE PRICE DOWN TO THE NEAREST CENT DIVISIBLE BY FIVE;
+OR
+(II) IF THE PRICE ENDS IN 3 CENTS, 4 CENTS, 8 CENTS, OR 9
+CENTS, BY ROUNDING THE PRICE UP TO THE NEAREST CENT DIVISIBLE BY FIVE; OR
+(2) ROUND THE AMOUNT OF CHANGE DUE TO A CUSTOMER UP OR
+DOWN CONSISTENT WITH ITEM (1) OF THIS SUBSECTION.
+1–604.
+(A) THIS SECTION APPLIES TO:
+– 3 –
+
+Ch. 515 2026 LAWS OF MARYLAND
+(1) THE PORTION OF THE PRICE OF AN IN–PERSON, CASH
+TRANSACTION IF THE PRICE TOTALS LESS THAN 5 CENTS; OR
+(2) OR A TELEPHONE, MAIL, OR INTERNET TRANSACTION FOR WHICH
+A PERSON CUSTOMER PAYS USING CASH IF THE PRICE TOTALS LESS THAN 5 CENTS.
+(B) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A MERCHANT
+DOING BUSINESS IN THE STATE MAY DETERMINE THE TOTAL PRICE OF ROUND THE
+PRICE FOR A GOOD OR SERVICE, AFTER SUBTRACTING ANY DISCOUNT OR
+DEDUCTION FROM THE PRICE AND APPLYING ANY APPLICABLE TAX OR FEE TO THE
+PRICE, BY ROUNDING THE PRICE UP TO 5 CENTS.
+1–605.
+AN EMPLOYER, AS DEFINED IN § 3–501 OF THE LABOR AND EMPLOYMENT
+ARTICLE, MAY ROUND A WAGE, AS DEFINED IN § 3–501 OF THE LABOR AND
+EMPLOYMENT ARTICLE, THAT THE EMPLOYER PAYS USING CASH CONSISTENT WITH
+THIS SUBTITLE.
+1–606. 1–605.
+THIS SUBTITLE SUPERSEDES ANY REGULATION, RULE, OR ORDINANCE THAT
+CONFLICTS WITH THIS SUBTITLE.
+1–607. 1–606.
+THE SECRETARY MAY ADOPT REGULATIONS TO CARRY OUT THE PROVISIONS
+OF THIS SUBTITLE.
+Article – Labor and Employment
+3–502.
+(a) (1) Each employer:
+(i) shall set regular pay periods; and
+(ii) except as provided in paragraph (2) of this subsection, shall pay
+each employee at least once in every 2 weeks or twice in each month.
+(2) An employer may pay an administrative, executive, or professional
+employee less frequently than required under paragraph (1)(ii) of this subsection.
+– 4 –
+
+WES MOORE, Governor Ch. 515
+(G) AN EMPLOYER MAY ROUND A WAGE THAT THE EMPLOYER PAYS USING
+CASH, AS DEFINED IN § 1–601 OF THE BUSINESS REGULATION ARTICLE,
+CONSISTENT WITH TITLE 1, SUBTITLE 6 OF THE BUSINESS REGULATION ARTICLE.
+Article – Tax – General
+11–101.
+(a) In this title the following words have the meanings indicated.
+(l) (1) “Taxable price” means the value, in money, of the consideration of any
+kind that is paid, delivered, payable, or deliverable by a buyer to a vendor in the
+consummation and complete performance of a sale without deduction for any expense or cost,
+including the cost of:
+(i) any labor or service rendered;
+(ii) any material used; or
+(iii) any property, digital code, or digital product sold.
+(2) “Taxable price” includes, for tangible personal property, a digital code,
+or a digital product acquired by a sale for use in the State by the person who assembles,
+fabricates, or manufactures the property or digital product, only the price of the raw
+materials and component parts contained in the property or digital product.
+(3) “Taxable price” does not include:
+(i) a charge that is made in connection with a sale and is stated as a
+separate item of the consideration for:
+1. a delivery, freight, or other transportation service for
+delivery directly to the buyer by the vendor or by another person acting for the vendor, unless
+the transportation service is a taxable service;
+2. a finance charge, interest, or similar charge for credit
+extended to the buyer;
+3. a labor or service for application or installation;
+4. a mandatory gratuity or service charge in the nature of a
+tip for serving food or beverage to a group of 10 or fewer individuals for consumption on the
+premises of the vendor;
+5. a professional service;
+– 5 –
+
+Ch. 515 2026 LAWS OF MARYLAND
+6. a tax:
+A. imposed by a county on the sale of coal, electricity, oil,
+nuclear fuel assemblies, steam, or artificial or natural gas;
+B. imposed under § 3–302(a) of the Natural Resources Article,
+as a surcharge on electricity, and added to an electric bill;
+C. imposed under §§ 6–201 through 6–203 of the Tax –
+Property Article, on tangible personal property subject to a lease that is for an initial period
+that exceeds 1 year and is noncancellable except for cause; or
+D. imposed under § 4–102 of this article on the gross receipts
+derived from an admissions and amusement charge;
+7. any service for the operation of equipment used for the
+production of audio, video, or film recordings; or
+8. reimbursement of incidental expenses paid to a third party
+and incurred in connection with providing a taxable detective service;
+(ii) the value of a used component or part (core value) received from a
+purchaser of the following remanufactured truck parts:
+1. an air brake system;
+2. an engine;
+3. a rear axle carrier; or
+4. a transmission;
+(iii) a charge for a nontaxable service that is made in connection with
+a sale of a taxable communication service, even if the nontaxable charges are aggregated
+with and not separately stated from the taxable charges for communications services, if the
+vendor can reasonably identify charges not subject to tax from its books and records that are
+kept in the regular course of business; [or]
+(iv) a transportation network company impact fee imposed under §
+10–408 of the Public Utilities Article; OR
+(V) AN AMOUNT LESS THAN 5 NOT EXCEEDING 2 CENTS ADDED
+OR SUBTRACTED IN A CASH TRANSACTION TO DETERMINE THE ROUNDED PRICE
+UNDER COLLECTED DUE TO ROUNDING THE PRICE FOR A GOOD OR SERVICE IN
+ACCORDANCE WITH TITLE 1, SUBTITLE 6 OF THE BUSINESS REGULATION ARTICLE.
+– 6 –
+
+WES MOORE, Governor Ch. 515
+(4) “Taxable price” includes all sales and charges, including insurance,
+freight handling, equipment and supplies, delivery and pickup, cellular telephone, and other
+accessories, but not including sales of motor fuel subject to the motor fuel tax, made in
+connection with:
+(i) a short–term vehicle rental, as defined in § 11–104(c) of this
+subtitle; or
+(ii) a shared motor vehicle used for peer–to–peer car sharing and
+made available on a peer–to–peer car sharing program, as defined in § 19–520 of the
+Insurance Article.
+(5) “Taxable price” includes:
+(i) for the sale or use of an accommodation facilitated by an
+accommodations intermediary or a short–term rental platform, the full amount of the
+consideration paid by a buyer for the sale or use of an accommodation, but not including
+any tax that is remitted to a taxing authority; and
+(ii) for the sale or use of a home amenity rental facilitated by a home
+amenity rental intermediary or home amenity rental platform, the full amount of
+consideration paid by a buyer for the sale or use of a home amenity rental, but not including
+any tax that is remitted to a taxing authority.
+(6) “Taxable price” does not include:
+(i) for the sale or use of an accommodation facilitated by an
+accommodations intermediary or a short–term rental platform, a commission paid by an
+accommodations provider to a person after facilitating the sale or use of an accommodation;
+or
+(ii) for the sale or use of a home amenity rental facilitated by a home
+amenity rental intermediary or home amenity rental platform, a commission paid by a home
+amenity rental provider to a person after facilitating the sale or use of a home amenity rental.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency
+measure, is necessary for the immediate preservation of the public health or safety, has
+been passed by a yea and nay vote supported by three–fifths of all the members elected to
+each of the two Houses of the General Assembly, and shall take effect from the date it is
+enacted.
+Approved by the Governor, May 12, 2026.
+– 7 –
+
+[DELETED: W C t t f w a c p u c i a c o r t a o c d t a c i c m c p o t A s p e r rA 1 t 1 1 t b u t n s “ 6A(AA(AA(AA(]
+[DELETED:  2 AA(S6.RCTTB.  O A R R U() N T S T F W H T M() ( “C”US.AH  N T ( “C”:H   () FA E EE   () .IA() “CUR M P A G F() “MET () “TO  EA ( N ( ;E  ( .]
+[DELETED: W C  N A T A C T F A G O  H  () T:H ( – P O T P OA INPN C  S ; ( ,,E L  N  .() NO A O P O LW A M T: (  E E   () 1,2,6,I T P E I  CT  CS  CS O S E  () 3,4,8,II  S  S  S  S E ; ( T A O C D T A C U O  ).() T:H]
+[DELETED:  2  ( – P O T P OA INPN C  S ; ( ,,E L  N    .() NO A O P O LW A M T FA G O SE A S A D OE   5.A,§31LR     A M,,§31E M R A WE A D I   O T A AA RE T,N E T E( ( E  ( s  ( e ( A e m p a a e o p]
+[DELETED: W C() NH A D I   O T U E RE§11BRA I  U   U E R1,S6BRA.( I( ( “ t i p d p o d b a b t a v i t  ( a  ( a  ( a ( “ o m t p o d p o t p o t r ( “  ( a   1 a d f o o t s f   2 a f c i o s c f c   3 a   4 a   5 a]
+[DELETED:  2    6 a   A i b a c o t s o c e o   B i   C i u § 6 t 6 o t T –   D i   7 a s f t o o e u f t   8 r  ( t   1 a   2 a   3 a   4 a  ( a o]  ( a  )5A     S I A C T T D T R P C D T R T P F A G O S I I  U   U E R1,S6BR]
+[DELETED: W C ( “ p i a s a c i i s t  ( a s v r a d i § 1 o t  ( a s m v u f p c s a a o a p c s p a d i § 1 o t ( “  ( f t s o u o a a f b a i o a s r p t f a o t  ( f r i o h a r p t f a o ( “  ( f t s o u o a a f b a  ( fS]

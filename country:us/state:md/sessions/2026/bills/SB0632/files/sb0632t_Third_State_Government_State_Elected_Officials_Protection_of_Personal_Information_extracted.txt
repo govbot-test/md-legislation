@@ -1,0 +1,756 @@
+Title: SENATE BILL 632
+Official Title: SENATE BILL 632
+Number of Sections: 1
+Source: versions - Third - State Government - State Elected Officials - Protection of Personal Information
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+P1 6lr2821
+CF 6lr2822
+By: Senators West and Hester, Hester, Brooks, Carozza, Feldman, Harris, and
+Simonaire
+Introduced and read first time: February 5, 2026
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 4, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 State Government – State Elected Officials – Protection of Personal Information
+3 FOR the purpose of establishing the Office of State Elected Officials Information Privacy
+4 in the Department of Legislative Services; authorizing a certain protected individual
+5 or the Office of State Elected Officials Information Privacy in the Department of
+6 Legislative Services to request that a governmental entity or person not publish
+7 personal information of the individual on the Internet, social media, or social
+8 networks or that the governmental entity or person remove the information from any
+9 existing publication; specifying certain procedures for the protection of personal
+10 information of a protected individual; authorizing certain relief for a violation of this
+11 Act; authorizing a member of the General Assembly to use certain funds to aid in the
+12 identification and removal of certain published personal information; establishing a
+13 criminal penalty for publicly posting personal information of a protected individual
+14 under certain circumstances; and generally relating to State elected officials and the
+15 protection of personal information.
+16 BY repealing and reenacting, with amendments,
+17 Article – Real Property
+18 Section 3–114
+19 Annotated Code of Maryland
+20 (2023 Replacement Volume and 2025 Supplement)
+21 BY repealing and reenacting, with amendments,
+22 Article – State Government
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0632*
+2 SENATE BILL 632
+1 Section 2–1206
+2 Annotated Code of Maryland
+3 (2021 Replacement Volume and 2025 Supplement)
+4 BY adding to
+5 Article – State Government
+6 Section 10–1801 through 10–1804 to be under the new subtitle “Subtitle 18.
+7 Protected Individuals – Protected Information”; and 10–1901 through
+8 10–1907 to be under the new subtitle “Subtitle 19. Protected Individuals –
+9 State Elected Officials Address Confidentiality Program”
+10 Annotated Code of Maryland
+11 (2021 Replacement Volume and 2025 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Real Property
+15 3–114.
+16 (a) In this part the following words have the meanings indicated.
+17 (b) “ACP number” means the unique identification number assigned to each
+18 program participant by the Secretary [or], by the Office of Information Privacy, OR BY THE
+19 OFFICE OF STATE ELECTED OFFICIALS INFORMATION PRIVACY.
+20 (c) “Actual address” means a residential street address, school address, or work
+21 address of an individual, as specified on the individual’s application to be a program
+22 participant under Title 7, Subtitle 3 of the State Government Article.
+23 (d) “Address Confidentiality Program” means [the]:
+24 (1) THE Address Confidentiality Program for survivors of threatened,
+25 attempted, or actual domestic violence, sexual assault, stalking, harassment, or human
+26 trafficking administered by the Secretary under Title 7, Subtitle 3 of the State Government
+27 Article [and the];
+28 (2) THE Judicial Address Confidentiality Program administered by the
+29 Administrative Office of the Courts under Title 3, Subtitle 24 of the Courts Article; AND
+30 (3) THE STATE ELECTED OFFICIALS ADDRESS CONFIDENTIALITY
+31 PROGRAM ADMINISTERED BY THE DEPARTMENT OF LEGISLATIVE SERVICES
+32 UNDER TITLE 10, SUBTITLE 19 OF THE STATE GOVERNMENT ARTICLE.
+33 (e) (1) “Identity information” means information that may be used to identify
+34 a program participant.
+SENATE BILL 632 3
+1 (2) “Identity information” includes a program participant’s:
+2 (i) Name;
+3 (ii) Phone number;
+4 (iii) E–mail address;
+5 (iv) Social Security number; and
+6 (v) Driver’s license number.
+7 (f) “Office of Information Privacy” means the Office of Information Privacy in the
+8 Administrative Office of the Courts.
+9 (G) “OFFICE OF STATE ELECTED OFFICIALS INFORMATION PRIVACY”
+10 MEANS THE OFFICE OF STATE ELECTED OFFICIALS INFORMATION PRIVACY IN THE
+11 DEPARTMENT OF LEGISLATIVE SERVICES.
+12 [(g)] (H) “Program participant” means an individual designated by the Secretary
+13 [or], by the Office of Information Privacy, OR BY THE OFFICE OF STATE ELECTED
+14 OFFICIALS INFORMATION PRIVACY as a participant in an address confidentiality
+15 program.
+16 [(h)] (I) “Real Property ACP Notice” means the notice required under this part
+17 for a program participant to request the shielding of real property records.
+18 [(i)] (J) “Real property record” means any record or data maintained by a clerk
+19 of the circuit court or a State or local agency as part of the land or tax records.
+20 [(j)] (K) “Secretary” means the Secretary of State.
+21 [(k)] (L) “Shield” means to remove real property records from public inspection
+22 in accordance with this part.
+23 [(l)] (M) “Shielding” means, with respect to a real property record accepted for
+24 recording by a clerk of the circuit court or a State or local agency, removing the record to a
+25 separate secure area to which persons who do not have a legitimate reason for access are
+26 denied access.
+27 Article – State Government
+28 2–1206.
+29 (a) The following units are in the Department:
+4 SENATE BILL 632
+1 (1) the Office of Legislative Audits;
+2 (2) the Office of Program Evaluation and Government Accountability;
+3 (3) the Office of Policy Analysis;
+4 (4) the Office of Operations and Support Services; [and]
+5 (5) THE OFFICE OF STATE ELECTED OFFICIALS INFORMATION
+6 PRIVACY; AND
+7 [(5)] (6) any other offices as may be designated by the President and the
+8 Speaker.
+9 (b) With the approval of the President and the Speaker and in consultation with
+10 the minority leader of the Senate and the minority leader of the House of Delegates, the
+11 Executive Director shall appoint the following office directors:
+12 (1) the director of the Office of Legislative Audits;
+13 (2) the director of the Office of Program Evaluation and Government
+14 Accountability;
+15 (3) the director of the Office of Policy Analysis;
+16 (4) the director of the Office of Operations and Support Services; [and]
+17 (5) THE DIRECTOR OF THE OFFICE OF STATE ELECTED OFFICIALS
+18 INFORMATION PRIVACY; AND
+19 [(5)] (6) any director of an office designated by the President and the
+20 Speaker under subsection [(a)(5)] (A)(6) of this section.
+21 (c) Each office director serves without a fixed term and, subject to the approval of
+22 the President and the Speaker and in consultation with the minority leader of the Senate
+23 and the minority leader of the House of Delegates, may be removed by the Executive
+24 Director.
+25 (d) Each office director shall serve in a nonpartisan capacity and ensure that all
+26 activities of the office are conducted in a nonpartisan manner.
+27 (e) Each office director is entitled to the salary provided in the State budget.
+SENATE BILL 632 5
+1 (f) After consultation with the Executive Director, each office director may
+2 appoint an appropriate number of qualified individuals to serve in management functions
+3 in the respective offices.
+4 SUBTITLE 18. PROTECTED INDIVIDUALS – PROTECTED INFORMATION.
+5 10–1801.
+6 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+7 INDICATED.
+8 (B) “GOVERNMENTAL ENTITY” HAS THE MEANING STATED IN § 10–1501 OF
+9 THIS TITLE.
+10 (C) “OFFICE” MEANS THE OFFICE OF STATE ELECTED OFFICIALS
+11 INFORMATION PRIVACY IN THE DEPARTMENT OF LEGISLATIVE SERVICES.
+12 (D) (1) “PERSONAL INFORMATION” MEANS:
+13 (I) A HOME ADDRESS;
+14 (II) A HOME TELEPHONE NUMBER;
+15 (III) A MOBILE TELEPHONE NUMBER;
+16 (IV) A PERSONAL E–MAIL ADDRESS;
+17 (V) A SOCIAL SECURITY NUMBER;
+18 (VI) A DRIVER’S LICENSE NUMBER;
+19 (VII) A FEDERAL TAX IDENTIFICATION NUMBER;
+20 (VIII) A BANK ACCOUNT NUMBER;
+21 (IX) A CREDIT OR DEBIT CARD NUMBER;
+22 (X) A LICENSE PLATE NUMBER OR UNIQUE IDENTIFIER OF A
+23 VEHICLE;
+24 (XI) A BIRTH OR MARITAL RECORD;
+25 (XII) A CHILD’S NAME;
+6 SENATE BILL 632
+1 (XIII) A SCHOOL OR DAYCARE;
+2 (XIV) A PLACE OF WORSHIP; OR
+3 (XV) A PLACE OF EMPLOYMENT.
+4 (2) “PERSONAL INFORMATION” DOES NOT INCLUDE:
+5 (I) INFORMATION THAT HAS BEEN PUBLICLY DISCLOSED WITH
+6 THE CONSENT OF THE PROTECTED INDIVIDUAL; OR
+7 (II) INFORMATION THAT IS RELEVANT TO AND DISPLAYED AS
+8 PART OF A NEWS STORY, A COMMENTARY, AN EDITORIAL, OR ANY OTHER SPEECH ON
+9 MATTERS OF PUBLIC CONCERN; OR
+10 (III) INFORMATION THAT IS REQUIRED TO BE PUBLISHED UNDER
+11 TITLE 5 OF THE GENERAL PROVISIONS ARTICLE.
+12 (E) “PROTECTED INDIVIDUAL” MEANS:
+13 (1) A CURRENT OR FORMER GOVERNOR OF MARYLAND;
+14 (2) A CURRENT OR FORMER LIEUTENANT GOVERNOR OF MARYLAND;
+15 (3) A CURRENT OR FORMER ATTORNEY GENERAL OF MARYLAND;
+16 (4) A CURRENT OR FORMER COMPTROLLER OF MARYLAND;
+17 (5) A CURRENT OR FORMER MEMBER OF THE MARYLAND SENATE;
+18 (6) A CURRENT OR FORMER MEMBER OF THE MARYLAND HOUSE OF
+19 DELEGATES; OR
+20 (7) A SPOUSE, CHILD, OR DEPENDENT WHO RESIDES IN THE SAME
+21 HOUSEHOLD AS AN INDIVIDUAL DESCRIBED IN ITEMS (1) THROUGH (6) OF THIS
+22 SUBSECTION.
+23 (F) “PUBLISH” MEANS TO POST OR OTHERWISE MAKE AVAILABLE TO THE
+24 GENERAL PUBLIC ON THE INTERNET, SOCIAL MEDIA, OR SOCIAL NETWORKS.
+25 10–1802.
+SENATE BILL 632 7
+1 (A) A PROTECTED INDIVIDUAL, OR THE OFFICE ON BEHALF OF A
+2 PROTECTED INDIVIDUAL, MAY REQUEST THAT A GOVERNMENTAL ENTITY:
+3 (1) NOT PUBLISH THE PROTECTED INDIVIDUAL’S PERSONAL
+4 INFORMATION; OR
+5 (2) REMOVE THE PROTECTED INDIVIDUAL’S PERSONAL
+6 INFORMATION FROM ANY EXISTING PUBLICATION.
+7 (B) A REQUEST MADE UNDER THIS SECTION SHALL:
+8 (1) BE IN WRITING;
+9 (2) BE SENT BY CERTIFIED MAIL OR BY E–MAIL;
+10 (3) EXCEPT AS PROVIDED IN SUBSECTION (C) OF THIS SECTION,
+11 PROVIDE SUFFICIENT INFORMATION TO CONFIRM THAT THE REQUESTER IS A
+12 PROTECTED INDIVIDUAL; AND
+13 (4) ADEQUATELY IDENTIFY THE DOCUMENT, POSTING, OR OTHER
+14 PUBLICATION CONTAINING THE PERSONAL INFORMATION.
+15 (C) A REQUEST MADE BY THE OFFICE CERTIFIES THAT A REQUESTER IS A
+16 PROTECTED INDIVIDUAL AND NO FURTHER INFORMATION MAY BE REQUIRED TO
+17 CONFIRM THAT THE REQUESTER IS A PROTECTED INDIVIDUAL.
+18 (D) ON RECEIPT OF A REQUEST UNDER SUBSECTION (B) OF THIS SECTION,
+19 A GOVERNMENTAL ENTITY SHALL PROMPTLY ACKNOWLEDGE RECEIPT OF THE
+20 REQUEST IN WRITING BY CERTIFIED MAIL OR BY E–MAIL AND:
+21 (1) TAKE STEPS REASONABLY NECESSARY TO ENSURE THAT THE
+22 PERSONAL INFORMATION IS NOT PUBLISHED; OR
+23 (2) IF THE PERSONAL INFORMATION IS ALREADY PUBLISHED,
+24 PROVIDE FOR THE REMOVAL OF THE PERSONAL INFORMATION WITHIN 72 HOURS
+25 AFTER RECEIPT OF THE REQUEST.
+26 (E) A PROTECTED INDIVIDUAL OR THE OFFICE MAY BRING AN ACTION FOR
+27 A VIOLATION OF THIS SECTION AGAINST A GOVERNMENTAL ENTITY FOR:
+28 (1) DECLARATORY RELIEF;
+29 (2) INJUNCTIVE RELIEF; OR
+8 SENATE BILL 632
+1 (3) REASONABLE ATTORNEY’S FEES.
+2 10–1803.
+3 (A) A PROTECTED INDIVIDUAL, OR THE OFFICE ON BEHALF OF A
+4 PROTECTED INDIVIDUAL, MAY REQUEST THAT A PERSON WHO HAS PUBLISHED THE
+5 PROTECTED INDIVIDUAL’S PERSONAL INFORMATION REMOVE THE PROTECTED
+6 INDIVIDUAL’S PERSONAL INFORMATION FROM PUBLICATION.
+7 (B) A REQUEST MADE UNDER THIS SECTION SHALL:
+8 (1) BE IN WRITING;
+9 (2) BE SENT BY CERTIFIED MAIL OR BY E–MAIL;
+10 (3) EXCEPT AS PROVIDED IN SUBSECTION (C) OF THIS SECTION,
+11 PROVIDE SUFFICIENT INFORMATION TO CONFIRM THAT THE REQUESTER IS A
+12 PROTECTED INDIVIDUAL; AND
+13 (4) ADEQUATELY IDENTIFY THE DOCUMENT, POSTING, OR OTHER
+14 PUBLICATION CONTAINING THE PERSONAL INFORMATION.
+15 (C) A REQUEST MADE BY THE OFFICE CERTIFIES THAT A REQUESTER IS A
+16 PROTECTED INDIVIDUAL AND NO FURTHER INFORMATION MAY BE REQUIRED TO
+17 CONFIRM THAT THE REQUESTER IS A PROTECTED INDIVIDUAL.
+18 (D) THE PERSON TO WHOM THE REQUEST IS MADE SHALL:
+19 (1) PROVIDE FOR THE REMOVAL OF THE PERSONAL INFORMATION
+20 WITHIN 72 HOURS AFTER RECEIPT OF THE REQUEST; AND
+21 (2) NOTIFY THE PROTECTED INDIVIDUAL OR THE OFFICE BY
+22 CERTIFIED MAIL OR BY E–MAIL OF THE REMOVAL.
+23 (E) (1) A PROTECTED INDIVIDUAL OR THE OFFICE MAY BRING AN ACTION
+24 FOR A VIOLATION OF THIS SECTION AGAINST A PERSON FOR:
+25 (I) DECLARATORY RELIEF;
+26 (II) INJUNCTIVE RELIEF; OR
+27 (III) REASONABLE ATTORNEY’S FEES.
+SENATE BILL 632 9
+1 (2) IN ADDITION TO THE RELIEF PROVIDED UNDER PARAGRAPH (1)
+2 OF THIS SUBSECTION, IF A COURT FINDS THAT A PERSON WILLFULLY REFUSED TO
+3 PROVIDE FOR THE REMOVAL OF PERSONAL INFORMATION KNOWING THAT THE
+4 INDIVIDUAL ON BEHALF OF WHOM THE REQUEST WAS MADE WAS A PROTECTED
+5 INDIVIDUAL, THE COURT MAY AWARD PUNITIVE DAMAGES.
+6 (F) A MEMBER OF THE GENERAL ASSEMBLY MAY USE FUNDS ALLOTTED TO
+7 THE MEMBER UNDER § 2–102 OF THIS ARTICLE TO ENGAGE AN INDIVIDUAL OR A
+8 SERVICE TO AID IN THE IDENTIFICATION AND REMOVAL OF PUBLISHED PERSONAL
+9 INFORMATION.
+10 10–1804.
+11 (A) AN INDIVIDUAL MAY NOT KNOWINGLY PUBLISH THE PERSONAL
+12 INFORMATION OF A PROTECTED INDIVIDUAL IF:
+13 (1) THE INDIVIDUAL KNOWS OR REASONABLY SHOULD KNOW THAT
+14 PUBLISHING THE PERSONAL INFORMATION POSES AN IMMINENT AND SERIOUS
+15 THREAT TO THE PROTECTED INDIVIDUAL; AND
+16 (2) THE PUBLISHING OF THE PERSONAL INFORMATION RESULTS IN:
+17 (I) AN ASSAULT IN ANY DEGREE;
+18 (II) HARASSMENT;
+19 (III) TRESPASS; OR
+20 (IV) MALICIOUS DESTRUCTION OF PROPERTY.
+21 (B) AN INDIVIDUAL WHO VIOLATES THIS SECTION IS GUILTY OF A
+22 MISDEMEANOR AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT
+23 EXCEEDING 18 MONTHS OR A FINE NOT EXCEEDING $5,000 OR BOTH.
+24 SUBTITLE 19. PROTECTED INDIVIDUALS – STATE ELECTED OFFICIALS ADDRESS
+25 CONFIDENTIALITY PROGRAM.
+26 10–1901.
+27 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+28 INDICATED.
+10 SENATE BILL 632
+1 (B) “ACTUAL ADDRESS” MEANS A RESIDENTIAL STREET ADDRESS,
+2 INCLUDING PRIMARY OR SECONDARY RESIDENCE, OF A PROTECTED INDIVIDUAL AS
+3 SPECIFIED ON THE PROTECTED INDIVIDUAL’S APPLICATION TO BE A PROGRAM
+4 PARTICIPANT UNDER THIS SUBTITLE.
+5 (C) “GOVERNMENTAL ENTITY” HAS THE MEANING STATED IN § 10–1501 OF
+6 THIS TITLE.
+7 (D) “OFFICE” HAS THE MEANING STATED IN § 10–1801 OF THIS TITLE.
+8 (E) “PROGRAM” MEANS THE STATE ELECTED OFFICIALS ADDRESS
+9 CONFIDENTIALITY PROGRAM.
+10 (F) “PROGRAM PARTICIPANT” MEANS A PROTECTED INDIVIDUAL
+11 DESIGNATED AS A PROGRAM PARTICIPANT UNDER THIS SUBTITLE.
+12 (G) “PROTECTED INDIVIDUAL” HAS THE MEANING STATED IN § 10–1801 OF
+13 THIS TITLE.
+14 10–1902.
+15 THE PURPOSE OF THIS SUBTITLE IS TO:
+16 (1) ENABLE STATE AND LOCAL AGENCIES TO RESPOND TO REQUESTS
+17 FOR PUBLIC RECORDS WITHOUT DISCLOSING THE ACTUAL ADDRESS OF A PROGRAM
+18 PARTICIPANT;
+19 (2) ENCOURAGE INTERAGENCY COOPERATION IN PROVIDING
+20 ADDRESS CONFIDENTIALITY FOR PROGRAM PARTICIPANTS;
+21 (3) ALLOW GOVERNMENTAL ENTITIES AND PERSONS TO ACCEPT A
+22 PROGRAM PARTICIPANT’S USE OF AN ADDRESS DESIGNATED BY THE OFFICE AS A
+23 SUBSTITUTE ADDRESS; AND
+24 (4) PROVIDE A PROGRAM PARTICIPANT WITH PROTECTIONS IN
+25 ADDITION TO THOSE PROVIDED UNDER SUBTITLE 18 OF THIS TITLE.
+26 10–1903.
+27 THE OFFICE SHALL ESTABLISH AND ADMINISTER A STATE ELECTED
+28 OFFICIALS ADDRESS CONFIDENTIALITY PROGRAM FOR PROTECTED INDIVIDUALS.
+29 10–1904.
+SENATE BILL 632 11
+1 (A) A PROTECTED INDIVIDUAL MAY APPLY TO PARTICIPATE IN THE
+2 PROGRAM IN THE MANNER REQUIRED BY THE OFFICE.
+3 (B) ON RECEIPT OF AN APPLICATION TO PARTICIPATE IN THE PROGRAM,
+4 THE OFFICE SHALL DETERMINE WHETHER THE APPLICANT QUALIFIES AS A
+5 PROGRAM PARTICIPANT.
+6 10–1905.
+7 (A) THE OFFICE MAY:
+8 (1) REQUEST THAT A PERSON OR GOVERNMENTAL ENTITY USE A
+9 SUBSTITUTE ADDRESS DESIGNATED BY THE OFFICE AS THE PROGRAM
+10 PARTICIPANT’S ADDRESS;
+11 (2) REQUEST THE SHIELDING OF REAL PROPERTY RECORDS ON
+12 BEHALF OF A PROGRAM PARTICIPANT WHO HAS AN OWNERSHIP INTEREST IN REAL
+13 PROPERTY IN ACCORDANCE WITH TITLE 3, SUBTITLE 1, PART II OF THE REAL
+14 PROPERTY ARTICLE; AND
+15 (3) REQUEST THAT A PROGRAM PARTICIPANT’S ACTUAL ADDRESS BE
+16 SHIELDED FROM PUBLIC INSPECTION IN A RECORD MAINTAINED BY A
+17 GOVERNMENTAL ENTITY.
+18 (B) A REQUEST MADE BY THE OFFICE UNDER THIS SUBTITLE CERTIFIES
+19 THAT A REQUESTER IS A PROGRAM PARTICIPANT.
+20 (C) ON RECEIPT OF A REQUEST BY THE OFFICE, A PERSON OR
+21 GOVERNMENTAL ENTITY SHALL:
+22 (1) PROMPTLY ACKNOWLEDGE RECEIPT OF THE REQUEST IN
+23 WRITING BY CERTIFIED MAIL OR BY E–MAIL; AND
+24 (2) TAKE STEPS REASONABLY NECESSARY TO COMPLY.
+25 (D) NOTWITHSTANDING SUBSECTION (A)(3) OF THIS SECTION, A
+26 CUSTODIAN OF RECORD MAY:
+27 (1) MAINTAIN A COPY OF A RECORD CONTAINING A PROGRAM
+28 PARTICIPANT’S ACTUAL ADDRESS IN A SEPARATE SECURE AREA TO WHICH THE
+29 PERSONS WHO DO NOT HAVE A LEGITIMATE REASON FOR ACCESS ARE DENIED
+30 ACCESS;
+12 SENATE BILL 632
+1 (2) PERMIT PUBLIC INSPECTION OF A RECORD WITH THE CONSENT OF
+2 THE PROGRAM PARTICIPANT;
+3 (3) PERMIT PUBLIC INSPECTION OF A RECORD WITH THE ACTUAL
+4 ADDRESS REDACTED FROM THE RECORD; OR
+5 (4) AFTER NOTIFICATION TO THE PROGRAM PARTICIPANT, PERMIT
+6 PUBLIC INSPECTION OF A RECORD IF THE INSPECTION WILL FURTHER A
+7 SUBSTANTIAL PUBLIC INTEREST OR A LEGITIMATE BUSINESS NEED.
+8 10–1906.
+9 A RECORD OF A PROGRAM PARTICIPANT’S ACTUAL ADDRESS AND TELEPHONE
+10 NUMBER MAINTAINED BY THE OFFICE OR A GOVERNMENTAL ENTITY IS NOT A
+11 PUBLIC RECORD UNDER § 4–101 OF THE GENERAL PROVISIONS ARTICLE.
+12 10–1907.
+13 (A) A PERSON MAY NOT KNOWINGLY DISCLOSE A PROGRAM PARTICIPANT’S
+14 ACTUAL ADDRESS.
+15 (B) A PROTECTED INDIVIDUAL OR THE OFFICE MAY BRING AN ACTION FOR
+16 A VIOLATION OF THIS SECTION FOR:
+17 (1) DECLARATORY RELIEF;
+18 (2) INJUNCTIVE RELIEF; OR
+19 (3) REASONABLE ATTORNEY’S FEES.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2026.
+[DELETED: :CA      6   C S W a H H B C F H a A S F i o L p i o t i o t I s m o s n e p s c p f t p o p i A i c u p B  A  S  A  ( B  A]
+[DELETED:  S   S  A  ( B  A S 1 t 1 t b u t n s “ 1 P I – P I a 1 t 1 S  A  (  S T A 3  ( I  ( “ n m t u i n a t e p or ],SEOI T L F N R .  ( “ a o a i a s o t i a t b a p p  ( “st]    A C P f s o t  a t A a]    J A C P a b t  A ( TSEOA T L F D ODL A B T E O E E I  U   T O R1,S19SG .  ( ( “ a]
+[DELETED: S 3   ( “    ( N    ( P    ( E    ( S    ( D  ( “ A ) “OSEOIPF O T L F N RY F T L F N RSEOILS. E E  () “](],,OS or b t O o I PO B T F O T LI N R  a a p i a a c p  () “]( f  () “]( o  () “](  () “]( i  () “]( r s d A 2  ( T]
+[DELETED:  S    ( t   ( t   ( t   ( t a] ( OSEO F O T L F N;Y    () a]( S  ( W t E   ( t   ( t d o t O o P E a G A   ( t   ( t a] ( OSE F T L FP; RY    () a d o a o d b t P a t]( S () ]()  ( E t a t m l o t H o D m b r b t E D  ( E a  ( E]
+[DELETED: S 5  ( A c w t E D e o d m a i1.PI–PI.  R N  R N() N T S T F W H T M() “G”§1OY    () “O”OSEFE M T F O T L FPDLS. R E E E() ( “P”:EN   () ;A  () ;IA  () ;IA  () –;VAEM  () SS;A O E  () ’;IARS  () TIN;IA A D U  () ;IA  () ;XA  ()A L P N O U I O A  () ;IA  () ’;IADS]
+[DELETED:  S   () ;IA  () ;VAP   () .VA ( “P”:N   ()IL   ()II T I R T A D AY Y L ,N   ()II5GPA.   E R R() “P”:RL  ( GM; O A ( LGM; I O A ( AGM; T E A ( CM; O A ( MS; A E ( M A O;S  ( , SE CD O D W R I T S A A I D I I  T  O T)(() “PUH  NT A ,,.]
+[DELETED: S 7() A, P IL O T F O B O AL : (  P T P ILS PN  (  T P ILS P() A:  ( ; ( –;EM ( () A P I S C O T SN S I T C T T R I AL  ( , I T DT PG O O() A  F() O()N B N G E S P A R O TEM: ( S R N T E T TD  (  T P I I A PD  () A  F ( ; ( ;F ]
+[DELETED:  S  ( ’.YS() A, P IL O T F O B O AL  ILS P I R T PLS.() A:  ( ; ( –;EM ( () A P I S C O T SN S I T C T T R I AL  ( , I T DT PG O O() A  F I() T:H ( F T R O T P I  T 2; (  T P I O T F BEM.() ( A  F  () ;D  () ;IIF   () ’.IRYS]
+[DELETED: S 9 ( I( N  F T R O P I K T T O B O W T R W M W A PL . ) AG  E S   2() N I M N K P T P ( I O T P I P A I A SL  ( :  () ;A  () ;IH  () ;ITS   () .VM() N I W V T S I G O A A O C I S T I N    8$0.1.PI–SEO  R N  T L F DP. R() N T S T F W H T M]
+[DELETED:  S () “A”C AS M A R S ASE  O T P ILS A T B A R() “G”§1OY    () “O”§11.FE    () “P”SEORM M T T L F DP. R() “PR PT M A P I R.() “P”§1RL    T: (  T R ( I C I P R; ( G E A P T A A’TS FS  (  A R P W P I U  18.TOS F S E A A A T LACP. D O R]
+[DELETED: S 1()  P I M A T P I TO. F() OPN RM F S D W T A Q A A.() TO:H F ( T A P O G E U A A D B T F A T RTS; ( T S O R P R O R I A W I  U  A  O T E3,S1,PIIA; RE  ( P RTS F P I I A R M B A() A R F C R.() OON R O A R B T FE A P O ( A R O T R IEML ; ( .() N())O S A O T SN A (  A C O A R C A RTS A A I A S S A T W T W D N H A L R F A A D]
+[DELETED:  S  ( R; ( P I O A R W T AD  ( P RT  I O A R I T I W F AAP RTS M B T F O A G E I N A    E R R41GPA.() AP  RTS() A  F ( ; ( ;F  ( ’.YS  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 632
+P1 6lr2821
+CF 6lr2822
+By: Senators West and Hester, Hester, Brooks, Carozza, Feldman, Harris, and
+Simonaire
+Introduced and read first time: February 5, 2026
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 4, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 State Government – State Elected Officials – Protection of Personal Information
+3 FOR the purpose of establishing the Office of State Elected Officials Information Privacy
+4 in the Department of Legislative Services; authorizing a certain protected individual
+5 or the Office of State Elected Officials Information Privacy in the Department of
+6 Legislative Services to request that a governmental entity or person not publish
+7 personal information of the individual on the Internet, social media, or social
+8 networks or that the governmental entity or person remove the information from any
+9 existing publication; specifying certain procedures for the protection of personal
+10 information of a protected individual; authorizing certain relief for a violation of this
+11 Act; authorizing a member of the General Assembly to use certain funds to aid in the
+12 identification and removal of certain published personal information; establishing a
+13 criminal penalty for publicly posting personal information of a protected individual
+14 under certain circumstances; and generally relating to State elected officials and the
+15 protection of personal information.
+16 BY repealing and reenacting, with amendments,
+17 Article – Real Property
+18 Section 3–114
+19 Annotated Code of Maryland
+20 (2023 Replacement Volume and 2025 Supplement)
+21 BY repealing and reenacting, with amendments,
+22 Article – State Government
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0632*
+
+2 SENATE BILL 632
+1 Section 2–1206
+2 Annotated Code of Maryland
+3 (2021 Replacement Volume and 2025 Supplement)
+4 BY adding to
+5 Article – State Government
+6 Section 10–1801 through 10–1804 to be under the new subtitle “Subtitle 18.
+7 Protected Individuals – Protected Information”; and 10–1901 through
+8 10–1907 to be under the new subtitle “Subtitle 19. Protected Individuals –
+9 State Elected Officials Address Confidentiality Program”
+10 Annotated Code of Maryland
+11 (2021 Replacement Volume and 2025 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Real Property
+15 3–114.
+16 (a) In this part the following words have the meanings indicated.
+17 (b) “ACP number” means the unique identification number assigned to each
+18 program participant by the Secretary [or], by the Office of Information Privacy, OR BY THE
+19 OFFICE OF STATE ELECTED OFFICIALS INFORMATION PRIVACY.
+20 (c) “Actual address” means a residential street address, school address, or work
+21 address of an individual, as specified on the individual’s application to be a program
+22 participant under Title 7, Subtitle 3 of the State Government Article.
+23 (d) “Address Confidentiality Program” means [the]:
+24 (1) THE Address Confidentiality Program for survivors of threatened,
+25 attempted, or actual domestic violence, sexual assault, stalking, harassment, or human
+26 trafficking administered by the Secretary under Title 7, Subtitle 3 of the State Government
+27 Article [and the];
+28 (2) THE Judicial Address Confidentiality Program administered by the
+29 Administrative Office of the Courts under Title 3, Subtitle 24 of the Courts Article; AND
+30 (3) THE STATE ELECTED OFFICIALS ADDRESS CONFIDENTIALITY
+31 PROGRAM ADMINISTERED BY THE DEPARTMENT OF LEGISLATIVE SERVICES
+32 UNDER TITLE 10, SUBTITLE 19 OF THE STATE GOVERNMENT ARTICLE.
+33 (e) (1) “Identity information” means information that may be used to identify
+34 a program participant.
+
+SENATE BILL 632 3
+1 (2) “Identity information” includes a program participant’s:
+2 (i) Name;
+3 (ii) Phone number;
+4 (iii) E–mail address;
+5 (iv) Social Security number; and
+6 (v) Driver’s license number.
+7 (f) “Office of Information Privacy” means the Office of Information Privacy in the
+8 Administrative Office of the Courts.
+9 (G) “OFFICE OF STATE ELECTED OFFICIALS INFORMATION PRIVACY”
+10 MEANS THE OFFICE OF STATE ELECTED OFFICIALS INFORMATION PRIVACY IN THE
+11 DEPARTMENT OF LEGISLATIVE SERVICES.
+12 [(g)] (H) “Program participant” means an individual designated by the Secretary
+13 [or], by the Office of Information Privacy, OR BY THE OFFICE OF STATE ELECTED
+14 OFFICIALS INFORMATION PRIVACY as a participant in an address confidentiality
+15 program.
+16 [(h)] (I) “Real Property ACP Notice” means the notice required under this part
+17 for a program participant to request the shielding of real property records.
+18 [(i)] (J) “Real property record” means any record or data maintained by a clerk
+19 of the circuit court or a State or local agency as part of the land or tax records.
+20 [(j)] (K) “Secretary” means the Secretary of State.
+21 [(k)] (L) “Shield” means to remove real property records from public inspection
+22 in accordance with this part.
+23 [(l)] (M) “Shielding” means, with respect to a real property record accepted for
+24 recording by a clerk of the circuit court or a State or local agency, removing the record to a
+25 separate secure area to which persons who do not have a legitimate reason for access are
+26 denied access.
+27 Article – State Government
+28 2–1206.
+29 (a) The following units are in the Department:
+
+4 SENATE BILL 632
+1 (1) the Office of Legislative Audits;
+2 (2) the Office of Program Evaluation and Government Accountability;
+3 (3) the Office of Policy Analysis;
+4 (4) the Office of Operations and Support Services; [and]
+5 (5) THE OFFICE OF STATE ELECTED OFFICIALS INFORMATION
+6 PRIVACY; AND
+7 [(5)] (6) any other offices as may be designated by the President and the
+8 Speaker.
+9 (b) With the approval of the President and the Speaker and in consultation with
+10 the minority leader of the Senate and the minority leader of the House of Delegates, the
+11 Executive Director shall appoint the following office directors:
+12 (1) the director of the Office of Legislative Audits;
+13 (2) the director of the Office of Program Evaluation and Government
+14 Accountability;
+15 (3) the director of the Office of Policy Analysis;
+16 (4) the director of the Office of Operations and Support Services; [and]
+17 (5) THE DIRECTOR OF THE OFFICE OF STATE ELECTED OFFICIALS
+18 INFORMATION PRIVACY; AND
+19 [(5)] (6) any director of an office designated by the President and the
+20 Speaker under subsection [(a)(5)] (A)(6) of this section.
+21 (c) Each office director serves without a fixed term and, subject to the approval of
+22 the President and the Speaker and in consultation with the minority leader of the Senate
+23 and the minority leader of the House of Delegates, may be removed by the Executive
+24 Director.
+25 (d) Each office director shall serve in a nonpartisan capacity and ensure that all
+26 activities of the office are conducted in a nonpartisan manner.
+27 (e) Each office director is entitled to the salary provided in the State budget.
+
+SENATE BILL 632 5
+1 (f) After consultation with the Executive Director, each office director may
+2 appoint an appropriate number of qualified individuals to serve in management functions
+3 in the respective offices.
+4 SUBTITLE 18. PROTECTED INDIVIDUALS – PROTECTED INFORMATION.
+5 10–1801.
+6 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+7 INDICATED.
+8 (B) “GOVERNMENTAL ENTITY” HAS THE MEANING STATED IN § 10–1501 OF
+9 THIS TITLE.
+10 (C) “OFFICE” MEANS THE OFFICE OF STATE ELECTED OFFICIALS
+11 INFORMATION PRIVACY IN THE DEPARTMENT OF LEGISLATIVE SERVICES.
+12 (D) (1) “PERSONAL INFORMATION” MEANS:
+13 (I) A HOME ADDRESS;
+14 (II) A HOME TELEPHONE NUMBER;
+15 (III) A MOBILE TELEPHONE NUMBER;
+16 (IV) A PERSONAL E–MAIL ADDRESS;
+17 (V) A SOCIAL SECURITY NUMBER;
+18 (VI) A DRIVER’S LICENSE NUMBER;
+19 (VII) A FEDERAL TAX IDENTIFICATION NUMBER;
+20 (VIII) A BANK ACCOUNT NUMBER;
+21 (IX) A CREDIT OR DEBIT CARD NUMBER;
+22 (X) A LICENSE PLATE NUMBER OR UNIQUE IDENTIFIER OF A
+23 VEHICLE;
+24 (XI) A BIRTH OR MARITAL RECORD;
+25 (XII) A CHILD’S NAME;
+
+6 SENATE BILL 632
+1 (XIII) A SCHOOL OR DAYCARE;
+2 (XIV) A PLACE OF WORSHIP; OR
+3 (XV) A PLACE OF EMPLOYMENT.
+4 (2) “PERSONAL INFORMATION” DOES NOT INCLUDE:
+5 (I) INFORMATION THAT HAS BEEN PUBLICLY DISCLOSED WITH
+6 THE CONSENT OF THE PROTECTED INDIVIDUAL; OR
+7 (II) INFORMATION THAT IS RELEVANT TO AND DISPLAYED AS
+8 PART OF A NEWS STORY, A COMMENTARY, AN EDITORIAL, OR ANY OTHER SPEECH ON
+9 MATTERS OF PUBLIC CONCERN; OR
+10 (III) INFORMATION THAT IS REQUIRED TO BE PUBLISHED UNDER
+11 TITLE 5 OF THE GENERAL PROVISIONS ARTICLE.
+12 (E) “PROTECTED INDIVIDUAL” MEANS:
+13 (1) A CURRENT OR FORMER GOVERNOR OF MARYLAND;
+14 (2) A CURRENT OR FORMER LIEUTENANT GOVERNOR OF MARYLAND;
+15 (3) A CURRENT OR FORMER ATTORNEY GENERAL OF MARYLAND;
+16 (4) A CURRENT OR FORMER COMPTROLLER OF MARYLAND;
+17 (5) A CURRENT OR FORMER MEMBER OF THE MARYLAND SENATE;
+18 (6) A CURRENT OR FORMER MEMBER OF THE MARYLAND HOUSE OF
+19 DELEGATES; OR
+20 (7) A SPOUSE, CHILD, OR DEPENDENT WHO RESIDES IN THE SAME
+21 HOUSEHOLD AS AN INDIVIDUAL DESCRIBED IN ITEMS (1) THROUGH (6) OF THIS
+22 SUBSECTION.
+23 (F) “PUBLISH” MEANS TO POST OR OTHERWISE MAKE AVAILABLE TO THE
+24 GENERAL PUBLIC ON THE INTERNET, SOCIAL MEDIA, OR SOCIAL NETWORKS.
+25 10–1802.
+
+SENATE BILL 632 7
+1 (A) A PROTECTED INDIVIDUAL, OR THE OFFICE ON BEHALF OF A
+2 PROTECTED INDIVIDUAL, MAY REQUEST THAT A GOVERNMENTAL ENTITY:
+3 (1) NOT PUBLISH THE PROTECTED INDIVIDUAL’S PERSONAL
+4 INFORMATION; OR
+5 (2) REMOVE THE PROTECTED INDIVIDUAL’S PERSONAL
+6 INFORMATION FROM ANY EXISTING PUBLICATION.
+7 (B) A REQUEST MADE UNDER THIS SECTION SHALL:
+8 (1) BE IN WRITING;
+9 (2) BE SENT BY CERTIFIED MAIL OR BY E–MAIL;
+10 (3) EXCEPT AS PROVIDED IN SUBSECTION (C) OF THIS SECTION,
+11 PROVIDE SUFFICIENT INFORMATION TO CONFIRM THAT THE REQUESTER IS A
+12 PROTECTED INDIVIDUAL; AND
+13 (4) ADEQUATELY IDENTIFY THE DOCUMENT, POSTING, OR OTHER
+14 PUBLICATION CONTAINING THE PERSONAL INFORMATION.
+15 (C) A REQUEST MADE BY THE OFFICE CERTIFIES THAT A REQUESTER IS A
+16 PROTECTED INDIVIDUAL AND NO FURTHER INFORMATION MAY BE REQUIRED TO
+17 CONFIRM THAT THE REQUESTER IS A PROTECTED INDIVIDUAL.
+18 (D) ON RECEIPT OF A REQUEST UNDER SUBSECTION (B) OF THIS SECTION,
+19 A GOVERNMENTAL ENTITY SHALL PROMPTLY ACKNOWLEDGE RECEIPT OF THE
+20 REQUEST IN WRITING BY CERTIFIED MAIL OR BY E–MAIL AND:
+21 (1) TAKE STEPS REASONABLY NECESSARY TO ENSURE THAT THE
+22 PERSONAL INFORMATION IS NOT PUBLISHED; OR
+23 (2) IF THE PERSONAL INFORMATION IS ALREADY PUBLISHED,
+24 PROVIDE FOR THE REMOVAL OF THE PERSONAL INFORMATION WITHIN 72 HOURS
+25 AFTER RECEIPT OF THE REQUEST.
+26 (E) A PROTECTED INDIVIDUAL OR THE OFFICE MAY BRING AN ACTION FOR
+27 A VIOLATION OF THIS SECTION AGAINST A GOVERNMENTAL ENTITY FOR:
+28 (1) DECLARATORY RELIEF;
+29 (2) INJUNCTIVE RELIEF; OR
+
+8 SENATE BILL 632
+1 (3) REASONABLE ATTORNEY’S FEES.
+2 10–1803.
+3 (A) A PROTECTED INDIVIDUAL, OR THE OFFICE ON BEHALF OF A
+4 PROTECTED INDIVIDUAL, MAY REQUEST THAT A PERSON WHO HAS PUBLISHED THE
+5 PROTECTED INDIVIDUAL’S PERSONAL INFORMATION REMOVE THE PROTECTED
+6 INDIVIDUAL’S PERSONAL INFORMATION FROM PUBLICATION.
+7 (B) A REQUEST MADE UNDER THIS SECTION SHALL:
+8 (1) BE IN WRITING;
+9 (2) BE SENT BY CERTIFIED MAIL OR BY E–MAIL;
+10 (3) EXCEPT AS PROVIDED IN SUBSECTION (C) OF THIS SECTION,
+11 PROVIDE SUFFICIENT INFORMATION TO CONFIRM THAT THE REQUESTER IS A
+12 PROTECTED INDIVIDUAL; AND
+13 (4) ADEQUATELY IDENTIFY THE DOCUMENT, POSTING, OR OTHER
+14 PUBLICATION CONTAINING THE PERSONAL INFORMATION.
+15 (C) A REQUEST MADE BY THE OFFICE CERTIFIES THAT A REQUESTER IS A
+16 PROTECTED INDIVIDUAL AND NO FURTHER INFORMATION MAY BE REQUIRED TO
+17 CONFIRM THAT THE REQUESTER IS A PROTECTED INDIVIDUAL.
+18 (D) THE PERSON TO WHOM THE REQUEST IS MADE SHALL:
+19 (1) PROVIDE FOR THE REMOVAL OF THE PERSONAL INFORMATION
+20 WITHIN 72 HOURS AFTER RECEIPT OF THE REQUEST; AND
+21 (2) NOTIFY THE PROTECTED INDIVIDUAL OR THE OFFICE BY
+22 CERTIFIED MAIL OR BY E–MAIL OF THE REMOVAL.
+23 (E) (1) A PROTECTED INDIVIDUAL OR THE OFFICE MAY BRING AN ACTION
+24 FOR A VIOLATION OF THIS SECTION AGAINST A PERSON FOR:
+25 (I) DECLARATORY RELIEF;
+26 (II) INJUNCTIVE RELIEF; OR
+27 (III) REASONABLE ATTORNEY’S FEES.
+
+SENATE BILL 632 9
+1 (2) IN ADDITION TO THE RELIEF PROVIDED UNDER PARAGRAPH (1)
+2 OF THIS SUBSECTION, IF A COURT FINDS THAT A PERSON WILLFULLY REFUSED TO
+3 PROVIDE FOR THE REMOVAL OF PERSONAL INFORMATION KNOWING THAT THE
+4 INDIVIDUAL ON BEHALF OF WHOM THE REQUEST WAS MADE WAS A PROTECTED
+5 INDIVIDUAL, THE COURT MAY AWARD PUNITIVE DAMAGES.
+6 (F) A MEMBER OF THE GENERAL ASSEMBLY MAY USE FUNDS ALLOTTED TO
+7 THE MEMBER UNDER § 2–102 OF THIS ARTICLE TO ENGAGE AN INDIVIDUAL OR A
+8 SERVICE TO AID IN THE IDENTIFICATION AND REMOVAL OF PUBLISHED PERSONAL
+9 INFORMATION.
+10 10–1804.
+11 (A) AN INDIVIDUAL MAY NOT KNOWINGLY PUBLISH THE PERSONAL
+12 INFORMATION OF A PROTECTED INDIVIDUAL IF:
+13 (1) THE INDIVIDUAL KNOWS OR REASONABLY SHOULD KNOW THAT
+14 PUBLISHING THE PERSONAL INFORMATION POSES AN IMMINENT AND SERIOUS
+15 THREAT TO THE PROTECTED INDIVIDUAL; AND
+16 (2) THE PUBLISHING OF THE PERSONAL INFORMATION RESULTS IN:
+17 (I) AN ASSAULT IN ANY DEGREE;
+18 (II) HARASSMENT;
+19 (III) TRESPASS; OR
+20 (IV) MALICIOUS DESTRUCTION OF PROPERTY.
+21 (B) AN INDIVIDUAL WHO VIOLATES THIS SECTION IS GUILTY OF A
+22 MISDEMEANOR AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT
+23 EXCEEDING 18 MONTHS OR A FINE NOT EXCEEDING $5,000 OR BOTH.
+24 SUBTITLE 19. PROTECTED INDIVIDUALS – STATE ELECTED OFFICIALS ADDRESS
+25 CONFIDENTIALITY PROGRAM.
+26 10–1901.
+27 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+28 INDICATED.
+
+10 SENATE BILL 632
+1 (B) “ACTUAL ADDRESS” MEANS A RESIDENTIAL STREET ADDRESS,
+2 INCLUDING PRIMARY OR SECONDARY RESIDENCE, OF A PROTECTED INDIVIDUAL AS
+3 SPECIFIED ON THE PROTECTED INDIVIDUAL’S APPLICATION TO BE A PROGRAM
+4 PARTICIPANT UNDER THIS SUBTITLE.
+5 (C) “GOVERNMENTAL ENTITY” HAS THE MEANING STATED IN § 10–1501 OF
+6 THIS TITLE.
+7 (D) “OFFICE” HAS THE MEANING STATED IN § 10–1801 OF THIS TITLE.
+8 (E) “PROGRAM” MEANS THE STATE ELECTED OFFICIALS ADDRESS
+9 CONFIDENTIALITY PROGRAM.
+10 (F) “PROGRAM PARTICIPANT” MEANS A PROTECTED INDIVIDUAL
+11 DESIGNATED AS A PROGRAM PARTICIPANT UNDER THIS SUBTITLE.
+12 (G) “PROTECTED INDIVIDUAL” HAS THE MEANING STATED IN § 10–1801 OF
+13 THIS TITLE.
+14 10–1902.
+15 THE PURPOSE OF THIS SUBTITLE IS TO:
+16 (1) ENABLE STATE AND LOCAL AGENCIES TO RESPOND TO REQUESTS
+17 FOR PUBLIC RECORDS WITHOUT DISCLOSING THE ACTUAL ADDRESS OF A PROGRAM
+18 PARTICIPANT;
+19 (2) ENCOURAGE INTERAGENCY COOPERATION IN PROVIDING
+20 ADDRESS CONFIDENTIALITY FOR PROGRAM PARTICIPANTS;
+21 (3) ALLOW GOVERNMENTAL ENTITIES AND PERSONS TO ACCEPT A
+22 PROGRAM PARTICIPANT’S USE OF AN ADDRESS DESIGNATED BY THE OFFICE AS A
+23 SUBSTITUTE ADDRESS; AND
+24 (4) PROVIDE A PROGRAM PARTICIPANT WITH PROTECTIONS IN
+25 ADDITION TO THOSE PROVIDED UNDER SUBTITLE 18 OF THIS TITLE.
+26 10–1903.
+27 THE OFFICE SHALL ESTABLISH AND ADMINISTER A STATE ELECTED
+28 OFFICIALS ADDRESS CONFIDENTIALITY PROGRAM FOR PROTECTED INDIVIDUALS.
+29 10–1904.
+
+SENATE BILL 632 11
+1 (A) A PROTECTED INDIVIDUAL MAY APPLY TO PARTICIPATE IN THE
+2 PROGRAM IN THE MANNER REQUIRED BY THE OFFICE.
+3 (B) ON RECEIPT OF AN APPLICATION TO PARTICIPATE IN THE PROGRAM,
+4 THE OFFICE SHALL DETERMINE WHETHER THE APPLICANT QUALIFIES AS A
+5 PROGRAM PARTICIPANT.
+6 10–1905.
+7 (A) THE OFFICE MAY:
+8 (1) REQUEST THAT A PERSON OR GOVERNMENTAL ENTITY USE A
+9 SUBSTITUTE ADDRESS DESIGNATED BY THE OFFICE AS THE PROGRAM
+10 PARTICIPANT’S ADDRESS;
+11 (2) REQUEST THE SHIELDING OF REAL PROPERTY RECORDS ON
+12 BEHALF OF A PROGRAM PARTICIPANT WHO HAS AN OWNERSHIP INTEREST IN REAL
+13 PROPERTY IN ACCORDANCE WITH TITLE 3, SUBTITLE 1, PART II OF THE REAL
+14 PROPERTY ARTICLE; AND
+15 (3) REQUEST THAT A PROGRAM PARTICIPANT’S ACTUAL ADDRESS BE
+16 SHIELDED FROM PUBLIC INSPECTION IN A RECORD MAINTAINED BY A
+17 GOVERNMENTAL ENTITY.
+18 (B) A REQUEST MADE BY THE OFFICE UNDER THIS SUBTITLE CERTIFIES
+19 THAT A REQUESTER IS A PROGRAM PARTICIPANT.
+20 (C) ON RECEIPT OF A REQUEST BY THE OFFICE, A PERSON OR
+21 GOVERNMENTAL ENTITY SHALL:
+22 (1) PROMPTLY ACKNOWLEDGE RECEIPT OF THE REQUEST IN
+23 WRITING BY CERTIFIED MAIL OR BY E–MAIL; AND
+24 (2) TAKE STEPS REASONABLY NECESSARY TO COMPLY.
+25 (D) NOTWITHSTANDING SUBSECTION (A)(3) OF THIS SECTION, A
+26 CUSTODIAN OF RECORD MAY:
+27 (1) MAINTAIN A COPY OF A RECORD CONTAINING A PROGRAM
+28 PARTICIPANT’S ACTUAL ADDRESS IN A SEPARATE SECURE AREA TO WHICH THE
+29 PERSONS WHO DO NOT HAVE A LEGITIMATE REASON FOR ACCESS ARE DENIED
+30 ACCESS;
+
+12 SENATE BILL 632
+1 (2) PERMIT PUBLIC INSPECTION OF A RECORD WITH THE CONSENT OF
+2 THE PROGRAM PARTICIPANT;
+3 (3) PERMIT PUBLIC INSPECTION OF A RECORD WITH THE ACTUAL
+4 ADDRESS REDACTED FROM THE RECORD; OR
+5 (4) AFTER NOTIFICATION TO THE PROGRAM PARTICIPANT, PERMIT
+6 PUBLIC INSPECTION OF A RECORD IF THE INSPECTION WILL FURTHER A
+7 SUBSTANTIAL PUBLIC INTEREST OR A LEGITIMATE BUSINESS NEED.
+8 10–1906.
+9 A RECORD OF A PROGRAM PARTICIPANT’S ACTUAL ADDRESS AND TELEPHONE
+10 NUMBER MAINTAINED BY THE OFFICE OR A GOVERNMENTAL ENTITY IS NOT A
+11 PUBLIC RECORD UNDER § 4–101 OF THE GENERAL PROVISIONS ARTICLE.
+12 10–1907.
+13 (A) A PERSON MAY NOT KNOWINGLY DISCLOSE A PROGRAM PARTICIPANT’S
+14 ACTUAL ADDRESS.
+15 (B) A PROTECTED INDIVIDUAL OR THE OFFICE MAY BRING AN ACTION FOR
+16 A VIOLATION OF THIS SECTION FOR:
+17 (1) DECLARATORY RELIEF;
+18 (2) INJUNCTIVE RELIEF; OR
+19 (3) REASONABLE ATTORNEY’S FEES.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2026.
+
+[DELETED: :CA      6   C S W a H H B C F H a A S F i o L p i o t i o t I s m o s n e p s c p f t p o p i A i c u p B  A  S  A  ( B  A]
+[DELETED:  S   S  A  ( B  A S 1 t 1 t b u t n s “ 1 P I – P I a 1 t 1 S  A  (  S T A 3  ( I  ( “ n m t u i n a t e p or ],SEOI T L F N R .  ( “ a o a i a s o t i a t b a p p  ( “st]    A C P f s o t  a t A a]    J A C P a b t  A ( TSEOA T L F D ODL A B T E O E E I  U   T O R1,S19SG .  ( ( “ a]
+[DELETED: S 3   ( “    ( N    ( P    ( E    ( S    ( D  ( “ A ) “OSEOIPF O T L F N RY F T L F N RSEOILS. E E  () “](],,OS or b t O o I PO B T F O T LI N R  a a p i a a c p  () “]( f  () “]( o  () “](  () “]( i  () “]( r s d A 2  ( T]
+[DELETED:  S    ( t   ( t   ( t   ( t a] ( OSEO F O T L F N;Y    () a]( S  ( W t E   ( t   ( t d o t O o P E a G A   ( t   ( t a] ( OSE F T L FP; RY    () a d o a o d b t P a t]( S () ]()  ( E t a t m l o t H o D m b r b t E D  ( E a  ( E]
+[DELETED: S 5  ( A c w t E D e o d m a i1.PI–PI.  R N  R N() N T S T F W H T M() “G”§1OY    () “O”OSEFE M T F O T L FPDLS. R E E E() ( “P”:EN   () ;A  () ;IA  () ;IA  () –;VAEM  () SS;A O E  () ’;IARS  () TIN;IA A D U  () ;IA  () ;XA  ()A L P N O U I O A  () ;IA  () ’;IADS]
+[DELETED:  S   () ;IA  () ;VAP   () .VA ( “P”:N   ()IL   ()II T I R T A D AY Y L ,N   ()II5GPA.   E R R() “P”:RL  ( GM; O A ( LGM; I O A ( AGM; T E A ( CM; O A ( MS; A E ( M A O;S  ( , SE CD O D W R I T S A A I D I I  T  O T)(() “PUH  NT A ,,.]
+[DELETED: S 7() A, P IL O T F O B O AL : (  P T P ILS PN  (  T P ILS P() A:  ( ; ( –;EM ( () A P I S C O T SN S I T C T T R I AL  ( , I T DT PG O O() A  F() O()N B N G E S P A R O TEM: ( S R N T E T TD  (  T P I I A PD  () A  F ( ; ( ;F ]
+[DELETED:  S  ( ’.YS() A, P IL O T F O B O AL  ILS P I R T PLS.() A:  ( ; ( –;EM ( () A P I S C O T SN S I T C T T R I AL  ( , I T DT PG O O() A  F I() T:H ( F T R O T P I  T 2; (  T P I O T F BEM.() ( A  F  () ;D  () ;IIF   () ’.IRYS]
+[DELETED: S 9 ( I( N  F T R O P I K T T O B O W T R W M W A PL . ) AG  E S   2() N I M N K P T P ( I O T P I P A I A SL  ( :  () ;A  () ;IH  () ;ITS   () .VM() N I W V T S I G O A A O C I S T I N    8$0.1.PI–SEO  R N  T L F DP. R() N T S T F W H T M]
+[DELETED:  S () “A”C AS M A R S ASE  O T P ILS A T B A R() “G”§1OY    () “O”§11.FE    () “P”SEORM M T T L F DP. R() “PR PT M A P I R.() “P”§1RL    T: (  T R ( I C I P R; ( G E A P T A A’TS FS  (  A R P W P I U  18.TOS F S E A A A T LACP. D O R]
+[DELETED: S 1()  P I M A T P I TO. F() OPN RM F S D W T A Q A A.() TO:H F ( T A P O G E U A A D B T F A T RTS; ( T S O R P R O R I A W I  U  A  O T E3,S1,PIIA; RE  ( P RTS F P I I A R M B A() A R F C R.() OON R O A R B T FE A P O ( A R O T R IEML ; ( .() N())O S A O T SN A (  A C O A R C A RTS A A I A S S A T W T W D N H A L R F A A D]
+[DELETED:  S  ( R; ( P I O A R W T AD  ( P RT  I O A R I T I W F AAP RTS M B T F O A G E I N A    E R R41GPA.() AP  RTS() A  F ( ; ( ;F  ( ’.YS  S A B I F E T t A s t e O]

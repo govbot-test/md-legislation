@@ -1,0 +1,288 @@
+Title: Commission to Examine the Expungement Laws of Maryland
+Official Title: Commission to Examine the Expungement Laws of Maryland
+Number of Sections: 3
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2026 Session
+SB0464
+Bill Summary
+This bill establishes the Commission to Examine the Expungement Laws of Maryland, to be
+staffed by the Governor’s Office of Crime Prevention and Policy.
+Racial Equity Impact Statement
+The bill establishes the Commission to Examine the Expungement Laws of Maryland, which is
+charged with streamlining the expungement process and broadening the eligibility requirements
+for expungement. Based on data from the Administrative Office of the Courts (AOC), any changes
+to expungement laws have the potential to affect a significant amount of individuals with criminal
+records since an average of 57,000 charges have been expunged annually in the past two years.
+While the bill’s impacts rely entirely on the recommendations of the commission and the extent to
+which those recommendations become law, Black individuals have the potential to benefit the
+most given their general overrepresentation in the criminal justice system.
+Analysis
+The commission must (1) examine the expungement laws of Maryland and the current
+expungement process under § 10-110 of the Criminal Procedure Article for issues of efficiency
+and equity; (2) review expungement laws in comparable states; and (3) develop an alternate
+statutory scheme that provides a streamlined process and broader eligibility. The commission must
+submit a report to the General Assembly of its findings and recommendations on or before
+December 31, 2027.
+SB 464/ Page 1
+Expungements Generally
+Other than specified court-initiated expungements under § 10-105.1 of the Criminal Procedure
+Article, to begin the process of expungement, a petitioner must file a petition for expungement
+with the court under § 10-105 or § 10-110 of the Criminal Procedure Article, which establishes
+eligibility for the expungement of records pertaining to a criminal charge or conviction. With some
+exceptions, § 10-105 applies to dispositions other than a conviction, and § 10-110 applies to
+expungements of convictions. Expungement of a court or police record means removal from public
+inspection:
+ by obliteration;
+ by removal to a separate secure area to which persons who do not have a legitimate reason
+for access are denied access; or
+ if access to a court record or police record can be obtained only by reference to another
+such record, by the expungement of that record, or the part of it that provides access.
+Recent Efforts to Streamline and Expand Expungement in Maryland
+Chapter 376 of 2021 established the Workgroup to Study Partial Expungement, and in
+January 2022, the workgroup published its report and recommendations, which included using
+electronic removal or shielding from internal and public portals for case record information until
+it was technologically feasible for affected agencies to partially expunge (by obliteration) court
+and criminal records. It also recommended that criminal justice stakeholders, including the
+Judiciary, the Department of Public Safety and Correctional Services (DPSCS), and local and State
+law enforcement agencies, explore technological capabilities that would provide flexibility and
+enable partial expungement in the future.
+Chapter 940 of 2024 addressed existing technology constraints by requiring DPSCS to include
+system upgrades required to allow for automated expungement of charges and partial expungement
+of charges in any vendor contracts being negotiated as of the Act’s effective date.
+Chapter 95 of 2025 generally expands expungement eligibility by (1) allowing individuals who
+have violated probation or other terms of their sentence for specified offenses to remain eligible
+for expungement; (2) expanding the list of misdemeanors eligible for expungement consideration;
+and (3) requiring specified court records of charges and convictions to be masked or otherwise
+made inaccessible in the Judiciary case search system. The Act also expands the list of factors a
+court must consider when determining eligibility for expungement.
+Collateral Consequences of a Criminal Record
+Expungement, in general, is intended to help mitigate the adverse consequences of having a
+criminal record, which can last beyond imprisonment, fines, and the legal process and can include
+the denial of civil opportunities and benefits available to a person due to their record. Specifically,
+having a criminal history can adversely affect employment prospects which can further influence
+an individual’s level of income, housing opportunities, and access to quality health care.
+SB 464/ Page 2
+Employment is key to stable housing and homeow nership and a variety of State and national data
+shows that higher incomes can lead to the stability and consistency necessary to accumulate the
+various upfront resources needed to buy a home. Monetary savings for down payments and good
+credit scores are necessary to achieve initial homeownership and are largely driven by an
+individual’s employment status and level of income. Employment also often dictates one’s access
+to health care. Certain jobs do not offer health insurance benefits and access to jobs with such
+benefits may be restricted by an attachment to a criminal record. A criminal record can therefore
+impose significant barriers to upward socioeconomic mobility.
+According to AOC, there were 46,251 petitions for expungement in Maryland’s circuit courts and
+the District Court in fiscal 2023, 54,069 petitions in fiscal 2024, and 60,527 petitions in fiscal 2025,
+showing sizable and incremental increases from the 38,448 expungement petitions in fiscal 2022
+following the legislative expansion of eligibility for expungement. There is currently no
+demographic data available that indicates the racial and ethnic composition of individuals
+impacted by expungement.
+Impacts of the Bill
+National and State data consistently show that racial minorities experience disproportionate levels
+of adversity in the areas of life affected by a criminal record. National studies have found that there
+is a significant negative effect of having a criminal record on employment outcomes that appears
+substantially larger for Black individuals. In 2024, the unemployment rate in Maryland by race
+and ethnicity was highest among Black job seekers in the State.
+Any recommendations from the commission concerning expungement rules will likely impact
+Black individuals to a greater extent, as Maryland incarcerates these individuals at a
+disproportionately high rate. DPSCS reports that as of January 2025, Black inmates made up 71%
+of Maryland’s prison population, contrasted with their 30% share of the State’s overall population.
+Conclusion
+Generally, expanding eligibility for expungement and streamlining the process of obtaining an
+expungement will benefit all individuals in the State that have a criminal record eligible for
+expungement. Black individuals would likely benefit to a greater extent, given their
+disproportionate incarceration rate. The bill’s exact equity impacts will depend on the nature of
+the commission’s recommendations and whether the recommendations ultimately become law.
+Information Sources: Department of Public Safety and Correctional Services; Administrative
+Office of the Courts; Bureau of Labor Statistics; National Conference of State Legislatures;
+Department of Legislative Services
+Analysis by: Rafael Regales
+Published: 02/18/2026
+SB 464/ Page 3
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+
+Section 2:
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+
+Section 3:
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+SB 464/ Page 4
+[DELETED:  L c m ( e t e l o M a t c e ( r e l i c s a ( d a a a r t t G A o i f a r o o b]
+[DELETED:  3 o 2 e t W t S P E a i c r I a r t c j s i t i g i i t h m t a c o h a]
+[DELETED:  s a n t a i h a a l d b a t l e o e f e T i c n d a t i t r a e c o i i t a g e a M i t i a a w b a i i t S t h a c r e f B i w l b t a g e g t o t C B o L S N C o S L ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]
+
+
+================================================================================
+
+Raw Text:
+2026 Session
+SB0464
+Commission to Examine the Expungement Laws of Maryland
+Bill Summary
+This bill establishes the Commission to Examine the Expungement Laws of Maryland, to be
+staffed by the Governor’s Office of Crime Prevention and Policy.
+Racial Equity Impact Statement
+The bill establishes the Commission to Examine the Expungement Laws of Maryland, which is
+charged with streamlining the expungement process and broadening the eligibility requirements
+for expungement. Based on data from the Administrative Office of the Courts (AOC), any changes
+to expungement laws have the potential to affect a significant amount of individuals with criminal
+records since an average of 57,000 charges have been expunged annually in the past two years.
+While the bill’s impacts rely entirely on the recommendations of the commission and the extent to
+which those recommendations become law, Black individuals have the potential to benefit the
+most given their general overrepresentation in the criminal justice system.
+Analysis
+The commission must (1) examine the expungement laws of Maryland and the current
+expungement process under § 10-110 of the Criminal Procedure Article for issues of efficiency
+and equity; (2) review expungement laws in comparable states; and (3) develop an alternate
+statutory scheme that provides a streamlined process and broader eligibility. The commission must
+submit a report to the General Assembly of its findings and recommendations on or before
+December 31, 2027.
+SB 464/ Page 1
+
+Expungements Generally
+Other than specified court-initiated expungements under § 10-105.1 of the Criminal Procedure
+Article, to begin the process of expungement, a petitioner must file a petition for expungement
+with the court under § 10-105 or § 10-110 of the Criminal Procedure Article, which establishes
+eligibility for the expungement of records pertaining to a criminal charge or conviction. With some
+exceptions, § 10-105 applies to dispositions other than a conviction, and § 10-110 applies to
+expungements of convictions. Expungement of a court or police record means removal from public
+inspection:
+ by obliteration;
+ by removal to a separate secure area to which persons who do not have a legitimate reason
+for access are denied access; or
+ if access to a court record or police record can be obtained only by reference to another
+such record, by the expungement of that record, or the part of it that provides access.
+Recent Efforts to Streamline and Expand Expungement in Maryland
+Chapter 376 of 2021 established the Workgroup to Study Partial Expungement, and in
+January 2022, the workgroup published its report and recommendations, which included using
+electronic removal or shielding from internal and public portals for case record information until
+it was technologically feasible for affected agencies to partially expunge (by obliteration) court
+and criminal records. It also recommended that criminal justice stakeholders, including the
+Judiciary, the Department of Public Safety and Correctional Services (DPSCS), and local and State
+law enforcement agencies, explore technological capabilities that would provide flexibility and
+enable partial expungement in the future.
+Chapter 940 of 2024 addressed existing technology constraints by requiring DPSCS to include
+system upgrades required to allow for automated expungement of charges and partial expungement
+of charges in any vendor contracts being negotiated as of the Act’s effective date.
+Chapter 95 of 2025 generally expands expungement eligibility by (1) allowing individuals who
+have violated probation or other terms of their sentence for specified offenses to remain eligible
+for expungement; (2) expanding the list of misdemeanors eligible for expungement consideration;
+and (3) requiring specified court records of charges and convictions to be masked or otherwise
+made inaccessible in the Judiciary case search system. The Act also expands the list of factors a
+court must consider when determining eligibility for expungement.
+Collateral Consequences of a Criminal Record
+Expungement, in general, is intended to help mitigate the adverse consequences of having a
+criminal record, which can last beyond imprisonment, fines, and the legal process and can include
+the denial of civil opportunities and benefits available to a person due to their record. Specifically,
+having a criminal history can adversely affect employment prospects which can further influence
+an individual’s level of income, housing opportunities, and access to quality health care.
+SB 464/ Page 2
+
+Employment is key to stable housing and homeow nership and a variety of State and national data
+shows that higher incomes can lead to the stability and consistency necessary to accumulate the
+various upfront resources needed to buy a home. Monetary savings for down payments and good
+credit scores are necessary to achieve initial homeownership and are largely driven by an
+individual’s employment status and level of income. Employment also often dictates one’s access
+to health care. Certain jobs do not offer health insurance benefits and access to jobs with such
+benefits may be restricted by an attachment to a criminal record. A criminal record can therefore
+impose significant barriers to upward socioeconomic mobility.
+According to AOC, there were 46,251 petitions for expungement in Maryland’s circuit courts and
+the District Court in fiscal 2023, 54,069 petitions in fiscal 2024, and 60,527 petitions in fiscal 2025,
+showing sizable and incremental increases from the 38,448 expungement petitions in fiscal 2022
+following the legislative expansion of eligibility for expungement. There is currently no
+demographic data available that indicates the racial and ethnic composition of individuals
+impacted by expungement.
+Impacts of the Bill
+National and State data consistently show that racial minorities experience disproportionate levels
+of adversity in the areas of life affected by a criminal record. National studies have found that there
+is a significant negative effect of having a criminal record on employment outcomes that appears
+substantially larger for Black individuals. In 2024, the unemployment rate in Maryland by race
+and ethnicity was highest among Black job seekers in the State.
+Any recommendations from the commission concerning expungement rules will likely impact
+Black individuals to a greater extent, as Maryland incarcerates these individuals at a
+disproportionately high rate. DPSCS reports that as of January 2025, Black inmates made up 71%
+of Maryland’s prison population, contrasted with their 30% share of the State’s overall population.
+Conclusion
+Generally, expanding eligibility for expungement and streamlining the process of obtaining an
+expungement will benefit all individuals in the State that have a criminal record eligible for
+expungement. Black individuals would likely benefit to a greater extent, given their
+disproportionate incarceration rate. The bill’s exact equity impacts will depend on the nature of
+the commission’s recommendations and whether the recommendations ultimately become law.
+Information Sources: Department of Public Safety and Correctional Services; Administrative
+Office of the Courts; Bureau of Labor Statistics; National Conference of State Legislatures;
+Department of Legislative Services
+Analysis by: Rafael Regales
+Published: 02/18/2026
+SB 464/ Page 3
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+SB 464/ Page 4
+
+[DELETED:  L c m ( e t e l o M a t c e ( r e l i c s a ( d a a a r t t G A o i f a r o o b]
+[DELETED:  3 o 2 e t W t S P E a i c r I a r t c j s i t i g i i t h m t a c o h a]
+[DELETED:  s a n t a i h a a l d b a t l e o e f e T i c n d a t i t r a e c o i i t a g e a M i t i a a w b a i i t S t h a c r e f B i w l b t a g e g t o t C B o L S N C o S L ]
+[DELETED:  b t U C B D I W n s r o e g m u r b p i d a a P d p r a e b o i t 2 c I t%1%2%7%3%1%7%0eBoAeN]

@@ -1,0 +1,331 @@
+Title: SENATE BILL 707
+Official Title: SENATE BILL 707
+Number of Sections: 1
+Source: versions - Enrolled - Mental Health Law - Definition of Danger to the Life or Safety of the Individual or of Others and Reports on Emergency Evaluation Petitions (Right to Treatment)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+J1 (6lr2349)
+ENROLLED BILL
+— Finance/Health —
+Introduced by Senators Ready, Gile, Carozza, Ellis, Hester, Lewis Young, McKay,
+Muse, and Salling Salling, James, and Hershey
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Mental Health Law – Definition of Danger to the Life or Safety of the Individual
+3 or of Others – Definition and Reports on Emergency Evaluation Petitions –
+4 Definition
+5 (Right to Treatment)
+6 FOR the purpose of defining “danger to the life or safety of the individual or of others” for
+7 purposes of the involuntary admission of individuals with mental disorders to a
+8 facility or Veterans’ Administration hospital and the emergency evaluation of
+9 individuals with mental disorders; requiring the Behavioral Health Administration
+10 to submit to the General Assembly certain reports regarding the use of petitions for
+11 emergency evaluation; and generally relating to involuntary admissions and
+12 emergency evaluations of individuals with mental disorders.
+13 BY repealing and reenacting, with amendments,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0707*
+2 SENATE BILL 707
+1 Article – Health – General
+2 Section 10–601
+3 Annotated Code of Maryland
+4 (2023 Replacement Volume and 2025 Supplement)
+5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+6 That the Laws of Maryland read as follows:
+7 Article – Health – General
+8 10–601.
+9 (a) In this subtitle the following words have the meanings indicated.
+10 (b) “Clinical social worker” means an individual who is licensed under Title 19 of
+11 the Health Occupations Article to practice clinical social work.
+12 (C) “DANGER TO THE LIFE OR SAFETY OF THE INDIVIDUAL OR OF OTHERS”
+13 MEANS THERE IS, AS A RESULT OF A MENTAL DISORDER, A SUBSTANTIAL RISK,
+14 WHETHER OR NOT THE RISK IS IMMINENT BASED ON CONDUCT THAT IS RECENT AND
+15 RELEVANT TO THE DANGER THAT THE INDIVIDUAL MAY PRESENT AND IN
+16 CONSIDERATION OF THE INDIVIDUAL’S CURRENT CONDITION AND, IF AVAILABLE,
+17 RECENT PERSONAL, MEDICAL, AND PSYCHIATRIC HISTORY, THAT AS A RESULT OF
+18 THE MENTAL DISORDER THE INDIVIDUAL WILL:
+19 (1) CAUSE SERIOUS BODILY HARM TO THE INDIVIDUAL OR ANOTHER
+20 INDIVIDUAL; OR
+21 (2) ENGAGE IN CONDUCT THAT WILL RESULT IN CRIMINAL JUSTICE
+22 INVOLVEMENT;
+23 (3) (2) BE UNABLE, EXCEPT FOR REASONS OF INDIGENCE, TO
+24 PROVIDE FOR THE INDIVIDUAL’S BASIC NEEDS, INCLUDING FOOD, CLOTHING,
+25 SHELTER, MEDICAL CARE, SELF–PROTECTION, OR SAFETY, TO SUCH A DEGREE AS
+26 TO CREATE A SUBSTANTIAL RISK OF SERIOUS BODILY HARM, SERIOUS ILLNESS, OR
+27 DEATH IN THE NEAR FUTURE.; OR
+28 (4) SUFFER SUBSTANTIAL DETERIORATION OF THE INDIVIDUAL’S
+29 JUDGMENT, REASONING, OR ABILITY TO CONTROL BEHAVIOR, PROVIDED THAT THE
+30 INDIVIDUAL IS CURRENTLY SUBSTANTIALLY IMPAIRED IN THE INDIVIDUAL’S
+31 ABILITY TO MAKE A RATIONAL AND INFORMED DECISION AS TO WHETHER TO
+32 SUBMIT TO TREATMENT, THAT WILL LIKELY RESULT IN THE INDIVIDUAL MEETING
+33 ONE OF THE CRITERIA ENUMERATED UNDER THIS SUBSECTION.
+SENATE BILL 707 3
+1 [(c)] (D) “Electronic record” means a document communicated, received, or
+2 stored by electronic means.
+3 [(d)] (E) “Licensed clinical marriage and family therapist” means an individual
+4 who is licensed under Title 17, Subtitle 3A of the Health Occupations Article to practice
+5 clinical marriage and family therapy.
+6 [(e)] (F) “Licensed clinical professional counselor” means an individual who is
+7 licensed under Title 17, Subtitle 3A of the Health Occupations Article to practice clinical
+8 professional counseling.
+9 [(f)] (G) “Physician” means an individual who is licensed under Title 14 of the
+10 Health Occupations Article to practice medicine in this State.
+11 [(g)] (H) “Psychiatric nurse practitioner” means an individual who is:
+12 (1) Licensed as a registered nurse and certified as a nurse practitioner
+13 under Title 8 of the Health Occupations Article; and
+14 (2) Practicing in the State as a certified registered nurse
+15 practitioner–psychiatric mental health.
+16 [(h)] (I) “Psychologist” means an individual who is licensed under Title 18 of the
+17 Health Occupations Article to practice psychology.
+18 SECTION 2. AND BE IT FURTHER ENACTED, That:
+19 (a) (1) Subject paragraph (2) of this subsection, on or before December 15,
+20 2026, 2027, 2028, and 2029, the Behavioral Health Administration shall submit to the
+21 General Assembly, in accordance with § 2–1257 of the State Government Article, a report
+22 regarding the use of petitions for emergency evaluation.
+23 (2) Each report submitted under paragraph (1) of this subsection shall
+24 include data for petitions for emergency evaluations made from October 1 of the year
+25 immediately preceding the year in which the report is submitted to September 30 of the
+26 year in which the report is submitted, both inclusive.
+27 (3) The Behavioral Health Administration shall make each report
+28 submitted under paragraph (1) of this subsection available to the public.
+29 (b) The report shall include:
+30 (1) the number of petitions for emergency evaluation made in the State
+31 disaggregated by:
+4 SENATE BILL 707
+1 (i) the zip codes of where the individuals who were the subject of an
+2 emergency petition resided;
+3 (ii) the age of the individuals who were the subject of an emergency
+4 petition;
+5 (iii) the race of the individuals who were the subject of an emergency
+6 petition;
+7 (iv) the ethnicity of the individuals who were the subject of an
+8 emergency petition;
+9 (v) the gender of the individuals who were the subject of an
+10 emergency petition; and
+11 (vi) any co–occurring disabilities of the individuals who were the
+12 subject of an emergency petition;
+13 (2) the number of emergency petitions made in the State by:
+14 (i) a health care provider;
+15 (ii) a member of law enforcement; or
+16 (iii) another interested person;
+17 (3) the reason the petitions for emergency evaluation were made,
+18 including:
+19 (i) threat of serious bodily harm to self;
+20 (ii) action of serious bodily harm to self;
+21 (iii) threat of serious bodily harm to others;
+22 (iv) action of serious bodily harm to others; or
+23 (v) substantial inability to meet basic needs to such a degree as to
+24 create a substantial risk of:
+25 1. serious bodily harm;
+26 2. serious illness; or
+27 3. death;
+SENATE BILL 707 5
+1 (4) whether and how use of force was employed, subject to the
+2 requirements established in § 3–524 of the Public Safety Article, in serving each petition;
+3 and
+4 (5) the result of each petition for emergency evaluation, including whether
+5 the individual was:
+6 (i) not served or unable to be located within the required time frame;
+7 (ii) evaluated by a health professional and not admitted for inpatient
+8 care;
+9 (iii) evaluated by a health professional and voluntarily admitted for
+10 inpatient care; or
+11 (iv) evaluated by a health professional and involuntarily admitted for
+12 inpatient care.
+13 SECTION 2. 3. 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+14 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      ( w t G S a p t t G f h a t d o _ a _ o _ A M o ( F p o t i a o i w m d t a f o V A h a t e e o i t e e a g r t i a a e B]
+[DELETED:  S   A S  A  (  S T A 1  ( I  ( “ t ) “DAS T IS A A R O A M DR A S RK, T T D T T I M P A ILSD E,L L Y , ( L  ( T ()( B,E UE E F R O IE T F T ILS B NS I FD CG,,R E FPN Y ,–,M S E ; ( S S D O T ILST G R , I C S I I T ILS T M A R A I D A T W TT ]
+[DELETED: S 3  () “ r m a d c r o]( s  () “]( w c  () “]( l p  () “]( H  () “](   ( L a a r n a c a a n p u   ( P i t S a a c r n p  () “]( H  S  ( ( S p ( o t s o o b D 1 2 G r   ( E r s u p ( o t s s i d f p f e e m f O 1 o t y i y   ( T B H A s m e r s  ( T   ( t d]
+[DELETED:  S     ( t e    ( t p    ( t p    ( t e o t i w w t s o a e    ( t g o t i w w t s o a e    ( a c d o t i w w t s   ( t    ( a    ( a    ( a   ( t r t p f e e w m i    ( t    ( a    ( t    ( a    ( s c     1 s     2 s     3 d]
+[DELETED: S 5   ( w a h u o f w e s t t r a   ( t t    ( n    ( e c    ( e i    ( e i  S O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 707
+J1 (6lr2349)
+ENROLLED BILL
+— Finance/Health —
+Introduced by Senators Ready, Gile, Carozza, Ellis, Hester, Lewis Young, McKay,
+Muse, and Salling Salling, James, and Hershey
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Mental Health Law – Definition of Danger to the Life or Safety of the Individual
+3 or of Others – Definition and Reports on Emergency Evaluation Petitions –
+4 Definition
+5 (Right to Treatment)
+6 FOR the purpose of defining “danger to the life or safety of the individual or of others” for
+7 purposes of the involuntary admission of individuals with mental disorders to a
+8 facility or Veterans’ Administration hospital and the emergency evaluation of
+9 individuals with mental disorders; requiring the Behavioral Health Administration
+10 to submit to the General Assembly certain reports regarding the use of petitions for
+11 emergency evaluation; and generally relating to involuntary admissions and
+12 emergency evaluations of individuals with mental disorders.
+13 BY repealing and reenacting, with amendments,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0707*
+
+2 SENATE BILL 707
+1 Article – Health – General
+2 Section 10–601
+3 Annotated Code of Maryland
+4 (2023 Replacement Volume and 2025 Supplement)
+5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+6 That the Laws of Maryland read as follows:
+7 Article – Health – General
+8 10–601.
+9 (a) In this subtitle the following words have the meanings indicated.
+10 (b) “Clinical social worker” means an individual who is licensed under Title 19 of
+11 the Health Occupations Article to practice clinical social work.
+12 (C) “DANGER TO THE LIFE OR SAFETY OF THE INDIVIDUAL OR OF OTHERS”
+13 MEANS THERE IS, AS A RESULT OF A MENTAL DISORDER, A SUBSTANTIAL RISK,
+14 WHETHER OR NOT THE RISK IS IMMINENT BASED ON CONDUCT THAT IS RECENT AND
+15 RELEVANT TO THE DANGER THAT THE INDIVIDUAL MAY PRESENT AND IN
+16 CONSIDERATION OF THE INDIVIDUAL’S CURRENT CONDITION AND, IF AVAILABLE,
+17 RECENT PERSONAL, MEDICAL, AND PSYCHIATRIC HISTORY, THAT AS A RESULT OF
+18 THE MENTAL DISORDER THE INDIVIDUAL WILL:
+19 (1) CAUSE SERIOUS BODILY HARM TO THE INDIVIDUAL OR ANOTHER
+20 INDIVIDUAL; OR
+21 (2) ENGAGE IN CONDUCT THAT WILL RESULT IN CRIMINAL JUSTICE
+22 INVOLVEMENT;
+23 (3) (2) BE UNABLE, EXCEPT FOR REASONS OF INDIGENCE, TO
+24 PROVIDE FOR THE INDIVIDUAL’S BASIC NEEDS, INCLUDING FOOD, CLOTHING,
+25 SHELTER, MEDICAL CARE, SELF–PROTECTION, OR SAFETY, TO SUCH A DEGREE AS
+26 TO CREATE A SUBSTANTIAL RISK OF SERIOUS BODILY HARM, SERIOUS ILLNESS, OR
+27 DEATH IN THE NEAR FUTURE.; OR
+28 (4) SUFFER SUBSTANTIAL DETERIORATION OF THE INDIVIDUAL’S
+29 JUDGMENT, REASONING, OR ABILITY TO CONTROL BEHAVIOR, PROVIDED THAT THE
+30 INDIVIDUAL IS CURRENTLY SUBSTANTIALLY IMPAIRED IN THE INDIVIDUAL’S
+31 ABILITY TO MAKE A RATIONAL AND INFORMED DECISION AS TO WHETHER TO
+32 SUBMIT TO TREATMENT, THAT WILL LIKELY RESULT IN THE INDIVIDUAL MEETING
+33 ONE OF THE CRITERIA ENUMERATED UNDER THIS SUBSECTION.
+
+SENATE BILL 707 3
+1 [(c)] (D) “Electronic record” means a document communicated, received, or
+2 stored by electronic means.
+3 [(d)] (E) “Licensed clinical marriage and family therapist” means an individual
+4 who is licensed under Title 17, Subtitle 3A of the Health Occupations Article to practice
+5 clinical marriage and family therapy.
+6 [(e)] (F) “Licensed clinical professional counselor” means an individual who is
+7 licensed under Title 17, Subtitle 3A of the Health Occupations Article to practice clinical
+8 professional counseling.
+9 [(f)] (G) “Physician” means an individual who is licensed under Title 14 of the
+10 Health Occupations Article to practice medicine in this State.
+11 [(g)] (H) “Psychiatric nurse practitioner” means an individual who is:
+12 (1) Licensed as a registered nurse and certified as a nurse practitioner
+13 under Title 8 of the Health Occupations Article; and
+14 (2) Practicing in the State as a certified registered nurse
+15 practitioner–psychiatric mental health.
+16 [(h)] (I) “Psychologist” means an individual who is licensed under Title 18 of the
+17 Health Occupations Article to practice psychology.
+18 SECTION 2. AND BE IT FURTHER ENACTED, That:
+19 (a) (1) Subject paragraph (2) of this subsection, on or before December 15,
+20 2026, 2027, 2028, and 2029, the Behavioral Health Administration shall submit to the
+21 General Assembly, in accordance with § 2–1257 of the State Government Article, a report
+22 regarding the use of petitions for emergency evaluation.
+23 (2) Each report submitted under paragraph (1) of this subsection shall
+24 include data for petitions for emergency evaluations made from October 1 of the year
+25 immediately preceding the year in which the report is submitted to September 30 of the
+26 year in which the report is submitted, both inclusive.
+27 (3) The Behavioral Health Administration shall make each report
+28 submitted under paragraph (1) of this subsection available to the public.
+29 (b) The report shall include:
+30 (1) the number of petitions for emergency evaluation made in the State
+31 disaggregated by:
+
+4 SENATE BILL 707
+1 (i) the zip codes of where the individuals who were the subject of an
+2 emergency petition resided;
+3 (ii) the age of the individuals who were the subject of an emergency
+4 petition;
+5 (iii) the race of the individuals who were the subject of an emergency
+6 petition;
+7 (iv) the ethnicity of the individuals who were the subject of an
+8 emergency petition;
+9 (v) the gender of the individuals who were the subject of an
+10 emergency petition; and
+11 (vi) any co–occurring disabilities of the individuals who were the
+12 subject of an emergency petition;
+13 (2) the number of emergency petitions made in the State by:
+14 (i) a health care provider;
+15 (ii) a member of law enforcement; or
+16 (iii) another interested person;
+17 (3) the reason the petitions for emergency evaluation were made,
+18 including:
+19 (i) threat of serious bodily harm to self;
+20 (ii) action of serious bodily harm to self;
+21 (iii) threat of serious bodily harm to others;
+22 (iv) action of serious bodily harm to others; or
+23 (v) substantial inability to meet basic needs to such a degree as to
+24 create a substantial risk of:
+25 1. serious bodily harm;
+26 2. serious illness; or
+27 3. death;
+
+SENATE BILL 707 5
+1 (4) whether and how use of force was employed, subject to the
+2 requirements established in § 3–524 of the Public Safety Article, in serving each petition;
+3 and
+4 (5) the result of each petition for emergency evaluation, including whether
+5 the individual was:
+6 (i) not served or unable to be located within the required time frame;
+7 (ii) evaluated by a health professional and not admitted for inpatient
+8 care;
+9 (iii) evaluated by a health professional and voluntarily admitted for
+10 inpatient care; or
+11 (iv) evaluated by a health professional and involuntarily admitted for
+12 inpatient care.
+13 SECTION 2. 3. 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+14 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      ( w t G S a p t t G f h a t d o _ a _ o _ A M o ( F p o t i a o i w m d t a f o V A h a t e e o i t e e a g r t i a a e B]
+[DELETED:  S   A S  A  (  S T A 1  ( I  ( “ t ) “DAS T IS A A R O A M DR A S RK, T T D T T I M P A ILSD E,L L Y , ( L  ( T ()( B,E UE E F R O IE T F T ILS B NS I FD CG,,R E FPN Y ,–,M S E ; ( S S D O T ILST G R , I C S I I T ILS T M A R A I D A T W TT ]
+[DELETED: S 3  () “ r m a d c r o]( s  () “]( w c  () “]( l p  () “]( H  () “](   ( L a a r n a c a a n p u   ( P i t S a a c r n p  () “]( H  S  ( ( S p ( o t s o o b D 1 2 G r   ( E r s u p ( o t s s i d f p f e e m f O 1 o t y i y   ( T B H A s m e r s  ( T   ( t d]
+[DELETED:  S     ( t e    ( t p    ( t p    ( t e o t i w w t s o a e    ( t g o t i w w t s o a e    ( a c d o t i w w t s   ( t    ( a    ( a    ( a   ( t r t p f e e w m i    ( t    ( a    ( t    ( a    ( s c     1 s     2 s     3 d]
+[DELETED: S 5   ( w a h u o f w e s t t r a   ( t t    ( n    ( e c    ( e i    ( e i  S O          G               ]

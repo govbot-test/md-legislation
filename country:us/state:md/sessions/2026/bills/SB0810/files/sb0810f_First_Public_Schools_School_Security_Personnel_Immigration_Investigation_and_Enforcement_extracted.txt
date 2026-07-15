@@ -1,0 +1,189 @@
+Title: SENATE BILL 810
+Official Title: SENATE BILL 810
+Number of Sections: 1
+Source: versions - First - Public Schools - School Security Personnel - Immigration Investigation and Enforcement
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+F1, E4 6lr2220
+CF 6lr1751
+By: Senator King
+Introduced and read first time: February 6, 2026
+Assigned to: Education, Energy, and the Environment and Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Schools – School Security Personnel – Immigration Investigation and
+3 Enforcement
+4 FOR the purpose of prohibiting public school security personnel from engaging in certain
+5 federal immigration investigation and enforcement functions; prohibiting public
+6 school security personnel from producing or sharing certain student or employee
+7 information for purposes of federal immigration investigation and enforcement,
+8 except under certain circumstances; and generally relating to federal immigration
+9 investigation and enforcement in public schools.
+10 BY repealing and reenacting, without amendments,
+11 Article – Education
+12 Section 7–1501(a), (j), and (k)
+13 Annotated Code of Maryland
+14 (2025 Replacement Volume and 2025 Supplement)
+15 BY adding to
+16 Article – Education
+17 Section 7–1508.1
+18 Annotated Code of Maryland
+19 (2025 Replacement Volume and 2025 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Education
+23 7–1501.
+24 (a) In this subtitle the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0810*
+2 SENATE BILL 810
+1 (j) “School resource officer” means:
+2 (1) A law enforcement officer as defined under § 1–101(c) of the Public
+3 Safety Article who has been assigned to a school in accordance with a memorandum of
+4 understanding between the chief of a law enforcement agency as defined under § 3–201(d)
+5 of the Public Safety Article and the local education agency; or
+6 (2) A Baltimore City school police officer, as defined in § 4–318 of this
+7 article.
+8 (k) “School security employee” means an individual, as defined in regulations
+9 adopted by the Subcabinet, who:
+10 (1) Is not a school resource officer; and
+11 (2) Is employed by a local school system to provide safety and
+12 security–related services at a public school.
+13 7–1508.1.
+14 (A) IN THIS SECTION, “PUBLIC SCHOOL SECURITY PERSONNEL” MEANS:
+15 (1) A SCHOOL RESOURCE OFFICER, AS DEFINED IN § 7–1501 OF THIS
+16 SUBTITLE;
+17 (2) A SCHOOL SECURITY EMPLOYEE, AS DEFINED IN § 7–1501 OF THIS
+18 SUBTITLE; OR
+19 (3) A LAW ENFORCEMENT OFFICER WHO:
+20 (I) IS NOT DIRECTLY ASSIGNED TO OR EMPLOYED BY A PUBLIC
+21 SCHOOL;
+22 (II) HAS NOT COMPLETED THE CENTER’S SCHOOL RESOURCE
+23 OFFICER AND SCHOOL SECURITY EMPLOYEE TRAINING ACADEMY; AND
+24 (III) PROVIDES ADEQUATE LAW ENFORCEMENT COVERAGE TO
+25 PUBLIC SCHOOLS IN ACCORDANCE WITH AN AGREEMENT BETWEEN THE LOCAL LAW
+26 ENFORCEMENT AGENCY AND THE LOCAL SCHOOL SYSTEM.
+27 (B) PUBLIC SCHOOL SECURITY PERSONNEL MAY NOT:
+28 (1) BE USED FOR PURPOSES OF OR OTHERWISE ENGAGE IN FEDERAL
+29 IMMIGRATION INVESTIGATION OR ENFORCEMENT FUNCTIONS UNDER § 287(G) OF
+30 THE FEDERAL IMMIGRATION AND NATIONALITY ACT AT THE PUBLIC SCHOOL; OR
+SENATE BILL 810 3
+1 (2) EXCEPT AS PROVIDED IN SUBSECTION (C) OF THIS SECTION,
+2 PRODUCE OR SHARE INFORMATION OR A DOCUMENT PERTAINING TO STUDENT
+3 EDUCATIONAL RECORDS OR EMPLOYEE PERSONNEL RECORDS OR ANY OTHER
+4 INFORMATION ABOUT OR FROM A STUDENT, A PUBLIC SCHOOL EMPLOYEE, OR A
+5 STUDENT’S OR A PUBLIC SCHOOL EMPLOYEE’S FAMILY OR HOUSEHOLD FOR
+6 PURPOSES OF FEDERAL IMMIGRATION INVESTIGATION OR ENFORCEMENT.
+7 (C) PUBLIC SCHOOL SECURITY PERSONNEL SHALL IMMEDIATELY CONTACT
+8 THE COUNTY SUPERINTENDENT AND LEGAL COUNSEL FOR THE LOCAL SCHOOL
+9 SYSTEM IF PRESENTED WITH A VALID:
+10 (1) JUDICIAL WARRANT;
+11 (2) JUDICIAL SUBPOENA; OR
+12 (3) A LEGAL ORDER FOR THE PRODUCTION OF INFORMATION OR A
+13 DOCUMENT REGARDING THE INDIVIDUALS DESCRIBED UNDER SUBSECTION (B)(2)
+14 OF THIS SECTION.
+15 (D) THIS SECTION SHALL BE CONSTRUED CONSISTENTLY WITH ANY
+16 APPLICABLE FEDERAL AND STATE PRIVACY LAWS.
+17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+18 1, 2026.
+[DELETED: :CA      6   C A P E F f i i a e f p p s i f p o f i i a e e i B  A S  A  ( B  A S  A  (  S T A 7  ( I]
+[DELETED:  S   ( “   ( A l e o a d u § 1 o t P S u o   ( A B C s p o a d i § 4 o t a  ( “ s e m a i a d i r a   ( I   ( I e b a l s s t p s a s() I,“”:NN PL  ( A,§7R     ( A,§7E    E  ( A:  () S  () HC’SIA ERS C ESSETA; C E M R CY   () IR A L E C TM() P:U (   G 2( M A CL NA;]
+[DELETED: S 3 ( E() A P I S C O T SN O S I O A D P T S R O E P R O A OT E TS O A P S EES F O H F() U C S A L C F T L S ( J; ( J;A  (  B)() H S S B C C W A T.  S 1]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 810
+F1, E4 6lr2220
+CF 6lr1751
+By: Senator King
+Introduced and read first time: February 6, 2026
+Assigned to: Education, Energy, and the Environment and Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Schools – School Security Personnel – Immigration Investigation and
+3 Enforcement
+4 FOR the purpose of prohibiting public school security personnel from engaging in certain
+5 federal immigration investigation and enforcement functions; prohibiting public
+6 school security personnel from producing or sharing certain student or employee
+7 information for purposes of federal immigration investigation and enforcement,
+8 except under certain circumstances; and generally relating to federal immigration
+9 investigation and enforcement in public schools.
+10 BY repealing and reenacting, without amendments,
+11 Article – Education
+12 Section 7–1501(a), (j), and (k)
+13 Annotated Code of Maryland
+14 (2025 Replacement Volume and 2025 Supplement)
+15 BY adding to
+16 Article – Education
+17 Section 7–1508.1
+18 Annotated Code of Maryland
+19 (2025 Replacement Volume and 2025 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Education
+23 7–1501.
+24 (a) In this subtitle the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0810*
+
+2 SENATE BILL 810
+1 (j) “School resource officer” means:
+2 (1) A law enforcement officer as defined under § 1–101(c) of the Public
+3 Safety Article who has been assigned to a school in accordance with a memorandum of
+4 understanding between the chief of a law enforcement agency as defined under § 3–201(d)
+5 of the Public Safety Article and the local education agency; or
+6 (2) A Baltimore City school police officer, as defined in § 4–318 of this
+7 article.
+8 (k) “School security employee” means an individual, as defined in regulations
+9 adopted by the Subcabinet, who:
+10 (1) Is not a school resource officer; and
+11 (2) Is employed by a local school system to provide safety and
+12 security–related services at a public school.
+13 7–1508.1.
+14 (A) IN THIS SECTION, “PUBLIC SCHOOL SECURITY PERSONNEL” MEANS:
+15 (1) A SCHOOL RESOURCE OFFICER, AS DEFINED IN § 7–1501 OF THIS
+16 SUBTITLE;
+17 (2) A SCHOOL SECURITY EMPLOYEE, AS DEFINED IN § 7–1501 OF THIS
+18 SUBTITLE; OR
+19 (3) A LAW ENFORCEMENT OFFICER WHO:
+20 (I) IS NOT DIRECTLY ASSIGNED TO OR EMPLOYED BY A PUBLIC
+21 SCHOOL;
+22 (II) HAS NOT COMPLETED THE CENTER’S SCHOOL RESOURCE
+23 OFFICER AND SCHOOL SECURITY EMPLOYEE TRAINING ACADEMY; AND
+24 (III) PROVIDES ADEQUATE LAW ENFORCEMENT COVERAGE TO
+25 PUBLIC SCHOOLS IN ACCORDANCE WITH AN AGREEMENT BETWEEN THE LOCAL LAW
+26 ENFORCEMENT AGENCY AND THE LOCAL SCHOOL SYSTEM.
+27 (B) PUBLIC SCHOOL SECURITY PERSONNEL MAY NOT:
+28 (1) BE USED FOR PURPOSES OF OR OTHERWISE ENGAGE IN FEDERAL
+29 IMMIGRATION INVESTIGATION OR ENFORCEMENT FUNCTIONS UNDER § 287(G) OF
+30 THE FEDERAL IMMIGRATION AND NATIONALITY ACT AT THE PUBLIC SCHOOL; OR
+
+SENATE BILL 810 3
+1 (2) EXCEPT AS PROVIDED IN SUBSECTION (C) OF THIS SECTION,
+2 PRODUCE OR SHARE INFORMATION OR A DOCUMENT PERTAINING TO STUDENT
+3 EDUCATIONAL RECORDS OR EMPLOYEE PERSONNEL RECORDS OR ANY OTHER
+4 INFORMATION ABOUT OR FROM A STUDENT, A PUBLIC SCHOOL EMPLOYEE, OR A
+5 STUDENT’S OR A PUBLIC SCHOOL EMPLOYEE’S FAMILY OR HOUSEHOLD FOR
+6 PURPOSES OF FEDERAL IMMIGRATION INVESTIGATION OR ENFORCEMENT.
+7 (C) PUBLIC SCHOOL SECURITY PERSONNEL SHALL IMMEDIATELY CONTACT
+8 THE COUNTY SUPERINTENDENT AND LEGAL COUNSEL FOR THE LOCAL SCHOOL
+9 SYSTEM IF PRESENTED WITH A VALID:
+10 (1) JUDICIAL WARRANT;
+11 (2) JUDICIAL SUBPOENA; OR
+12 (3) A LEGAL ORDER FOR THE PRODUCTION OF INFORMATION OR A
+13 DOCUMENT REGARDING THE INDIVIDUALS DESCRIBED UNDER SUBSECTION (B)(2)
+14 OF THIS SECTION.
+15 (D) THIS SECTION SHALL BE CONSTRUED CONSISTENTLY WITH ANY
+16 APPLICABLE FEDERAL AND STATE PRIVACY LAWS.
+17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+18 1, 2026.
+
+[DELETED: :CA      6   C A P E F f i i a e f p p s i f p o f i i a e e i B  A S  A  ( B  A S  A  (  S T A 7  ( I]
+[DELETED:  S   ( “   ( A l e o a d u § 1 o t P S u o   ( A B C s p o a d i § 4 o t a  ( “ s e m a i a d i r a   ( I   ( I e b a l s s t p s a s() I,“”:NN PL  ( A,§7R     ( A,§7E    E  ( A:  () S  () HC’SIA ERS C ESSETA; C E M R CY   () IR A L E C TM() P:U (   G 2( M A CL NA;]
+[DELETED: S 3 ( E() A P I S C O T SN O S I O A D P T S R O E P R O A OT E TS O A P S EES F O H F() U C S A L C F T L S ( J; ( J;A  (  B)() H S S B C C W A T.  S 1]
