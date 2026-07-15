@@ -1,0 +1,838 @@
+Title: SENATE BILL 719
+Official Title: SENATE BILL 719
+Number of Sections: 1
+Source: versions - Enrolled - Sewage Sludge - Per- and Polyfluoroalkyl Substances - Regulation
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+M3 (6lr2034)
+ENROLLED BILL
+— Education, Energy, and the Environment/Environment and Transportation and
+Health —
+Introduced by Senators Love and Hester
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Sewage Sludge – Per– and Polyfluoroalkyl Substances – Regulation
+3 FOR the purpose of establishing restrictions on the land application, on or after a certain
+4 date, of sewage sludge or products containing sewage sludge with total
+5 concentrations of certain regulated per– and polyfluoroalkyl substances equal to or
+6 greater than certain levels; authorizing, on or before a certain date, a person to blend
+7 sewage sludge from multiple sources commingle sewage sludge for a certain purpose
+8 and subject to certain regulations and requirements; establishing monitoring
+9 protocols for certain per– and polyfluoroalkyl substances in certain sewage sludge or
+10 products containing sewage sludge; authorizing the establishment of pretreatment
+11 standards for certain industrial users that discharge certain per– and
+12 polyfluoroalkyl substances at levels that exceed certain action levels; authorizing
+13 certain local jurisdictions and pretreatment authorities to set certain rates and fees
+14 for certain industrial users; encouraging sewage sludge generators to take certain
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0719*
+2 SENATE BILL 719
+1 actions with respect to certain per– and polyfluoroalkyl substances; and generally
+2 relating to per– and polyfluoroalkyl substances and sewage sludge.
+3 BY repealing and reenacting, without amendments,
+4 Article – Environment
+5 Section 9–201(a), (l), and (m) and 9–230
+6 Annotated Code of Maryland
+7 (2014 Replacement Volume and 2025 Supplement)
+8 BY repealing and reenacting, with amendments,
+9 Article – Environment
+10 Section 9–201(k)
+11 Annotated Code of Maryland
+12 (2014 Replacement Volume and 2025 Supplement)
+13 BY adding to
+14 Article – Environment
+15 Section 9–250
+16 Annotated Code of Maryland
+17 (2014 Replacement Volume and 2025 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Environment
+21 9–201.
+22 (a) In this subtitle the following words have the meanings indicated.
+23 (k) “Sewage” means[:
+24 (1) Any human or animal excretion or water–carried domestic waste; or
+25 (2) A mixture of industrial waste and any of the things in item (1) of this
+26 subsection] THE WATER–CARRIED DOMESTIC WASTE FROM RESIDENCES, BUILDINGS,
+27 INDUSTRIAL ESTABLISHMENTS, OR OTHER PLACES.
+28 (l) “Sewage sludge” means any thickened liquid, suspension, settled solid, or
+29 dried residue that a sewage treatment plant extracts from sewage.
+30 (m) (1) “Sewage sludge generator” means a person who owns or operates a
+31 facility that receives and processes sewage in this State or produces sewage sludge to be
+32 utilized in this State.
+33 (2) “Sewage sludge generator” includes:
+SENATE BILL 719 3
+1 (i) The Washington Suburban Sanitary Commission; and
+2 (ii) The Maryland Environmental Service.
+3 (3) “Sewage sludge generator” does not include the owner or operator of a
+4 septic system.
+5 9–230.
+6 (a) (1) The Department of the Environment shall adopt regulations to carry
+7 out this Part III of this subtitle.
+8 (2) The Department of the Environment may not adopt a regulation or part
+9 of a regulation that deals with the land application of sewage sludge without the approval
+10 of the Department of Agriculture.
+11 (b) In adopting regulations under this Part III and §§ 9–269 and 9–270 of this
+12 subtitle, the Department of the Environment shall consider:
+13 (1) Alternative utilization methods;
+14 (2) Pathogen control;
+15 (3) Advertising requirements for public hearings and public information
+16 meetings;
+17 (4) Performance bonds, liability insurance, or other forms of security;
+18 (5) Procedures for notifying units of local government and other interested
+19 parties; and
+20 (6) Adequate standards for transporting sewage sludge, including
+21 requirements for enclosing or covering sewage sludge during transportation.
+22 (c) In addition to the considerations under subsection (b) of this section, in
+23 adopting regulations for the land application of sewage sludge, the Department of the
+24 Environment shall consider:
+25 (1) Methods for calculating loading rates that:
+26 (i) Will assure nondegradation of the groundwater supply; and
+27 (ii) For agricultural land, shall be limited by the nutrient
+28 requirements of crop or cover vegetation, as recommended by the Department of
+29 Agriculture;
+4 SENATE BILL 719
+1 (2) The crops that are to be grown on land on which sewage sludge may be
+2 applied;
+3 (3) The nature of any nearby surface water or groundwater;
+4 (4) The character of any affected area;
+5 (5) The character of nearby existing or planned land uses and transport
+6 routes;
+7 (6) The nearness of the land on which sewage sludge may be applied to
+8 sensitive areas, including flood plains, wetlands, and areas of critical concern;
+9 (7) The definitions of:
+10 (i) Sewage sludge that is unsuitable for application to agricultural
+11 land;
+12 (ii) Agricultural land;
+13 (iii) Marginal land; and
+14 (iv) Compost;
+15 (8) Acceptable cumulative loading rates, including rates for nitrogen and
+16 heavy metals;
+17 (9) Special requirements of land used for producing tobacco; and
+18 (10) Reasonable buffer areas to separate any home or other property from
+19 land on which sewage sludge may be applied.
+20 (d) (1) The Department shall adopt regulations to establish a mechanism for
+21 determining annual generator’s fees.
+22 (2) The regulations shall provide for public input into the development of
+23 fee schedules.
+24 (3) The fee schedules shall take into account:
+25 (i) The volume of sewage sludge generated by a sewage sludge
+26 generator;
+27 (ii) The method by which the sewage sludge is utilized;
+28 (iii) The anticipated costs of monitoring and regulating sewage
+29 sludge utilization sites;
+SENATE BILL 719 5
+1 (iv) The anticipated needs of the State’s sewage sludge regulation
+2 program; and
+3 (v) The potential hazard of the sewage sludge generator’s activities
+4 to public health, safety, or welfare or to the environment.
+5 9–250.
+6 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+7 INDICATED.
+8 (2) “COMMINGLE” MEANS TO MIX TREATED SEWAGE SLUDGE WITH
+9 OTHER MATERIALS FOR THE PURPOSE OF REDUCING THE CONCENTRATION OF
+10 REGULATED PFAS.
+11 (2) (3) “CONCENTRATION OF REGULATED PFAS” MEANS THE
+12 TOTAL CONCENTRATION, AS MEASURED IN ACCORDANCE WITH MONITORING
+13 PROTOCOLS ESTABLISHED UNDER SUBSECTION (G) OF THIS SECTION, OF THE
+14 FOLLOWING PER– AND POLYFLUOROALKYL SUBSTANCES:
+15 (I) PFOA;
+16 (II) PFOS; OR
+17 (III) A MIXTURE OF PFOA AND PFOS.
+18 (3) (4) “PFOS” MEANS PERFLUOROOCTANE SULFONIC ACID.
+19 (4) (5) “PFOA” MEANS PERFLUOROOCTANOIC ACID.
+20 (B) THIS SECTION APPLIES ONLY TO THE LAND APPLICATION OF ALL
+21 SEWAGE SLUDGE AND PRODUCTS CONTAINING SEWAGE SLUDGE THAT ARE
+22 INTENDED FOR LAND APPLICATION IN THE STATE.
+23 (C) ON OR AFTER OCTOBER 1, 2027 2028:
+24 (1) A PERSON MAY NOT APPLY SEWAGE SLUDGE OR A PRODUCT
+25 CONTAINING SEWAGE SLUDGE TO AGRICULTURAL OR MARGINAL LAND IF THE
+26 SEWAGE SLUDGE OR PRODUCT CONTAINING SEWAGE SLUDGE HAS A TOTAL
+27 CONCENTRATION OF REGULATED PFAS EQUAL TO OR GREATER THAN 50 PARTS
+28 PER BILLION; AND
+6 SENATE BILL 719
+1 (2) IF SEWAGE SLUDGE OR A PRODUCT CONTAINING SEWAGE SLUDGE
+2 HAS A TOTAL CONCENTRATION OF REGULATED PFAS THAT IS EQUAL TO OR
+3 GREATER THAN 25 PARTS PER BILLION BUT LESS THAN 50 PARTS PER BILLION, A
+4 PERSON MAY APPLY THE SEWAGE SLUDGE OR PRODUCT CONTAINING SEWAGE
+5 SLUDGE TO AGRICULTURAL OR MARGINAL LAND ONLY IN ACCORDANCE WITH
+6 SUBSECTIONS (E) AND (F) OF THIS SECTION.
+7 (D) (1) ON OR BEFORE SEPTEMBER 30, 2029, AFTER OCTOBER 1, 2028,
+8 IF A SEWAGE SLUDGE GENERATOR DETERMINES, THROUGH MONITORING
+9 PROTOCOLS ESTABLISHED UNDER SUBSECTION (G) OF THIS SECTION, THAT ITS
+10 SEWAGE SLUDGE HAS A TOTAL CONCENTRATION OF REGULATED PFAS THAT IS
+11 EQUAL TO OR GREATER THAN 25 PARTS PER BILLION BUT LESS THAN 50 PARTS PER
+12 BILLION, SUBJECT TO THE REQUIREMENTS OF THIS SUBSECTION AND IN
+13 ACCORDANCE WITH DEPARTMENT REGULATIONS:
+14 (I) A PERSON MAY BLEND SEWAGE SLUDGE FROM MULTIPLE
+15 SOURCES FOR A PERIOD OF NOT MORE THAN 2 YEARS FOLLOWING THE DATE THE
+16 DETERMINATION IS MADE, THE SEWAGE SLUDGE MAY BE COMMINGLED TO REDUCE
+17 THE TOTAL CONCENTRATION OF REGULATED PFAS IN THE FINAL MATERIAL TO
+18 LEVELS BELOW 25 PARTS PER BILLION; AND
+19 (II) SEWAGE SLUDGE OR A PRODUCT CONTAINING SEWAGE
+20 SLUDGE BLENDED COMMINGLED IN ACCORDANCE WITH ITEM (I) OF THIS
+21 PARAGRAPH MAY NOT BE SUBJECT TO THE TEMPORARY ALTERNATIVE
+22 MANAGEMENT MEASURES SPECIFIED IN SUBSECTION (E) OF THIS SECTION.
+23 (2) (I) A PERSON THAT BLENDS OR OTHERWISE COMMINGLES
+24 SEWAGE SLUDGE FOR THE PURPOSE OF LAND APPLICATION SHALL MONITOR FOR
+25 THE PRESENCE OF PFOS AND PFOA AT LEAST ONCE PER MONTH, USING A
+26 REPRESENTATIVE SAMPLE, IN ACCORDANCE WITH PROTOCOLS ESTABLISHED
+27 UNDER SUBSECTION (G) OF THIS SECTION.
+28 (II) IF THE TOTAL CONCENTRATION OF REGULATED PFAS IN
+29 THE BLENDED COMMINGLED PRODUCT IS EQUAL TO OR GREATER THAN 25 PARTS
+30 PER BILLION, THE PERSON:
+31 1. SHALL IMMEDIATELY NOTIFY THE DEPARTMENT;
+32 AND
+33 2. MAY NOT APPLY THE BLENDED COMMINGLED
+34 PRODUCT TO LAND UNTIL THE PERSON DEMONSTRATES, THROUGH ADDITIONAL
+35 MONITORING, THAT THE TOTAL CONCENTRATION OF REGULATED PFAS IN THE
+SENATE BILL 719 7
+1 BLENDED COMMINGLED PRODUCT HAS BEEN REDUCED TO LEVELS BELOW 25 PARTS
+2 PER BILLION.
+3 (E) (1) THIS SUBSECTION APPLIES ONLY TO THE LAND APPLICATION ON
+4 OR AFTER OCTOBER 1, 2028, OF SEWAGE SLUDGE OR PRODUCTS CONTAINING
+5 SEWAGE SLUDGE THAT HAVE HAS A TOTAL CONCENTRATION OF REGULATED PFAS
+6 THAT IS EQUAL TO OR GREATER THAN 25 PARTS PER BILLION BUT LESS THAN 50
+7 PARTS PER BILLION.
+8 (2) FOR A PERIOD OF NOT MORE THAN 12 MONTHS, AND PENDING THE
+9 DEVELOPMENT AND APPROVAL OF A MITIGATION PLAN DURING THE DEVELOPMENT
+10 AND IMPLEMENTATION OF THE SOURCE TRACKING STUDY AND MITIGATION PLAN
+11 REQUIRED UNDER SUBSECTION (F) OF THIS SECTION, A PERSON MAY APPLY SEWAGE
+12 SLUDGE AND OTHER PRODUCTS DESCRIBED UNDER PARAGRAPH (1) OF THIS
+13 SUBSECTION TO LAND:
+14 (I) AT A RATE THAT DOES NOT EXCEED 3 DRY METRIC TONS
+15 PER HECTARE ACRE; AND
+16 (II) SUBJECT TO:
+17 1. THE SAME SETBACK REQUIREMENTS ESTABLISHED
+18 IN REGULATION FOR CLASS B BIOSOLIDS; AND
+19 2. ADDITIONAL SETBACKS FOR LAND APPLICATION
+20 NEAR PUBLIC AND PRIVATE WATER SUPPLY WELLS DEVELOPED BY THE
+21 DEPARTMENT AFTER CONSULTATION WITH ADJACENT LANDOWNERS AND COUNTY
+22 AND MUNICIPAL OFFICIALS FROM EACH LOCAL JURISDICTION LOCATED WITHIN 1
+23 MILE OF THE PROPERTY BOUNDARY.; AND
+24 3. PARAGRAPH (3) OF THIS SUBSECTION.
+25 (3) AT LEAST 14 DAYS BEFORE LAND APPLYING SEWAGE SLUDGE
+26 DESCRIBED UNDER PARAGRAPH (1) OF THIS SUBSECTION, THE LAND APPLIER
+27 SHALL PROVIDE NOTICE OF THE CONCENTRATION OF REGULATED PFAS IN THE
+28 SEWAGE SLUDGE TO:
+29 (I) THE OWNER OR OPERATOR OF THE LAND ON WHICH THE
+30 SEWAGE SLUDGE WILL BE APPLIED;
+31 (II) THE OWNER OF EACH PARCEL OF LAND ADJOINING THE
+32 LAND TO WHICH THE SEWAGE SLUDGE WILL BE APPLIED; AND
+8 SENATE BILL 719
+1 (III) THE LOCAL GOVERNMENT FOR EACH COUNTY AND
+2 MUNICIPALITY IN WHICH THE LAND TO WHICH THE SEWAGE SLUDGE WILL BE
+3 APPLIED IS LOCATED.
+4 (F) (1) THIS SUBSECTION APPLIES ONLY TO A SEWAGE SLUDGE
+5 GENERATOR THAT PRODUCES SEWAGE SLUDGE THAT IS INTENDED FOR LAND
+6 APPLICATION.
+7 (2) IF A SEWAGE SLUDGE GENERATOR DETERMINES, THROUGH
+8 MONITORING PROTOCOLS ESTABLISHED UNDER SUBSECTION (G) OF THIS SECTION,
+9 THAT ITS SEWAGE SLUDGE HAS A TOTAL CONCENTRATION OF PFAS THAT IS EQUAL
+10 TO OR GREATER THAN 25 PARTS PER BILLION, THE SEWAGE SLUDGE GENERATOR
+11 SHALL:
+12 (I) COMPLETE A SOURCE TRACKING STUDY IN ACCORDANCE
+13 WITH PARAGRAPH (3) OF THIS SUBSECTION; AND
+14 (II) DEVELOP A MITIGATION PLAN IN ACCORDANCE WITH
+15 PARAGRAPH (4) OF THIS SUBSECTION.
+16 (3) A SOURCE TRACKING STUDY CONDUCTED UNDER THIS
+17 SUBSECTION SHALL BE DESIGNED TO DETERMINE THE CONTRIBUTIONS OF
+18 SOURCES OF PFOS AND PFOA TO THE WASTEWATER TREATMENT SYSTEM WITH
+19 SUFFICIENT SPECIFICITY TO ALLOW THE SEWAGE SLUDGE GENERATOR AND THE
+20 DEPARTMENT TO REDUCE OR PREVENT THE RELEASE OF PFOA AND PFOS FROM
+21 CONTROLLABLE SOURCES IN ACCORDANCE WITH APPLICABLE LAW.
+22 (4) (I) A MITIGATION PLAN DEVELOPED UNDER THIS SUBSECTION
+23 SHALL:
+24 1. BE DEVELOPED IN CONSULTATION WITH THE
+25 DEPARTMENT;
+26 2. IDENTIFY SIGNIFICANT SOURCES OF PFOA AND
+27 PFOS LOADING TO THE WASTEWATER TREATMENT SYSTEM;
+28 3. INCLUDE ACTIONS THAT THE SEWAGE SLUDGE
+29 GENERATOR CAN IMPLEMENT, OR REQUIRE SOURCES OF PFOA AND PFOS
+30 LOADING TO IMPLEMENT, TO REDUCE THE TOTAL CONCENTRATION OF REGULATED
+31 PFAS TO LEVELS BELOW 25 PARTS PER BILLION;
+SENATE BILL 719 9
+1 4. TAKE INTO CONSIDERATION INNOVATIVE SOLUTIONS
+2 AND LONG–TERM MITIGATION APPROACHES, CONSISTENT WITH APPLICABLE LAWS,
+3 REGULATIONS, AND OTHER REQUIREMENTS; AND
+4 5. INCLUDE A REASONABLE TIMELINE, NOT TO EXCEED
+5 2 YEARS 5 YEARS FROM THE DATE A DETERMINATION IS MADE UNDER PARAGRAPH
+6 (2) OF THIS SUBSECTION, FOR IMPLEMENTING THE MITIGATION PLAN.
+7 (II) THE ELEMENTS AND STRATEGIES IDENTIFIED IN A
+8 MITIGATION PLAN DEVELOPED UNDER THIS SUBSECTION MAY INCLUDE:
+9 1. THE EXERCISE OF PRETREATMENT CONTROL
+10 AUTHORITIES IN ACCORDANCE WITH SUBSECTION (H) OF THIS SECTION TO REDUCE
+11 LOADING FROM INDUSTRIAL USERS;
+12 2. THE INSTALLATION OF TREATMENT SOLUTIONS AT
+13 POINTS OF ENTRY OR CONCENTRATION IN THE SANITARY SEWER SYSTEMS THAT
+14 CONTAIN SIGNIFICANT LEVELS OF PFOS OR PFOA; OR
+15 3. THE INSTALLATION OF SYSTEM–SCALE TREATMENT
+16 SOLUTIONS TO REDUCE THE TOTAL CONCENTRATION OF REGULATED PFAS TO
+17 LEVELS BELOW 25 PARTS PER BILLION.
+18 (III) IF, DURING THE MONITORING PERIOD FOR WHICH THE
+19 TOTAL CONCENTRATION OF PFAS WAS DETERMINED TO BE EQUAL TO OR GREATER
+20 THAN 25 PARTS PER BILLION, THE INDIVIDUAL SAMPLES WERE WITHIN THE MARGIN
+21 OF ERROR OR DETECTION LIMIT FOR THE LABORATORY PERFORMING THE SAMPLE
+22 ANALYSIS, THE MITIGATION PLAN SHALL INCLUDE ADDITIONAL TESTING
+23 REQUIREMENTS AND TIMELINES DEVELOPED IN CONSULTATION WITH THE
+24 DEPARTMENT.
+25 (5) (I) EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF THIS
+26 PARAGRAPH, A SEWAGE SLUDGE GENERATOR SHALL SUBMIT A MITIGATION PLAN
+27 REQUIRED UNDER THIS SUBSECTION TO THE DEPARTMENT WITHIN 6 MONTHS
+28 AFTER COMPLETION OF THE SOURCE TRACKING STUDY REQUIRED UNDER THIS
+29 SUBSECTION.
+30 (II) A SEWAGE SLUDGE GENERATOR MAY REQUEST AND THE
+31 DEPARTMENT MAY GRANT A SINGLE EXTENSION ON THE DEVELOPMENT AND
+32 SUBMISSION OF A MITIGATION PLAN UNDER THIS SUBSECTION BASED ON:
+33 1. EXIGENT CIRCUMSTANCES; OR
+10 SENATE BILL 719
+1 2. CONSIDERATIONS RELATED TO THE INVESTIGATION
+2 AND DESIGN OF MANAGEMENT APPROACHES OR TREATMENT OPTIONS.
+3 (6) (I) THE DEPARTMENT SHALL REVIEW EACH MITIGATION PLAN
+4 SUBMITTED UNDER THIS SUBSECTION AND MAY APPROVE, DENY, OR SUGGEST
+5 CHANGES TO THE MITIGATION PLAN.
+6 (II) IN REVIEWING A MITIGATION PLAN SUBMITTED UNDER THIS
+7 SUBSECTION, THE DEPARTMENT SHALL CONSIDER THE COST OF IMPLEMENTING
+8 MITIGATION OPTIONS.
+9 (7) A SEWAGE SLUDGE GENERATOR:
+10 (I) SHALL COMPLY WITH THE PROVISIONS OF AN APPROVED
+11 MITIGATION PLAN; AND
+12 (II) MAY NOT APPLY SEWAGE SLUDGE OR A PRODUCT
+13 CONTAINING SEWAGE SLUDGE TO LAND IF THE DEPARTMENT HAS DETERMINED
+14 THAT THE GENERATOR IS OUT OF COMPLIANCE WITH THE PROVISIONS OF AN
+15 APPROVED MITIGATION PLAN.
+16 (8) THE DEPARTMENT SHALL PROVIDE A SEWAGE SLUDGE
+17 GENERATOR WITH REASONABLE TECHNICAL ASSISTANCE IN THE DEVELOPMENT OF
+18 A SOURCE TRACKING STUDY AND MITIGATION PLAN UNDER THIS SUBSECTION.
+19 (G) (1) (I) FOR EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+20 SUBSECTION, FOR THE PURPOSE OF ASSESSING COMPLIANCE WITH THE
+21 REQUIREMENTS OF THIS SECTION, THE TOTAL CONCENTRATION OF REGULATED
+22 PFAS IN SEWAGE SLUDGE OR A PRODUCT CONTAINING SEWAGE SLUDGE SHALL BE
+23 DETERMINED BY TAKING THE AVERAGE OF SAMPLES TAKEN IN ACCORDANCE WITH
+24 THIS SUBSECTION OVER THE IMMEDIATELY PRECEDING 12 MONTHS.
+25 (2) (II) EACH SAMPLE SHALL BE TAKEN:
+26 (I) 1. DURING NORMAL OPERATING CONDITIONS, AS
+27 SPECIFIED IN DEPARTMENT REGULATIONS;
+28 (II) AT THE POINT WHERE SEWAGE SLUDGE LEAVES THE
+29 WASTEWATER TREATMENT FACILITY; AND
+30 (III) 2. AT A FREQUENCY SPECIFIED BY THE DEPARTMENT IN
+31 REGULATION, BUT NOT LESS THAN QUARTERLY.
+SENATE BILL 719 11
+1 (2) ON OR BEFORE OCTOBER 1, 2027 FOR A PERIOD OF NOT MORE
+2 THAN 12 MONTHS FOLLOWING THE DATE THAT COMMINGLING OPERATIONS BEGIN,
+3 A COMMINGLING OPERATION MAY USE A MASS BALANCE CALCULATION TO
+4 DETERMINE THE CONCENTRATION OF REGULATED PFAS IN THE COMMINGLED
+5 PRODUCT.
+6 (3) (I) SAMPLES SHALL BE ANALYZED USING A METHOD
+7 APPROVED BY THE DEPARTMENT AND CONDUCTED BY A LABORATORY CERTIFIED
+8 TO PERFORM THE METHOD AND SUBJECT TO A LABORATORY LEVEL OF
+9 QUANTITATION FOR BIOSOLIDS ANALYSIS NOT TO EXCEED 2 PARTS PER BILLION:
+10 1. USING THE U.S. ENVIRONMENTAL PROTECTION
+11 AGENCY’S METHOD 1633A OR AN EQUIVALENT METHOD APPROVED BY THE
+12 DEPARTMENT;
+13 2. AT A CERTIFIED OR ACCREDITED LABORATORY; AND
+14 3. SUBJECT TO A REPORTING LEVEL ESTABLISHED BY
+15 THE DEPARTMENT.
+16 (II) THE DEPARTMENT SHALL ASSIST SEWAGE SLUDGE
+17 GENERATORS IN IDENTIFYING QUALIFIED LABORATORIES UNDER THIS
+18 PARAGRAPH.
+19 (4) THE DEPARTMENT MAY ESTABLISH ADDITIONAL MONITORING
+20 REQUIREMENTS FOR MATERIALS BLENDED COMMINGLED IN ACCORDANCE WITH
+21 SUBSECTION (D) OF THIS SECTION.
+22 (H) (1) IN ACCORDANCE WITH THE FEDERAL CLEAN WATER ACT, THE
+23 DEPARTMENT AND PRETREATMENT AUTHORITIES MAY ESTABLISH PRETREATMENT
+24 STANDARDS FOR INDUSTRIAL USERS THAT DISCHARGE PER– AND
+25 POLYFLUOROALKYL SUBSTANCES AT LEVELS THAT EXCEED ACTION LEVELS
+26 ESTABLISHED BY THE DEPARTMENT OR THE PRETREATMENT AUTHORITY UNDER
+27 AN INDUSTRIAL PRETREATMENT PROGRAM.
+28 (2) IF A PUBLICLY OWNED TREATMENT WORKS DOES NOT HAVE AN
+29 INDUSTRIAL PRETREATMENT PROGRAM, AND IT IS DETERMINED THAT SEWAGE
+30 SLUDGE PRODUCED FOR LAND APPLICATION BY THE PUBLICLY OWNED TREATMENT
+31 WORKS HAS A TOTAL CONCENTRATION OF REGULATED PFAS EQUAL TO OR
+32 GREATER THAN 25 PARTS PER BILLION, THE DEPARTMENT SHALL, IN
+33 CONSULTATION WITH THE PUBLICLY OWNED TREATMENT WORKS, DEVELOP
+34 DISCHARGE PERMITS FOR INDUSTRIAL USERS IN A MANNER CALCULATED TO
+35 ESTABLISH LOCAL LIMITS FOR PER– AND POLYFLUOROALKYL SUBSTANCES
+12 SENATE BILL 719
+1 CONSISTENT WITH EXISTING AUTHORITIES UNDER THE FEDERAL CLEAN WATER
+2 ACT EVALUATE THE CONTRIBUTION FROM INDUSTRIAL USERS AND DETERMINE
+3 APPROPRIATE CONTROLS TO MEET APPLICABLE STANDARDS.
+4 (3) THE DEPARTMENT SHALL:
+5 (I) ISSUE GUIDANCE TO SUPPORT PUBLICLY OWNED
+6 TREATMENT WORKS IN THE IMPLEMENTATION OF THIS SUBSECTION; AND
+7 (II) PROVIDE REASONABLE TECHNICAL ASSISTANCE AS
+8 REQUESTED BY LOCAL JURISDICTIONS IN THE EXERCISE OF LOCAL LIMITS
+9 AUTHORITY UNDER THE FEDERAL CLEAN WATER ACT.
+10 (4) A LOCAL JURISDICTION OR A PRETREATMENT AUTHORITY MAY
+11 SET APPROPRIATE RATES AND FEES FOR INDUSTRIAL USERS, INDIVIDUALLY OR AS
+12 A CLASS, THAT ARE DETERMINED TO DISCHARGE PER– AND POLYFLUOROALKYL
+13 SUBSTANCES INTO THE WASTEWATER TREATMENT SYSTEM AT LEVELS THAT
+14 NECESSITATE THE IMPLEMENTATION OF MITIGATION MEASURES.
+15 (5) THIS SECTION MAY NOT BE INTERPRETED TO LIMIT THE
+16 AUTHORITY OF A LOCAL JURISDICTION OR A PRETREATMENT AUTHORITY TO SET
+17 LOCAL LIMITS THAT LEAD TO REDUCTIONS OF PER– AND POLYFLUOROALKYL
+18 SUBSTANCES THAT EXCEED THE REDUCTIONS REQUIRED UNDER THIS SECTION.
+19 (I) ALL SEWAGE SLUDGE GENERATORS ARE ENCOURAGED TO IDENTIFY
+20 POTENTIAL SOURCES OF PFOA AND PFOS LOADING TO THEIR WASTEWATER
+21 TREATMENT SYSTEMS AND TO TAKE STEPS TO REDUCE THE TOTAL CONCENTRATION
+22 OF REGULATED PFAS IN THE SEWAGE SLUDGE PRODUCED BY THOSE SYSTEMS.
+23 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+24 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      ( w t G S a p t t G f h a t d o _ a _ o _ A S F d o s s o p c s s w t c g s a s t c r a r e m p p s f c i u t d c p a p c f]
+[DELETED:  S  a r B  A  S  A  ( B  A  S  A  ( B  A  S  A  (  S T A 9  ( I  ( “s:   ( A   ( A s–,RCS SS  .  ( “ s m a t l s s s o d  ( ( “ s g m a p w o o o a f u   ( “]
+[DELETED: S 3    ( T    ( T   ( “ s 9  ( ( T o   ( T o o  ( I s   ( A   ( P   ( A m   ( P   ( P p   ( A s f t s s i r  ( I a t t c u s ( o t s i a r f t l a o s s t D o t E   ( M    ( W    ( F a l s b l b t n r o c o c v a r b t D o A]
+[DELETED:  S    ( T a   ( T   ( T   ( T r   ( T s   ( T    ( S l    ( A    ( M    ( C   ( A h   ( S   ( R l  ( ( T d   ( T f   ( T    ( T v o s s g b a s s g    ( T    ( T a c o m a r s s]
+[DELETED: S 5    ( T p    ( T t() ( N   “CE M S M F T P O R T C O ()( “CPO O R  M T CN A M I A W M E U S G O T SN O T)R :  () P  () P;I   () APAPI    ()( “”.  ()( “”. () H S A O T T L A O A S A P C S S T A T.() OO1,272N C   ( P M N A S S O A P S S T A O M L I T S O P C S S H A T    S5N ]
+[DELETED:  S  (  A T C O R  T I E T O    N 550 M A T S S O P C S T A O M L O I A W E  F )().() ( OS3,2,O1,2N E    C   A S S G DS T M E U S G O T SN T I) S H A T C O R  T I    55N S T T R O T S A I E:  ()   O  E   I  N 5;  () IE S O A P C S B C I A W I I O T M N B S T T T A E ). ( ()  P T B O O C P O  A  A L O P MH U ASPA SE I A W P E G ).  () IPIF    N :   1 SD I N T ET   2  N A T B C T L U T P DS T AG T T T C O R  I TP]
+[DELETED: S 7  () ( H A C   O S S O P C1,2    55 ( F12  S  U F N ) A O P D U P  O T  () AT  E   () S:IU   1  S S R E L  S B;   2  S F L A P A P W S W D B T Y ;   3 P().   ( A1 L  D B L A S S U P  O T SN T L A)    () H  () IH O O E P O L A TD ]
+[DELETED:  S   () IH L G F E C A I W T L T W T S S W B() ( H S A O T A S S T P S S T I I F L ( I A S S G DS T G N)    N 5  () O A S T S I A  N );  () IE A M P I A W  ). ( S T S C U T S B D T D T C O    SPPAP     ( ()     1  D I C W T;   2 IP S S O  AS;   3  A T T S S C IT O R S O  A PAPT S25;  ]
+[DELETED: S 9   4 GTS S,S S ;   5 IE   ),.N   () IH E A S I I A   1  E O P C H    2  I O T S A    SP;   3 T I O SMS T T R T T C O R  T  5.  () IIF D T M P F W T    N 5S T M P S I A T A T D I C W T. ( () E(X A P I S II O TH  U T S T T E W  M C O T S T S R U T  () I S S G M R A T M G A S E O T D A   1 E;S ]
+[DELETED:  S    2  ( () TH E U T S A M AE DY O S  () INN  E C ( A:  () H PN   () IA N A S S O A P S S T L I T E H D T G I O O C W T P O A ( T E S P A S S() ( () FE(IO X A P I P  O TN F T P O A C W T O T SN T T C O R  2. ( () E:IA  () 1 DU N O CS A E;  () IT T P W S S L TY   () 2 AIT EN .]
+[DELETED: S 1   OO1,2 C     C O M U A M B C T T C O R  I T C ( () A S B A U A M E P T M A S T A L L O  :   1 UU.E T  N R’1YS M A O A E M A B T;   2 A;Y    3  E.  () TIH E S A S S I I Q L U T ( T E M E A M F M B C I A W D ).() ( ICWAN W F L A CT T F I U T D PR A S A L T E A L E (  P PM A I I D T S H A T C O R  E T O T  P P BN T E SL I5,D W T P O T WS D P F I U I A M C T L L F PR A P S]
+[DELETED:  S  W E A U T F L A E T C F I U A D ( TD: E  () S G T S P ON   () IR R T A A B L J I T E O L L L A CWA. ( LS  CS T A D T D PR A P I T W T S A L T (  S M N B I T L T L T L T R O PR A P() L S S G A E T I S O  A  L T T WAP  S.  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 719
+M3 (6lr2034)
+ENROLLED BILL
+— Education, Energy, and the Environment/Environment and Transportation and
+Health —
+Introduced by Senators Love and Hester
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Sewage Sludge – Per– and Polyfluoroalkyl Substances – Regulation
+3 FOR the purpose of establishing restrictions on the land application, on or after a certain
+4 date, of sewage sludge or products containing sewage sludge with total
+5 concentrations of certain regulated per– and polyfluoroalkyl substances equal to or
+6 greater than certain levels; authorizing, on or before a certain date, a person to blend
+7 sewage sludge from multiple sources commingle sewage sludge for a certain purpose
+8 and subject to certain regulations and requirements; establishing monitoring
+9 protocols for certain per– and polyfluoroalkyl substances in certain sewage sludge or
+10 products containing sewage sludge; authorizing the establishment of pretreatment
+11 standards for certain industrial users that discharge certain per– and
+12 polyfluoroalkyl substances at levels that exceed certain action levels; authorizing
+13 certain local jurisdictions and pretreatment authorities to set certain rates and fees
+14 for certain industrial users; encouraging sewage sludge generators to take certain
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0719*
+
+2 SENATE BILL 719
+1 actions with respect to certain per– and polyfluoroalkyl substances; and generally
+2 relating to per– and polyfluoroalkyl substances and sewage sludge.
+3 BY repealing and reenacting, without amendments,
+4 Article – Environment
+5 Section 9–201(a), (l), and (m) and 9–230
+6 Annotated Code of Maryland
+7 (2014 Replacement Volume and 2025 Supplement)
+8 BY repealing and reenacting, with amendments,
+9 Article – Environment
+10 Section 9–201(k)
+11 Annotated Code of Maryland
+12 (2014 Replacement Volume and 2025 Supplement)
+13 BY adding to
+14 Article – Environment
+15 Section 9–250
+16 Annotated Code of Maryland
+17 (2014 Replacement Volume and 2025 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Environment
+21 9–201.
+22 (a) In this subtitle the following words have the meanings indicated.
+23 (k) “Sewage” means[:
+24 (1) Any human or animal excretion or water–carried domestic waste; or
+25 (2) A mixture of industrial waste and any of the things in item (1) of this
+26 subsection] THE WATER–CARRIED DOMESTIC WASTE FROM RESIDENCES, BUILDINGS,
+27 INDUSTRIAL ESTABLISHMENTS, OR OTHER PLACES.
+28 (l) “Sewage sludge” means any thickened liquid, suspension, settled solid, or
+29 dried residue that a sewage treatment plant extracts from sewage.
+30 (m) (1) “Sewage sludge generator” means a person who owns or operates a
+31 facility that receives and processes sewage in this State or produces sewage sludge to be
+32 utilized in this State.
+33 (2) “Sewage sludge generator” includes:
+
+SENATE BILL 719 3
+1 (i) The Washington Suburban Sanitary Commission; and
+2 (ii) The Maryland Environmental Service.
+3 (3) “Sewage sludge generator” does not include the owner or operator of a
+4 septic system.
+5 9–230.
+6 (a) (1) The Department of the Environment shall adopt regulations to carry
+7 out this Part III of this subtitle.
+8 (2) The Department of the Environment may not adopt a regulation or part
+9 of a regulation that deals with the land application of sewage sludge without the approval
+10 of the Department of Agriculture.
+11 (b) In adopting regulations under this Part III and §§ 9–269 and 9–270 of this
+12 subtitle, the Department of the Environment shall consider:
+13 (1) Alternative utilization methods;
+14 (2) Pathogen control;
+15 (3) Advertising requirements for public hearings and public information
+16 meetings;
+17 (4) Performance bonds, liability insurance, or other forms of security;
+18 (5) Procedures for notifying units of local government and other interested
+19 parties; and
+20 (6) Adequate standards for transporting sewage sludge, including
+21 requirements for enclosing or covering sewage sludge during transportation.
+22 (c) In addition to the considerations under subsection (b) of this section, in
+23 adopting regulations for the land application of sewage sludge, the Department of the
+24 Environment shall consider:
+25 (1) Methods for calculating loading rates that:
+26 (i) Will assure nondegradation of the groundwater supply; and
+27 (ii) For agricultural land, shall be limited by the nutrient
+28 requirements of crop or cover vegetation, as recommended by the Department of
+29 Agriculture;
+
+4 SENATE BILL 719
+1 (2) The crops that are to be grown on land on which sewage sludge may be
+2 applied;
+3 (3) The nature of any nearby surface water or groundwater;
+4 (4) The character of any affected area;
+5 (5) The character of nearby existing or planned land uses and transport
+6 routes;
+7 (6) The nearness of the land on which sewage sludge may be applied to
+8 sensitive areas, including flood plains, wetlands, and areas of critical concern;
+9 (7) The definitions of:
+10 (i) Sewage sludge that is unsuitable for application to agricultural
+11 land;
+12 (ii) Agricultural land;
+13 (iii) Marginal land; and
+14 (iv) Compost;
+15 (8) Acceptable cumulative loading rates, including rates for nitrogen and
+16 heavy metals;
+17 (9) Special requirements of land used for producing tobacco; and
+18 (10) Reasonable buffer areas to separate any home or other property from
+19 land on which sewage sludge may be applied.
+20 (d) (1) The Department shall adopt regulations to establish a mechanism for
+21 determining annual generator’s fees.
+22 (2) The regulations shall provide for public input into the development of
+23 fee schedules.
+24 (3) The fee schedules shall take into account:
+25 (i) The volume of sewage sludge generated by a sewage sludge
+26 generator;
+27 (ii) The method by which the sewage sludge is utilized;
+28 (iii) The anticipated costs of monitoring and regulating sewage
+29 sludge utilization sites;
+
+SENATE BILL 719 5
+1 (iv) The anticipated needs of the State’s sewage sludge regulation
+2 program; and
+3 (v) The potential hazard of the sewage sludge generator’s activities
+4 to public health, safety, or welfare or to the environment.
+5 9–250.
+6 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+7 INDICATED.
+8 (2) “COMMINGLE” MEANS TO MIX TREATED SEWAGE SLUDGE WITH
+9 OTHER MATERIALS FOR THE PURPOSE OF REDUCING THE CONCENTRATION OF
+10 REGULATED PFAS.
+11 (2) (3) “CONCENTRATION OF REGULATED PFAS” MEANS THE
+12 TOTAL CONCENTRATION, AS MEASURED IN ACCORDANCE WITH MONITORING
+13 PROTOCOLS ESTABLISHED UNDER SUBSECTION (G) OF THIS SECTION, OF THE
+14 FOLLOWING PER– AND POLYFLUOROALKYL SUBSTANCES:
+15 (I) PFOA;
+16 (II) PFOS; OR
+17 (III) A MIXTURE OF PFOA AND PFOS.
+18 (3) (4) “PFOS” MEANS PERFLUOROOCTANE SULFONIC ACID.
+19 (4) (5) “PFOA” MEANS PERFLUOROOCTANOIC ACID.
+20 (B) THIS SECTION APPLIES ONLY TO THE LAND APPLICATION OF ALL
+21 SEWAGE SLUDGE AND PRODUCTS CONTAINING SEWAGE SLUDGE THAT ARE
+22 INTENDED FOR LAND APPLICATION IN THE STATE.
+23 (C) ON OR AFTER OCTOBER 1, 2027 2028:
+24 (1) A PERSON MAY NOT APPLY SEWAGE SLUDGE OR A PRODUCT
+25 CONTAINING SEWAGE SLUDGE TO AGRICULTURAL OR MARGINAL LAND IF THE
+26 SEWAGE SLUDGE OR PRODUCT CONTAINING SEWAGE SLUDGE HAS A TOTAL
+27 CONCENTRATION OF REGULATED PFAS EQUAL TO OR GREATER THAN 50 PARTS
+28 PER BILLION; AND
+
+6 SENATE BILL 719
+1 (2) IF SEWAGE SLUDGE OR A PRODUCT CONTAINING SEWAGE SLUDGE
+2 HAS A TOTAL CONCENTRATION OF REGULATED PFAS THAT IS EQUAL TO OR
+3 GREATER THAN 25 PARTS PER BILLION BUT LESS THAN 50 PARTS PER BILLION, A
+4 PERSON MAY APPLY THE SEWAGE SLUDGE OR PRODUCT CONTAINING SEWAGE
+5 SLUDGE TO AGRICULTURAL OR MARGINAL LAND ONLY IN ACCORDANCE WITH
+6 SUBSECTIONS (E) AND (F) OF THIS SECTION.
+7 (D) (1) ON OR BEFORE SEPTEMBER 30, 2029, AFTER OCTOBER 1, 2028,
+8 IF A SEWAGE SLUDGE GENERATOR DETERMINES, THROUGH MONITORING
+9 PROTOCOLS ESTABLISHED UNDER SUBSECTION (G) OF THIS SECTION, THAT ITS
+10 SEWAGE SLUDGE HAS A TOTAL CONCENTRATION OF REGULATED PFAS THAT IS
+11 EQUAL TO OR GREATER THAN 25 PARTS PER BILLION BUT LESS THAN 50 PARTS PER
+12 BILLION, SUBJECT TO THE REQUIREMENTS OF THIS SUBSECTION AND IN
+13 ACCORDANCE WITH DEPARTMENT REGULATIONS:
+14 (I) A PERSON MAY BLEND SEWAGE SLUDGE FROM MULTIPLE
+15 SOURCES FOR A PERIOD OF NOT MORE THAN 2 YEARS FOLLOWING THE DATE THE
+16 DETERMINATION IS MADE, THE SEWAGE SLUDGE MAY BE COMMINGLED TO REDUCE
+17 THE TOTAL CONCENTRATION OF REGULATED PFAS IN THE FINAL MATERIAL TO
+18 LEVELS BELOW 25 PARTS PER BILLION; AND
+19 (II) SEWAGE SLUDGE OR A PRODUCT CONTAINING SEWAGE
+20 SLUDGE BLENDED COMMINGLED IN ACCORDANCE WITH ITEM (I) OF THIS
+21 PARAGRAPH MAY NOT BE SUBJECT TO THE TEMPORARY ALTERNATIVE
+22 MANAGEMENT MEASURES SPECIFIED IN SUBSECTION (E) OF THIS SECTION.
+23 (2) (I) A PERSON THAT BLENDS OR OTHERWISE COMMINGLES
+24 SEWAGE SLUDGE FOR THE PURPOSE OF LAND APPLICATION SHALL MONITOR FOR
+25 THE PRESENCE OF PFOS AND PFOA AT LEAST ONCE PER MONTH, USING A
+26 REPRESENTATIVE SAMPLE, IN ACCORDANCE WITH PROTOCOLS ESTABLISHED
+27 UNDER SUBSECTION (G) OF THIS SECTION.
+28 (II) IF THE TOTAL CONCENTRATION OF REGULATED PFAS IN
+29 THE BLENDED COMMINGLED PRODUCT IS EQUAL TO OR GREATER THAN 25 PARTS
+30 PER BILLION, THE PERSON:
+31 1. SHALL IMMEDIATELY NOTIFY THE DEPARTMENT;
+32 AND
+33 2. MAY NOT APPLY THE BLENDED COMMINGLED
+34 PRODUCT TO LAND UNTIL THE PERSON DEMONSTRATES, THROUGH ADDITIONAL
+35 MONITORING, THAT THE TOTAL CONCENTRATION OF REGULATED PFAS IN THE
+
+SENATE BILL 719 7
+1 BLENDED COMMINGLED PRODUCT HAS BEEN REDUCED TO LEVELS BELOW 25 PARTS
+2 PER BILLION.
+3 (E) (1) THIS SUBSECTION APPLIES ONLY TO THE LAND APPLICATION ON
+4 OR AFTER OCTOBER 1, 2028, OF SEWAGE SLUDGE OR PRODUCTS CONTAINING
+5 SEWAGE SLUDGE THAT HAVE HAS A TOTAL CONCENTRATION OF REGULATED PFAS
+6 THAT IS EQUAL TO OR GREATER THAN 25 PARTS PER BILLION BUT LESS THAN 50
+7 PARTS PER BILLION.
+8 (2) FOR A PERIOD OF NOT MORE THAN 12 MONTHS, AND PENDING THE
+9 DEVELOPMENT AND APPROVAL OF A MITIGATION PLAN DURING THE DEVELOPMENT
+10 AND IMPLEMENTATION OF THE SOURCE TRACKING STUDY AND MITIGATION PLAN
+11 REQUIRED UNDER SUBSECTION (F) OF THIS SECTION, A PERSON MAY APPLY SEWAGE
+12 SLUDGE AND OTHER PRODUCTS DESCRIBED UNDER PARAGRAPH (1) OF THIS
+13 SUBSECTION TO LAND:
+14 (I) AT A RATE THAT DOES NOT EXCEED 3 DRY METRIC TONS
+15 PER HECTARE ACRE; AND
+16 (II) SUBJECT TO:
+17 1. THE SAME SETBACK REQUIREMENTS ESTABLISHED
+18 IN REGULATION FOR CLASS B BIOSOLIDS; AND
+19 2. ADDITIONAL SETBACKS FOR LAND APPLICATION
+20 NEAR PUBLIC AND PRIVATE WATER SUPPLY WELLS DEVELOPED BY THE
+21 DEPARTMENT AFTER CONSULTATION WITH ADJACENT LANDOWNERS AND COUNTY
+22 AND MUNICIPAL OFFICIALS FROM EACH LOCAL JURISDICTION LOCATED WITHIN 1
+23 MILE OF THE PROPERTY BOUNDARY.; AND
+24 3. PARAGRAPH (3) OF THIS SUBSECTION.
+25 (3) AT LEAST 14 DAYS BEFORE LAND APPLYING SEWAGE SLUDGE
+26 DESCRIBED UNDER PARAGRAPH (1) OF THIS SUBSECTION, THE LAND APPLIER
+27 SHALL PROVIDE NOTICE OF THE CONCENTRATION OF REGULATED PFAS IN THE
+28 SEWAGE SLUDGE TO:
+29 (I) THE OWNER OR OPERATOR OF THE LAND ON WHICH THE
+30 SEWAGE SLUDGE WILL BE APPLIED;
+31 (II) THE OWNER OF EACH PARCEL OF LAND ADJOINING THE
+32 LAND TO WHICH THE SEWAGE SLUDGE WILL BE APPLIED; AND
+
+8 SENATE BILL 719
+1 (III) THE LOCAL GOVERNMENT FOR EACH COUNTY AND
+2 MUNICIPALITY IN WHICH THE LAND TO WHICH THE SEWAGE SLUDGE WILL BE
+3 APPLIED IS LOCATED.
+4 (F) (1) THIS SUBSECTION APPLIES ONLY TO A SEWAGE SLUDGE
+5 GENERATOR THAT PRODUCES SEWAGE SLUDGE THAT IS INTENDED FOR LAND
+6 APPLICATION.
+7 (2) IF A SEWAGE SLUDGE GENERATOR DETERMINES, THROUGH
+8 MONITORING PROTOCOLS ESTABLISHED UNDER SUBSECTION (G) OF THIS SECTION,
+9 THAT ITS SEWAGE SLUDGE HAS A TOTAL CONCENTRATION OF PFAS THAT IS EQUAL
+10 TO OR GREATER THAN 25 PARTS PER BILLION, THE SEWAGE SLUDGE GENERATOR
+11 SHALL:
+12 (I) COMPLETE A SOURCE TRACKING STUDY IN ACCORDANCE
+13 WITH PARAGRAPH (3) OF THIS SUBSECTION; AND
+14 (II) DEVELOP A MITIGATION PLAN IN ACCORDANCE WITH
+15 PARAGRAPH (4) OF THIS SUBSECTION.
+16 (3) A SOURCE TRACKING STUDY CONDUCTED UNDER THIS
+17 SUBSECTION SHALL BE DESIGNED TO DETERMINE THE CONTRIBUTIONS OF
+18 SOURCES OF PFOS AND PFOA TO THE WASTEWATER TREATMENT SYSTEM WITH
+19 SUFFICIENT SPECIFICITY TO ALLOW THE SEWAGE SLUDGE GENERATOR AND THE
+20 DEPARTMENT TO REDUCE OR PREVENT THE RELEASE OF PFOA AND PFOS FROM
+21 CONTROLLABLE SOURCES IN ACCORDANCE WITH APPLICABLE LAW.
+22 (4) (I) A MITIGATION PLAN DEVELOPED UNDER THIS SUBSECTION
+23 SHALL:
+24 1. BE DEVELOPED IN CONSULTATION WITH THE
+25 DEPARTMENT;
+26 2. IDENTIFY SIGNIFICANT SOURCES OF PFOA AND
+27 PFOS LOADING TO THE WASTEWATER TREATMENT SYSTEM;
+28 3. INCLUDE ACTIONS THAT THE SEWAGE SLUDGE
+29 GENERATOR CAN IMPLEMENT, OR REQUIRE SOURCES OF PFOA AND PFOS
+30 LOADING TO IMPLEMENT, TO REDUCE THE TOTAL CONCENTRATION OF REGULATED
+31 PFAS TO LEVELS BELOW 25 PARTS PER BILLION;
+
+SENATE BILL 719 9
+1 4. TAKE INTO CONSIDERATION INNOVATIVE SOLUTIONS
+2 AND LONG–TERM MITIGATION APPROACHES, CONSISTENT WITH APPLICABLE LAWS,
+3 REGULATIONS, AND OTHER REQUIREMENTS; AND
+4 5. INCLUDE A REASONABLE TIMELINE, NOT TO EXCEED
+5 2 YEARS 5 YEARS FROM THE DATE A DETERMINATION IS MADE UNDER PARAGRAPH
+6 (2) OF THIS SUBSECTION, FOR IMPLEMENTING THE MITIGATION PLAN.
+7 (II) THE ELEMENTS AND STRATEGIES IDENTIFIED IN A
+8 MITIGATION PLAN DEVELOPED UNDER THIS SUBSECTION MAY INCLUDE:
+9 1. THE EXERCISE OF PRETREATMENT CONTROL
+10 AUTHORITIES IN ACCORDANCE WITH SUBSECTION (H) OF THIS SECTION TO REDUCE
+11 LOADING FROM INDUSTRIAL USERS;
+12 2. THE INSTALLATION OF TREATMENT SOLUTIONS AT
+13 POINTS OF ENTRY OR CONCENTRATION IN THE SANITARY SEWER SYSTEMS THAT
+14 CONTAIN SIGNIFICANT LEVELS OF PFOS OR PFOA; OR
+15 3. THE INSTALLATION OF SYSTEM–SCALE TREATMENT
+16 SOLUTIONS TO REDUCE THE TOTAL CONCENTRATION OF REGULATED PFAS TO
+17 LEVELS BELOW 25 PARTS PER BILLION.
+18 (III) IF, DURING THE MONITORING PERIOD FOR WHICH THE
+19 TOTAL CONCENTRATION OF PFAS WAS DETERMINED TO BE EQUAL TO OR GREATER
+20 THAN 25 PARTS PER BILLION, THE INDIVIDUAL SAMPLES WERE WITHIN THE MARGIN
+21 OF ERROR OR DETECTION LIMIT FOR THE LABORATORY PERFORMING THE SAMPLE
+22 ANALYSIS, THE MITIGATION PLAN SHALL INCLUDE ADDITIONAL TESTING
+23 REQUIREMENTS AND TIMELINES DEVELOPED IN CONSULTATION WITH THE
+24 DEPARTMENT.
+25 (5) (I) EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF THIS
+26 PARAGRAPH, A SEWAGE SLUDGE GENERATOR SHALL SUBMIT A MITIGATION PLAN
+27 REQUIRED UNDER THIS SUBSECTION TO THE DEPARTMENT WITHIN 6 MONTHS
+28 AFTER COMPLETION OF THE SOURCE TRACKING STUDY REQUIRED UNDER THIS
+29 SUBSECTION.
+30 (II) A SEWAGE SLUDGE GENERATOR MAY REQUEST AND THE
+31 DEPARTMENT MAY GRANT A SINGLE EXTENSION ON THE DEVELOPMENT AND
+32 SUBMISSION OF A MITIGATION PLAN UNDER THIS SUBSECTION BASED ON:
+33 1. EXIGENT CIRCUMSTANCES; OR
+
+10 SENATE BILL 719
+1 2. CONSIDERATIONS RELATED TO THE INVESTIGATION
+2 AND DESIGN OF MANAGEMENT APPROACHES OR TREATMENT OPTIONS.
+3 (6) (I) THE DEPARTMENT SHALL REVIEW EACH MITIGATION PLAN
+4 SUBMITTED UNDER THIS SUBSECTION AND MAY APPROVE, DENY, OR SUGGEST
+5 CHANGES TO THE MITIGATION PLAN.
+6 (II) IN REVIEWING A MITIGATION PLAN SUBMITTED UNDER THIS
+7 SUBSECTION, THE DEPARTMENT SHALL CONSIDER THE COST OF IMPLEMENTING
+8 MITIGATION OPTIONS.
+9 (7) A SEWAGE SLUDGE GENERATOR:
+10 (I) SHALL COMPLY WITH THE PROVISIONS OF AN APPROVED
+11 MITIGATION PLAN; AND
+12 (II) MAY NOT APPLY SEWAGE SLUDGE OR A PRODUCT
+13 CONTAINING SEWAGE SLUDGE TO LAND IF THE DEPARTMENT HAS DETERMINED
+14 THAT THE GENERATOR IS OUT OF COMPLIANCE WITH THE PROVISIONS OF AN
+15 APPROVED MITIGATION PLAN.
+16 (8) THE DEPARTMENT SHALL PROVIDE A SEWAGE SLUDGE
+17 GENERATOR WITH REASONABLE TECHNICAL ASSISTANCE IN THE DEVELOPMENT OF
+18 A SOURCE TRACKING STUDY AND MITIGATION PLAN UNDER THIS SUBSECTION.
+19 (G) (1) (I) FOR EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+20 SUBSECTION, FOR THE PURPOSE OF ASSESSING COMPLIANCE WITH THE
+21 REQUIREMENTS OF THIS SECTION, THE TOTAL CONCENTRATION OF REGULATED
+22 PFAS IN SEWAGE SLUDGE OR A PRODUCT CONTAINING SEWAGE SLUDGE SHALL BE
+23 DETERMINED BY TAKING THE AVERAGE OF SAMPLES TAKEN IN ACCORDANCE WITH
+24 THIS SUBSECTION OVER THE IMMEDIATELY PRECEDING 12 MONTHS.
+25 (2) (II) EACH SAMPLE SHALL BE TAKEN:
+26 (I) 1. DURING NORMAL OPERATING CONDITIONS, AS
+27 SPECIFIED IN DEPARTMENT REGULATIONS;
+28 (II) AT THE POINT WHERE SEWAGE SLUDGE LEAVES THE
+29 WASTEWATER TREATMENT FACILITY; AND
+30 (III) 2. AT A FREQUENCY SPECIFIED BY THE DEPARTMENT IN
+31 REGULATION, BUT NOT LESS THAN QUARTERLY.
+
+SENATE BILL 719 11
+1 (2) ON OR BEFORE OCTOBER 1, 2027 FOR A PERIOD OF NOT MORE
+2 THAN 12 MONTHS FOLLOWING THE DATE THAT COMMINGLING OPERATIONS BEGIN,
+3 A COMMINGLING OPERATION MAY USE A MASS BALANCE CALCULATION TO
+4 DETERMINE THE CONCENTRATION OF REGULATED PFAS IN THE COMMINGLED
+5 PRODUCT.
+6 (3) (I) SAMPLES SHALL BE ANALYZED USING A METHOD
+7 APPROVED BY THE DEPARTMENT AND CONDUCTED BY A LABORATORY CERTIFIED
+8 TO PERFORM THE METHOD AND SUBJECT TO A LABORATORY LEVEL OF
+9 QUANTITATION FOR BIOSOLIDS ANALYSIS NOT TO EXCEED 2 PARTS PER BILLION:
+10 1. USING THE U.S. ENVIRONMENTAL PROTECTION
+11 AGENCY’S METHOD 1633A OR AN EQUIVALENT METHOD APPROVED BY THE
+12 DEPARTMENT;
+13 2. AT A CERTIFIED OR ACCREDITED LABORATORY; AND
+14 3. SUBJECT TO A REPORTING LEVEL ESTABLISHED BY
+15 THE DEPARTMENT.
+16 (II) THE DEPARTMENT SHALL ASSIST SEWAGE SLUDGE
+17 GENERATORS IN IDENTIFYING QUALIFIED LABORATORIES UNDER THIS
+18 PARAGRAPH.
+19 (4) THE DEPARTMENT MAY ESTABLISH ADDITIONAL MONITORING
+20 REQUIREMENTS FOR MATERIALS BLENDED COMMINGLED IN ACCORDANCE WITH
+21 SUBSECTION (D) OF THIS SECTION.
+22 (H) (1) IN ACCORDANCE WITH THE FEDERAL CLEAN WATER ACT, THE
+23 DEPARTMENT AND PRETREATMENT AUTHORITIES MAY ESTABLISH PRETREATMENT
+24 STANDARDS FOR INDUSTRIAL USERS THAT DISCHARGE PER– AND
+25 POLYFLUOROALKYL SUBSTANCES AT LEVELS THAT EXCEED ACTION LEVELS
+26 ESTABLISHED BY THE DEPARTMENT OR THE PRETREATMENT AUTHORITY UNDER
+27 AN INDUSTRIAL PRETREATMENT PROGRAM.
+28 (2) IF A PUBLICLY OWNED TREATMENT WORKS DOES NOT HAVE AN
+29 INDUSTRIAL PRETREATMENT PROGRAM, AND IT IS DETERMINED THAT SEWAGE
+30 SLUDGE PRODUCED FOR LAND APPLICATION BY THE PUBLICLY OWNED TREATMENT
+31 WORKS HAS A TOTAL CONCENTRATION OF REGULATED PFAS EQUAL TO OR
+32 GREATER THAN 25 PARTS PER BILLION, THE DEPARTMENT SHALL, IN
+33 CONSULTATION WITH THE PUBLICLY OWNED TREATMENT WORKS, DEVELOP
+34 DISCHARGE PERMITS FOR INDUSTRIAL USERS IN A MANNER CALCULATED TO
+35 ESTABLISH LOCAL LIMITS FOR PER– AND POLYFLUOROALKYL SUBSTANCES
+
+12 SENATE BILL 719
+1 CONSISTENT WITH EXISTING AUTHORITIES UNDER THE FEDERAL CLEAN WATER
+2 ACT EVALUATE THE CONTRIBUTION FROM INDUSTRIAL USERS AND DETERMINE
+3 APPROPRIATE CONTROLS TO MEET APPLICABLE STANDARDS.
+4 (3) THE DEPARTMENT SHALL:
+5 (I) ISSUE GUIDANCE TO SUPPORT PUBLICLY OWNED
+6 TREATMENT WORKS IN THE IMPLEMENTATION OF THIS SUBSECTION; AND
+7 (II) PROVIDE REASONABLE TECHNICAL ASSISTANCE AS
+8 REQUESTED BY LOCAL JURISDICTIONS IN THE EXERCISE OF LOCAL LIMITS
+9 AUTHORITY UNDER THE FEDERAL CLEAN WATER ACT.
+10 (4) A LOCAL JURISDICTION OR A PRETREATMENT AUTHORITY MAY
+11 SET APPROPRIATE RATES AND FEES FOR INDUSTRIAL USERS, INDIVIDUALLY OR AS
+12 A CLASS, THAT ARE DETERMINED TO DISCHARGE PER– AND POLYFLUOROALKYL
+13 SUBSTANCES INTO THE WASTEWATER TREATMENT SYSTEM AT LEVELS THAT
+14 NECESSITATE THE IMPLEMENTATION OF MITIGATION MEASURES.
+15 (5) THIS SECTION MAY NOT BE INTERPRETED TO LIMIT THE
+16 AUTHORITY OF A LOCAL JURISDICTION OR A PRETREATMENT AUTHORITY TO SET
+17 LOCAL LIMITS THAT LEAD TO REDUCTIONS OF PER– AND POLYFLUOROALKYL
+18 SUBSTANCES THAT EXCEED THE REDUCTIONS REQUIRED UNDER THIS SECTION.
+19 (I) ALL SEWAGE SLUDGE GENERATORS ARE ENCOURAGED TO IDENTIFY
+20 POTENTIAL SOURCES OF PFOA AND PFOS LOADING TO THEIR WASTEWATER
+21 TREATMENT SYSTEMS AND TO TAKE STEPS TO REDUCE THE TOTAL CONCENTRATION
+22 OF REGULATED PFAS IN THE SEWAGE SLUDGE PRODUCED BY THOSE SYSTEMS.
+23 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+24 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      ( w t G S a p t t G f h a t d o _ a _ o _ A S F d o s s o p c s s w t c g s a s t c r a r e m p p s f c i u t d c p a p c f]
+[DELETED:  S  a r B  A  S  A  ( B  A  S  A  ( B  A  S  A  (  S T A 9  ( I  ( “s:   ( A   ( A s–,RCS SS  .  ( “ s m a t l s s s o d  ( ( “ s g m a p w o o o a f u   ( “]
+[DELETED: S 3    ( T    ( T   ( “ s 9  ( ( T o   ( T o o  ( I s   ( A   ( P   ( A m   ( P   ( P p   ( A s f t s s i r  ( I a t t c u s ( o t s i a r f t l a o s s t D o t E   ( M    ( W    ( F a l s b l b t n r o c o c v a r b t D o A]
+[DELETED:  S    ( T a   ( T   ( T   ( T r   ( T s   ( T    ( S l    ( A    ( M    ( C   ( A h   ( S   ( R l  ( ( T d   ( T f   ( T    ( T v o s s g b a s s g    ( T    ( T a c o m a r s s]
+[DELETED: S 5    ( T p    ( T t() ( N   “CE M S M F T P O R T C O ()( “CPO O R  M T CN A M I A W M E U S G O T SN O T)R :  () P  () P;I   () APAPI    ()( “”.  ()( “”. () H S A O T T L A O A S A P C S S T A T.() OO1,272N C   ( P M N A S S O A P S S T A O M L I T S O P C S S H A T    S5N ]
+[DELETED:  S  (  A T C O R  T I E T O    N 550 M A T S S O P C S T A O M L O I A W E  F )().() ( OS3,2,O1,2N E    C   A S S G DS T M E U S G O T SN T I) S H A T C O R  T I    55N S T T R O T S A I E:  ()   O  E   I  N 5;  () IE S O A P C S B C I A W I I O T M N B S T T T A E ). ( ()  P T B O O C P O  A  A L O P MH U ASPA SE I A W P E G ).  () IPIF    N :   1 SD I N T ET   2  N A T B C T L U T P DS T AG T T T C O R  I TP]
+[DELETED: S 7  () ( H A C   O S S O P C1,2    55 ( F12  S  U F N ) A O P D U P  O T  () AT  E   () S:IU   1  S S R E L  S B;   2  S F L A P A P W S W D B T Y ;   3 P().   ( A1 L  D B L A S S U P  O T SN T L A)    () H  () IH O O E P O L A TD ]
+[DELETED:  S   () IH L G F E C A I W T L T W T S S W B() ( H S A O T A S S T P S S T I I F L ( I A S S G DS T G N)    N 5  () O A S T S I A  N );  () IE A M P I A W  ). ( S T S C U T S B D T D T C O    SPPAP     ( ()     1  D I C W T;   2 IP S S O  AS;   3  A T T S S C IT O R S O  A PAPT S25;  ]
+[DELETED: S 9   4 GTS S,S S ;   5 IE   ),.N   () IH E A S I I A   1  E O P C H    2  I O T S A    SP;   3 T I O SMS T T R T T C O R  T  5.  () IIF D T M P F W T    N 5S T M P S I A T A T D I C W T. ( () E(X A P I S II O TH  U T S T T E W  M C O T S T S R U T  () I S S G M R A T M G A S E O T D A   1 E;S ]
+[DELETED:  S    2  ( () TH E U T S A M AE DY O S  () INN  E C ( A:  () H PN   () IA N A S S O A P S S T L I T E H D T G I O O C W T P O A ( T E S P A S S() ( () FE(IO X A P I P  O TN F T P O A C W T O T SN T T C O R  2. ( () E:IA  () 1 DU N O CS A E;  () IT T P W S S L TY   () 2 AIT EN .]
+[DELETED: S 1   OO1,2 C     C O M U A M B C T T C O R  I T C ( () A S B A U A M E P T M A S T A L L O  :   1 UU.E T  N R’1YS M A O A E M A B T;   2 A;Y    3  E.  () TIH E S A S S I I Q L U T ( T E M E A M F M B C I A W D ).() ( ICWAN W F L A CT T F I U T D PR A S A L T E A L E (  P PM A I I D T S H A T C O R  E T O T  P P BN T E SL I5,D W T P O T WS D P F I U I A M C T L L F PR A P S]
+[DELETED:  S  W E A U T F L A E T C F I U A D ( TD: E  () S G T S P ON   () IR R T A A B L J I T E O L L L A CWA. ( LS  CS T A D T D PR A P I T W T S A L T (  S M N B I T L T L T L T R O PR A P() L S S G A E T I S O  A  L T T WAP  S.  S A B I F E T t A s t e O          G               ]

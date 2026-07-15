@@ -1,0 +1,483 @@
+Title: (House Bill 1372)
+Official Title: (House Bill 1372)
+Number of Sections: 14
+Source: versions - Chapter - Public Health - Office of Health Care Quality Information and Maryland Health Centralization Commission
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 369
+Chapter 369
+AN ACT concerning
+Public Health – Office of Health Care Quality Information and Maryland
+Department of Health Centralization Commission
+FOR the purpose of requiring the Maryland Health Care Commission, in collaboration with
+the Office of Health Care Quality within the Maryland Department of Health, to
+develop a process to receive and publish certain inspection information on a certain
+website; establishing the Maryland Department of Health Centralization
+Commission to provide certain advice and recommendations relating to the
+relationship between the Maryland Department of Health and the health
+occupations boards; requiring the Secretary of Information Technology to ensure
+that minimum cybersecurity requirements are met by all health occupations boards
+each health occupations board to annually report certain information to the
+Department of Information Technology; and generally relating to the sharing of
+inspection information and the oversight of health occupations boards in the State.
+BY repealing and reenacting, with amendments,
+Article – Health – General
+
+Section 2:
+Section 19–109(b)
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Health Occupations
+
+Section 3:
+Section 1–102
+Annotated Code of Maryland
+(2021 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Health Occupations
+
+Section 4:
+Section 1–103 and 1–104 to be under the amended subtitle “Subtitle 1. Definitions
+and Policy”
+Annotated Code of Maryland
+(2021 Replacement Volume and 2025 Supplement)
+
+Section 5:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Health – General
+19–109.
+– 1 –
+Ch. 369 2026 LAWS OF MARYLAND
+(b) In addition to the duties set forth elsewhere in this subtitle, the Commission
+shall:
+(1) Adopt rules and regulations that relate to its meetings, minutes, and
+transactions;
+(2) Keep minutes of each meeting;
+(3) Prepare annually a budget proposal that includes the estimated income
+of the Commission and proposed expenses for its administration and operation;
+(4) Beginning December 1, 2000, and each December 1 thereafter, submit
+to the Governor, the Secretary, and, subject to § 2–1257 of the State Government Article,
+the General Assembly an annual report on the operations and activities of the Commission
+during the preceding fiscal year, including:
+(i) A copy of each summary, compilation, and supplementary report
+required by this subtitle; and
+(ii) Any other fact, suggestion, or policy recommendation that the
+Commission considers necessary; [and]
+(5) Except for confidential or privileged medical or patient information,
+make:
+(i) Each report filed and each summary, compilation, and report
+required under this subtitle available for public inspection at the office of the Commission
+during regular business hours; and
+(ii) Each summary, compilation, and report available to any other
+State agency on request; AND
+(6) IN COLLABORATION WITH THE OFFICE OF HEALTH CARE
+QUALITY, DEVELOP A PROCESS TO RECEIVE THE FOLLOWING INFORMATION AND
+PUBLISH IT ON THE COMMISSION’S MARYLAND QUALITY REPORTING WEBSITE FOR
+EACH APPLICABLE FACILITY:
+(I) THE DATE OF THE OFFICE’S MOST RECENT INSPECTION;
+AND
+(II) ANY ASSOCIATED RATINGS OR OTHER QUALITY METRICS
+CALCULATED BY THE OFFICE BASED ON THE MOST RECENT INSPECTION; AND
+(III) THE DATE OF THE NEXT SCHEDULED INSPECTION; AND
+– 2 –
+WES MOORE, Governor Ch. 369
+(IV) IF APPLICABLE, A STATEMENT THAT THE FACILITY HAS NOT
+BEEN INSPECTED DURING THE TIME FRAME REQUIRED BY STATUTE OR
+REGULATION.
+Article – Health Occupations
+Subtitle 1. Definitions AND POLICY.
+1–102.
+(a) It is the policy of the State that health occupations should be regulated and
+controlled as provided in this article to protect the health, safety, and welfare of the public.
+(b) The health occupations boards established by this article, the majority of
+whose members are licensed or certified under this article, are created to function as
+independent boards, with the intent that a peer group is best qualified to regulate, control,
+and otherwise discipline in a fair and unbiased manner the licensees or certificate holders
+who practice in the State.
+1–103.
+(A) IN THIS SECTION, “COMMISSION” MEANS THE MARYLAND
+DEPARTMENT OF HEALTH CENTRALIZATION COMMISSION.
+(B) THERE IS A MARYLAND DEPARTMENT OF HEALTH CENTRALIZATION
+COMMISSION.
+(C) THE PURPOSE OF THE COMMISSION IS TO PROVIDE ONGOING ADVICE
+AND RECOMMENDATIONS TO THE GENERAL ASSEMBLY ON HOW BEST TO IMPROVE
+THE RELATIONSHIP INCREASE COLLABORATION BETWEEN THE DEPARTMENT AND
+THE HEALTH OCCUPATIONS BOARDS TO ACHIEVE GREATER EFFICIENCY,
+TRANSPARENCY, AND ACCOUNTABILITY.
+(D) THE COMMISSION CONSISTS OF THE FOLLOWING MEMBERS:
+(1) ONE MEMBER OF THE SENATE OF MARYLAND, APPOINTED BY THE
+PRESIDENT OF THE SENATE;
+(2) ONE MEMBER OF THE HOUSE OF DELEGATES, APPOINTED BY THE
+SPEAKER OF THE HOUSE;
+(3) THE SECRETARY, OR THE SECRETARY’S DESIGNEE;
+(4) THE DEPUTY SECRETARY FOR PUBLIC HEALTH SERVICES;
+– 3 –
+Ch. 369 2026 LAWS OF MARYLAND
+(5) THE EXECUTIVE DIRECTOR OF THE STATE BOARD OF NURSING,
+OR THE EXECUTIVE DIRECTOR’S DESIGNEE;
+(6) THE EXECUTIVE DIRECTOR OF THE STATE BOARD OF
+PHYSICIANS, OR THE EXECUTIVE DIRECTOR’S DESIGNEE;
+(7) THE EXECUTIVE DIRECTOR OF THE STATE BOARD OF
+PHARMACY, OR THE EXECUTIVE DIRECTOR’S DESIGNEE;
+(8) THE EXECUTIVE DIRECTOR OF THE STATE BOARD OF SOCIAL
+WORK EXAMINERS, OR THE EXECUTIVE DIRECTOR’S DESIGNEE;
+(9) THE EXECUTIVE DIRECTOR OF THE STATE BOARD OF
+ENVIRONMENTAL HEALTH SPECIALISTS, OR THE EXECUTIVE DIRECTOR’S
+DESIGNEE THREE MEMBERS WHO ARE THE EXECUTIVE DIRECTORS, OR THE
+EXECUTIVE DIRECTORS’ DESIGNEES, OF HEALTH OCCUPATIONS BOARDS NOT
+OTHERWISE REPRESENTED ON THE COMMISSION, DESIGNATED JOINTLY BY THE
+HEALTH OCCUPATIONS BOARDS NOT OTHERWISE REPRESENTED ON THE
+COMMISSION; AND
+(10) ANY ADDITIONAL MEMBERS APPOINTED BY THE SECRETARY
+COCHAIRS THAT THE SECRETARY DETERMINES COCHAIRS, IN CONSULTATION WITH
+THE HEALTH OCCUPATIONS BOARDS, DETERMINE TO BE NECESSARY TO
+ACCOMPLISH THE GOALS OF THE COMMISSION.
+(E) THE SECRETARY, OR THE SECRETARY’S DESIGNEE, SHALL CHAIR THE
+MEMBER OF THE SENATE OF MARYLAND AND THE MEMBER OF THE HOUSE OF
+DELEGATES APPOINTED UNDER SUBSECTION (D) OF THIS SECTION SHALL COCHAIR
+THE COMMISSION.
+(F) THE DEPARTMENT OF LEGISLATIVE SERVICES SHALL PROVIDE STAFF
+FOR THE COMMISSION.
+(G) (1) EACH HEALTH OCCUPATION BOARD ESTABLISHED UNDER THIS
+ARTICLE SHALL DESIGNATE A REPRESENTATIVE OF THE HEALTH OCCUPATION
+BOARD TO SERVE AS A LIAISON TO BE AVAILABLE TO WORK WITH THE COMMISSION.
+(2) EACH HEALTH OCCUPATION BOARD SHALL PROVIDE, AS SOON AS
+PRACTICABLE BUT NOT LATER THAN 10 BUSINESS DAYS AFTER RECEIVING A
+REQUEST, ANY INFORMATION REQUESTED BY THE COMMISSION.
+– 4 –
+WES MOORE, Governor Ch. 369
+(H) A MEMBER OF THE COMMISSION:
+(1) MAY NOT RECEIVE COMPENSATION AS A MEMBER OF THE
+COMMISSION; BUT
+(2) IS ENTITLED TO REIMBURSEMENT FOR EXPENSES UNDER THE
+STANDARD STATE TRAVEL REGULATIONS, AS PROVIDED IN THE STATE BUDGET.
+(I) THE COMMISSION SHALL:
+(1) PROVIDE RECOMMENDATIONS REGARDING HOW BEST TO GRANT
+AUTHORITY TO THE DEPARTMENT TO ENSURE THAT:
+(I) EACH HEALTH OCCUPATION BOARD REMEDIES AUDIT
+FINDINGS AND VIOLATIONS OF LAW, REGULATION, OR POLICY; AND
+(II) EACH HEALTH OCCUPATION BOARD ESTABLISHES POLICIES
+AND PROCEDURES FOR, AS APPLICABLE:
+
+Section 6:
+1. THE TIMELY PROCESSING OF APPLICATIONS;
+
+Section 7:
+2. RESPONDING TO COMPLAINTS;
+
+Section 8:
+3. CONDUCTING INVESTIGATIONS AND INSPECTIONS;
+
+Section 9:
+4. CONDUCTING CRIMINAL HISTORY RECORDS CHECKS,
+INCLUDING THE RECEIPT OF REVISED CRIMINAL HISTORY INFORMATION FROM THE
+CENTRAL REPOSITORY AFTER THE DATE OF AN INITIAL CRIMINAL HISTORY
+RECORDS CHECK;
+
+Section 10:
+5. THE COLLECTION OF FEES AND THE ACCOUNTING OF
+FINANCIAL ACTIVITIES, INCLUDING THE ASSESSMENT OF PENALTIES FOR
+VIOLATIONS OF THOSE POLICIES AND PROCEDURES;
+
+Section 11:
+6. TAKING APPROPRIATE ACTIONS FOR LICENSE
+APPLICATION FRAUD, INCLUDING THE ASSESSMENT OF FINES; AND
+
+Section 12:
+7. ANY OTHER AREAS IN WHICH ACTION IS NEEDED, AS
+DETERMINED BY THE SECRETARY COMMISSION; AND
+(2) PROVIDE RECOMMENDATIONS ON HOW BEST TO:
+– 5 –
+Ch. 369 2026 LAWS OF MARYLAND
+(I) ESTABLISH A SINGLE, COMPREHENSIVE LICENSURE
+SYSTEM TO BE USED BY ALL HEALTH OCCUPATIONS BOARDS;
+(II) AUTHORIZE THE USE OF HEALTH OCCUPATION BOARD
+REGULATORY FEES TO SUPPORT THE SINGLE, COMPREHENSIVE LICENSURE
+SYSTEM;
+(I) ESTABLISHING A COMPREHENSIVE LICENSURE SYSTEM
+THAT MAY BE USED BY A HEALTH OCCUPATIONS BOARD;
+(II) AUTHORIZING A HEALTH OCCUPATIONS BOARD THAT USES
+THE COMPREHENSIVE LICENSURE SYSTEM TO USE LICENSE FEES TO SUPPORT THE
+SYSTEM;
+(III) CONSOLIDATE CONSOLIDATING ADMINISTRATIVE
+FUNCTIONS TO ESTABLISH AND ENHANCE EFFICIENCY AND CONTROL IN ALL AREAS,
+INCLUDING THROUGH THE USE OF EXISTING DEPARTMENT SYSTEMS FOR E–MAIL,
+FINANCE, AND HUMAN RESOURCES SERVICES ACROSS ALL HEALTH OCCUPATIONS
+BOARDS; AND
+(IV) INCREASE INCREASING PUBLIC AWARENESS AND USAGE OF
+THE MARYLAND QUALITY REPORTING WEBSITE OF THE MARYLAND HEALTH CARE
+COMMISSION TO ASSIST INDIVIDUALS WITH SELECTING APPROPRIATE HEALTH
+CARE SETTINGS.
+(J) ON OR BEFORE OCTOBER DECEMBER 1 EACH YEAR, BEGINNING IN
+2026, THE COMMISSION SHALL REPORT ITS FINDINGS AND RECOMMENDATIONS,
+INCLUDING ANY DRAFT LEGISLATION, TO THE GOVERNOR AND, IN ACCORDANCE
+WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, THE SENATE FINANCE
+COMMITTEE, THE HOUSE HEALTH COMMITTEE, AND THE JOINT AUDIT AND
+EVALUATION COMMITTEE.
+1–104.
+THE SECRETARY OF INFORMATION TECHNOLOGY SHALL ENSURE THAT
+MINIMUM CYBERSECURITY REQUIREMENTS ARE MET BY ALL HEALTH OCCUPATIONS
+BOARDS ESTABLISHED UNDER THIS ARTICLE.
+ON OR BEFORE JULY 1 EACH YEAR, EACH HEALTH OCCUPATIONS BOARD
+SHALL CERTIFY TO THE SECRETARY OF INFORMATION TECHNOLOGY THAT THE
+INFORMATION TECHNOLOGY SYSTEMS USED BY THE HEALTH OCCUPATIONS BOARD
+MEET THE STATE MINIMUM CYBERSECURITY REQUIREMENTS.
+– 6 –
+WES MOORE, Governor Ch. 369
+
+Section 13:
+SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Health
+Centralization Commission established under § 1–103 of the Health Occupations Article,
+as enacted by Section 1 of this Act, shall hold its first meeting on or before July 1, 2026.
+
+Section 14:
+SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act is an emergency
+measure, is necessary for the immediate preservation of the public health or safety, has
+been passed by a yea and nay vote supported by three–fifths of all the members elected to
+each of the two Houses of the General Assembly, and shall take effect from the date it is
+enacted.
+Approved by the Governor, May 12, 2026.
+– 7 –
+[DELETED: W C e t M D o H C t p c a a r r t t b t M D o H a t h b r t S o I t e h o b t a r c i t t o I T a g r t t s oA(AA(AA(S]
+[DELETED:  2 ( I ( A ( K ( P ( B  ( A  ( A a] ( E f c o p m o p i  ( E r f a e s c a r  ( E ( IOH C W T F O E AY  ONS A U E’MQY  () TO’H D O T FES M R IN  () IN A R O O Q M FN ;  () T;IHN ]
+[DELETED: W C  () IVFE  I D T T F R B S ON . O( I( T h o b e b t a t m o m a l o c u t a a c t f a() I,“C”N T SN ON M T AHCC. E E O() TMDHH A E E E.() TH O E S E H O B T A G EYY .) TC:H O ( OSM E AD S; E ( OHD O ES H; O ( TS,S’; EY  EYS ( TDSPHS; E E U E E]
+[DELETED:  2  ( TEDSBN X I T O UG X IRSD’; ( TEDS X I O T T O O,ED’;S  X IRS ( TEDS X I O T T O O,ED’;Y  X IRS ( TEDSB X I O T T O O OE,ED’; XS  X IRS ( TEDS X I O T T O OHS,ED E PS O T X IRS H M W A T E DS O T DS DS O H O B N R O T ON D J B T O B N O R O T;N  ( A A M A B T E ES  H O BS D T B N T O.() TS,S’,H EY  EYSE  H O T E O A A T M O T O OM( D  O.() TDLH E E E O.() ( A H O B U T S D A R O T H O ON. ( EE  B N L T  B D A R AT  ONC.]
+[DELETED: W C() AC:  O (  N R C A A M O T;N  (  E T R F E U TSTR,S. T R ES  T() TC:H O (  E:  () A H O B R AW N Y ,;  () IAR E:   1 T;S   2 R;S   3 C;S   4 CS E A T D O A I C H   5  AS I T A O P F   6  A A F LD S ;   7 AD  E ON C; ( P:]
+[DELETED:  2   () ES A SE C LS  () IU T U O H O B F T S T SE C L ) S A C L S ) IU  () CIO O AS EEML–E S   () IVN N A U E A E AQRMH T A I W S A HS() OOD1N O B C E  E YR B I,CT O S R I F A RSN  OD IG   O T T O RE T E I27SGA,S,HHC,JE T O E OE A T O U AC. OTSI E O N E S E TJ1 O B U  E YR E H O B C T T E O N E T TI T.]
+[DELETED: W CS 2 A B I F E T t M HS]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 369
+Chapter 369
+(House Bill 1372)
+AN ACT concerning
+Public Health – Office of Health Care Quality Information and Maryland
+Department of Health Centralization Commission
+FOR the purpose of requiring the Maryland Health Care Commission, in collaboration with
+the Office of Health Care Quality within the Maryland Department of Health, to
+develop a process to receive and publish certain inspection information on a certain
+website; establishing the Maryland Department of Health Centralization
+Commission to provide certain advice and recommendations relating to the
+relationship between the Maryland Department of Health and the health
+occupations boards; requiring the Secretary of Information Technology to ensure
+that minimum cybersecurity requirements are met by all health occupations boards
+each health occupations board to annually report certain information to the
+Department of Information Technology; and generally relating to the sharing of
+inspection information and the oversight of health occupations boards in the State.
+BY repealing and reenacting, with amendments,
+Article – Health – General
+Section 19–109(b)
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Health Occupations
+Section 1–102
+Annotated Code of Maryland
+(2021 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Health Occupations
+Section 1–103 and 1–104 to be under the amended subtitle “Subtitle 1. Definitions
+and Policy”
+Annotated Code of Maryland
+(2021 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Health – General
+19–109.
+– 1 –
+
+Ch. 369 2026 LAWS OF MARYLAND
+(b) In addition to the duties set forth elsewhere in this subtitle, the Commission
+shall:
+(1) Adopt rules and regulations that relate to its meetings, minutes, and
+transactions;
+(2) Keep minutes of each meeting;
+(3) Prepare annually a budget proposal that includes the estimated income
+of the Commission and proposed expenses for its administration and operation;
+(4) Beginning December 1, 2000, and each December 1 thereafter, submit
+to the Governor, the Secretary, and, subject to § 2–1257 of the State Government Article,
+the General Assembly an annual report on the operations and activities of the Commission
+during the preceding fiscal year, including:
+(i) A copy of each summary, compilation, and supplementary report
+required by this subtitle; and
+(ii) Any other fact, suggestion, or policy recommendation that the
+Commission considers necessary; [and]
+(5) Except for confidential or privileged medical or patient information,
+make:
+(i) Each report filed and each summary, compilation, and report
+required under this subtitle available for public inspection at the office of the Commission
+during regular business hours; and
+(ii) Each summary, compilation, and report available to any other
+State agency on request; AND
+(6) IN COLLABORATION WITH THE OFFICE OF HEALTH CARE
+QUALITY, DEVELOP A PROCESS TO RECEIVE THE FOLLOWING INFORMATION AND
+PUBLISH IT ON THE COMMISSION’S MARYLAND QUALITY REPORTING WEBSITE FOR
+EACH APPLICABLE FACILITY:
+(I) THE DATE OF THE OFFICE’S MOST RECENT INSPECTION;
+AND
+(II) ANY ASSOCIATED RATINGS OR OTHER QUALITY METRICS
+CALCULATED BY THE OFFICE BASED ON THE MOST RECENT INSPECTION; AND
+(III) THE DATE OF THE NEXT SCHEDULED INSPECTION; AND
+– 2 –
+
+WES MOORE, Governor Ch. 369
+(IV) IF APPLICABLE, A STATEMENT THAT THE FACILITY HAS NOT
+BEEN INSPECTED DURING THE TIME FRAME REQUIRED BY STATUTE OR
+REGULATION.
+Article – Health Occupations
+Subtitle 1. Definitions AND POLICY.
+1–102.
+(a) It is the policy of the State that health occupations should be regulated and
+controlled as provided in this article to protect the health, safety, and welfare of the public.
+(b) The health occupations boards established by this article, the majority of
+whose members are licensed or certified under this article, are created to function as
+independent boards, with the intent that a peer group is best qualified to regulate, control,
+and otherwise discipline in a fair and unbiased manner the licensees or certificate holders
+who practice in the State.
+1–103.
+(A) IN THIS SECTION, “COMMISSION” MEANS THE MARYLAND
+DEPARTMENT OF HEALTH CENTRALIZATION COMMISSION.
+(B) THERE IS A MARYLAND DEPARTMENT OF HEALTH CENTRALIZATION
+COMMISSION.
+(C) THE PURPOSE OF THE COMMISSION IS TO PROVIDE ONGOING ADVICE
+AND RECOMMENDATIONS TO THE GENERAL ASSEMBLY ON HOW BEST TO IMPROVE
+THE RELATIONSHIP INCREASE COLLABORATION BETWEEN THE DEPARTMENT AND
+THE HEALTH OCCUPATIONS BOARDS TO ACHIEVE GREATER EFFICIENCY,
+TRANSPARENCY, AND ACCOUNTABILITY.
+(D) THE COMMISSION CONSISTS OF THE FOLLOWING MEMBERS:
+(1) ONE MEMBER OF THE SENATE OF MARYLAND, APPOINTED BY THE
+PRESIDENT OF THE SENATE;
+(2) ONE MEMBER OF THE HOUSE OF DELEGATES, APPOINTED BY THE
+SPEAKER OF THE HOUSE;
+(3) THE SECRETARY, OR THE SECRETARY’S DESIGNEE;
+(4) THE DEPUTY SECRETARY FOR PUBLIC HEALTH SERVICES;
+– 3 –
+
+Ch. 369 2026 LAWS OF MARYLAND
+(5) THE EXECUTIVE DIRECTOR OF THE STATE BOARD OF NURSING,
+OR THE EXECUTIVE DIRECTOR’S DESIGNEE;
+(6) THE EXECUTIVE DIRECTOR OF THE STATE BOARD OF
+PHYSICIANS, OR THE EXECUTIVE DIRECTOR’S DESIGNEE;
+(7) THE EXECUTIVE DIRECTOR OF THE STATE BOARD OF
+PHARMACY, OR THE EXECUTIVE DIRECTOR’S DESIGNEE;
+(8) THE EXECUTIVE DIRECTOR OF THE STATE BOARD OF SOCIAL
+WORK EXAMINERS, OR THE EXECUTIVE DIRECTOR’S DESIGNEE;
+(9) THE EXECUTIVE DIRECTOR OF THE STATE BOARD OF
+ENVIRONMENTAL HEALTH SPECIALISTS, OR THE EXECUTIVE DIRECTOR’S
+DESIGNEE THREE MEMBERS WHO ARE THE EXECUTIVE DIRECTORS, OR THE
+EXECUTIVE DIRECTORS’ DESIGNEES, OF HEALTH OCCUPATIONS BOARDS NOT
+OTHERWISE REPRESENTED ON THE COMMISSION, DESIGNATED JOINTLY BY THE
+HEALTH OCCUPATIONS BOARDS NOT OTHERWISE REPRESENTED ON THE
+COMMISSION; AND
+(10) ANY ADDITIONAL MEMBERS APPOINTED BY THE SECRETARY
+COCHAIRS THAT THE SECRETARY DETERMINES COCHAIRS, IN CONSULTATION WITH
+THE HEALTH OCCUPATIONS BOARDS, DETERMINE TO BE NECESSARY TO
+ACCOMPLISH THE GOALS OF THE COMMISSION.
+(E) THE SECRETARY, OR THE SECRETARY’S DESIGNEE, SHALL CHAIR THE
+MEMBER OF THE SENATE OF MARYLAND AND THE MEMBER OF THE HOUSE OF
+DELEGATES APPOINTED UNDER SUBSECTION (D) OF THIS SECTION SHALL COCHAIR
+THE COMMISSION.
+(F) THE DEPARTMENT OF LEGISLATIVE SERVICES SHALL PROVIDE STAFF
+FOR THE COMMISSION.
+(G) (1) EACH HEALTH OCCUPATION BOARD ESTABLISHED UNDER THIS
+ARTICLE SHALL DESIGNATE A REPRESENTATIVE OF THE HEALTH OCCUPATION
+BOARD TO SERVE AS A LIAISON TO BE AVAILABLE TO WORK WITH THE COMMISSION.
+(2) EACH HEALTH OCCUPATION BOARD SHALL PROVIDE, AS SOON AS
+PRACTICABLE BUT NOT LATER THAN 10 BUSINESS DAYS AFTER RECEIVING A
+REQUEST, ANY INFORMATION REQUESTED BY THE COMMISSION.
+– 4 –
+
+WES MOORE, Governor Ch. 369
+(H) A MEMBER OF THE COMMISSION:
+(1) MAY NOT RECEIVE COMPENSATION AS A MEMBER OF THE
+COMMISSION; BUT
+(2) IS ENTITLED TO REIMBURSEMENT FOR EXPENSES UNDER THE
+STANDARD STATE TRAVEL REGULATIONS, AS PROVIDED IN THE STATE BUDGET.
+(I) THE COMMISSION SHALL:
+(1) PROVIDE RECOMMENDATIONS REGARDING HOW BEST TO GRANT
+AUTHORITY TO THE DEPARTMENT TO ENSURE THAT:
+(I) EACH HEALTH OCCUPATION BOARD REMEDIES AUDIT
+FINDINGS AND VIOLATIONS OF LAW, REGULATION, OR POLICY; AND
+(II) EACH HEALTH OCCUPATION BOARD ESTABLISHES POLICIES
+AND PROCEDURES FOR, AS APPLICABLE:
+1. THE TIMELY PROCESSING OF APPLICATIONS;
+2. RESPONDING TO COMPLAINTS;
+3. CONDUCTING INVESTIGATIONS AND INSPECTIONS;
+4. CONDUCTING CRIMINAL HISTORY RECORDS CHECKS,
+INCLUDING THE RECEIPT OF REVISED CRIMINAL HISTORY INFORMATION FROM THE
+CENTRAL REPOSITORY AFTER THE DATE OF AN INITIAL CRIMINAL HISTORY
+RECORDS CHECK;
+5. THE COLLECTION OF FEES AND THE ACCOUNTING OF
+FINANCIAL ACTIVITIES, INCLUDING THE ASSESSMENT OF PENALTIES FOR
+VIOLATIONS OF THOSE POLICIES AND PROCEDURES;
+6. TAKING APPROPRIATE ACTIONS FOR LICENSE
+APPLICATION FRAUD, INCLUDING THE ASSESSMENT OF FINES; AND
+7. ANY OTHER AREAS IN WHICH ACTION IS NEEDED, AS
+DETERMINED BY THE SECRETARY COMMISSION; AND
+(2) PROVIDE RECOMMENDATIONS ON HOW BEST TO:
+– 5 –
+
+Ch. 369 2026 LAWS OF MARYLAND
+(I) ESTABLISH A SINGLE, COMPREHENSIVE LICENSURE
+SYSTEM TO BE USED BY ALL HEALTH OCCUPATIONS BOARDS;
+(II) AUTHORIZE THE USE OF HEALTH OCCUPATION BOARD
+REGULATORY FEES TO SUPPORT THE SINGLE, COMPREHENSIVE LICENSURE
+SYSTEM;
+(I) ESTABLISHING A COMPREHENSIVE LICENSURE SYSTEM
+THAT MAY BE USED BY A HEALTH OCCUPATIONS BOARD;
+(II) AUTHORIZING A HEALTH OCCUPATIONS BOARD THAT USES
+THE COMPREHENSIVE LICENSURE SYSTEM TO USE LICENSE FEES TO SUPPORT THE
+SYSTEM;
+(III) CONSOLIDATE CONSOLIDATING ADMINISTRATIVE
+FUNCTIONS TO ESTABLISH AND ENHANCE EFFICIENCY AND CONTROL IN ALL AREAS,
+INCLUDING THROUGH THE USE OF EXISTING DEPARTMENT SYSTEMS FOR E–MAIL,
+FINANCE, AND HUMAN RESOURCES SERVICES ACROSS ALL HEALTH OCCUPATIONS
+BOARDS; AND
+(IV) INCREASE INCREASING PUBLIC AWARENESS AND USAGE OF
+THE MARYLAND QUALITY REPORTING WEBSITE OF THE MARYLAND HEALTH CARE
+COMMISSION TO ASSIST INDIVIDUALS WITH SELECTING APPROPRIATE HEALTH
+CARE SETTINGS.
+(J) ON OR BEFORE OCTOBER DECEMBER 1 EACH YEAR, BEGINNING IN
+2026, THE COMMISSION SHALL REPORT ITS FINDINGS AND RECOMMENDATIONS,
+INCLUDING ANY DRAFT LEGISLATION, TO THE GOVERNOR AND, IN ACCORDANCE
+WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, THE SENATE FINANCE
+COMMITTEE, THE HOUSE HEALTH COMMITTEE, AND THE JOINT AUDIT AND
+EVALUATION COMMITTEE.
+1–104.
+THE SECRETARY OF INFORMATION TECHNOLOGY SHALL ENSURE THAT
+MINIMUM CYBERSECURITY REQUIREMENTS ARE MET BY ALL HEALTH OCCUPATIONS
+BOARDS ESTABLISHED UNDER THIS ARTICLE.
+ON OR BEFORE JULY 1 EACH YEAR, EACH HEALTH OCCUPATIONS BOARD
+SHALL CERTIFY TO THE SECRETARY OF INFORMATION TECHNOLOGY THAT THE
+INFORMATION TECHNOLOGY SYSTEMS USED BY THE HEALTH OCCUPATIONS BOARD
+MEET THE STATE MINIMUM CYBERSECURITY REQUIREMENTS.
+– 6 –
+
+WES MOORE, Governor Ch. 369
+SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Health
+Centralization Commission established under § 1–103 of the Health Occupations Article,
+as enacted by Section 1 of this Act, shall hold its first meeting on or before July 1, 2026.
+SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act is an emergency
+measure, is necessary for the immediate preservation of the public health or safety, has
+been passed by a yea and nay vote supported by three–fifths of all the members elected to
+each of the two Houses of the General Assembly, and shall take effect from the date it is
+enacted.
+Approved by the Governor, May 12, 2026.
+– 7 –
+
+[DELETED: W C e t M D o H C t p c a a r r t t b t M D o H a t h b r t S o I t e h o b t a r c i t t o I T a g r t t s oA(AA(AA(S]
+[DELETED:  2 ( I ( A ( K ( P ( B  ( A  ( A a] ( E f c o p m o p i  ( E r f a e s c a r  ( E ( IOH C W T F O E AY  ONS A U E’MQY  () TO’H D O T FES M R IN  () IN A R O O Q M FN ;  () T;IHN ]
+[DELETED: W C  () IVFE  I D T T F R B S ON . O( I( T h o b e b t a t m o m a l o c u t a a c t f a() I,“C”N T SN ON M T AHCC. E E O() TMDHH A E E E.() TH O E S E H O B T A G EYY .) TC:H O ( OSM E AD S; E ( OHD O ES H; O ( TS,S’; EY  EYS ( TDSPHS; E E U E E]
+[DELETED:  2  ( TEDSBN X I T O UG X IRSD’; ( TEDS X I O T T O O,ED’;S  X IRS ( TEDS X I O T T O O,ED’;Y  X IRS ( TEDSB X I O T T O O OE,ED’; XS  X IRS ( TEDS X I O T T O OHS,ED E PS O T X IRS H M W A T E DS O T DS DS O H O B N R O T ON D J B T O B N O R O T;N  ( A A M A B T E ES  H O BS D T B N T O.() TS,S’,H EY  EYSE  H O T E O A A T M O T O OM( D  O.() TDLH E E E O.() ( A H O B U T S D A R O T H O ON. ( EE  B N L T  B D A R AT  ONC.]
+[DELETED: W C() AC:  O (  N R C A A M O T;N  (  E T R F E U TSTR,S. T R ES  T() TC:H O (  E:  () A H O B R AW N Y ,;  () IAR E:   1 T;S   2 R;S   3 C;S   4 CS E A T D O A I C H   5  AS I T A O P F   6  A A F LD S ;   7 AD  E ON C; ( P:]
+[DELETED:  2   () ES A SE C LS  () IU T U O H O B F T S T SE C L ) S A C L S ) IU  () CIO O AS EEML–E S   () IVN N A U E A E AQRMH T A I W S A HS() OOD1N O B C E  E YR B I,CT O S R I F A RSN  OD IG   O T T O RE T E I27SGA,S,HHC,JE T O E OE A T O U AC. OTSI E O N E S E TJ1 O B U  E YR E H O B C T T E O N E T TI T.]
+[DELETED: W CS 2 A B I F E T t M HS]

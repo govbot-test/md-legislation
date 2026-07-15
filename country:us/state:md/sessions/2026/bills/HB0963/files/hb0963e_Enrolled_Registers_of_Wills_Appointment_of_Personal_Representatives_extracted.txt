@@ -1,0 +1,183 @@
+Title: HOUSE BILL 963
+Official Title: HOUSE BILL 963
+Number of Sections: 1
+Source: versions - Enrolled - Registers of Wills - Appointment of Personal Representatives
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+N2 (6lr1727)
+ENROLLED BILL
+— Judiciary/Judicial Proceedings —
+Introduced by Delegates Woorman, Acevero, Boyce, Kaiser, Kaufman, Martinez,
+Palakovich Carr, Ruth, Simmons, Terrasa, Wims, and Wolek
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+Speaker.
+CHAPTER ______
+1 AN ACT concerning
+2 Registers of Wills – Appointment of Personal Representatives
+3 FOR the purpose of repealing altering the prohibition on a register of wills or court granting
+4 letters in administrative or judicial probate to certain individuals who are not
+5 citizens of the United States; and generally relating to noncitizens and the
+6 appointment of personal representatives.
+7 BY repealing and reenacting, with amendments,
+8 Article – Estates and Trusts
+9 Section 5–105
+10 Annotated Code of Maryland
+11 (2022 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. hb0963*
+2 HOUSE BILL 963
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Estates and Trusts
+4 5–105.
+5 (a) (1) In this section, “serious crime” means a crime that reflects adversely on
+6 an individual’s honesty, trustworthiness, or fitness to perform the duties of a personal
+7 representative.
+8 (2) “Serious crime” includes fraud, extortion, embezzlement, forgery,
+9 perjury, and theft.
+10 (b) Subject to § 5–104 of this subtitle, the register or court may grant letters to:
+11 (1) A trust company;
+12 (2) Any other corporation authorized by law to be a personal
+13 representative; or
+14 (3) Subject to subsection (c) of this section, any individual.
+15 (c) Letters may not be granted to a person who, at the time a determination of
+16 priority is made, has filed with the register a declaration in writing that the person
+17 renounces the right to administer or is:
+18 (1) Under the age of 18 years;
+19 (2) Mentally incompetent;
+20 (3) Convicted of a serious crime, unless the person shows good cause for the
+21 granting of letters;
+22 [(4) Not a citizen OR A PERMANENT RESIDENT of the United States unless
+23 the person is a permanent resident of the United States and is:
+24 (i) DOMICILED IN THE UNITED STATES; AND
+25 (II) 1. The spouse of the decedent;
+26 (ii) 2. An ancestor of the decedent;
+27 (iii) 3. A descendant of the decedent; or
+28 (iv) 4. A sibling of the decedent;]
+HOUSE BILL 963 3
+1 [(5)] (4) A full–time judge of a court established under the laws of
+2 Maryland or the United States including a judge of an orphans’ or probate court, or a clerk
+3 of court, or a register, unless the person is the surviving spouse or is related to the decedent
+4 within the third degree; or
+5 [(6)] (5) A nonresident of the State, unless there shall be on file with the
+6 register an irrevocable designation by the nonresident of an appropriate person who resides
+7 in the State on whom service of process may be made in the same manner and with the
+8 effect as if it were served personally in the State on the nonresident.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      ( b D W A B K K M w t G S a p t t G f h a t d o _ a _ o _ A R F l i a o j p t c i w a n c o t U S a g r t n a t a B  A S  A  (]
+[DELETED:  H   S T A 5  ( ( I a o r   ( “ c i f e e f p  ( S   ( A   ( A o c a b l t b a p r   ( S  ( L p i m h f w t r a d i w t t p r   ( U   ( M   ( C g   ( N   t    (US; N TS   )1  T    (  A    (  A    (  A]
+[DELETED: H 3   () A f j o a c e u t l o]( M o w   () A]( r i e  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 963
+N2 (6lr1727)
+ENROLLED BILL
+— Judiciary/Judicial Proceedings —
+Introduced by Delegates Woorman, Acevero, Boyce, Kaiser, Kaufman, Martinez,
+Palakovich Carr, Ruth, Simmons, Terrasa, Wims, and Wolek
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+Speaker.
+CHAPTER ______
+1 AN ACT concerning
+2 Registers of Wills – Appointment of Personal Representatives
+3 FOR the purpose of repealing altering the prohibition on a register of wills or court granting
+4 letters in administrative or judicial probate to certain individuals who are not
+5 citizens of the United States; and generally relating to noncitizens and the
+6 appointment of personal representatives.
+7 BY repealing and reenacting, with amendments,
+8 Article – Estates and Trusts
+9 Section 5–105
+10 Annotated Code of Maryland
+11 (2022 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. hb0963*
+
+2 HOUSE BILL 963
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Estates and Trusts
+4 5–105.
+5 (a) (1) In this section, “serious crime” means a crime that reflects adversely on
+6 an individual’s honesty, trustworthiness, or fitness to perform the duties of a personal
+7 representative.
+8 (2) “Serious crime” includes fraud, extortion, embezzlement, forgery,
+9 perjury, and theft.
+10 (b) Subject to § 5–104 of this subtitle, the register or court may grant letters to:
+11 (1) A trust company;
+12 (2) Any other corporation authorized by law to be a personal
+13 representative; or
+14 (3) Subject to subsection (c) of this section, any individual.
+15 (c) Letters may not be granted to a person who, at the time a determination of
+16 priority is made, has filed with the register a declaration in writing that the person
+17 renounces the right to administer or is:
+18 (1) Under the age of 18 years;
+19 (2) Mentally incompetent;
+20 (3) Convicted of a serious crime, unless the person shows good cause for the
+21 granting of letters;
+22 [(4) Not a citizen OR A PERMANENT RESIDENT of the United States unless
+23 the person is a permanent resident of the United States and is:
+24 (i) DOMICILED IN THE UNITED STATES; AND
+25 (II) 1. The spouse of the decedent;
+26 (ii) 2. An ancestor of the decedent;
+27 (iii) 3. A descendant of the decedent; or
+28 (iv) 4. A sibling of the decedent;]
+
+HOUSE BILL 963 3
+1 [(5)] (4) A full–time judge of a court established under the laws of
+2 Maryland or the United States including a judge of an orphans’ or probate court, or a clerk
+3 of court, or a register, unless the person is the surviving spouse or is related to the decedent
+4 within the third degree; or
+5 [(6)] (5) A nonresident of the State, unless there shall be on file with the
+6 register an irrevocable designation by the nonresident of an appropriate person who resides
+7 in the State on whom service of process may be made in the same manner and with the
+8 effect as if it were served personally in the State on the nonresident.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      ( b D W A B K K M w t G S a p t t G f h a t d o _ a _ o _ A R F l i a o j p t c i w a n c o t U S a g r t n a t a B  A S  A  (]
+[DELETED:  H   S T A 5  ( ( I a o r   ( “ c i f e e f p  ( S   ( A   ( A o c a b l t b a p r   ( S  ( L p i m h f w t r a d i w t t p r   ( U   ( M   ( C g   ( N   t    (US; N TS   )1  T    (  A    (  A    (  A]
+[DELETED: H 3   () A f j o a c e u t l o]( M o w   () A]( r i e  S A B I F E T t A s t e O          G               ]

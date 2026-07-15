@@ -1,0 +1,441 @@
+Title: SENATE BILL 420
+Official Title: SENATE BILL 420
+Number of Sections: 1
+Source: versions - Enrolled - Public Institutions of Higher Education - Pregnant and Parenting Students - Plan and Reporting
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+F2 (6lr1427)
+ENROLLED BILL
+— Education, Energy, and the Environment/Appropriations —
+Introduced by Senator M. Washington
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Public Institutions of Higher Education – Pregnant and Parenting Students –
+3 Plan and Reporting
+4 FOR the purpose of requiring the Maryland Higher Education Commission to collect certain
+5 certain data regarding the parental status of students from each public institution
+6 of higher education in the State; requiring public institutions of higher education to
+7 collect and report certain demographic data from students; requiring all public
+8 institutions of higher education to adopt a certain plan for pregnant and parenting
+9 students; altering the definition of “student data” to authorize the Commission to
+10 share with the Maryland Longitudinal Data System certain data regarding the
+11 parental status of certain students; requiring public institutions of higher education
+12 to collect and report certain demographic data from students; requiring all public
+13 institutions of higher education to adopt a certain plan for pregnant and parenting
+14 students; and generally relating to pregnant and parenting students at public
+15 institutions of higher education.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0420*
+2 SENATE BILL 420
+1 BY adding to
+2 Article – Education
+3 Section 11–409
+4 Annotated Code of Maryland
+5 (2022 Replacement Volume and 2025 Supplement)
+6 BY repealing and reenacting, with amendments,
+7 Article – Education
+8 Section 15–140
+9 Annotated Code of Maryland
+10 (2022 Replacement Volume and 2025 Supplement)
+11 BY repealing and reenacting, with amendments,
+12 Article – Education
+13 Section 24–701(l)
+14 Annotated Code of Maryland
+15 (2022 Replacement Volume and 2025 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – Education
+19 11–409.
+20 (A) (1) (1) THE COMMISSION SHALL COLLECT STUDENT–LEVEL DATA
+21 FROM EACH PUBLIC INSTITUTION OF HIGHER EDUCATION IN THE STATE ON THE
+22 PARENTAL STATUS OF STUDENTS ENROLLED IN EACH INSTITUTION.
+23 (2) THE COMMISSION, IN CONSULTATION WITH THE PUBLIC
+24 INSTITUTIONS OF HIGHER EDUCATION, SHALL DEVELOP QUESTIONS THAT ALLOW
+25 EACH STUDENT TO IDENTIFY:
+26 (I) WHETHER THE STUDENT IS A PARENT OR A LEGAL
+27 GUARDIAN, ACTING AS A PARENT OR A LEGAL GUARDIAN, OR EXERCISING CARE,
+28 CUSTODY, OR CONTROL OVER A CHILD OF ANY AGE;
+29 (II) THE AGE OF THE CHILDREN FOR WHICH THE STUDENT HAS
+30 RESPONSIBILITY; AND
+31 (III) THE TYPE OF CAREGIVING RESPONSIBILITIES THE STUDENT
+32 PROVIDES, INCLUDING WHETHER THE STUDENT:
+33 1. IS A SINGLE PARENT; OR
+SENATE BILL 420 3
+1 2. SHARES PARENTAL RESPONSIBILITIES WITH
+2 SOMEONE IN THE SAME HOUSEHOLD OR A DIFFERENT HOUSEHOLD.
+3 (B) (1) EACH PUBLIC INSTITUTION OF HIGHER EDUCATION SHALL PLACE
+4 THE QUESTIONS DEVELOPED UNDER SUBSECTION (A) OF THIS SECTION ON ONE OR
+5 MORE FORMS THAT ARE USED BY THE INSTITUTION TO COLLECT DEMOGRAPHIC
+6 DATA FROM STUDENTS.
+7 (2) EACH PUBLIC INSTITUTION OF HIGHER EDUCATION SHALL MAKE
+8 THE DATA COLLECTED UNDER THIS SECTION AVAILABLE TO THE COMMISSION IN
+9 ACCORDANCE WITH THE FORMAT DETERMINED BY THE COMMISSION UNDER
+10 SUBSECTION (C) OF THIS SECTION.
+11 (2) THE COMMISSION, IN CONSULTATION WITH THE PUBLIC
+12 INSTITUTIONS OF HIGHER EDUCATION, SHALL DEVELOP QUESTIONS THAT ALLOW
+13 EACH STUDENT TO IDENTIFY:
+14 (I) WHETHER THE STUDENT IS A PARENT OR A LEGAL
+15 GUARDIAN, ACTING AS A PARENT OR A LEGAL GUARDIAN, OR EXERCISING CARE,
+16 CUSTODY, OR CONTROL OVER A CHILD OF ANY AGE;
+17 (II) THE AGE OF THE CHILDREN FOR WHICH THE STUDENT HAS
+18 RESPONSIBILITY; AND
+19 (III) THE TYPE OF CAREGIVING RESPONSIBILITIES THE
+20 STUDENT PROVIDES, INCLUDING WHETHER THE STUDENT:
+21 1. IS A SINGLE PARENT; OR
+22 2. SHARES PARENTAL RESPONSIBILITIES WITH
+23 SOMEONE IN THE SAME HOUSEHOLD OR A DIFFERENT HOUSEHOLD.
+24 (B) (1) EACH PUBLIC INSTITUTION OF HIGHER EDUCATION SHALL PLACE
+25 THE QUESTIONS DEVELOPED UNDER SUBSECTION (A) OF THIS SECTION ON ONE OR
+26 MORE FORMS THAT ARE USED BY THE INSTITUTION TO COLLECT DEMOGRAPHIC
+27 DATA FROM STUDENTS.
+28 (2) EACH PUBLIC INSTITUTION OF HIGHER EDUCATION SHALL MAKE
+29 THE DATA COLLECTED UNDER THIS SECTION AVAILABLE TO THE COMMISSION IN
+30 ACCORDANCE WITH THE FORMAT DETERMINED BY THE COMMISSION UNDER
+31 SUBSECTION (C) OF THIS SECTION.
+4 SENATE BILL 420
+1 (C) (B) (C) THE COMMISSION SHALL ADOPT REGULATIONS TO CARRY OUT
+2 THIS SECTION, INCLUDING:
+3 (1) ESTABLISHING A COMMON FORMAT AND TIME FRAME FOR THE
+4 COLLECTION AND REPORTING OF THE DATA REQUIRED UNDER THIS SECTION; AND
+5 (2) REQUIRING THE COLLECTION OF PARENTAL STATUS DATA TO BE
+6 INCLUDED WITH THE COLLECTION OF OTHER DEMOGRAPHIC DATA.
+7 (D) INFORMATION COLLECTED IN ACCORDANCE WITH THIS SECTION IS NOT
+8 CONSIDERED TO BE A MEDICAL OR HEALTH RECORD FOR PURPOSES OF § 24–701(L)
+9 OF THIS ARTICLE.
+10 (D) (C) (E) ON OR BEFORE SEPTEMBER 1, 2027, AND EACH SEPTEMBER 1
+11 THEREAFTER, AND EACH SEPTEMBER 1 THEREAFTER, THE COMMISSION SHALL
+12 SUBMIT A REPORT TO THE SENATE BUDGET AND TAXATION COMMITTEE, THE
+13 SENATE COMMITTEE ON EDUCATION, ENERGY, AND THE ENVIRONMENT, AND THE
+14 HOUSE APPROPRIATIONS COMMITTEE, IN ACCORDANCE WITH § 2–1257 OF THE
+15 STATE GOVERNMENT ARTICLE, THAT SUMMARIZES THE DATA COLLECTED BY THE
+16 COMMISSION UNDER THIS SECTION.
+17 15–140.
+18 (a) [(1) In this section the following words have the meanings indicated.
+19 (2) “Pregnant] IN THIS SECTION, “PREGNANT, “PREGNANT and
+20 parenting student” means a student enrolled at a public [senior higher education]
+21 institution OF HIGHER EDUCATION OF HIGHER EDUCATION who:
+22 [(i)] (1) (1) Is pregnant; [or]
+23 [(ii)] (2) (2) Exercises care, custody, or control over a child[.
+24 (3) (i) “Public senior higher education institution” means:
+25 1. The constituent institutions of the University System of
+26 Maryland;
+27 2. Morgan State University; and
+28 3. St. Mary’s College of Maryland.
+29 (ii) “Public senior higher education institution” does not include:
+SENATE BILL 420 5
+1 1. The University of Maryland Center for Environmental
+2 Studies;
+3 2. The University of Maryland Global Campus; or
+4 3. The University of Baltimore OF ANY AGE; OR
+5 (3) SHARES PARENTAL RESPONSIBILITIES WITH SOMEONE IN THE
+6 SAME HOUSEHOLD OR A DIFFERENT HOUSEHOLD] OF ANY AGE; OR
+7 (3) SHARES PARENTAL RESPONSIBILITIES WITH SOMEONE IN
+8 THE SAME HOUSEHOLD OR A DIFFERENT HOUSEHOLD.
+9 (b) The General Assembly finds that all students at an institution of higher
+10 education in the State, regardless of their gender, shall enjoy freedom from discrimination
+11 of any kind, including pregnancy discrimination as described in Title IX of the Education
+12 Amendments of 1972.
+13 (c) (1) Each public [senior higher education] institution OF HIGHER
+14 EDUCATION OF HIGHER EDUCATION shall adopt a plan regarding pregnant and
+15 parenting students that is consistent with Title IX of the federal Higher Education Act.
+16 (2) The plan required under paragraph (1) of this subsection shall include:
+17 (i) Referral to on–campus or off–campus services to assist regarding
+18 the availability of or eligibility for government assistance programs, including:
+19 1. The Special Supplemental Nutrition Assistance Program
+20 for Women, Infants, and Children;
+21 2. The Child Care Scholarship Program;
+22 3. The Maryland Medical Assistance Program;
+23 4. The Maryland Children’s Health Insurance Program; and
+24 5. Any other programs, scholarships, or subsidies for
+25 pregnant and parenting students;
+26 (ii) The provision of information about or referrals to resources
+27 regarding adoption services;
+28 (iii) The provision of information about or referrals to resources
+29 regarding adoption services;
+6 SENATE BILL 420
+1 (iii) The availability of institutional accommodations for pregnant
+2 and parenting students; and
+3 (iv) (III) (iv) A referral network of on–campus and off–campus health
+4 care service providers.
+5 (d) On or before [August] OCTOBER 1, 2026, each public [senior higher
+6 education] institution OF HIGHER EDUCATION OF HIGHER EDUCATION shall post the
+7 plan adopted under subsection (c) of this section on the institution’s website.
+8 24–701.
+9 (l) (1) “Student data” means data relating to or impacting student
+10 performance.
+11 (2) “Student data” includes:
+12 (i) State and national assessments;
+13 (ii) Course–taking and completion;
+14 (iii) Grade point average;
+15 (iv) Remediation;
+16 (v) Retention;
+17 (vi) Degree, diploma, or credential attainment;
+18 (vii) Enrollment;
+19 (viii) Demographic data;
+20 (ix) Juvenile delinquency records;
+21 (x) Elementary and secondary school disciplinary records;
+22 (xi) Child welfare data;
+23 (xii) License, industry certificate, or vocational certificate;
+24 (xiii) Personally identifiable information; [and]
+25 (xiv) PARENTAL STATUS; AND
+26 (XV) Student disability data by specific disability category.
+SENATE BILL 420 7
+1 (3) “Student data” does not include:
+2 (i) Criminal and CINA records; [and]
+3 (ii) Medical and health records; AND
+4 (III) PREGNANCY STATUS.
+5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+6 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      ( w t G S a p t t G f h a t d o _ a _ o _ A P P F c o c a r c d d f s r a p i s s w t M L D S c d r t p t i s a g r t p a p s a p i]
+[DELETED:  S  B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A() () T H O  )TL T  )TC ON I C W T PN   )H T S I A P O A LN A A A P O A L GN O E CE,Y ;  )IHY   )IHS :   .I;T ]
+[DELETED: S 3   . P R W )()A A  F T A U B T I T C D ) O W T F D B T O U C ). ( TC ON I C W T PN    ) H T S I A P O A LN N E,Y ;  () IHY   () IH T O C R TS :   1 I;T    2  P R WD() ( A A  F T A U B I T C    O W T F D B T O U C ).]
+[DELETED:  S ()() T B H O S A R T C ON : ( N  (  )N  L2(()() OS1,2 C N O B E  )SA E E A E E  TR T O S1, A R T T E U A A OE TBTCCE,E,E O DN NY  NT AC,§2 P OE I A W   O TGA O RE . 1  ( ( I   ( “t aI,N T SNPTP p s m a s e a a p s h en i      () I o]()[]    ()  d.]()   ( ( “     1 T M     2 M     3 S    ( “]
+[DELETED: S 5     1 T U o M C f E S     2 T     3 TE  ) P R W S I T;E   (  I .  ( T G A f t a s a a i o h e o A  ( ( E p s h en i HO H E  s a a p r p a p   ( T    ( R t     1 T f     2 T     3 T     4 T     5 A o p s o s f p    ( T p o i a o r t r r    ( T p o i a o r t r r]
+[DELETED:  S     ( T a o i a f p a    (   c  ( O o b At 1 2 e p s h]OC en     p 2  ( ( “ d m d r t o i s p   ( “    ( S    ( C    ( G    ( R    ( R    ( D    ( E    ( D    ( J    ( E    ( C    ( L    ( P a]    (;S     S]
+[DELETED: S 7   ( “    ( C a]    ( M  )IR .  S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 420
+F2 (6lr1427)
+ENROLLED BILL
+— Education, Energy, and the Environment/Appropriations —
+Introduced by Senator M. Washington
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Public Institutions of Higher Education – Pregnant and Parenting Students –
+3 Plan and Reporting
+4 FOR the purpose of requiring the Maryland Higher Education Commission to collect certain
+5 certain data regarding the parental status of students from each public institution
+6 of higher education in the State; requiring public institutions of higher education to
+7 collect and report certain demographic data from students; requiring all public
+8 institutions of higher education to adopt a certain plan for pregnant and parenting
+9 students; altering the definition of “student data” to authorize the Commission to
+10 share with the Maryland Longitudinal Data System certain data regarding the
+11 parental status of certain students; requiring public institutions of higher education
+12 to collect and report certain demographic data from students; requiring all public
+13 institutions of higher education to adopt a certain plan for pregnant and parenting
+14 students; and generally relating to pregnant and parenting students at public
+15 institutions of higher education.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0420*
+
+2 SENATE BILL 420
+1 BY adding to
+2 Article – Education
+3 Section 11–409
+4 Annotated Code of Maryland
+5 (2022 Replacement Volume and 2025 Supplement)
+6 BY repealing and reenacting, with amendments,
+7 Article – Education
+8 Section 15–140
+9 Annotated Code of Maryland
+10 (2022 Replacement Volume and 2025 Supplement)
+11 BY repealing and reenacting, with amendments,
+12 Article – Education
+13 Section 24–701(l)
+14 Annotated Code of Maryland
+15 (2022 Replacement Volume and 2025 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – Education
+19 11–409.
+20 (A) (1) (1) THE COMMISSION SHALL COLLECT STUDENT–LEVEL DATA
+21 FROM EACH PUBLIC INSTITUTION OF HIGHER EDUCATION IN THE STATE ON THE
+22 PARENTAL STATUS OF STUDENTS ENROLLED IN EACH INSTITUTION.
+23 (2) THE COMMISSION, IN CONSULTATION WITH THE PUBLIC
+24 INSTITUTIONS OF HIGHER EDUCATION, SHALL DEVELOP QUESTIONS THAT ALLOW
+25 EACH STUDENT TO IDENTIFY:
+26 (I) WHETHER THE STUDENT IS A PARENT OR A LEGAL
+27 GUARDIAN, ACTING AS A PARENT OR A LEGAL GUARDIAN, OR EXERCISING CARE,
+28 CUSTODY, OR CONTROL OVER A CHILD OF ANY AGE;
+29 (II) THE AGE OF THE CHILDREN FOR WHICH THE STUDENT HAS
+30 RESPONSIBILITY; AND
+31 (III) THE TYPE OF CAREGIVING RESPONSIBILITIES THE STUDENT
+32 PROVIDES, INCLUDING WHETHER THE STUDENT:
+33 1. IS A SINGLE PARENT; OR
+
+SENATE BILL 420 3
+1 2. SHARES PARENTAL RESPONSIBILITIES WITH
+2 SOMEONE IN THE SAME HOUSEHOLD OR A DIFFERENT HOUSEHOLD.
+3 (B) (1) EACH PUBLIC INSTITUTION OF HIGHER EDUCATION SHALL PLACE
+4 THE QUESTIONS DEVELOPED UNDER SUBSECTION (A) OF THIS SECTION ON ONE OR
+5 MORE FORMS THAT ARE USED BY THE INSTITUTION TO COLLECT DEMOGRAPHIC
+6 DATA FROM STUDENTS.
+7 (2) EACH PUBLIC INSTITUTION OF HIGHER EDUCATION SHALL MAKE
+8 THE DATA COLLECTED UNDER THIS SECTION AVAILABLE TO THE COMMISSION IN
+9 ACCORDANCE WITH THE FORMAT DETERMINED BY THE COMMISSION UNDER
+10 SUBSECTION (C) OF THIS SECTION.
+11 (2) THE COMMISSION, IN CONSULTATION WITH THE PUBLIC
+12 INSTITUTIONS OF HIGHER EDUCATION, SHALL DEVELOP QUESTIONS THAT ALLOW
+13 EACH STUDENT TO IDENTIFY:
+14 (I) WHETHER THE STUDENT IS A PARENT OR A LEGAL
+15 GUARDIAN, ACTING AS A PARENT OR A LEGAL GUARDIAN, OR EXERCISING CARE,
+16 CUSTODY, OR CONTROL OVER A CHILD OF ANY AGE;
+17 (II) THE AGE OF THE CHILDREN FOR WHICH THE STUDENT HAS
+18 RESPONSIBILITY; AND
+19 (III) THE TYPE OF CAREGIVING RESPONSIBILITIES THE
+20 STUDENT PROVIDES, INCLUDING WHETHER THE STUDENT:
+21 1. IS A SINGLE PARENT; OR
+22 2. SHARES PARENTAL RESPONSIBILITIES WITH
+23 SOMEONE IN THE SAME HOUSEHOLD OR A DIFFERENT HOUSEHOLD.
+24 (B) (1) EACH PUBLIC INSTITUTION OF HIGHER EDUCATION SHALL PLACE
+25 THE QUESTIONS DEVELOPED UNDER SUBSECTION (A) OF THIS SECTION ON ONE OR
+26 MORE FORMS THAT ARE USED BY THE INSTITUTION TO COLLECT DEMOGRAPHIC
+27 DATA FROM STUDENTS.
+28 (2) EACH PUBLIC INSTITUTION OF HIGHER EDUCATION SHALL MAKE
+29 THE DATA COLLECTED UNDER THIS SECTION AVAILABLE TO THE COMMISSION IN
+30 ACCORDANCE WITH THE FORMAT DETERMINED BY THE COMMISSION UNDER
+31 SUBSECTION (C) OF THIS SECTION.
+
+4 SENATE BILL 420
+1 (C) (B) (C) THE COMMISSION SHALL ADOPT REGULATIONS TO CARRY OUT
+2 THIS SECTION, INCLUDING:
+3 (1) ESTABLISHING A COMMON FORMAT AND TIME FRAME FOR THE
+4 COLLECTION AND REPORTING OF THE DATA REQUIRED UNDER THIS SECTION; AND
+5 (2) REQUIRING THE COLLECTION OF PARENTAL STATUS DATA TO BE
+6 INCLUDED WITH THE COLLECTION OF OTHER DEMOGRAPHIC DATA.
+7 (D) INFORMATION COLLECTED IN ACCORDANCE WITH THIS SECTION IS NOT
+8 CONSIDERED TO BE A MEDICAL OR HEALTH RECORD FOR PURPOSES OF § 24–701(L)
+9 OF THIS ARTICLE.
+10 (D) (C) (E) ON OR BEFORE SEPTEMBER 1, 2027, AND EACH SEPTEMBER 1
+11 THEREAFTER, AND EACH SEPTEMBER 1 THEREAFTER, THE COMMISSION SHALL
+12 SUBMIT A REPORT TO THE SENATE BUDGET AND TAXATION COMMITTEE, THE
+13 SENATE COMMITTEE ON EDUCATION, ENERGY, AND THE ENVIRONMENT, AND THE
+14 HOUSE APPROPRIATIONS COMMITTEE, IN ACCORDANCE WITH § 2–1257 OF THE
+15 STATE GOVERNMENT ARTICLE, THAT SUMMARIZES THE DATA COLLECTED BY THE
+16 COMMISSION UNDER THIS SECTION.
+17 15–140.
+18 (a) [(1) In this section the following words have the meanings indicated.
+19 (2) “Pregnant] IN THIS SECTION, “PREGNANT, “PREGNANT and
+20 parenting student” means a student enrolled at a public [senior higher education]
+21 institution OF HIGHER EDUCATION OF HIGHER EDUCATION who:
+22 [(i)] (1) (1) Is pregnant; [or]
+23 [(ii)] (2) (2) Exercises care, custody, or control over a child[.
+24 (3) (i) “Public senior higher education institution” means:
+25 1. The constituent institutions of the University System of
+26 Maryland;
+27 2. Morgan State University; and
+28 3. St. Mary’s College of Maryland.
+29 (ii) “Public senior higher education institution” does not include:
+
+SENATE BILL 420 5
+1 1. The University of Maryland Center for Environmental
+2 Studies;
+3 2. The University of Maryland Global Campus; or
+4 3. The University of Baltimore OF ANY AGE; OR
+5 (3) SHARES PARENTAL RESPONSIBILITIES WITH SOMEONE IN THE
+6 SAME HOUSEHOLD OR A DIFFERENT HOUSEHOLD] OF ANY AGE; OR
+7 (3) SHARES PARENTAL RESPONSIBILITIES WITH SOMEONE IN
+8 THE SAME HOUSEHOLD OR A DIFFERENT HOUSEHOLD.
+9 (b) The General Assembly finds that all students at an institution of higher
+10 education in the State, regardless of their gender, shall enjoy freedom from discrimination
+11 of any kind, including pregnancy discrimination as described in Title IX of the Education
+12 Amendments of 1972.
+13 (c) (1) Each public [senior higher education] institution OF HIGHER
+14 EDUCATION OF HIGHER EDUCATION shall adopt a plan regarding pregnant and
+15 parenting students that is consistent with Title IX of the federal Higher Education Act.
+16 (2) The plan required under paragraph (1) of this subsection shall include:
+17 (i) Referral to on–campus or off–campus services to assist regarding
+18 the availability of or eligibility for government assistance programs, including:
+19 1. The Special Supplemental Nutrition Assistance Program
+20 for Women, Infants, and Children;
+21 2. The Child Care Scholarship Program;
+22 3. The Maryland Medical Assistance Program;
+23 4. The Maryland Children’s Health Insurance Program; and
+24 5. Any other programs, scholarships, or subsidies for
+25 pregnant and parenting students;
+26 (ii) The provision of information about or referrals to resources
+27 regarding adoption services;
+28 (iii) The provision of information about or referrals to resources
+29 regarding adoption services;
+
+6 SENATE BILL 420
+1 (iii) The availability of institutional accommodations for pregnant
+2 and parenting students; and
+3 (iv) (III) (iv) A referral network of on–campus and off–campus health
+4 care service providers.
+5 (d) On or before [August] OCTOBER 1, 2026, each public [senior higher
+6 education] institution OF HIGHER EDUCATION OF HIGHER EDUCATION shall post the
+7 plan adopted under subsection (c) of this section on the institution’s website.
+8 24–701.
+9 (l) (1) “Student data” means data relating to or impacting student
+10 performance.
+11 (2) “Student data” includes:
+12 (i) State and national assessments;
+13 (ii) Course–taking and completion;
+14 (iii) Grade point average;
+15 (iv) Remediation;
+16 (v) Retention;
+17 (vi) Degree, diploma, or credential attainment;
+18 (vii) Enrollment;
+19 (viii) Demographic data;
+20 (ix) Juvenile delinquency records;
+21 (x) Elementary and secondary school disciplinary records;
+22 (xi) Child welfare data;
+23 (xii) License, industry certificate, or vocational certificate;
+24 (xiii) Personally identifiable information; [and]
+25 (xiv) PARENTAL STATUS; AND
+26 (XV) Student disability data by specific disability category.
+
+SENATE BILL 420 7
+1 (3) “Student data” does not include:
+2 (i) Criminal and CINA records; [and]
+3 (ii) Medical and health records; AND
+4 (III) PREGNANCY STATUS.
+5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+6 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      ( w t G S a p t t G f h a t d o _ a _ o _ A P P F c o c a r c d d f s r a p i s s w t M L D S c d r t p t i s a g r t p a p s a p i]
+[DELETED:  S  B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A() () T H O  )TL T  )TC ON I C W T PN   )H T S I A P O A LN A A A P O A L GN O E CE,Y ;  )IHY   )IHS :   .I;T ]
+[DELETED: S 3   . P R W )()A A  F T A U B T I T C D ) O W T F D B T O U C ). ( TC ON I C W T PN    ) H T S I A P O A LN N E,Y ;  () IHY   () IH T O C R TS :   1 I;T    2  P R WD() ( A A  F T A U B I T C    O W T F D B T O U C ).]
+[DELETED:  S ()() T B H O S A R T C ON : ( N  (  )N  L2(()() OS1,2 C N O B E  )SA E E A E E  TR T O S1, A R T T E U A A OE TBTCCE,E,E O DN NY  NT AC,§2 P OE I A W   O TGA O RE . 1  ( ( I   ( “t aI,N T SNPTP p s m a s e a a p s h en i      () I o]()[]    ()  d.]()   ( ( “     1 T M     2 M     3 S    ( “]
+[DELETED: S 5     1 T U o M C f E S     2 T     3 TE  ) P R W S I T;E   (  I .  ( T G A f t a s a a i o h e o A  ( ( E p s h en i HO H E  s a a p r p a p   ( T    ( R t     1 T f     2 T     3 T     4 T     5 A o p s o s f p    ( T p o i a o r t r r    ( T p o i a o r t r r]
+[DELETED:  S     ( T a o i a f p a    (   c  ( O o b At 1 2 e p s h]OC en     p 2  ( ( “ d m d r t o i s p   ( “    ( S    ( C    ( G    ( R    ( R    ( D    ( E    ( D    ( J    ( E    ( C    ( L    ( P a]    (;S     S]
+[DELETED: S 7   ( “    ( C a]    ( M  )IR .  S 1          G               ]
