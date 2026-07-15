@@ -38,6 +38,306 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:16Z"
       }
+    },
+    {
+      "description": "Hearing 1/29 at 1:00 p.m.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments Report by Ways and Means",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments {",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Second Reading Passed with Amendments",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-03-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Referred Education, Energy, and the Environment",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Hearing 4/01 at 1:00 p.m.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments Report by Education, Energy, and the Environment",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments {",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Second Reading Passed with Amendments",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Motion Special Order until Next Session  (Senator A. Washington)  Adopted",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "House Refuses Concur Senate Amendments",
+      "date": "2026-04-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "House Requests Senate Recede",
+      "date": "2026-04-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "House Conference Committee Appointed (Delegates  Ebersole,  Patterson and  Miller)",
+      "date": "2026-04-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "House Refuses Concur Senate Amendments",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "House Requests Senate Recede",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "House Conference Committee Appointed (Delegates  Ebersole,  Patterson and  Miller)",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Senate Refuses Recede",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Senate Conference Committee Appointed  (Senators  Attar,  Brooks and  Carozza)",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Senate Refuses Recede",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Senate Conference Committee Appointed  (Senators  Attar,  Brooks and  Carozza)",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report {",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report {",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Passed Enrolled",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor - Chapter 775",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -62,9 +362,54 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Third - County Boards of Education - Bullying, Harassment, or Intimidation - Information Collection and Reporting Requirements",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/hb/hb0014t.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled - County Boards of Education - Bullying, Harassment, or Intimidation - Information Collection and Reporting Requirements",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/hb/hb0014e.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Chapter - County Boards of Education - Bullying, Harassment, or Intimidation - Information Collection and Reporting Requirements",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_775_hb0014e.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal and Policy Note (Revised)",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/fnotes/bil_0004/hb0014.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -72,7 +417,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "date_effective": "July 1, 2026"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:md/government",
     "name": "Maryland",
@@ -80,7 +427,7 @@
     "division_id": "ocd-division/country:us/state:md"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:16Z",
+    "logs_latest_update": "2026-07-15T03:56:40Z",
     "text_extraction_latest_update": "2026-07-13T09:15:52.080017Z"
   }
 }

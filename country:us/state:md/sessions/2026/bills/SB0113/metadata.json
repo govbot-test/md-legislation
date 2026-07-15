@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB0113",
-  "title": "Human Services - Department of Aging and Commission on Aging (The Longevity Ready Maryland Act)",
+  "title": "Human Services - Department of Aging and Commission on Aging (Longevity Ready Maryland Act)",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -38,6 +38,194 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:16Z"
       }
+    },
+    {
+      "description": "Hearing 1/28 at 2:00 p.m.",
+      "date": "2026-01-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments Report by Finance",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments {",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Second Reading Passed with Amendments",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Referred Health",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Hearing 3/26 at 1:00 p.m.",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Hearing canceled",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Hearing 3/26 at 2:00 p.m.",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments Report by Health",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments {",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Second Reading Passed with Amendments",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Senate Concurs House Amendments",
+      "date": "2026-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Passed Enrolled",
+      "date": "2026-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor - Chapter 94",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,9 +256,54 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Third - Human Services - Department of Aging and Commission on Aging (The Longevity Ready Maryland Act)",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/sb/sb0113t.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled - Human Services - Department of Aging and Commission on Aging (Longevity Ready Maryland Act)",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/sb/sb0113e.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Chapter - Human Services - Department of Aging and Commission on Aging (Longevity Ready Maryland Act)",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_94_sb0113e.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal and Policy Note (Revised)",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/fnotes/bil_0003/sb0113.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -78,7 +311,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "date_effective": "October 1, 2026"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:md/government",
     "name": "Maryland",
@@ -86,7 +321,7 @@
     "division_id": "ocd-division/country:us/state:md"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:16Z",
+    "logs_latest_update": "2026-07-15T03:56:42Z",
     "text_extraction_latest_update": "2026-07-13T09:12:28.496614Z"
   }
 }

@@ -38,6 +38,142 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:16Z"
       }
+    },
+    {
+      "description": "Hearing 2/12 at 2:00 p.m. (Education, Energy, and the Environment)",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:39Z"
+      }
+    },
+    {
+      "description": "Favorable Report by Education, Energy, and the Environment",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:39Z"
+      }
+    },
+    {
+      "description": "Favorable Adopted",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:39Z"
+      }
+    },
+    {
+      "description": "Second Reading Passed",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:39Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:39Z"
+      }
+    },
+    {
+      "description": "Referred Government, Labor, and Elections Judiciary",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:39Z"
+      }
+    },
+    {
+      "description": "Hearing 3/31 at 1:00 p.m. (Government, Labor, and Elections)",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:39Z"
+      }
+    },
+    {
+      "description": "Favorable Report by Government, Labor, and Elections",
+      "date": "2026-04-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:39Z"
+      }
+    },
+    {
+      "description": "Favorable Adopted Second Reading Passed",
+      "date": "2026-04-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:39Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:39Z"
+      }
+    },
+    {
+      "description": "Returned Passed",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:39Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor - Chapter 494",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:56:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -62,9 +198,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Third - Veterans and Uniformed Services - Maryland Veterans Trust Fund and Application of Laws",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/sb/sb0215t.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Chapter - Veterans and Uniformed Services - Maryland Veterans Trust Fund and Application of Laws",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_494_sb0215t.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal and Policy Note",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/fnotes/bil_0005/sb0215.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -72,7 +242,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "date_effective": "October 1, 2026"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:md/government",
     "name": "Maryland",
@@ -80,7 +252,7 @@
     "division_id": "ocd-division/country:us/state:md"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:16Z",
+    "logs_latest_update": "2026-07-15T03:56:39Z",
     "text_extraction_latest_update": "2026-07-13T09:17:07.701006Z"
   }
 }

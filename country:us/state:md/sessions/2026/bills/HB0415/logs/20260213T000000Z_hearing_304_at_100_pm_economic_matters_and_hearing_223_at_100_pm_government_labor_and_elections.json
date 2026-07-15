@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing 3/04 at 1:00 p.m. (Economic Matters) and Hearing 2/23 at 1:00 p.m. (Government, Labor, and Elections)",
+    "occurred_at": "2026-02-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0415?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0415"
+}

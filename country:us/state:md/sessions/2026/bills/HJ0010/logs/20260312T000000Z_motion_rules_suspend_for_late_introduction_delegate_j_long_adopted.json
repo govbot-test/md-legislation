@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion Rules Suspend for Late Introduction  (Delegate J. Long)  Adopted",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hj0010?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJ0010"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion Special Order until 2/27  (Senator Hester)  Adopted",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0056?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB0056"
+}

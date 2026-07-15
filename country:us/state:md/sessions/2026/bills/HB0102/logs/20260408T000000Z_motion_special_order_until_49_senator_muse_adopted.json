@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion Special Order until 4/9  (Senator Muse)  Adopted",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0102?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0102"
+}

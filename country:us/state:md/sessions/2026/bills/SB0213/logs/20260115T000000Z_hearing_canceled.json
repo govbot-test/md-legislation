@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing canceled",
+    "occurred_at": "2026-01-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0213?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB0213"
+}

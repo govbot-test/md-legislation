@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Favorable Report by Education, Energy, and the Environment",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1239?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1239"
+}

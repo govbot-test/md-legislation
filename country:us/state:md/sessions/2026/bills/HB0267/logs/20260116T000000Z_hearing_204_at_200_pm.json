@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing 2/04 at 2:00 p.m.",
+    "occurred_at": "2026-01-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0267?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0267"
+}

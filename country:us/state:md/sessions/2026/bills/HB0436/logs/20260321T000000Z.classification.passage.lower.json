@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Third Reading Passed",
+    "occurred_at": "2026-03-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0436?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0436"
+}

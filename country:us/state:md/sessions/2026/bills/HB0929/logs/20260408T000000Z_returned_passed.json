@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Returned Passed",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0929?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0929"
+}

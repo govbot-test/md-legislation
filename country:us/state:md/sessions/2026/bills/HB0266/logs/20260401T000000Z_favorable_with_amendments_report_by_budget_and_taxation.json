@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Favorable with Amendments Report by Budget and Taxation",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0266?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0266"
+}

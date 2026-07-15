@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Favorable Report by Environment and Transportation",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0321?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0321"
+}

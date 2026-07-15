@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Withdrawn by Sponsor",
+    "occurred_at": "2026-03-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0997?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0997"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Assigned a resolution number - Joint Resolution 3",
+    "occurred_at": "2026-03-19",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hj0005?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJ0005"
+}
