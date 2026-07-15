@@ -1,0 +1,128 @@
+Title: SENATE BILL 286
+Official Title: SENATE BILL 286
+Number of Sections: 1
+Source: versions - Third - Public Safety - Elevator Inspection Certificates - Searchable Database
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+E4 6lr1154
+CF HB 553
+By: Senator McCray
+Introduced and read first time: January 21, 2026
+Assigned to: Finance
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 12, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Public Safety – Elevator Inspection Certificates – Searchable Database
+3 FOR the purpose of requiring the Commissioner of Labor and Industry to post a
+4 user–friendly, searchable database of active elevator inspection certificates on the
+5 Maryland Department of Labor’s website; requiring the database to allow certain
+6 searches; and generally relating to elevator inspection certificates.
+7 BY repealing and reenacting, with amendments,
+8 Article – Public Safety
+9 Section 12–811
+10 Annotated Code of Maryland
+11 (2022 Replacement Volume and 2025 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Public Safety
+15 12–811.
+16 (a) If an inspection discloses that an elevator unit complies with the Safety Code
+17 and other regulations adopted by the Commissioner, the Commissioner shall issue a
+18 certificate to the owner or lessee of the elevator unit.
+19 (b) The certificate shall be posted conspicuously in or on the elevator unit.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0286*
+2 SENATE BILL 286
+1 (c) While a certificate is in effect, it authorizes the holder to operate the elevator
+2 unit in a building, structure, or place of employment in the State.
+3 (D) (1) THE COMMISSIONER SHALL POST ON THE MARYLAND
+4 DEPARTMENT OF LABOR’S WEBSITE A USER–FRIENDLY, SEARCHABLE DATABASE OF
+5 ACTIVE CERTIFICATES ISSUED UNDER SUBSECTION (A) OF THIS SECTION.
+6 (2) THE DATABASE DESCRIBED IN PARAGRAPH (1) OF THIS
+7 SUBSECTION SHALL ALLOW A USER TO SEARCH ACTIVE CERTIFICATES BY:
+8 (I) STREET ADDRESS;
+9 (II) CITY; AND
+10 (III) COUNTY.
+11 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+12 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6   C A P F t p o r t C o L a I t p a u M s B  A S  A  (  S T A 1  ( I a o r a b t C t C s i a c  ( T]
+[DELETED:  S   ( W u ) ( TCH O S P O T AL’– ARSRFY  A ). ( T( D D I P  O T  () ;S  () ;ICY   () .ICY  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 286
+E4 6lr1154
+CF HB 553
+By: Senator McCray
+Introduced and read first time: January 21, 2026
+Assigned to: Finance
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 12, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Public Safety – Elevator Inspection Certificates – Searchable Database
+3 FOR the purpose of requiring the Commissioner of Labor and Industry to post a
+4 user–friendly, searchable database of active elevator inspection certificates on the
+5 Maryland Department of Labor’s website; requiring the database to allow certain
+6 searches; and generally relating to elevator inspection certificates.
+7 BY repealing and reenacting, with amendments,
+8 Article – Public Safety
+9 Section 12–811
+10 Annotated Code of Maryland
+11 (2022 Replacement Volume and 2025 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Public Safety
+15 12–811.
+16 (a) If an inspection discloses that an elevator unit complies with the Safety Code
+17 and other regulations adopted by the Commissioner, the Commissioner shall issue a
+18 certificate to the owner or lessee of the elevator unit.
+19 (b) The certificate shall be posted conspicuously in or on the elevator unit.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0286*
+
+2 SENATE BILL 286
+1 (c) While a certificate is in effect, it authorizes the holder to operate the elevator
+2 unit in a building, structure, or place of employment in the State.
+3 (D) (1) THE COMMISSIONER SHALL POST ON THE MARYLAND
+4 DEPARTMENT OF LABOR’S WEBSITE A USER–FRIENDLY, SEARCHABLE DATABASE OF
+5 ACTIVE CERTIFICATES ISSUED UNDER SUBSECTION (A) OF THIS SECTION.
+6 (2) THE DATABASE DESCRIBED IN PARAGRAPH (1) OF THIS
+7 SUBSECTION SHALL ALLOW A USER TO SEARCH ACTIVE CERTIFICATES BY:
+8 (I) STREET ADDRESS;
+9 (II) CITY; AND
+10 (III) COUNTY.
+11 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+12 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6   C A P F t p o r t C o L a I t p a u M s B  A S  A  (  S T A 1  ( I a o r a b t C t C s i a c  ( T]
+[DELETED:  S   ( W u ) ( TCH O S P O T AL’– ARSRFY  A ). ( T( D D I P  O T  () ;S  () ;ICY   () .ICY  S A B I F E T t A s t e O          G               ]

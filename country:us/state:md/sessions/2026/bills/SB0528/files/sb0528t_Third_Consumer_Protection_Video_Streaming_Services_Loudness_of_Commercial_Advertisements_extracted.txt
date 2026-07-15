@@ -1,0 +1,209 @@
+Title: SENATE BILL 528
+Official Title: SENATE BILL 528
+Number of Sections: 1
+Source: versions - Third - Consumer Protection - Video Streaming Services - Loudness of Commercial Advertisements
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+I3 6lr2798
+CF HB 985
+By: Senator Harris
+Introduced and read first time: February 4, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 1, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Consumer Protection – Video Streaming Services – Loudness of Commercial
+3 Advertisements
+4 FOR the purpose of prohibiting a certain video streaming service from transmitting to a
+5 consumer in the State the audio of a commercial advertisement in a manner that is
+6 louder than the audio of the accompanying video programming or video content of
+7 the video streaming service; and generally relating to the regulation of video
+8 streaming services.
+9 BY repealing and reenacting, with amendments,
+10 Article – Commercial Law
+11 Section 13–301(14)(xlvii)
+12 Annotated Code of Maryland
+13 (2025 Replacement Volume)
+14 BY repealing and reenacting, without amendments,
+15 Article – Commercial Law
+16 Section 13–301(14)(xlviii)
+17 Annotated Code of Maryland
+18 (2025 Replacement Volume)
+19 BY adding to
+20 Article – Commercial Law
+21 Section 13–301(14)(xlix) and 14–1330
+22 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0528*
+2 SENATE BILL 528
+1 (2025 Replacement Volume)
+2 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+3 That the Laws of Maryland read as follows:
+4 Article – Commercial Law
+5 13–301.
+6 Unfair, abusive, or deceptive trade practices include any:
+7 (14) Violation of a provision of:
+8 (xlvii) Title 14, Subtitle 50 of this article; [or]
+9 (xlviii) Section 13–411.1(c)(2) of the Transportation Article; or
+10 (XLIX) SECTION 14–1330 OF THIS ARTICLE; OR
+11 14–1330.
+12 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+13 INDICATED.
+14 (2) “CONSUMER” HAS THE MEANING STATED IN § 13–101 OF THIS
+15 ARTICLE.
+16 (3) “VIDEO PROGRAMMING” HAS THE MEANING STATED IN 47 U.S.C.
+17 § 613.
+18 (4) (I) “VIDEO STREAMING SERVICE” MEANS AN ENTITY THAT
+19 TRANSMITS DIRECTLY TO A CONSUMER USING AN INTERNET PROTOCOL–BASED
+20 SYSTEM:
+21 1. VIDEO PROGRAMMING OR VIDEO CONTENT; AND
+22 2. COMMERCIAL ADVERTISEMENTS TRANSMITTED
+23 ALONG WITH THE VIDEO PROGRAMMING OR THE VIDEO CONTENT.
+24 (II) “VIDEO STREAMING SERVICE” DOES NOT INCLUDE:
+25 1. A TELEVISION BROADCAST STATION;
+26 2. A CABLE OPERATOR; OR
+SENATE BILL 528 3
+1 3. ANY OTHER TELEVISION MULTICHANNEL VIDEO
+2 PROGRAMMING DISTRIBUTOR;
+3 4. A SERVICE THAT MAKES AVAILABLE PROGRAMMING
+4 OR VIDEO CONTENT WITHOUT COMMERCIAL ADVERTISEMENTS; OR
+5 5. A WEBSITE OR APPLICATION THAT DOES NOT MAKE
+6 VIDEO PROGRAMMING AVAILABLE TO CONSUMERS AS ITS PRIMARY PURPOSE.
+7 (B) A VIDEO STREAMING SERVICE MAY NOT TRANSMIT TO A CONSUMER IN
+8 THE STATE THE AUDIO OF A COMMERCIAL ADVERTISEMENT IN A MANNER THAT IS
+9 LOUDER THAN THE AUDIO OF THE ACCOMPANYING VIDEO PROGRAMMING OR VIDEO
+10 CONTENT BEING TRANSMITTED BY THE VIDEO STREAMING SERVICE.
+11 (C) A VIDEO STREAMING SERVICE SHALL BE CONSIDERED IN COMPLIANCE
+12 WITH THIS SECTION IF THE VIDEO STREAMING SERVICE COMPLIES WITH
+13 REGULATIONS THAT ARE ADOPTED:
+14 (1) BY THE FEDERAL COMMUNICATIONS COMMISSION UNDER THE
+15 FEDERAL COMMERCIAL ADVERTISEMENT LOUDNESS MITIGATION ACT; AND
+16 (2) FOR THE PURPOSE OF REGULATING THE AUDIO LOUDNESS OF
+17 COMMERCIAL ADVERTISEMENTS OF TELEVISION BROADCAST STATIONS, CABLE
+18 OPERATORS, AND OTHER TELEVISION PROGRAMMING DISTRIBUTORS.
+19 (D) A VIOLATION OF THIS SECTION IS:
+20 (1) AN UNFAIR, ABUSIVE, OR DECEPTIVE TRADE PRACTICE WITHIN
+21 THE MEANING OF TITLE 13 OF THIS ARTICLE; AND
+22 (2) SUBJECT TO THE ENFORCEMENT AND PENALTY PROVISIONS
+23 CONTAINED IN TITLE 13 OF THIS ARTICLE, EXCEPT §§ 13–407, 13–408, AND 13–411
+24 OF THIS ARTICLE.
+25 (E) THIS SECTION MAY NOT BE CONSTRUED TO AUTHORIZE A PRIVATE
+26 RIGHT OF ACTION UNDER THIS SECTION OR ANY OTHER LAW.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 October 1, 2026.
+[DELETED: :CA      6   C A C A F c l t v s s a g r t t r o v s B  A S  A  ( B  A S  A  ( B  A S  A]
+[DELETED:  S   (  S T A 1  U   ( V    ( T o]    ( S   ) S10;XE  E  ) ( N ( “C”§1R H T M S I   O T ( “V”47UG   6 ( () “VI S SE M A E T D T A C U A N PLB   1 V;T    2  A T  () “V”:IIE    1 A;   2 A;R ]
+[DELETED: S 3   3  O T M V   4 S    5 ()   T()   T S I T V S S C W ( BFC E O O O D O I CT ALMA; (  T P O R T A L O A O T B SS CS .() A:  ( A,R E  I  E 13; (  T T E A P P I  E      13,§§1,1,1 ) H S M N B C T A A P  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 528
+I3 6lr2798
+CF HB 985
+By: Senator Harris
+Introduced and read first time: February 4, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 1, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Consumer Protection – Video Streaming Services – Loudness of Commercial
+3 Advertisements
+4 FOR the purpose of prohibiting a certain video streaming service from transmitting to a
+5 consumer in the State the audio of a commercial advertisement in a manner that is
+6 louder than the audio of the accompanying video programming or video content of
+7 the video streaming service; and generally relating to the regulation of video
+8 streaming services.
+9 BY repealing and reenacting, with amendments,
+10 Article – Commercial Law
+11 Section 13–301(14)(xlvii)
+12 Annotated Code of Maryland
+13 (2025 Replacement Volume)
+14 BY repealing and reenacting, without amendments,
+15 Article – Commercial Law
+16 Section 13–301(14)(xlviii)
+17 Annotated Code of Maryland
+18 (2025 Replacement Volume)
+19 BY adding to
+20 Article – Commercial Law
+21 Section 13–301(14)(xlix) and 14–1330
+22 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0528*
+
+2 SENATE BILL 528
+1 (2025 Replacement Volume)
+2 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+3 That the Laws of Maryland read as follows:
+4 Article – Commercial Law
+5 13–301.
+6 Unfair, abusive, or deceptive trade practices include any:
+7 (14) Violation of a provision of:
+8 (xlvii) Title 14, Subtitle 50 of this article; [or]
+9 (xlviii) Section 13–411.1(c)(2) of the Transportation Article; or
+10 (XLIX) SECTION 14–1330 OF THIS ARTICLE; OR
+11 14–1330.
+12 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+13 INDICATED.
+14 (2) “CONSUMER” HAS THE MEANING STATED IN § 13–101 OF THIS
+15 ARTICLE.
+16 (3) “VIDEO PROGRAMMING” HAS THE MEANING STATED IN 47 U.S.C.
+17 § 613.
+18 (4) (I) “VIDEO STREAMING SERVICE” MEANS AN ENTITY THAT
+19 TRANSMITS DIRECTLY TO A CONSUMER USING AN INTERNET PROTOCOL–BASED
+20 SYSTEM:
+21 1. VIDEO PROGRAMMING OR VIDEO CONTENT; AND
+22 2. COMMERCIAL ADVERTISEMENTS TRANSMITTED
+23 ALONG WITH THE VIDEO PROGRAMMING OR THE VIDEO CONTENT.
+24 (II) “VIDEO STREAMING SERVICE” DOES NOT INCLUDE:
+25 1. A TELEVISION BROADCAST STATION;
+26 2. A CABLE OPERATOR; OR
+
+SENATE BILL 528 3
+1 3. ANY OTHER TELEVISION MULTICHANNEL VIDEO
+2 PROGRAMMING DISTRIBUTOR;
+3 4. A SERVICE THAT MAKES AVAILABLE PROGRAMMING
+4 OR VIDEO CONTENT WITHOUT COMMERCIAL ADVERTISEMENTS; OR
+5 5. A WEBSITE OR APPLICATION THAT DOES NOT MAKE
+6 VIDEO PROGRAMMING AVAILABLE TO CONSUMERS AS ITS PRIMARY PURPOSE.
+7 (B) A VIDEO STREAMING SERVICE MAY NOT TRANSMIT TO A CONSUMER IN
+8 THE STATE THE AUDIO OF A COMMERCIAL ADVERTISEMENT IN A MANNER THAT IS
+9 LOUDER THAN THE AUDIO OF THE ACCOMPANYING VIDEO PROGRAMMING OR VIDEO
+10 CONTENT BEING TRANSMITTED BY THE VIDEO STREAMING SERVICE.
+11 (C) A VIDEO STREAMING SERVICE SHALL BE CONSIDERED IN COMPLIANCE
+12 WITH THIS SECTION IF THE VIDEO STREAMING SERVICE COMPLIES WITH
+13 REGULATIONS THAT ARE ADOPTED:
+14 (1) BY THE FEDERAL COMMUNICATIONS COMMISSION UNDER THE
+15 FEDERAL COMMERCIAL ADVERTISEMENT LOUDNESS MITIGATION ACT; AND
+16 (2) FOR THE PURPOSE OF REGULATING THE AUDIO LOUDNESS OF
+17 COMMERCIAL ADVERTISEMENTS OF TELEVISION BROADCAST STATIONS, CABLE
+18 OPERATORS, AND OTHER TELEVISION PROGRAMMING DISTRIBUTORS.
+19 (D) A VIOLATION OF THIS SECTION IS:
+20 (1) AN UNFAIR, ABUSIVE, OR DECEPTIVE TRADE PRACTICE WITHIN
+21 THE MEANING OF TITLE 13 OF THIS ARTICLE; AND
+22 (2) SUBJECT TO THE ENFORCEMENT AND PENALTY PROVISIONS
+23 CONTAINED IN TITLE 13 OF THIS ARTICLE, EXCEPT §§ 13–407, 13–408, AND 13–411
+24 OF THIS ARTICLE.
+25 (E) THIS SECTION MAY NOT BE CONSTRUED TO AUTHORIZE A PRIVATE
+26 RIGHT OF ACTION UNDER THIS SECTION OR ANY OTHER LAW.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 October 1, 2026.
+
+[DELETED: :CA      6   C A C A F c l t v s s a g r t t r o v s B  A S  A  ( B  A S  A  ( B  A S  A]
+[DELETED:  S   (  S T A 1  U   ( V    ( T o]    ( S   ) S10;XE  E  ) ( N ( “C”§1R H T M S I   O T ( “V”47UG   6 ( () “VI S SE M A E T D T A C U A N PLB   1 V;T    2  A T  () “V”:IIE    1 A;   2 A;R ]
+[DELETED: S 3   3  O T M V   4 S    5 ()   T()   T S I T V S S C W ( BFC E O O O D O I CT ALMA; (  T P O R T A L O A O T B SS CS .() A:  ( A,R E  I  E 13; (  T T E A P P I  E      13,§§1,1,1 ) H S M N B C T A A P  S A B I F E T t A s t e O]

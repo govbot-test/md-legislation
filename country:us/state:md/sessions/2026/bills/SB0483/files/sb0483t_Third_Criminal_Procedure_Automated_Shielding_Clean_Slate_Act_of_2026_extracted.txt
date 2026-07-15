@@ -1,0 +1,256 @@
+Title: SENATE BILL 483
+Official Title: SENATE BILL 483
+Number of Sections: 1
+Source: versions - Third - Criminal Procedure - Automated Shielding (Clean Slate Act of 2026)
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+E2 6lr2087
+CF HB 360
+By: Senators McKay, Smith, Sydnor, Waldstreicher, Love, and Muse
+Introduced and read first time: February 2, 2026
+Assigned to: Judicial Proceedings
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 4, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Criminal Procedure – Automated Expungement Shielding
+3 (Clean Slate Act of 2026)
+4 FOR the purpose of requiring the Department of Public Safety and Correctional Services
+5 and the Judiciary to expunge shield all cases meeting certain criteria on or before a
+6 certain date; requiring the Department and the Judiciary to expunge shield certain
+7 newly eligible cases on a monthly basis; and generally relating to expungement
+8 shielding.
+9 BY repealing and reenacting, without amendments,
+10 Article – Criminal Procedure
+11 Section 10–301(a) through (e)
+12 Annotated Code of Maryland
+13 (2025 Replacement Volume)
+14 BY adding to
+15 Article – Criminal Procedure
+16 Section 10–112.1 10–303.1
+17 Annotated Code of Maryland
+18 (2025 Replacement Volume)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Criminal Procedure
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0483*
+2 SENATE BILL 483
+1 10–301.
+2 (a) In this subtitle the following words have the meanings indicated.
+3 (b) “Court record” has the meaning stated in § 10–101 of this title.
+4 (c) “Criminal justice unit” has the meaning stated in § 10–201 of this title.
+5 (d) “Police record” has the meaning stated in § 10–101 of this title.
+6 (e) “Shield” means to render a court record and police record relating to a
+7 conviction of a crime inaccessible by members of the public.
+8 10–112.1. 10–303.1.
+9 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+10 INDICATED.
+11 (2) (I) “DISPOSITION” MEANS THE OUTCOME OF A CRIMINAL
+12 CHARGE OR CASE RECORDED IN ELECTRONIC COURT RECORDS.
+13 (II) “DISPOSITION” INCLUDES AN ACQUITTAL, A DISMISSAL, A
+14 NOLLE PROSEQUI, A FINDING OF GUILTY, A PROBATION BEFORE JUDGMENT, A PLEA
+15 OF GUILTY, A PLEA OF NOLO CONTENDERE, MARKING THE CHARGE “STET” ON THE
+16 DOCKET, AND AN ORDER OF AN APPELLATE COURT ENDING A CRIMINAL CASE.
+17 (III) “DISPOSITION” DOES NOT REFER TO THE OUTCOME OF A
+18 CRIMINAL SENTENCE.
+19 (3) “EXPUNGE” MEANS TO:
+20 (I) REMOVE ALL REFERENCES TO A SPECIFIED CRIMINAL CASE
+21 FROM THE CENTRAL REPOSITORY; AND
+22 (II) REMOVE FROM PUBLIC VIEW ALL ELECTRONIC COURT
+23 RECORDS RELATING TO THE CASE, WITHOUT NEEDING TO REDACT PHYSICAL OR
+24 ELECTRONIC DOCUMENTS, RECORDINGS, OR AUDIO OR VISUAL MEDIA.
+25 (B) ON OR BEFORE JULY 1, 2028, THE DEPARTMENT AND THE JUDICIARY
+26 SHALL EXPUNGE ALL CASES IN WHICH:
+27 (1) (I) ALL CHARGES OR DISPOSITIONS IN THE CASE ARE LISTED
+28 UNDER § 10–105(A) OF THIS SUBTITLE;
+SENATE BILL 483 3
+1 (II) THE CASE IS ELIGIBLE UNDER § 10–107 OF THIS SUBTITLE;
+2 AND
+3 (III) AT LEAST 3 YEARS HAVE PASSED SINCE THE DATE OF THE
+4 DISPOSITION OF THE CASE; OR
+5 (2) (I) ANY CONVICTIONS IN THE CASE ARE MISDEMEANOR
+6 CONVICTIONS LISTED UNDER § 10–110(A) OF THIS SUBTITLE, OTHER THAN:
+7 1. ASSAULT IN THE SECOND DEGREE UNDER § 3–203 OF
+8 THE CRIMINAL LAW ARTICLE; AND
+9 2. ANY CHARGE MARKED IN ELECTRONIC COURT
+10 RECORDS AS A DOMESTICALLY RELATED CRIME UNDER § 6–233 OF THIS ARTICLE;
+11 (II) THE CASE IS ELIGIBLE UNDER §§ 10–107 AND 10–110(D)(2)
+12 AND (3) OF THIS SUBTITLE; AND
+13 (III) AT LEAST 7 YEARS HAVE PASSED SINCE THE DISPOSITION OF
+14 THE CASE, EXCEPT THAT IF THE PERSON IS CONVICTED OF A NEW CRIME DURING
+15 THE 7–YEAR PERIOD, THE ORIGINAL CONVICTION OR CONVICTIONS ARE NOT
+16 ELIGIBLE FOR EXPUNGEMENT UNLESS THE NEW CONVICTION BECOMES ELIGIBLE
+17 FOR EXPUNGEMENT.
+18 (C) (1) BEGINNING AUGUST 1, 2028, THE JUDICIARY SHALL, ONCE PER
+19 MONTH, IDENTIFY ALL CASES THAT ARE NEWLY ELIGIBLE FOR EXPUNGEMENT
+20 BASED ON THE CRITERIA SET FORTH IN SUBSECTION (B) OF THIS SECTION.
+21 (2) PROMPTLY AFTER MAKING EACH DETERMINATION REQUIRED
+22 UNDER PARAGRAPH (1) OF THIS SUBSECTION, THE JUDICIARY SHALL
+23 ELECTRONICALLY NOTIFY THE DEPARTMENT OF ALL CASES THAT ARE NEWLY
+24 ELIGIBLE FOR EXPUNGEMENT.
+25 (3) WITHIN ONE MONTH OF THE NOTIFICATION REQUIRED UNDER
+26 PARAGRAPH (2) OF THIS SUBSECTION, THE DEPARTMENT AND THE JUDICIARY
+27 SHALL EXPUNGE ALL NEWLY ELIGIBLE CASES.
+28 (A) IN THIS SECTION, “TECHNICALLY ELIGIBLE FOR EXPUNGEMENT”
+29 MEANS THAT, BASED ON THE NATURE OF A CHARGE OR CONVICTION AND THE
+30 RELEVANT TIME THAT HAS ELAPSED, A PERSON WOULD BE ELIGIBLE TO FILE A
+31 PETITION FOR EXPUNGEMENT UNDER SUBTITLE 1 OF THIS TITLE.
+4 SENATE BILL 483
+1 (B) ON OR BEFORE JULY 1, 2028, THE JUDICIARY SHALL SHIELD ALL CASES
+2 IN WHICH ALL CHARGES IN THE CASE ARE TECHNICALLY ELIGIBLE FOR
+3 EXPUNGEMENT.
+4 (C) (1) BEGINNING AUGUST 1, 2028, THE JUDICIARY SHALL, ONCE PER
+5 MONTH, IDENTIFY ALL CASES IN WHICH ALL CHARGES IN THE CASE ARE NEWLY
+6 TECHNICALLY ELIGIBLE FOR EXPUNGEMENT.
+7 (2) WITHIN 1 MONTH OF IDENTIFYING A CASE UNDER PARAGRAPH (1)
+8 OF THIS SUBSECTION, THE JUDICIARY SHALL SHIELD THE CASE.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      6   C A C ( F a c n e c o a m b a g r t e s B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  S  1  ( I  ( “  ( “  ( “  ( “ m t r a c r a p r r t a c.1  )( N   () “DIN M T O O A C  () “D”,IIN L L I Y T ,Y E  ST ,“T .  () “DIIN  ( “E”:E O  ()R E EY R;  ()IR F P V A E C T CE WS S ,.() OJ1,2,DN U    E U ( ()A  A 1();]
+[DELETED: S 3  () §17IT   E  () IA  E  ( ()A C I T C A M  A E 1(),:   1 §3    R A RE LA;   2 C M I E C   63;  () §§171()IT    D  E );  () IA  E  Y PD T O C O C A N– ) ( BA1,2,JE U    UL H I A C T A N E F E B ). (  A M E D R P  O T SN T U S), N T E O A C T A N (  O M O T N R U  O T SN T E A T U),D ) I,“N T SN T E F ET TT B O T N O A C O C A T T T H ED A P W B E T F A U  1.]
+[DELETED:  S () OJ1,2,N U    U W A C I T C A T E FT() ( BA1,2,JE U    UL H I C I W A C I T C A N ( W1(   N  UJ.  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 483
+E2 6lr2087
+CF HB 360
+By: Senators McKay, Smith, Sydnor, Waldstreicher, Love, and Muse
+Introduced and read first time: February 2, 2026
+Assigned to: Judicial Proceedings
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 4, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Criminal Procedure – Automated Expungement Shielding
+3 (Clean Slate Act of 2026)
+4 FOR the purpose of requiring the Department of Public Safety and Correctional Services
+5 and the Judiciary to expunge shield all cases meeting certain criteria on or before a
+6 certain date; requiring the Department and the Judiciary to expunge shield certain
+7 newly eligible cases on a monthly basis; and generally relating to expungement
+8 shielding.
+9 BY repealing and reenacting, without amendments,
+10 Article – Criminal Procedure
+11 Section 10–301(a) through (e)
+12 Annotated Code of Maryland
+13 (2025 Replacement Volume)
+14 BY adding to
+15 Article – Criminal Procedure
+16 Section 10–112.1 10–303.1
+17 Annotated Code of Maryland
+18 (2025 Replacement Volume)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Criminal Procedure
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0483*
+
+2 SENATE BILL 483
+1 10–301.
+2 (a) In this subtitle the following words have the meanings indicated.
+3 (b) “Court record” has the meaning stated in § 10–101 of this title.
+4 (c) “Criminal justice unit” has the meaning stated in § 10–201 of this title.
+5 (d) “Police record” has the meaning stated in § 10–101 of this title.
+6 (e) “Shield” means to render a court record and police record relating to a
+7 conviction of a crime inaccessible by members of the public.
+8 10–112.1. 10–303.1.
+9 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+10 INDICATED.
+11 (2) (I) “DISPOSITION” MEANS THE OUTCOME OF A CRIMINAL
+12 CHARGE OR CASE RECORDED IN ELECTRONIC COURT RECORDS.
+13 (II) “DISPOSITION” INCLUDES AN ACQUITTAL, A DISMISSAL, A
+14 NOLLE PROSEQUI, A FINDING OF GUILTY, A PROBATION BEFORE JUDGMENT, A PLEA
+15 OF GUILTY, A PLEA OF NOLO CONTENDERE, MARKING THE CHARGE “STET” ON THE
+16 DOCKET, AND AN ORDER OF AN APPELLATE COURT ENDING A CRIMINAL CASE.
+17 (III) “DISPOSITION” DOES NOT REFER TO THE OUTCOME OF A
+18 CRIMINAL SENTENCE.
+19 (3) “EXPUNGE” MEANS TO:
+20 (I) REMOVE ALL REFERENCES TO A SPECIFIED CRIMINAL CASE
+21 FROM THE CENTRAL REPOSITORY; AND
+22 (II) REMOVE FROM PUBLIC VIEW ALL ELECTRONIC COURT
+23 RECORDS RELATING TO THE CASE, WITHOUT NEEDING TO REDACT PHYSICAL OR
+24 ELECTRONIC DOCUMENTS, RECORDINGS, OR AUDIO OR VISUAL MEDIA.
+25 (B) ON OR BEFORE JULY 1, 2028, THE DEPARTMENT AND THE JUDICIARY
+26 SHALL EXPUNGE ALL CASES IN WHICH:
+27 (1) (I) ALL CHARGES OR DISPOSITIONS IN THE CASE ARE LISTED
+28 UNDER § 10–105(A) OF THIS SUBTITLE;
+
+SENATE BILL 483 3
+1 (II) THE CASE IS ELIGIBLE UNDER § 10–107 OF THIS SUBTITLE;
+2 AND
+3 (III) AT LEAST 3 YEARS HAVE PASSED SINCE THE DATE OF THE
+4 DISPOSITION OF THE CASE; OR
+5 (2) (I) ANY CONVICTIONS IN THE CASE ARE MISDEMEANOR
+6 CONVICTIONS LISTED UNDER § 10–110(A) OF THIS SUBTITLE, OTHER THAN:
+7 1. ASSAULT IN THE SECOND DEGREE UNDER § 3–203 OF
+8 THE CRIMINAL LAW ARTICLE; AND
+9 2. ANY CHARGE MARKED IN ELECTRONIC COURT
+10 RECORDS AS A DOMESTICALLY RELATED CRIME UNDER § 6–233 OF THIS ARTICLE;
+11 (II) THE CASE IS ELIGIBLE UNDER §§ 10–107 AND 10–110(D)(2)
+12 AND (3) OF THIS SUBTITLE; AND
+13 (III) AT LEAST 7 YEARS HAVE PASSED SINCE THE DISPOSITION OF
+14 THE CASE, EXCEPT THAT IF THE PERSON IS CONVICTED OF A NEW CRIME DURING
+15 THE 7–YEAR PERIOD, THE ORIGINAL CONVICTION OR CONVICTIONS ARE NOT
+16 ELIGIBLE FOR EXPUNGEMENT UNLESS THE NEW CONVICTION BECOMES ELIGIBLE
+17 FOR EXPUNGEMENT.
+18 (C) (1) BEGINNING AUGUST 1, 2028, THE JUDICIARY SHALL, ONCE PER
+19 MONTH, IDENTIFY ALL CASES THAT ARE NEWLY ELIGIBLE FOR EXPUNGEMENT
+20 BASED ON THE CRITERIA SET FORTH IN SUBSECTION (B) OF THIS SECTION.
+21 (2) PROMPTLY AFTER MAKING EACH DETERMINATION REQUIRED
+22 UNDER PARAGRAPH (1) OF THIS SUBSECTION, THE JUDICIARY SHALL
+23 ELECTRONICALLY NOTIFY THE DEPARTMENT OF ALL CASES THAT ARE NEWLY
+24 ELIGIBLE FOR EXPUNGEMENT.
+25 (3) WITHIN ONE MONTH OF THE NOTIFICATION REQUIRED UNDER
+26 PARAGRAPH (2) OF THIS SUBSECTION, THE DEPARTMENT AND THE JUDICIARY
+27 SHALL EXPUNGE ALL NEWLY ELIGIBLE CASES.
+28 (A) IN THIS SECTION, “TECHNICALLY ELIGIBLE FOR EXPUNGEMENT”
+29 MEANS THAT, BASED ON THE NATURE OF A CHARGE OR CONVICTION AND THE
+30 RELEVANT TIME THAT HAS ELAPSED, A PERSON WOULD BE ELIGIBLE TO FILE A
+31 PETITION FOR EXPUNGEMENT UNDER SUBTITLE 1 OF THIS TITLE.
+
+4 SENATE BILL 483
+1 (B) ON OR BEFORE JULY 1, 2028, THE JUDICIARY SHALL SHIELD ALL CASES
+2 IN WHICH ALL CHARGES IN THE CASE ARE TECHNICALLY ELIGIBLE FOR
+3 EXPUNGEMENT.
+4 (C) (1) BEGINNING AUGUST 1, 2028, THE JUDICIARY SHALL, ONCE PER
+5 MONTH, IDENTIFY ALL CASES IN WHICH ALL CHARGES IN THE CASE ARE NEWLY
+6 TECHNICALLY ELIGIBLE FOR EXPUNGEMENT.
+7 (2) WITHIN 1 MONTH OF IDENTIFYING A CASE UNDER PARAGRAPH (1)
+8 OF THIS SUBSECTION, THE JUDICIARY SHALL SHIELD THE CASE.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      6   C A C ( F a c n e c o a m b a g r t e s B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  S  1  ( I  ( “  ( “  ( “  ( “ m t r a c r a p r r t a c.1  )( N   () “DIN M T O O A C  () “D”,IIN L L I Y T ,Y E  ST ,“T .  () “DIIN  ( “E”:E O  ()R E EY R;  ()IR F P V A E C T CE WS S ,.() OJ1,2,DN U    E U ( ()A  A 1();]
+[DELETED: S 3  () §17IT   E  () IA  E  ( ()A C I T C A M  A E 1(),:   1 §3    R A RE LA;   2 C M I E C   63;  () §§171()IT    D  E );  () IA  E  Y PD T O C O C A N– ) ( BA1,2,JE U    UL H I A C T A N E F E B ). (  A M E D R P  O T SN T U S), N T E O A C T A N (  O M O T N R U  O T SN T E A T U),D ) I,“N T SN T E F ET TT B O T N O A C O C A T T T H ED A P W B E T F A U  1.]
+[DELETED:  S () OJ1,2,N U    U W A C I T C A T E FT() ( BA1,2,JE U    UL H I C I W A C I T C A N ( W1(   N  UJ.  S A B I F E T t A s t e O          G               ]

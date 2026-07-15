@@ -1,0 +1,325 @@
+Title: (Senate Bill 468)
+Official Title: (Senate Bill 468)
+Number of Sections: 10
+Source: versions - Chapter - Local Government - Grant for Recipients of State Child Tax Credit - Authorization
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 203
+Chapter 203
+AN ACT concerning
+Income Tax – Local Local Government – Grant for Recipients of State Child Tax
+Credit – Authorization
+FOR the purpose of authorizing a county to provide, by law, a credit against the county
+grant to recipients of the State income tax credit for certain dependent children,
+subject to certain limitations; and generally relating to a credit against the county
+county grants to recipients of the State income tax credit for dependent children.
+BY adding to
+Article – Local Government
+
+Section 2:
+Section 12–906
+Annotated Code of Maryland
+(2013 Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Tax – General
+
+Section 3:
+Section 10–706, 10–751, and 10–809 10–706 and 10–809
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Tax – General
+
+Section 4:
+Section 10–751
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+
+Section 5:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Local Government
+12–906.
+(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+(2) “FEDERAL ADJUSTED GROSS INCOME”, “FIDUCIARY”,
+“RESIDENT”, AND “TAXABLE YEAR” HAVE THE MEANINGS STATED IN § 10–101 OF
+THE TAX – GENERAL ARTICLE.
+– 1 –
+Ch. 203 2026 LAWS OF MARYLAND
+(3) “QUALIFIED CHILD” AND “TAXPAYER” HAVE THE MEANINGS
+STATED IN § 10–751 OF THE TAX – GENERAL ARTICLE.
+(B) A COUNTY MAY PROVIDE, BY LAW, FOR A GRANT FOR EACH QUALIFIED
+CHILD OF A TAXPAYER IF:
+(1) THE TAXPAYER HAS FEDERAL ADJUSTED GROSS INCOME LOWER
+THAN THE THRESHOLD AMOUNT OF $15,000; AND
+(2) THE TAXPAYER AND EACH QUALIFIED CHILD ARE RESIDENTS,
+OTHER THAN FIDUCIARIES, WHO ON THE LAST DAY OF THE TAXABLE YEAR ARE:
+(I) DOMICILED IN THAT COUNTY; OR
+(II) MAINTAIN A PRINCIPAL RESIDENCE OR PLACE OF ABODE IN
+THAT COUNTY.
+(C) THE AMOUNT OF A GRANT ALLOWED UNDER THIS SECTION SHALL BE
+REDUCED BY 10% FOR EACH $1,000, OR FRACTION THEREOF, BY WHICH THE
+TAXPAYER’S FEDERAL ADJUSTED GROSS INCOME EXCEEDS THE THRESHOLD
+AMOUNT, EXCEPT THAT THE REDUCTION CANNOT REDUCE THE GRANT BELOW ZERO.
+(D) A COUNTY MAY PROVIDE, BY LAW, FOR:
+(1) THE AMOUNT OF THE GRANT UNDER SUBSECTION (B) OF THIS
+
+Section 6:
+SECTION; AND
+(2) ANY OTHER PROVISION NECESSARY TO CARRY OUT THE GRANT
+UNDER THIS SECTION.
+(E) A COUNTY THAT PROVIDES A GRANT UNDER THIS SECTION SHALL
+REIMBURSE THE COMPTROLLER FOR REASONABLE EXPENSES INCURRED BY THE
+COMPTROLLER TO PROVIDE THE COUNTY INFORMATION NECESSARY TO
+IMPLEMENT THE GRANT.
+Article – Tax – General
+10–706.
+(a) Except as otherwise provided in this section, a credit allowed under this
+subtitle is allowed against the State income tax only.
+(b) A credit under § 10–701 of this subtitle is allowed against the total county and
+State income taxes.
+– 2 –
+WES MOORE, Governor Ch. 203
+(c) (1) A credit allowed under [§ 10–704(a)(1) or] § 10–704(B)(1), §
+10–709(b)(1), OR § 10–751(B) of this subtitle is allowed against the State income tax only.
+(2) A credit allowed under [§ 10–704(a)(2) or] § 10–704(B)(2), §
+10–709(b)(2), OR § 10–751(C) of this subtitle is allowed against the county income tax only.
+(c) (1) A credit allowed under [§ 10–704(a)(1)] § 10–704(B)(1) or §
+10–709(b)(1) of this subtitle is allowed against the State income tax only.
+(2) A credit allowed under [§ 10–704(a)(2)] § 10–704(B)(2) or §
+10–709(b)(2) of this subtitle is allowed against the county income tax only.
+10–751.
+(a) (1) In this section the following words have the meanings indicated.
+(2) “Qualified child” means a dependent of a taxpayer, if the dependent:
+(i) is a dependent for purposes of § 152 of the Internal Revenue Code
+in effect on December 31, 2024; and
+(ii) 1. is under the age of 6 years; or
+
+Section 7:
+2. A. is under the age of 17 years; and
+B. is a child with a disability, as defined under § 8–401 of the
+Education Article.
+(3) “Taxpayer” means:
+(i) an individual filing an income tax return; or
+(ii) a married couple filing a joint income tax return.
+(b) (1) A taxpayer who is a resident and has federal adjusted gross income
+lower than the threshold amount of $15,000 may claim a credit against the State income
+tax for each qualified child in an amount equal to $500.
+[(c)] (2) The amount of the credit ALLOWED UNDER THIS SUBSECTION shall
+be reduced by $50 for each $1,000, or fraction thereof, by which the taxpayer’s federal
+adjusted gross income exceeds the threshold amount, except that the reduction cannot
+reduce the credit below zero.
+– 3 –
+Ch. 203 2026 LAWS OF MARYLAND
+[(d)] (3) If the credit allowed under this [section] SUBSECTION in any taxable
+year exceeds the State income tax for that taxable year, the taxpayer may claim a refund
+in the amount of the excess.
+(C) (1) A COUNTY MAY PROVIDE, BY LAW, FOR A CREDIT AGAINST THE
+COUNTY INCOME TAX FOR EACH QUALIFIED CHILD OF A TAXPAYER IF:
+(I) THE TAXPAYER HAS FEDERAL ADJUSTED GROSS INCOME
+LOWER THAN THE THRESHOLD AMOUNT OF $15,000; AND
+(II) THE TAXPAYER AND EACH QUALIFIED CHILD ARE
+RESIDENTS, OTHER THAN FIDUCIARIES, WHO ON THE LAST DAY OF THE TAXABLE
+YEAR:
+
+Section 8:
+1. ARE DOMICILED IN THAT COUNTY; OR
+
+Section 9:
+2. MAINTAIN A PRINCIPAL RESIDENCE OR PLACE OF
+ABODE IN THAT COUNTY.
+(2) THE AMOUNT OF THE COUNTY INCOME TAX CREDIT ALLOWED
+UNDER THIS SUBSECTION SHALL BE REDUCED BY $50 FOR EACH $1,000, OR
+FRACTION THEREOF, BY WHICH THE TAXPAYER’S FEDERAL ADJUSTED GROSS
+INCOME EXCEEDS THE THRESHOLD AMOUNT, EXCEPT THAT THE REDUCTION
+CANNOT REDUCE THE CREDIT BELOW ZERO.
+(3) IF A COUNTY PROVIDES FOR A COUNTY INCOME TAX CREDIT
+UNDER THIS SUBSECTION, ON OR BEFORE JULY 1 PRIOR TO THE BEGINNING OF THE
+FIRST TAXABLE YEAR FOR WHICH IT IS APPLICABLE, THE COUNTY SHALL GIVE THE
+COMPTROLLER NOTICE OF THE COUNTY INCOME TAX CREDIT.
+(4) A COUNTY MAY PROVIDE, BY LAW, FOR:
+(I) THE AMOUNT OF THE COUNTY INCOME TAX CREDIT UNDER
+THIS SUBSECTION; AND
+(II) IF THE CREDIT ALLOWED UNDER THIS SUBSECTION IN ANY
+TAXABLE YEAR EXCEEDS THE TOTAL COUNTY INCOME TAX OTHERWISE PAYABLE BY
+A TAXPAYER, WHETHER THE TAXPAYER MAY CLAIM A REFUND IN THE AMOUNT OF
+THE EXCESS.
+10–809.
+– 4 –
+WES MOORE, Governor Ch. 203
+If an individual is not required to file an income tax return under § 10–805, §
+10–806, or § 10–813 of this subtitle, the individual:
+(1) is not liable for income tax; and
+(2) may file an income tax return to claim a refund of the income tax
+withheld or estimated income tax paid or a refund under § 10–704, § 10–707, [or] § 10–714,
+OR § 10–751(C) § 10–751 of this title.
+
+Section 10:
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+1, 2026, and shall be applicable to all taxable years beginning after December 31, 2026.
+Approved by the Governor, April 28, 2026.
+– 5 –
+[DELETED: W CAA(AA(AA(S) ( N ( “F”,“” A G IE FY”,“”§1T  TR     A  E R–GA.]
+[DELETED:  2  ( “Q”“ CD A TR H T M    A  E R11T–GA.() A, E W  (  ; (  T A E Q C A RSS :  () ;DY   ()IM() H B  F E  O F TF B W T%$,RS F A G I E T TT .() A,,: E W  ( ( A O T G U S B O TN  (()  C T P A G U T S S O T P T C I N T( E a o p i t s a c a u t( A]
+[DELETED: W C( ( A c a u § 1 or §]§1() ) §1(   ( A c a u § 1 or §]§1() ) §1(  ( ( A c a u § 1) o §]§1()  ( A c a u § 1)o §]§1() B( ( I ( “  ( i  ( 1 i   2 A i   B i ( “  ( a  ( a( A() T s] ( g i e t t a e t t r c]
+[DELETED:  2 () I sn ] ()[) ( A, E W   ()T T H F A G I  ;  ()IT T A E Q C AS S    1 ;Y    2 A P R O P O (  A O T C I T C A T S S B R B  F E  O0$ TF B W T TRS F A G E T T AT E T T R (  A C P F A C I T CN  U  JE . ( A,,:E W   ()TN   ()IIR ]
+[DELETED: W CI a i i n r t f a i t r u § 1 §6  ( i ( m f a i t r t c a r o t i t or ]  C 1()§1S]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 203
+Chapter 203
+(Senate Bill 468)
+AN ACT concerning
+Income Tax – Local Local Government – Grant for Recipients of State Child Tax
+Credit – Authorization
+FOR the purpose of authorizing a county to provide, by law, a credit against the county
+grant to recipients of the State income tax credit for certain dependent children,
+subject to certain limitations; and generally relating to a credit against the county
+county grants to recipients of the State income tax credit for dependent children.
+BY adding to
+Article – Local Government
+Section 12–906
+Annotated Code of Maryland
+(2013 Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Tax – General
+Section 10–706, 10–751, and 10–809 10–706 and 10–809
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Tax – General
+Section 10–751
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Local Government
+12–906.
+(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+(2) “FEDERAL ADJUSTED GROSS INCOME”, “FIDUCIARY”,
+“RESIDENT”, AND “TAXABLE YEAR” HAVE THE MEANINGS STATED IN § 10–101 OF
+THE TAX – GENERAL ARTICLE.
+– 1 –
+
+Ch. 203 2026 LAWS OF MARYLAND
+(3) “QUALIFIED CHILD” AND “TAXPAYER” HAVE THE MEANINGS
+STATED IN § 10–751 OF THE TAX – GENERAL ARTICLE.
+(B) A COUNTY MAY PROVIDE, BY LAW, FOR A GRANT FOR EACH QUALIFIED
+CHILD OF A TAXPAYER IF:
+(1) THE TAXPAYER HAS FEDERAL ADJUSTED GROSS INCOME LOWER
+THAN THE THRESHOLD AMOUNT OF $15,000; AND
+(2) THE TAXPAYER AND EACH QUALIFIED CHILD ARE RESIDENTS,
+OTHER THAN FIDUCIARIES, WHO ON THE LAST DAY OF THE TAXABLE YEAR ARE:
+(I) DOMICILED IN THAT COUNTY; OR
+(II) MAINTAIN A PRINCIPAL RESIDENCE OR PLACE OF ABODE IN
+THAT COUNTY.
+(C) THE AMOUNT OF A GRANT ALLOWED UNDER THIS SECTION SHALL BE
+REDUCED BY 10% FOR EACH $1,000, OR FRACTION THEREOF, BY WHICH THE
+TAXPAYER’S FEDERAL ADJUSTED GROSS INCOME EXCEEDS THE THRESHOLD
+AMOUNT, EXCEPT THAT THE REDUCTION CANNOT REDUCE THE GRANT BELOW ZERO.
+(D) A COUNTY MAY PROVIDE, BY LAW, FOR:
+(1) THE AMOUNT OF THE GRANT UNDER SUBSECTION (B) OF THIS
+SECTION; AND
+(2) ANY OTHER PROVISION NECESSARY TO CARRY OUT THE GRANT
+UNDER THIS SECTION.
+(E) A COUNTY THAT PROVIDES A GRANT UNDER THIS SECTION SHALL
+REIMBURSE THE COMPTROLLER FOR REASONABLE EXPENSES INCURRED BY THE
+COMPTROLLER TO PROVIDE THE COUNTY INFORMATION NECESSARY TO
+IMPLEMENT THE GRANT.
+Article – Tax – General
+10–706.
+(a) Except as otherwise provided in this section, a credit allowed under this
+subtitle is allowed against the State income tax only.
+(b) A credit under § 10–701 of this subtitle is allowed against the total county and
+State income taxes.
+– 2 –
+
+WES MOORE, Governor Ch. 203
+(c) (1) A credit allowed under [§ 10–704(a)(1) or] § 10–704(B)(1), §
+10–709(b)(1), OR § 10–751(B) of this subtitle is allowed against the State income tax only.
+(2) A credit allowed under [§ 10–704(a)(2) or] § 10–704(B)(2), §
+10–709(b)(2), OR § 10–751(C) of this subtitle is allowed against the county income tax only.
+(c) (1) A credit allowed under [§ 10–704(a)(1)] § 10–704(B)(1) or §
+10–709(b)(1) of this subtitle is allowed against the State income tax only.
+(2) A credit allowed under [§ 10–704(a)(2)] § 10–704(B)(2) or §
+10–709(b)(2) of this subtitle is allowed against the county income tax only.
+10–751.
+(a) (1) In this section the following words have the meanings indicated.
+(2) “Qualified child” means a dependent of a taxpayer, if the dependent:
+(i) is a dependent for purposes of § 152 of the Internal Revenue Code
+in effect on December 31, 2024; and
+(ii) 1. is under the age of 6 years; or
+2. A. is under the age of 17 years; and
+B. is a child with a disability, as defined under § 8–401 of the
+Education Article.
+(3) “Taxpayer” means:
+(i) an individual filing an income tax return; or
+(ii) a married couple filing a joint income tax return.
+(b) (1) A taxpayer who is a resident and has federal adjusted gross income
+lower than the threshold amount of $15,000 may claim a credit against the State income
+tax for each qualified child in an amount equal to $500.
+[(c)] (2) The amount of the credit ALLOWED UNDER THIS SUBSECTION shall
+be reduced by $50 for each $1,000, or fraction thereof, by which the taxpayer’s federal
+adjusted gross income exceeds the threshold amount, except that the reduction cannot
+reduce the credit below zero.
+– 3 –
+
+Ch. 203 2026 LAWS OF MARYLAND
+[(d)] (3) If the credit allowed under this [section] SUBSECTION in any taxable
+year exceeds the State income tax for that taxable year, the taxpayer may claim a refund
+in the amount of the excess.
+(C) (1) A COUNTY MAY PROVIDE, BY LAW, FOR A CREDIT AGAINST THE
+COUNTY INCOME TAX FOR EACH QUALIFIED CHILD OF A TAXPAYER IF:
+(I) THE TAXPAYER HAS FEDERAL ADJUSTED GROSS INCOME
+LOWER THAN THE THRESHOLD AMOUNT OF $15,000; AND
+(II) THE TAXPAYER AND EACH QUALIFIED CHILD ARE
+RESIDENTS, OTHER THAN FIDUCIARIES, WHO ON THE LAST DAY OF THE TAXABLE
+YEAR:
+1. ARE DOMICILED IN THAT COUNTY; OR
+2. MAINTAIN A PRINCIPAL RESIDENCE OR PLACE OF
+ABODE IN THAT COUNTY.
+(2) THE AMOUNT OF THE COUNTY INCOME TAX CREDIT ALLOWED
+UNDER THIS SUBSECTION SHALL BE REDUCED BY $50 FOR EACH $1,000, OR
+FRACTION THEREOF, BY WHICH THE TAXPAYER’S FEDERAL ADJUSTED GROSS
+INCOME EXCEEDS THE THRESHOLD AMOUNT, EXCEPT THAT THE REDUCTION
+CANNOT REDUCE THE CREDIT BELOW ZERO.
+(3) IF A COUNTY PROVIDES FOR A COUNTY INCOME TAX CREDIT
+UNDER THIS SUBSECTION, ON OR BEFORE JULY 1 PRIOR TO THE BEGINNING OF THE
+FIRST TAXABLE YEAR FOR WHICH IT IS APPLICABLE, THE COUNTY SHALL GIVE THE
+COMPTROLLER NOTICE OF THE COUNTY INCOME TAX CREDIT.
+(4) A COUNTY MAY PROVIDE, BY LAW, FOR:
+(I) THE AMOUNT OF THE COUNTY INCOME TAX CREDIT UNDER
+THIS SUBSECTION; AND
+(II) IF THE CREDIT ALLOWED UNDER THIS SUBSECTION IN ANY
+TAXABLE YEAR EXCEEDS THE TOTAL COUNTY INCOME TAX OTHERWISE PAYABLE BY
+A TAXPAYER, WHETHER THE TAXPAYER MAY CLAIM A REFUND IN THE AMOUNT OF
+THE EXCESS.
+10–809.
+– 4 –
+
+WES MOORE, Governor Ch. 203
+If an individual is not required to file an income tax return under § 10–805, §
+10–806, or § 10–813 of this subtitle, the individual:
+(1) is not liable for income tax; and
+(2) may file an income tax return to claim a refund of the income tax
+withheld or estimated income tax paid or a refund under § 10–704, § 10–707, [or] § 10–714,
+OR § 10–751(C) § 10–751 of this title.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+1, 2026, and shall be applicable to all taxable years beginning after December 31, 2026.
+Approved by the Governor, April 28, 2026.
+– 5 –
+
+[DELETED: W CAA(AA(AA(S) ( N ( “F”,“” A G IE FY”,“”§1T  TR     A  E R–GA.]
+[DELETED:  2  ( “Q”“ CD A TR H T M    A  E R11T–GA.() A, E W  (  ; (  T A E Q C A RSS :  () ;DY   ()IM() H B  F E  O F TF B W T%$,RS F A G I E T TT .() A,,: E W  ( ( A O T G U S B O TN  (()  C T P A G U T S S O T P T C I N T( E a o p i t s a c a u t( A]
+[DELETED: W C( ( A c a u § 1 or §]§1() ) §1(   ( A c a u § 1 or §]§1() ) §1(  ( ( A c a u § 1) o §]§1()  ( A c a u § 1)o §]§1() B( ( I ( “  ( i  ( 1 i   2 A i   B i ( “  ( a  ( a( A() T s] ( g i e t t a e t t r c]
+[DELETED:  2 () I sn ] ()[) ( A, E W   ()T T H F A G I  ;  ()IT T A E Q C AS S    1 ;Y    2 A P R O P O (  A O T C I T C A T S S B R B  F E  O0$ TF B W T TRS F A G E T T AT E T T R (  A C P F A C I T CN  U  JE . ( A,,:E W   ()TN   ()IIR ]
+[DELETED: W CI a i i n r t f a i t r u § 1 §6  ( i ( m f a i t r t c a r o t i t or ]  C 1()§1S]

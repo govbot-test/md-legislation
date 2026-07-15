@@ -1,0 +1,339 @@
+Title: (Senate Bill 344)
+Official Title: (Senate Bill 344)
+Number of Sections: 18
+Source: versions - Chapter - Property Tax - Agricultural Use Assessment - Community Solar Energy Generating Systems
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+WES MOORE, Governor Ch. 46
+Chapter 46
+AN ACT concerning
+Property Tax – Agricultural Use Assessment – Community Solar Energy
+Generating Systems
+FOR the purpose of altering the date by which certain community solar energy generating
+systems must be approved by the Public Service Commission in order for land that
+is used by the community solar energy generating systems to qualify for the
+agricultural use assessment; requiring the State Department of Assessments and
+Taxation to issue a certain preconstruction determination under certain
+circumstances; authorizing the Department to rescind a preconstruction
+determination under certain circumstances; authorizing the Department to charge a
+certain application fee; and generally relating to the agricultural use assessment.
+BY repealing and reenacting, with amendments,
+Article – Tax – Property
+
+Section 2:
+Section 8–209(e)
+Annotated Code of Maryland
+(2019 Replacement Volume and 2025 Supplement)
+
+Section 3:
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Tax – Property
+8–209.
+(e) (1) (i) In this subsection the following words have the meanings
+indicated.
+(ii) “Agrivoltaics” has the meaning stated in § 7–237 of this article.
+(iii) “Community solar energy generating system” has the meaning
+stated in § 7–306.2 of the Public Utilities Article.
+(2) Except as provided in paragraph (4) of this subsection, the Department
+shall establish in regulations criteria to determine if land that appears to be actively used
+for farm or agricultural purposes:
+(i) is actually used for farm or agricultural purposes; and
+(ii) qualifies for assessment under this section.
+– 1 –
+Ch. 46 2026 LAWS OF MARYLAND
+(3) The criteria shall include:
+(i) the zoning of the land;
+(ii) the present and past use of the land including land under the Soil
+Bank Program of the United States;
+(iii) the productivity of the land, including timberlands and
+reforested lands; and
+(iv) the gross income that is derived from the agricultural activity.
+(4) (i) This paragraph applies through the life cycle of a community
+solar energy generating system that:
+
+Section 4:
+1. is placed in service after June 30, 2022; and
+
+Section 5:
+2. has been approved on or before December 31, [2025] 2030,
+as a community solar energy generating system by the Public Service Commission under §
+7–306.2 of the Public Utilities Article.
+(ii) 1. The Department shall assess and qualify land that is used
+by a community solar energy generating system for agrivoltaics as land that is actively
+used for farm or agricultural purposes.
+
+Section 6:
+2. A. ON APPLICATION, THE DEPARTMENT SHALL
+ISSUE A PRECONSTRUCTION DETERMINATION IN ACCORDANCE WITH PARAGRAPH
+(5) OF THIS SUBSECTION.
+B. A FAVORABLE PRECONSTRUCTION DETERMINATION
+QUALIFIES THE LAND AS ACTIVELY USED FOR FARM OR AGRICULTURAL PURPOSES
+UNDER SUBSUBPARAGRAPH 1 OF THIS SUBPARAGRAPH.
+(5) (I) ON APPLICATION, THE DEPARTMENT SHALL ISSUE A
+PRECONSTRUCTION DETERMINATION INDICATING WHETHER THE LAND SUBJECT TO
+THE REQUEST WILL BE ASSESSED AS FARM OR AGRICULTURAL USE LAND UNDER
+THIS SECTION.
+(II) AN APPLICATION FOR A PRECONSTRUCTION
+DETERMINATION UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH SHALL INCLUDE:
+
+Section 7:
+1. IDENTIFICATION OF THE PARCEL OR PARCELS;
+– 2 –
+WES MOORE, Governor Ch. 46
+
+Section 8:
+2. THE ANTICIPATED EFFECTIVE TAX YEAR FOR WHEN
+CONSTRUCTION WILL BE COMPLETE AND THE ANTICIPATED AGRICULTURAL
+ACTIVITY;
+
+Section 9:
+3. A SITE PLAN SHOWING THE PROPOSED SOLAR LAYOUT
+AND THE ACREAGE TO REMAIN IN AGRICULTURAL ACTIVITY;
+
+Section 10:
+4. AN AGRIVOLTAICS PLAN THAT INCLUDES:
+A. THE ANTICIPATED AGRICULTURAL ACTIVITY TO BE
+CONDUCTED DURING OPERATION OF THE COMMUNITY SOLAR ENERGY GENERATING
+SYSTEM;
+B. ACCESS AND FEATURES NECESSARY TO CONDUCT THE
+ANTICIPATED AGRICULTURAL ACTIVITY; AND
+C. HOW THE DESIGN OF THE COMMUNITY SOLAR ENERGY
+GENERATING SYSTEM WILL ALLOW FOR THE ANTICIPATED AGRICULTURAL
+ACTIVITY;
+
+Section 11:
+5. AN ESTIMATED CONSTRUCTION SCHEDULE AND THE
+PROPOSED IN–SERVICE DATE;
+
+Section 12:
+6. EVIDENCE OF SITE CONTROL, INCLUDING:
+A. AN EXECUTED LAND LEASE OR PURCHASE
+AGREEMENT BETWEEN THE LAND OWNER AND SOLAR OPERATOR;
+B. AN EXECUTED OPTION TO LEASE OR PURCHASE
+BETWEEN THE LAND OWNER AND SOLAR OPERATOR; OR
+C. A DEED INDICATING THE SOLAR OPERATOR OWNS THE
+LAND; AND
+
+Section 13:
+7. ANY OTHER INFORMATION REQUIRED BY THE
+DEPARTMENT THAT IS REASONABLY NECESSARY TO DETERMINE WHETHER THE
+LAND QUALIFIES FOR A FARM OR AGRICULTURAL USE ASSESSMENT UNDER
+PARAGRAPH (4) OF THIS SUBSECTION.
+(III) 1. WITHIN 90 DAYS AFTER RECEIVING A COMPLETED
+APPLICATION FOR A PRECONSTRUCTION DETERMINATION, THE DEPARTMENT
+SHALL REVIEW THE APPLICATION AND:
+– 3 –
+Ch. 46 2026 LAWS OF MARYLAND
+A. ISSUE A FAVORABLE PRECONSTRUCTION
+DETERMINATION;
+B. ISSUE AN UNFAVORABLE PRECONSTRUCTION
+DETERMINATION; OR
+C. NOTIFY THE APPLICANT THAT ADDITIONAL
+INFORMATION IS REQUIRED TO COMPLETE REVIEW.
+
+Section 14:
+2. THE DEPARTMENT MAY RESCIND A
+PRECONSTRUCTION DETERMINATION IF:
+A. THE COMMUNITY SOLAR ENERGY GENERATING
+SYSTEM, AS CONSTRUCTED OR OPERATED, MATERIALLY DIFFERS FROM THE
+DESCRIPTION PROVIDED IN THE APPLICATION;
+B. THE SOLAR OPERATOR HAS FAILED TO NOTIFY THE
+DEPARTMENT OF THE COMPLETED CONSTRUCTION AND SUBMIT AN AGRICULTURAL
+USE APPLICATION;
+C. AGRICULTURAL ACTIVITY IS NOT BEING MAINTAINED
+IN ACCORDANCE WITH THIS SECTION; OR
+D. THE APPLICANT PROVIDED INACCURATE
+INFORMATION IN THE APPLICATION.
+(IV) A FAVORABLE PRECONSTRUCTION DETERMINATION
+ISSUED BY THE DEPARTMENT QUALIFIES THE LAND FOR A FARM OR AGRICULTURAL
+USE ASSESSMENT UNDER PARAGRAPH (4) OF THIS SUBSECTION FOR THE
+IMMEDIATELY SUCCEEDING TAXABLE YEAR IF:
+
+Section 15:
+1. THE SOLAR OPERATOR PROVIDES WRITTEN NOTICE
+TO THE DEPARTMENT THAT THE PROJECT’S CONSTRUCTION IS COMPLETED AND
+AGRICULTURAL USE ACTIVITY IS BEING CONDUCTED;
+
+Section 16:
+2. AN APPLICATION FOR A FARM OR AGRICULTURAL USE
+ASSESSMENT IS SUBMITTED TO THE DEPARTMENT THAT INCLUDES THE REQUIRED
+INFORMATION; AND
+
+Section 17:
+3. THE SOLAR OPERATOR PROVIDES ACCESS TO THE
+SOLAR FACILITY FOR THE DEPARTMENT TO VERIFY THE AGRICULTURAL USE
+ACTIVITY IS BEING CONDUCTED IN ACCORDANCE WITH THIS SECTION.
+– 4 –
+WES MOORE, Governor Ch. 46
+(V) THE DEPARTMENT MAY CHARGE AN APPLICATION FEE IN
+AN AMOUNT NECESSARY TO RECOVER THE DEPARTMENT’S COSTS TO ADMINISTER
+AND IMPLEMENT THE REQUIREMENTS OF THIS PARAGRAPH.
+
+Section 18:
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+1, 2026, and shall be applicable to all taxable years beginning after June 30, 2026.
+Approved by the Governor, April 14, 2026.
+– 5 –
+[DELETED: W C u b t c s e g s t q f t t i a c p d u c a t D t r a pAA(S( ( ( I t s t f w h t m  ( “  ( “ ( E  ( i  ( q]
+[DELETED:  2  ( T  ( t  ( t  ( t p o t l i t a  ( t ( ( T p a t t l c o a c   1 i   2 h 25,]2  (  T   A O, AN T E S).   B F P D  . ( () O,N AN T E S I A  () IN A F A P I ):   1 ;]
+[DELETED: W C   2 W B C A T A A   3   4 :   A A A A T B   BY    C S W A F T A A   5NS;   6 ,:L    A E L L O P   B E O T L O PR    CD    7 O I R B T T I R N T D W T Q F A F O A U A U  ).  () 1 W9II  D A R A C F A P DN T E]
+[DELETED:  2    A A F P   B A U PN    C T A T A   2 T E M R A   A C S E GM A C O OD M D F T   BN   CN    D A P I  () AVF P D E A U P  O T S F T   1 S O P W N ETS   2 EN    3 S O P A T T F F T E T V T A U]
+[DELETED: W C  () TH E ETSS]
+
+
+================================================================================
+
+Raw Text:
+WES MOORE, Governor Ch. 46
+Chapter 46
+(Senate Bill 344)
+AN ACT concerning
+Property Tax – Agricultural Use Assessment – Community Solar Energy
+Generating Systems
+FOR the purpose of altering the date by which certain community solar energy generating
+systems must be approved by the Public Service Commission in order for land that
+is used by the community solar energy generating systems to qualify for the
+agricultural use assessment; requiring the State Department of Assessments and
+Taxation to issue a certain preconstruction determination under certain
+circumstances; authorizing the Department to rescind a preconstruction
+determination under certain circumstances; authorizing the Department to charge a
+certain application fee; and generally relating to the agricultural use assessment.
+BY repealing and reenacting, with amendments,
+Article – Tax – Property
+Section 8–209(e)
+Annotated Code of Maryland
+(2019 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Tax – Property
+8–209.
+(e) (1) (i) In this subsection the following words have the meanings
+indicated.
+(ii) “Agrivoltaics” has the meaning stated in § 7–237 of this article.
+(iii) “Community solar energy generating system” has the meaning
+stated in § 7–306.2 of the Public Utilities Article.
+(2) Except as provided in paragraph (4) of this subsection, the Department
+shall establish in regulations criteria to determine if land that appears to be actively used
+for farm or agricultural purposes:
+(i) is actually used for farm or agricultural purposes; and
+(ii) qualifies for assessment under this section.
+– 1 –
+
+Ch. 46 2026 LAWS OF MARYLAND
+(3) The criteria shall include:
+(i) the zoning of the land;
+(ii) the present and past use of the land including land under the Soil
+Bank Program of the United States;
+(iii) the productivity of the land, including timberlands and
+reforested lands; and
+(iv) the gross income that is derived from the agricultural activity.
+(4) (i) This paragraph applies through the life cycle of a community
+solar energy generating system that:
+1. is placed in service after June 30, 2022; and
+2. has been approved on or before December 31, [2025] 2030,
+as a community solar energy generating system by the Public Service Commission under §
+7–306.2 of the Public Utilities Article.
+(ii) 1. The Department shall assess and qualify land that is used
+by a community solar energy generating system for agrivoltaics as land that is actively
+used for farm or agricultural purposes.
+2. A. ON APPLICATION, THE DEPARTMENT SHALL
+ISSUE A PRECONSTRUCTION DETERMINATION IN ACCORDANCE WITH PARAGRAPH
+(5) OF THIS SUBSECTION.
+B. A FAVORABLE PRECONSTRUCTION DETERMINATION
+QUALIFIES THE LAND AS ACTIVELY USED FOR FARM OR AGRICULTURAL PURPOSES
+UNDER SUBSUBPARAGRAPH 1 OF THIS SUBPARAGRAPH.
+(5) (I) ON APPLICATION, THE DEPARTMENT SHALL ISSUE A
+PRECONSTRUCTION DETERMINATION INDICATING WHETHER THE LAND SUBJECT TO
+THE REQUEST WILL BE ASSESSED AS FARM OR AGRICULTURAL USE LAND UNDER
+THIS SECTION.
+(II) AN APPLICATION FOR A PRECONSTRUCTION
+DETERMINATION UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH SHALL INCLUDE:
+1. IDENTIFICATION OF THE PARCEL OR PARCELS;
+– 2 –
+
+WES MOORE, Governor Ch. 46
+2. THE ANTICIPATED EFFECTIVE TAX YEAR FOR WHEN
+CONSTRUCTION WILL BE COMPLETE AND THE ANTICIPATED AGRICULTURAL
+ACTIVITY;
+3. A SITE PLAN SHOWING THE PROPOSED SOLAR LAYOUT
+AND THE ACREAGE TO REMAIN IN AGRICULTURAL ACTIVITY;
+4. AN AGRIVOLTAICS PLAN THAT INCLUDES:
+A. THE ANTICIPATED AGRICULTURAL ACTIVITY TO BE
+CONDUCTED DURING OPERATION OF THE COMMUNITY SOLAR ENERGY GENERATING
+SYSTEM;
+B. ACCESS AND FEATURES NECESSARY TO CONDUCT THE
+ANTICIPATED AGRICULTURAL ACTIVITY; AND
+C. HOW THE DESIGN OF THE COMMUNITY SOLAR ENERGY
+GENERATING SYSTEM WILL ALLOW FOR THE ANTICIPATED AGRICULTURAL
+ACTIVITY;
+5. AN ESTIMATED CONSTRUCTION SCHEDULE AND THE
+PROPOSED IN–SERVICE DATE;
+6. EVIDENCE OF SITE CONTROL, INCLUDING:
+A. AN EXECUTED LAND LEASE OR PURCHASE
+AGREEMENT BETWEEN THE LAND OWNER AND SOLAR OPERATOR;
+B. AN EXECUTED OPTION TO LEASE OR PURCHASE
+BETWEEN THE LAND OWNER AND SOLAR OPERATOR; OR
+C. A DEED INDICATING THE SOLAR OPERATOR OWNS THE
+LAND; AND
+7. ANY OTHER INFORMATION REQUIRED BY THE
+DEPARTMENT THAT IS REASONABLY NECESSARY TO DETERMINE WHETHER THE
+LAND QUALIFIES FOR A FARM OR AGRICULTURAL USE ASSESSMENT UNDER
+PARAGRAPH (4) OF THIS SUBSECTION.
+(III) 1. WITHIN 90 DAYS AFTER RECEIVING A COMPLETED
+APPLICATION FOR A PRECONSTRUCTION DETERMINATION, THE DEPARTMENT
+SHALL REVIEW THE APPLICATION AND:
+– 3 –
+
+Ch. 46 2026 LAWS OF MARYLAND
+A. ISSUE A FAVORABLE PRECONSTRUCTION
+DETERMINATION;
+B. ISSUE AN UNFAVORABLE PRECONSTRUCTION
+DETERMINATION; OR
+C. NOTIFY THE APPLICANT THAT ADDITIONAL
+INFORMATION IS REQUIRED TO COMPLETE REVIEW.
+2. THE DEPARTMENT MAY RESCIND A
+PRECONSTRUCTION DETERMINATION IF:
+A. THE COMMUNITY SOLAR ENERGY GENERATING
+SYSTEM, AS CONSTRUCTED OR OPERATED, MATERIALLY DIFFERS FROM THE
+DESCRIPTION PROVIDED IN THE APPLICATION;
+B. THE SOLAR OPERATOR HAS FAILED TO NOTIFY THE
+DEPARTMENT OF THE COMPLETED CONSTRUCTION AND SUBMIT AN AGRICULTURAL
+USE APPLICATION;
+C. AGRICULTURAL ACTIVITY IS NOT BEING MAINTAINED
+IN ACCORDANCE WITH THIS SECTION; OR
+D. THE APPLICANT PROVIDED INACCURATE
+INFORMATION IN THE APPLICATION.
+(IV) A FAVORABLE PRECONSTRUCTION DETERMINATION
+ISSUED BY THE DEPARTMENT QUALIFIES THE LAND FOR A FARM OR AGRICULTURAL
+USE ASSESSMENT UNDER PARAGRAPH (4) OF THIS SUBSECTION FOR THE
+IMMEDIATELY SUCCEEDING TAXABLE YEAR IF:
+1. THE SOLAR OPERATOR PROVIDES WRITTEN NOTICE
+TO THE DEPARTMENT THAT THE PROJECT’S CONSTRUCTION IS COMPLETED AND
+AGRICULTURAL USE ACTIVITY IS BEING CONDUCTED;
+2. AN APPLICATION FOR A FARM OR AGRICULTURAL USE
+ASSESSMENT IS SUBMITTED TO THE DEPARTMENT THAT INCLUDES THE REQUIRED
+INFORMATION; AND
+3. THE SOLAR OPERATOR PROVIDES ACCESS TO THE
+SOLAR FACILITY FOR THE DEPARTMENT TO VERIFY THE AGRICULTURAL USE
+ACTIVITY IS BEING CONDUCTED IN ACCORDANCE WITH THIS SECTION.
+– 4 –
+
+WES MOORE, Governor Ch. 46
+(V) THE DEPARTMENT MAY CHARGE AN APPLICATION FEE IN
+AN AMOUNT NECESSARY TO RECOVER THE DEPARTMENT’S COSTS TO ADMINISTER
+AND IMPLEMENT THE REQUIREMENTS OF THIS PARAGRAPH.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+1, 2026, and shall be applicable to all taxable years beginning after June 30, 2026.
+Approved by the Governor, April 14, 2026.
+– 5 –
+
+[DELETED: W C u b t c s e g s t q f t t i a c p d u c a t D t r a pAA(S( ( ( I t s t f w h t m  ( “  ( “ ( E  ( i  ( q]
+[DELETED:  2  ( T  ( t  ( t  ( t p o t l i t a  ( t ( ( T p a t t l c o a c   1 i   2 h 25,]2  (  T   A O, AN T E S).   B F P D  . ( () O,N AN T E S I A  () IN A F A P I ):   1 ;]
+[DELETED: W C   2 W B C A T A A   3   4 :   A A A A T B   BY    C S W A F T A A   5NS;   6 ,:L    A E L L O P   B E O T L O PR    CD    7 O I R B T T I R N T D W T Q F A F O A U A U  ).  () 1 W9II  D A R A C F A P DN T E]
+[DELETED:  2    A A F P   B A U PN    C T A T A   2 T E M R A   A C S E GM A C O OD M D F T   BN   CN    D A P I  () AVF P D E A U P  O T S F T   1 S O P W N ETS   2 EN    3 S O P A T T F F T E T V T A U]
+[DELETED: W C  () TH E ETSS]
