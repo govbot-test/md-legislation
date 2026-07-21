@@ -1,0 +1,161 @@
+Title: 
+Official Title: 
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 Session
+SB0105
+Real Time for Violent Crime Act (Geri's Law)
+Bill Summary
+This bill prohibits (1) the earning of diminution credits to reduce the term of confinement of an
+incarcerated individual who is serving a sentence for first- or second-degree murder in a State or
+local correctional facility (pre-sentence or post-sentence) and (2) the application of diminution
+credits that equal more than 10% of an incarcerated individual’s aggregate sentence for crimes of
+violence. The bill’s provisions apply prospectively only.
+Racial Equity Impact Statement
+The bill’s provisions directly impact the largely Black incarcerated population in Maryland by
+prohibiting or limiting the use of diminution credits to reduce terms of incarceration. According to
+the Department of Public Safety and Correctional Services (DPSCS), the availability of diminution
+credits is a key rehabilitative component for inmates. The larger equity impacts regarding
+recidivism, reentry success, and potential adverse effects for juveniles and young adults cannot be
+estimated without additional data.
+Analysis
+The bill incorporates first- and second-degree murder amongst the current categories of criminal
+sentences that prohibit an inmate from accruing diminution credits while confined in a State or
+local correctional facility, and also prohibits an individual convicted of first- or second-degree
+murder from accruing diminution credits for any pre-sentence or post-sentence time confined in a
+local correctional facility. Incarcerated individuals serving sentences for a crime of violence, as
+defined in § 14-101 of the Criminal Law Article, would be limited to accruing diminution credits
+to reduce the term of confinement by no more than 10% of their aggregate sentence.
+SB 105/ Page 1
+
+Individuals convicted of first-degree murder in M aryland must be sentenced to life in prison or life
+in prison without parole. Pursuant to Chapter 30 of the 2021 special session, an inmate sentenced
+to life imprisonment for a crime committed on or after October 1, 2021, is not eligible for parole
+until the inmate has served 20 years, or the equivalent of 20 years with allowances for diminution
+credits (prior to Chapter 30, a 15-year time period applied to this eligibility). Inmates convicted of
+first-degree murder must serve 25 years minus diminution credits when life without parole was
+sought but not imposed by the court. Those convicted of the specified crimes of violence may not
+face a sentence less than the minimum sentence of 5 years as outlined by § 4-306 of the Criminal
+Law Article.
+Under the bill, individuals sentenced to life imprisonment for first-degree murder would serve a
+full 20 years (or 25 years when applicable) without the ability to earn diminution credits to shorten
+that time. Similarly, those convicted of second-degree murder may be sentenced for up to a
+maximum of 40 years and the length of time required before parole eligibility could not be
+shortened with diminution credits. The bill also restricts a judicial officer from authorizing the
+pretrial release of any defendant charged with a crime of violence who has specified pending
+charges or prior convictions.
+Diminution Credits Generally
+Generally, a convicted individual sentenced to a term of incarceration in the Division of Correction
+is, with specific exceptions, able to earn diminution credits to reduce the term of incarceration.
+Inmates in both State correctional facilities and local detention centers are eligible for diminution
+credits. Additionally, convicted individuals may earn diminution credits for any period of
+pre-sentence or post-sentence confinement in a local correctional facility.
+Good conduct credit (sometimes referred to as “good time” credit) is advanced to an inmate at
+intake, subject to the inmate’s future good behavior. These credits are calculated from the first day
+of commitment to the custody of the Commissioner of Correction through the maximum expiration
+date of the inmate’s term of confinement. Maryland courts recognize good conduct credits as a
+behavioral incentive and a means of reducing prison overcrowding. The awarding of diminution
+credits is automatic, not discretionary.
+For sentences imposed on or after October 1, 2017, Chapter 515 of 2016 altered provisions relating
+to sentencing, corrections, parole, and the supervision of offenders. With regard to diminution
+credits, Chapter 515 increased the maximum total deduction from 20 to 30 days per calendar month
+for all State correctional facility inmates except for inmates serving a sentence for a crime of
+violence, specified sexual offenders, or being a volume drug dealer or drug kingpin. Chapter 515
+also increased the maximum deduction for special selected work projects or other special programs
+from 10 to 20 days per calendar month and expanded the types of programs for which an inmate
+may earn diminution credits. Individuals sentenced for a crime of violence earn diminution credits
+at a lower rate than other inmates.
+Impacts of the Bill
+For fiscal 2024, the Maryland State Commission on Criminal Sentencing Policy received
+information for 182 total counts of first-degree murder and 124 counts of second-degree murder
+in the circuit court. DPSCS reports that for fiscal 2023-2024, approximately 71% of those
+SB 105/ Page 2
+
+incarcerated in Maryland’s prison system were B lack individuals. As Black individuals comprise
+roughly 30% of the State’s total population, this suggests a substantial racial disparity in
+incarceration rates. Additionally, 66% of the total population of incarcerated individuals is serving
+a sentence of 10 years or more.
+More specifically, Exhibit 1 shows that, of the top seven crime categories accounting for 93% of
+the inmate population, homicide is the largest category, accounting for 31% of the offenses. The
+2024 Uniform Crime Report shows that Black individuals accounted for over 72% of arrests for
+homicide in Maryland.
+Exhibit 1
+Inmate Offense Types
+Fiscal 2025
+6.3%
+13.3%
+31.3%
+4.6%
+14.7%
+5.6%
+19.0%
+5.3%
+Homicide Weapons Robbery Burglary
+Sex Crimes Drug Offense Assault All Other Crimes
+Source: Department of Public Safety and Correctional Services
+The bill would substantially increase sentence lengths for those incarcerated for murder. By way
+of example, a person convicted of first-degree murder and sentenced to life imprisonment under
+existing law must serve 20 years before being eligible for parole or just under 17 years if the person
+earns 100% of good conduct credits (5 days per month). Parole eligibility can also be further
+accelerated with additional credits (i.e., education and special project credits) of up to 20 days per
+month. The extension of incarceration lengths resulting from the bill would work similarly for
+those convicted of second-degree murder.
+DPSCS advises that it uses an inmate’s ability to earn diminution credits as an incentive to
+encourage good behavior and participate in rehabilitative and/or work programs. By eliminating
+the applicability of diminution credits for inmates serving a life sentence for murder, DPSCS
+SB 105/ Page 3
+
+advises that it loses a key tool for modifying inm ate behavior. In addition, DPSCS indicates that
+the elimination of diminution credits could impact the number of inmates who are working or
+participating in prison programming and could also potentially increase institutional violence.
+Conclusion
+According to DPSCS, prohibiting or limiting the use of diminution credits to reduce terms of
+incarceration would eliminate a key rehabilitative component for the affected inmates. The largely
+Black incarcerated population in Maryland will be impacted by the bill to the greatest extent.
+Determining the larger equity impacts requires additional information, such as whether increased
+incarceration time would affect recidivism and reentry success among affected individuals. In
+addition, there may be significant impacts regarding juveniles or young adults incarcerated for
+murder. However, there is no reliable data currently available to assess these potential impacts.
+Information Sources: Department of Public Safety and Correctional Services; Department of
+State Police; Maryland State Commission on Criminal Sentencing Policy; Department of
+Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 01/29/2026
+SB 105/ Page 4
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+SB 105/ Page 5

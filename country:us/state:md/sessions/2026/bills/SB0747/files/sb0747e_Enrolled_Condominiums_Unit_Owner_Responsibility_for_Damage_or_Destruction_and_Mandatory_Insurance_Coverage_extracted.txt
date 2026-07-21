@@ -1,0 +1,271 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled - Condominiums - Unit Owner Responsibility for Damage or Destruction and Mandatory Insurance Coverage
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 747
+N1 (6lr3534)
+ENROLLED BILL
+— Judicial Proceedings/Economic Matters —
+Introduced by Senator McKay
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Condominiums – Unit Owner Responsibility for Damage or Destruction and
+3 Mandatory Insurance Coverage
+4 FOR the purpose of providing that a certain unit owner is responsible for a certain cost of
+5 repair or replacement for certain portions of a condominium under certain
+6 circumstances; requiring a council of unit owners to inform unit owners annually of
+7 certain responsibilities; requiring a certain condominium unit owner to obtain a
+8 certain insurance policy for the unit; requiring a certain insurance policy to include
+9 certain provisions; authorizing a council of unit owners to acquire a certain insurance
+10 policy and charge a certain assessment under certain circumstances; and generally
+11 relating to unit owner responsibility for damage or destruction and mandatory
+12 insurance coverage for condominiums.
+13 BY repealing and reenacting, with amendments,
+14 Article – Real Property
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0747*
+
+2 SENATE BILL 747
+1 Section 11–114
+2 Annotated Code of Maryland
+3 (2023 Replacement Volume and 2025 Supplement)
+4 BY adding to
+5 Article – Real Property
+6 Section 11–114.3
+7 Annotated Code of Maryland
+8 (2023 Replacement Volume and 2025 Supplement)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That the Laws of Maryland read as follows:
+11 Article – Real Property
+12 11–114.
+13 (a) Commencing not later than the time of the first conveyance of a unit to a
+14 person other than the developer, the council of unit owners shall maintain, to the extent
+15 reasonably available:
+16 (1) Property insurance against risks of direct physical loss commonly
+17 insured against in amounts determined by the council of unit owners, but not less than any
+18 amounts specified in the declaration or bylaws:
+19 (i) For attached units, multifamily dwelling units, or detached units
+20 located within a condominium not composed entirely of similar detached units, on the
+21 common elements and units, exclusive of improvements and betterments installed in units
+22 by unit owners other than the developer; and
+23 (ii) For detached units located within a condominium composed
+24 entirely of similar detached units, on the common elements; and
+25 (2) Comprehensive general liability insurance, including medical
+26 payments insurance, in an amount determined by the council of unit owners, but not less
+27 than any amount specified in the declaration or bylaws, covering occurrences commonly
+28 insured against for death, bodily injury, and property damage arising out of or in connection
+29 with the use, ownership, or maintenance of the common elements.
+30 (b) (1) (i) The council of unit owners shall give notice to all unit owners of
+31 the termination of any insurance policy within 10 days of termination.
+32 (ii) The declaration or bylaws may require the council of unit owners
+33 to carry any other insurance, and the council of unit owners in any event may carry any
+34 other insurance it deems appropriate to protect the council of unit owners or the unit
+35 owners.
+
+SENATE BILL 747 3
+1 (2) (i) The council of unit owners shall give an annual notice, in writing,
+2 of any obligation of an owner of a residential, detached unit to obtain property insurance
+3 coverage on the unit.
+4 (ii) If there is a change in any obligation under subparagraph (i) of
+5 this paragraph, the council of unit owners shall promptly provide the unit owner with an
+6 updated notice.
+7 (c) Insurance policies carried pursuant to subsection (a) of this section shall
+8 provide that:
+9 (1) Subject to the applicable coverage specified under subsection (a)(1) of
+10 this section, each unit owner is an insured person under the policy with respect to liability
+11 arising out of the unit owner’s ownership of an undivided interest in the common elements
+12 or membership in the council of unit owners for property and casualty losses to the common
+13 elements and the units, exclusive of improvements and betterments installed in the units
+14 by unit owners other than the developer;
+15 (2) The insurer waives its right to subrogation under the policy against any
+16 unit owner of the condominium or members of his household;
+17 (3) An act or omission by any unit owner, unless acting within the scope of
+18 his authority on behalf of the council of unit owners, does not void the policy and is not a
+19 condition to recovery under the policy; and
+20 (4) [If] SUBJECT TO THE RESPONSIBILITY OF A UNIT OWNER UNDER
+21 SUBSECTION (G)(2)(III) OF THIS SECTION, IF, at the time of a loss under the policy, there
+22 is other insurance in the name of a unit owner covering the same property covered by the
+23 policy, the policy is primary insurance not contributing with the other insurance.
+24 (d) (1) Subject to the applicable coverage specified under subsection (a)(1) of
+25 this section, any loss covered by the property policy shall be adjusted with the council of
+26 unit owners, but the insurance proceeds for that loss shall be payable to any insurance
+27 trustee designated for that purpose, or otherwise to the council of unit owners, and not to
+28 any mortgagee.
+29 (2) The insurance trustee or the council of unit owners shall hold any
+30 insurance proceeds in trust for unit owners and lien holders as their interests may appear.
+31 (3) (i) Subject to the provisions of subsection (g) of this section, the
+32 proceeds shall be disbursed first for the repair or restoration of the damaged common
+33 elements and, for condominiums with attached units, multifamily units, or detached units
+34 located within a condominium not composed entirely of similar detached units that must
+35 maintain a property insurance policy on the units, the damaged units.
+36 (ii) Unit owners and lien holders are not entitled to receive payment
+37 of any portion of the proceeds unless:
+
+4 SENATE BILL 747
+1 1. There is a surplus of proceeds after the common elements
+2 and, for condominiums with attached units, multifamily units, or detached units located
+3 within a condominium not composed entirely of similar detached units that must maintain
+4 a property insurance policy on the units, the units have been completely repaired or
+5 restored; or
+6 2. The condominium is terminated.
+7 (e) (1) [An] IN ADDITION TO THE REQUIREMENT IMPOSED ON A UNIT
+8 OWNER UNDER § 11–114.3 OF THIS TITLE, AN insurance policy issued to the council of
+9 unit owners does not prevent a unit owner from obtaining ADDITIONAL insurance for his
+10 own benefit.
+11 (2) Unless a council of unit owners exercises the authority under
+12 paragraph (3) of this subsection, an owner of a residential, detached unit located within a
+13 condominium composed entirely of similar detached units, shall carry homeowners
+14 insurance coverage on the entirety of the unit.
+15 (3) A council of unit owners may carry homeowners insurance on the
+16 entirety of all detached units located within a condominium composed entirely of similar
+17 detached units.
+18 (f) (1) An insurer that has issued an insurance policy under this section shall
+19 issue certificates or memoranda of insurance to the council of unit owners and, upon
+20 request, to any unit owner, mortgagee, or beneficiary under a deed of trust.
+21 (2) An insurer may cancel an insurance policy issued under this section in
+22 accordance with § 27–603 of the Insurance Article.
+23 (g) (1) Subject to the applicable coverage specified under subsection (a)(1) of
+24 this section, any portion of the common elements and the units, exclusive of improvements
+25 and betterments installed in the units by unit owners other than the developer, damaged
+26 or destroyed shall be repaired or replaced promptly by the council of unit owners unless:
+27 (i) The condominium is terminated;
+28 (ii) Repair or replacement would be illegal under any State or local
+29 health or safety statute or ordinance; or
+30 (iii) 80 percent of the unit owners, including every owner of a unit or
+31 assigned limited common element which will not be rebuilt, vote not to rebuild.
+32 (2) (i) 1. The cost of repair or replacement in excess of insurance
+33 proceeds and reserves is a common expense.
+
+SENATE BILL 747 5
+1 2. A property insurance deductible is not a cost of repair or
+2 replacement in excess of insurance proceeds.
+3 (ii) If the cause of any damage to or destruction of any portion of the
+4 condominium originates from the common elements or an event outside of the condominium
+5 units and common elements, the council of unit owners’ property insurance deductible is a
+6 common expense.
+7 (iii) 1. If the cause of any damage to or destruction of any portion
+8 of the condominium originates from a unit, the owner of the unit where the cause of the
+9 damage or destruction originated is responsible for THE LEAST OF:
+10 A. THE TOTAL COST OF THE REPAIR OR REPLACEMENT;
+11 B. THE AMOUNT OF the council of unit owners’ property
+12 insurance deductible [not to exceed $10,000] AS SPECIFIED IN THE COUNCIL OF UNIT
+13 OWNERS’ PROPERTY INSURANCE POLICY; OR
+14 C. $25,000.
+15 2. The council of unit owners shall inform each unit owner
+16 annually in writing of:
+17 A. The unit owner’s responsibility [for the council of unit
+18 owners’ property insurance deductible] UNDER SUBSUBPARAGRAPH 1 OF THIS
+19 SUBPARAGRAPH; and
+20 B. The amount of the COUNCIL OF UNIT OWNERS’
+21 deductible AS SPECIFIED IN THE COUNCIL OF UNIT OWNERS’ PROPERTY INSURANCE
+22 POLICY.
+23 3. The ACTUAL AMOUNT OF THE council of unit owners’
+24 property insurance deductible amount exceeding the [$10,000] responsibility of the unit
+25 owner UNDER SUBSUBPARAGRAPH 1 OF THIS SUBPARAGRAPH is a common expense.
+26 (iv) In the same manner as provided under § 11–110 of this title, the
+27 council of unit owners may make an [annual] assessment against the unit owner
+28 responsible under subparagraph (iii) of this paragraph.
+29 (3) If the damaged or destroyed portion of the condominium is not repaired
+30 or replaced:
+31 (i) The insurance proceeds attributable to the damaged common
+32 elements shall be used to restore the damaged area to a condition compatible with the
+33 remainder of the condominium;
+
+6 SENATE BILL 747
+1 (ii) The insurance proceeds attributable to units and limited
+2 common elements which are not rebuilt shall be distributed to the owners of those units
+3 and the owners of the units to which those limited common elements were assigned; and
+4 (iii) The remainder of the proceeds shall be distributed to all the unit
+5 owners in proportion to their percentage interest in the common elements.
+6 (4) (i) If the unit owners vote not to rebuild any unit, that unit’s entire
+7 common element interest, votes in the council of unit owners, and common expense liability
+8 are automatically reallocated upon the vote as if the unit had been condemned under §
+9 11–112 of this title, and the council of unit owners promptly shall prepare, execute, and
+10 record an amendment to the declaration reflecting the reallocations.
+11 (ii) Notwithstanding the provisions of this subsection, § 11–123 of
+12 this title governs the distribution of insurance proceeds if the condominium is terminated.
+13 (h) The council of unit owners shall maintain and make available for inspection a
+14 copy of all insurance policies maintained by the council of unit owners.
+15 (i) The provisions of this section do not apply to a condominium all of whose units
+16 are intended for nonresidential use.
+17 11–114.3.
+18 (A) (1) THIS SECTION APPLIES ONLY TO A CONDOMINIUM COMPOSED
+19 ENTIRELY OF UNITS INTENDED FOR RESIDENTIAL USE.
+20 (2) THIS SECTION DOES NOT APPLY TO DETACHED UNITS OF A
+21 CONDOMINIUM COMPOSED ENTIRELY OF SIMILAR DETACHED UNITS.
+22 (B) (1) A UNIT OWNER SHALL MAINTAIN A CONDOMINIUM UNIT OWNER
+23 INSURANCE POLICY OR A SUBSTANTIALLY SIMILAR PROPERTY INSURANCE POLICY
+24 ON THE UNIT.
+25 (2) AN INSURANCE POLICY REQUIRED UNDER PARAGRAPH (1) OF
+26 THIS SUBSECTION SHALL INCLUDE:
+27 (I) COVERAGE FOR THE COUNCIL OF UNIT OWNERS’ PROPERTY
+28 INSURANCE DEDUCTIBLE OR A PORTION OF THE DEDUCTIBLE REQUIRED UNDER §
+29 11–114 OF THIS TITLE;
+30 (II) A COVERAGE LIMIT THAT IS SUFFICIENT TO REPAIR OR
+31 REPLACE THE UNIT OWNER’S PERSONAL PROPERTY OR THE CONTENTS OF THE UNIT;
+
+SENATE BILL 747 7
+1 (III) LOSS OF USE COVERAGE IN AN AMOUNT SUFFICIENT TO
+2 PROVIDE ALTERNATE HOUSING FOR AT LEAST 12 MONTHS IF THE UNIT OWNER
+3 CANNOT LIVE IN THE UNIT;
+4 (IV) PERSONAL LIABILITY COVERAGE OF AT LEAST $500,000;
+5 (V) LOSS ASSESSMENT COVERAGE OF AT LEAST $25,000; AND
+6 (VI) (III) DWELLING OR BUILDING PROPERTY COVERAGE OF AT
+7 LEAST THE GREATER OF:
+8 1. $25,000; OR
+9 2. THE AMOUNT NECESSARY TO REPAIR AND REPLACE:
+10 A. ALTERATIONS, ADDITIONS, IMPROVEMENTS AND
+11 BETTERMENTS, AND INVESTMENTS MADE BY THE CURRENT OWNER OR ACQUIRED
+12 BY THE CURRENT UNIT FROM ANY PREVIOUS OWNER OTHER THAN THE DEVELOPER;
+13 AND
+14 B. UPGRADES CONVEYED TO THE UNIT OWNER THAT
+15 ARE THE RESPONSIBILITY OF THE UNIT OWNER TO INSURE UNDER THE BYLAWS OF
+16 THE CONDOMINIUM.
+17 (C) THE BYLAWS OF A CONDOMINIUM MAY NOT REQUIRE A UNIT OWNER TO
+18 MAINTAIN AN INSURANCE POLICY THAT INCLUDES COVERAGE AMOUNTS IN EXCESS
+19 OF THE REQUIREMENTS UNDER SUBSECTION (B) OF THIS SECTION.
+20 (D) EACH UNIT OWNER SHALL PROVIDE EVIDENCE OF THE INSURANCE
+21 POLICY REQUIRED UNDER SUBSECTION (B) OF THIS SECTION TO THE COUNCIL OF
+22 UNIT OWNERS:
+23 (1) ANNUALLY; AND
+24 (2) ON REQUEST BY THE COUNCIL OF UNIT OWNERS.
+25 (E) (1) IF A UNIT OWNER DOES NOT MAINTAIN AN INSURANCE POLICY AS
+26 REQUIRED UNDER SUBSECTION (B) OF THIS SECTION, THE COUNCIL OF UNIT
+27 OWNERS MAY ACQUIRE AN INSURANCE POLICY ON BEHALF OF THE UNIT OWNER.
+28 (2) A COUNCIL OF UNIT OWNERS THAT ACQUIRES AN INSURANCE
+29 POLICY ON BEHALF OF A UNIT OWNER UNDER PARAGRAPH (1) OF THIS SUBSECTION
+30 MAY CHARGE THE INSURANCE PREMIUM AS AN ASSESSMENT TO THE UNIT OWNER.
+
+8 SENATE BILL 747
+1 (3) FOR AN INSURANCE POLICY ACQUIRED ON BEHALF OF A UNIT
+2 OWNER UNDER THIS SUBSECTION, THE INSURANCE CARRIER SHALL PAY DIRECTLY
+3 TO THE COUNCIL OF UNIT OWNERS THE PORTION OF THE COUNCIL’S DEDUCTIBLE
+4 THAT THE UNIT OWNER IS RESPONSIBLE FOR UNDER § 11–114 OF THIS TITLE THE
+5 ABSENCE OF INSURANCE COVERAGE UNDER THIS SECTION DOES NOT LIMIT A UNIT
+6 OWNER’S RESPONSIBILITY UNDER § 11–114(G)(2)(III) OF THIS TITLE.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+8 October 1, 2026 2027.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
