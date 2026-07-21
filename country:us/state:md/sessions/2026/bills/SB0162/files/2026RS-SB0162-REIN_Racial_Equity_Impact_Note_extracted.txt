@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 Session
+SB0162
+Criminal Procedure - Motion to Reduce Duration of Sentence -
+Repeal of Sentencing Date Limitation
+Bill Summary
+This bill expands eligibility for sentencing relief available under provisions enacted pursuant to
+Chapter 61 of 2021, also known as the Juvenile Restoration Act (JRA). Under current law, an
+individual who wishes to file a motion for a sentence reduction under JRA must have been
+sentenced for the offense before October 1, 2021. The bill removes this sentencing date limitation.
+Racial Equity Impact Statement
+The bill expands eligibility for sentence reduction to certain individuals who were convicted as
+adults for offenses committed as minors and who have served at least 20 years in correctional
+custody. Department of Public Safety and Correctional Services (DPSCS) data shows that 385
+individuals who are currently incarcerated, most of whom are Black, meet the bill’s requirements.
+By broadening access to sentence modification, the bill has the potential to reduce existing racial
+inequities in sentence lengths and support rehabilitation efforts. However, the full impacts of the
+bill would depend on how courts implement the revised eligibility criteria. Persistent disparities
+among Black individuals serving lengthy sentences for offenses committed as minors underscore
+the importance of equitable and transparent application of the bill’s provisions.
+Analysis
+An individual convicted of a crime who wishes to have the sentence reduced has multiple
+alternatives. One option is under JRA, which authorizes an individual who was convicted as an
+adult for an offense committed when the individual was a minor to file a motion with the court to
+SB 162/ Page 1
+
+reduce the duration of the individual’s sentence if the individual (1) was sentenced for the offense
+before October 1, 2021 and (2) has been imprisoned for at least 20 years for the offense.
+Chapter 96 of 2025 expanded application of JRA to allow an individual convicted of an offense
+committed when the individual was at least age 18 but younger than age 25 to file a motion to
+reduce a sentence under the Act’s provisions and procedures if the individual meets other specified
+eligibility criteria.
+Impacts of the Bill
+In Maryland, 43% of the population ages 13 to 17 identifies as non-white or multi-racial compared
+to 25% of the U.S. population. This age group in the State is also more Black and more Asian than
+is found nationwide. With regards to ethnicity, 19% of this age group in Maryland is Hispanic
+compared to 27% of the U.S. population.
+In Maryland, youth under the age of 18 who are charged with specified offenses may be excluded
+from the original jurisdiction of the juvenile court and instead begin their cases in the adult criminal
+justice system. Generally, youth at least age 14 who are charged with crimes punishable by life
+imprisonment, and youth at least age 16 charged with a defined list of serious felonies, may be
+tried as adults in adult criminal court unless the case is transferred back to juvenile court. With
+limited exceptions for certain serious offenses committed between the ages of 10 and 12, children
+under age 13 generally cannot be charged with crimes. Data from the Governor’s Office of Crime
+Prevention and Policy (GOCPP) and the Department of Juvenile Services (DJS) confirm that Black
+juveniles are the majority of those eligible to be charged as adults.
+GOCPP reports annually on the cohort of juveniles who are charged as adults. In fiscal 2025, 1,008
+charges were filed against 839 juveniles charged as adults. Black juveniles accounted for 77% of
+this group. These juveniles may be sentenced more harshly in adult court than young adults aged
+18 to 24. Several studies have identified that both Black and Hispanic youth receive significantly
+more punitive sentences in adult courts than white juveniles and adult defendants.
+A substantial portion of juveniles charged as an adult remains in DJS custody pending a transfer
+hearing. At this hearing, the court determines whether the case should remain in adult court or be
+transferred to juvenile court. DJS reports that, in fiscal 2025, 417 youth were held in DJS detention
+facilities while awaiting transfer hearings. Of this total, 94% were youth of color. During the same
+period, 614 youth who were charged as adults ultimately had their cases transferred to juvenile
+court (whether or not they were detained that year). This represents a 61% transfer rate for the time
+period. While DJS does not distinguish between racial minorities in this data, it is likely that Black
+youth are detained for offenses applicable to the bill at a higher rate than juveniles of other races.
+According to 2025 data from DPSCS, there are 385 incarcerated individuals convicted as adults
+of an offense committed as minors and sentenced on or after October 1, 2021. Of this total, 83%
+of these individuals are Black, 10% are Hispanic, and 5% are white.
+Given the statewide racial and ethnic demographics for the 13- to 17-year-old population as
+compared to the racial and ethnic demographics of those currently incarcerated, notable patterns
+of disproportionality and disparity exist. Exhibit 1 shows that Black youth ages 13 to 17 in
+Maryland have a disproportionality rate of 2.69 in adult criminal charging. This means that they
+SB 162/ Page 2
+
+are close to three times as likely, relative to the ir share of the State’s overall population, to be
+charged as adults and receive sentences of at least 20 years. In contrast, white and Hispanic youth
+have disproportionality rates significantly below 1.00, indicating they are underrepresented in this
+group compared to their share of the overall population.
+Exhibit 1
+Disproportionality and Disparity Ratios
+Youth Convicted as an Adult for an Offense Committed as a Minor
+Since October 1, 2021
+25.00
+20.92
+20.00
+15.00
+10.00
+4.34
+5.00
+2.69
+0.56 0.13 1.00
+0.00
+Disproportionality Ratios Disparity Ratios
+Hispanic Youth Black Youth White Youth
+Source: U.S. Census Bureau; Department of Public Safety and Correctional Services
+Exhibit 1 also shows disparity ratios that compare outcomes across racial and ethnic groups
+relative to white individuals. In this case, the disparity ratio for Black individuals in this group is
+20.92. This indicates that Black youth ages 13 to 17 are more than 20 times as likely as their white
+peers to be charged and convicted as an adult and receive a sentence of at least 20 years. Hispanic
+youth are more than 4 times as likely to experience this outcome than their white peers.
+Conclusion
+The bill’s repeal of the October 1, 2021 sentencing date restriction for eligible individuals under
+the JRA is expected to reduce racial disparities in sentence duration and time served. Eliminating
+the limitation may also decrease the overall incarcerated population, which is disproportionately
+composed of Black individuals. The extent of the impacts, however, will depend on several
+implementation factors, including whether biases or disparate effects emerge in judicial
+evaluations of modification petitions for reduced sentence duration. Ultimately, the magnitude of
+the bill’s effects will depend on how judicial officers apply the revised authority in practice. While
+significant disproportionate outcomes persist for Black individuals incarcerated for offenses
+SB 162/ Page 3
+
+committed as minors and serving prison sentenc es, the available data does not identify the root
+causes of this overrepresentation; rather, it reflects longstanding systemic inequities observed
+across Maryland’s criminal justice system.
+Information Sources: U.S. Census Bureau; Governor’s Office of Crime Prevention and Policy;
+Department of Juvenile Services; Department of Public Safety and Correctional Services;
+Department of Legislative Services
+Analysis by: Dr. Jasmón Bailey
+Published: 04/03/2026
+SB 162/ Page 4
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+SB 162/ Page 5

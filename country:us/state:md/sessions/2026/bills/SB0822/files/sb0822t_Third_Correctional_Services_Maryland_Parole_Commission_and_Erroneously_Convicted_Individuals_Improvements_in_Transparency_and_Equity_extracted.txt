@@ -1,0 +1,311 @@
+Title: 
+Official Title: 
+Source: versions - Third - Correctional Services - Maryland Parole Commission and Erroneously Convicted Individuals - Improvements in Transparency and Equity
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 822
+E5 6lr0726
+HB 1147/25 – JUD CF HB 467
+By: Senator Smith
+Introduced and read first time: February 6, 2026
+Assigned to: Judicial Proceedings
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 3, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Correctional Services – Maryland Parole Commission and Erroneously
+3 Convicted Individuals – Improvements in Transparency and Equity
+4 FOR the purpose of requiring the annual report of the Maryland Parole Commission to
+5 include certain information; altering a certain provision of law to require the
+6 Commission to provide certain documents to a certain incarcerated individual and
+7 the incarcerated individual’s representative at a certain time, rather than allow the
+8 incarcerated individual to examine the documents on request; requiring the
+9 Commission to document, state on the record, provide to an incarcerated individual,
+10 and make available to the public certain information; altering the time periods
+11 within which the Commission is required to issue certain reports; providing that the
+12 Commission does not have the authority to permanently deny parole; providing that
+13 a certain incarcerated individual is entitled to a subsequent parole hearing at a
+14 certain time; requiring the Commission to record each hearing at a certain time;
+15 requiring each hearing recording to be made available to the public subject to certain
+16 disclosure requirements, to be redacted in a certain manner, to be retained for a
+17 certain amount of time, and to contain certain materials; prohibiting a county from
+18 being a party to a certain proceeding involving an erroneously convicted individual;
+19 and generally relating to the Maryland Parole Commission and erroneously
+20 convicted individuals.
+21 BY repealing and reenacting, with amendments,
+22 Article – Correctional Services
+23 Section 7–208, 7–303, 7–304(b), 7–305(7), 7–306, and 7–307
+24 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0822*
+
+2 SENATE BILL 822
+1 (2025 Replacement Volume)
+2 BY adding to
+3 Article – Correctional Services
+4 Section 7–307.1 and 7–307.2
+5 Annotated Code of Maryland
+6 (2025 Replacement Volume)
+7 BY repealing and reenacting, with amendments,
+8 Article – State Finance and Procurement
+9 Section 10–501(b)
+10 Annotated Code of Maryland
+11 (2021 Replacement Volume and 2025 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Correctional Services
+15 7–208.
+16 (A) The Commission shall:
+17 (1) maintain a record of its actions;
+18 (2) make an annual report to the Governor of its work; and
+19 (3) make appropriate recommendations for the improvement of its
+20 functions.
+21 (B) THE ANNUAL REPORT REQUIRED UNDER SUBSECTION (A)(2) OF THIS
+22 SECTION SHALL INCLUDE THE FOLLOWING INFORMATION, DISAGGREGATED BY
+23 RACE OF THE RELEVANT INCARCERATED INDIVIDUALS:
+24 (1) THE NUMBER OF CASES IN WHICH THE COMMISSION GRANTED
+25 PAROLE;
+26 (2) THE NUMBER OF CASES IN WHICH THE COMMISSION DENIED
+27 PAROLE AND THE REASON FOR EACH DENIAL;
+28 (3) THE NUMBER OF INCARCERATED INDIVIDUALS WHO WERE
+29 GRANTED ADMINISTRATIVE RELEASE;
+30 (4) THE NUMBER OF HEARINGS HELD AND THE PURPOSE OF EACH
+31 HEARING; AND
+
+SENATE BILL 822 3
+1 (5) THE NUMBER OF INCARCERATED INDIVIDUALS WHO ARE
+2 PAROLE–ELIGIBLE BUT HAVE NOT BEEN GRANTED PAROLE;
+3 (6) THE NUMBER OF ADMINISTRATIVE REVIEWS COMPLETED BY THE
+4 COMMISSION; AND
+5 (7) THE NUMBER OF PAROLE REVOCATION HEARINGS HELD AND THE
+6 OUTCOME OF EACH PAROLE REVOCATION HEARING.
+7 7–303.
+8 (a) Before any hearing on parole release, the Commission shall give the
+9 incarcerated individual AND THE INCARCERATED INDIVIDUAL’S REPRESENTATIVE:
+10 (1) adequate and timely written notice of:
+11 [(1)] (I) the date, time, and place of the hearing; and
+12 [(2)] (II) the factors that the Commission or hearing examiner will
+13 consider in determining whether the incarcerated individual is suitable for parole[.
+14 (b) (1) (i) Except as provided in subparagraph (ii) of this paragraph, the
+15 notice also shall indicate that, before the hearing, the incarcerated individual or the
+16 incarcerated individual’s representative may, on request, examine any document]; AND
+17 (2) EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION,
+18 COPIES OF ALL DOCUMENTS that the Commission or hearing examiner will use in
+19 determining whether the incarcerated individual is suitable for parole, INCLUDING:
+20 (I) THE CASE PLAN;
+21 (II) THE PRE–PAROLE SUMMARY;
+22 (III) THE FULL REPORT OF ANY RISK ASSESSMENT COMPLETED
+23 IN PREPARATION FOR THE HEARING ON PAROLE RELEASE; AND
+24 (IV) THE CASE MANAGER’S RECOMMENDATION.
+25 [(ii)] (B) (1) A document, or a portion of it, is not available for
+26 examination[,] if the Commission determines that:
+27 [1.] (I) the document or portion contains a diagnostic
+28 opinion AND THE DIAGNOSING CLINICIAN HAS DETERMINED IN WRITING THAT
+29 DISCLOSURE OF THE DIAGNOSTIC OPINION IS CONTRAINDICATED;
+
+4 SENATE BILL 822
+1 [2.] (II) the incarcerated individual’s knowledge of the
+2 document or portion would disrupt seriously a program of rehabilitation;
+3 [3.] (III) the document or portion contains sources of
+4 information obtained on a promise of confidentiality; or
+5 [4.] (IV) the document or portion is otherwise privileged.
+6 [(iii)] (2) If the Commission determines that a document or a
+7 portion of it is not available for examination, the Commission shall notify the incarcerated
+8 individual that:
+9 [1.] (I) the document or portion is not available for
+10 examination; and
+11 [2.] (II) on request and if appropriate, the Commission will
+12 provide the incarcerated individual or the incarcerated individual’s representative with the
+13 substance of any information contained in the document or portion.
+14 [(2)] (C) The Commission shall delete the address and phone number of
+15 the victim or the victim’s designated representative from a document before the
+16 incarcerated individual or the incarcerated individual’s representative examines the
+17 document.
+18 7–304.
+19 (b) The vote of each commissioner when acting collectively or in a panel, to
+20 approve or deny parole, EACH COMMISSIONER’S THE PANEL’S REASONING AND
+21 JUSTIFICATIONS FOR THE COMMISSIONER’S VOTE PANEL’S DECISION, and a vote to
+22 close or restrict access to a parole hearing under subsection (d) of this section, shall be made
+23 available to the public.
+24 7–305.
+25 Each hearing examiner and commissioner determining whether an incarcerated
+26 individual is suitable for parole, and the Commission before entering into a predetermined
+27 parole release agreement, shall consider:
+28 (7) ANY VICTIM’S ORIGINAL OR SUBSEQUENTLY FILED VICTIM
+29 IMPACT STATEMENT, an updated victim impact statement, or ANY recommendation
+30 prepared under § 7–801 of this title;
+31 7–306.
+32 (a) (1) The chairperson of the Commission shall assign hearing examiners, or
+33 commissioners acting as hearing examiners, as required to hear cases for parole.
+
+SENATE BILL 822 5
+1 (2) Each proceeding before a hearing examiner shall be conducted in
+2 accordance with this section.
+3 (b) The Commission shall keep a record of each hearing conducted by a hearing
+4 examiner.
+5 (c) A hearing examiner shall determine if an incarcerated individual is suitable
+6 for parole in accordance with the factors and other information specified in § 7–305 of this
+7 subtitle.
+8 (d) (1) At the conclusion of the hearing, the hearing examiner shall inform the
+9 incarcerated individual of the hearing examiner’s recommendation for parole or denial of
+10 parole.
+11 (2) Within [21] 14 days after the hearing, the hearing examiner shall give
+12 to the Commission, the Commissioner of Correction, and the incarcerated individual a
+13 written report of the hearing examiner’s findings and recommendation for parole or denial
+14 of parole, INCLUDING THE REASONING AND JUSTIFICATIONS FOR THE
+15 RECOMMENDATION.
+16 (3) The Commissioner of Correction or the incarcerated individual may file
+17 with the Commission written exceptions to the report of a hearing examiner no later than
+18 5 30 days after the report is received.
+19 (e) (1) Subject to paragraph (2) of this subsection, one commissioner assigned
+20 by the chairperson of the Commission shall review summarily the recommendation of the
+21 hearing examiner.
+22 (2) (i) The Commission, on its own initiative or on the filing of an
+23 exception, may schedule a hearing on the record by the entire Commission or by a panel of
+24 at least two commissioners assigned by the chairperson of the Commission.
+25 (ii) The Commission or panel shall render a written decision on the
+26 appeal.
+27 (iii) The decision of the Commission or panel is final.
+28 (3) If an exception is not filed and the Commission does not act on its own
+29 initiative within the 5–day 30–DAY appeal period established under subsection (d)(3) of
+30 this section, the recommendation of the hearing examiner is approved.
+31 (4) (I) THE COMMISSION SHALL PROMPTLY GIVE THE
+32 INCARCERATED INDIVIDUAL WRITTEN NOTICE OF ITS FINAL DECISION UNDER THIS
+33 SECTION.
+
+6 SENATE BILL 822
+1 (II) IF THE COMMISSION’S FINAL DECISION UNDER THIS
+2 SECTION IS TO DENY PAROLE, THE NOTICE REQUIRED UNDER SUBPARAGRAPH (I) OF
+3 THIS PARAGRAPH SHALL INCLUDE THE DATE OF THE INCARCERATED INDIVIDUAL’S
+4 NEXT PAROLE HEARING, IN ACCORDANCE WITH § 7–307.1 OF THIS SUBTITLE.
+5 7–307.
+6 (a) (1) Except as provided in subsection (c) of this section, the chairperson of
+7 the Commission shall assign at least two commissioners to hear cases for parole release as
+8 a panel.
+9 (2) Each proceeding before a Commission panel shall be conducted in
+10 accordance with this section.
+11 (b) (1) (i) A Commission panel that consists of two commissioners shall
+12 determine, by unanimous vote, whether the incarcerated individual is suitable for parole
+13 in accordance with the factors and other information specified in § 7–305 of this subtitle.
+14 (ii) If the two–commissioner panel is unable to reach a unanimous
+15 decision, the chairperson of the Commission shall convene a three–commissioner panel as
+16 soon as practicable to rehear the case.
+17 (2) A Commission panel that consists of three commissioners shall
+18 determine, by majority vote, whether the incarcerated individual is suitable for parole in
+19 accordance with the factors and other information specified in § 7–305 of this subtitle.
+20 (c) For an incarcerated individual who has been sentenced to life imprisonment
+21 after being convicted of a crime committed on or after October 1, 2021, at least six
+22 affirmative votes are required to approve the incarcerated individual for parole, based on
+23 consideration of the factors specified in § 7–305 of this subtitle.
+24 (d) (1) The Commission panel shall inform the incarcerated individual and the
+25 appropriate correctional authority of the Commission’s FINAL decision as soon as possible,
+26 BUT NOT LATER THAN 12 MONTHS AFTER THE DATE OF THE PAROLE HEARING,
+27 INCLUDING ANY SUBSEQUENT INFORMATION GATHERING OR REVIEW.
+28 (2) If parole is denied, the Commission shall, WITHIN 14 DAYS AFTER THE
+29 HEARING, give the incarcerated individual:
+30 (I) a written report of its findings [within 30 days after the hearing],
+31 INCLUDING THE REASONING AND JUSTIFICATIONS FOR THE DECISION; AND
+32 (II) WRITTEN NOTICE OF THE DATE OF THE INCARCERATED
+33 INDIVIDUAL’S NEXT PAROLE HEARING, IN ACCORDANCE WITH § 7–307.1 OF THIS
+34 SUBTITLE.
+
+SENATE BILL 822 7
+1 7–307.1.
+2 (A) THE COMMISSION DOES NOT HAVE THE AUTHORITY TO PERMANENTLY
+3 DENY PAROLE.
+4 (B) AN INCARCERATED INDIVIDUAL IS ENTITLED TO A SUBSEQUENT
+5 PAROLE HEARING:
+6 (1) FOR AN INCARCERATED INDIVIDUAL SENTENCED TO A PERIOD OF
+7 INCARCERATION OF 10 YEARS OR LESS, NOT LATER THAN 2 YEARS AFTER EACH
+8 PAROLE HEARING THAT RESULTS IN A DENIAL OF PAROLE;
+9 (2) EXCEPT AS PROVIDED IN ITEM (3) OF THIS SUBSECTION, FOR AN
+10 INCARCERATED INDIVIDUAL SENTENCED TO A PERIOD OF INCARCERATION
+11 EXCEEDING 10 YEARS, NOT LATER THAN 3 YEARS AFTER EACH PAROLE HEARING
+12 THAT RESULTS IN A DENIAL OF PAROLE; AND
+13 (3) FOR AN INCARCERATED INDIVIDUAL SENTENCED TO A PERIOD OF
+14 INCARCERATION EXCEEDING 20 YEARS FOR A CRIME AGAINST AN INDIVIDUAL, NOT
+15 LATER THAN 3 YEARS AFTER THE FIRST PAROLE HEARING THAT RESULTS IN A
+16 DENIAL OF PAROLE AND NOT LATER THAN 5 YEARS THEREAFTER.
+17 7–307.2.
+18 (A) THE COMMISSION SHALL RECORD EACH HEARING.
+19 (B) EACH HEARING RECORDING SHALL BE:
+20 (1) REDACTED OF ALL PERSONALLY IDENTIFIABLE INFORMATION OF
+21 THE VICTIM; AND
+22 (2) MADE READILY AVAILABLE AT NO COST TO THE INCARCERATED
+23 INDIVIDUAL; AND
+24 (3) SUBJECT TO THE DISCLOSURE PROVISIONS OF § 3–602 OF THIS
+25 ARTICLE.
+26 (C) EACH HEARING RECORDING SHALL BE RETAINED ELECTRONICALLY
+27 UNTIL 3 YEARS AFTER THE INCARCERATED INDIVIDUAL IS RELEASED FROM
+28 INCARCERATION, ALL POSTINCARCERATION SUPERVISION IS COMPLETED, AND ALL
+29 APPEALS ARE EXHAUSTED, WHICHEVER HAPPENS LAST.
+
+8 SENATE BILL 822
+1 (D) AT THE CONCLUSION OF EACH HEARING, THE PRESIDING
+2 COMMISSIONER SHALL STATE THE FINDINGS, REASONING, AND JUSTIFICATIONS OF
+3 THE COMMISSION ON THE RECORD.
+4 (E) ANY STATEMENTS, RECOMMENDATIONS, AND OTHER MATERIALS
+5 CONSIDERED BY THE COMMISSION SHALL BE INCORPORATED INTO THE RECORDING
+6 OF THE HEARING, UNLESS CONFIDENTIALITY IS NECESSARY TO PRESERVE
+7 INSTITUTIONAL SECURITY OR THE SECURITY OF PERSONS WHO MIGHT BE
+8 ENDANGERED BY DISCLOSURE.
+9 Article – State Finance and Procurement
+10 10–501.
+11 (b) (1) An administrative law judge shall issue an order that an individual is
+12 eligible for compensation and benefits from the State under subsection (a) of this section if:
+13 (i) the individual has received from the Governor a full pardon
+14 stating that the individual’s conviction has been shown conclusively to be in error; or
+15 (ii) subject to paragraph (2) of this subsection, the administrative
+16 law judge finds that the individual has proven by clear and convincing evidence that:
+17 1. the individual was convicted, sentenced, and subsequently
+18 confined for a felony or conspiracy to commit a felony;
+19 2. the judgment of conviction for the felony or conspiracy to
+20 commit a felony was reversed or vacated and:
+21 A. the order reversing or vacating the judgment of conviction
+22 did not allow for retrial;
+23 B. the charges against the individual were dismissed; or
+24 C. on retrial, the individual was found not guilty;
+25 3. the individual did not commit the felony or conspiracy to
+26 commit a felony for which they were convicted, sentenced, and subsequently confined and
+27 was not an accessory or accomplice to the felony or conspiracy to commit a felony; and
+28 4. subject to paragraph (2)(ii) of this subsection, the
+29 individual did not commit or suborn perjury, fabricate evidence, or by the individual’s own
+30 conduct cause or bring about the conviction.
+31 (2) (i) In determining the weight and admissibility of evidence
+32 presented by the parties, the administrative law judge may, in the interest of justice, give
+
+SENATE BILL 822 9
+1 due consideration to the passage of time, death or unavailability of witnesses, the
+2 destruction of evidence, or any other factor.
+3 (ii) For the purposes of paragraph (1)(ii)4 of this subsection,
+4 suborning perjury, fabricating evidence, or causing or bringing about a conviction does not
+5 include:
+6 1. a confession or admission later determined to be false; or
+7 2. a guilty plea.
+8 (3) A request for an order of eligibility under this section shall be:
+9 (i) filed with the Office of Administrative Hearings; and
+10 (ii) captioned “In the Matter of the Wrongful Conviction of
+11 (Claimant)” or “(Claimant) v. Board of Public Works”.
+12 (4) (I) [The] EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF THIS
+13 PARAGRAPH, THE following shall be parties to a proceeding under this subsection:
+14 [(i)] 1. the State’s Attorney of the county where the crime was
+15 committed, or the State’s Attorney’s designee; and
+16 [(ii)] 2. the State, represented by the Attorney General, or the
+17 Attorney General’s designee.
+18 (II) 1. A COUNTY MAY NOT BE A PARTY TO A PROCEEDING
+19 UNDER THIS SUBSECTION.
+20 2. A STATE’S ATTORNEY MAY NOT DESIGNATE A COUNTY
+21 AS A PARTY TO A PROCEEDING UNDER THIS SUBSECTION.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+23 apply retroactively and shall be applied to and interpreted to affect any proceeding before
+24 an administrative law judge brought under § 10–501 of the State Finance and Procurement
+25 Article before the effective date of this Act.
+26 SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+27 October 1, 2026.
