@@ -1,0 +1,151 @@
+Title: 
+Official Title: 
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 Session
+HB0464
+Criminal Procedure - No-Knock Search Warrants - Repeal
+Bill Summary
+This bill repeals the authority to issue and execute a no-knock search warrant and alters procedures
+for the issuance and execution of a search warrant.
+Racial Equity Impact Statement
+There is not sufficient demographic data currently available regarding executed no-knock search
+warrants that would allow for an equity assessment of the bill’s impacts on racial and ethnic groups
+in Maryland. According to data collected from law enforcement agencies by the Governor’s Office
+of Crime Prevention and Policy (GOCPP), there were 41 no-knock warrants in the State in 2024,
+compared to 59 no-knock warrants in 2023. This limited data, however, is not sufficient to assess
+if no-knock warrants are disproportionately authorized for individuals of color. Detailed
+demographics of the subjects apprehended and others arrested during no-knock warrants would
+allow for a more detailed equity analysis of how a ban on these warrants would affect various
+racial and ethnic groups in the State.
+Analysis
+Under current law, a law enforcement officer may request, in an application for a search warrant,
+that a building, apartment, premises, place, or thing be searched without the officer having to
+provide notice of the officer’s authority or purpose. To justify the request for such a warrant (also
+referred to as a no-knock warrant), the officer must have a reasonable suspicion that, without the
+authorization, the life or safety of the executing officer or another person may be in danger. An
+application for a no-knock search warrant must contain specified information and must be
+approved in writing by a police supervisor and the State’s Attorney. If the warrant application
+justifies this request on these grounds, the search warrant must authorize the executing law
+HB 464/ Page 1
+
+enforcement officer to engage in these actions. A no‐knock search warrant must be executed
+between 8:00 a.m. and 7:00 p.m., absent exigent circumstances.
+The bill repeals the authority to issue and execute a no-knock search warrant and requires that law
+enforcement officers conducting any search warrant first give “reasonable notice” of the officer’s
+authority and purpose to any individual inside the location to be searched.
+State Data on No-knock Warrants
+Chapters 542 and 543 of 2009 required law enforcement agencies that maintain a SWAT team to
+report specified information regarding executed no-knock search warrants to GOCPP. The Acts
+required general deployment information such as the purpose (search warrant, barricade, arrest
+warrant, etc.), date, time, and location of the deployment. These provisions expired on
+June 30, 2014. Chapter 59 of 2021 restored the data collection and reporting of SWAT team
+activities in which law enforcement agencies must biannually submit information to GOCPP by
+January 15 and July 15 of each year.
+Chapter 62 of 2021 enacted comprehensive police reform, including provisions limiting the
+grounds for issuing a no-knock warrant. In regard to data collection, Chapter 62 requires a law
+enforcement agency to report to GOCPP specified data relating to search warrants executed by the
+agency during the prior calendar year. A law enforcement agency must compile the specified data
+for each one-year period as a report in a specified format. By September 1 of each year, GOCPP
+must (1) submit a report of the analyses and summaries of the submitted information to the
+Governor, each law enforcement agency, and the General Assembly and (2) publish the report on
+its website. Chapter 62 does not require any data collection regarding the race or ethnicity of the
+arrestees, officers, or owners of any property confiscated. Law enforcement agencies must report
+the zip code where the warrant was executed.
+Despite statutory reporting requirements for search warrants, there is no reporting requirement for
+no-knock search warrant activity that includes demographic information. Montgomery County’s
+Office of Legislative Oversight reported that in 2023, of the 53 persons present during
+Montgomery County Police Department no-knock warrant searches in 2023, all but one were
+Black or Hispanic. While this report includes demographic data, its limited scope is insufficient to
+reliably infer statewide trends. In addition, the small number of executed no-knock search warrants
+in the State limits the scope of any disproportionate impacts.
+Of the 41 no-knock search warrants executed in Maryland in 2024, there were 30 arrests. Exhibit 1
+shows the breakdown of the 41 warrants by jurisdiction. Baltimore and Montgomery counties
+accounted for 56% of all no-knock search warrants in 2024.
+HB 464/ Page 2
+
+Exhibit 1
+Executed No-knock Search Warrants in Maryland
+2024
+Montgomery County 14
+Baltimore County 9
+Charles County 7
+Baltimore City 4
+Harford County 2
+Howard County 2
+Prince George’s County 2
+Anne Arundel County 1
+Total 41
+Source: Governor’s Office of Crime Prevention and Policy
+Data and Legislation from Other Jurisdictions
+Concerns regarding no-knock warrants focus on various issues, including officer and civilian
+safety, mistaken identity, inaccurate information, and insufficient judicial scrutiny. In addition,
+there is a growing body of data detailing the disproportionate impacts of the criminal justice system
+on people of color, including disparities in arrests and drug sentencing. Several high-profile events
+involving no-knock search warrants and the deaths of individuals who were present at the locations
+targeted by the warrants suggest that there are disparities in how these warrants are authorized,
+executed, and assessed.
+The Minneapolis Civil Rights Department’s Office of Police Conduct Review conducted a
+preliminary analysis of the Minneapolis Police Department’s service of no-knock search warrants
+between September 1, 2021, and January 31, 2022. The office found that 74% of no-knock
+warrants were served on Black individuals, who comprised 18% of the city’s population according
+to the 2020 census. The office’s investigation was prompted by the fatal shooting of Amir Locke
+by Minneapolis police officers serving a search warrant in a downtown apartment building on
+February 2, 2022. Locke, a 22-year-old Black man, was not the subject of the search warrant.
+Since 2021, at least six states have banned no-knock warrants: Connecticut, Florida, Oregon,
+Tennessee, Virginia, and Washington. In addition, Maine, Nevada, and Utah have instituted limits
+on the availability of no-knock search warrants to law enforcement by requiring that they only be
+used in exigent circumstances.
+Conclusion
+Based on anecdotal evidence from other states and local jurisdictions, the bill’s prohibition on
+no-knock search warrants could have a positive impact on Black individuals based on their general
+HB 464/ Page 3
+
+overrepresentation in the criminal justice system . However, there is no way to directly measure
+the impacts without demographic data associated with no-knock search targets and arrestees in
+previous years and going forward. The GOCPP report summarizing no-knock warrant activity by
+jurisdiction, while providing useful information, is not sufficient for an equity assessment of
+possible racial or ethnic disparities in the issuance of no-knock search warrants in Maryland.
+Information Sources: Governor’s Office of Crime Prevention and Policy; Minneapolis Civil
+Rights Department; Montgomery County Office of Legislative Oversight; Department of
+Legislative Services
+Analysis by: Rafael Regales
+Published: 02/16/2026
+HB 464/ Page 4
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+HB 464/ Page 5

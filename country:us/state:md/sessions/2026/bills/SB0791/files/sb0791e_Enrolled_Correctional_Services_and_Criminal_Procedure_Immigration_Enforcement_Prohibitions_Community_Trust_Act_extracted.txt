@@ -1,0 +1,290 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled - Correctional Services and Criminal Procedure - Immigration Enforcement - Prohibitions (Community Trust Act)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 791
+E5, E2 EMERGENCY BILL (6lr3470)
+ENROLLED BILL
+— Judicial Proceedings/Judiciary —
+Introduced by Senator Lam
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Correctional Services and Public Safety Criminal Procedure – Immigration
+3 Enforcement – Prohibitions
+4 (Community Trust Act)
+5 FOR the purpose of prohibiting employees and agents of State and local correctional
+6 facilities from taking certain actions related to immigration enforcement, subject to
+7 certain exceptions; prohibiting law enforcement agents from taking certain actions
+8 related to immigration enforcement, subject to certain exceptions; prohibiting State
+9 and local correctional facilities from taking certain actions against an individual
+10 based on a certain immigration status of the individual or any other person; requiring
+11 employees and agents of State correctional facilities to provide a certain notice;
+12 authorizing a District Court commissioner or a judge to consider the existence of a
+13 certain request when considering whether to authorize pretrial release or set bond
+14 or bail; and generally relating to immigration enforcement.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0791*
+
+2 SENATE BILL 791
+1 BY adding to
+2 Article – Correctional Services
+3 Section 8–805
+4 Annotated Code of Maryland
+5 (2025 Replacement Volume)
+6 BY repealing and reenacting, with amendments,
+7 Article – Criminal Procedure
+8 Section 5–104
+9 Annotated Code of Maryland
+10 (2025 Replacement Volume)
+11 BY adding to
+12 Article – Criminal Procedure
+13 Section 5–201.1
+14 Annotated Code of Maryland
+15 (2025 Replacement Volume)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – Correctional Services
+19 8–805.
+20 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+21 INDICATED.
+22 (2) “CIVIL IMMIGRATION VIOLATION” MEANS A VIOLATION OF
+23 FEDERAL CIVIL IMMIGRATION LAW.
+24 (3) “COURT ORDER” DOES NOT INCLUDE A DOCUMENT ISSUED BY:
+25 (I) THE UNITED STATES DEPARTMENT OF HOMELAND
+26 SECURITY;
+27 (II) THE UNITED STATES DEPARTMENT OF JUSTICE; OR
+28 (III) ANY SUCCESSOR AGENCY.
+29 (4) “COVERED CONVICTED INDIVIDUAL” MEANS AN INDIVIDUAL WHO
+30 HAS BEEN CONVICTED OF:
+31 (I) A FELONY UNDER THE LAWS OF THIS STATE;
+
+SENATE BILL 791 3
+1 (II) AN OFFENSE FOR WHICH REGISTRATION AS A SEX
+2 OFFENDER IS REQUIRED; OR
+3 (III) AN OFFENSE FOR WHICH THE INDIVIDUAL WAS SENTENCED
+4 TO A TERM OF INCARCERATION TO BE SERVED AT A STATE CORRECTIONAL
+5 FACILITY; OR
+6 (IV) AN OFFENSE IN ANOTHER STATE FOR WHICH THE
+7 INDIVIDUAL WAS SENTENCED TO AT LEAST 5 YEARS OF INCARCERATION AND THE
+8 INDIVIDUAL COMPLETED AT LEAST 5 YEARS OF INCARCERATION OF THAT
+9 SENTENCE.
+10 (5) “IMMIGRATION DETAINER” MEANS A WRITTEN OR ELECTRONIC
+11 REQUEST ISSUED BY A FEDERAL IMMIGRATION AUTHORITY TO REQUEST THAT
+12 ANOTHER LAW ENFORCEMENT AGENCY DETAIN A PERSON THAT IS:
+13 (I) BASED ON PROBABLE CAUSE TO BELIEVE THAT THE PERSON
+14 TO BE DETAINED IS A REMOVABLE ALIEN UNDER FEDERAL IMMIGRATION LAW; AND
+15 (II) ACCOMPANIED BY A FORM I–205 WARRANT OF
+16 REMOVAL/DEPORTATION OR A SUCCESSOR FORM.
+17 (4) (6) “JUDICIAL WARRANT” DOES NOT INCLUDE A DOCUMENT
+18 ISSUED BY:
+19 (I) THE UNITED STATES DEPARTMENT OF HOMELAND
+20 SECURITY;
+21 (II) THE UNITED STATES DEPARTMENT OF JUSTICE; OR
+22 (III) ANY SUCCESSOR AGENCY.
+23 (7) “LOCAL CORRECTIONAL FACILITY” INCLUDES:
+24 (I) THE BALTIMORE CITY DETENTION CENTER; AND
+25 (II) THE CENTRALIZED BOOKING FACILITY IN BALTIMORE CITY
+26 THAT IS OPERATED BY THE DIVISION OF PRETRIAL DETENTION AND SERVICES IN
+27 THE DEPARTMENT.
+28 (B) (1) PARAGRAPH (2)(I), (III), (IV), AND (V) AND (IV) OF THIS
+29 SUBSECTION DOES NOT APPLY TO A COVERED CONVICTED INDIVIDUAL.
+
+4 SENATE BILL 791
+1 (2) EXCEPT AS PROVIDED IN PARAGRAPHS (2) AND (3) (3) AND (4) OF
+2 THIS SUBSECTION, AN EMPLOYEE OR AGENT OF A STATE OR A LOCAL
+3 CORRECTIONAL FACILITY MAY NOT, IN THE COURSE OF THE EMPLOYEE’S OR
+4 AGENT’S DUTIES:
+5 (I) INQUIRE ABOUT OR INVESTIGATE AN INDIVIDUAL’S
+6 CITIZENSHIP, IMMIGRATION STATUS, OR PLACE OF BIRTH;
+7 (II) DETAIN OR PROLONG THE DETENTION OF AN INDIVIDUAL:
+8 1. FOR THE PURPOSE OF INVESTIGATING THE
+9 INDIVIDUAL’S CITIZENSHIP OR IMMIGRATION STATUS;
+10 2. BASED ON THE SUSPICION THAT THE INDIVIDUAL HAS
+11 COMMITTED A CIVIL IMMIGRATION VIOLATION; OR
+12 3. AT THE REQUEST OF FEDERAL IMMIGRATION
+13 AUTHORITIES UNLESS PRESENTED WITH A VALID JUDICIAL WARRANT;
+14 (III) NOTIFY FEDERAL IMMIGRATION AUTHORITIES THAT AN
+15 INDIVIDUAL IS IN CUSTODY UNLESS REQUIRED BY A VALID COURT ORDER OR
+16 JUDICIAL WARRANT; OR
+17 (IV) TRANSFER AN INDIVIDUAL TO FEDERAL IMMIGRATION
+18 AUTHORITIES UNLESS PRESENTED WITH A VALID JUDICIAL WARRANT; OR
+19 (V) COERCE, INTIMIDATE, OR THREATEN AN INDIVIDUAL BASED
+20 ON THE ACTUAL OR PERCEIVED CITIZENSHIP OR IMMIGRATION STATUS OF THE
+21 INDIVIDUAL OR ANY OTHER PERSON.
+22 (2) (3) NOTHING IN THIS SUBSECTION SHALL PREVENT AN
+23 EMPLOYEE OR AGENT OF A STATE OR LOCAL CORRECTIONAL FACILITY FROM:
+24 (I) INQUIRING ABOUT INFORMATION THAT IS MATERIAL TO A
+25 ROUTINE BOOKING PROCEDURE; OR
+26 (II) ENTERING INFORMATION INTO THE NATIONAL CRIME
+27 INFORMATION CENTER.
+28 (3) (4) IF THE CITIZENSHIP OR IMMIGRATION STATUS OF AN
+29 INDIVIDUAL IS RELEVANT TO A PROTECTION ACCORDED TO THE INDIVIDUAL UNDER
+30 STATE OR FEDERAL LAW, OR SUBJECT TO A REQUIREMENT IMPOSED BY
+
+SENATE BILL 791 5
+1 INTERNATIONAL TREATY, AN EMPLOYEE OR AGENT OF A STATE OR LOCAL
+2 CORRECTIONAL FACILITY MAY:
+3 (I) NOTIFY THE INDIVIDUAL OF THE PROTECTION OR
+4 REQUIREMENT; OR
+5 (II) PROVIDE THE INDIVIDUAL WITH AN OPPORTUNITY TO
+6 VOLUNTARILY DISCLOSE THE INDIVIDUAL’S CITIZENSHIP OR IMMIGRATION STATUS
+7 FOR THE PURPOSE OF RECEIVING THE PROTECTION OR COMPLYING WITH THE
+8 REQUIREMENT.
+9 (C) (1) THIS SUBSECTION DOES NOT APPLY TO:
+10 (I) THE BALTIMORE CITY DETENTION CENTER; AND
+11 (II) THE CENTRALIZED BOOKING FACILITY IN BALTIMORE CITY
+12 THAT IS OPERATED BY THE DIVISION OF PRETRIAL DETENTION AND SERVICES IN
+13 THE DEPARTMENT.
+14 (2) A STATE CORRECTIONAL FACILITY SHALL PROVIDE WRITTEN
+15 NOTICE TO FEDERAL IMMIGRATION AUTHORITIES OF THE RELEASE OF AN
+16 INDIVIDUAL WHO IS THE SUBJECT OF AN ACTIVE IMMIGRATION DETAINER WITHIN
+17 48 HOURS BEFORE THE RELEASE OF THE INDIVIDUAL.
+18 (D) A STATE CORRECTIONAL FACILITY OR A LOCAL CORRECTIONAL
+19 FACILITY MAY NOT COERCE, INTIMIDATE, OR THREATEN AN INDIVIDUAL BASED ON
+20 THE ACTUAL OR PERCEIVED CITIZENSHIP OR IMMIGRATION STATUS OF THE
+21 INDIVIDUAL OR ANY OTHER PERSON.
+22 (D) (E) (1) THE ATTORNEY GENERAL OR AN INDIVIDUAL WHO HAS
+23 BEEN SUBJECTED TO A VIOLATION OF THIS SECTION MAY BRING A CIVIL ACTION TO
+24 ENFORCE THIS SECTION.
+25 (2) IN AN ACTION BROUGHT UNDER PARAGRAPH (1) OF THIS
+26 SUBSECTION, THE COURT MAY ISSUE TEMPORARY, PRELIMINARY, OR PERMANENT
+27 INJUNCTIVE RELIEF TO PREVENT AN ACT THAT WOULD CONSTITUTE A VIOLATION
+28 OF THIS SECTION.
+29 (C) UNLESS REQUIRED BY STATE OR FEDERAL LAW OR A COURT ORDER, AN
+30 EMPLOYEE OR AGENT OF A STATE OR LOCAL CORRECTIONAL FACILITY MAY NOT:
+31 (1) IN THE COURSE OF THE EMPLOYEE’S OR AGENT’S DUTIES,
+32 PROVIDE INFORMATION TO FEDERAL IMMIGRATION AUTHORITIES; OR
+
+6 SENATE BILL 791
+1 (2) ALLOW FEDERAL IMMIGRATION AUTHORITIES TO ACCESS:
+2 (I) AN AREA OF A STATE OR LOCAL CORRECTIONAL FACILITY
+3 NOT ACCESSIBLE TO THE PUBLIC; OR
+4 (II) RECORDS RELATING TO A STATE OR LOCAL CORRECTIONAL
+5 FACILITY THAT ARE NOT ACCESSIBLE TO THE PUBLIC.
+6 (D) (1) EACH STATE AND LOCAL CORRECTIONAL FACILITY SHALL ADOPT
+7 A POLICY CONSISTENT WITH THE REQUIREMENTS OF THIS SECTION.
+8 (2) THE POLICY REQUIRED BY THIS SUBSECTION SHALL INCLUDE
+9 PENALTIES FOR AN EMPLOYEE OR AGENT WHO VIOLATES THE REQUIREMENTS OF
+10 THIS SECTION.
+11 (E) AN INDIVIDUAL WHO HAS BEEN SUBJECTED TO A VIOLATION OF THIS
+12 SECTION MAY BRING AN ACTION FOR:
+13 (1) ACTUAL DAMAGES;
+14 (2) PUNITIVE DAMAGES; AND
+15 (3) INJUNCTIVE RELIEF.
+16 Article – Criminal Procedure
+17 5–104.
+18 (a) (1) In this section the following words have the meanings indicated.
+19 (2) “Civil immigration violation” means a violation of federal civil
+20 immigration law.
+21 (3) “COURT ORDER” DOES NOT INCLUDE A DOCUMENT ISSUED BY:
+22 (I) THE UNITED STATES DEPARTMENT OF HOMELAND
+23 SECURITY;
+24 (II) THE UNITED STATES DEPARTMENT OF JUSTICE; OR
+25 (III) ANY SUCCESSOR AGENCY.
+26 [(3)] (4) “Family member” means a relative by blood, adoption, or
+27 marriage.
+
+SENATE BILL 791 7
+1 [(4)] (5) “Household member” means a person who lives with another or
+2 is a regular presence in the home of another.
+3 [(5)] (6) (i) “Law enforcement agent” means an individual who is
+4 certified by the Maryland Police Training and Standards Commission under § 3–209 of the
+5 Public Safety Article.
+6 (ii) “Law enforcement agent” does not include an agent or employee
+7 of a State correctional facility or a local correctional facility.
+8 [(6)] (7) “Local correctional facility” has the meaning stated in § 1–101 of
+9 the Correctional Services Article.
+10 [(7)] (8) “State correctional facility” has the meaning stated in § 1–101 of
+11 the Correctional Services Article.
+12 (b) (1) In this subsection, “arrest” does not include a routine booking
+13 procedure.
+14 (2) Except as provided in paragraphs (3) and (4) of this subsection, a law
+15 enforcement agent may not, during the performance of regular police functions:
+16 (i) inquire about an individual’s citizenship, immigration status, or
+17 place of birth during a stop, a search, or an arrest;
+18 (ii) detain, or prolong the detention of, an individual:
+19 1. for the purpose of investigating the individual’s
+20 citizenship or immigration status; or
+21 2. based on the suspicion that the individual has committed
+22 a civil immigration violation;
+23 (iii) transfer an individual to federal immigration authorities unless
+24 required by federal law; [or]
+25 (iv) coerce, intimidate, or threaten any individual based on the actual
+26 or perceived citizenship or immigration status of the individual or:
+27 1. the individual’s family member;
+28 2. the individual’s household member;
+29 3. the individual’s legal guardian; or
+
+8 SENATE BILL 791
+1 4. another individual for whom the individual is a legal
+2 guardian; OR
+3 (V) NOTIFY FEDERAL IMMIGRATION AUTHORITIES THAT AN
+4 INDIVIDUAL IS IN CUSTODY PROVIDE FEDERAL IMMIGRATION AUTHORITIES WITH
+5 INFORMATION ABOUT AN INDIVIDUAL OBTAINED IN THE COURSE OF THE LAW
+6 ENFORCEMENT AGENT’S DUTIES UNLESS REQUIRED BY A VALID COURT ORDER.
+7 (3) Nothing in this subsection shall prevent a law enforcement agent from
+8 inquiring about any information that is material to a criminal investigation.
+9 (4) If the citizenship or immigration status of an individual is relevant to a
+10 protection accorded to the individual under State or federal law, or subject to a requirement
+11 imposed by international treaty, a law enforcement agent may:
+12 (i) notify the individual of the protection or requirement; and
+13 (ii) provide the individual an opportunity to voluntarily disclose the
+14 individual’s citizenship or immigration status for the purpose of receiving the protection or
+15 complying with the requirement.
+16 (C) (1) EACH LAW ENFORCEMENT AGENCY IN THE STATE SHALL ADOPT A
+17 POLICY CONSISTENT WITH THE REQUIREMENTS OF THIS SECTION.
+18 (2) THE POLICY REQUIRED BY THIS SUBSECTION SHALL INCLUDE
+19 PENALTIES FOR AN EMPLOYEE OR AGENT WHO VIOLATES THE REQUIREMENTS OF
+20 THIS SECTION.
+21 (D) AN INDIVIDUAL WHO HAS BEEN SUBJECTED TO A VIOLATION OF THIS
+22 SECTION MAY BRING AN ACTION FOR:
+23 (1) ACTUAL DAMAGES;
+24 (2) PUNITIVE DAMAGES; AND
+25 (3) INJUNCTIVE RELIEF.
+26 5–201.1.
+27 (A) IN THIS SECTION, “IMMIGRATION DETAINER” HAS THE MEANING
+28 STATED IN § 8–805 OF THE CORRECTIONAL SERVICES ARTICLE.
+29 (B) IN ADDITION TO ANY OTHER FACTOR ALLOWED BY THE MARYLAND
+30 RULES OR COMMON LAW, A DISTRICT COURT COMMISSIONER OR A JUDGE MAY
+
+SENATE BILL 791 9
+1 CONSIDER THE EXISTENCE OF AN IMMIGRATION DETAINER WHEN DETERMINING
+2 WHETHER TO:
+3 (1) AUTHORIZE PRETRIAL RELEASE FOR A DEFENDANT CHARGED
+4 WITH A FELONY; OR
+5 (2) SET BOND OR BAIL FOR A DEFENDANT CHARGED WITH A FELONY.
+6 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+7 October 1, 2026.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That, if any provision of this Act or
+9 the application of any provision of this Act to any person or circumstance is held invalid for
+10 any reason in a court of competent jurisdiction, the invalidity does not affect other provisions
+11 or any other application of this Act that can be given effect without the invalid provision or
+12 application, and for this purpose the provisions of this Act are declared severable.
+13 SECTION 3. AND BE IT FURTHER ENACTED, That this Act is an emergency
+14 measure, is necessary for the immediate preservation of the public health or safety, has been
+15 passed by a yea and nay vote supported by three–fifths of all the members elected to each of
+16 the two Houses of the General Assembly, and shall take effect from the date it is enacted.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
