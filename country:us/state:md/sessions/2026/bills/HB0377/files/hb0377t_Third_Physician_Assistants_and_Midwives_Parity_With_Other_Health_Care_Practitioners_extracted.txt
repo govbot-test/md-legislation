@@ -1,0 +1,468 @@
+Title: 
+Official Title: 
+Source: versions - Third - Physician Assistants and Midwives - Parity With Other Health Care Practitioners
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 377
+J2 6lr1798
+CF SB 326
+By: Delegate S. Johnson Delegates S. Johnson, Alston, Bagnall, Cullison, Guzzone,
+Kaufman, Kipke, Lopez, Martinez, Rosenberg, Ross, Taveras,
+White Holland, and Woorman
+Introduced and read first time: January 19, 2026
+Assigned to: Health
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 26, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Physician Assistants and Midwives – Parity With Other Health Care
+3 Practitioners
+4 FOR the purpose of altering certain provisions of law to include physician assistants in the
+5 health care practitioners who may take certain actions, including actions related to
+6 the guardianship of disabled persons, admission of individuals to mental health
+7 facilities, the Emergency and Allergy Treatment Program, and the Attendant Care
+8 Program; altering the health care practitioners that may order that a pregnant
+9 incarcerated individual be admitted to the infirmary; altering the health care
+10 practitioners that health maintenance organizations must allow each member to
+11 select from among those available to the health maintenance organization; requiring
+12 the Maryland Department of Health to cover charges related to examinations by a
+13 physician assistant for certain emergency evaluees; altering the membership and
+14 duties of the Statewide Advisory Commission on Immunization; requiring the
+15 Maryland Health Care Commission to review certain data and evaluate whether
+16 there is a longer average length of stay for individuals who are the subject of an
+17 application for involuntary admission who are brought during an overnight shift to
+18 certain emergency departments; and generally relating to physician assistants,
+19 certified nurse–midwives, and licensed certified midwives.
+20 BY repealing and reenacting, with amendments,
+21 Article – Correctional Services
+22 Section 9–601.1(e)(1)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0377*
+
+2 HOUSE BILL 377
+1 Annotated Code of Maryland
+2 (2025 Replacement Volume)
+3 BY repealing and reenacting, with amendments,
+4 Article – Estates and Trusts
+5 Section 13–705(c)(2)
+6 Annotated Code of Maryland
+7 (2022 Replacement Volume and 2025 Supplement)
+8 BY repealing and reenacting, with amendments,
+9 Article – Health – General
+10 Section 5–606, 10–601(g) and (h), 10–610(c), 10–611(b), (c), and (e), 10–615(6),
+11 10–616(a)(1) and (c), 10–619, 10–620(f), 10–622(b) and (d), 10–623(a),
+12 10–624(a)(1), 10–628(a)(1), 13–701, 13–705, 13–707(b)(1) and (c),
+13 18–214(d)(11) and (12), 19–705.1(b)(1)(vi), and 19–2001(a)(4)
+14 Annotated Code of Maryland
+15 (2023 Replacement Volume and 2025 Supplement)
+16 BY repealing and reenacting, without amendments,
+17 Article – Health – General
+18 Section 10–601(a), 10–620(a), 18–214(b), 19–705.1(a) and (b)(2), and 19–2001(a)(1)
+19 and (b)(1)
+20 Annotated Code of Maryland
+21 (2023 Replacement Volume and 2025 Supplement)
+22 BY adding to
+23 Article – Health – General
+24 Section 10–601(g) and 18–214(d)(12)
+25 Annotated Code of Maryland
+26 (2023 Replacement Volume and 2025 Supplement)
+27 BY repealing and reenacting, with amendments,
+28 Article – Human Services
+29 Section 7–404(a)
+30 Annotated Code of Maryland
+31 (2019 Replacement Volume and 2025 Supplement)
+32 BY repealing and reenacting, without amendments,
+33 Article – State Personnel and Pensions
+34 Section 9–504(a)
+35 Annotated Code of Maryland
+36 (2024 Replacement Volume and 2025 Supplement)
+37 BY repealing and reenacting, with amendments,
+38 Article – State Personnel and Pensions
+39 Section 9–504(b)
+40 Annotated Code of Maryland
+
+HOUSE BILL 377 3
+1 (2024 Replacement Volume and 2025 Supplement)
+2 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+3 That the Laws of Maryland read as follows:
+4 Article – Correctional Services
+5 9–601.1.
+6 (e) (1) A pregnant incarcerated individual who is deemed to need infirmary
+7 care shall be admitted to the infirmary on order of a primary care nurse practitioner, A
+8 PHYSICIAN ASSISTANT, or AN obstetrician NURSE PRACTITIONER, CERTIFIED
+9 NURSE–MIDWIFE, LICENSED CERTIFIED MIDWIFE, PHYSICIAN ASSISTANT, OR
+10 PHYSICIAN.
+11 Article – Estates and Trusts
+12 13–705.
+13 (c) (2) Notwithstanding the provisions of paragraph (1) of this subsection, a
+14 petition for guardianship of a disabled person shall include signed and verified certificates
+15 of competency from the following health care professionals who have examined or evaluated
+16 the disabled person:
+17 (i) Two licensed physicians; or
+18 (ii) 1. One licensed physician; and
+19 2. A. One licensed psychologist;
+20 B. One licensed certified social worker–clinical; [or]
+21 C. One nurse practitioner; OR
+22 D. ONE LICENSED PHYSICIAN ASSISTANT.
+23 Article – Health – General
+24 5–606.
+25 (a) (1) Prior to providing, withholding, or withdrawing treatment for which
+26 authorization has been obtained or will be sought under this subtitle, the attending
+27 physician and a second physician [or a], nurse practitioner, OR PHYSICIAN ASSISTANT,
+28 one of whom shall have examined the patient within 2 hours before making the
+29 certification, shall certify in writing that the patient is incapable of making an informed
+
+4 HOUSE BILL 377
+1 decision regarding the treatment. The certification shall be based on a personal
+2 examination of the patient.
+3 (2) If a patient is unconscious, or unable to communicate by any means, the
+4 certification of a second physician [or a], nurse practitioner, OR PHYSICIAN ASSISTANT is
+5 not required under paragraph (1) of this subsection.
+6 (3) When authorization is sought for treatment of a mental illness, the
+7 second physician [or the], nurse practitioner, OR PHYSICIAN ASSISTANT may not be
+8 otherwise currently involved in the treatment of the person assessed.
+9 (4) The cost of an assessment to certify incapacity under this subsection
+10 shall be considered for all purposes a cost of the patient’s treatment.
+11 (b) A health care provider may not withhold or withdraw life–sustaining
+12 procedures on the basis of an advance directive where no agent has been appointed or on
+13 the basis of the authorization of a surrogate, unless:
+14 (1) The patient’s attending physician and a second physician [or a], nurse
+15 practitioner, OR PHYSICIAN ASSISTANT have certified that the patient is in a terminal
+16 condition or has an end–stage condition; or
+17 (2) Two physicians, one of whom is a neurologist, neurosurgeon, or other
+18 physician who has special expertise in the evaluation of cognitive functioning, certify that
+19 the patient is in a persistent vegetative state.
+20 10–601.
+21 (a) In this subtitle the following words have the meanings indicated.
+22 (G) “PHYSICIAN ASSISTANT” MEANS AN INDIVIDUAL WHO IS LICENSED
+23 UNDER TITLE 15 OF THE HEALTH OCCUPATIONS ARTICLE TO PRACTICE AS A
+24 PHYSICIAN ASSISTANT.
+25 [(g)] (H) “Psychiatric nurse practitioner” means an individual who is:
+26 (1) Licensed as a registered nurse and certified as a nurse practitioner
+27 under Title 8 of the Health Occupations Article; and
+28 (2) Practicing in the State as a certified registered nurse
+29 practitioner–psychiatric mental health.
+30 [(h)] (I) “Psychologist” means an individual who is licensed under Title 18 of the
+31 Health Occupations Article to practice psychology.
+32 10–610.
+
+HOUSE BILL 377 5
+1 (c) A facility may not admit an individual under this section unless:
+2 (1) The individual has a mental disorder;
+3 (2) The mental disorder is susceptible to care or treatment;
+4 (3) The applicant understands the nature of a request for admission; and
+5 (4) Assent to the admission has been given:
+6 (i) By the admitting physician of the facility; or
+7 (ii) For a child or adolescent unit of a State facility, by:
+8 1. 1 physician and 1 psychologist;
+9 2. 1 PHYSICIAN AND 1 PHYSICIAN ASSISTANT;
+10 [2.] 3. 2 physicians;
+11 [3.] 4. 1 physician and 1 psychiatric nurse practitioner;
+12 [4.] 5. 1 physician and 1 licensed certified social worker–clinical;
+13 or
+14 [5.] 6. 1 physician and 1 licensed clinical professional counselor.
+15 10–611.
+16 (b) A disabled person may apply for voluntary admission of the disabled person
+17 if:
+18 (1) The disabled person submits a formal, written application that contains
+19 the disabled person’s personal information and is on the form required by the
+20 Administration; and
+21 (2) In accordance with subsections (c) through (e) of this section, either a
+22 physician and a psychologist, two physicians, [or] a physician and a psychiatric nurse
+23 practitioner, OR A PHYSICIAN AND A PHYSICIAN ASSISTANT certify that:
+24 (i) The disabled person has the capacity to execute an application
+25 for voluntary admission; and
+
+6 HOUSE BILL 377
+1 (ii) The disabled person understands both the criteria for voluntary
+2 admission set forth under this section and the procedure for requesting discharge from the
+3 facility.
+4 (c) (1) A certificate for voluntary admission of a disabled person under
+5 subsection (b) of this section shall:
+6 (i) Be based on the personal examination of the physician,
+7 psychologist, [or] psychiatric nurse practitioner, OR PHYSICIAN ASSISTANT who signs the
+8 certificate; and
+9 (ii) Be in the form that the Secretary of Health adopts, by rule or
+10 regulation.
+11 (2) The rules and regulations shall require the form to include an opinion
+12 that:
+13 (i) The disabled person has a mental disorder;
+14 (ii) The mental disorder is susceptible to care or treatment;
+15 (iii) The disabled person understands the nature of the request for
+16 admission; and
+17 (iv) The disabled person is able to give continuous assent to retention
+18 by the facility.
+19 (e) A certificate may not be used for an admission if the physician, psychologist,
+20 [or] psychiatric nurse practitioner, OR PHYSICIAN ASSISTANT who signed the certificate:
+21 (1) Has a financial interest, through ownership or compensation, in a
+22 proprietary facility and admission to that proprietary facility is sought for the disabled
+23 person whose status is being certified; or
+24 (2) Is related, by blood or marriage, to the disabled person or the guardian
+25 of the person of the disabled person.
+26 10–615.
+27 Each application for involuntary admission to a facility or Veterans’ Administration
+28 hospital under this part shall:
+29 (6) Be accompanied by the certificates of:
+30 (i) 1 physician and 1 psychologist;
+31 (ii) 2 physicians;
+
+HOUSE BILL 377 7
+1 (III) 1 PHYSICIAN AND 1 PHYSICIAN ASSISTANT;
+2 [(iii)] (IV) 1 physician and 1 psychiatric nurse practitioner;
+3 [(iv)] (V) 1 physician and 1 licensed certified social worker–clinical;
+4 or
+5 [(v)] (VI) 1 physician and 1 licensed clinical professional counselor;
+6 and
+7 10–616.
+8 (a) (1) A certificate for involuntary admission of an individual under this part
+9 shall:
+10 (i) Be based on the personal examination of the physician,
+11 psychologist, psychiatric nurse practitioner, PHYSICIAN ASSISTANT, licensed certified
+12 social worker–clinical, or licensed clinical professional counselor who signs the certificate;
+13 and
+14 (ii) Be in the form that the Secretary adopts, by rule or regulation.
+15 (c) A certificate may not be used for an admission if the physician, psychologist,
+16 psychiatric nurse practitioner, PHYSICIAN ASSISTANT, licensed certified social
+17 worker–clinical, or licensed clinical professional counselor who signed the certificate:
+18 (1) Has a financial interest, through ownership or compensation, in a
+19 proprietary facility and admission to that proprietary facility is sought for the individual
+20 whose status is being certified; or
+21 (2) Is related, by blood or marriage, to the individual or to the applicant.
+22 10–619.
+23 Within 12 hours of notification by a physician, licensed psychologist, psychiatric
+24 nurse practitioner, PHYSICIAN ASSISTANT, licensed certified social worker–clinical, or
+25 licensed clinical professional counselor who has certified an individual under this part, a
+26 facility operated by the Maryland Department of Health shall receive and evaluate the
+27 individual certified for involuntary admission if:
+28 (1) The individual’s involuntary admission is not limited by § 10–617 of
+29 this subtitle;
+30 (2) An application for admission has been completed;
+
+8 HOUSE BILL 377
+1 (3) A certifying physician, psychologist, psychiatric nurse practitioner,
+2 PHYSICIAN ASSISTANT, licensed certified social worker–clinical, or licensed clinical
+3 professional counselor is unable to place the individual in a facility not operated by the
+4 Department; and
+5 (4) The Department is unable to provide for the placement of the person
+6 other than in a facility operated by the Department.
+7 10–620.
+8 (a) In Part IV of this subtitle the following words have the meanings indicated.
+9 (f) (1) “Mental disorder” means the behavioral or other symptoms that
+10 indicate:
+11 (i) To a lay petitioner who is submitting an emergency petition, a
+12 clear disturbance in the mental functioning of another individual; and
+13 (ii) To the following health professionals doing an examination, at
+14 least one mental disorder that is described in the version of the American Psychiatric
+15 Association’s “Diagnostic and Statistical Manual – Mental Disorders” that is current at the
+16 time of the examination:
+17 1. Physician;
+18 2. Psychologist;
+19 3. Clinical social worker;
+20 4. Licensed clinical professional counselor;
+21 5. Clinical nurse specialist in psychiatric and mental health
+22 nursing (APRN/PMH);
+23 6. Psychiatric nurse practitioner (CRNP–PMH);
+24 7. PHYSICIAN ASSISTANT; or
+25 [7.] 8. Licensed clinical marriage and family therapist.
+26 (2) “Mental disorder” does not include intellectual disability.
+27 10–622.
+28 (b) (1) The petition for emergency evaluation of an individual may be made by:
+
+HOUSE BILL 377 9
+1 (i) A physician, psychologist, PHYSICIAN ASSISTANT, clinical
+2 social worker, licensed clinical professional counselor, clinical nurse specialist in
+3 psychiatric and mental health nursing, psychiatric nurse practitioner, licensed clinical
+4 marriage and family therapist, or health officer or designee of a health officer who has
+5 examined the individual;
+6 (ii) A peace officer who personally has observed the individual or the
+7 individual’s behavior; or
+8 (iii) Any other interested person.
+9 (2) An individual who makes a petition for emergency evaluation under
+10 paragraph (1)(i) or (ii) of this subsection may base the petition on:
+11 (i) The examination or observation; or
+12 (ii) Other information obtained that is pertinent to the factors giving
+13 rise to the petition.
+14 (d) (1) A petitioner who is a physician, psychologist, PHYSICIAN ASSISTANT,
+15 clinical social worker, licensed clinical professional counselor, clinical nurse specialist in
+16 psychiatric and mental health nursing, psychiatric nurse practitioner, licensed clinical
+17 marriage and family therapist, health officer, or designee of a health officer shall give the
+18 petition to a peace officer.
+19 (2) The peace officer shall explain to the petitioner:
+20 (i) The serious nature of the petition; and
+21 (ii) The meaning and content of the petition.
+22 10–623.
+23 (a) If the petitioner under Part IV of this subtitle is not a physician, psychologist,
+24 PHYSICIAN ASSISTANT, clinical social worker, licensed clinical professional counselor,
+25 clinical nurse specialist in psychiatric and mental health nursing, psychiatric nurse
+26 practitioner, licensed clinical marriage and family therapist, health officer or designee of a
+27 health officer, or peace officer, the petitioner shall present the petition to the court for
+28 immediate review.
+29 10–624.
+30 (a) (1) A peace officer shall take an emergency evaluee to the nearest
+31 emergency facility if the peace officer has a petition under Part IV of this subtitle that:
+32 (i) Has been endorsed by a court within the last 5 days; or
+
+10 HOUSE BILL 377
+1 (ii) Is signed and submitted by a physician, psychologist,
+2 PHYSICIAN ASSISTANT, clinical social worker, licensed clinical professional counselor,
+3 clinical nurse specialist in psychiatric and mental health nursing, psychiatric nurse
+4 practitioner, licensed clinical marriage and family therapist, health officer or designee of a
+5 health officer, or peace officer.
+6 10–628.
+7 (a) (1) If an emergency evaluee cannot pay or does not have insurance that
+8 covers the charges for emergency services, an initial consultant examination by a physician,
+9 PHYSICIAN ASSISTANT, or nurse practitioner, and transportation to an emergency facility
+10 and, for an involuntary admission of the emergency evaluee, to the admitting facility, the
+11 Department shall pay the appropriate party the actual cost or a reasonable rate for this
+12 service, whichever is lower, except that hospitals shall be paid at rates approved by the
+13 Health Services Cost Review Commission.
+14 13–701.
+15 The Emergency and Allergy Treatment Program is a program in the Department for
+16 the purpose of providing a means of authorizing certain individuals to administer
+17 life–saving treatment to individuals who have severe adverse reactions to allergens or
+18 insect stings when physician, PHYSICIAN ASSISTANT, registered nurse practitioner, or
+19 emergency medical services are not immediately available in a youth camp.
+20 13–705.
+21 (a) (1) A registered nurse practitioner, PHYSICIAN ASSISTANT, or a physician
+22 licensed to practice [medicine] in the State may prescribe emergency use epinephrine in
+23 the name of a certificate holder.
+24 (2) A registered nurse practitioner, a pharmacist [licensed to practice
+25 pharmacy in the State], A PHYSICIAN ASSISTANT, or a physician LICENSED TO
+26 PRACTICE IN THE STATE may dispense emergency use epinephrine under a prescription
+27 issued to a certificate holder.
+28 (b) A certificate holder may:
+29 (1) On presentment of a certificate, receive from any registered nurse
+30 practitioner, PHYSICIAN ASSISTANT, or any physician licensed to practice [medicine] in
+31 the State a prescription for emergency use epinephrine and the necessary paraphernalia
+32 for the administration of emergency use epinephrine; and
+33 (2) Possess and store prescribed emergency use epinephrine and the
+34 necessary paraphernalia for the administration of emergency use epinephrine.
+
+HOUSE BILL 377 11
+1 (c) In an emergency situation when registered nurse practitioner, physician,
+2 PHYSICIAN ASSISTANT, or emergency medical services are not immediately available, a
+3 certificate holder or agent may administer emergency use epinephrine to an individual who
+4 is experiencing or believed in good faith by the certificate holder or agent to be experiencing
+5 anaphylaxis.
+6 13–707.
+7 (b) (1) A cause of action may not arise against any physician OR PHYSICIAN
+8 ASSISTANT for any act or omission when the physician OR PHYSICIAN ASSISTANT in good
+9 faith prescribes or dispenses emergency use epinephrine and the necessary paraphernalia
+10 for the administration of emergency use epinephrine to a person certified by the
+11 Department under this subtitle.
+12 (c) This section does not affect, and may not be construed as affecting, any
+13 immunities from civil liability or defenses established by any other provision of the Code or
+14 by common law to which a volunteer, registered nurse practitioner, physician, PHYSICIAN
+15 ASSISTANT, or pharmacist may be entitled.
+16 18–214.
+17 (b) There is a Statewide Advisory Commission on Immunizations.
+18 (d) The following members are subject to term limits:
+19 (11) One physician member of the American College of Physicians – Internal
+20 Medicine Society of Maryland; [and]
+21 (12) ONE PHYSICIAN ASSISTANT MEMBER OF THE MARYLAND
+22 ACADEMY OF PHYSICIAN ASSISTANTS; AND
+23 [(12)] (13) Up to three additional members selected by the Secretary.
+24 19–705.1.
+25 (a) The Secretary shall adopt regulations that set out reasonable standards of
+26 quality of care that a health maintenance organization shall provide to its members.
+27 (b) (1) The standards of quality of care shall include:
+28 (vi) A requirement that each member shall have an opportunity to
+29 select a primary physician, A PHYSICIAN ASSISTANT, A CERTIFIED NURSE–MIDWIFE, A
+30 LICENSED CERTIFIED MIDWIFE, or a certified nurse practitioner from among those
+31 available to the health maintenance organization; and
+
+12 HOUSE BILL 377
+1 (2) This subsection may not be construed to require that a health
+2 maintenance organization include certified nurse practitioners on the health maintenance
+3 organization’s provider panel as primary care providers.
+4 19–2001.
+5 (a) (1) In this subtitle the following words have the meanings indicated.
+6 (4) (i) Except as provided in subparagraph (ii) of this paragraph,
+7 “health care practitioner” means any individual licensed or certified under the Health
+8 Occupations Article who:
+9 1. Is a licensed practical nurse, registered nurse, or certified
+10 nursing assistant; or
+11 2. Practices in an allied health care field, as defined by the
+12 Office in regulation.
+13 (ii) “Health care practitioner” does not include:
+14 1. An acupuncturist;
+15 2. A dentist;
+16 3. A nurse anesthetist;
+17 4. A nurse midwife;
+18 5. A nurse practitioner;
+19 6. A pharmacist;
+20 7. A physician; [or]
+21 8. A PHYSICIAN ASSISTANT; OR
+22 [8.] 9. A podiatrist.
+23 (b) (1) A health care staff agency shall be licensed by the Office before
+24 referring health care practitioners to a health care facility to render temporary health care
+25 services at a health care facility in this State.
+26 Article – Human Services
+27 7–404.
+
+HOUSE BILL 377 13
+1 (a) (1) The Department shall ensure that at any given time at least 50% of the
+2 eligible individuals receiving financial assistance under the Program are:
+3 (i) gainfully employed;
+4 (ii) actively seeking employment; or
+5 (iii) attending an institution of postsecondary or higher education, as
+6 defined in § 10–101 of the Education Article.
+7 (2) The remainder of the eligible individuals receiving financial assistance
+8 under the Program shall be individuals who:
+9 (i) reside in a nursing facility or similar institution licensed to
+10 provide chronic or intermediate care and who will be deinstitutionalized as a result of the
+11 Program; or
+12 (ii) are certified by an attending physician, PHYSICIAN ASSISTANT,
+13 or certified nurse practitioner as being at risk of placement in a nursing facility or similar
+14 institution licensed to provide chronic or intermediate care if attendant care services are
+15 not received in the community.
+16 Article – State Personnel and Pensions
+17 9–504.
+18 (a) An employee who uses sick leave for 5 or more consecutive workdays for
+19 personal illness or disability or the illness or disability of a member of the employee’s
+20 immediate family may not receive payment under this subtitle unless the employee gives
+21 the employee’s immediate supervisor an original certificate of illness or disability.
+22 (b) The certificate required under subsection (a) of this section shall be signed by
+23 one of the following:
+24 (1) a medical doctor who is authorized to practice medicine or surgery by
+25 the state in which the doctor practices;
+26 (2) if authorized to practice in a state and performing within the scope of
+27 that authority:
+28 (i) a chiropractor;
+29 (ii) a clinical psychologist;
+30 (iii) a dentist;
+31 (iv) a licensed certified social worker – clinical;
+
+14 HOUSE BILL 377
+1 (v) a nurse midwife;
+2 (vi) a nurse practitioner;
+3 (vii) an oral surgeon;
+4 (viii) an optometrist;
+5 (ix) a physical therapist;
+6 (X) A PHYSICIAN ASSISTANT;
+7 [(x)] (XI) a podiatrist; or
+8 [(xi)] (XII) a licensed professional counselor – clinical;
+9 (3) an accredited Christian Science practitioner; or
+10 (4) a health care provider as defined by the federal Family Medical Leave
+11 Act.
+12 SECTION 2. AND BE IT FURTHER ENACTED, That:
+13 (a) The Maryland Health Care Commission shall:
+14 (1) review data on the average length of stay in emergency departments for
+15 individuals who are the subject of an application for involuntary admission under Title 10,
+16 Subtitle 6, Part III of the Health – General Article; and
+17 (2) evaluate whether there is a longer average length of stay for individuals
+18 who are brought during an overnight shift to emergency departments that lack a sufficient
+19 number of clinicians with authority to certify an application for involuntary admission
+20 under § 10–615 of the Health – General Article, but are staffed with physician assistants.
+21 (b) On or before November 1, 2026, the Maryland Health Care Commission shall
+22 report its findings and recommendations to the Senate Finance Committee and the House
+23 Health Committee, in accordance with § 2–1257 of the State Government Article.
+24 SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2026.

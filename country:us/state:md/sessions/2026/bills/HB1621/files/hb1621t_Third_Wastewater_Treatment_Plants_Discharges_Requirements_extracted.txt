@@ -1,0 +1,242 @@
+Title: 
+Official Title: 
+Source: versions - Third - Wastewater Treatment Plants - Discharges - Requirements
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 1621
+M3 6lr3572
+By: Delegate Grammer Delegates Grammer, Behler, and Guyton
+Introduced and read first time: February 21, 2026
+Assigned to: Rules and Executive Nominations
+Re–referred to: Environment and Transportation, February 26, 2026
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 18, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Wastewater Treatment Plants – Discharges – Monitoring, Reporting, and
+3 Requirements
+4 FOR the purpose of requiring the Department of the Environment to monitor and evaluate
+5 effluent discharged from wastewater treatment plants for certain substances;
+6 establishing certain requirements for certain wastewater treatment plants;
+7 requiring the Department to establish certain bacterial action levels; prohibiting
+8 certain wastewater treatment plants from taking part in the Water Quality Trading
+9 Program; authorizing the Department to deny, suspend, or revoke the approval or
+10 certification of certain credits under certain circumstances; requiring certain
+11 notification to be provided immediately; requiring the Department to establish a
+12 certain database requiring certain wastewater treatment plants to maintain a
+13 publicly accessible website on which certain information relating to certain
+14 discharges is required to be published in a certain manner; requiring certain
+15 wastewater treatment plants to begin certain testing within a certain period of time
+16 after a certain discharge; and generally relating to wastewater treatment plants.
+17 BY adding to
+18 Article – Environment
+19 Section 9–321.3
+20 Annotated Code of Maryland
+21 (2014 Replacement Volume and 2025 Supplement)
+22 BY repealing and reenacting, with amendments,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1621*
+
+2 HOUSE BILL 1621
+1 Article – Environment
+2 Section 9–331.1 and 9–332
+3 Annotated Code of Maryland
+4 (2014 Replacement Volume and 2025 Supplement)
+5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+6 That the Laws of Maryland read as follows:
+7 Article – Environment
+8 9–321.3.
+9 (A) THIS SECTION APPLIES ONLY TO A WASTEWATER TREATMENT PLANT
+10 THAT HAS A DISCHARGE PERMIT TO PROCESS AN ANNUAL AVERAGE FLOW OF AT
+11 LEAST 50,000,000 GALLONS OF EFFLUENT PER DAY.
+12 (B) A WASTEWATER TREATMENT PLANT SHALL:
+13 (1) (I) MAINTAIN A WEBSITE THAT IS ACCESSIBLE TO THE PUBLIC;
+14 AND
+15 (II) PUBLISH ON THE WEBSITE THE FOLLOWING INFORMATION:
+16 1. ON A MONTHLY BASIS, AFTER REPORTING TO THE
+17 DEPARTMENT ON ANY TOTAL BACTERIA RESULTS REQUIRED UNDER THE
+18 WASTEWATER TREATMENT PLANT’S DISCHARGE PERMIT, THE TOTAL BACTERIA
+19 RESULTS REPORTED TO THE DEPARTMENT;
+20 2. WITHIN 5 DAYS AFTER ANY BYPASS, OVERFLOW, OR
+21 TREATMENT FAILURE, THE TOTAL VOLUME OF WASTEWATER DISCHARGED DURING
+22 THE BYPASS, OVERFLOW, OR TREATMENT FAILURE;
+23 3. WITHIN 5 DAYS AFTER ANY BYPASS, OVERFLOW, OR
+24 TREATMENT FAILURE, AN EXPLANATION, IN PLAIN LANGUAGE, OF:
+25 A. THE BYPASS, OVERFLOW, OR TREATMENT FAILURE;
+26 AND
+27 B. TO THE EXTENT POSSIBLE, ANY ACTION TAKEN
+28 CONSISTENT WITH THE REQUIREMENTS UNDER § 9–331.1 OF THIS SUBTITLE; AND
+29 4. WITHIN 24 HOURS AFTER RECEIVING THE RESULTS
+30 OF A TEST CONDUCTED IN ACCORDANCE WITH ITEM (2) OF THIS SUBSECTION, THE
+31 RESULTS OF THE TEST; AND
+
+HOUSE BILL 1621 3
+1 (2) WITHIN 24 HOURS AFTER A BYPASS, OVERFLOW, OR TREATMENT
+2 FAILURE THAT REQUIRES TESTING FOR BIOCHEMICAL OXYGEN DEMAND, TOTAL
+3 SUSPENDED SOLIDS, BACTERIA, INCLUDING FECAL COLIFORM, ENTEROCOCCI, AND
+4 E. COLI, NUTRIENTS, INCLUDING NITROGEN AND PHOSPHORUS, OR WHOLE
+5 EFFLUENT TOXICITY, BEGIN THE REQUIRED TESTING.
+6 (A) IN THIS SECTION, “PFAS” MEANS PER– AND POLYFLUOROALKYL
+7 SUBSTANCES.
+8 (B) THE DEPARTMENT SHALL:
+9 (1) MONITOR EFFLUENT DISCHARGED FROM WASTEWATER
+10 TREATMENT PLANTS FOR HORMONES, PFAS, AND BACTERIA; AND
+11 (2) EVALUATE WHETHER THE EFFLUENT DISCHARGED FROM
+12 WASTEWATER TREATMENT PLANTS CONTAINS HORMONES, PFAS, OR BACTERIA
+13 BEYOND THE LIMITS OF THE WASTEWATER TREATMENT PLANT’S DISCHARGE
+14 PERMIT.
+15 (C) EACH WASTEWATER TREATMENT PLANT THAT HAS A DISCHARGE
+16 PERMIT TO PROCESS AT LEAST 50,000,000 GALLONS OF EFFLUENT PER DAY SHALL:
+17 (1) ON OR BEFORE JUNE 30, 2027, AND EACH 6 MONTHS
+18 THEREAFTER, REPORT TO THE GENERAL ASSEMBLY, IN ACCORDANCE WITH §
+19 2–1257 OF THE STATE GOVERNMENT ARTICLE, ON THE WASTEWATER TREATMENT
+20 PLANT’S STAFFING AND MANAGEMENT PLAN;
+21 (2) MAINTAIN A WEBSITE THAT IS ACCESSIBLE TO THE PUBLIC;
+22 (3) REPORT DAILY ON THE TOTAL BACTERIA DISCHARGED FROM THE
+23 WASTEWATER TREATMENT PLANT ON THE WASTEWATER TREATMENT PLANT’S
+24 WEBSITE;
+25 (4) PROVIDE AN EXPLANATION, IN PLAIN LANGUAGE, ON THE
+26 WASTEWATER TREATMENT PLANT’S WEBSITE:
+27 (I) OF ANY BYPASS, OVERFLOW, OR TREATMENT FAILURE; AND
+28 (II) TO THE EXTENT POSSIBLE, THE ESTIMATED DURATION,
+29 AFFECTED WATERWAYS, AND POTENTIAL PUBLIC HEALTH AND ENVIRONMENTAL
+30 IMPACTS OF THE BYPASS, OVERFLOW, OR TREATMENT FAILURE;
+
+4 HOUSE BILL 1621
+1 (5) WITHIN 24 HOURS OF A BYPASS, OVERFLOW, OR TREATMENT
+2 FAILURE THAT REQUIRES TESTING FOR BIOCHEMICAL OXYGEN DEMAND, TOTAL
+3 SUSPENDED SOLIDS, BACTERIA, INCLUDING FECAL COLIFORM, ENTEROCOCCI, AND
+4 E. COLI, NUTRIENTS INCLUDING NITROGEN AND PHOSPHORUS, OR WHOLE
+5 EFFLUENT TOXICITY, POST THE RESULTS OF THE TEST ON THE WASTEWATER
+6 TREATMENT PLANT’S WEBSITE;
+7 (6) WITHIN 14 DAYS OF ANY EVENT OR OCCURRENCE THAT RESULTS
+8 IN THE WASTEWATER TREATMENT PLANT DISCHARGING EFFLUENT CONTAINING
+9 HORMONES, PFAS, OR BACTERIA BEYOND THE LIMITS OF THE WASTEWATER
+10 TREATMENT PLANT’S DISCHARGE PERMIT, POST ON THE WASTEWATER TREATMENT
+11 PLANT’S WEBSITE:
+12 (I) THE CAUSE OF THE EVENT OR OCCURRENCE;
+13 (II) CORRECTIVE ACTIONS TAKEN; AND
+14 (III) MEASURES IMPLEMENTED TO PREVENT REOCCURRENCE;
+15 (7) KEEP ANY SEWAGE SLUDGE OR DRY SOLID HOLDING AREA
+16 PHYSICALLY ENCLOSED; AND
+17 (8) CAPTURE OR TREAT ANY VAPORS EMITTED FROM THE
+18 WASTEWATER TREATMENT PLANT THAT MAY AFFECT THE PUBLIC.
+19 (D) EACH WASTEWATER TREATMENT PLANT THAT HAS A DISCHARGE
+20 PERMIT TO PROCESS LESS THAN 50,000,000 GALLONS OF EFFLUENT PER DAY
+21 SHALL, ON OR BEFORE DECEMBER 31, 2027, AND EACH DECEMBER 31
+22 THEREAFTER, REPORT TO THE GENERAL ASSEMBLY, IN ACCORDANCE WITH §
+23 2–1257 OF THE STATE GOVERNMENT ARTICLE, ON THE WASTEWATER TREATMENT
+24 PLANT’S STAFFING AND MANAGEMENT PLAN.
+25 (E) (1) THE DEPARTMENT SHALL ESTABLISH:
+26 (I) BACTERIAL ACTION LEVELS FOR EFFLUENT FROM
+27 WASTEWATER TREATMENT PLANTS; AND
+28 (II) A PROCESS FOR MEMBERS OF THE PUBLIC TO SUBSCRIBE
+29 TO RECEIVE REAL–TIME ALERTS WHEN A BACTERIAL ACTION LEVEL ESTABLISHED
+30 UNDER ITEM (I) OF THIS PARAGRAPH IS EXCEEDED.
+31 (2) IF A WASTEWATER TREATMENT PLANT EXCEEDS THE BACTERIAL
+32 ACTION LEVEL ESTABLISHED UNDER PARAGRAPH (1) OF THIS SUBSECTION, THE
+
+HOUSE BILL 1621 5
+1 WASTEWATER TREATMENT PLANT SHALL IMMEDIATELY PROVIDE NOTICE ON THE
+2 WASTEWATER TREATMENT PLANT’S WEBSITE.
+3 (F) (1) A WASTEWATER TREATMENT PLANT THAT FAILS TO MEET THE
+4 REQUIREMENTS OF THIS SECTION OR IS FOUND TO HAVE DISCHARGED EFFLUENT
+5 CONTAINING HORMONES, PFAS, OR BACTERIA BEYOND THE LIMITS OF THE
+6 WASTEWATER TREATMENT PLANT’S DISCHARGE PERMIT FOR 2 CONSECUTIVE
+7 MONTHS MAY NOT TAKE PART IN THE WATER QUALITY TRADING PROGRAM FOR
+8 THE REMAINING PERIOD OF THAT WASTEWATER TREATMENT PLANT’S DISCHARGE
+9 PERMIT.
+10 (2) THE DEPARTMENT MAY DENY, SUSPEND, OR REVOKE THE
+11 APPROVAL OR CERTIFICATION OF CREDITS APPLICABLE FOR THE WATER QUALITY
+12 TRADING PROGRAM IF THE DEPARTMENT FINDS THAT A WASTEWATER TREATMENT
+13 PLANT HAS A HISTORY OF DISCHARGING EFFLUENT CONTAINING HORMONES,
+14 PFAS, OR BACTERIA BEYOND THE LIMITS OF THE WASTEWATER TREATMENT
+15 PLANT’S DISCHARGE PERMIT.
+16 (G) THE DEPARTMENT SHALL ADOPT REGULATIONS TO CARRY OUT THE
+17 PROVISIONS OF THIS SECTION.
+18 9–331.1.
+19 (a) (1) The owner or operator of any sanitary sewer system, combined sewer
+20 system, or wastewater treatment plant shall report to the Department any sewer overflow
+21 or treatment plant bypass that results in the direct or potential discharge of raw or diluted
+22 sewage into the surface waters or groundwaters of the State.
+23 (2) The report shall be made as soon as practicable but no later than 24
+24 hours after the time that the operator or owner became aware of the event.
+25 (3) Within 5 calendar days after notification of the event, the owner or
+26 operator shall provide the Department with a written report regarding the incident that
+27 includes any information required by the Department.
+28 (b) (1) Subject to paragraph (2) of this subsection, the Department, in
+29 cooperation with the Maryland Department of Health, the local health departments, and
+30 local environmental health directors, shall develop AUTOMATED procedures for requiring
+31 the owner or operator of any sanitary sewer system, combined sewer system, or wastewater
+32 treatment plant to provide public notification of a sewer overflow or treatment plant
+33 bypass.
+34 (2) The procedures developed under paragraph (1) of this subsection shall:
+35 (i) Require that the notification be posted:
+
+6 HOUSE BILL 1621
+1 1. In Spanish and English at the location of the sewer
+2 overflow or treatment plant bypass;
+3 2. On the website of the Department, the Maryland
+4 Department of Health, and the appropriate local health department; and
+5 3. On any social media website on which the appropriate
+6 local health department regularly posts information; and
+7 (ii) Require IMMEDIATE notification [within a reasonable time] to:
+8 1. Appropriate downstream jurisdictions;
+9 2. Appropriate county governments;
+10 3. State parks impacted by the sewer overflow or treatment
+11 plant bypass;
+12 4. The Department of Natural Resources; and
+13 5. Any other local, State, or federal land manager impacted
+14 by the sewer overflow or treatment plant bypass.
+15 (c) (1) The Maryland Department of Health and the local health departments
+16 shall make all decisions and determinations as to public health issues resulting from sewer
+17 overflows or treatment bypasses.
+18 (2) The owner or operator of any sanitary sewer system, combined sewer
+19 system, or wastewater treatment plant is not responsible for making public health
+20 determinations regarding sewer overflow or treatment plant bypasses.
+21 (d) The Department shall adopt regulations to implement the requirements of
+22 this section.
+23 9–332.
+24 (a) A person may not introduce any pollutant, either directly or indirectly, into a
+25 publicly owned treatment works, or into any conveyance leading to a publicly owned
+26 treatment works, in violation of any applicable pretreatment requirements including
+27 federal pretreatment standards, State requirements, local ordinances, or any pretreatment
+28 agreement.
+29 (b) The Secretary may delegate to owners of publicly owned treatment works the
+30 authority to apply and enforce State pretreatment requirements against industrial users.
+
+HOUSE BILL 1621 7
+1 (c) The Secretary may determine which publicly owned treatment works are or
+2 may be adversely impacted by industrial users and may require the owners of those publicly
+3 owned treatment works to develop and maintain programs which meet State pretreatment
+4 requirements.
+5 (d) THE DEPARTMENT SHALL ESTABLISH A PUBLICLY AVAILABLE AND
+6 SEARCHABLE DATABASE THAT INCLUDES:
+7 (1) A LIST OF ALL THE INDUSTRIAL USERS THAT HOLD A
+8 PRETREATMENT PERMIT;
+9 (2) WHICH POLLUTANTS ARE BEING DISCHARGED BY EACH
+10 PRETREATMENT PERMIT HOLDER;
+11 (3) WHETHER EACH PRETREATMENT PERMIT HOLDER IS COMPLYING
+12 WITH THE PRETREATMENT PERMIT HOLDER’S PERMIT; AND
+13 (4) WHICH ENFORCEMENT ACTIONS HAVE BEEN TAKEN AGAINST A
+14 PRETREATMENT PERMIT HOLDER THAT HAS VIOLATED THE PRETREATMENT
+15 PERMIT HOLDER’S PERMIT.
+16 (E) This section shall not be construed to limit any other provision of law imposing
+17 any restriction or prohibition relating to the discharge or disposal of pollutants or controlled
+18 hazardous wastes.
+19 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+20 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.

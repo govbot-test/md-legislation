@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Third - Maryland Transportation Authority - Video Tolls - Collection
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 956
+R5 6lr2588
+CF HB 1283
+By: Senator Jennings Senators Jennings and James
+Introduced and read first time: February 8, 2026
+Assigned to: Rules
+Re–referred to: Judicial Proceedings, February 22, 2026
+Committee Report: Favorable
+Senate action: Adopted with floor amendments
+Read second time: March 14, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Maryland Transportation Authority – Video Tolls – Collection
+3 FOR the purpose of authorizing the Maryland Transportation Authority to waive certain
+4 tolls due or penalties assessed without recalling the debt from the Central Collection
+5 Unit; and generally relating to collection of electronic tolls and penalties.
+6 BY repealing and reenacting, without amendments,
+7 Article – Transportation
+8 Section 21–1414(a)(1), (2), and (11)
+9 Annotated Code of Maryland
+10 (2020 Replacement Volume and 2025 Supplement)
+11 BY repealing and reenacting, with amendments,
+12 Article – Transportation
+13 Section 21–1414(h)
+14 Annotated Code of Maryland
+15 (2020 Replacement Volume and 2025 Supplement)
+16 (As enacted by Chapters 448 and 460 of the Acts of the General Assembly of 2022)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Transportation
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0956*
+
+2 SENATE BILL 956
+1 21–1414.
+2 (a) (1) In this section the following words have the meanings indicated.
+3 (2) “Authority” means the Maryland Transportation Authority.
+4 (11) “Video toll” means the amount assessed by the Authority when a video
+5 toll transaction occurs.
+6 (h) (1) The Authority may refer a delinquent account for unpaid video tolls and
+7 associated civil penalties to the Central Collection Unit for collection.
+8 (2) The Authority may recall a delinquent account from the Central
+9 Collection Unit if:
+10 (i) The delinquent account exceeds $300 in unpaid video tolls and
+11 associated civil penalties;
+12 (ii) The video tolls in question were assessed within a 30–day period;
+13 or
+14 (iii) Mitigating factors exist with respect to the assessment of the
+15 unpaid video tolls and associated civil penalties, as determined by the Authority.
+16 (3) (I) [Notwithstanding any other provision of law, until the Authority
+17 refers the debt to the Central Collection Unit or after the Authority has recalled a
+18 delinquent account from the Central Collection Unit, the] THE Authority may waive any
+19 portion of the video toll due or civil penalty assessed ON A DELINQUENT ACCOUNT under
+20 this section.
+21 (II) IF THE AUTHORITY WAIVES ANY PORTION OF THE VIDEO
+22 TOLL DUE OR CIVIL PENALTY ASSESSED:
+23 1. THE AUTHORITY SHALL NOTIFY THE CENTRAL
+24 COLLECTION UNIT OF THE AMOUNT OF THE REVISED DEBT; AND
+25 2. THE CENTRAL COLLECTION UNIT SHALL REDUCE
+26 THE FEE ASSESSED UNDER § 3–304(A) OF THE STATE FINANCE AND PROCUREMENT
+27 ARTICLE BASED ON THE AMOUNT OF THE REVISED DEBT.
+28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+29 October 1, 2026.

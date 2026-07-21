@@ -1,0 +1,343 @@
+Title: 
+Official Title: 
+Source: versions - Third - Public Health - Recommendations for Immunizations, Screenings, and Preventive Services - Pharmacist Administration and Required Health Insurance Coverage (The Vax Act)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 385
+J3, J5, J2 6lr0343
+CF HB 637
+By: The President (By Request – Administration) and Senators Augustine, Beidle,
+Harris, Hettleman, Kagan, King, Lam, Lewis Young, Love, and Zucker
+Introduced and read first time: January 27, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 4, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Public Health – Recommendations for Immunizations, Screenings, and
+3 Preventive Services – Pharmacist Administration and Required Health
+4 Insurance Coverage
+5 (The Vax Act)
+6 FOR the purpose of requiring the Secretary of Health to issue recommendations for certain
+7 immunizations, screenings, and preventive services based on certain evidence–based
+8 scientific and clinical guidance; requiring the Secretary, before adopting a
+9 recommendation for a certain preventive service, to hold a notice and comment
+10 period, obtain a certain analysis from the Maryland Health Care Commission, and
+11 cite the basis for the recommendation; altering the authority of pharmacists to
+12 administer certain vaccinations; altering the health insurance coverage
+13 requirements for certain immunizations, screenings, and preventive services;
+14 repealing obsolete language regarding the pertussis vaccine; and generally relating
+15 to immunizations, screenings, and preventive services.
+16 BY repealing
+17 Article – Health – General
+18 Section 18–328 through 18–332 and the part “Part V. Pertussis”
+19 Annotated Code of Maryland
+20 (2023 Replacement Volume and 2025 Supplement)
+21 BY adding to
+22 Article – Health – General
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0385*
+
+2 SENATE BILL 385
+1 Section 18–112
+2 Annotated Code of Maryland
+3 (2023 Replacement Volume and 2025 Supplement)
+4 BY repealing and reenacting, with amendments,
+5 Article – Health Occupations
+6 Section 12–508
+7 Annotated Code of Maryland
+8 (2021 Replacement Volume and 2025 Supplement)
+9 BY repealing and reenacting, with amendments,
+10 Article – Insurance
+11 Section 15–1A–10 and 15–817
+12 Annotated Code of Maryland
+13 (2017 Replacement Volume and 2025 Supplement)
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That Section(s) 18–328 through 18–332 and the part “Part V. Pertussis” of Article – Health
+16 – General of the Annotated Code of Maryland be repealed.
+17 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+18 as follows:
+19 Article – Health – General
+20 18–112.
+21 (A) THE SECRETARY SHALL ISSUE RECOMMENDATIONS FOR
+22 IMMUNIZATIONS, SCREENINGS, AND PREVENTIVE SERVICES FOR INFANTS,
+23 CHILDREN, AND ADULTS THAT FOLLOW THE GENERALLY ACCEPTED CONSENSUS
+24 WITHIN THE SCIENTIFIC COMMUNITY AND SOUND CLINICAL GUIDANCE AS
+25 SPECIFIED IN SUBSECTION (B) OF THIS SECTION AND SUBJECT TO SUBSECTION (C)
+26 OF THIS SECTION.
+27 (B) THE RECOMMENDATIONS SHALL:
+28 (1) BE MADE IN ACCORDANCE WITH THE APPLICABLE
+29 RECOMMENDATIONS OF THE FOLLOWING AUTHORITATIVE MEDICAL
+30 ORGANIZATIONS:
+31 (I) THE AMERICAN ACADEMY OF PEDIATRICS;
+32 (II) THE AMERICAN COLLEGE OF OBSTETRICIANS AND
+33 GYNECOLOGISTS; OR
+
+SENATE BILL 385 3
+1 (III) THE AMERICAN ACADEMY OF FAMILY PHYSICIANS; AND
+2 (2) TAKE INTO CONSIDERATION THE APPLICABLE GUIDANCE OF:
+3 (I) THE MARYLAND STATEWIDE ADVISORY COMMISSION ON
+4 IMMUNIZATIONS;
+5 (II) THE U.S. DEPARTMENT OF HEALTH AND HUMAN
+6 SERVICES, INCLUDING THE HEALTH RESOURCES AND SERVICES ADMINISTRATION;
+7 (III) THE U.S. CENTERS FOR DISEASE CONTROL AND
+8 PREVENTION, INCLUDING THE ADVISORY COMMITTEE ON IMMUNIZATION
+9 PRACTICES;
+10 (IV) THE U.S. FOOD AND DRUG ADMINISTRATION, INCLUDING
+11 THE VACCINES AND RELATED BIOLOGICAL PRODUCTS ADVISORY COMMITTEE;
+12 AND
+13 (V) THE U.S. PREVENTIVE SERVICES TASK FORCE.
+14 (C) BEFORE ADOPTING A RECOMMENDATION FOR A PREVENTIVE SERVICE
+15 THAT IS NOT AN IMMUNIZATION AND HAS NOT RECEIVED A RECOMMENDATION FROM
+16 THE U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES OR AN A OR B RATING
+17 FROM THE U.S. PREVENTIVE SERVICES TASK FORCE, THE SECRETARY SHALL:
+18 (1) HOLD A NOTICE AND COMMENT PERIOD OF AT LEAST 30 DAYS;
+19 (2) OBTAIN AN ANALYSIS FROM THE MARYLAND HEALTH CARE
+20 COMMISSION ON THE SERVICE THAT MEETS THE REQUIREMENTS OF § 15–1501 OF
+21 THE INSURANCE ARTICLE; AND
+22 (3) CITE THE APPLICABLE RECOMMENDATIONS OF THE
+23 AUTHORITATIVE MEDICAL ORGANIZATIONS ON WHICH A RECOMMENDATION WOULD
+24 BE BASED.
+25 (C) (D) THE SECRETARY SHALL:
+26 (1) PUBLISH RECOMMENDATIONS ISSUED UNDER THIS SECTION ON
+27 THE DEPARTMENT’S WEBSITE; AND
+28 (2) DISTRIBUTE THE RECOMMENDATIONS ISSUED UNDER THIS
+29 SECTION TO LICENSED HEALTH PROFESSIONALS IN THE STATE AND TO THE
+30 MARYLAND INSURANCE ADMINISTRATION.
+
+4 SENATE BILL 385
+1 Article – Health Occupations
+2 12–508.
+3 (a) (1) Subject to paragraph (4) of this subsection, a pharmacist may order and
+4 administer a vaccination to an individual who is at least 3 years old if:
+5 (i) The vaccine is:
+6 1. An influenza vaccine;
+7 2. A COVID–19 vaccine; or
+8 3. Used in response to a public health emergency;
+9 (ii) The pharmacist has completed a practical training program of at
+10 least 20 hours that is approved by the Accreditation Council for Pharmacy Education and
+11 includes:
+12 1. Hands–on injection techniques;
+13 2. Clinical evaluation of indications and contraindications of
+14 vaccines; and
+15 3. The recognition and treatment of emergency reactions to
+16 vaccines;
+17 (iii) The pharmacist has a current certificate in basic
+18 cardiopulmonary resuscitation;
+19 (iv) The pharmacist has completed a minimum of 2 hours of
+20 continuing pharmaceutical education related to immunizations that is approved by the
+21 Accreditation Council for Pharmacy Education as part of the license renewal requirements
+22 under § 12–309 of this title;
+23 (v) The pharmacist complies with the record–keeping and reporting
+24 requirements in paragraph (5) of this subsection and any corresponding regulations
+25 adopted by the Board; and
+26 (vi) If the vaccination is administered to an individual under the age
+27 of 18 years, the pharmacist informs the child vaccination patient and adult caregiver who
+28 is accompanying the child of the importance of well–child visits with a pediatric primary
+29 care provider and refers the patient to a pediatric primary care provider when appropriate.
+30 (2) Subject to paragraph (4) of this subsection, a pharmacist who has met
+31 the requirement of paragraph (1)(ii) through (vi) of this subsection may administer to an
+32 individual who is at least 7 years old a vaccination that is:
+
+SENATE BILL 385 5
+1 (i) Recommended by the Centers for Disease Control and
+2 Prevention’s Advisory Committee on Immunization Practices; [or]
+3 (ii) Approved or authorized by the U.S. Food and Drug
+4 Administration; OR
+5 (III) RECOMMENDED BY THE SECRETARY OF HEALTH IN
+6 ACCORDANCE WITH § 18–112 OF THE HEALTH – GENERAL ARTICLE.
+7 (3) Subject to paragraph (4) of this subsection, a pharmacist who has met
+8 the requirement of paragraph (1)(ii), (iii), and (iv) of this subsection may administer to an
+9 adult a vaccination that is recommended in the Centers for Disease Control and
+10 Prevention’s Health Information for International Travel.
+11 (4) [(i)] A pharmacist shall administer a vaccination under paragraph
+12 (1), (2), or (3) of this subsection under a written protocol that:
+13 [1.] (I) Is vaccine specific; and
+14 [2.] (II) Meets criteria established by the Department, in
+15 consultation with the Board, the Board of Physicians, and the Board of Nursing, in
+16 regulation.
+17 [(ii) The recommendations of the Centers for Disease Control and
+18 Prevention’s Advisory Committee on Immunization Practices cited in this section refer to
+19 federal statutes, rules, and guidance in effect:
+20 1. On December 31, 2024; or
+21 2. At a later date to account for any new vaccines
+22 recommended by the Centers for Disease Control and Prevention’s Advisory Committee on
+23 Immunization Practices after December 31, 2024.]
+24 (5) A pharmacist shall:
+25 (i) Report all vaccinations administered by the pharmacist to the
+26 ImmuNet Program established under § 18–109 of the Health – General Article;
+27 (ii) If the vaccination has been administered in accordance with a
+28 prescription, document at least one effort to inform the individual’s authorized prescriber
+29 that the vaccination has been administered; and
+30 (iii) Except for an influenza vaccination administered under
+31 paragraph (1) of this subsection, if the authorized prescriber is not the individual’s primary
+32 care provider or if the vaccination has not been administered in accordance with a
+
+6 SENATE BILL 385
+1 prescription, document at least one effort to inform the individual’s primary care provider
+2 or other usual source of care that the vaccination has been administered.
+3 (b) The Board shall:
+4 (1) Set reasonable fees for the administration of vaccinations under this
+5 section; and
+6 (2) Adopt regulations that require a pharmacist to submit a registration
+7 form to the Board that includes verification that the pharmacist:
+8 (i) Has successfully completed a certification course approved by the
+9 Board [that included instruction in the guidelines and recommendations of the Centers for
+10 Disease Control and Prevention regarding vaccinations in effect on December 31, 2024];
+11 and
+12 (ii) Is certified in basic cardiopulmonary resuscitation and obtained
+13 the certification through in–person classroom instruction.
+14 Article – Insurance
+15 15–1A–10.
+16 (a) Subject to subsection (e) of this section and except as provided in subsections
+17 (b), (c), and (d) of this section, a carrier shall provide coverage for and may not impose any
+18 cost–sharing requirements, including copayments, coinsurance, or deductibles for:
+19 (1) evidence–based items or services that have in effect a rating of A or B
+20 in the recommendations of the United States Preventive Services Task Force with respect
+21 to the individual involved;
+22 (2) immunizations for routine use in children, adolescents, and adults that
+23 have in effect a recommendation from the Advisory Committee on Immunization Practices
+24 of the Centers for Disease Control and Prevention with respect to the individual involved,
+25 if the recommendation:
+26 (i) has been adopted by the Director of the Centers for Disease
+27 Control and Prevention; or
+28 (ii) is listed on the Immunization Schedules of the Centers for
+29 Disease Control and Prevention for routine use;
+30 (3) with respect to infants, children, and adolescents, evidence–informed
+31 preventive care and screenings provided for in comprehensive guidelines supported by the
+32 Health Resources and Services Administration; and
+33 (4) with respect to women:
+
+SENATE BILL 385 7
+1 (i) to the extent not provided in item (ii) of this item, preventive care
+2 and screenings as provided for in comprehensive guidelines supported by the Health
+3 Resources and Services Administration for purposes of § 2713(a)(4) of the federal Public
+4 Health Service Act; and
+5 (ii) subject to § 15–826(c) of this title, contraceptive coverage as
+6 provided for in comprehensive guidelines supported by the Health Resources and Services
+7 Administration for purposes of § 2713(a)(4) of the federal Public Health Service Act.
+8 (b) To the extent that cost–sharing is otherwise allowed under federal or State
+9 law, a health benefit plan that uses a network of providers may impose cost–sharing
+10 requirements on the coverage described in subsection (a) of this section for items or services
+11 delivered by an out–of–network provider.
+12 (c) (1) In this subsection, “high deductible health plan” has the meaning stated
+13 in 26 U.S.C. § 223(c)(2).
+14 (2) If an insured or enrollee is covered under a high deductible health plan,
+15 a carrier may apply the deductible requirement of the high deductible health plan to the
+16 coverage required under subsection (a) of this section, unless the Commissioner determines
+17 that the coverage is included in the safe harbor provisions for preventive care under 26
+18 U.S.C. § 223(c)(2)(c).
+19 (d) This section may not be construed to prohibit a carrier from providing
+20 coverage for services in addition to those recommended by the United States Preventive
+21 Services Task Force or to deny coverage for services that are not recommended by the Task
+22 Force.
+23 (e) Subject to § 15–826(c) of this title[:
+24 (1)], the Commissioner shall enforce this section consistent with the
+25 recommendations and guidelines in effect on December 31, 2024, set by the United States
+26 Preventive Services Task Force, the Advisory Committee on Immunization Practices of the
+27 Centers for Disease Control and Prevention, or the Health Resources and Services
+28 Administration, and related federal rules or guidance[; and
+29 (2) the Commissioner may adopt regulations:
+30 (i) necessary to carry out this section, consistent with federal
+31 statutes, rules, and guidance in effect:
+32 1. on December 31, 2024; or
+33 2. at a later date that enhance the scope of preventive
+34 services to the benefit of consumers in the State; or
+
+8 SENATE BILL 385
+1 (ii) to require carriers to provide coverage without imposing
+2 cost–sharing requirements, including copayments, coinsurance, or deductibles, for any
+3 future preventive services recommendations and guidelines issued after December 31,
+4 2024, by the United States Preventive Services Task Force, the Advisory Committee on
+5 Immunization Practices of the Centers for Disease Control and Prevention, or the Health
+6 Resources and Services Administration, and related federal rules or guidance], AS
+7 UPDATED BY RECOMMENDATIONS ISSUED BY THE SECRETARY OF HEALTH IN
+8 ACCORDANCE WITH § 18–112 OF THE HEALTH – GENERAL ARTICLE.
+9 (F) A CARRIER SHALL PROVIDE THE COVERAGE DESCRIBED IN SUBSECTION
+10 (A) OF THIS SECTION FOR PLAN YEARS THAT BEGIN ON OR AFTER THE DATE THAT IS
+11 3 MONTHS 1 YEAR AFTER THE DATE THE RECOMMENDATIONS DESCRIBED IN
+12 SUBSECTION (E) OF THIS SECTION ARE ISSUED.
+13 15–817.
+14 (a) In this section, “child wellness services” means preventive activities designed
+15 to protect children from morbidity and mortality and promote child development.
+16 (b) This section applies to each individual hospital or major medical insurance
+17 policy, group or blanket health insurance policy, and nonprofit health service plan that:
+18 (1) is delivered or issued for delivery in the State;
+19 (2) is written on an expense–incurred basis; and
+20 (3) provides coverage for a family member of the insured.
+21 (c) (1) A policy or plan subject to this section shall include under the family
+22 member coverage a minimum package of child wellness services that are consistent with:
+23 (i) public health policy;
+24 (ii) professional standards; and
+25 (iii) scientific evidence of effectiveness.
+26 (2) The minimum package of child wellness services shall cover at least:
+27 (i) all visits for and costs of childhood and adolescent immunizations
+28 recommended by the Advisory Committee on Immunization Practices of the Centers for
+29 Disease Control and Prevention as of December 31, 2024, AS UPDATED BY
+30 RECOMMENDATIONS ISSUED BY THE SECRETARY OF HEALTH IN ACCORDANCE WITH
+31 § 18–112 OF THE HEALTH – GENERAL ARTICLE;
+
+SENATE BILL 385 9
+1 (ii) visits for the collection of adequate samples, the first of which is
+2 to be collected before 2 weeks of age, for hereditary and metabolic newborn screening and
+3 follow–up between birth and 4 weeks of age;
+4 (iii) universal hearing screening of newborns provided by a hospital
+5 before discharge;
+6 (iv) all visits for and costs of age–appropriate screening tests for
+7 tuberculosis, anemia, lead toxicity, hearing, and vision as determined by the American
+8 Academy of Pediatrics;
+9 (v) all visits for obesity evaluation and management;
+10 (vi) all visits for and costs of developmental screening as
+11 recommended by the American Academy of Pediatrics;
+12 (vii) a physical examination, developmental assessment, and
+13 parental anticipatory guidance services at each of the visits required under items (i), (ii),
+14 (iv), (v), and (vi) of this paragraph; and
+15 (viii) any laboratory tests considered necessary by the physician as
+16 indicated by the services provided under items (i), (ii), (iv), (v), (vi), or (vii) of this paragraph.
+17 (d) Except as provided in subsection (e) of this section, an insurer or nonprofit
+18 health service plan that issues a policy or plan subject to this section, on notification of the
+19 pregnancy of the insured and before the delivery date, shall:
+20 (1) encourage and help the insured to choose and contact a primary care
+21 provider for the expected newborn before delivery; and
+22 (2) provide the insured with information on postpartum home visits for the
+23 mother and the expected newborn, including the names of health care providers that are
+24 available for postpartum home visits.
+25 (e) An insurer or nonprofit health service plan that does not require or encourage
+26 the insured to use a particular health care provider or group of health care providers that
+27 has contracted with the insurer or nonprofit health service plan to provide services to the
+28 insurer’s or nonprofit health service plan’s insureds need not comply with subsection (d) of
+29 this section.
+30 (f) (1) A policy or plan subject to this section may not impose a deductible on
+31 the coverage required under this section.
+32 (2) Each health insurance policy and certificate shall contain a notice of the
+33 prohibition established by paragraph (1) of this subsection in a form approved by the
+34 Commissioner.
+
+10 SENATE BILL 385
+1 (g) The Commissioner may adopt regulations necessary to carry out subsection
+2 (c)(2)(i) of this section consistent with federal statutes, rules, and guidance in effect[:
+3 (1)] on December 31, 2024[; or
+4 (2) at a later date to account for any new vaccines recommended by the
+5 Centers for Disease Control and Prevention’s Advisory Committee on Immunization
+6 Practices after December 31, 2024], AS UPDATED BY RECOMMENDATIONS ISSUED BY
+7 THE SECRETARY OF HEALTH IN ACCORDANCE WITH § 18–112 OF THE
+8 HEALTH – GENERAL ARTICLE.
+9 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall apply to all
+10 policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or
+11 after January 1, 2027.
+12 SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+13 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.

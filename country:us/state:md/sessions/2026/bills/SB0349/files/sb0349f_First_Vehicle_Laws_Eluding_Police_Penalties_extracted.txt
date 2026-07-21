@@ -1,0 +1,75 @@
+Title: 
+Official Title: 
+Source: versions - First - Vehicle Laws - Eluding Police - Penalties
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 349
+R5 6lr2091
+CF 6lr1268
+By: Senator A. Washington
+Introduced and read first time: January 23, 2026
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Vehicle Laws – Eluding Police – Penalties
+3 FOR the purpose of altering certain penalties for attempting to elude a police officer when
+4 that attempt results in the death of another person; and generally relating to
+5 penalties for eluding a police officer.
+6 BY repealing and reenacting, with amendments,
+7 Article – Transportation
+8 Section 21–904
+9 Annotated Code of Maryland
+10 (2020 Replacement Volume and 2025 Supplement)
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
+13 Article – Transportation
+14 21–904.
+15 (a) In this section, “visual or audible signal” includes a signal by hand, voice,
+16 emergency light or siren.
+17 (b) If a police officer gives a visual or audible signal to stop and the police officer
+18 is in uniform, prominently displaying the police officer’s badge or other insignia of office, a
+19 driver of a vehicle may not attempt to elude the police officer by:
+20 (1) Willfully failing to stop the driver’s vehicle;
+21 (2) Fleeing on foot; or
+22 (3) Any other means.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0349*
+
+2 SENATE BILL 349
+1 (c) If a police officer gives a visual or audible signal to stop and the police officer,
+2 whether or not in uniform, is in a vehicle appropriately marked as an official police vehicle,
+3 a driver of a vehicle may not attempt to elude the police officer by:
+4 (1) Willfully failing to stop the driver’s vehicle;
+5 (2) Fleeing on foot; or
+6 (3) Any other means.
+7 (d) (1) A driver may not commit a violation of subsection (b)(1) or (c)(1) of this
+8 section that results in bodily injury to another person.
+9 (2) A driver may not commit a violation of subsection (b)(1) or (c)(1) of this
+10 section that results in death of another person.
+11 (e) (1) In this subsection, “crime of violence” has the meaning stated in §
+12 14–101 of the Criminal Law Article.
+13 (2) A driver may not commit a violation of subsection (b)(1) or (c)(1) of this
+14 section while the driver is attempting to elude a police officer who is signaling for the driver
+15 to stop for the purpose of apprehending the driver for the commission of a crime of violence
+16 for which the driver is subsequently convicted.
+17 (f) (1) Except as provided in paragraphs (2) and (3) of this subsection, a person
+18 convicted of a violation of this section is subject to:
+19 (i) For a first offense, imprisonment not exceeding 1 year or a fine
+20 not exceeding $1,000 or both; and
+21 (ii) For a second or subsequent offense, imprisonment not exceeding
+22 2 years or a fine not exceeding $1,000 or both.
+23 (2) A person convicted of a violation of subsection (d)(1) or (e) of this section
+24 is subject to imprisonment not exceeding 3 years or a fine not exceeding $5,000 or both.
+25 (3) A person [convicted of a violation of] WHO VIOLATES subsection (d)(2)
+26 of this section is GUILTY OF A FELONY AND ON CONVICTION IS subject to:
+27 (I) FOR A FIRST OFFENSE, imprisonment not exceeding [10] 5
+28 years or a fine not exceeding $5,000 or both; AND
+29 (II) FOR A SECOND OR SUBSEQUENT OFFENSE, IMPRISONMENT
+30 NOT EXCEEDING 10 YEARS OR A FINE NOT EXCEEDING $5,000 OR BOTH.
+
+SENATE BILL 349 3
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 October 1, 2026.

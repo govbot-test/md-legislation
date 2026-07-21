@@ -1,0 +1,606 @@
+Title: 
+Official Title: 
+Source: versions - Third - Health Insurance - Provider Panels - Requirements
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 1093
+J5 6lr2823
+CF SB 808
+By: Delegate Cullison Delegates Cullison, Alston, Bagnall, Guzzone, Hill,
+Hutchinson, S. Johnson, Kaufman, Kipke, Lopez, Martinez, M. Morgan,
+Reilly, Rosenberg, Ross, Szeliga, Taveras, White Holland, and Woorman
+Introduced and read first time: February 11, 2026
+Assigned to: Health
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 6, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Health Insurance – Provider Panels – Requirements
+3 FOR the purpose of altering the process though through which health care providers apply
+4 to participate on a carrier’s provider panel, including for certain notice requirements;
+5 establishing certain civil penalties for carriers that fail to provide certain notices in
+6 a certain manner and certain time frame; repealing the authorization for a carrier
+7 to charge a certain application fee; requiring carriers to use certain information to
+8 update the carrier’s provider directory at a certain frequency; altering a requirement
+9 for certain carriers to update certain information on a provider directory within a
+10 certain period of time after receipt of certain notices; altering a requirement for
+11 carriers to reimburse for certain covered services provided by a nonparticipating
+12 provider; expanding the types of providers a carrier is prohibited from limiting on a
+13 provider panel; altering the credentialing applications that the Commissioner may
+14 designate for a certain credentialing system and the circumstances under which the
+15 designation may be made; altering certain requirements for a multi–carrier common
+16 online provider directory information system; and generally relating to health
+17 insurance provider panels.
+18 BY repealing and reenacting, with amendments,
+19 Article – Insurance
+20 Section 15–112(a), (g), (p), (t), and (w), and (x) 15–112.1, and 15–112.3
+21 Annotated Code of Maryland
+22 (2017 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1093*
+
+2 HOUSE BILL 1093
+1 BY repealing and reenacting, without amendments,
+2 Article – Insurance
+3 Section 15–112(n), (o), and (u) and 15–112.1
+4 Annotated Code of Maryland
+5 (2017 Replacement Volume and 2025 Supplement)
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
+8 Article – Insurance
+9 15–112.
+10 (a) (1) In this section the following words have the meanings indicated.
+11 (2) “Accredited hospital” has the meaning stated in § 19–301 of the
+12 Health – General Article.
+13 (3) “Ambulatory surgical facility” has the meaning stated in § 19–3B–01 of
+14 the Health – General Article.
+15 (4) “Behavioral health care services” has the meaning stated in § 15–127
+16 of this subtitle.
+17 (5) (i) “Carrier” means:
+18 1. an insurer;
+19 2. a nonprofit health service plan;
+20 3. a health maintenance organization;
+21 4. a dental plan organization; or
+22 5. any other person that provides health benefit plans
+23 subject to regulation by the State.
+24 (ii) “Carrier” includes an entity that arranges a provider panel for a
+25 carrier.
+26 (6) “Credentialing intermediary” means a person to whom a carrier has
+27 delegated credentialing or recredentialing authority and responsibility.
+28 (7) “Enrollee” means a person entitled to health care benefits from a
+29 carrier.
+
+HOUSE BILL 1093 3
+1 (8) “Group model health maintenance organization” has the meaning
+2 stated in § 19–713.6(a) of the Health – General Article.
+3 (9) “Health benefit plan”:
+4 (i) for a group or blanket plan in the large group market, has the
+5 meaning stated in § 15–1401 of this title;
+6 (ii) for a group in the small group market, has the meaning stated in
+7 § 31–101 of this article; and
+8 (iii) for an individual plan, has the meaning stated in § 15–1301 of
+9 this title.
+10 (10) (i) “Health care facility” means a health care setting or institution
+11 providing physical, mental, or substance use disorder health care services.
+12 (ii) “Health care facility” includes:
+13 1. a hospital;
+14 2. an ambulatory surgical or treatment center;
+15 3. a skilled nursing facility;
+16 4. a residential treatment center;
+17 5. an urgent care center;
+18 6. a diagnostic, laboratory, or imaging center;
+19 7. a rehabilitation facility; and
+20 8. any other therapeutic health care setting.
+21 (11) “Hospital” has the meaning stated in § 19–301 of the Health – General
+22 Article.
+23 (12) “Network” means a carrier’s participating providers and the health care
+24 facilities with which a carrier contracts to provide health care services to the carrier’s
+25 enrollees under the carrier’s health benefit plan.
+26 (13) “Online credentialing system” means the system through which a
+27 provider may access AND SUBMIT an online provider credentialing application that the
+28 Commissioner has designated as the uniform credentialing form under § 15–112.1(e) of this
+29 subtitle.
+
+4 HOUSE BILL 1093
+1 (14) “Participating provider” means a provider on a carrier’s provider panel.
+2 (15) “Provider” means a health care practitioner or group of health care
+3 practitioners licensed, certified, or otherwise authorized by law to provide health care
+4 services.
+5 (16) “Provider directory” means a list of a carrier’s participating providers
+6 and participating health care facilities.
+7 (17) (i) “Provider panel” means the providers that contract either
+8 directly or through a subcontracting entity with a carrier to provide health care services to
+9 the carrier’s enrollees under the carrier’s health benefit plan.
+10 (ii) “Provider panel” does not include an arrangement in which any
+11 provider may participate solely by contracting with the carrier to provide health care
+12 services at a discounted fee–for–service rate.
+13 (g) (1) A provider that seeks to participate on a provider panel of a carrier shall
+14 submit an application to the carrier.
+15 (2) (i) Subject to subparagraph (ii) of this paragraph and paragraph (3)
+16 of this subsection, the carrier, after reviewing the application, shall accept or reject the
+17 provider for participation on the carrier’s provider panel.
+18 (ii) A carrier may not reject a provider who provides
+19 community–based health services for a program accredited under COMAR 10.63.02 for
+20 participation on the carrier’s provider panel because the provider practices within the scope
+21 of the provider’s license and is:
+22 1. a licensed master social worker, as defined in § 19–101 of
+23 the Health Occupations Article;
+24 2. a licensed graduate alcohol and drug counselor, a licensed
+25 graduate marriage and family therapist, a licensed graduate professional art therapist, or
+26 a licensed graduate professional counselor, as those terms are defined in § 17–101 of the
+27 Health Occupations Article; or
+28 3. a registered psychology associate, as defined in § 18–101
+29 of the Health Occupations Article.
+30 (iii) [If] IN ACCORDANCE WITH PARAGRAPH (3) OF THIS
+31 SUBSECTION, IF the carrier rejects the provider for participation on the carrier’s provider
+32 panel, the carrier shall send to the provider [at the address listed in the application] written
+33 notice of the rejection.
+34 (3) (i) Subject to paragraph (4) of this subsection, within [30] 5 15 days
+35 after the date a carrier receives a completed application, the carrier shall send to the
+
+HOUSE BILL 1093 5
+1 provider at the E–MAIL address listed in the application OR, IF AN E–MAIL ADDRESS IS
+2 NOT LISTED IN THE APPLICATION, THE MAILING ADDRESS LISTED IN THE
+3 APPLICATION written notice of:
+4 1. the carrier’s intent to continue to process the provider’s
+5 application to obtain necessary credentialing information; or
+6 2. the carrier’s rejection of the provider for participation on
+7 the carrier’s provider panel.
+8 (ii) The failure of a carrier to provide the notice required under
+9 subparagraph (i) of this paragraph is a violation of this article and the carrier is subject to:
+10 1. A CIVIL PENALTY OF $500 PER DAY FOR EACH DAY
+11 THE NOTICE WAS NOT SENT, TO BE COLLECTED BY THE COMMISSIONER AND PAID
+12 TO THE PROVIDER; AND
+13 2. the penalties provided by § 4–113(d) of this article.
+14 (iii) Except as provided in subsection (v) of this section and
+15 subparagraph (iv) of this paragraph, if, under subparagraph (i)1 of this paragraph, a carrier
+16 provides notice to the provider of its intent to continue to process the provider’s application
+17 to obtain necessary credentialing information, the carrier, within [120] 30 60 days after
+18 the date the notice is provided, shall:
+19 1. accept or reject the provider for participation on the
+20 carrier’s provider panel; and
+21 2. send written notice of the acceptance or rejection to the
+22 provider at the E–MAIL address listed in the application OR, IF AN E–MAIL ADDRESS IS
+23 NOT LISTED IN THE APPLICATION, THE MAILING ADDRESS LISTED IN THE
+24 APPLICATION.
+25 (iv) For a provider described in paragraph (2)(ii) of this subsection,
+26 if, under subparagraph (i)1 of this paragraph, a carrier provides notice to the provider of
+27 its intent to continue to process the provider’s application to obtain necessary credentialing
+28 information, within [60] 15 30 days after the date a carrier receives a completed
+29 application, the carrier shall:
+30 1. accept or reject the provider for participation on the
+31 carrier’s provider panel; and
+32 2. send written notice of the acceptance or rejection to the
+33 provider at the E–MAIL address listed in the application OR, IF AN E–MAIL ADDRESS IS
+
+6 HOUSE BILL 1093
+1 NOT LISTED IN THE APPLICATION, THE MAILING ADDRESS LISTED IN THE
+2 APPLICATION.
+3 (v) The failure of a carrier to provide the notice required under
+4 subparagraph (iii)2 or (iv) of this paragraph is a violation of this article and the carrier is
+5 subject to:
+6 1. A CIVIL PENALTY OF $500 PER DAY FOR EACH DAY
+7 THE NOTICE WAS NOT SENT, TO BE COLLECTED BY THE COMMISSIONER AND PAID
+8 TO THE PROVIDER; AND
+9 2. the provisions of and penalties provided by §§ 4–113 and
+10 4–114 of this article.
+11 (4) (i) [1. Except as provided in subsubparagraph 4 of this
+12 subparagraph, a] A carrier that receives a complete application shall [notify] SEND
+13 WRITTEN NOTICE TO the provider that the application is complete[.
+14 2. If a carrier does not accept applications through the online
+15 credentialing system, notice shall be given to the provider] at the E–MAIL address listed in
+16 the application OR, IF AN E–MAIL ADDRESS IS NOT LISTED IN THE APPLICATION, THE
+17 MAILING ADDRESS LISTED IN THE APPLICATION within 10 days after the date the
+18 application is received.
+19 [3. If a carrier accepts applications through the online
+20 credentialing system, the notice from the online credentialing system to the provider that
+21 the carrier has received the provider’s application shall be considered notice that the
+22 application is complete.
+23 4. This subparagraph does not apply to a carrier that
+24 arranges a dental provider panel until the Commissioner certifies that the online
+25 credentialing system is capable of accepting the uniform credentialing form designated by
+26 the Commissioner for dental provider panels.]
+27 (ii) 1. (I) A carrier that receives an incomplete application shall
+28 return the application to the provider at the E–MAIL address listed in the application OR,
+29 IF AN E–MAIL ADDRESS IS NOT LISTED IN THE APPLICATION, THE MAILING ADDRESS
+30 LISTED IN THE APPLICATION within 10 days after the date the application is received.
+31 2. (II) The carrier shall indicate to the provider what information
+32 is needed to make the application complete.
+33 3. (III) The provider may return the completed application
+34 to the carrier.
+
+HOUSE BILL 1093 7
+1 4. (IV) After the carrier receives the completed application,
+2 the carrier is subject to the time periods established in paragraph (3) of this subsection.
+3 (5) (I) IN THIS PARAGRAPH, “UNIFORM CREDENTIALING FORM”
+4 MEANS THE FORM DESIGNATED BY THE COMMISSIONER UNDER § 15–112.1(E) OF
+5 THIS SUBTITLE.
+6 (II) A carrier [may charge a reasonable fee for an application
+7 submitted to the carrier under this section] SHALL:
+8 1. ALLOW A PROVIDER TO SUBMIT THE UNIFORM
+9 CREDENTIALING FORM USING THE ONLINE CREDENTIALING SYSTEM;
+10 2. ESTABLISH A DIRECT TELEPHONE NUMBER FOR
+11 INQUIRIES ON THE UNIFORM CREDENTIALING FORM THAT IS MONITORED BY THE
+12 CARRIER AND IS NOT THE GENERAL CUSTOMER SERVICE LINE;
+13 3. ESTABLISH A DIRECT E–MAIL ADDRESS FOR
+14 INQUIRIES ON THE UNIFORM CREDENTIALING FORM THAT IS MONITORED BY THE
+15 CARRIER AND IS NOT THE GENERAL CUSTOMER SERVICE E–MAIL ADDRESS; AND
+16 4. RESPOND TO VOICE MESSAGES RECEIVED AT THE
+17 TELEPHONE NUMBER ESTABLISHED UNDER ITEM 2 OF THIS SUBPARAGRAPH AND
+18 E–MAILS RECEIVED AT THE E–MAIL ADDRESS ESTABLISHED UNDER ITEM 3 OF THIS
+19 SUBPARAGRAPH WITHIN 2 BUSINESS DAYS AFTER RECEIPT OF THE VOICE MESSAGE
+20 OR E–MAIL.
+21 (n) (1) A carrier shall make the carrier’s provider directory available to
+22 prospective enrollees on the Internet and, on request of a prospective enrollee, in printed
+23 form.
+24 (2) The carrier’s provider directory on the Internet shall be available:
+25 (i) through a clear link or tab; and
+26 (ii) in a searchable format.
+27 (3) The provider directory shall include:
+28 (i) for each provider on the carrier’s provider panel:
+29 1. the name of the provider;
+30 2. the specialty areas of the provider;
+
+8 HOUSE BILL 1093
+1 3. whether the provider currently is accepting new patients;
+2 4. for each office of the provider where the provider
+3 participates on the provider panel:
+4 A. its location, including its address; and
+5 B. contact information for the provider;
+6 5. the gender of the provider, if the provider notifies the
+7 carrier or the multi–carrier common online provider directory information system
+8 designated under § 15–112.3 of this subtitle of the information; and
+9 6. any languages spoken by the provider other than English,
+10 if the provider notifies the carrier or the multi–carrier common online provider directory
+11 information system designated under § 15–112.3 of this subtitle of the information;
+12 (ii) for each health care facility in the carrier’s network:
+13 1. the health care facility’s name;
+14 2. the health care facility’s address;
+15 3. the types of services provided by the health care facility;
+16 and
+17 4. contact information for the health care facility; and
+18 (iii) a statement that advises enrollees and prospective enrollees to
+19 contact a provider or a health care facility before seeking treatment or services, to confirm
+20 the provider’s or health care facility’s participation in the carrier’s network and the
+21 enrollee’s health benefit plan.
+22 (o) (1) A carrier shall have a customer service telephone number, e–mail
+23 address link, or other electronic means by which enrollees and prospective enrollees may
+24 notify the carrier of inaccurate information in the carrier’s network directory.
+25 (2) If notified of a potential inaccuracy in a network directory by a person
+26 other than the provider, a carrier shall investigate the reported inaccuracy and take
+27 corrective action, if necessary, to update the network directory within 45 working days after
+28 receiving the notification.
+29 (p) (1) A carrier shall notify each enrollee at the time of initial enrollment and
+30 renewal about how to access or obtain the information required under subsection (n) of this
+31 section.
+
+HOUSE BILL 1093 9
+1 (2) (i) 1. Information provided in printed form under subsection (n)
+2 of this section shall be accurate on the date of publication.
+3 2. A carrier shall update the information provided in printed
+4 form at least once a year.
+5 (ii) 1. Information provided on the Internet under subsection (n)
+6 of this section shall be accurate on the date of initial posting and any update.
+7 2. In addition to the requirement to update its provider
+8 information under subsection (t)(1) of this section, a carrier shall update the information
+9 provided on the Internet at least once every 15 days.
+10 (3) (I) A CARRIER SHALL USE THE ONLINE CREDENTIALING
+11 SYSTEM AS THE PRIMARY SOURCE OF INFORMATION TO CREATE AND UPDATE THE
+12 CARRIER’S PROVIDER DIRECTORY IN ACCORDANCE WITH REGULATIONS ADOPTED
+13 BY THE COMMISSIONER.
+14 (II) THE COMMISSIONER SHALL ADOPT REGULATIONS
+15 GOVERNING THE USE BY A CARRIER OF THE ONLINE CREDENTIALING SYSTEM TO
+16 CREATE AND UPDATE THE CARRIER’S PROVIDER DIRECTORY, INCLUDING THE
+17 REQUIRED FREQUENCY OF UPDATES.
+18 [(3)] (4) [A] IN ADDITION TO UPDATES REQUIRED UNDER
+19 PARAGRAPH (3) OF THIS SUBSECTION, A carrier shall:
+20 (i) 1. periodically review at least a reasonable sample size of its
+21 provider directory for accuracy; and
+22 2. retain documentation of the review and make the review
+23 available to the Commissioner on request; or
+24 (ii) contact providers listed in the carrier’s provider directory who
+25 have not submitted a claim in the last 6 months to determine if the providers intend to
+26 remain in the carrier’s provider network.
+27 [(4)] (5) A carrier shall demonstrate the accuracy of the information
+28 provided under paragraph [(3)] (4) of this subsection on request of the Commissioner.
+29 [(5)] (6) A carrier shall include in a provider directory that is in printed
+30 form a statement notifying a reader that:
+31 (i) the information contained in the provider directory is accurate as
+32 of the date of publication; and
+
+10 HOUSE BILL 1093
+1 (ii) to obtain the most current information, the individual should
+2 consult the provider directory on the Internet or contact the carrier directly.
+3 [(6)] (7) Before imposing a penalty against a carrier for inaccurate
+4 network directory information, the Commissioner shall take into account, in addition to
+5 any other factors required by law, whether:
+6 (i) the carrier afforded a provider or other person identified in [§
+7 15–112.3(c)] § 15–112.3(D) of this subtitle an opportunity to review and update the
+8 provider’s network directory information:
+9 1. through the multi–carrier common online provider
+10 directory information system designated under § 15–112.3 of this subtitle; or
+11 2. directly with the carrier;
+12 [(ii) the carrier can demonstrate the efforts made, in writing,
+13 electronically, or by telephone, to obtain updated network directory information from a
+14 provider or other person identified in § 15–112.3(c) of this subtitle;]
+15 [(iii)] (II) the carrier has contacted a provider listed in the carrier’s
+16 network directory who has not submitted a claim in the last 6 months to determine if the
+17 provider intends to remain on the carrier’s provider panel;
+18 [(iv)] (III) the carrier includes in its network directory the last date
+19 that a provider updated the provider’s information;
+20 [(v)] (IV) the carrier has implemented any other process or
+21 procedure to:
+22 1. INFORM PROVIDERS THAT THE ONLINE
+23 CREDENTIALING SYSTEM IS THE PRIMARY SOURCE OF INFORMATION TO CREATE
+24 AND UPDATE THE CARRIER’S PROVIDER DIRECTORY;
+25 [1.] 2. encourage providers to update their network directory
+26 information; or
+27 [2.] 3. increase the accuracy of its network directory; and
+28 [(vi)] (V) a provider or other person identified in [§ 15–112.3(c)] §
+29 15–112.3(D) of this subtitle has not updated the provider’s network directory information,
+30 despite opportunities to do so.
+31 (t) (1) [(i) Subject to subparagraph (ii) of this paragraph, a] A carrier shall
+32 update the information that must be made available on the Internet under subsection (n)
+33 of this section within 2 working days after receipt of electronic notification or notification
+
+HOUSE BILL 1093 11
+1 by first–class mail tracking method from the participating provider of a change in the
+2 applicable information.
+3 [(ii) A dental carrier shall update the information required by this
+4 subsection within 15 working days after receipt of the notification described in
+5 subparagraph (i) of this paragraph.]
+6 (2) Notification is presumed to have been received by a carrier:
+7 (i) 3 working days after the date the participating provider placed
+8 the notification in the U.S. mail, if the participating provider maintains the stamped
+9 certificate of mailing for the notice; or
+10 (ii) on the date recorded by the courier, if the notification was
+11 delivered by courier.
+12 (u) (1) A carrier may not require a provider that provides health care services
+13 through a group practice or health care facility that participates on the carrier’s provider
+14 panel under a contract with the carrier to be considered a participating provider or accept
+15 the reimbursement fee schedule applicable under the contract when:
+16 (i) providing health care services to enrollees of the carrier through
+17 an individual or group practice or health care facility that does not have a contract with the
+18 carrier; and
+19 (ii) billing for health care services provided to enrollees of the carrier
+20 using a different federal tax identification number than that used by the group practice or
+21 health care facility under a contract with the carrier.
+22 (2) A nonparticipating provider shall notify an enrollee:
+23 (i) that the provider does not participate on the provider panel of
+24 the enrollee’s carrier; and
+25 (ii) of the anticipated total charges for the health care services.
+26 (w) (1) Notwithstanding subsection (u)(1) of this section, a carrier shall
+27 reimburse a group practice on the carrier’s provider panel at the participating provider rate
+28 for covered services provided by a provider who is not a participating provider if:
+29 (i) the provider is employed by or a member of the group practice;
+30 (ii) the provider has applied for acceptance on the carrier’s provider
+31 panel and the carrier has notified the provider of the carrier’s intent to continue to process
+32 the provider’s application to obtain necessary credentialing information;
+
+12 HOUSE BILL 1093
+1 (iii) the provider has a valid license issued by a health occupations
+2 board to practice in the State; and
+3 (iv) the provider:
+4 1. is currently credentialed by an accredited hospital in the
+5 State; [or]
+6 2. has professional liability insurance; OR
+7 3. HAS IMMUNITY UNDER THE FEDERAL TORT CLAIMS
+8 ACT OR THE MARYLAND TORT CLAIMS ACT.
+9 (2) A carrier shall reimburse a group practice on the carrier’s provider
+10 panel in accordance with paragraph (1) of this subsection from the date the notice required
+11 under subsection (g)(3)(i)1 of this section is sent to the provider until the date the notice
+12 required under subsection (g)(3)(iii)2 of this section is sent to the provider.
+13 (3) A carrier that sends written notice of rejection of a provider for
+14 credentialing under subsection (g)(3)(iii)2 of this section shall reimburse the provider as a
+15 nonparticipating provider for covered services provided on or after the date the notice is
+16 sent.
+17 (4) A health maintenance organization may not deny payment to a provider
+18 under this subsection solely because the provider was not a participating provider at the
+19 time the services were provided to an enrollee.
+20 (5) A provider who is not a participating provider of a carrier and whose
+21 group practice is eligible for reimbursement under paragraph (1) of this subsection may not
+22 hold an enrollee of the carrier liable for the cost of any covered services provided to the
+23 enrollee during the time period described in paragraph (2) of this subsection, except for any
+24 deductible, copayment, or coinsurance amount owed by the enrollee to the group practice
+25 or provider under the terms of the enrollee’s contract or certificate.
+26 (6) A group practice shall disclose in writing to an enrollee at the time
+27 services are provided that:
+28 (i) the treating provider is not a participating provider;
+29 (ii) the treating provider has applied to become a participating
+30 provider;
+31 (iii) the carrier has not completed its assessment of the qualifications
+32 of the treating provider to provide services as a participating provider; and
+33 (iv) any covered services received must be reimbursed by the carrier
+34 at the participating provider rate.
+
+HOUSE BILL 1093 13
+1 (x) A carrier may not impose a limit on the number of [behavioral health
+2 providers at a health care facility] THE FOLLOWING that may be credentialed to
+3 participate on a provider panel:
+4 (1) BEHAVIORAL HEALTH PROVIDERS AT A HEALTH CARE FACILITY;
+5 (2) PROVIDERS AT A FEDERALLY QUALIFIED HEALTH CENTER;
+6 (3) PROVIDERS AT A LOCAL HEALTH DEPARTMENT;
+7 (4) PROVIDERS AT A SCHOOL–BASED HEALTH CENTER; OR
+8 (5) OTHER ESSENTIAL COMMUNITY PROVIDERS.
+9 15–112.1.
+10 (a) (1) In this section the following words have the meanings indicated.
+11 (2) (i) “Carrier” means:
+12 1. an insurer;
+13 2. a nonprofit health service plan;
+14 3. a health maintenance organization;
+15 4. a dental plan organization;
+16 5. a managed care organization; or
+17 6. any other person that provides health benefit plans
+18 subject to regulation by the State.
+19 (ii) “Carrier” includes an entity that arranges a provider panel for a
+20 carrier.
+21 (3) “Credentialing intermediary” means a person to whom a carrier has
+22 delegated credentialing or recredentialing authority and responsibility.
+23 (4) “Health care provider” means an individual who is licensed, certified,
+24 or otherwise authorized under the Health Occupations Article to provide health care
+25 services.
+26 (5) “Provider panel” means the providers that contract with a carrier to
+27 provide health care services to the enrollees under a health benefit plan of the carrier.
+
+14 HOUSE BILL 1093
+1 (6) “Uniform credentialing form” means the form designated by the
+2 Commissioner for use by a carrier or its credentialing intermediary for credentialing and
+3 recredentialing a health care provider for participation on a provider panel.
+4 (b) (1) Except as provided in subsection (c) of this section, a carrier or its
+5 credentialing intermediary shall accept the uniform credentialing form as the sole
+6 application for a health care provider to become credentialed or recredentialed for a
+7 provider panel of the carrier.
+8 (2) A carrier or its credentialing intermediary shall make the uniform
+9 credentialing form available to any health care provider that is to be credentialed or
+10 recredentialed by that carrier or credentialing intermediary.
+11 (c) The requirements of subsection (b) of this section do not apply to a hospital or
+12 academic medical center that:
+13 (1) is a participating provider on the carrier’s provider panel; and
+14 (2) acts as a credentialing intermediary for that carrier for health care
+15 practitioners that:
+16 (i) participate on the carrier’s provider panel; and
+17 (ii) have privileges at the hospital or academic medical center.
+18 (d) The Commissioner may impose a penalty not to exceed $500 against any
+19 carrier for each violation of this section by the carrier or its credentialing intermediary.
+20 (e) (1) The Commissioner may adopt regulations to implement the provisions
+21 of this section.
+22 (2) The Commissioner may designate a provider credentialing application
+23 developed by a nonprofit alliance of health plans and trade associations for an online
+24 credentialing system offered to carriers and providers as the uniform credentialing form if:
+25 (i) the provider credentialing application is available to providers at
+26 no charge; and
+27 (ii) use of the provider credentialing application is not conditioned
+28 on submitting the provider credentialing application to a carrier through the online
+29 credentialing system;
+30 (III) THE SYSTEM ALLOWS PROVIDERS TO:
+31 1. GRANT ACCESS TO A DESIGNATED PERSON MANAGING
+32 THE CREDENTIALING PROCESS FOR THE PROVIDER; AND
+
+HOUSE BILL 1093 15
+1 2. ACCESS THE SYSTEM DIRECTLY WITHOUT THE
+2 ASSISTANCE OF A THIRD PARTY; AND
+3 (IV) THE VENDOR:
+4 1. ESTABLISHES AND MAINTAINS A STAKEHOLDER
+5 WORKGROUP TO IDENTIFY AND ADDRESS OPERATIONAL ISSUES TO ENSURE
+6 EFFICIENCY OF THE ONLINE CREDENTIALING SYSTEM CONSISTING OF
+7 REPRESENTATIVES OF:
+8 A. HEALTH AND DENTAL CARRIERS;
+9 B. MANAGED CARE ORGANIZATIONS;
+10 C. COMMUNITY HEALTH CENTERS, INCLUDING
+11 FEDERALLY QUALIFIED HEALTH CENTERS;
+12 D. BEHAVIORAL HEALTH PROVIDERS;
+13 E. PRIVATE PRACTICES OF PHYSICIANS, DENTISTS,
+14 ADVANCE PRACTICE CLINICIANS, AND OTHER CLINICIANS; AND
+15 F. CREDENTIALING INTERMEDIARIES;
+16 2. SUBMITS A REPORT TO THE COMMISSIONER BY
+17 SEPTEMBER 1 EACH YEAR ON:
+18 A. THE FINDINGS OF THE WORKGROUP ESTABLISHED
+19 UNDER ITEM 1 OF THIS ITEM AND IMPROVEMENTS IMPLEMENTED AS A RESULT OF
+20 THE WORKGROUP’S FINDINGS; AND
+21 B. FOR EACH CARRIER, THE CALCULATION OF THE
+22 AVERAGE NUMBER OF DAYS BETWEEN THE DATE THE CARRIER RECEIVES A
+23 COMPLETED CREDENTIALING APPLICATION AND THE DATE THE CARRIER SENDS
+24 WRITTEN NOTICE TO THE PROVIDER OF THE ACCEPTANCE OR REJECTION OF THE
+25 APPLICATION; AND
+26 3. MEETS ALL OTHER REQUIREMENTS ESTABLISHED BY
+27 THE COMMISSIONER.
+28 (3) ON OR BEFORE DECEMBER 1 EACH YEAR, BEGINNING IN 2027,
+29 THE COMMISSIONER SHALL REPORT TO THE GENERAL ASSEMBLY, IN ACCORDANCE
+30 WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, ON:
+
+16 HOUSE BILL 1093
+1 (I) THE FINDINGS OF THE WORKGROUP ESTABLISHED UNDER
+2 PARAGRAPH (2)(IV)1 OF THIS SUBSECTION;
+3 (II) IMPROVEMENTS IMPLEMENTED AS A RESULT OF THE
+4 WORKGROUP’S FINDINGS;
+5 (III) ANY LEGISLATIVE RECOMMENDATIONS; AND
+6 (IV) ANY OTHER RELEVANT INFORMATION.
+7 15–112.3.
+8 (a) (1) In this section the following words have the meanings indicated.
+9 (2) (i) “Carrier” has the meaning stated in § 15–112 of this subtitle.
+10 (ii) “Carrier” does not include a managed care organization, as
+11 defined in Title 15, Subtitle 1 of the Health – General Article.
+12 (3) “Multi–carrier common online provider directory information system”
+13 means the system designated by the Commissioner for use by providers to provide and
+14 update their provider directory information with carriers.
+15 (b) The Commissioner may designate a multi–carrier common online provider
+16 directory information system developed by a nonprofit alliance of health plans and trade
+17 associations if:
+18 (1) the system is available to providers nationally;
+19 (2) the system is available to providers at no charge;
+20 (3) the system allows providers to:
+21 (i) attest online to the accuracy of their information; [and]
+22 (ii) [1. correct any inaccurate information; and
+23 2. attest to the correction] UPDATE THE PROVIDER’S
+24 INFORMATION EVERY 120 DAYS OR AT A FREQUENCY ESTABLISHED BY THE
+25 COMMISSIONER;
+26 (III) GRANT ACCESS TO A DESIGNATED PERSON MANAGING THE
+27 CREDENTIALING PROCESS FOR THE PROVIDER; AND
+
+HOUSE BILL 1093 17
+1 (IV) ACCESS THE SYSTEM DIRECTLY WITHOUT THE ASSISTANCE
+2 OF A THIRD PARTY; and
+3 (4) (2) the nonprofit alliance: VENDOR
+4 (I) has a well–established mechanism for outreach to providers;
+5 (II) ESTABLISHES AND MAINTAINS A STAKEHOLDER
+6 WORKGROUP TO IDENTIFY AND ADDRESS OPERATIONAL ISSUES TO ENSURE
+7 EFFICIENCY OF THE ONLINE CREDENTIALING SYSTEM CONSISTING OF
+8 REPRESENTATIVES OF:
+9 1. HEALTH AND DENTAL CARRIERS;
+10 2. MANAGED CARE ORGANIZATIONS;
+11 3. COMMUNITY HEALTH CENTERS, INCLUDING
+12 FEDERALLY QUALIFIED HEALTH CENTERS;
+13 4. BEHAVIORAL HEALTH PROVIDERS;.
+14 5. PRIVATE PRACTICES OF PHYSICIANS, DENTISTS,
+15 ADVANCE PRACTICE CLINICIANS, AND OTHER CLINICIANS; AND
+16 6. CREDENTIALING INTERMEDIARIES;
+17 (III) SUBMITS A REPORT TO THE COMMISSIONER BY SEPTEMBER
+18 1 EACH YEAR ON THE FINDINGS OF THE WORKGROUP ESTABLISHED UNDER ITEM (II)
+19 OF THIS ITEM AND IMPROVEMENTS IMPLEMENTED AS A RESULT OF THE
+20 WORKGROUP’S FINDINGS; AND
+21 (IV) MEETS ALL OTHER REQUIREMENTS ESTABLISHED BY THE
+22 COMMISSIONER.
+23 (C) ON OR BEFORE DECEMBER 1 EACH YEAR, BEGINNING IN 2027, THE
+24 COMMISSIONER SHALL REPORT TO THE GENERAL ASSEMBLY, IN ACCORDANCE
+25 WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, ON:
+26 (1) THE FINDINGS OF THE WORKGROUP ESTABLISHED UNDER
+27 SUBSECTION (B)(4)(II) OF THIS SECTION;
+28 (2) IMPROVEMENTS IMPLEMENTED AS A RESULT OF THE
+29 WORKGROUP’S FINDINGS;
+
+18 HOUSE BILL 1093
+1 (3) ANY LEGISLATIVE RECOMMENDATIONS; AND
+2 (4) ANY OTHER RELEVANT INFORMATION.
+3 [(c)] (D) A carrier shall accept new and updated provider directory information
+4 for a provider submitted:
+5 (1) (i) through the multi–carrier common online provider directory
+6 information system; or
+7 (ii) directly to the carrier; and
+8 (2) from:
+9 (i) the provider;
+10 (ii) a hospital or academic medical center that:
+11 1. is a participating provider on the carrier’s provider panel;
+12 and
+13 2. acts as a credentialing intermediary for the carrier for
+14 providers that:
+15 A. participate on the carrier’s provider panel; and
+16 B. have privileges at the hospital or academic medical center;
+17 or
+18 (iii) any other person that performs credentialing functions on behalf
+19 of a provider.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2026 January 1, 2027.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.

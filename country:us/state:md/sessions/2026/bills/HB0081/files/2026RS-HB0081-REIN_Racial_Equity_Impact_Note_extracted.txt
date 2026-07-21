@@ -1,0 +1,255 @@
+Title: 
+Official Title: 
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 Session
+HB0081
+Motor Vehicles - Police Stops - Secondary Enforcement and
+Excludable Evidence
+Bill Summary
+This bill subjects specified vehicle offenses to secondary enforcement only. Additionally, the bill
+requires a police officer to document all reasons for a traffic stop (or other stop) on any citation or
+police report resulting from the stop. The failure of a police officer to comply with existing
+specified statutory requirements at a traffic stop or other stop may serve as the basis for exclusion
+of evidence under the exclusionary rule. The bill applies retroactively to proceedings not finally
+adjudicated by the bill’s October 1, 2026 effective date.
+Racial Equity Impact Statement
+In Maryland, secondary offenses are traffic violations that can only be cited after a driver has
+already been stopped for a primary violation. The bill’s provisions limit enforcement of 8 traffic
+violations to secondary enforcement, establish additional documentation requirements for law
+enforcement officers conducting traffic stops or other stops, and discourage noncompliance with
+disciplinary action and exclusion-of-evidence rules in legal and other proceedings. Data from the
+Judiciary shows that Black drivers are over three times more likely than their white counterparts
+to be issued citations for violations that the bill would restrict to secondary enforcement. In 2024,
+Black drivers accounted for a disproportionate share of total citations issued and of prepaid
+citations. As a group, Black drivers, however, were less likely to prepay a citation compared to
+their white counterparts. This may be indicative of economic burdens that make unplanned
+payments difficult. Overall, the bill will reduce the disproportionate and disparate outcomes that
+negatively impact drivers, particularly Black drivers who are most impacted by disparities in traffic
+stops and resulting citations. The remaining provisions of the bill will also help in documenting
+law enforcement activity for equity purposes and ensure that the bill’s provisions are enforced in
+practice.
+HB 81/ Page 1
+
+Analysis
+The bill (1) authorizes police officers to enforce certain provisions of the Maryland Vehicle Law
+only as a secondary action under the Transportation Article; (2) requires police officers to
+document all reasons for a traffic stop or other stop on a citation or police report resulting from the
+stop; and (3) establishes that evidence obtained during a traffic stop or other stop in violation of
+the secondary enforcement provisions is inadmissible in certain proceedings.
+Required Actions at Traffic Stops and Other Stops
+Under current law, at the commencement of a traffic stop or other stop, absent exigent
+circumstances, a police officer must (1) display proper identification to the stopped individual;
+(2) provide to the stopped individual the officer’s name, the officer’s identification number, and
+the name of the officer’s law enforcement agency; and (3) provide the stopped individual with the
+reason for the traffic stop or other stop. A police officer’s failure to comply with these requirements
+(1) may be grounds for administrative disciplinary action against the officer and (2) may not serve
+as the basis for the exclusion of evidence under the exclusionary rule.
+Under the bill, a police officer’s failure to comply with these requirements may serve as the basis
+for the exclusion of evidence under the exclusionary rule.
+Citations for Traffic Offenses
+Under current law, violations of the Maryland Vehicle Law are subject to primary enforcement
+unless otherwise specified. Accordingly, a police officer may detain a driver for a suspected
+violation of most provisions of the Maryland Vehicle Law without having to first suspect a
+violation of another State law.
+Under the bill, the following vehicle offenses under the Transportation Article are subject to
+secondary enforcement only:
+ § 13-401(d)-(e) (driving or knowingly allowing a vehicle to be driven with an unpaid
+registration fee);
+ § 13-411(f) (displaying an expired registration plate issued by any state);
+ § 13-701 (driving a vehicle without evidence of registration);
+ § 21-1111 (putting glass, injurious substances, or refuse on highways, bridges, or public
+waters);
+ § 22-203(b) (failing to have both headlamps on the front of a motor vehicle working, if at
+least one headlamp is working);
+ § 22-204(f) (failing to properly illuminate a rear registration plate and render it clearly
+legible from a distance of 50 feet to the rear);
+ § 22-403(d) (failing to have two operable outside rearview mirrors when the inside
+rearview mirror is obstructed); and
+ § 22-406(i) (operating a vehicle with unauthorized window tinting materials).
+HB 81/ Page 2
+
+The bill does not alter the penalties for these offen ses. A person convicted of any of these offenses
+is guilty of a misdemeanor and subject to a maximum fine of $500; none of these are incarcerable
+offenses.
+Under the bill, in addition to limiting a police officer to enforcing the specified registration laws
+as secondary actions only, an officer is prohibited from stopping a vehicle for displaying an expired
+registration prior to the first day of the fourth month following the registration’s original expiration
+date.
+Impacts of the Bill
+As noted above, under the bill, a police officer may not enforce the specified offenses as a primary
+action. There is no readily available data to estimate how many fewer traffic stops will occur or
+how many fewer traffic citations will be issued as a result of the bill’s restrictions. According to
+data provided by the Judiciary, in fiscal 2025, a total of 45,388 citations were issued for violations
+that the bill would restrict to secondary enforcement. Driving or allowing an unregistered vehicle
+to be driven and improperly displaying registration plates or tabs accounted for 81% of the
+citations.
+The data does not specify what portion of these violations were cited under secondary enforcement,
+nor is data readily available regarding how many of these citations involved registrations that were
+expired for more than four months after the original expiration date.
+Race and Ethnicity of Maryland’s Driving Population
+For purposes of this impact note, “age-eligible drivers” refers to drivers who are at least 16 years
+of age. Exhibit 1 shows the racial and ethnic breakdown for Maryland’s population of individuals
+aged 16 and over in 2023. The demographics for the 4.98 million age-eligible drivers in the State
+were 51% white, 30% Black, 11% Hispanic, 7% Asian, and 2% two or more races.
+HB 81/ Page 3
+
+Exhibit 1
+Maryland’s Age 16+ Driving Population
+2023
+2%
+7%
+11%
+51%
+30%
+White Black Hispanic Asian Two or More Races
+Note: Numbers may not sum to total due to rounding.
+Source: U.S. Census Bureau; Department of Legislative Services
+Traffic Offense Citations Restricted to Secondary Enforcement
+The Judiciary also provided calendar 2024 data regarding the racial makeup of drivers who
+received traffic citations for the violations covered by the bill. Exhibit 2 shows the percentage of
+citations received by racial group compared to their portion of eligible drivers in the State. Of the
+traffic citations issued for violations that the bill would restrict to secondary enforcement, 55%
+were issued to Black drivers, 28% to white drivers, and 1% to Asian drivers. The racial group for
+approximately 16% of drivers was recorded as unknown or other.
+HB 81/ Page 4
+
+Exhibit 2
+District Court Data for Specified
+Traffic Offense Citations
+2024
+60% 55%
+51%
+50%
+40%
+30%
+30%
+28%
+20%
+10% 7%
+1%
+0%
+Black Asian White
+Citations Age Eligible Drivers
+Source: Administrative Office of the Courts; Department of Legislative Services
+As shown in Exhibit 2, Black drivers are overrepresented as recipients of the traffic citations slated
+for secondary enforcement under the bill. The remaining citations issued to white and Asian drivers
+were lower than their respective proportions of the driving population in the State.
+Racial Disproportionality and Disparity Ratios for Traffic Offense Citations
+Exhibit 3 demonstrates the racial disproportionality and disparity evident in citations issued for
+the specified violations identified by the bill. The disproportionality rate for Black drivers is 1.83,
+which means that Black drivers are nearly twice as likely to be issued a traffic citation for the
+specified violations as would be expected given their proportion of the State’s driving population.
+White and Asian drivers have disproportionality ratios of 0.54 and 0.18, respectively, which means
+those individuals are significantly less likely to be issued a traffic citation for violations under the
+bill given their respective proportions of the State’s driving population.
+Exhibit 3 also shows how disparity ratios vary by race for drivers issued a traffic citation for
+violations under the bill. Black drivers in Maryland have a racial disparity ratio of 3.36, indicating
+that Black drivers are more than three times as likely as white drivers to receive a traffic citation
+for offenses subject to the bill. Asian drivers have a disparity ratio of 0.34, which means these
+individuals are much less likely to be issued a traffic citation compared to white drivers.
+HB 81/ Page 5
+
+Exhibit 3
+Racial Disproportionality and Disparity Ratios for Specified
+Traffic Offense Citations
+4.00 3.36
+3.50
+3.00
+2.50
+1.83
+2.00
+1.50
+1.00
+1.00
+0.54
+0.50 0.34
+0.18
+0.00
+Disproportionality Rate Disparity Ratio
+Black Asian White
+Source: Administrative Office of the Courts; U.S. Census Bureau; Department of Legislative Services
+Prepaid Citations for the Traffic Offenses Restricted to Secondary Enforcement Under the Bill
+During 2024, approximately 22,824 traffic citations issued for the specified violations were
+recorded as guilty by the Judiciary. Of the citations with guilty dispositions, 19,843 or 87%, were
+prepaid citations in which drivers simply paid the penalty in lieu of making an appearance in court,
+effectively waiving their right to a trial.
+Approximately 47% of prepaid citations were from Black drivers, which is an expected result of
+their overrepresentation in traffic citations. However, data on the rate of prepaid citations paid by
+racial group shows that Black drivers elect to prepay at a much lower rate than their white
+counterparts. Of the total citations issued to Black drivers in 2024, 44% were prepaid compared to
+white drivers, who prepaid at a rate of 65%. While the causes of the lower prepayment rate for
+Black drivers are unknown, it is consistent with State data indicating that Black individuals in
+general have lower rates of employment, income, and higher cost burdens for housing. This impact
+note does not assess or compare the other possible case outcomes, such as probation before
+judgment, Stet, dismissals, or acquittals.
+While the Judiciary data is not conclusive, as it only provides a one-year snapshot, it does provide
+some context regarding how various subpopulations fare with traffic citations. The
+overrepresentation of Black drivers – both compared to their proportion of all drivers in the State
+and compared to white drivers – reinforces national and State trends that show Black drivers are
+more likely to be the subject of a traffic stop (or other stops) than other racial groups. The data
+also suggests, as evidenced by their lower prepaid citation rate, that Black drivers are more likely
+HB 81/ Page 6
+
+than white drivers to either go to court or possibl y ignore citations instead of prepaying, as these
+are the other possible outcomes after receiving a citation. This pattern may indicate that citations
+are more of a financial burden for Black drivers.
+Conclusion
+Traffic citation data from the Judiciary confirms substantial racial inequities in traffic citations for
+violations that the bill would restrict to secondary enforcement. Most notably, Judiciary data shows
+that Black drivers were overrepresented in traffic citations and guilty dispositions in 2024 for
+traffic offenses that the bill would restrict to secondary enforcement. Accordingly, the bill would
+likely reduce the disproportionate and disparate outcomes that negatively impact drivers,
+particularly Black drivers, by eliminating the ability of law enforcement to initiate traffic stops
+solely for the traffic violations addressed by the bill.
+While the available data does not explain the actual causes of the overrepresentation of Black
+drivers with regard to traffic citations, it is indicative of systemic inequities observed generally in
+statewide criminal justice data. As past research has consistently shown, Black and Hispanic
+drivers are more likely to be stopped, searched, and cited compared to white drivers. The
+magnitude of the bill’s impacts is expected to be meaningful, but additional data is required to
+measure the full impacts. This includes data regarding secondary versus primary enforcement,
+failure to appear, license suspensions, and points assessments.
+Information Sources: Administrative Office of the Courts; U.S. Census Bureau; Office of the
+Attorney General; Department of Housing and Community Development; Baltimore County
+Police Department; Department of Legislative Services
+Analysis by: Dr. Jasmón Bailey
+Published: 01/30/2026
+HB 81/ Page 7
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau, Annual Estimates of the Resident Population by Sex, Race, and Hispanic Origin for the
+United States: April 1, 2020 to July 1, 2024 (NC-EST2024-SR11H) and (SC-EST2024-SR11H-24)
+HB 81/ Page 8

@@ -1,0 +1,172 @@
+Title: 
+Official Title: 
+Source: versions - Third - Public and Nonpublic Schools - Student Elopement - Locative Devices
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 1182
+F1 6lr3525
+By: Delegate McCaskill Delegates McCaskill, Ebersole, Feldmark, Griffith, Miller,
+Mireku–North, Palakovich Carr, Pasteur, Patterson, Wilkins, and Wims
+Introduced and read first time: February 11, 2026
+Assigned to: Ways and Means
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 4, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Public and Nonpublic Schools – Student Elopement – Locative Devices
+3 FOR the purpose of requiring certain public and nonpublic schools to develop policies and
+4 procedures regarding student wandering or elopement behavior; authorizing certain
+5 public and nonpublic schools to coordinate a student’s voluntary use of a certain
+6 locative device and monitor the student’s location using the locative device for certain
+7 purposes and under certain circumstances; establishing certain privacy and data
+8 protections for information obtained through a student’s voluntary use of a certain
+9 locative device; requiring the State Department of Education to issue certain
+10 advisory guidance to certain public and nonpublic schools; and generally relating to
+11 student wandering and elopement behavior.
+12 BY repealing and reenacting, without amendments,
+13 Article – Education
+14 Section 7–11A–01 and 7–11A–02
+15 Annotated Code of Maryland
+16 (2025 Replacement Volume and 2025 Supplement)
+17 BY repealing and reenacting, with amendments,
+18 Article – Education
+19 Section 7–11A–02
+20 Annotated Code of Maryland
+21 (2025 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1182*
+
+2 HOUSE BILL 1182
+1 BY repealing
+2 Article – Education
+3 Section 7–11A–03
+4 Annotated Code of Maryland
+5 (2025 Replacement Volume and 2025 Supplement)
+6 BY adding to
+7 Article – Education
+8 Section 7–11A–03 and 7–11A–04
+9 Annotated Code of Maryland
+10 (2025 Replacement Volume and 2025 Supplement)
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
+13 Article – Education
+14 7–11A–01.
+15 (a) In this subtitle the following words have the meanings indicated.
+16 (b) “Behavior intervention plan” has the meaning stated in § 7–1101 of this title.
+17 (c) “Elopement” means the act of a student leaving the school campus without the
+18 permission of a school staff member who has responsibility for the student.
+19 (d) “IEP” means an individualized education program as defined under the
+20 federal Individuals with Disabilities Education Act.
+21 (e) “Nonpublic school” has the meaning stated in § 7–1101 of this title.
+22 (f) “School” means:
+23 (1) A public elementary, middle, or high school;
+24 (2) The Maryland School for the Blind;
+25 (3) The Maryland School for the Deaf; and
+26 (4) A nonpublic school.
+27 (g) “School campus” means the buildings and grounds of a school, including a
+28 playground.
+29 (h) (1) “Wandering” means the act of a student leaving a classroom or area on
+30 the school campus, but not leaving the school campus, without the permission of a school
+31 staff member who has responsibility for the student.
+
+HOUSE BILL 1182 3
+1 (2) “Wandering” does not include a student leaving a classroom or area on
+2 the school campus under a flash pass or another standing arrangement that has been
+3 approved by a school administrator.
+4 7–11A–02.
+5 (a) Each time a student attempts or accomplishes an elopement, the school shall
+6 notify the student’s parent or guardian of the elopement incident on the same day as the
+7 elopement incident.
+8 (b) At least one time each year, a school or a student’s IEP team shall review and
+9 address with relevant stakeholders a student’s wandering or elopement behavior in
+10 updating the student’s IEP or behavior intervention plan.
+11 (C) A SCHOOL SHALL DEVELOP POLICIES AND PROCEDURES TO IMPLEMENT
+12 THE REQUIREMENTS OF THIS SECTION.
+13 [7–11A–03.
+14 A school shall develop policies and procedures to implement the requirements of this
+15 subtitle.]
+16 7–11A–03.
+17 (A) IN THIS SECTION, “LOCATIVE DEVICE” MEANS A WEARABLE OR
+18 PORTABLE ELECTRONIC DEVICE THAT IS CAPABLE OF LOCATING A STUDENT
+19 DURING AN ELOPEMENT INCIDENT.
+20 (B) SUBJECT TO SUBSECTION (C) OF THIS SECTION, A SCHOOL MAY
+21 COORDINATE A STUDENT’S VOLUNTARY USE OF A LOCATIVE DEVICE AND MONITOR
+22 THE STUDENT’S LOCATION USING THE LOCATIVE DEVICE ONLY IF:
+23 (1) THE STUDENT HAS A DOCUMENTED HISTORY OF WANDERING OR
+24 ELOPEMENT BEHAVIOR IN THE STUDENT’S IEP OR BEHAVIOR INTERVENTION PLAN;
+25 AND
+26 (2) THE STUDENT’S PARENT OR GUARDIAN PROVIDES INFORMED,
+27 WRITTEN CONSENT TO:
+28 (I) THE STUDENT’S VOLUNTARY USE OF THE LOCATIVE
+29 DEVICE; AND
+30 (II) THE SCHOOL’S MONITORING OF THE STUDENT’S LOCATION
+31 USING THE LOCATIVE DEVICE; AND
+
+4 HOUSE BILL 1182
+1 (3) THE LOCATIVE DEVICE:
+2 (I) IS INCAPABLE OF MAKING AUDIO OR VIDEO RECORDINGS OF
+3 OTHER STUDENTS OR SCHOOL PERSONNEL; OR
+4 (II) HAS FEATURES CAPABLE OF AUDIO OR VIDEO RECORDING
+5 TURNED OFF WHEN THE STUDENT IS IN AN EDUCATIONAL SETTING.
+6 (C) (1) A SCHOOL MAY MONITOR A STUDENT’S LOCATION USING A
+7 LOCATIVE DEVICE UNDER THIS SECTION ONLY FOR WANDERING OR ELOPEMENT
+8 BEHAVIOR.
+9 (2) A SCHOOL SHALL:
+10 (I) LIMIT INFORMATION OBTAINED THROUGH A STUDENT’S
+11 VOLUNTARY USE OF A LOCATIVE DEVICE IN ACCORDANCE WITH THIS SECTION TO
+12 INFORMATION THAT IS REASONABLY NECESSARY TO ADDRESS OR RESPOND TO A
+13 STUDENT’S WANDERING OR ELOPEMENT BEHAVIOR; AND
+14 (II) MAINTAIN ANY INFORMATION OBTAINED THROUGH A
+15 STUDENT’S USE OF A LOCATIVE DEVICE IN ACCORDANCE WITH APPLICABLE
+16 FEDERAL AND STATE EDUCATION PRIVACY LAWS.
+17 (3) INFORMATION OBTAINED THROUGH A STUDENT’S VOLUNTARY
+18 USE OF A LOCATIVE DEVICE IN ACCORDANCE WITH THIS SECTION:
+19 (I) MAY BE ACCESSED ONLY BY:
+20 1. PERSONNEL IDENTIFIED IN THE STUDENT’S IEP OR
+21 BEHAVIOR INTERVENTION PLAN; AND
+22 2. EMERGENCY RESPONSE PROVIDERS AS NECESSARY
+23 DURING AN ELOPEMENT INCIDENT;
+24 (II) MAY NOT BE RETAINED FOR LONGER THAN NECESSARY TO
+25 ADDRESS OR RESPOND TO A STUDENT’S WANDERING OR ELOPEMENT BEHAVIOR OR
+26 AS REQUIRED BY LAW; AND
+27 (III) SHALL BE PROTECTED BY EMPLOYING REASONABLE
+28 ADMINISTRATIVE, TECHNICAL, AND PHYSICAL SAFEGUARDS.
+29 (D) (1) THE DEPARTMENT SHALL ISSUE ADVISORY GUIDANCE TO
+30 SCHOOLS ON:
+
+HOUSE BILL 1182 5
+1 (I) INCORPORATING A STUDENT’S VOLUNTARY USE OF A
+2 LOCATIVE DEVICE IN ACCORDANCE WITH THIS SECTION IN THE STUDENT’S IEP OR
+3 BEHAVIOR INTERVENTION PLAN; AND
+4 (II) PRIVACY AND DATA PROTECTION CONSIDERATIONS
+5 ASSOCIATED WITH USE OF A LOCATIVE DEVICE.
+6 (2) THE DEPARTMENT’S GUIDANCE UNDER THIS SUBSECTION SHALL:
+7 (I) SHALL GRANT A SCHOOL DISCRETION AS TO WHETHER AND
+8 HOW TO IMPLEMENT A STUDENT’S VOLUNTARY USE OF A LOCATIVE DEVICE IN
+9 ACCORDANCE WITH THIS SECTION; AND
+10 (II) MAY NOT BE CONSTRUED AS LEGAL ADVICE ABOUT THE
+11 FEDERAL ADMINISTRATION OF FEDERAL PRIVACY LAW.
+12 (E) A SCHOOL MAY DEVELOP POLICIES AND PROCEDURES TO IMPLEMENT
+13 THE REQUIREMENTS OF THIS SECTION.
+14 (F) NOTHING IN THIS SECTION MAY BE CONSTRUED TO:
+15 (1) REQUIRE A SCHOOL TO PROVIDE, PURCHASE, REIMBURSE,
+16 MANAGE, OR MONITOR A LOCATIVE DEVICE OR A RELATED SERVICE PLAN; OR
+17 (2) REQUIRE A PARENT, GUARDIAN, OR STUDENT TO PURCHASE OR
+18 USE A LOCATIVE DEVICE, INCLUDING AS A CONDITION OF ENROLLMENT IN A SCHOOL
+19 OR FOR THE PROVISION OF ANY SERVICE.
+20 7–11A–04.
+21 A SCHOOL:
+22 (1) SUBJECT TO ITEM (2) OF THIS SECTION, SHALL DEVELOP
+23 POLICIES AND PROCEDURES TO IMPLEMENT THE REQUIREMENTS OF THIS
+24 SUBTITLE; AND
+25 (2) MAY DEVELOP POLICIES AND PROCEDURES TO IMPLEMENT THE
+26 REQUIREMENTS OF § 7–11A–03 OF THIS SUBTITLE.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+28 1, 2026.

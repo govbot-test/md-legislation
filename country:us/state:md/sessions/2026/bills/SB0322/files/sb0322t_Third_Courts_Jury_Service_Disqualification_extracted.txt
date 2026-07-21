@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Third - Courts - Jury Service - Disqualification
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 322
+D1 6lr2775
+CF HB 414
+By: Senator Sydnor
+Introduced and read first time: January 22, 2026
+Assigned to: Judicial Proceedings
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 20, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Courts – Jury Service – Disqualification
+3 FOR the purpose of altering the circumstances under which an individual who has been
+4 convicted of a crime is not qualified for jury service; and generally relating to jury
+5 service.
+6 BY repealing and reenacting, with amendments,
+7 Article – Courts and Judicial Proceedings
+8 Section 8–103
+9 Annotated Code of Maryland
+10 (2020 Replacement Volume and 2025 Supplement)
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
+13 Article – Courts and Judicial Proceedings
+14 8–103.
+15 (a) Notwithstanding § 8–102 of this subtitle, an individual qualifies for jury
+16 service for a county only if the individual:
+17 (1) Is an adult as of the day selected as a prospective juror;
+18 (2) Is a citizen of the United States; and
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0322*
+
+2 SENATE BILL 322
+1 (3) Resides in the county as of the day sworn as a juror.
+2 (b) Notwithstanding subsection (a) of this section and subject to the federal
+3 Americans with Disabilities Act, an individual is not qualified for jury service if the
+4 individual:
+5 (1) Cannot comprehend spoken English or speak English;
+6 (2) Cannot comprehend written English, read English, or write English
+7 proficiently enough to complete a juror qualification form satisfactorily;
+8 (3) Has a disability that, as documented by a health care provider’s
+9 certification, prevents the individual from providing satisfactory jury service;
+10 (4) Has been convicted, in a federal or State court of record, of [a]:
+11 (I) A crime punishable by imprisonment exceeding 1 year and
+12 [received a sentence of imprisonment for more than 1 year] IS CURRENTLY SERVING THE
+13 SENTENCE IMPOSED FOR THE CONVICTION, INCLUDING A TERM OF PAROLE OR
+14 PROBATION; or
+15 (II) A CRIME INVOLVING OR RELATING TO:
+16 1. PERJURY;
+17 2. WITNESS INTIMIDATION;
+18 3. JURY INTIMIDATION; OR
+19 4. A CRIME UNDER TITLE 8 OF THE CRIMINAL LAW
+20 ARTICLE; OR
+21 (5) Has a charge pending, in a federal or State court of record, for a crime
+22 punishable by imprisonment exceeding 1 year.
+23 [(c) An individual qualifies for jury service notwithstanding a disqualifying
+24 conviction under subsection (b)(4) of this section if the individual is pardoned.]
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+26 October 1, 2026.
