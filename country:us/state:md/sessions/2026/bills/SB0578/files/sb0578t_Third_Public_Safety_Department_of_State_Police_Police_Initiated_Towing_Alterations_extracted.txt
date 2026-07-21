@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - Third - Public Safety - Department of State Police - Police-Initiated Towing - Alterations
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 578
+E4 6lr3125
+CF HB 30
+By: Senator James
+Introduced and read first time: February 4, 2026
+Assigned to: Judicial Proceedings
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 20, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Public Safety – Department of State Police – Police–Initiated Towing –
+3 Alterations
+4 FOR the purpose of altering certain provisions related to the rates the Department of State
+5 Police sets for towing companies involved in certain police–initiated towing to
+6 include the towing and recovery of certain vehicles; and generally relating to
+7 police–initiated towing of motor vehicles.
+8 BY repealing and reenacting, with amendments,
+9 Article – Public Safety
+10 Section 2–314 and 2–314.1
+11 Annotated Code of Maryland
+12 (2022 Replacement Volume and 2025 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Public Safety
+16 2–314.
+17 (a) (1) In this section the following words have the meanings indicated.
+18 (2) “Approved rates” means the maximum rates approved by the
+19 Department that apply to police–initiated towing and recovery services.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0578*
+
+2 SENATE BILL 578
+1 (3) “Authorized tow company” means a company providing towing and
+2 recovery services at the request of the Department and designated on the tow list.
+3 (4) “Heavy–duty towing” means towing and recovery of a vehicle including
+4 trailers and semitrailers with a gross vehicle weight rating over 26,000 pounds.
+5 (5) “LIGHT–DUTY TOWING” MEANS TOWING AND RECOVERY OF A
+6 VEHICLE INCLUDING TRAILERS OR SEMITRAILERS WITH A GROSS VEHICLE WEIGHT
+7 RATING OF 10,000 POUNDS OR LESS.
+8 [(5)] (6) “Medium–duty towing” means towing and recovery of a vehicle
+9 including trailers or semitrailers with a gross vehicle weight rating from over 10,000
+10 pounds to 26,000 pounds.
+11 [(6)] (7) “Per pound billing” means a method of calculating a fee for
+12 towing and recovery services using a formula that considers the weight of the vehicle,
+13 equipment, or cargo that is the subject of the towing and recovery and multiplies the weight
+14 of the vehicle, equipment, or cargo by a monetary amount.
+15 [(7)] (8) “Police–initiated towing” means the towing or recovery of a
+16 [commercial] motor vehicle which was authorized, requested, or dispatched by the
+17 Department.
+18 [(8)] (9) “Recovery” means winching, hoisting, up–righting, removing, or
+19 otherwise relocating a vehicle when the vehicle is found in a location, state, or position in
+20 which it cannot be removed from the location, state, or position using only the vehicle’s own
+21 power, even if it were in complete operating condition.
+22 [(9)] (10) “Tow list” means the list of towing businesses authorized by the
+23 Department to perform police–initiated towing services of disabled or abandoned
+24 commercial vehicles within the Department’s jurisdiction.
+25 [(10)] (11) “Towing” means using another vehicle to move or remove a
+26 vehicle.
+27 (b) The Department shall:
+28 (1) establish and maintain a tow list, by county, of qualifying tow
+29 companies for use by the Department in carrying out the duties of this subtitle; and
+30 (2) make the tow list available to the public on request.
+31 (c) The Department may adopt regulations to establish standards for tow
+32 companies, including application procedures and minimum qualification requirements, and
+33 must include on the list all qualifying tow companies.
+
+SENATE BILL 578 3
+1 (d) The Department shall:
+2 (1) require a tow company that is on the tow list to ban the use of per pound
+3 billing by October 1, 2023;
+4 (2) establish the approved rates for LIGHT–, medium–, and heavy–duty
+5 towing and recovery that may be charged by a tow company on the tow list by January 1,
+6 2024; and
+7 (3) develop a process to receive, investigate, and adjudicate complaints
+8 from a vehicle owner or operator or the owner’s designee against an authorized tow
+9 company regarding the police–initiated towing of a commercial motor vehicle, including a
+10 process to suspend or remove an authorized tow company from the tow list.
+11 (e) (1) An authorized tow company may charge less than but may not charge
+12 more than the approved rates authorized by the Department for a police–initiated towing
+13 and recovery.
+14 (2) THE APPROVED RATES FOR LIGHT–DUTY TOWING AND RECOVERY
+15 MAY NOT EXCEED A PERCENTAGE OF THE 80% OF THE MAXIMUM APPROVED RATES
+16 FOR MEDIUM–DUTY TOWING AND RECOVERY CHARGED BY A TOW COMPANY.
+17 (f) If a vehicle owner or the owner’s designee requests the use of a specific towing
+18 company, the Department shall honor that request and allow the vehicle owner to engage
+19 the services of the requested towing company except when:
+20 (1) the requested towing company cannot arrive at the location of the
+21 vehicle within a reasonable time period;
+22 (2) a traffic safety problem exists and the requested towing company
+23 cannot arrive at the location within 30 minutes of a police employee’s arrival at the location
+24 of the vehicle; or
+25 (3) the vehicle is disabled in the roadway as a result of a collision or vehicle
+26 fire and the requested towing company cannot arrive within 30 minutes of a police
+27 employee’s arrival at the location of the vehicle.
+28 2–314.1.
+29 (a) (1) In this section the following words have the meanings indicated.
+30 (2) “Approved rates” has the meaning stated in § 2–314 of this subtitle.
+
+4 SENATE BILL 578
+1 (3) “Committee” means the Committee on Rate Setting and Complaint
+2 Resolution for Police–Initiated LIGHT–DUTY, Medium–Duty, and Heavy–Duty Towing
+3 and Recovery.
+4 (4) “Police–initiated towing” has the meaning stated in § 2–314 of this
+5 subtitle.
+6 (5) “Recovery” has the meaning stated in § 2–314 of this subtitle.
+7 (b) There is a Committee on Rate Setting and Complaint Resolution for
+8 Police–Initiated LIGHT–DUTY, Medium–Duty, and Heavy–Duty Towing and Recovery.
+9 (c) The Committee consists of the following members:
+10 (1) two representatives of the Towing and Recovery Professionals of
+11 Maryland, appointed by the President of the Towing and Recovery Professionals of
+12 Maryland;
+13 (2) a representative of the Maryland Motor Truck Association, appointed
+14 by the President of the Maryland Motor Truck Association;
+15 (3) a representative of the Owner–Operator Independent Drivers
+16 Association, appointed by the President of the Owner–Operator Independent Drivers
+17 Association;
+18 (4) a representative of the Maryland Transportation Authority Police,
+19 appointed by the Secretary of Transportation;
+20 (5) a representative of the State Highway Administration, appointed by the
+21 Administrator of the State Highway Administration; and
+22 (6) a representative of the Maryland Insurance Administration, appointed
+23 by the Insurance Commissioner.
+24 (d) (1) A member of the Committee shall be appointed for a 3–year term.
+25 (2) A member of the Committee may be reappointed at the end of the
+26 member’s term.
+27 (e) The Department shall provide staff support for the Committee.
+28 (f) A member of the Committee:
+29 (1) may not receive compensation as a member of the Committee; but
+30 (2) is entitled to reimbursement for expenses under the Standard State
+31 Travel Regulations, as provided in the State budget.
+
+SENATE BILL 578 5
+1 (g) The Committee shall:
+2 (1) on or before December 1, 2023, recommend approved rates FOR
+3 LIGHT–DUTY, MEDIUM–DUTY, AND HEAVY–DUTY TOWING AND RECOVERY to the
+4 Department that should be charged for police–initiated towing and recovery services;
+5 (2) meet at least once every 3 years to review and consider modification of
+6 the approved rates;
+7 (3) request information and comments from other parties of interest to
+8 assist with its work;
+9 (4) recommend to the Department a process for resolving towing
+10 complaints; and
+11 (5) EXAMINE AND REPORT ON INSURANCE MATTERS RELATED TO
+12 VEHICLES REGISTERED AND INSURED OUT OF STATE;
+13 (6) EXAMINE AND REPORT ON INSURANCE MATTERS RELATED TO
+14 COST AND CLEANUP OF CARGO AND DEBRIS; AND
+15 (7) make any additional recommendations to the Department that the
+16 Committee considers appropriate.
+17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+18 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.

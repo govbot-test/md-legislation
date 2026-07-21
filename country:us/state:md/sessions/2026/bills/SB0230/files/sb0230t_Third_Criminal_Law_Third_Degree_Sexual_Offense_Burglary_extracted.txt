@@ -1,0 +1,200 @@
+Title: 
+Official Title: 
+Source: versions - Third - Criminal Law - Third-Degree Sexual Offense - Burglary
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 230
+E1 6lr1242
+SB 722/13 – JPR (PRE–FILED) CF HB 138
+By: Senator West
+Requested: October 17, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Judicial Proceedings
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: March 2, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Criminal Law – Third–Degree Sexual Offense – Burglary
+3 FOR the purpose of establishing that engaging in sexual contact with another without the
+4 consent of the other in connection with a first–, second–, or third–degree burglary
+5 constitutes sexual offense in the third degree; altering the definitions of “tier I sex
+6 offender”, “tier II sex offender”, and “tier III sex offender” applicable to provisions
+7 relating to sex offender registration to include certain acts constituting sexual
+8 offense in the third degree; and generally relating to sexual offense in the third
+9 degree.
+10 BY repealing and reenacting, with amendments,
+11 Article – Criminal Law
+12 Section 3–307
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2025 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – Criminal Procedure
+17 Section 11–701(a)
+18 Annotated Code of Maryland
+19 (2025 Replacement Volume)
+20 BY repealing and reenacting, with amendments,
+21 Article – Criminal Procedure
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0230*
+
+2 SENATE BILL 230
+1 Section 11–701(o), (p), and (q)
+2 Annotated Code of Maryland
+3 (2025 Replacement Volume)
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
+6 Article – Criminal Law
+7 3–307.
+8 (a) A person may not:
+9 (1) (i) engage in sexual contact with another without the consent of the
+10 other; and
+11 (ii) 1. employ or display a dangerous weapon, or a physical object
+12 that the victim reasonably believes is a dangerous weapon;
+13 2. suffocate, strangle, disfigure, or inflict serious physical
+14 injury on the victim or another in the course of committing the crime;
+15 3. threaten, or place the victim in fear, that the victim, or an
+16 individual known to the victim, imminently will be subject to death, suffocation,
+17 strangulation, disfigurement, serious physical injury, or kidnapping; [or]
+18 4. commit the crime while aided and abetted by another; OR
+19 5. COMMIT THE CRIME IN CONNECTION WITH A
+20 BURGLARY IN THE FIRST DEGREE UNDER § 6–202 OF THIS ARTICLE, A BURGLARY IN
+21 THE SECOND DEGREE UNDER § 6–203 OF THIS ARTICLE, OR A BURGLARY IN THE
+22 THIRD DEGREE UNDER § 6–204 OF THIS ARTICLE;
+23 (2) engage in sexual contact with another if the victim is a substantially
+24 cognitively impaired individual, a mentally incapacitated individual, or a physically
+25 helpless individual, and the person performing the act knows or reasonably should know
+26 the victim is a substantially cognitively impaired individual, a mentally incapacitated
+27 individual, or a physically helpless individual;
+28 (3) engage in sexual contact with another if the victim is under the age of
+29 14 years, and the person performing the sexual contact is at least 4 years older than the
+30 victim;
+31 (4) engage in a sexual act with another if the victim is 14 or 15 years old,
+32 and the person performing the sexual act is at least 21 years old; or
+
+SENATE BILL 230 3
+1 (5) engage in vaginal intercourse with another if the victim is 14 or 15
+2 years old, and the person performing the act is at least 21 years old.
+3 (b) A person who violates this section is guilty of the felony of sexual offense in
+4 the third degree and on conviction is subject to imprisonment not exceeding 10 years.
+5 Article – Criminal Procedure
+6 11–701.
+7 (a) In this subtitle the following words have the meanings indicated.
+8 (o) “Tier I sex offender” means a person who has been convicted of:
+9 (1) conspiring to commit, attempting to commit, or committing a violation
+10 of § 3–308 of the Criminal Law Article;
+11 (2) conspiring to commit, attempting to commit, or committing a violation
+12 of § 3–902 or § 11–208 of the Criminal Law Article, if the victim is a minor;
+13 (3) CONSPIRING TO COMMIT, ATTEMPTING TO COMMIT, OR
+14 COMMITTING A VIOLATION OF § 3–307(A)(1)(II)5 OF THE CRIMINAL LAW ARTICLE,
+15 IF THE VICTIM IS NOT A MINOR;
+16 [(3)] (4) a crime committed in a federal, military, tribal, or other
+17 jurisdiction that, if committed in this State, would constitute one of the crimes listed in
+18 [item (1) or (2)] ITEMS (1) THROUGH (3) of this subsection;
+19 [(4)] (5) any of the following federal offenses:
+20 (i) misleading domain names on the Internet under 18 U.S.C. §
+21 2252B;
+22 (ii) misleading words or digital images on the Internet under 18
+23 U.S.C. § 2252C;
+24 (iii) engaging in illicit conduct in foreign places under 18 U.S.C. §
+25 2423(c);
+26 (iv) failure to file a factual statement about an alien individual under
+27 18 U.S.C. § 2424;
+28 (v) transmitting information about a minor to further criminal
+29 sexual conduct under 18 U.S.C. § 2425;
+
+4 SENATE BILL 230
+1 (vi) sex trafficking by force, fraud, or coercion under 18 U.S.C. § 1591;
+2 or
+3 (vii) travel with intent to engage in illicit conduct under 18 U.S.C. §
+4 2423(b);
+5 [(5)] (6) any military offense specified by the Secretary of Defense under
+6 Section 115(A)(8)(C)(i) of Public Law 105–119 (codified at 10 U.S.C. § 951 Note) that is
+7 similar to those offenses listed in item [(4)] (5) of this subsection; or
+8 [(6)] (7) a crime in a court of Canada, Great Britain, Australia, New
+9 Zealand, or any other foreign country where the United States Department of State has
+10 determined in its Country Reports on Human Rights Practices that an independent
+11 judiciary generally or vigorously enforced the right to a fair trial during the year in which
+12 the conviction occurred that, if the crime were committed in this State, would constitute
+13 one of the crimes listed in items (1) through [(5)] (6) of this subsection.
+14 (p) “Tier II sex offender” means a person who has been convicted of:
+15 (1) conspiring to commit, attempting to commit, or committing a violation
+16 of § 3–307(a)(4) or (5), § 3–324, § 11–207, or § 11–209 of the Criminal Law Article;
+17 (2) conspiring to commit, attempting to commit, or committing a violation
+18 of § 3–1102, § 3–1103, § 11–303, § 11–305, § 11–306, or § 11–307 of the Criminal Law
+19 Article, if the intended prostitute or victim is a minor;
+20 (3) conspiring to commit, attempting to commit, or committing a violation
+21 of § 3–314 or § 3–603 of the Criminal Law Article, if the victim is a minor who is at least 14
+22 years old;
+23 (4) CONSPIRING TO COMMIT, ATTEMPTING TO COMMIT, OR
+24 COMMITTING A VIOLATION OF § 3–307(A)(1)(II)5 OF THE CRIMINAL LAW ARTICLE,
+25 IF THE VICTIM IS A MINOR WHO IS AT LEAST 13 YEARS OLD;
+26 [(4)] (5) conspiring to commit, attempting to commit, or committing an
+27 offense that would require the person to register as a tier I sex offender after the person
+28 was already registered as a tier I sex offender;
+29 [(5)] (6) a crime that was committed in a federal, military, tribal, or other
+30 jurisdiction that, if committed in this State, would constitute one of the crimes listed in
+31 items (1) through [(3)] (4) of this subsection; or
+32 [(6)] (7) a crime in a court of Canada, Great Britain, Australia, New
+33 Zealand, or any other foreign country where the United States Department of State has
+34 determined in its Country Reports on Human Rights Practices that an independent
+35 judiciary generally or vigorously enforced the right to a fair trial during the year in which
+
+SENATE BILL 230 5
+1 the conviction occurred that, if the crime were committed in this State, would constitute
+2 one of the crimes listed in items (1) through [(3)] (4) of this subsection.
+3 (q) “Tier III sex offender” means a person who has been convicted of:
+4 (1) conspiring to commit, attempting to commit, or committing a violation
+5 of:
+6 (i) § 2–201(a)(4)(viii), (x), or (xi) of the Criminal Law Article;
+7 (ii) § 3–303, § 3–304, [§ 3–307(a)(1) or (2)] § 3–307(A)(1)(II)1
+8 THROUGH 4 AND (2), § 3–309, § 3–310, § 3–311, § 3–312, § 3–315, § 3–323, or § 3–602 of
+9 the Criminal Law Article;
+10 (iii) § 3–502 of the Criminal Law Article, if the victim is a minor;
+11 (iv) § 3–502 of the Criminal Law Article, if the victim is an adult, and
+12 the person has been ordered by the court to register under this subtitle;
+13 (v) the common law offense of sodomy, as that offense existed before
+14 October 1, 2020, or § 3–322 of the Criminal Law Article, as that offense existed before
+15 October 1, 2023, if the offense was committed with force or threat of force; or
+16 (vi) § 3–305 or § 3–306 of the Criminal Law Article as the sections
+17 existed before October 1, 2017;
+18 (2) conspiring to commit, attempting to commit, or committing a violation
+19 of § 3–307(a)(3), § 3–314, § 3–503, or § 3–603 of the Criminal Law Article, if the victim is
+20 under the age of 14 years;
+21 (3) conspiring to commit, attempting to commit, or committing the common
+22 law offense of false imprisonment, if the victim is a minor;
+23 (4) CONSPIRING TO COMMIT, ATTEMPTING TO COMMIT, OR
+24 COMMITTING A VIOLATION OF § 3–307(A)(1)(II)5 OF THE CRIMINAL LAW ARTICLE,
+25 IF THE VICTIM IS A MINOR WHO IS UNDER THE AGE OF 13 YEARS;
+26 [(4)] (5) conspiring to commit, attempting to commit, or committing an
+27 offense that would require the person to register as a tier I or tier II sex offender after the
+28 person was already registered as a tier II sex offender;
+29 [(5)] (6) a crime committed in a federal, military, tribal, or other
+30 jurisdiction that, if committed in this State, would constitute one of the crimes listed in
+31 items (1) through [(3)] (4) of this subsection; or
+
+6 SENATE BILL 230
+1 [(6)] (7) a crime in a court of Canada, Great Britain, Australia, New
+2 Zealand, or any other foreign country where the United States Department of State has
+3 determined in its Country Reports on Human Rights Practices that an independent
+4 judiciary generally or vigorously enforced the right to a fair trial during the year in which
+5 the conviction occurred that, if the crime were committed in this State, would constitute
+6 one of the crimes listed in items (1) through [(3)] (4) of this subsection.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+8 apply only prospectively and may not be applied or interpreted to have any effect on or
+9 application to any acts committed before the effective date of this Act.
+10 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+11 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.

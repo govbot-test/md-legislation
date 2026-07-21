@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled - Department of Information Technology - Statewide Information Technology Master Plan - Reporting
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 581
+P1, S1 (6lr2587)
+ENROLLED BILL
+— Education, Energy, and the Environment/Government, Labor, and Elections —
+Introduced by Senators Jennings, Gallion, Salling, and Hershey
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Department of Information Technology – Statewide Information Technology
+3 Master Plan – Reporting
+4 FOR the purpose of requiring the Department of Information Technology to post the
+5 Statewide Information Technology Master Plan on its website on or before a certain
+6 date; requiring the Secretary of Information Technology to notify the Governor and
+7 certain committees of the General Assembly if the plan is delayed; requiring the
+8 Secretary of Information Technology, or the Secretary’s designee, to provide a certain
+9 annual briefing to the General Assembly; and generally relating to the Statewide
+10 Information Technology Master Plan.
+11 BY repealing and reenacting, with amendments,
+12 Article – State Finance and Procurement
+13 Section 3.5–304
+14 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0581*
+
+2 SENATE BILL 581
+1 (2021 Replacement Volume and 2025 Supplement)
+2 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+3 That the Laws of Maryland read as follows:
+4 Article – State Finance and Procurement
+5 3.5–304.
+6 (A) The Secretary shall develop a statewide information technology master plan.
+7 (B) (1) THE PLAN DEVELOPED UNDER SUBSECTION (A) OF THIS SECTION
+8 SHALL BE POSTED PUBLICLY ON THE DEPARTMENT’S WEBSITE AND, IN
+9 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, SUBMITTED TO
+10 THE GENERAL ASSEMBLY WITHIN 6 MONTHS 1 YEAR AFTER THE DATE THE
+11 GOVERNOR IS INAUGURATED IN THE GOVERNOR’S FIRST EACH GUBERNATORIAL
+12 TERM.
+13 (2) IF THE SECRETARY IS UNABLE TO MEET THE DEADLINE
+14 ESTABLISHED UNDER PARAGRAPH (1) OF THIS SUBSECTION, WITHIN 10 DAYS AFTER
+15 THE MISSED DEADLINE, THE SECRETARY SHALL NOTIFY THE GOVERNOR IN
+16 WRITING AND, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
+17 ARTICLE:
+18 (I) THE SENATE BUDGET AND TAXATION COMMITTEE;
+19 (II) THE SENATE COMMITTEE ON EDUCATION, ENERGY, AND
+20 THE ENVIRONMENT;
+21 (III) THE HOUSE APPROPRIATIONS COMMITTEE;
+22 (IV) THE HOUSE GOVERNMENT, LABOR, AND ELECTIONS
+23 COMMITTEE; AND
+24 (V) THE JOINT COMMITTEE ON CYBERSECURITY,
+25 INFORMATION TECHNOLOGY, AND BIOTECHNOLOGY.
+26 (3) THE NOTICE REQUIRED UNDER PARAGRAPH (2) OF THIS
+27 SUBSECTION SHALL INCLUDE AN EXPLANATION OF WHY THE PLAN IS DELAYED AND
+28 PROVIDE A DATE FOR ITS PUBLICATION, NOT TO EXCEED 3 MONTHS AFTER THE
+29 DEADLINE ESTABLISHED UNDER PARAGRAPH (1) OF THIS SUBSECTION.
+30 (C) EACH YEAR, THE SECRETARY, OR THE SECRETARY’S DESIGNEE, SHALL
+31 PROVIDE A BRIEFING TO THE GENERAL ASSEMBLY ON:
+
+SENATE BILL 581 3
+1 (1) THE IMPLEMENTATION OF THE PLAN;
+2 (2) ANY MATERIAL CHANGES MADE TO THE PLAN; AND
+3 (3) HOW THE STATE INTENDS TO MANAGE AND DEPLOY THE
+4 INITIATIVES INCLUDED IN THE PLAN ACROSS THE EXECUTIVE BRANCH OF STATE
+5 GOVERNMENT.
+6 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+7 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.

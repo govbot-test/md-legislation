@@ -1,0 +1,246 @@
+Title: 
+Official Title: 
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 Session
+SB0323
+Juvenile Court - Jurisdiction, Detention, and Confinement (Youth
+Charging Reform Act)
+Bill Summary
+As introduced, this bill expands the jurisdiction of the juvenile court by repealing and altering
+existing statutory exceptions to the juvenile court’s exclusive original jurisdiction. However, the
+bill establishes that the juvenile court does not have jurisdiction over a child at least age 16 who is
+alleged to have committed any crime punishable by life imprisonment. The bill applies only
+prospectively and does not apply to any criminal prosecution or delinquency proceeding for any
+act committed before the bill’s October 1, 2026 effective date.
+Racial Equity Impact Statement
+The bill would substantially reduce the number of cases heard in the circuit court involving
+juveniles charged as adults. This would significantly reduce the likelihood of harsher punitive
+outcomes and provide restorative and rehabilitative services to all youth charged as adults as
+specified in the bill. Youth of color will be positively impacted to a much greater extent due to
+their large overrepresentation in the group of youth charged as adults.
+Analysis
+The bill repeals the following exclusions from the juvenile court’s jurisdiction:
+ a child at least age 14 alleged to have committed an act that, if committed by an adult,
+would be a crime punishable by life imprisonment;
+SB 323/ Page 1
+
+ a child at least age 16 and alleged to have committed abduction, kidnapping, robbery under
+§ 3-403 of the Criminal Law Article, third-degree sexual offense under 3-307(a)(1) of the
+Criminal Law Article, first-degree assault under § 3-202 of the Criminal Law Article, or
+attempted robbery under § 3-403 of the Criminal Law Article;
+ a child at least age 16 and alleged to have committed a crime in violation of § 5-133
+(possession of a regulated firearm), § 5-134 (sale, rental, or transfer of a regulated firearm),
+§ 5-138 (sale, transfer, or disposal of a stolen regulated firearm), or § 5-203 (possession of
+a short-barreled rifle or short-barreled shotgun) of the Public Safety Article; or
+ a child at least age 16 and alleged to have committed a crime in violation of § 4-203
+(wearing, carrying, or transporting a handgun), § 4-404 (use of a machine gun in a crime
+of violence), § 4-405 (use of a machine gun for an aggressive purpose), § 5-621 (firearm
+in connection to a drug trafficking crime), or § 5-622 (possession of firearm after
+conviction) of the Criminal Law Article.
+Juvenile Court Jurisdiction
+In general, the juvenile court has jurisdiction over children who are alleged to be delinquent, in
+need of supervision (CINS), or who have received a citation for specified violations. The juvenile
+court also has jurisdiction over peace order proceedings in which the respondent is a child.
+The juvenile court has jurisdiction over a child who is at least age 10 and is alleged to have
+committed an act that would, if committed by an adult, be (1) a “crime of violence ” (as defined in
+§ 14-101 of the Criminal Law Article); (2) specified crimes involving handguns and firearms;
+(3) aggravated cruelty to animals; or (4) third-degree sexual offense. Outside of these
+circumstances, the juvenile court does not have jurisdiction over a child younger than age 13 for
+purposes of a delinquency proceeding, and such a child may not be charged with a crime. A child
+of any age may be adjudicated a CINS and subject to the juvenile court’s jurisdiction under
+applicable provisions.
+The juvenile court does not have jurisdiction over (1) a child at least age 14 alleged to have
+committed an act which, if committed by an adult, would be a crime punishable by life
+imprisonment; (2) a child at least age 16 alleged to have violated specified traffic or boating laws;
+(3) a child at least age 16 alleged to have committed specified crimes (violent crimes, firearms
+crimes, etc.,); or (4) a child who previously has been convicted as an adult of a felony and is
+subsequently alleged to have committed an act that would be a felony if committed by an adult.
+These cases are tried in adult criminal court.
+Transfers of Jurisdiction
+However, for items (1), (3), and (4) above, the adult criminal court may transfer the case back to
+juvenile court before trial or before a plea is entered if the court determines from a preponderance
+of the evidence that transfer is in the interest of the child or society and specified conditions are
+met. This is often referred to as “reverse waiver.” A reverse waiver is not permitted in certain
+circumstances, such as when the child was previously convicted in an unrelated case excluded
+SB 323/ Page 2
+
+from the jurisdiction of the juvenile court or whe n the alleged crime is murder in the first degree
+and the accused child was at least age 16 when the alleged crime was committed.
+The juvenile court may waive its jurisdiction (which transfers the case to adult court) with respect
+to a petition alleging delinquency if the petition concerns a child who is at least age 15 or a child
+who is charged with committing an act which, if committed by an adult, would be punishable by
+life imprisonment. The court may waive its jurisdiction only after it has conducted a waiver hearing
+held prior to the adjudicatory hearing and after notice has been given to all parties. The court may
+not waive its jurisdiction over a case unless it determines, from a preponderance of the evidence
+presented at the hearing, that the child is an unfit subject for juvenile rehabilitative measures.
+The juvenile court must consider the following criteria when making a waiver determination:
+(1) the child’s age; (2) the mental and physical condition of the child; (3) the child’s amenability
+to any available treatment; (4) the nature of the offense and the child’s alleged participation in it;
+and (5) public safety. These criteria must be considered individually and in relation to each other
+on the record.
+Juvenile Court Dispositions
+Generally, a disposition hearing is held by the juvenile court to determine whether a child who has
+been adjudicated delinquent needs or requires the court’s guidance, treatment, or rehabilitation
+and, if so, the nature of the guidance, treatment, or rehabilitation. Among other options, and subject
+to specified limitations, a juvenile court may:
+ place the child on probation or under supervision in the child’s own home or in the custody
+or under the guardianship of a relative or other fit person, on terms the court deems
+appropriate, including community detention;
+ commit the child to the custody or guardianship of the Department of Juvenile Services
+(DJS) or other agency on terms that the court considers appropriate, including designation
+of the type of facility where the child is to be accommodated; or
+ order the child or the child’s parents, guardian, or custodian to participate in rehabilitative
+services that are in the best interest of the child and the family.
+Demographics of Youth in the Criminal Justice System
+Nationally, youth of color are overrepresented in the criminal justice system, including within the
+juvenile justice system. According to the U.S. Department of Justice (DOJ), the referral rate for
+delinquency cases involving Black youth in 2021 was about three times the rate for white youth.
+In addition, DOJ indicated that cases were more likely to be petitioned for formal processing for
+Black youth than for white youth.
+In Maryland, notable patterns of racial and ethnic inequities exist statewide among youth charged
+with crimes of violence heard in the juvenile court as well as for youth charged as an adult who
+must appear in circuit court.
+SB 323/ Page 3
+
+Impacts of the Bill
+According to data from the Governor’s Office of Crime Prevention and Policy and DJS, in
+fiscal 2025, 1,008 charges were filed against 839 juveniles who were charged as adults for crimes
+of violence (i.e., exclusionary offenses) by the State. Some youth charged as adults may be housed
+in DJS facilities. During that year, 68% of the juvenile pre-disposition population in DJS facilities
+was youth charged as adults, with an average length of stay of 147 days, compared to 27 days for
+youth charged in the juvenile court. As shown in Exhibit 1, 77% of the 839 juveniles charged as
+adults were Black youth. DJS also reports that 614 youth who were charged as adults during that
+period had their cases transferred to juvenile court (reverse waiver).
+Exhibit 1
+Youth Charged as Adults for Crimes of Violence in Maryland
+Fiscal 2025
+Unknown
+2%
+White Youth
+20%
+Black Youth
+77%
+Source: Governor’s Office of Crime Prevention and Policy
+Youth such as those represented in Exhibit 1 may be sentenced more harshly than young adults
+aged 18-24 in adult court. Several studies have identified that both Black and Hispanic youth
+receive significantly more punitive sentences in adult courts than white juveniles and adult
+defendants.
+DJS annually reports juvenile data regarding the youth who are adjudicated under the juvenile
+court’s jurisdiction. In fiscal 2025, DJS reported a total of 534 youth were adjudicated for crimes
+of violence. Of the 534 youth, 92% are youth of color. DJS does not currently distinguish between
+racial minorities in its reporting, so the data includes all racial minorities (the great proportion of
+which are Black youth) as well as Hispanic youth.
+SB 323/ Page 4
+
+Racial Disproportionality and Disparity Ratios in the Juvenile Court System
+Youth of color are overrepresented in both the circuit court and juvenile court dockets for crimes
+of violence. These distributions provide evidence of substantial disproportionality in the
+proportion of youth of color charged with crimes of violence.
+Specifically, Exhibit 2 shows that there is a disproportionality ratio of 1.61 for charges of crimes
+of violence by youth of color adjudicated in the juvenile court. Since this ratio is greater than 1.00,
+it means that juveniles of color are overrepresented, or more likely to be charged, given their share
+of the overall youth population ages 14 through 17 in the State. The disproportionality ratio of 0.21
+for white youth means that white juveniles are significantly less likely to be charged when
+compared to their proportion of the overall youth population in Maryland ages 14 to 17.
+Exhibit 2 also shows how racial disparity ratios vary for youths charged with crimes of violence
+in the juvenile court. The disparity ratio of 7.78 for youth of color ages 14 to 17 means these youth
+are close to eight times more likely to be charged for crimes of violence than their white peers in
+juvenile court.
+Exhibit 2
+Disproportionality and Disparity Ratios for
+Crimes of Violence Adjudicated in the Juvenile Court
+7.78
+1.61
+1.00
+0.21
+Disproportionality Ratios Disparity Ratios
+White Youth Youth of Color
+Source: Department of Juvenile Services; Department of Legislative Services
+Racial Disproportionality and Disparity Ratios for Juveniles Charged as Adults
+For youth charged as an adult for crimes of violence heard in the circuit court, Exhibit 3 shows
+that the disproportionality ratio for Black youth is 2.48. This means Black youth who are charged
+as adults are significantly overrepresented in cases adjudicated by the circuit court and more likely
+SB 323/ Page 5
+
+to be charged as adults for crimes of violence compared to their share of the overall State
+population. The disproportionality ratio for white youth charged as adults is 0.52, which means
+that white youth ages 14 to 17 are less likely to be charged as adults for these types of crimes.
+Exhibit 3 also shows how disparity ratios vary by race for crimes of violence charges adjudicated
+in the circuit court. The disparity ratio of 4.78 for Black youth ages 14 to 17 means these youth
+are nearly five times as likely to be charged as an adult for a crime of violence than their white
+peers.
+Exhibit 3
+Disproportionality and Disparity Ratios for
+Youth Charged as Adults in the Circuit Court
+6.00
+4.78
+5.00
+4.00
+3.00
+2.48
+2.00
+1.00
+1.00
+0.52
+-
+Disproportionality Ratios Disparity Ratios
+White Youth Black Youth
+Source: Governor’s Office of Crime Prevention and Policy; Department of Legislative Services
+Conclusion
+Youth of color, especially Black youth, are overrepresented and disparately impacted by crimes of
+violence charges whether adjudicated in juvenile court or circuit court. Because youth of color
+charged as adults are overrepresented in the courts to a greater extent than white youth, they could
+experience harsher punitive outcomes as a result. While the bill’s provisions would not directly
+affect charge inequities between racial groups, it will significantly impact youth of color whose
+cases are heard in the circuit court under current law but under the bill’s provisions would instead
+be adjudicated by the juvenile court. Juveniles under jurisdiction of the juvenile court will likely
+have more access to coordinated resources, individualized treatment, and a continuum of care not
+available in the adult system. The bill may also positively affect the general health and welfare of
+all juveniles in the system. Previous studies have shown that transfer to the adult criminal justice
+system typically increases rates of violence among transferred youth.
+SB 323/ Page 6
+
+Information Sources: Department of Juvenile S ervices; Governor’s Office of Crime Prevention
+and Policy; Department of Planning; U.S. Census Bureau; U.S. Department of Justice; Department
+of Legislative Services
+Analysis by: Dr. Jasmón Bailey
+Published: 04/09/2026
+SB 323/ Page 7
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+SB 323/ Page 8

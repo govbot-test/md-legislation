@@ -1,0 +1,166 @@
+Title: 
+Official Title: 
+Source: versions - Third - State Board of Architects - Grounds for Discipline and Anonymous Complaints
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 653
+C3 6lr1849
+CF HB 1180
+By: Senator Kagan
+Introduced and read first time: February 6, 2026
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 25, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 State Board of Architects – Grounds for Discipline – Requirements and
+3 Anonymous Complaints
+4 FOR the purpose of requiring instead of authorizing the State Board of Architects to deny,
+5 reprimand, or suspend a license to practice architecture or a permit to operate a
+6 business through which an individual may practice architecture under certain
+7 circumstances; providing that the Board may deny, reprimand, or suspend a certain
+8 license or permit if a certain individual fraudulently misrepresents that the
+9 individual holds a certain license or permit; requiring the Board to notify certain
+10 county code officials if a license is suspended or revoked; authorizing the Board to
+11 establish an electronic portal to allow the anonymous reporting of a suspected
+12 violation of certain provisions of law relating to the practicing of architecture;
+13 requiring a code official to verify a licensee’s credentials; and generally relating to
+14 the State Board of Architects.
+15 BY repealing and reenacting, without amendments,
+16 Article – Business Occupations and Professions
+17 Section 3–208.1
+18 Annotated Code of Maryland
+19 (2018 Replacement Volume and 2025 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – Business Occupations and Professions
+22 Section 3–311
+23 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0653*
+
+2 SENATE BILL 653
+1 (2018 Replacement Volume and 2025 Supplement)
+2 BY adding to
+3 Article – Business Occupations and Professions
+4 Section 3–502
+5 Annotated Code of Maryland
+6 (2018 Replacement Volume and 2025 Supplement)
+7 BY adding to
+8 Article – Local Government
+9 Section 13–908
+10 Annotated Code of Maryland
+11 (2013 Volume and 2025 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Business Occupations and Professions
+15 3–208.1.
+16 (a) In this section, “code official” means a public official responsible for the review
+17 of building permit documents or the issuance of building permits.
+18 (b) The Board shall:
+19 (1) keep a list of the names and mailing addresses of all licensees;
+20 (2) provide each code official with a copy of the list annually; and
+21 (3) provide any other person who makes a request with a copy of the list at
+22 a reasonable fee set by the Board.
+23 (c) (1) The Board shall provide all licensees and code officials with a periodic
+24 newsletter not less than semiannually on the activities of the Board.
+25 (2) The Board shall publish, on the Department website, the newsletter
+26 jointly with the State Board for Professional Engineers, the State Board of Certified
+27 Interior Designers, the State Board of Examiners of Landscape Architects, and the State
+28 Board for Professional Land Surveyors.
+29 (d) The Board shall distribute:
+30 (1) to each applicant for a license and each code official, a copy of the
+31 Maryland Architects Act and the Board’s rules and regulations;
+
+SENATE BILL 653 3
+1 (2) on each renewal of a license, to each licensee, a copy of any amendments
+2 to the Maryland Architects Act and the Board’s rules and regulations that took effect during
+3 the 2–year period ending on the date of renewal; and
+4 (3) to each code official, a copy of any amendments to the Maryland
+5 Architects Act and the Board’s rules and regulations.
+6 (e) A licensee shall designate the licensee’s mailing address at the time of
+7 issuance of the license and on each renewal of the license.
+8 3–311.
+9 (a) (1) Subject to the hearing provisions of § 3–313 of this subtitle, the Board,
+10 on the affirmative vote of a majority of its authorized membership, [may] SHALL deny a
+11 license to any applicant, reprimand any licensee, or suspend or revoke a license if:
+12 (i) the applicant or licensee fraudulently or deceptively obtains or
+13 renews or attempts to obtain or renew a license or permit for the applicant or licensee or
+14 for another;
+15 (ii) the applicant or licensee fraudulently or deceptively uses a
+16 license, OR MISREPRESENTS THAT THE INDIVIDUAL HOLDS A LICENSE OR A PERMIT;
+17 (iii) the applicant or licensee is guilty of any fraud, gross negligence,
+18 incompetence, or misconduct while practicing architecture;
+19 (iv) the applicant or licensee violates any regulation adopted by the
+20 Board;
+21 (v) the applicant or licensee violates any provision of this title;
+22 (vi) the applicant or licensee aids or abets an unauthorized person to
+23 practice architecture;
+24 (vii) under the laws of the United States or of any state, the applicant
+25 or licensee is convicted of:
+26 1. a felony; or
+27 2. a misdemeanor that is directly related to the fitness and
+28 qualification of the applicant or licensee to practice architecture; or
+29 (viii) the applicant or licensee has had a license to practice
+30 architecture in another state revoked or suspended for grounds that would justify
+31 revocation or suspension of a license under this title, except for failure to pay a license fee.
+
+4 SENATE BILL 653
+1 (2) (i) Instead of or in addition to reprimanding the licensee or
+2 suspending or revoking a license under this subsection, the Board may impose a penalty
+3 not exceeding $5,000 for each violation.
+4 (ii) To determine the amount of the penalty imposed under this
+5 subsection, the Board shall consider:
+6 1. the seriousness of the violation;
+7 2. the harm caused by the violation;
+8 3. the good faith of the licensee; and
+9 4. any history of previous violations by the licensee.
+10 (3) The Board shall pay any penalty collected under this subsection into
+11 the General Fund of the State.
+12 (b) The Board shall consider the following facts in the granting, denial, renewal,
+13 suspension, or revocation of a license or the reprimand of a licensee when an applicant or
+14 licensee is convicted of a felony or misdemeanor described in subsection (a)(1)(vii) of this
+15 section:
+16 (1) the nature of the crime;
+17 (2) the relationship of the crime to the activities authorized by the license;
+18 (3) with respect to a felony, the relevance of the conviction to the fitness
+19 and qualification of the applicant or licensee to practice architecture;
+20 (4) the length of time since the conviction; and
+21 (5) the behavior and activities of the applicant or licensee before and after
+22 the conviction.
+23 (C) IF THE BOARD SUSPENDS OR REVOKES A LICENSE UNDER SUBSECTION
+24 (A) OF THIS SECTION, THE BOARD SHALL NOTIFY EACH COUNTY’S CODE OFFICIAL
+25 OF THE SUSPENSION OR REVOCATION IN ACCORDANCE WITH § 3–208.1 OF THIS
+26 TITLE.
+27 3–502.
+28 THE BOARD MAY ESTABLISH AN ELECTRONIC PORTAL TO ALLOW THE
+29 ANONYMOUS AND CONFIDENTIAL REPORTING OF A SUSPECTED VIOLATION OF §
+30 3–601, § 3–602, § 3–603, OR § 3–604 OF THIS TITLE.
+
+SENATE BILL 653 5
+1 Article – Local Government
+2 13–908.
+3 (A) THIS SECTION APPLIES TO ALL COUNTIES.
+4 (B) WHEN REVIEWING AND APPROVING ARCHITECTURAL DOCUMENTS FOR
+5 THE PURPOSE OF COMPLIANCE WITH A BUILDING CODE ADOPTED UNDER THIS
+6 SUBTITLE, A CODE OFFICIAL SHALL VERIFY THAT THE SEAL AND LICENSE OF THE
+7 ARCHITECT MATCH THE PERSON WHO FILES THE DOCUMENTS WITH THE CODE
+8 OFFICIAL A CODE OFFICIAL THAT REVIEWS ARCHITECTURAL DOCUMENTS FOR
+9 COMPLIANCE WITH A BUILDING CODE ADOPTED UNDER THIS SUBTITLE SHALL
+10 VERIFY WITH THE ARCHITECT WHO SIGNED THE DOCUMENTS THE SEAL AND
+11 LICENSE OF THE ARCHITECT BEFORE A PERMIT IS PROCESSED.
+12 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+13 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.

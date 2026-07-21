@@ -1,0 +1,454 @@
+Title: 
+Official Title: 
+Source: versions - Chapter - Health, Health Insurance, and Health Occupations - Perinatal Behavioral Health Conditions
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+WES MOORE, Governor Ch. 637
+Chapter 637
+(House Bill 1118)
+AN ACT concerning
+Health, Health Insurance, and Health Occupations – Perinatal Mental
+Behavioral Health Conditions
+FOR the purpose of requiring carriers to provide a standing referral to a mental behavioral
+health care provider for a certain period of time; clarifying the application of
+provisions requiring carriers to allow a member to obtain a referral to a provider who
+is not part of the carrier’s provider network when seeking care for a mental health
+condition in certain circumstances; requiring the Maryland Medical Assistance
+Program and certain insurers, nonprofit health service plans, and health
+maintenance organizations to provide coverage for screening for perinatal mental
+behavioral health conditions at certain times; altering and establishing
+requirements related to the identification and development of training programs
+that improve early identification of perinatal mental behavioral health conditions;
+requiring the Maryland Department of Health to establish a perinatal mental health
+condition screening program certain health care providers to screen for perinatal
+behavioral health conditions; requiring the Maryland Department of Health to
+identify certain screening tools and to assist certain health care providers with
+accessing resources and referral services related to screening for perinatal
+behavioral health conditions; requiring certain applicants for the renewal of a health
+occupation license or certificate to provide documentation that the applicant
+completed continuing education credit hours health occupations boards to grant a
+certain number of hours of continuing education credits for each hour of continuing
+education completed by certain individuals on perinatal mental behavioral health
+conditions; and generally relating to perinatal mental behavioral health conditions.
+BY repealing and reenacting, without amendments,
+Article – Health – General
+Section 15–103(a)(1)
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Health – General
+Section 15–103(a)(2)(xxvii) and (xxviii), 20–1801, and 20–1802
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Health – General
+Section 15–103(a)(2)(xxix), 20–1801, and 20–1804
+Annotated Code of Maryland
+– 1 –
+
+Ch. 637 2026 LAWS OF MARYLAND
+(2023 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Insurance
+Section 15–830(a) and (c)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Insurance
+Section 15–830(d)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Insurance
+Section 15–864
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Health – General
+Section 20–1801 and 20–1804
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Health – General
+Section 20–1801 and 20–1802
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Health Occupations
+Section 1–231
+Annotated Code of Maryland
+(2021 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Health – General
+15–103.
+– 2 –
+
+WES MOORE, Governor Ch. 637
+(a) (1) The Secretary shall administer the Maryland Medical Assistance
+Program.
+(2) The Program:
+(xxvii) Beginning on January 1, 2026, if providing coverage for the
+delivery of anesthesia, shall provide coverage for the delivery of anesthesia in accordance
+with § 15–862 of the Insurance Article; [and]
+(xxviii) Beginning on January 1, 2026, shall provide calcium score
+testing in accordance with § 15–863 of the Insurance Article; AND
+(XXIX) BEGINNING ON JANUARY 1, 2027, SHALL PROVIDE
+COVERAGE FOR SCREENING FOR PERINATAL BEHAVIORAL HEALTH CONDITIONS AT
+THE 1–MONTH, 2–MONTH, 4–MONTH, AND 6–MONTH WELL VISITS WITHIN THE FIRST
+YEAR OF THE CHILD’S LIFE, AS DETERMINED APPROPRIATE BY THE TREATING
+HEALTH CARE PROVIDER.
+Article – Insurance
+15–830.
+(a) (1) In this section the following words have the meanings indicated.
+(2) “Carrier” means:
+(i) an insurer that offers health insurance other than long–term
+care insurance or disability insurance;
+(ii) a nonprofit health service plan;
+(iii) a health maintenance organization;
+(iv) a dental plan organization; or
+(v) except for a managed care organization as defined in Title 15,
+Subtitle 1 of the Health – General Article, any other person that provides health benefit
+plans subject to State regulation.
+(3) (i) “Member” means an individual entitled to health care benefits
+under a policy or plan issued or delivered in the State by a carrier.
+(ii) “Member” includes a subscriber.
+(4) “MENTAL HEALTH DISORDER” INCLUDES A PERINATAL MENTAL
+HEALTH CONDITION.
+– 3 –
+
+Ch. 637 2026 LAWS OF MARYLAND
+[(4)] (5) “Nonphysician specialist” means a health care provider:
+(i) 1. who is not a physician;
+2. who is licensed or certified under the Health Occupations
+Article; and
+3. who is certified or trained to treat or provide health care
+services for a specified condition or disease in a manner that is within the scope of the
+license or certification of the health care provider; or
+(ii) that is licensed as a behavioral health program under § 7.5–401
+of the Health – General Article.
+(6) (5) (I) “PERINATAL MENTAL BEHAVIORAL HEALTH
+CONDITION” MEANS A MENTAL BEHAVIORAL HEALTH CONDITION OCCURRING
+DURING PREGNANCY, THE POSTPARTUM PERIOD, OR THE PERINATAL PERIOD OR
+WITHIN 1 YEAR AFTER THE CONCLUSION OF A PREGNANCY, INCLUDING A
+PREGNANCY THAT DOES NOT RESULT IN A LIVE BIRTH.
+(II) “PERINATAL MENTAL BEHAVIORAL HEALTH CONDITION”
+INCLUDES POSTPARTUM DEPRESSION.
+[(5)] (7) (6) (i) “Provider panel” means the providers that contract with a
+carrier either directly or through a subcontracting entity to provide health care services to
+enrollees of the carrier.
+(ii) “Provider panel” does not include an arrangement in which any
+provider may participate solely by contracting with the carrier to provide health care
+services at a discounted fee–for–service rate.
+[(6)] (8) (7) “Specialist” means a physician who is certified or trained to
+practice in a specified field of medicine and who is not designated as a primary care provider
+by the carrier.
+(c) (1) (I) Notwithstanding any other provision of this section, a member
+who is pregnant shall receive a standing referral to an obstetrician, in accordance with this
+subsection.
+[(2)] (II) After the member who is pregnant receives a standing referral to
+an obstetrician, the obstetrician is responsible for the primary management of the
+member’s pregnancy, including the issuance of referrals in accordance with the carrier’s
+policies and procedures, through the postpartum period.
+– 4 –
+
+WES MOORE, Governor Ch. 637
+(2) NOTWITHSTANDING ANY OTHER PROVISION OF THIS SECTION, A
+MEMBER SHALL RECEIVE A STANDING REFERRAL TO A MENTAL HEALTH CARE
+PROVIDER, IN ACCORDANCE WITH THIS SUBSECTION, FOR THE DURATION OF THE
+MEMBER’S PREGNANCY AND 1 YEAR AFTER THE MEMBER GIVES BIRTH TO A
+BEHAVIORAL HEALTH CARE PROVIDER ACTING WITHIN THE SCOPE OF THE
+PROVIDER’S LICENSE, INCLUDING A PSYCHIATRIST, PSYCHOLOGIST, LICENSED
+SOCIAL WORKER–CLINICAL, OR LICENSED PROFESSIONAL COUNSELOR FOR:
+(I) THE BEHAVIORAL HEALTH SERVICES RECOGNIZED BY THE
+UNITED STATES PREVENTIVE SERVICES TASK FORCE AS PREVENTIVE BENEFITS;
+AND
+(II) THE DURATION OF THE MEMBER’S PREGNANCY AND 1 YEAR
+AFTER THE CONCLUSION OF THE PREGNANCY.
+(3) A written treatment plan may not be required when a standing referral
+is to an obstetrician OR MENTAL BEHAVIORAL HEALTH CARE PROVIDER under this
+subsection.
+(d) (1) Each carrier shall establish and implement a procedure by which a
+member may request a referral to a specialist or nonphysician specialist who is not part of
+the carrier’s provider panel in accordance with this subsection.
+(2) The procedure shall provide for a referral to a specialist or nonphysician
+specialist who is not part of the carrier’s provider panel if:
+(i) 1. the member is diagnosed with a condition or disease that
+requires specialized health care services or medical care; and
+2. A. the carrier does not have in its provider panel a
+specialist or nonphysician specialist with the professional training and expertise to treat or
+provide health care services for the condition or disease; or
+B. the carrier cannot provide reasonable access to a specialist
+or nonphysician specialist with the professional training and expertise to treat or provide
+health care services for the condition or disease without unreasonable delay or travel,
+including within the reasonable appointment waiting time and travel distance standards
+established in regulation for mental health and substance use disorder services; or
+(ii) 1. the member is seeking mental health or substance use
+disorder care; and
+2. the carrier cannot provide reasonable access to a specialist
+or nonphysician specialist within the reasonable appointment waiting time and travel
+– 5 –
+
+Ch. 637 2026 LAWS OF MARYLAND
+distance standards established in regulation for mental health and substance use disorder
+services.
+(3) The procedure shall ensure that a request to obtain a referral to a
+specialist or nonphysician specialist who is not part of the carrier’s provider panel is
+addressed in a timely manner that is:
+(i) appropriate for the member’s condition; and
+(ii) in accordance with the timeliness requirements for
+determinations made by private review agents under § 15–10B–06 of this title.
+(4) If a member cannot access mental health or substance use disorder
+services through the referral requirements under paragraphs (2) and (3) of this subsection,
+the procedure shall require the carrier to provide additional assistance to the member in
+identifying and arranging coverage of mental health or substance use disorder services by
+a specialist or nonphysician specialist who is not part of the carrier’s provider panel.
+(5) If a carrier approves a member’s request for a referral made in
+accordance with this subsection, the carrier may not require utilization review other than
+what would be required if the covered benefit were provided by a provider on the carrier’s
+provider panel.
+(6) The procedure may not be used by a carrier as a substitute for
+establishing and maintaining a sufficient provider network in accordance with § 15–112 of
+this title.
+(7) Each carrier shall:
+(i) have a system in place that documents all requests to obtain a
+referral to receive a covered service from a specialist or nonphysician specialist who is not
+part of the carrier’s provider panel;
+(ii) inform members of the procedure to request a referral under
+paragraph (1) of this subsection; and
+(iii) provide the information documented under item (i) of this
+paragraph to the Commissioner on request.
+15–864.
+(A) IN THIS SECTION, “PERINATAL MENTAL BEHAVIORAL HEALTH
+CONDITION” HAS THE MEANING STATED IN § 15–830 OF THIS SUBTITLE.
+(B) THIS SECTION APPLIES TO:
+– 6 –
+
+WES MOORE, Governor Ch. 637
+(1) INSURERS AND NONPROFIT HEALTH SERVICE PLANS THAT
+PROVIDE HOSPITAL, MEDICAL, OR SURGICAL BENEFITS TO INDIVIDUALS OR GROUPS
+ON AN EXPENSE–INCURRED BASIS UNDER HEALTH INSURANCE POLICIES OR
+CONTRACTS THAT ARE ISSUED OR DELIVERED IN THE STATE; AND
+(2) HEALTH MAINTENANCE ORGANIZATIONS THAT PROVIDE
+HOSPITAL, MEDICAL, OR SURGICAL BENEFITS TO INDIVIDUALS OR GROUPS UNDER
+CONTRACTS THAT ARE ISSUED OR DELIVERED IN THE STATE.
+(C) (1) AN ENTITY SUBJECT TO THIS SECTION SHALL PROVIDE
+COVERAGE FOR SCREENING FOR PERINATAL MENTAL BEHAVIORAL HEALTH
+CONDITIONS:
+(I) AT EACH PRENATAL VISIT;
+(II) AT LEAST ONCE WITHIN 6 WEEKS AFTER THE INSURED OR
+ENROLLEE GAVE BIRTH; AND
+(III) AT EACH THE 1–MONTH, 2–MONTH, 4–MONTH, AND
+6–MONTH WELL CHILD VISIT VISITS WITHIN THE FIRST YEAR OF THE CHILD’S LIFE,
+AS DETERMINED APPROPRIATE BY THE TREATING HEALTH CARE PROVIDER.
+(2) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, AN
+ENTITY SUBJECT TO THIS SECTION MAY SUBJECT THE COVERAGE REQUIRED UNDER
+THIS SUBSECTION TO A COPAYMENT OR COINSURANCE REQUIREMENT OR
+DEDUCTIBLE THAT AN ENTITY SUBJECT TO THIS SECTION IMPOSES FOR SIMILAR
+COVERAGES UNDER THE SAME POLICY OR CONTRACT.
+(II) THE COPAYMENT OR COINSURANCE REQUIREMENT OR
+DEDUCTIBLE IMPOSED UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH MAY NOT BE
+GREATER THAN THE COPAYMENT OR COINSURANCE REQUIREMENT OR DEDUCTIBLE
+IMPOSED BY THE ENTITY FOR SIMILAR COVERAGES.
+SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+as follows:
+Article – Health – General
+20–1801.
+(A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+– 7 –
+
+Ch. 637 2026 LAWS OF MARYLAND
+(B) “HEALTH CARE PROVIDER” MEANS A PERSON WHO IS LICENSED,
+CERTIFIED, OR OTHERWISE AUTHORIZED UNDER THE HEALTH OCCUPATIONS
+ARTICLE TO PROVIDE HEALTH OR MEDICAL CARE IN THE ORDINARY COURSE OF
+BUSINESS OR PRACTICE OF A PROFESSION.
+(C) (1) “PERINATAL MENTAL BEHAVIORAL HEALTH CONDITION” MEANS
+A MENTAL BEHAVIORAL HEALTH CONDITION OCCURRING DURING PREGNANCY, THE
+POSTPARTUM PERIOD, OR THE PERINATAL PERIOD OR WITHIN 1 YEAR AFTER THE
+CONCLUSION OF A PREGNANCY, INCLUDING A PREGNANCY THAT DOES NOT RESULT
+IN A LIVE BIRTH.
+(2) “PERINATAL MENTAL BEHAVIORAL HEALTH CONDITION”
+INCLUDES POSTPARTUM DEPRESSION.
+[20–1801.] 20–1802.
+(a) [(1) In this section the following words have the meanings indicated.
+(2) (i) “Health care facility” means a facility or an office where health
+or medical care is provided to patients by a health care provider.
+(ii) “Health care facility” includes a hospital and a limited service
+hospital.
+(3) “Health care provider” means a person who is licensed, certified, or
+otherwise authorized under the Health Occupations Article to provide health or medical
+care in the ordinary course of business or practice of a profession.
+(4) “Hospital” has the meaning stated in § 19–301 of this article.
+(5) “Limited service hospital” has the meaning stated in § 19–301 of this
+article.
+(b)] The Department, in consultation with stakeholders, shall identify up–to–date,
+evidence–based, written information about perinatal [mood and anxiety disorders]
+MENTAL BEHAVIORAL HEALTH CONDITIONS that:
+(1) Has been reviewed by medical experts and national and local
+organizations specializing in maternal mental health;
+(2) Is designed for use by health care providers and pregnant and
+postpartum women and their families;
+– 8 –
+
+WES MOORE, Governor Ch. 637
+(3) Is culturally and linguistically appropriate for potential recipients of
+the information; and
+(4) Includes:
+(i) Information addressing:
+1. The signs and symptoms of perinatal mood and anxiety
+disorders;
+2. Perinatal medication usage;
+3. Risk factors of perinatal [mood and anxiety disorders]
+MENTAL BEHAVIORAL HEALTH CONDITIONS, including perinatal loss and high–risk
+pregnancy;
+4. How and when to screen for symptoms of perinatal [mood
+and anxiety disorders] MENTAL BEHAVIORAL HEALTH CONDITIONS;
+5. Brief intervention strategies; and
+6. Evidence–based psychosocial treatments; and
+(ii) Contact information for national and local maternal mental
+health programs and services.
+[(c)] (B) The Department shall:
+(1) Provide the information identified by the Department under subsection
+[(b)] (A) of this section to [health]:
+(I) HEALTH care facilities and health care providers that provide
+prenatal care, labor and delivery services, and postnatal care to expectant parents; AND
+(II) EACH LOCAL SPECIAL SUPPLEMENTAL NUTRITION
+PROGRAM FOR WOMEN, INFANTS, AND CHILDREN AGENCY IN THE STATE; and
+(2) Make the information identified by the Department under subsection
+[(b)] (A) of this section available on the Department’s website.
+(C) A AT LEAST ONCE DURING EACH TRIMESTER, A HEALTH CARE
+PROVIDER WHO EVALUATES AND MANAGES PREGNANCY OR POSTPARTUM
+PERINATAL CARE WHILE ACTING WITHIN THE SCOPE OF THE HEALTH CARE
+PROVIDER’S LICENSE OR CERTIFICATE SHALL PROVIDE THE TO A PATIENT:
+– 9 –
+
+Ch. 637 2026 LAWS OF MARYLAND
+(1) THE INFORMATION IDENTIFIED BY THE DEPARTMENT UNDER
+SUBSECTION (A) OF THIS SECTION TO A PATIENT AT EACH PRENATAL VISIT; OR
+(2) OTHER APPROPRIATE INFORMATION ON PERINATAL
+BEHAVIORAL HEALTH CONDITIONS.
+(D) A HOSPITAL SHALL PROVIDE THE INFORMATION IDENTIFIED BY THE
+DEPARTMENT UNDER SUBSECTION (A) OF THIS SECTION TO A BIRTHING PARENT ON
+DISCHARGE FROM THE BIRTHING HOSPITAL.
+[20–1802.] 20–1803.
+(a) The Department, in [collaboration with MedChi, The Maryland State Medical
+Society, the Maryland Nurses Association, the Maryland Affiliate of the American College
+of Nurse Midwives, the Maryland Psychological Association, and any other health
+professional association or public health entity in the State identified by the Department]
+CONSULTATION WITH THE STATE BOARD OF PHYSICIANS, THE STATE BOARD OF
+NURSING, AND POSTPARTUM SUPPORT INTERNATIONAL, shall identify and develop
+training programs that improve early identification of [postpartum depression and]
+perinatal [mood and anxiety disorders] MENTAL BEHAVIORAL HEALTH CONDITIONS
+THAT AN INDIVIDUAL MAY USE TO SATISFY THE REQUIREMENTS OF § 1–231 OF THE
+HEALTH OCCUPATIONS ARTICLE.
+(b) The programs IDENTIFIED OR developed under subsection (a) of this section
+shall include continuing medical education programs developed by organizations that are
+accredited by the Accreditation Council for Continuing Medical Education.
+(C) THE DEPARTMENT SHALL PROVIDE A LIST OF TRAINING PROGRAMS
+IDENTIFIED OR DEVELOPED UNDER SUBSECTION (A) OF THIS SECTION ON REQUEST.
+20–1804.
+(A) THE DEPARTMENT, IN CONSULTATION WITH THE STATE BOARD OF
+PHYSICIANS AND THE STATE BOARD OF NURSING, SHALL DEVELOP A PERINATAL
+MENTAL HEALTH CONDITION SCREENING PROGRAM.
+(B) THE PROGRAM DEVELOPED UNDER SUBSECTION (A) OF THIS SECTION
+SHALL REQUIRE A A HEALTH CARE PROVIDER WHO EVALUATES AND MANAGES
+PREGNANCY OR POSTPARTUM CARE WHILE ACTING WITHIN THE SCOPE OF THE
+HEALTH CARE PROVIDER’S LICENSE OR CERTIFICATE TO SHALL CONDUCT A
+SCREENING FOR PERINATAL MENTAL BEHAVIORAL HEALTH CONDITIONS:
+(1) AT EACH PRENATAL VISIT;
+– 10 –
+
+WES MOORE, Governor Ch. 637
+(2) AT LEAST ONCE WITHIN 6 WEEKS AFTER THE INSURED OR
+ENROLLEE GAVE BIRTH; AND
+(3) AT EACH AT THE 1–MONTH, 2–MONTH, 4–MONTH, AND 6–MONTH
+WELL CHILD VISIT VISITS WITHIN THE FIRST YEAR OF THE CHILD’S LIFE, AS
+DETERMINED APPROPRIATE BY THE TREATING HEALTH CARE PROVIDER.
+(C) (B) (1) THE DEPARTMENT SHALL IDENTIFY ACCEPTABLE
+SCREENING TOOLS FOR CONDUCTING THE SCREENINGS REQUIRED UNDER
+SUBSECTION (B) (A) OF THIS SECTION.
+(2) THE SCREENING TOOLS IDENTIFIED UNDER PARAGRAPH (1) OF
+THIS SUBSECTION SHALL BE VALIDATED, ROUTINELY USED, FREE, EASY TO
+ADMINISTER AND SCORE, AND AVAILABLE IN MULTIPLE LANGUAGES.
+(D) (C) THE DEPARTMENT SHALL ASSIST HEALTH CARE PROVIDERS WITH
+ACCESSING RESOURCES AND REFERRAL SERVICES THROUGH MARYLAND
+BEHAVIORAL HEALTH INTEGRATION IN PEDIATRIC PRIMARY CARE, MATERNAL
+HEALTH INNOVATION PROGRAM, AND POSTPARTUM SUPPORT INTERNATIONAL TO
+ASSIST PROVIDERS IN FINDING TIMELY AND EFFECTIVE CARE FOR INDIVIDUALS
+IDENTIFIED AS AT RISK FOR A PERINATAL MENTAL BEHAVIORAL HEALTH
+CONDITION.
+Article – Health Occupations
+1–231.
+(A) THIS SECTION APPLIES ONLY TO AN APPLICANT A LICENSEE OR
+CERTIFICATE HOLDER WHO EVALUATES AND MANAGES PREGNANCY OR
+POSTPARTUM PERINATAL CARE WHILE ACTING WITHIN THE SCOPE OF THE
+APPLICANT’S LICENSE OR CERTIFICATE.
+(B) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, AN
+APPLICANT FOR THE RENEWAL OF A LICENSE OR CERTIFICATE ISSUED BY A HEALTH
+OCCUPATIONS BOARD UNDER THIS ARTICLE WHO INTERACTS WITH THE PERINATAL
+POPULATION SHALL PROVIDE SATISFACTORY DOCUMENTATION WITH THE
+RENEWAL APPLICATION THAT THE APPLICANT HAS COMPLETED AT LEAST TWO
+CONTINUING EDUCATION CREDIT HOURS EACH HEALTH OCCUPATIONS BOARD THAT
+REQUIRES A LICENSEE OR CERTIFICATE HOLDER TO COMPLETE CONTINUING
+EDUCATION AS A CONDITION OF THE RENEWAL OF THE LICENSE OR CERTIFICATE
+SHALL GRANT AT LEAST 2 HOURS OF CONTINUING EDUCATION CREDITS FOR EVERY
+1 HOUR OF CONTINUING EDUCATION COMPLETED BY THE LICENSEE OR
+– 11 –
+
+Ch. 637 2026 LAWS OF MARYLAND
+CERTIFICATE HOLDER ON PERINATAL MENTAL BEHAVIORAL HEALTH CONDITIONS
+IDENTIFIED BY THE DEPARTMENT UNDER § 20–1803 OF THE
+HEALTH – GENERAL ARTICLE.
+(2) THE CONTINUING EDUCATION REQUIREMENT UNDER
+PARAGRAPH (1) OF THIS SUBSECTION SHALL APPLY ONLY TO AN APPLICANT’S FIRST
+LICENSE OR CERTIFICATE RENEWAL AFTER APRIL 1, 2027.
+(C) EACH HEALTH OCCUPATIONS BOARD MAY ADOPT REGULATIONS TO
+CARRY OUT THIS SECTION, INCLUDING REGULATIONS SPECIFYING WHICH
+PROVIDERS ARE SUBJECT TO THE REQUIREMENTS OF THIS SECTION ESTABLISHING
+THE MAXIMUM NUMBER OF CONTINUING EDUCATION CREDITS THAT MAY BE
+GRANTED UNDER THIS SECTION.
+SECTION 3. AND BE IT FURTHER ENACTED, That, on or before December 1,
+2026, the Maryland Health Care Commission shall:
+(1) conduct an analysis in accordance with § 15–1501 of the Insurance
+Article on impact of:
+(i) requiring the Maryland Medical Assistance Program, the State
+Health Plan, and insurers and nonprofit health service plans that provide hospital,
+medical, or surgical benefits to individuals or groups on an expense–incurred basis under
+health insurance policies or contracts that are issued or delivered in the State and health
+maintenance organizations that provide hospital, medical, or surgical benefits to
+individuals or groups under contract that are issued or delivered in the State to provide
+coverage for screening for perinatal mental behavioral health conditions:
+1. at each prenatal visit;
+2. at least once within 6 weeks after the insured or enrollee
+gave birth; and
+3. at each well child visit within the first year of the child’s
+life; and
+(ii) prohibiting the entities described in item (i) of this item from
+subjecting the coverage required under item (i) of this item from:
+1. imposing a copayment or coinsurance requirement or
+deductible that is greater than the copayment or coinsurance requirement or deductible
+imposed by the entity for similar coverages; or
+2. imposing any copayment or coinsurance requirement or
+deductible; and
+– 12 –
+
+WES MOORE, Governor Ch. 637
+(2) report to the Senate Finance Committee and the House Health
+Committee, in accordance with § 2–1257 of the State Government Article, on its findings
+from the analysis conducted in accordance with item (1) of this section.
+SECTION 3. 4. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall
+apply to all policies, contracts, and health benefit plans issued, delivered, or renewed in the
+State on or after January 1, 2027.
+SECTION 4. 5. AND BE IT FURTHER ENACTED, That Section 1 Sections 1 and 2
+of this Act shall take effect January 1, 2027.
+SECTION 6. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take
+effect October 1, 2026.
+SECTION 5. 7. 6. AND BE IT FURTHER ENACTED, That, except as provided in
+Section 4 Sections 5 and 6 Section 5 of this Act, this Act shall take effect October 1, 2026
+July 1, 2026.
+Approved by the Governor, May 26, 2026.
+– 13 –

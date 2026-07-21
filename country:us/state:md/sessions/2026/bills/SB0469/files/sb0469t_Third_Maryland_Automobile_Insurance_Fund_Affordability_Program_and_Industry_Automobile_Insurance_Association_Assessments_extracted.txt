@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - Third - Maryland Automobile Insurance Fund - Affordability Program and Industry Automobile Insurance Association Assessments
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 469
+C4 6lr2708
+CF HB 816
+By: Senator Hayes
+Introduced and read first time: February 2, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted with floor amendments
+Read second time: March 4, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Maryland Automobile Insurance Fund – Affordability – Purpose of Fund and
+3 Authorized Program Program and Industry Automobile Insurance Association
+4 Assessments
+5 FOR the purpose of altering the purpose of the Maryland Automobile Insurance Fund to
+6 specify that the financial security provided by the Fund be provided at rates that are
+7 affordable; altering the cap on a certain assessment allocation percentage required
+8 to be calculated by the Board of Directors of the Industry Automobile Insurance
+9 Association; authorizing the Executive Director of the Fund to establish a certain
+10 affordability program subject to certain requirements and modification under certain
+11 circumstances; and generally relating to the Maryland Automobile Insurance Fund.
+12 BY repealing and reenacting, without amendments,
+13 Article – Insurance
+14 Section 20–101(a), (b), (d), (f), and (g) and 20–507(a), (c), and (e)
+15 Annotated Code of Maryland
+16 (2017 Replacement Volume and 2025 Supplement)
+17 BY repealing and reenacting, with amendments,
+18 Article – Insurance
+19 Section 20–301(a) 20–405(d) and 20–507(b)
+20 Annotated Code of Maryland
+21 (2017 Replacement Volume and 2025 Supplement)
+22 BY adding to
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0469*
+
+2 SENATE BILL 469
+1 Article – Insurance
+2 Section 20–521
+3 Annotated Code of Maryland
+4 (2017 Replacement Volume and 2025 Supplement)
+5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+6 That the Laws of Maryland read as follows:
+7 Article – Insurance
+8 20–101.
+9 (a) In this title the following words have the meanings indicated.
+10 (b) “Association” means the Industry Automobile Insurance Association.
+11 (d) “Board of Directors” means the Board of Directors of the Association.
+12 (f) “Executive Director” means the Executive Director of the Fund.
+13 (g) “Fund” means the Maryland Automobile Insurance Fund.
+14 20–301.
+15 (a) The purpose of the Fund is to provide the financial security required under §
+16 17–103 of the Transportation Article AT AFFORDABLE RATES to those eligible persons
+17 that are unable to obtain it from an Association member.
+18 20–405.
+19 (d) (1) The Board of Directors shall calculate assessment allocation
+20 percentages for commercial auto and private passenger auto divisions by dividing the most
+21 recent certified assessment for commercial auto and private passenger auto divisions by
+22 the total of:
+23 (i) the respective aggregate net direct written premiums obtained
+24 under subsection (c) of this section; and
+25 (ii) the respective total net direct written premiums of the Fund for
+26 the same period.
+27 (2) The assessment allocation percentage for the private passenger auto
+28 division may not exceed [3%] 1%.
+29 20–507.
+
+SENATE BILL 469 3
+1 (a) Subject to the authority of the Commissioner to determine whether rates are
+2 excessive, inadequate, or unfairly discriminatory, as provided in Title 11, Subtitle 2 or
+3 Subtitle 3 of this article, the Executive Director shall determine the premiums to be charged
+4 on policies issued by the Fund.
+5 (b) (1) Except as provided in subsections (c) and (d) of this section, the
+6 provisions of Title 11, Subtitle 3 of this article apply to the determination of premiums by
+7 the Executive Director and the filing of rates with the Commissioner.
+8 (2) Notwithstanding Title 11, Subtitle 2 or Subtitle 3 of this article or any
+9 other provision of this title, the Executive Director may:
+10 (I) base premiums on one or both of the following items:
+11 [(i)] 1. the number of points accumulated by an insured or
+12 applicant for insurance under the point system provided for in Title 16, Subtitle 4 of the
+13 Transportation Article; or
+14 [(ii)] 2. the prior claims experience of an insured or applicant for
+15 insurance; AND
+16 (II) ESTABLISH AN AFFORDABILITY PROGRAM THAT MAY
+17 OTHERWISE BE CONSIDERED INCONSISTENT WITH TITLE 11, SUBTITLE 2 OR
+18 SUBTITLE 3 OF THIS ARTICLE IN ACCORDANCE WITH § 20–521 OF THIS SUBTITLE.
+19 (c) The provisions of Title 11, Subtitle 2 of this article apply to the determination
+20 of premiums by the Executive Director and the filing of rates with the Commissioner:
+21 (1) between July 1, 2025, and December 31, 2025, both inclusive; and
+22 (2) beginning January 1, 2026, if the Fund’s total adjusted capital is less
+23 than the amount required under § 20–306(c) of this title.
+24 (e) In reviewing rates filed by the Fund, the Commissioner shall consider not only
+25 the rating principles under Title 11, Subtitle 2 or Subtitle 3 of this article but also the
+26 statutory purpose of the Fund under § 20–301 of this title.
+27 20–521.
+28 (A) IN THIS SECTION, “AFFORDABILITY PROGRAM” MEANS A PROGRAM
+29 THAT LIMITS THE MAXIMUM PREMIUM RATE FOR A POLICY OF PRIVATE PASSENGER
+30 AUTO INSURANCE ISSUED BY THE FUND IN AN AMOUNT THAT MAY BE INADEQUATE.
+31 (B) SUBJECT TO REVIEW AND APPROVAL BY THE COMMISSIONER, THE
+32 EXECUTIVE DIRECTOR MAY ESTABLISH AN AFFORDABILITY PROGRAM IF:
+
+4 SENATE BILL 469
+1 (1) RATES ARE NOT EXCESSIVE OR UNFAIRLY DISCRIMINATORY; AND
+2 (2) THE AFFORDABILITY PROGRAM DOES NOT RESULT IN:
+3 (I) AN OVERALL INADEQUACY GREATER THAN 20% OF THE
+4 FUND’S NET WRITTEN PREMIUM; OR
+5 (II) AN ASSESSMENT ALLOCATION PERCENTAGE THAT EXCEEDS
+6 THE LIMIT ESTABLISHED IN § 20–405(D) OF THIS TITLE.
+7 (C) AN INDIVIDUAL IS ELIGIBLE FOR A POLICY THROUGH THE
+8 AFFORDABILITY PROGRAM IF THE INDIVIDUAL:
+9 (1) MEETS THE ELIGIBILITY REQUIREMENTS FOR POLICYHOLDERS
+10 UNDER § 20–502 OF THIS SUBTITLE; AND
+11 (2) HAS A HOUSEHOLD INCOME THAT IS NOT MORE THAN 250% OF
+12 THE FEDERAL POVERTY LEVEL.
+13 (D) THE COMMISSIONER MAY REQUIRE THE FUND TO MODIFY THE
+14 AFFORDABILITY PROGRAM IF THE COMMISSIONER DETERMINES THAT:
+15 (1) THE RATES OFFERED THROUGH THE AFFORDABILITY PROGRAM
+16 DO NOT MEET THE REQUIREMENTS OF THIS SECTION;
+17 (2) THE AFFORDABILITY PROGRAM WILL NO LONGER MEET THE
+18 CONDITION ESTABLISHED UNDER SUBSECTION (B)(2)(I) OR (II) OF THIS SECTION;
+19 OR
+20 (3) THE AFFORDABILITY PROGRAM VIOLATES OTHER PROVISIONS OF
+21 THIS ARTICLE TO WHICH THE FUND IS SUBJECT.
+22 (E) THE COMMISSIONER MAY NOT DISAPPROVE OR REQUIRE THE
+23 MODIFICATION OF AN AFFORDABILITY PROGRAM BASED ON THE FUND’S
+24 NONCOMPLIANCE WITH § 20–306 OF THIS TITLE.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+26 October July 1, 2026 2027. It shall remain effective for a period of 2 years and, at the end
+27 of June 30, 2029, this Act, with no further action required by the General Assembly, shall
+28 be abrogated and of no further force and effect.
