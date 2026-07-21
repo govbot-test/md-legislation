@@ -1,0 +1,225 @@
+Title: 
+Official Title: 
+Source: versions - Chapter - Environment - Permit Applications for New Buildings - Notice (Large Buildings for Tomorrow Act)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+WES MOORE, Governor Ch. 412
+Chapter 412
+(House Bill 870)
+AN ACT concerning
+Maryland Building Performance Standards – Energy Conservation
+Requirements
+Environment – Permit Applications for New Buildings – Notice
+(Large Buildings for Tomorrow Act)
+FOR the purpose of requiring the Maryland Department of Labor, on or before a certain
+date and as part of the Maryland Building Performance Standards, to adopt energy
+conservation requirements for the new construction of certain buildings that are
+subject to the Building Energy Performance Standards adopted by the Maryland
+Department of the Environment, beginning on a certain date, a county or
+municipality to provide certain notice to the Department of the Environment of a
+certain permit application for a certain new building within a certain period of time
+after a county or municipality accepts the permit application; and generally relating
+to the Maryland Building Performance Standards and energy conservation
+requirements permit applications for new buildings.
+BY repealing and reenacting, without amendments,
+Article – Environment
+Section 2–1601(a), (b), (c), (d), (e), and (g)
+Annotated Code of Maryland
+(2013 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Environment
+Section 2–1603
+Annotated Code of Maryland
+(2013 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Public Safety
+Section 12–503
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Public Safety
+Section 12–503.1
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+– 1 –
+
+Ch. 412 2026 LAWS OF MARYLAND
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Environment
+2–1603.
+(A) BEGINNING JULY 1, 2026, WITHIN 10 BUSINESS DAYS AFTER A COUNTY
+OR MUNICIPALITY ACCEPTS A PERMIT APPLICATION FOR A NEW BUILDING THAT HAS
+A PROPOSED GROSS FLOOR AREA OF 35,000 SQUARE FEET OR MORE, EXCLUDING
+THE PARKING GARAGE AREA, THE COUNTY OR MUNICIPALITY SHALL PROVIDE
+NOTICE OF THE PERMIT APPLICATION TO THE DEPARTMENT.
+(B) THE NOTICE REQUIRED UNDER SUBSECTION (A) OF THIS SECTION
+SHALL INCLUDE:
+(1) THE ADDRESS OF THE PROPOSED BUILDING;
+(2) THE BUILDING PERMIT APPLICATION NUMBER;
+(3) THE TOTAL SQUARE FOOTAGE OF THE PROPOSED BUILDING;
+(4) THE PROPOSED BUILDING TYPE;
+(5) THE ENERGY SOURCES PLANNED FOR USE IN THE PROPOSED
+BUILDING; AND
+(6) THE CONTACT INFORMATION FOR THE OWNER OF THE PROPOSED
+BUILDING.
+2–1601.
+(a) In this subtitle the following words have the meanings indicated.
+(b) (1) “Agricultural building” means a structure that is used primarily to
+cultivate, manufacture, process, or produce agricultural crops, raw materials, products, or
+commodities.
+(2) “Agricultural building” includes a greenhouse.
+(c) “Building” has the meaning stated in the International Building Code.
+(d) “Commercial building” means a building that is subject to the commercial
+provisions of the International Energy Conservation Code.
+– 2 –
+
+WES MOORE, Governor Ch. 412
+(e) (1) “Covered building” means a building that:
+(i) 1. Is a commercial or multifamily residential building in the
+State; or
+2. Is owned by the State; and
+(ii) Has a gross floor area of 35,000 square feet or more, excluding
+the parking garage area.
+(2) “Covered building” does not include:
+(i) A building designated as a historic property under federal, State,
+or local law;
+(ii) A public or nonpublic elementary or secondary school building;
+(iii) A manufacturing building; or
+(iv) An agricultural building.
+(g) “District energy” means thermal energy generated at one or more central
+facilities that produce hot water, steam, or chilled water that then flows through a network
+of insulated underground pipes to provide hot water, space heating, air conditioning, or
+chilled water to nearby buildings.
+Article – Public Safety
+12–503.
+(a) (1) The Department shall adopt by regulation, as the Maryland Building
+Performance Standards, the International Building Code, including the International
+Energy Conservation Code, with the modifications incorporated by the Department under
+subsection (b) of this section.
+(2) The Department shall adopt each subsequent version of the Standards
+within 18 months after it is issued.
+(b) (1) Before adopting each version of the Standards, the Department shall:
+(i) review the International Building Code to determine whether
+modifications should be incorporated in the Standards;
+(ii) consider changes to the International Building Code to enhance
+energy conservation and efficiency;
+– 3 –
+
+Ch. 412 2026 LAWS OF MARYLAND
+(iii) subject to the provisions of paragraph (2)(ii) of this subsection,
+adopt modifications to the Standards that allow any innovative approach, design,
+equipment, or method of construction that can be demonstrated to offer performance that
+is at least the equivalent to the requirements of:
+1. the International Energy Conservation Code;
+2. Chapter 13, “Energy Efficiency”, of the International
+Building Code; or
+3. Chapter 11, “Energy Efficiency”, of the International
+Residential Code;
+(iv) accept written comments;
+(v) consider any comments received; and
+(vi) hold a public hearing on each proposed modification.
+(2) (i) Except as provided in subparagraph (ii) of this paragraph and [§
+12–510] §§ 12–503.1 AND 12–510 of this subtitle, the Department may not adopt, as part
+of the Standards, a modification of a building code requirement that is more stringent than
+the requirement in the International Building Code.
+(ii) The Department may adopt energy conservation requirements
+that are more stringent than the requirements in the International Energy Conservation
+Code, but may not adopt energy conservation requirements that are less stringent than the
+requirements in the International Energy Conservation Code.
+(c) The Standards apply to each building or structure in the State for which a
+building permit application is received by a local jurisdiction on or after August 1, 1995.
+(d) In addition to the Standards, the Department shall:
+(1) on or before January 1, 2023, adopt by regulation the 2018
+International Green Construction Code; and
+(2) adopt each subsequent version of the Code within 18 months after it is
+issued.
+12–503.1.
+(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+– 4 –
+
+WES MOORE, Governor Ch. 412
+(2) “COVERED BUILDING” HAS THE MEANING STATED IN § 2–1601 OF
+THE ENVIRONMENT ARTICLE.
+(3) “DISTRICT ENERGY” HAS THE MEANING STATED IN § 2–1601 OF
+THE ENVIRONMENT ARTICLE.
+(4) “ENERGY CONSERVATION MEASURE” MEANS A PHYSICAL
+INSTALLATION IN A BUILDING OR A CONNECTION TO A DISTRICT ENERGY SYSTEM
+THAT ENHANCES THE BUILDING’S ENERGY EFFICIENCY OR MINIMIZES THE
+BUILDING’S ENERGY USE OR GREENHOUSE GAS EMISSIONS AT THE LOWEST
+PRACTICABLE COST.
+(5) “FUEL TYPE” MEANS THE COMBINATION OF ENERGY SOURCES
+PLANNED FOR A USE IN A BUILDING, INCLUDING ELECTRICITY AND MIXED FUEL.
+(B) THIS SECTION APPLIES ONLY TO THE NEW CONSTRUCTION OF A
+COVERED BUILDING THAT IS SUBJECT TO PERFORMANCE STANDARDS ESTABLISHED
+BY THE DEPARTMENT OF THE ENVIRONMENT UNDER COMAR 26.28.
+(C) (1) ON OR BEFORE OCTOBER 1, 2028, AS PART OF THE STANDARDS,
+THE DEPARTMENT SHALL ADOPT REGULATIONS ESTABLISHING ENERGY
+CONSERVATION REQUIREMENTS FOR COVERED BUILDINGS IN ACCORDANCE WITH
+THIS SUBSECTION.
+(2) IN DEVELOPING THE REGULATIONS, THE DEPARTMENT SHALL:
+(I) ADOPT PROVISIONS THAT REQUIRE:
+1. PREDICTED ANNUAL NET DIRECT GREENHOUSE GAS
+EMISSIONS OF ZERO; AND
+2. PREDICTED ANNUAL SITE ENERGY USE INTENSITY
+PERFORMANCE TARGETS, AS DETERMINED BY THE DEPARTMENT OF THE
+ENVIRONMENT;
+(II) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION, FOR THE
+PURPOSES OF THE STANDARDS AUTHORIZING COMPLIANCE VIA THE ATTAINMENT
+OF ENERGY EFFICIENCY CREDITS OR ACHIEVEMENT OF PERFORMANCE
+THRESHOLDS, CALCULATE AND ADOPT CREDITS AND PERFORMANCE THRESHOLDS
+IN A MANNER THAT COMPARES SITE ENERGY USE INTENSITY CHANGES FROM
+ENERGY EFFICIENCY MEASURES TO A
+MARYLAND–SPECIFIC BASELINE MODEL THAT DOES NOT VARY ACCORDING TO FUEL
+TYPE OF THE PROPOSED BUILDING FOR RELEVANT BUILDING TYPES;
+– 5 –
+
+Ch. 412 2026 LAWS OF MARYLAND
+(III) IN CONSULTATION WITH THE DEPARTMENT OF THE
+ENVIRONMENT, ADOPT PROVISIONS THAT ALLOW AN OWNER OF A COVERED
+BUILDING TO REQUEST A WAIVER FROM IMPLEMENTING AN ENERGY CONSERVATION
+MEASURE THAT IS NECESSARY TO COMPLY WITH THIS SUBTITLE IF THE MEASURE
+CANNOT BE REASONABLY IMPLEMENTED, INCLUDING DUE TO LACK OF EXISTING
+TECHNOLOGY; AND
+(IV) MAKE BEST EFFORTS TO ALIGN REGULATIONS IMPACTING
+THE NEW CONSTRUCTION WITH REGULATIONS ADOPTED BY THE DEPARTMENT OF
+THE ENVIRONMENT REGARDING EXISTING BUILDINGS.
+(3) CREDITS OR PERFORMANCE THRESHOLDS MAY NOT BE
+CALCULATED IN A MANNER THAT AUTHORIZES BUILDINGS OF A CERTAIN FUEL TYPE
+TO COMPLY WITH THE STANDARDS WHILE ACHIEVING A LOWER ENERGY
+EFFICIENCY ON AVERAGE THAN BUILDINGS OF A DIFFERENT FUEL TYPE.
+(4) (I) A LOCAL JURISDICTION MAY ADOPT ENERGY
+CONSERVATION REQUIREMENTS FOR BUILDINGS THAT ARE MORE STRINGENT THAN
+THE REQUIREMENTS ESTABLISHED BY THE DEPARTMENT UNDER THIS SECTION.
+(II) IF THE LOCAL JURISDICTION WHERE A COVERED BUILDING
+WILL BE LOCATED HAS ADOPTED ENERGY CONSERVATION REQUIREMENTS MORE
+STRINGENT THAN THE REQUIREMENTS ESTABLISHED UNDER THIS SUBSECTION,
+THE BUILDING SHALL BE REQUIRED TO MEET THE MORE STRINGENT
+REQUIREMENTS.
+(5) IF THE VERSION OF THE INTERNATIONAL ENERGY
+CONSERVATION CODE IN EFFECT AT THE TIME A BUILDING PERMIT APPLICATION IS
+RECEIVED REQUIRES THE BUILDING TO MEET ENERGY CONSERVATION
+REQUIREMENTS THAT ARE MORE STRINGENT THAN THE REQUIREMENTS UNDER
+COMAR 26.28 FOR CALENDAR YEAR 2040, THE BUILDING SHALL BE REQUIRED TO
+MEET THE MORE STRINGENT REQUIREMENTS.
+(6) EXCEPT AS PROVIDED IN PARAGRAPH (5) OF THIS SUBSECTION,
+NOTHING IN THIS SUBSECTION MAY BE CONSTRUED TO REQUIRE A BUILDING TO
+MEET ANY REQUIREMENTS THAT ARE MORE STRINGENT THAT THE REQUIREMENTS
+UNDER COMAR 26.28.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+apply only prospectively and may not be applied or interpreted to have any effect on or
+application to any new construction for which a complete commercial or residential service
+request is made to the local utility or a development application or building permit
+– 6 –
+
+WES MOORE, Governor Ch. 412
+application is filed with a county or municipal corporation before the effective date of this
+Act.
+SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, May 12, 2026.
+– 7 –

@@ -1,0 +1,156 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled - Commercial Law - Self-Service Storage Facilities - Alterations
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 438
+I4 (6lr2438)
+ENROLLED BILL
+— Finance/Economic Matters —
+Introduced by Senators Jackson and Hershey
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Commercial Law – Self–Service Storage Facilities – Alterations
+3 FOR the purpose of providing for the use of an electronic rental agreement in the rental of
+4 self–service storage facilities; prohibiting an occupant from using the occupant’s
+5 self–service storage facility beyond the term of a rental agreement after delivery of
+6 a notice of nonrenewal; requiring an operator to give an occupant a certain number
+7 of days after delivery of a notice of nonrenewal to remove the occupant’s personal
+8 property from the self–service storage facility; authorizing an operator to dispose of
+9 an occupant’s remaining personal property after a certain amount of time has
+10 elapsed; requiring an operator to give an occupant notice of intent to dispose of the
+11 occupant’s personal property a certain number of days before the operator disposes
+12 of that personal property; requiring an operator to include a certain statement in a
+13 rental agreement concerning the removal of personal property from the self–service
+14 storage facility after nonrenewal of the rental agreement; and generally relating to
+15 self–service storage facilities.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0438*
+
+2 SENATE BILL 438
+1 BY repealing and reenacting, with amendments,
+2 Article – Commercial Law
+3 Section 18–501 and, 18–502, and 18–503
+4 Annotated Code of Maryland
+5 (2025 Replacement Volume)
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
+8 Article – Commercial Law
+9 18–501.
+10 (a) In this subtitle the following words have the meanings indicated.
+11 (b) “Default” means the failure to perform on time any obligation or duty set forth
+12 in the rental agreement.
+13 (c) “Last known address” means that address or electronic mail address provided
+14 by the occupant in the rental agreement or the address or electronic mail address provided
+15 by the occupant in a subsequent written notice of a change of address.
+16 (d) “Leased space” means the individual storage space at the self–service facility
+17 which is rented to an occupant pursuant to a rental agreement.
+18 (e) “Occupant” means a person, a sublessee, successor, or assign, entitled to the
+19 use of a leased space at a self–service storage facility under a rental agreement.
+20 (f) (1) “Operator” means the owner, operator, lessor, or sublessor of a
+21 self–service storage facility, an agent, or any other person authorized to manage the facility.
+22 (2) “Operator” does not include a warehouseman, unless the operator
+23 issues a warehouse receipt, bill of lading, or other document of title for the personal
+24 property stored.
+25 (g) (1) “Personal property” means movable property, not affixed to land.
+26 (2) “Personal property” includes goods, wares, merchandise, motor
+27 vehicles, watercraft, and household items and furnishings.
+28 (h) “Rental agreement” means any written OR ELECTRONIC agreement that
+29 establishes or modifies the terms, conditions, or rules concerning the use and occupancy of
+30 a self–service storage facility.
+
+SENATE BILL 438 3
+1 (i) “Self–service storage facility” means any real property used for renting or
+2 leasing individual storage spaces in which the occupants themselves customarily store and
+3 remove their own personal property on a “self–service” basis.
+4 (j) “Verified mail” means any method of mailing that is offered by the United
+5 States Postal Service or private delivery service that provides evidence of mailing.
+6 18–502.
+7 (a) An operator may not knowingly permit a leased space at a self–service storage
+8 facility to be used for residential purposes.
+9 (b) An occupant may not use a leased space for residential purposes.
+10 (C) (1) EXCEPT AS PROVIDED IN SUBSECTION SUBSECTIONS (D) AND (E)
+11 OF THIS SECTION, AN OCCUPANT MAY NOT USE A SELF–SERVICE STORAGE FACILITY
+12 BEYOND THE TERM OF A RENTAL AGREEMENT AFTER THE OPERATOR OR OCCUPANT
+13 HAS DELIVERED IN PERSON, BY E–MAIL, OR BY VERIFIED MAIL WRITTEN NOTICE OF
+14 THE NONRENEWAL OF THE RENTAL AGREEMENT.
+15 (2) IF AN OPERATOR NOTIFIES THE OCCUPANT OF THE NONRENEWAL
+16 BY E–MAIL AT THE OCCUPANT’S LAST KNOWN E–MAIL ADDRESS AND DOES NOT
+17 RECEIVE A RESPONSE SENT FROM THE OCCUPANT’S E–MAIL ADDRESS OR A
+18 CONFIRMATION OF DELIVERY WITHIN 5 DAYS AFTER DELIVERY, THE OPERATOR
+19 SHALL PROMPTLY SEND A SECOND NOTICE OF NONRENEWAL TO THE OCCUPANT BY
+20 VERIFIED MAIL TO THE OCCUPANT’S LAST KNOWN POSTAL ADDRESS.
+21 (D) THE OPERATOR SHALL PROVIDE THE OCCUPANT WITH NOT LESS THAN
+22 30 DAYS AFTER DELIVERY OF THE NOTICE OF THE NONRENEWAL OF THE RENTAL
+23 AGREEMENT AND AT LEAST UNTIL THE END OF THE TERM OF THE RENTAL
+24 AGREEMENT TO REMOVE ALL PERSONAL PROPERTY FROM THE SELF–SERVICE
+25 STORAGE FACILITY.
+26 (E) (1) THE OPERATOR MAY NOT DISPOSE OF ANY PERSONAL PROPERTY
+27 REMAINING AT THE SELF–SERVICE STORAGE FACILITY 10 DAYS UNTIL AFTER THE
+28 TIME ALLOTTED UNDER SUBSECTION (D) OF THIS SECTION AND PARAGRAPH (2) OF
+29 THIS SUBSECTION HAS ELAPSED.
+30 (2) AT AFTER THE TIME ALLOTTED UNDER SUBSECTION (D) OF THIS
+31 SECTION HAS ELAPSED AND AT LEAST 10 DAYS BEFORE DISPOSING OF THE
+32 PERSONAL PROPERTY REMAINING AT THE SELF–SERVICE STORAGE FACILITY, THE
+33 OPERATOR SHALL DELIVER IN PERSON, BY E–MAIL, OR BY VERIFIED MAIL A NOTICE
+34 OF INTENT TO DISPOSE OF THE OCCUPANT’S PROPERTY.
+
+4 SENATE BILL 438
+1 (3) IF AN OPERATOR NOTIFIES THE OCCUPANT OF THE INTENT TO
+2 DISPOSE OF THE PROPERTY BY E–MAIL AT THE OCCUPANT’S LAST KNOWN E–MAIL
+3 ADDRESS AND DOES NOT RECEIVE A RESPONSE SENT FROM THE OCCUPANT’S
+4 E–MAIL ADDRESS OR A CONFIRMATION OF DELIVERY WITHIN 5 DAYS AFTER
+5 DELIVERY, THE OPERATOR SHALL PROMPTLY SEND A SECOND NOTICE OF INTENT
+6 TO DISPOSE TO THE OCCUPANT BY VERIFIED MAIL TO THE OCCUPANT’S LAST KNOWN
+7 POSTAL ADDRESS.
+8 18–503.
+9 (a) The operator of a self–service storage facility has a lien on all personal
+10 property stored within each leased space for rent, labor, or other charges, and for expenses
+11 reasonably incurred in its sale, as provided in this subtitle.
+12 (b) The rental agreement shall contain a statement, in bold type, advising the
+13 occupant:
+14 (1) Of the existence of the lien;
+15 (2) That personal property stored in the leased space may be sold to satisfy
+16 the lien if the occupant is in default;
+17 (3) That personal property stored in the leased space may be towed or
+18 removed from the self–service storage facility if:
+19 (i) The personal property is a motor vehicle or watercraft; and
+20 (ii) The occupant is in default for more than 60 days; and
+21 (4) That a sale of personal property stored in the leased space to satisfy the
+22 lien if the occupant is in default shall be advertised:
+23 (i) In a newspaper of general circulation in the jurisdiction where
+24 the sale is to be held;
+25 (ii) By electronic mail; or
+26 (iii) On an online website.; AND
+27 (5) THAT IF THE OPERATOR DOES NOT RENEW THE RENTAL
+28 AGREEMENT, THE OPERATOR SHALL, IN ACCORDANCE WITH § 18–502 OF THIS
+29 SUBTITLE, DELIVER WRITTEN NOTICE ADVISING THE OCCUPANT TO REMOVE ALL
+30 PERSONAL PROPERTY FROM THE SELF–SERVICE STORAGE FACILITY BY THE DATE
+31 STATED IN THE NOTICE.
+
+SENATE BILL 438 5
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+2 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.

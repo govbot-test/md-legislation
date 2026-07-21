@@ -1,0 +1,170 @@
+Title: 
+Official Title: 
+Source: versions - Third - Public Safety - Critical Infrastructure Protection
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 1239
+E4 6lr2743
+CF SB 825
+By: Delegates Kaiser, Kaufman, Qi, Simmons, and Watson
+Introduced and read first time: February 11, 2026
+Assigned to: Government, Labor, and Elections
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 7, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Public Safety – Critical Infrastructure Protection
+3 FOR the purpose of establishing the Critical Infrastructure Protection Branch in the
+4 Maryland Coordination and Analysis Center; requiring the Department of
+5 Emergency Management, in consultation with the Center, to take certain action in
+6 response to an attack on the State’s critical infrastructure; requiring the Department
+7 of Information Technology to allow the owner or operator of critical infrastructure to
+8 become a member of the Maryland Information Sharing and Analysis Center and
+9 provide certain cybersecurity reporting standards to the owner or operator; and
+10 generally relating to critical infrastructure protection.
+11 BY adding to
+12 Article – Public Safety
+13 Section 14–1401 through 14–1404 to be under the new subtitle “Subtitle 14. Critical
+14 Infrastructure”
+15 Annotated Code of Maryland
+16 (2022 Replacement Volume and 2025 Supplement)
+17 Preamble
+18 WHEREAS, It is the government’s responsibility to plan and provide for public
+19 safety, protection of public and private institutions and infrastructure, and continuity of
+20 governance; and
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1239*
+
+2 HOUSE BILL 1239
+1 WHEREAS, Critical infrastructure forms the backbone of Maryland’s economy,
+2 public safety, and quality of life and any disruption to these systems poses a direct threat
+3 to the health, safety, and welfare of Maryland residents and visitors; and
+4 WHEREAS, Effective protection of critical infrastructure requires coordinated
+5 planning, information sharing, and preparedness among State and local governments,
+6 private sector owners and operators, federal partners, and regional stakeholders to identify
+7 vulnerabilities, mitigate risks, and respond rapidly to emerging threats; and
+8 WHEREAS, Maryland’s proximity to the nation’s capital, its many points of entry
+9 into the United States, and the multitude of high–profile targets in the
+10 Washington–Baltimore region require homeland security to be a top priority of the
+11 Governor; now, therefore,
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Public Safety
+15 SUBTITLE 14. CRITICAL INFRASTRUCTURE.
+16 14–1401.
+17 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+18 INDICATED.
+19 (B) “BRANCH” MEANS THE CRITICAL INFRASTRUCTURE PROTECTION
+20 BRANCH.
+21 (C) “CENTER” MEANS THE MARYLAND COORDINATION AND ANALYSIS
+22 CENTER.
+23 (D) (1) “CRITICAL INFRASTRUCTURE” MEANS ASSETS, SYSTEMS, AND
+24 NETWORKS, WHETHER PHYSICAL OR VIRTUAL, CONSIDERED BY THE U.S.
+25 DEPARTMENT OF HOMELAND SECURITY TO BE SO VITAL TO THE UNITED STATES
+26 THAT THEIR INCAPACITATION OR DESTRUCTION WOULD HAVE A DEBILITATING
+27 EFFECT ON ONE OR MORE OF THE FOLLOWING:
+28 (I) SECURITY;
+29 (II) NATIONAL ECONOMIC SECURITY;
+30 (III) NATIONAL PUBLIC HEALTH; OR
+31 (IV) SAFETY.
+
+HOUSE BILL 1239 3
+1 (2) “CRITICAL INFRASTRUCTURE” INCLUDES A HOSPITAL OR
+2 HEALTH CARE FACILITY.
+3 (E) “EXECUTIVE DIRECTOR” MEANS THE EXECUTIVE DIRECTOR OF THE
+4 MARYLAND COORDINATION AND ANALYSIS CENTER.
+5 14–1402.
+6 THERE IS A CRITICAL INFRASTRUCTURE PROTECTION BRANCH IN THE
+7 MARYLAND COORDINATION AND ANALYSIS CENTER.
+8 14–1403.
+9 (A) THE EXECUTIVE DIRECTOR SHALL APPOINT A CHIEF CRITICAL
+10 INFRASTRUCTURE OFFICER FOR THE BRANCH.
+11 (B) THE CHIEF CRITICAL INFRASTRUCTURE OFFICER SHALL:
+12 (1) ADMINISTER AND OPERATE THE BRANCH, IN ACCORDANCE WITH
+13 THIS SUBTITLE;
+14 (2) IMPLEMENT THE PROVISIONS OF THIS SUBTITLE;
+15 (3) DIRECT CRITICAL INFRASTRUCTURE SECURITY EFFORTS ACROSS
+16 THE STATE;
+17 (4) COORDINATE WITH:
+18 (I) THE DIRECTOR OF THE GOVERNOR’S OFFICE OF
+19 HOMELAND SECURITY;
+20 (II) CRITICAL INFRASTRUCTURE INDUSTRY, LOCAL, AND
+21 FEDERAL COUNTERPART ORGANIZATIONS; AND
+22 (III) THE NATIONAL GUARD;
+23 (III) (IV) THE DEPARTMENT OF INFORMATION TECHNOLOGY;
+24 AND
+25 (V) OTHER KEY STAKEHOLDERS IDENTIFIED BY THE CHIEF
+26 CRITICAL INFRASTRUCTURE OFFICER; AND
+
+4 HOUSE BILL 1239
+1 (5) (I) ENGAGE WITH CRITICAL INFRASTRUCTURE PROVIDERS ON
+2 VOLUNTARY CYBER AND PHYSICAL ASSESSMENTS; AND
+3 (II) PROVIDE CRITICAL INFRASTRUCTURE PROVIDERS WITH
+4 BEST PRACTICES FOR SECURITY AND THE RESULTS OF VOLUNTARY ASSESSMENTS;
+5 AND
+6 (6) ADVISE THE GOVERNOR AND THE DIRECTOR OF THE
+7 GOVERNOR’S OFFICE OF HOMELAND SECURITY ON CRITICAL INFRASTRUCTURE
+8 SECURITY ISSUES.
+9 14–1404.
+10 (A) THE BRANCH SHALL:
+11 (1) IDENTIFY CURRENT AND POTENTIAL THREATS TO THE STATE’S
+12 CRITICAL INFRASTRUCTURE;
+13 (2) PRIORITIZE THE STATE’S CRITICAL INFRASTRUCTURE ASSETS BY:
+14 (I) IN COORDINATION WITH THE DEPARTMENT OF
+15 INFORMATION TECHNOLOGY, THE OFFICE OF SECURITY MANAGEMENT, AND THE
+16 PUBLIC SERVICE COMMISSION, DETERMINING THE THREAT LEVEL TO THE STATE’S
+17 CRITICAL INFRASTRUCTURE, FOCUSING ON FOREIGN ACTORS, DOMESTIC ACTORS,
+18 AND INSIDER THREATS;
+19 (II) DETERMINING THE IMPACTS TO THE STATE’S CRITICAL
+20 INFRASTRUCTURE IN THE CASE OF A CYBERSECURITY OR PHYSICAL ATTACK;
+21 (III) UNDERSTANDING THE EFFECT THAT THE COMPROMISE OF
+22 ONE ASPECT OF CRITICAL INFRASTRUCTURE MAY HAVE ON ANOTHER ASPECT OF
+23 CRITICAL INFRASTRUCTURE;
+24 (IV) ENGAGING AND COORDINATING WITH CRITICAL
+25 INFRASTRUCTURE SECTOR LEADERS, MILITARY LEADERS, AND OTHER RELEVANT
+26 STAKEHOLDERS;
+27 (V) IDENTIFYING THE STATE’S CRITICAL INFRASTRUCTURE
+28 OPERATIONAL TECHNOLOGY SYSTEMS; AND
+29 (VI) STRENGTHENING SUPPORTING THE STATE’S CRITICAL
+30 INFRASTRUCTURE PRIORITY ASSETS BY:
+
+HOUSE BILL 1239 5
+1 1. CONNECTING PRIORITY ASSETS TO RESOURCES FOR
+2 CONDUCTING INTEGRATED ASSESSMENTS OF THE STATE’S CRITICAL
+3 INFRASTRUCTURE TO DETECT AND DOCUMENT VULNERABILITIES AND
+4 OPERATIONAL DEPENDENCIES;
+5 2. SUPPORTING IDENTIFYING TECHNICAL AND GRANT
+6 OPPORTUNITIES TO SUPPORT REMEDIATION OF IDENTIFIED VULNERABILITIES; AND
+7 3. ASSISTING IN THE COMPLETION OF VULNERABILITY
+8 REMEDIATION; AND ESTABLISHING MECHANISMS TO SUPPORT SHARED LEARNING
+9 AND BEST PRACTICES BETWEEN DIFFERENT CRITICAL INFRASTRUCTURE ASSETS.
+10 4. IMPLEMENTING OPERATIONAL TECHNOLOGY
+11 ARCHITECTURE MONITORING THROUGH THE MARYLAND INFORMATION SHARING
+12 AND ANALYSIS CENTER.
+13 (B) THE DEPARTMENT OF EMERGENCY MANAGEMENT, IN CONSULTATION
+14 WITH THE CENTER, SHALL COORDINATE CONSEQUENCE MANAGEMENT EFFORTS
+15 AND RESPOND TO CASCADING IMPACTS OF AN ATTACK ON THE STATE’S CRITICAL
+16 INFRASTRUCTURE, IN ACCORDANCE WITH THIS TITLE.
+17 (C) THE DEPARTMENT OF INFORMATION TECHNOLOGY, IN CONSULTATION
+18 WITH THE CENTER, SHALL:
+19 (1) ALLOW THE OWNER OR OPERATOR OF CRITICAL
+20 INFRASTRUCTURE TO BECOME A MEMBER OF THE MARYLAND INFORMATION
+21 SHARING AND ANALYSIS CENTER; AND
+22 (2) PROVIDE UP–TO–DATE CYBERSECURITY REPORTING STANDARDS
+23 TO AN OWNER OR OPERATOR OF CRITICAL INFRASTRUCTURE; AND
+24 (3) DIRECT CRITICAL INFRASTRUCTURE CYBERSECURITY EFFORTS
+25 ACROSS THE UNITS OF STATE GOVERNMENT.
+26 SECTION 2. AND BE IT FURTHER ENACTED, That it is the intent of the General
+27 Assembly that nothing in this Act shall be interpreted to supersede, abrogate, modify, limit,
+28 or otherwise affect any cybersecurity regulation, requirement, or authority that is currently
+29 in effect and that applies to critical infrastructure entities that are under federal, State, or
+30 sector–specific regulatory frameworks.
+31 SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+32 July 1, 2026.
