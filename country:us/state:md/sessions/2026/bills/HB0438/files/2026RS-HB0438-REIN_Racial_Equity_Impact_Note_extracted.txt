@@ -1,0 +1,170 @@
+Title: 
+Official Title: 
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 Session
+HB0438
+Adult Prison School Board Model Development Committee
+Bill Summary
+This bill establishes the Adult Prison School Board Model Development Committee to develop a
+comprehensive plan, with specified elements, for a school board system to oversee correctional
+education (CE) for individuals subject to the criminal and juvenile justice systems, as well as a
+fiscal mapping project examining the needs to sustain the school board system. The committee is
+required to submit an interim report of findings and recommendations to the Governor and General
+Assembly on or before June 1, 2027, and a final report on June 1, 2028.
+Racial Equity Impact Statement
+The bill’s establishment of the Adult Prison School Board Model Development Committee may
+be beneficial to incarcerated individuals in their preparations for reentry into the community to the
+extent that the committee addresses existing challenges in the State’s correctional education
+system. Any programmatic improvements as a result of the committee’s comprehensive plan are
+likely to benefit Black inmates to the greatest extent, since they are overrepresented in the
+incarcerated population. The findings and recommendations of the committee may also aid in
+future equity analyses of correctional and vocational education programs.
+Analysis
+The bill specifies that the comprehensive plan submitted by the committee must include
+(1) educational standards aligned with educational standards for school systems in the State and
+(2) a recommendation for the school board to be made up of individuals who are residents of the
+State and who represent various State agencies and professional backgrounds as specified.
+HB 438/ Page 1
+
+The fiscal mapping project must examine the need s and options necessary to sustain a school board
+system, including (1) examining funding sources; (2) determining funding levels required for
+specified purposes; and (3) developing an independent relationship with the Department of Budget
+and Management to establish and manage capital and operating budgets.
+In the correctional space, an adult school board refers to the governing or oversight body for adult
+education programs offered within prisons or jails, though the exact title can vary by state or
+system. Its role is similar to school governance in the grade school context, as it provides
+curriculum oversight, instructional standards, accreditation, and program administration for adult
+learners who are incarcerated.
+Prison Education Delivery Reform Commission
+Chapters 945 and 946 of 2024 and Chapter 110 of 2025 established and subsequently extended the
+Prison Education Delivery Reform Commission, which must (1) convene an advisory stakeholder
+group, as specified; (2) work with the advisory stakeholder group, including conducting roundtable
+discussion forums seeking public input in all geographic regions of the State; (3) develop an
+education-focused statewide framework of policies to invest in strategies to increase public safety
+and reduce recidivism of adult offenders, using a data-driven approach; (4) research best practices
+for the primary, secondary, postsecondary, and career or vocational education of those who are
+subject to the criminal and juvenile justice systems; (5) identify measures to mitigate risk factors
+that contribute to adult contact with the criminal justice system, with a focus on education;
+(6) evaluate current workforce programs and their effectiveness, as specified; and (7) request
+technical assistance from specified organizations. The commission completed an interim report of
+its work thus far in June 2025. Under Chapter 110, the commission must submit an interim report
+of its findings and recommendations to the General Assembly by June 1, 2028, and a final report
+by January 1, 2029.
+In October 2025, the commission approved a set of recommendations for 2026, including
+(1) creating a plan for a school board system to oversee adult correctional education that includes
+various State agencies and (2) conducting a fiscal mapping project for correctional education with
+an interdepartmental strategic plan.
+Current Educational Infrastructure in the State Carceral System
+Many individuals entering the criminal justice system have gaps in their academic and
+occupational skills that put them at higher risk for recidivism post-release. To mitigate the
+consequences of these knowledge and experiential gaps, Maryland has several entities and
+programs housed within the Maryland Department of Labor (MD Labor) and the Department of
+Public Safety and Correctional Services (DPSCS) aimed at providing educational and vocational
+opportunities to incarcerated individuals, such as (1) the Correctional Education Council (CEC);
+(2) the Division of Workforce Development and Adult Learning (DWDAL); (3) the Programs,
+Treatment, and Re-entry Services Unit; (4) the CE program; (5) the CE Transition program; and
+(6) Maryland Correctional Enterprises (MCE).
+HB 438/ Page 2
+
+Correctional Education Council
+CEC, under the joint jurisdiction of MD Labor and DPSCS, works to develop and recommend
+educational and workforce training programs for adult correctional institutions in the State and
+must meet the special needs and circumstances of the inmates in each correctional institution.
+Maryland Department of Labor
+DWDAL oversees correctional education throughout Maryland’s State correctional facilities.
+DWDAL’s Office of Correctional Education (OCE) provides career training opportunities
+including training in automotive skills, barbering, construction, and welding. Similar to other
+programs, all occupational courses lead to a portable, industry-recognized credential that
+contributes to an incarcerated individual’s employability after release. In addition to occupational
+programming, OCE oversees academic and transitional courses throughout Maryland’s
+correctional facilities. Academic programming includes GED preparation ahead of earning a
+Maryland high school diploma and English as a second language courses. Prior to release,
+incarcerated individuals may complete transitional courses to ease their reentry into society. These
+offerings include classes in parenting, employment readiness, financial literacy, and life skills.
+The CE program offers occupational programs with nationally recognized certifications, societal
+reentry programs, and operates full-time and satellite libraries across the State that host reentry
+workshops and support professional learning. The CE Transition Program, which provides
+transition services and classes for students preparing to return to the community, achieved 1,387
+professional certificate completions statewide in fiscal 2025.
+In fiscal 2025, MD Labor served 3,110 correctional education students, 330 earned a high school
+diploma, and 383 earned an adult basic literacy certificate. GED pass rates were 84% in
+fiscal 2025, about 10% above the national average.
+Department of Public Safety and Correctional Services
+The Programs, Treatment, and Re-entry Services Unit provides comprehensive pre-release
+planning for those currently under DPSCS supervision by offering professional and occupational
+training as well as postsecondary educational programs in partnership with various colleges and
+universities statewide. In 2024, DPSCS signed a memorandum of understanding with the
+University System of Maryland to offer courses and classes to incarcerated individuals seeking a
+bachelor’s degree and credit-based certificates. DPSCS has collaborated with the following
+colleges and universities to provide educational programs to incarcerated students: Anne Arundel
+Community College; Bowie State University; Georgetown University; Goucher College;
+Hagerstown Community College; Towson University; and the University of Baltimore.
+MCE describes itself as the Division of Correction’s self-funded vocational training arm, and
+provides structured training and work programming designed to improve participants’
+employability upon release, enhance safety and security, and produce quality goods and services
+while remaining financially self-supporting. In fiscal 2024, 1,150 participants worked in 26
+MCE-operated business units across 10 State correctional facilities, which offered training through
+production activities such as furniture manufacturing and restoration, printing and graphics,
+textiles and sewing, license plate production, computer-aided design, warehousing, and
+HB 438/ Page 3
+
+distribution. These operations allow participan ts to develop both technical trade skills and
+workplace “soft skills” while producing goods primarily for government and nonprofit customers.
+Challenges in Correctional Education
+The Prison Education Delivery Reform Commission’s 2025 report identifies numerous structural
+weaknesses in Maryland’s correctional education system that limit participation, effectiveness, and
+post-release outcomes. Key issues include declining enrollment and completion rates, limited
+incentives and resources for education programs, staffing and facility constraints, and poor
+coordination and data tracking across agencies. The report also highlights barriers that prevent
+incarcerated individuals from translating education and training into employment after release.
+Conclusion
+While the bill’s establishment of the committee does not have measurable equity impacts, the
+comprehensive plan that would be developed by the committee for the State’s correctional
+education infrastructure could have future impacts on incarcerated individuals. To the extent that
+the committee’s plan is implemented and it improves the correctional education infrastructure and
+outcomes in the State, Black inmates would likely benefit to the greatest extent due to their
+overrepresentation in the carceral system.
+Information Sources: Department of Public Safety and Correctional Services; Maryland
+Department of Labor; Prison Education Delivery Reform Commission; Department of Legislative
+Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 03/11/2026
+HB 438/ Page 4
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. Maryland remains one of the
+most racially and ethnically diverse states in the nation and is ranked as the fourth most diverse
+state by the U.S. Census Bureau’s Diversity Index. While no single racial or ethnic group
+constitutes a majority, racial minorities as a group constitute a majority of the State’s population.
+This diversity underpins the analytical framework used in racial equity impact notes (REIN),
+which seek to identify potential disparities that may be exacerbated or created by proposed criminal
+justice legislation.
+Methodology Update
+Beginning in 2025, REIN will use annual population estimates from the U.S. Census Bureau’s
+Population Estimates Program (PEP) as the basis for disparity and disproportionality calculations.
+This methodological update reflects best practices in demographic analysis, as PEP data
+incorporate births, deaths, and migration to provide the most current population counts between
+censuses. Although the estimates are more temporally responsive, they do not materially change
+the proportionate racial and ethnic breakdown observed in the 2020 census. Instead, they
+conservatively reflect population changes since 2020 while preserving the overall demographic
+composition of the State.
+U.S. and Maryland Population by Race and Ethnicity
+2024 Population Estimates
+0.05% 0.20%
+Maryland 46% 30% 13% 7% 3%
+0.70% 0.20%
+United States 58% 13% 20% 7% 3%
+White Black
+Hispanic or Latino Asian
+American Indian or Alaska Native Native Hawaiian or Other Pacific Islander
+Two or More Races
+Note: Percentages do not total 100% due to rounding.
+Source: U.S. Census Bureau
+HB 438/ Page 5

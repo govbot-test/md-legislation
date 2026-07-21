@@ -1,0 +1,560 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled - State Retirement and Pension System - Administration and Clarification
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 734
+P6 (6lr2465)
+ENROLLED BILL
+— Budget and Taxation/Appropriations —
+Introduced by Senator Lewis Young (Chair, Joint Committee on Pensions)
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 State Retirement and Pension System – Eligible Governmental Units
+3 Administration and Clarification
+4 FOR the purpose of altering the dates by which certain local employers are required to pay
+5 the State Retirement and Pension System a certain amount of the charges certified to
+6 the local employer; clarifying the interest rate a county government is charged for
+7 certain delinquent amounts owed to the State Retirement and Pension System;
+8 clarifying that an eligible governmental unit of the Employees’ Pension System, the
+9 Law Enforcement Officers’ Pension System, and the Correctional Officers’
+10 Retirement System that satisfies certain requirements is eligible to participate in a
+11 certain system of the State Retirement and Pension System only if all employees of
+12 the eligible governmental unit participate in the certain system; clarifying the list of
+13 positions that have immediate vesting rights in the State Retirement and Pension
+14 System; clarifying that certain documentation by an eligible governmental unit
+15 electing to participate in the Employees’ Pension System, the Law Enforcement
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0734*
+
+2 SENATE BILL 734
+1 Officers’ Pension System, or the Correctional Officers’ Retirement System shall
+2 include certain properly completed election forms; and generally relating to
+3 participating governmental units in the State Retirement and Pension System.
+4 BY repealing and reenacting, with amendments,
+5 Article – State Personnel and Pensions
+6 Section 31–109, 31–109.1, 31–2A–03, 31–2A–03.1, 31–2B–03, and 31–2B–03.1
+7 Section 21–309.1, 21–309.2, 23–204(a), 29–304(20) through (23), 31–109, 31–109.1,
+8 31–111, 31–2A–03, 31–2A–03.1, 31–2A–04, 31–2B–03, 31–2B–03.1, and
+9 31–2B–04
+10 Annotated Code of Maryland
+11 (2024 Replacement Volume and 2025 Supplement)
+12 BY repealing
+13 Article – State Personnel and Pensions
+14 Section 29–304(19)
+15 Annotated Code of Maryland
+16 (2024 Replacement Volume and 2025 Supplement)
+17 BY repealing and reenacting, without amendments,
+18 Article – State Personnel and Pensions
+19 Section 31–101(a), (d), and (e), 31–102, 31–2A–01(a) and (c), 31–2A–02, 31–2B–01(a)
+20 and (c), and 31–2B–02
+21 Annotated Code of Maryland
+22 (2024 Replacement Volume and 2025 Supplement)
+23 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+24 That the Laws of Maryland read as follows:
+25 Article – State Personnel and Pensions
+26 21–309.1.
+27 (a) (1) In this section the following words have the meanings indicated.
+28 (2) “Local employee” has the meaning stated in § 21–304 of this subtitle.
+29 (3) “Local employer” has the meaning stated in § 21–304 of this subtitle.
+30 (b) On or before December 1 of each year, the Board of Trustees shall determine
+31 and certify the amounts payable by each local employer under § 21–304(b)(4) of this subtitle
+32 for the next fiscal year.
+33 (c) On or before October 1, January 1, [April 1] APRIL 16, and June 1 of each
+34 fiscal year, each local employer shall pay to the Board of Trustees 25% of the amount of the
+35 charges certified to the local employer by the Board of Trustees under subsection (b) of this
+36 section.
+
+SENATE BILL 734 3
+1 (d) (1) The Secretary of the Board of Trustees may allow a grace period not to
+2 exceed 10 calendar days for payment of the amounts certified under this section.
+3 (2) If a local employer does not pay the amounts required under this section
+4 within the time required, on notification by the Secretary of the Board of Trustees that a
+5 delinquency exists, the State Comptroller immediately:
+6 (i) shall withhold the delinquent amounts, including interest on the
+7 delinquent amounts at a rate of 7.75% a year, from any installment due the local employer
+8 from the General State School Fund; and
+9 (ii) shall pay to the Board of Trustees the delinquent amounts,
+10 including interest, withheld under this paragraph.
+11 (e) On receipt of the payments from each local employer or the State Comptroller,
+12 the Board of Trustees shall credit these amounts to the accumulation fund of the
+13 appropriate State system.
+14 21–309.2.
+15 (a) For purposes of making determinations under this section, the Teachers’
+16 Pension System and the Teachers’ Retirement System shall be considered together as one
+17 State system.
+18 (b) (1) For fiscal year 2026, each county government shall pay to the Board of
+19 Trustees on or before January 1, 2026, the amount specified for that county government
+20 under § 21–304(b)(6) of this subtitle.
+21 (2) Beginning in fiscal year 2027, each county government shall pay to the
+22 Board of Trustees on or before each September 1 the amount specified for that county
+23 government under § 21–304(b)(6) of this subtitle.
+24 (c) (1) The Secretary of the Board of Trustees may allow a grace period not to
+25 exceed 10 calendar days for payment of the amounts certified under this section.
+26 (2) If a county government does not pay the amounts required under this
+27 section within the time required, on notification by the Secretary of the Board of Trustees
+28 that a delinquency exists, the State Comptroller immediately shall:
+29 (i) exercise the right of setoff against any money due or coming due
+30 to the delinquent county government; and
+31 (ii) pay to the Board of Trustees the delinquent amounts, including
+32 interest ON THE DELINQUENT AMOUNTS AT A RATE OF 7.75% A YEAR, withheld in
+33 accordance with this paragraph.
+
+4 SENATE BILL 734
+1 (d) On receipt of the payments from each county government or the State
+2 Comptroller, the Board of Trustees shall credit the amounts received to the accumulation
+3 funds of the Teachers’ Pension System and the Teachers’ Retirement System.
+4 23–204.
+5 (a) (1) Membership in the Employees’ Pension System is optional for an
+6 individual who is:
+7 (i) an official, elected or appointed for a fixed term;
+8 (ii) an employee of the Governor’s office;
+9 (iii) an employee of the Senate or House of Delegates;
+10 (iv) a member of the Prince George’s County Board of License
+11 Commissioners;
+12 (v) an employee of Dorchester County who is not and has not
+13 previously been a member of the county’s general pension and retirement program or any
+14 other plan sponsored by Dorchester County; or
+15 (vi) except as provided in subsection (g) of this section, an employee
+16 of a participating governmental unit who is employed by the participating governmental
+17 unit before the effective date of participation and who remains an employee of the
+18 participating governmental unit through the effective date of participation.
+19 (2) An individual described under paragraph (1)(i) through (v) of this
+20 subsection who elects to join the Employees’ Pension System shall make the election at
+21 commencement of employment by filing a written application with the Board of Trustees
+22 on a form that the Board of Trustees provides.
+23 (3) An individual described under paragraph (1)(vi) of this subsection who
+24 elects to join the Employees’ Pension System shall make the election prior to the effective
+25 date of participation by filing a written application with the Board of Trustees on a form
+26 that the Board of Trustees provides.
+27 (4) An election to join the Employees’ Pension System under this
+28 subsection is a one–time, irrevocable election.
+29 (5) (I) THIS PARAGRAPH APPLIES TO AN INDIVIDUAL DESCRIBED
+30 UNDER PARAGRAPH (1)(I) THROUGH (V) OF THIS SUBSECTION.
+31 (II) If an election to join the Employees’ Pension System is not
+32 received by the Board of Trustees within the period of time described in paragraph (2) or
+
+SENATE BILL 734 5
+1 (3) of this subsection, the individual may not elect to join the Employees’ Pension System
+2 while employed in that position.
+3 (6) (I) THIS PARAGRAPH APPLIES TO AN INDIVIDUAL DESCRIBED
+4 UNDER PARAGRAPH (1)(VI) OF THIS SUBSECTION.
+5 (II) IF AN ELECTION TO JOIN THE EMPLOYEES’ PENSION
+6 SYSTEM IS NOT RECEIVED BY THE BOARD OF TRUSTEES WITHIN THE PERIOD OF
+7 TIME DESCRIBED IN PARAGRAPH (3) OF THIS SUBSECTION, THE INDIVIDUAL IS
+8 DEEMED TO HAVE ELECTED TO PARTICIPATE IN THE EMPLOYEES’ PENSION SYSTEM
+9 WHILE EMPLOYED IN THAT POSITION.
+10 [(6)] (7) The Board of Trustees shall adopt regulations to implement this
+11 subsection.
+12 29–304.
+13 An individual shall have immediate vesting rights on taking office in the State system
+14 in which the individual is a member if the individual is the:
+15 [(19) Special Secretary of the Office of Small, Minority, and Women Business
+16 Affairs;]
+17 [(20)] (19) Special Secretary of the Governor’s Office for Children;
+18 [(21)] (20) State Archivist;
+19 [(22)] (21) State Prosecutor of the State Prosecutor’s Office; or
+20 [(23)] (22) State Superintendent of Schools.
+21 31–101.
+22 (a) In this subtitle the following words have the meanings indicated.
+23 (d) “Eligible governmental unit” means a governmental unit that is eligible to
+24 participate in the employees’ systems under § 31–102 of this subtitle.
+25 (e) (1) “Employee” means a regular employee of an eligible governmental unit.
+26 (2) “Employee” includes an officer of an eligible governmental unit.
+27 (3) “Employee” does not include a contractual, emergency, or temporary
+28 extra employee.
+29 31–102.
+
+6 SENATE BILL 734
+1 Subject to § 22–202(b) of this article and § 31–109 of this subtitle, the governmental
+2 units that are eligible to participate in the employees’ systems are:
+3 (1) a political subdivision of the State, including:
+4 (i) a county;
+5 (ii) a municipal corporation; and
+6 (iii) a special taxing area; and
+7 (2) the following governmental units:
+8 (i) an agency on aging, as designated by the legislative body of the
+9 agency on aging;
+10 (ii) the Allegany County Transit Authority;
+11 (iii) subject to § 31–104 of this subtitle, the Baltimore Metropolitan
+12 Council;
+13 (iv) a board or commission created by an Act of the General Assembly
+14 for public purpose and not for the profit of a private person;
+15 (v) subject to § 31–105 of this subtitle, the Canal Place Preservation
+16 and Development Authority;
+17 (vi) the Chesapeake Bay Commission;
+18 (vii) a cooperative library commission;
+19 (viii) subject to § 31–103 of this subtitle, a community action agency,
+20 as designated by the legislative body of the community action agency;
+21 (ix) a fire department that receives any of its funds from or through
+22 a county, municipal corporation, special taxing area, or other political subdivision of the
+23 State;
+24 (x) the Health Planning Council of Appalachia;
+25 (xi) the Howard County Economic Development Authority;
+26 (xii) the Interstate Commission on the Potomac River Basin;
+27 (xiii) the Lower Shore Private Industry Council, Inc.;
+
+SENATE BILL 734 7
+1 (xiv) the Maryland Environmental Service;
+2 (xv) subject to § 31–106 of this subtitle, the Maryland Stadium
+3 Authority;
+4 (xvi) a public library association or organization;
+5 (xvii) subject to § 31–106.2 of this subtitle, the St. Mary’s Nursing
+6 Center, Inc.;
+7 (xviii) the Tri–County Council for Western Maryland, Inc.;
+8 (xix) the Tri–County Council for Southern Maryland;
+9 (xx) subject to § 31–107 of this subtitle, the University of Maryland
+10 Medical System Corporation;
+11 (xxi) the Upper Potomac River Commission;
+12 (xxii) subject to § 31–106.1 of this subtitle, the Maryland African
+13 American Museum Corporation;
+14 (xxiii) the Garrett County Office for Children, Youth and Families;
+15 (xxiv) the Somerset County Economic Development Commission; and
+16 (xxv) the Dorchester County Sanitary Commission.
+17 31–109.
+18 (a) Subject to subsection (b) of this section, the legislative body of an eligible
+19 governmental unit may approve participation by its employees in the Employees’ Pension
+20 System if:
+21 (1) the legislative body adopts a resolution in the form prescribed by the
+22 Board of Trustees; and
+23 (2) the eligible governmental unit operates a local plan, only if:
+24 (i) at least 60% of the members of the local plan petition to become
+25 members of the Employees’ Pension System;
+26 (ii) the eligible governmental unit satisfies the requirements in
+27 subsection (b) of this section; and
+
+8 SENATE BILL 734
+1 (iii) the legislative body approves participation of the eligible
+2 governmental unit in the Employees’ Pension System as though the local plan were not in
+3 operation.
+4 (b) An eligible governmental unit that operates a local plan may approve
+5 participation by its employees in the Employees’ Pension System only if:
+6 (1) the local plan of the eligible governmental unit requires member
+7 contributions at the same rate as the member contribution rate that would be applicable to
+8 employees of the eligible governmental unit in the Employees’ Pension System; or
+9 (2) the eligible governmental unit:
+10 (i) does not provide for the employer pickup of member
+11 contributions to the local plan within the meaning of § 414(h)(2) of the Internal Revenue
+12 Code; and
+13 (ii) certifies that it will not become an approved employer under §
+14 21–313 of this article on or after the effective date of participation.
+15 (c) (1) If an eligible governmental unit does not satisfy the requirements
+16 under subsection (b) of this section, the eligible governmental unit may submit a request to
+17 the Board of Trustees to participate in the Employees’ Pension System.
+18 (2) The Board of Trustees shall consider a request made under paragraph
+19 (1) of this subsection and determine whether any legislation is necessary to allow the
+20 eligible governmental unit to participate in the Employees’ Pension System.
+21 (3) The Board of Trustees shall make recommendations to the Joint
+22 Committee on Pensions regarding any legislation that it determines is necessary to allow
+23 the eligible governmental unit to participate in the Employees’ Pension System.
+24 (D) AN ELIGIBLE GOVERNMENTAL UNIT THAT SATISFIES THE
+25 REQUIREMENTS UNDER SUBSECTION (B) OF THIS SECTION IS ELIGIBLE TO
+26 PARTICIPATE IN THE EMPLOYEES’ PENSION SYSTEM ONLY IF THE ELIGIBLE
+27 GOVERNMENTAL UNIT MAKES ENROLLMENT AVAILABLE TO ALL ELIGIBLE
+28 EMPLOYEES OF THE ELIGIBLE GOVERNMENTAL UNIT PARTICIPATE IN THE
+29 EMPLOYEES’ PENSION SYSTEM.
+30 31–109.1.
+31 (a) Except as provided in subsection (b) of this section, the effective date of
+32 participation for an eligible governmental unit is July 1 of the year following the fiscal year
+33 in which the eligible governmental unit elects to participate in the Employees’ Pension
+34 System.
+
+SENATE BILL 734 9
+1 (b) (1) If an eligible governmental unit does not provide the Board of Trustees
+2 with the necessary documentation to join the Employees’ Pension System on or before the
+3 effective date for the eligible governmental unit, the effective date shall be postponed until
+4 July 1 of the second year following the fiscal year in which the eligible governmental unit
+5 elects to participate in the Employees’ Pension System.
+6 (2) (I) AN ELIGIBLE GOVERNMENTAL UNIT SHALL CERTIFY TO THE
+7 STATE RETIREMENT AGENCY THAT THE ELIGIBLE GOVERNMENTAL UNIT PROVIDED
+8 EACH OF ITS EMPLOYEES WHO ARE ELIGIBLE TO ELECT OPTIONAL MEMBERSHIP IN
+9 THE EMPLOYEES’ PENSION SYSTEM WITH THE NECESSARY DOCUMENTATION
+10 REQUIRED BY THE STATE RETIREMENT AGENCY TO MAKE THAT ELECTION.
+11 (II) FOR ANY EMPLOYEE OF AN ELIGIBLE GOVERNMENTAL UNIT
+12 WHO IS ELIGIBLE FOR OPTIONAL MEMBERSHIP TO ELECT TO PARTICIPATE IN THE
+13 EMPLOYEES’ PENSION SYSTEM, THE NECESSARY DOCUMENTATION UNDER
+14 SUBPARAGRAPH (I) OF THIS PARAGRAPH PARAGRAPH (1) OF THIS SUBSECTION
+15 SHALL INCLUDE PROPERLY COMPLETED ELECTION FORMS INDICATING EITHER
+16 THAT:
+17 1. (I) THE EMPLOYEE INTENDS TO PARTICIPATE IN THE
+18 EMPLOYEES’ PENSION SYSTEM; OR
+19 2. (II) THE EMPLOYEE INTENDS TO OPT OUT OF
+20 PARTICIPATION IN THE EMPLOYEES’ PENSION SYSTEM.
+21 (3) (I) AN EMPLOYEE THAT DOES NOT COMPLETE THE NECESSARY
+22 DOCUMENTATION INDICATING WHETHER THE EMPLOYEE INTENDS TO PARTICIPATE
+23 IN OR OPT OUT OF PARTICIPATION IN THE EMPLOYEES’ PENSION SYSTEM IS
+24 DEEMED TO HAVE ELECTED TO PARTICIPATE IN THE EMPLOYEES’ PENSION
+25 SYSTEM.
+26 (II) THE APPOINTING AUTHORITY FOR THE EMPLOYEE OF THE
+27 ELIGIBLE GOVERNMENTAL UNIT THAT DOES NOT COMPLETE THE NECESSARY
+28 DOCUMENTATION INDICATING WHETHER THE EMPLOYEE INTENDS TO PARTICIPATE
+29 IN OR OPT OUT OF PARTICIPATION IN THE EMPLOYEES’ PENSION SYSTEM SHALL
+30 EXECUTE AND SUBMIT AN AFFIDAVIT TO THE STATE RETIREMENT AGENCY
+31 STATING:
+32 1. THE NAME OF THE EMPLOYEE WHO DID NOT SUBMIT
+33 THE NECESSARY DOCUMENTATION; AND
+34 2. THE DATE WHEN THE APPOINTING AUTHORITY
+35 PROVIDED THE EMPLOYEE WITH THE ELECTION FORM TO BE COMPLETED.
+
+10 SENATE BILL 734
+1 (III) AN AFFIDAVIT UNDER THIS PARAGRAPH IS NECESSARY
+2 DOCUMENTATION THAT AN ELIGIBLE GOVERNMENTAL UNIT IS REQUIRED TO
+3 SUBMIT UNDER THIS SUBSECTION TO JOIN THE EMPLOYEES’ PENSION SYSTEM.
+4 31–111.
+5 (a) Except as provided in subsection (b) of this section and §§ 31–111.1, 31–111.3,
+6 31–111.4, 31–111.5, 31–111.6, 31–111.7, and 31–111.8 of this subtitle, if an employee of a
+7 participating governmental unit joins the Employees’ Pension System on the effective date,
+8 the employee [is entitled to] SHALL RECEIVE 100% service credit for THE EMPLOYEE’S
+9 employment with the participating governmental unit before the effective date.
+10 (b) If an employee of the Baltimore Metropolitan Council elects to become a
+11 member of the Employees’ Retirement System or the Employees’ Pension System, the
+12 employee may not receive credit for service from July 1, 1992, to the effective date unless
+13 the employee pays to the Board of Trustees the amount of the member contributions the
+14 employee would have made during that period, plus regular interest.
+15 31–2A–01.
+16 (a) In this subtitle the following words have the meanings indicated.
+17 (c) “Eligible governmental unit” means a governmental unit that is eligible to
+18 participate in the Law Enforcement Officers’ Pension System under § 31–2A–02 of this
+19 subtitle.
+20 31–2A–02.
+21 Subject to § 31–2A–03 of this subtitle, the governmental units that are eligible to
+22 participate in the Law Enforcement Officers’ Pension System are:
+23 (1) counties; and
+24 (2) municipal corporations.
+25 31–2A–03.
+26 (a) Subject to subsection (b) of this section, the legislative body of an eligible
+27 governmental unit may approve participation by its law enforcement officers, firefighters,
+28 or emergency medical technicians in the Law Enforcement Officers’ Pension System if:
+29 (1) the legislative body adopts a resolution in the form prescribed by the
+30 Board of Trustees; and
+31 (2) the eligible governmental unit participates in a State system or
+32 operates a local plan, only if:
+
+SENATE BILL 734 11
+1 (i) at least 60% of the law enforcement officers, firefighters, or
+2 emergency medical technicians of the eligible governmental unit petition to become
+3 members of the Law Enforcement Officers’ Pension System;
+4 (ii) the eligible governmental unit satisfies the requirements in
+5 subsection (b) of this section; and
+6 (iii) the legislative body approves participation of its law enforcement
+7 officers, firefighters, or emergency medical technicians in lieu of participation in the State
+8 system or local plan.
+9 (b) An eligible governmental unit that operates a local plan or participates in a
+10 State system may approve participation of its law enforcement officers, firefighters, or
+11 emergency medical technicians in the Law Enforcement Officers’ Pension System only if:
+12 (1) the State system or local plan of the eligible governmental unit requires
+13 member contributions at the same rate as the member contribution rate that would be
+14 applicable to the law enforcement officers, firefighters, or emergency medical technicians
+15 of the eligible governmental unit in the Law Enforcement Officers’ Pension System; or
+16 (2) the eligible governmental unit:
+17 (i) does not provide for the employer pickup of member
+18 contributions to the State system or local plan within the meaning of § 414(h)(2) of the
+19 Internal Revenue Code; and
+20 (ii) certifies that it will not become an approved employer under §
+21 21–313 of this article on or after the effective date of participation.
+22 (c) (1) If an eligible governmental unit does not satisfy the requirements
+23 under subsection (b) of this section, the eligible governmental unit may submit a request to
+24 the Board of Trustees to participate in the Law Enforcement Officers’ Pension System.
+25 (2) The Board of Trustees shall consider a request made under paragraph
+26 (1) of this subsection and determine whether any legislation is necessary to allow the
+27 eligible governmental unit to participate in the Law Enforcement Officers’ Pension System.
+28 (3) The Board of Trustees shall make recommendations to the Joint
+29 Committee on Pensions regarding any legislation that it determines is necessary to allow
+30 the eligible governmental unit to participate in the Law Enforcement Officers’ Pension
+31 System.
+32 (D) AN ELIGIBLE GOVERNMENTAL UNIT THAT SATISFIES THE
+33 REQUIREMENTS UNDER SUBSECTION (B) OF THIS SECTION IS ELIGIBLE TO
+34 PARTICIPATE IN THE LAW ENFORCEMENT OFFICERS’ PENSION SYSTEM ONLY IF
+
+12 SENATE BILL 734
+1 THE ELIGIBLE GOVERNMENTAL UNIT MAKES ENROLLMENT AVAILABLE TO ALL
+2 ELIGIBLE LAW ENFORCEMENT OFFICERS, FIREFIGHTERS, OR EMERGENCY MEDICAL
+3 TECHNICIANS OF THE ELIGIBLE GOVERNMENTAL UNIT PARTICIPATE IN THE LAW
+4 ENFORCEMENT OFFICERS’ PENSION SYSTEM.
+5 31–2A–03.1.
+6 (a) Except as provided in subsection (b) of this section, the effective date of
+7 participation for an eligible governmental unit is July 1 of the year following the fiscal year
+8 in which the eligible governmental unit elects to participate in the Law Enforcement
+9 Officers’ Pension System.
+10 (b) (1) If an eligible governmental unit does not provide the Board of Trustees
+11 with the necessary documentation to join the Law Enforcement Officers’ Pension System
+12 on or before the effective date for the eligible governmental unit, the effective date shall be
+13 postponed until July 1 of the second year following the fiscal year in which the eligible
+14 governmental unit elects to participate in the Law Enforcement Officers’ Pension System.
+15 (2) (I) AN ELIGIBLE GOVERNMENTAL UNIT SHALL CERTIFY TO THE
+16 STATE RETIREMENT AGENCY THAT THE ELIGIBLE GOVERNMENTAL UNIT PROVIDED
+17 EACH OF ITS EMPLOYEES WHO ARE ELIGIBLE TO ELECT OPTIONAL MEMBERSHIP IN
+18 THE LAW ENFORCEMENT OFFICERS’ PENSION SYSTEM WITH THE NECESSARY
+19 DOCUMENTATION REQUIRED BY THE STATE RETIREMENT AGENCY TO MAKE THAT
+20 ELECTION.
+21 (II) FOR ANY EMPLOYEE OF AN ELIGIBLE GOVERNMENTAL UNIT
+22 WHO IS ELIGIBLE FOR OPTIONAL MEMBERSHIP TO ELECT TO PARTICIPATE IN THE
+23 LAW ENFORCEMENT OFFICERS’ PENSION SYSTEM, THE NECESSARY
+24 DOCUMENTATION UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH PARAGRAPH (1)
+25 OF THIS SUBSECTION SHALL INCLUDE PROPERLY COMPLETED ELECTION FORMS
+26 INDICATING EITHER THAT:
+27 1. (I) THE EMPLOYEE INTENDS TO PARTICIPATE IN THE
+28 LAW ENFORCEMENT OFFICERS’ PENSION SYSTEM; OR
+29 2. (II) THE EMPLOYEE INTENDS TO OPT OUT OF
+30 PARTICIPATION IN THE LAW ENFORCEMENT OFFICERS’ PENSION SYSTEM.
+31 (3) (I) AN EMPLOYEE THAT DOES NOT COMPLETE THE NECESSARY
+32 DOCUMENTATION INDICATING WHETHER THE EMPLOYEE INTENDS TO PARTICIPATE
+33 IN OR OPT OUT OF PARTICIPATION IN THE LAW ENFORCEMENT OFFICERS’ PENSION
+34 SYSTEM IS DEEMED TO HAVE ELECTED TO PARTICIPATE IN THE LAW ENFORCEMENT
+35 OFFICERS’ PENSION SYSTEM.
+
+SENATE BILL 734 13
+1 (II) THE APPOINTING AUTHORITY FOR THE EMPLOYEE OF THE
+2 ELIGIBLE GOVERNMENTAL UNIT THAT DOES NOT COMPLETE THE NECESSARY
+3 DOCUMENTATION INDICATING WHETHER THE EMPLOYEE INTENDS TO PARTICIPATE
+4 IN OR OPT OUT OF PARTICIPATION IN THE LAW ENFORCEMENT OFFICERS’ PENSION
+5 SYSTEM SHALL EXECUTE AND SUBMIT AN AFFIDAVIT TO THE STATE RETIREMENT
+6 AGENCY STATING:
+7 1. THE NAME OF THE EMPLOYEE WHO DID NOT SUBMIT
+8 THE NECESSARY DOCUMENTATION; AND
+9 2. THE DATE WHEN THE APPOINTING AUTHORITY
+10 PROVIDED THE EMPLOYEE WITH THE ELECTION FORM TO BE COMPLETED.
+11 (III) AN AFFIDAVIT UNDER THIS PARAGRAPH IS NECESSARY
+12 DOCUMENTATION THAT AN ELIGIBLE GOVERNMENTAL UNIT IS REQUIRED TO
+13 SUBMIT UNDER THIS SUBSECTION TO JOIN THE LAW ENFORCEMENT OFFICERS’
+14 PENSION SYSTEM.
+15 31–2A–04.
+16 If a law enforcement officer, firefighter, emergency medical technician, or paramedic
+17 joins the Law Enforcement Officers’ Pension System on the effective date, the member [is
+18 entitled to] SHALL RECEIVE 100% SERVICE credit for THE MEMBER’S employment with
+19 the participating governmental unit before the effective date.
+20 31–2B–01.
+21 (a) In this subtitle the following words have the meanings indicated.
+22 (c) “Eligible governmental unit” means a governmental unit that is eligible to
+23 participate in the Correctional Officers’ Retirement System under § 31–2B–02 of this
+24 subtitle.
+25 31–2B–02.
+26 Subject to § 31–2B–03 of this subtitle, the governmental units that are eligible to
+27 participate in the Correctional Officers’ Retirement System are:
+28 (1) counties; and
+29 (2) municipal corporations.
+30 31–2B–03.
+
+14 SENATE BILL 734
+1 (a) Subject to subsection (b) of this section, the legislative body of an eligible
+2 governmental unit may approve participation by its local detention center officers in the
+3 Correctional Officers’ Retirement System if:
+4 (1) the legislative body adopts a resolution in the form prescribed by the
+5 Board of Trustees; and
+6 (2) the eligible governmental unit participates in a State system or
+7 operates a local plan for its local detention center officers, only if:
+8 (i) at least 60% of the local detention center officers of the eligible
+9 governmental unit petition to become members of the Correctional Officers’ Retirement
+10 System;
+11 (ii) the eligible governmental unit satisfies the requirements in
+12 subsection (b) of this section; and
+13 (iii) the legislative body approves participation of its local detention
+14 center officers in lieu of participation in the State system or local plan.
+15 (b) An eligible governmental unit that operates a local plan or participates in a
+16 State system may approve participation of its local detention center officers in the
+17 Correctional Officers’ Retirement System only if:
+18 (1) the State system or local plan of the eligible governmental unit requires
+19 member contributions at the same rate as the member contribution rate that would be
+20 applicable to the local detention center officers of the eligible governmental unit in the
+21 Correctional Officers’ Retirement System; or
+22 (2) the eligible governmental unit:
+23 (i) does not provide for the employer pickup of member
+24 contributions to the State system or local plan within the meaning of § 414(h)(2) of the
+25 Internal Revenue Code; and
+26 (ii) certifies that it will not become an approved employer under §
+27 21–313 of this article on or after the effective date of participation.
+28 (c) (1) If an eligible governmental unit does not satisfy the requirements
+29 under subsection (b) of this section, the eligible governmental unit may submit a request to
+30 the Board of Trustees to participate in the Correctional Officers’ Retirement System.
+31 (2) The Board of Trustees shall consider a request made under paragraph
+32 (1) of this subsection and determine whether any legislation is necessary to allow the
+33 eligible governmental unit to participate in the Correctional Officers’ Retirement System.
+
+SENATE BILL 734 15
+1 (3) The Board of Trustees shall make recommendations to the Joint
+2 Committee on Pensions regarding any legislation that it determines is necessary to allow
+3 the eligible governmental unit to participate in the Correctional Officers’ Retirement
+4 System.
+5 (D) AN ELIGIBLE GOVERNMENTAL UNIT THAT SATISFIES THE
+6 REQUIREMENTS UNDER SUBSECTION (B) OF THIS SECTION IS ELIGIBLE TO
+7 PARTICIPATE IN THE CORRECTIONAL OFFICERS’ RETIREMENT SYSTEM ONLY IF
+8 THE ELIGIBLE GOVERNMENTAL UNIT MAKES ENROLLMENT AVAILABLE TO ALL
+9 ELIGIBLE LOCAL DETENTION CENTER OFFICERS OF THE ELIGIBLE GOVERNMENTAL
+10 UNIT PARTICIPATE IN THE CORRECTIONAL OFFICERS’ RETIREMENT SYSTEM.
+11 31–2B–03.1.
+12 (a) Except as provided in subsection (b) of this section, the effective date of
+13 participation for an eligible governmental unit is July 1 of the year following the fiscal year
+14 in which the eligible governmental unit elects to participate in the Correctional Officers’
+15 Retirement System.
+16 (b) (1) If an eligible governmental unit does not provide the Board of Trustees
+17 with the necessary documentation to join the Correctional Officers’ Retirement System on
+18 or before the effective date for the eligible governmental unit, the effective date shall be
+19 postponed until July 1 of the second year following the fiscal year in which the eligible
+20 governmental unit elects to participate in the Correctional Officers’ Retirement System.
+21 (2) (I) AN ELIGIBLE GOVERNMENTAL UNIT SHALL CERTIFY TO THE
+22 STATE RETIREMENT AGENCY THAT THE ELIGIBLE GOVERNMENTAL UNIT PROVIDED
+23 EACH OF ITS EMPLOYEES WHO ARE ELIGIBLE TO ELECT OPTIONAL MEMBERSHIP IN
+24 THE CORRECTIONAL OFFICERS’ RETIREMENT SYSTEM WITH THE NECESSARY
+25 DOCUMENTATION REQUIRED BY THE STATE RETIREMENT AGENCY TO MAKE THAT
+26 ELECTION.
+27 (II) FOR ANY EMPLOYEE OF AN ELIGIBLE GOVERNMENTAL UNIT
+28 WHO IS ELIGIBLE FOR OPTIONAL MEMBERSHIP TO ELECT TO PARTICIPATE IN THE
+29 CORRECTIONAL OFFICERS’ RETIREMENT SYSTEM, THE NECESSARY
+30 DOCUMENTATION UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH PARAGRAPH (1)
+31 OF THIS SUBSECTION SHALL INCLUDE PROPERLY COMPLETED ELECTION FORMS
+32 INDICATING EITHER THAT:
+33 1. (I) THE EMPLOYEE INTENDS TO PARTICIPATE IN THE
+34 CORRECTIONAL OFFICERS’ RETIREMENT SYSTEM; OR
+35 2. (II) THE EMPLOYEE INTENDS TO OPT OUT OF
+36 PARTICIPATION IN THE CORRECTIONAL OFFICERS’ RETIREMENT SYSTEM.
+
+16 SENATE BILL 734
+1 (3) (I) AN EMPLOYEE THAT DOES NOT COMPLETE THE NECESSARY
+2 DOCUMENTATION INDICATING WHETHER THE EMPLOYEE INTENDS TO PARTICIPATE
+3 IN OR OPT OUT OF PARTICIPATION IN THE CORRECTIONAL OFFICERS’ RETIREMENT
+4 SYSTEM IS DEEMED TO HAVE ELECTED TO PARTICIPATE IN THE CORRECTIONAL
+5 OFFICERS’ RETIREMENT SYSTEM.
+6 (II) THE APPOINTING AUTHORITY FOR THE EMPLOYEE OF THE
+7 ELIGIBLE GOVERNMENTAL UNIT THAT DOES NOT COMPLETE THE NECESSARY
+8 DOCUMENTATION INDICATING WHETHER THE EMPLOYEE INTENDS TO PARTICIPATE
+9 IN OR OPT OUT OF PARTICIPATION IN THE CORRECTIONAL OFFICERS’ RETIREMENT
+10 SYSTEM SHALL EXECUTE AND SUBMIT AN AFFIDAVIT TO THE STATE RETIREMENT
+11 AGENCY STATING:
+12 1. THE NAME OF THE EMPLOYEE WHO DID NOT SUBMIT
+13 THE NECESSARY DOCUMENTATION; AND
+14 2. THE DATE WHEN THE APPOINTING AUTHORITY
+15 PROVIDED THE EMPLOYEE WITH THE ELECTION FORM TO BE COMPLETED.
+16 (III) AN AFFIDAVIT UNDER THIS PARAGRAPH IS NECESSARY
+17 DOCUMENTATION THAT AN ELIGIBLE GOVERNMENTAL UNIT IS REQUIRED TO
+18 SUBMIT UNDER THIS SUBSECTION TO JOIN THE CORRECTIONAL OFFICERS’
+19 RETIREMENT SYSTEM.
+20 31–2B–04.
+21 If a local detention center officer joins the Correctional Officers’ Retirement System
+22 on the effective date, the member [is entitled to] SHALL RECEIVE 100% SERVICE credit
+23 for THE MEMBER’S employment with the participating governmental unit before the
+24 effective date.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+26 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.

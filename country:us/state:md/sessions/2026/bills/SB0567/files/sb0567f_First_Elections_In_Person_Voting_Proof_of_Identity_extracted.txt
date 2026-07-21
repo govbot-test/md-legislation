@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - First - Elections - In-Person Voting - Proof of Identity
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 567
+G1 6lr2207
+CF HB 462
+By: Senators Ready, Bailey, Carozza, Corderman, Folden, Gallion, Hershey,
+Jennings, Mautz, McKay, Salling, Simonaire, and West
+Introduced and read first time: February 4, 2026
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 Elections – In–Person Voting – Proof of Identity
+3 FOR the purpose of requiring an election judge to establish a voter’s identity by requiring
+4 the voter to present certain proof of identity; requiring a voter to vote a provisional
+5 ballot if the voter is unable to provide certain proof of identity; prohibiting a person
+6 from knowingly and willfully voting or attempting to vote under a false form of
+7 identification; and generally relating to requiring voters to present proof of identity
+8 at a polling place.
+9 BY repealing and reenacting, with amendments,
+10 Article – Election Law
+11 Section 10–310 and 16–201
+12 Annotated Code of Maryland
+13 (2022 Replacement Volume and 2025 Supplement)
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
+16 Article – Election Law
+17 10–310.
+18 (a) For each individual who seeks to vote, an election judge, in accordance with
+19 instructions provided by the local board, shall:
+20 (1) locate the individual’s name in the election register and locate the
+21 preprinted voting authority card and then [authorize the individual to vote a regular ballot]
+22 ESTABLISH THE VOTER’S IDENTITY AS PROVIDED IN SUBSECTION (B) OF THIS
+23 SECTION; AND
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0567*
+
+2 SENATE BILL 567
+1 (2) (i) if the individual’s name is not found on the election register,
+2 search the inactive list and if the name is found, [authorize the individual to vote a regular
+3 ballot] ESTABLISH THE VOTER’S IDENTITY AS PROVIDED IN SUBSECTION (B) OF THIS
+4 SECTION; or
+5 (ii) if the individual’s name is not on the inactive list, refer the
+6 individual for provisional ballot voting under § 9–404 of this article[;].
+7 [(3)] (B) THE ELECTION JUDGE SHALL establish the VOTER’S identity
+8 [of the voter] by:
+9 (1) requesting the voter to state the month and day of the voter’s birth and
+10 comparing the response to the information listed in the election register;
+11 (2) REQUIRING THE VOTER TO PRESENT:
+12 (I) A VALID GOVERNMENT–ISSUED PHOTO IDENTIFICATION; OR
+13 (II) 1. A VALID NON–GOVERNMENT–ISSUED PHOTO
+14 IDENTIFICATION; AND
+15 2. A CURRENT UTILITY BILL, BANK STATEMENT,
+16 PAYCHECK, GOVERNMENT CHECK, OR OTHER GOVERNMENT DOCUMENT THAT
+17 STATES THE VOTER’S NAME AND ADDRESS;
+18 [(4)] (3) (i) except if a voter’s personal information has been deemed
+19 confidential by the local board, verify the address of the voter’s residence; or
+20 (ii) conduct an alternative verification as established by the State
+21 Board, if the voter’s personal information has been deemed confidential by the local board;
+22 [(5)] (4) if any changes to the voting authority card are indicated by a
+23 voter, make the appropriate changes in information on the card or other appropriate form;
+24 and
+25 [(6)] (5) have the voter sign the voting authority card and either issue the
+26 voter a ballot or send the voter to a machine to vote.
+27 [(b)] (C) (1) [On] EXCEPT AS PROVIDED IN SUBSECTION (D) OF THIS
+28 SECTION, ON the completion of the procedures set forth in [subsection (a)] SUBSECTIONS
+29 (A) AND (B) of this section, [a] THE ELECTION JUDGE SHALL AUTHORIZE THE
+30 INDIVIDUAL TO VOTE A REGULAR BALLOT.
+
+SENATE BILL 567 3
+1 (2) A voter may vote A REGULAR BALLOT in accordance with the
+2 procedures appropriate to the voting system used in the polling place.
+3 (D) THE ELECTION JUDGE SHALL REFER THE INDIVIDUAL FOR A
+4 PROVISIONAL BALLOT UNDER § 9–404 OF THIS ARTICLE IF THE VOTER IS UNABLE TO
+5 PROVIDE IDENTIFICATION AS REQUIRED UNDER SUBSECTION (B)(2) OF THIS
+6 SECTION.
+7 [(c)] (E) (1) Before a voter enters a voting booth, at the request of the voter,
+8 an election judge shall:
+9 (i) instruct the voter about the operation of the voting system; and
+10 (ii) allow the voter an opportunity to operate a model voting device,
+11 if appropriate to the voting system in use.
+12 (2) (i) 1. After a voter enters the voting booth, at the request of the
+13 voter, two election judges representing different political parties shall instruct the voter on
+14 the operation of the voting device.
+15 2. An election judge may not suggest in any way how the
+16 voter should vote for a particular ticket, candidate, or position on a question.
+17 3. After instructing the voter, the election judges shall exit
+18 the voting booth and allow the voter to vote privately.
+19 (ii) A voter may take into the polling place any written or printed
+20 material to assist the voter in marking or preparing the ballot.
+21 (3) (i) Except as provided in subparagraph (ii) of this paragraph, a voter
+22 who requires assistance in marking or preparing the ballot because of a physical disability
+23 or an inability to read the English language may choose any individual to assist the voter.
+24 (ii) A voter may not choose the voter’s employer or agent of that
+25 employer or an officer or agent of the voter’s union to assist the voter in marking the ballot.
+26 (4) If the voter requires the assistance of another in voting but declines to
+27 select an individual to assist, an election judge, in the presence of another election judge
+28 that represents another political party, shall assist the voter in the manner prescribed by
+29 the voter.
+30 (5) An individual assisting a voter may not suggest in any way how the
+31 voter should vote for a particular ticket, candidate, or position on a question.
+32 (6) If a voter requires assistance under paragraph (4) or (5) of this
+33 subsection, the election judge shall record, on a form prescribed by the State Board, the
+
+4 SENATE BILL 567
+1 name of the voter who required assistance and the name of the individual providing
+2 assistance to the voter.
+3 (7) Except as provided in paragraph (3) or (4) of this subsection, an
+4 individual over the age of 17 years may not accompany a voter into a voting booth.
+5 16–201.
+6 (a) In this section, “influence” includes the use of pressure, deception, trickery, or
+7 direct or indirect authority to induce action or to change the decision or act of another,
+8 regardless of the medium used.
+9 (b) A person may not willfully and knowingly:
+10 (1) (i) impersonate another person in order to vote or attempt to vote;
+11 [or]
+12 (ii) vote or attempt to vote under a false name; OR
+13 (III) VOTE OR ATTEMPT TO VOTE UNDER A FALSE FORM OF
+14 IDENTIFICATION;
+15 (2) vote more than once for a candidate for the same office or for the same
+16 ballot question;
+17 (3) vote or attempt to vote more than once in the same election, or vote in
+18 more than one election district or precinct;
+19 (4) vote in an election district or precinct without the legal authority to vote
+20 in that election district or precinct;
+21 (5) influence or attempt to influence a voter’s voting decision through the
+22 use of force, threat, menace, intimidation, bribery, reward, or offer of reward;
+23 (6) influence or attempt to influence a voter’s decision, through the use of
+24 force, fraud, threat, menace, intimidation, bribery, reward, or offer of reward, whether to:
+25 (i) go to the polls to cast a vote; or
+26 (ii) vote by other lawful means; or
+27 (7) engage in conduct that results or has the intent to result in the denial
+28 or abridgement of the right of any citizen of the United States to vote on account of race,
+29 color, or disability.
+
+SENATE BILL 567 5
+1 (c) Except as provided in § 16–1002 of this title, a person who violates this section
+2 is guilty of a misdemeanor and on conviction is subject to a fine of not more than $5,000 or
+3 imprisonment for not more than 5 years or both.
+4 (d) A person who violates this section is subject to § 5–106(b) of the Courts Article.
+5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+6 January 1, 2027.

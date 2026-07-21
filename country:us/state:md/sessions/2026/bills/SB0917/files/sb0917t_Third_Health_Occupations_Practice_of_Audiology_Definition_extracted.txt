@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - Third - Health Occupations - Practice of Audiology - Definition
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 917
+J2 6lr2665
+By: Senator Mautz
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 26, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Health Occupations – Practice of Audiology – Definition
+3 FOR the purpose of altering the definition of “practice audiology”, including by clarifying
+4 that the ordering and performing of certain scanning and imaging are included as
+5 these procedures relate to auditory or vestibular conditions in the human ear; and
+6 generally relating to the practice of audiology.
+7 BY repealing and reenacting, without amendments,
+8 Article – Health Occupations
+9 Section 2–101(a) and (b)
+10 Annotated Code of Maryland
+11 (2021 Replacement Volume and 2025 Supplement)
+12 BY repealing and reenacting, with amendments,
+13 Article – Health Occupations
+14 Section 2–101(q)
+15 Annotated Code of Maryland
+16 (2021 Replacement Volume and 2025 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Health Occupations
+20 2–101.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0917*
+
+2 SENATE BILL 917
+1 (a) In this title the following words have the meanings indicated.
+2 (b) “Audiologist” means an individual who practices audiology.
+3 (q) (1) “Practice audiology” means to:
+4 (i) Evaluate, diagnose, manage, and treat auditory or vestibular
+5 conditions in the human ear;
+6 (ii) Prescribe, order, sell, dispense, or fit hearing aids to an
+7 individual for the correction or relief of a condition for which hearing aids are worn;
+8 (iii) Prescribe, order, sell, dispense, or externally fit a sound
+9 processor to an osseo–integrated device for the correction or relief of a condition for which
+10 osseo–integrated devices are worn; and
+11 (iv) Prescribe, order, sell, dispense, or externally fit a sound
+12 processor to a cochlear implant for the correction or relief of a condition for which cochlear
+13 implants are worn.
+14 (2) “Practice audiology” includes:
+15 (i) The conducting of health screenings RELATED TO AUDITORY
+16 OR VESTIBULAR CONDITIONS IN THE HUMAN EAR;
+17 (ii) The removal of a foreign body from the external auditory canal
+18 that is not impacted to the point it requires anesthesia;
+19 (iii) The removal of cerumen from the external auditory canal that is
+20 not impacted to the point it requires anesthesia;
+21 (iv) The ordering of cultures and bloodwork testing as it relates to
+22 the auditory or vestibular conditions in the human ear;
+23 (v) The ordering and performing of in–office, nonradiographic
+24 scanning or imaging of the external auditory canal AS IT RELATES TO THE AUDITORY OR
+25 VESTIBULAR CONDITIONS IN THE HUMAN EAR; and
+26 (vi) The ordering of radiographic imaging as it relates to the auditory
+27 or vestibular conditions in the human ear.
+28 (3) “Practice audiology” does not include:
+29 (i) Surgery using an instrument, including a laser, a scalpel, a
+30 needle, cautery, a cryoprobe, or a suture, in which human tissue is cut, burned, vaporized,
+
+SENATE BILL 917 3
+1 removed, or otherwise permanently altered by mechanical means, laser, ionizing radiation,
+2 ultrasound, or other means;
+3 (ii) Osseo–integrated device surgery;
+4 (iii) Cochlear implant surgery; or
+5 (iv) The preparation, operation, or performance of radiographic
+6 imaging.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+8 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.

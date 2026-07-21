@@ -1,0 +1,309 @@
+Title: 
+Official Title: 
+Source: versions - Third - Family and Law Enforcement Protection Act
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 83
+D4 6lr1362
+HB 1050/25 – JUD (PRE–FILED) CF SB 20
+By: Delegate Bartlett Delegates Bartlett, Embry, Moreno, Simmons, Simpson,
+Taylor, Moon, Woods, and Conaway
+Requested: October 28, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Judiciary
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 7, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Family and Law Enforcement Protection Act
+3 FOR the purpose of altering and establishing provisions relating to the surrender of
+4 firearms by a respondent under the domestic violence statutes; and generally
+5 relating to protective orders.
+6 BY repealing and reenacting, without amendments,
+7 Article – Family Law
+8 Section 4–504(a)
+9 Annotated Code of Maryland
+10 (2019 Replacement Volume and 2025 Supplement)
+11 BY repealing and reenacting, with amendments,
+12 Article – Family Law
+13 Section 4–504(b), 4–504.1(f), 4–505(a), 4–506(f), 4–506.1, and 4–509(a)
+14 Annotated Code of Maryland
+15 (2019 Replacement Volume and 2025 Supplement)
+16 BY adding to
+17 Article – Family Law
+18 Section 4–504(e)
+19 Annotated Code of Maryland
+20 (2019 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0083*
+
+2 HOUSE BILL 83
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Family Law
+4 4–504.
+5 (a) (1) A petitioner may seek relief from abuse by filing with a court, or with a
+6 commissioner under the circumstances specified in § 4–504.1(a) of this subtitle, a petition
+7 that alleges abuse of any person eligible for relief by the respondent.
+8 (2) A petition may be filed under this subtitle if:
+9 (i) the abuse is alleged to have occurred in the State; or
+10 (ii) the person eligible for relief is a resident of the State, regardless
+11 of whether the abuse is alleged to have occurred in the State.
+12 (b) (1) The petition shall:
+13 (i) be under oath; and
+14 (ii) include any information known to the petitioner of:
+15 1. the nature and extent of the abuse for which the relief is
+16 being sought, including information known to the petitioner concerning previous injury
+17 resulting from abuse by the respondent;
+18 2. each previous action between the parties in any court;
+19 3. each pending action between the parties in any court;
+20 4. the whereabouts of the respondent, if known;
+21 5. WHETHER THE RESPONDENT POSSESSES A VALID
+22 HANDGUN QUALIFICATION LICENSE OR A PERMIT TO WEAR, CARRY, OR TRANSPORT
+23 A HANDGUN ISSUED TO THE RESPONDENT BY THE SECRETARY OF STATE POLICE;
+24 6. WHETHER THE RESPONDENT OWNS OR POSSESSES A
+25 FIREARM;
+26 [5.] 7. if financial relief is requested, information known to the
+27 petitioner regarding the financial resources of the respondent; and
+
+HOUSE BILL 83 3
+1 [6.] 8. in a case of alleged child abuse or alleged abuse of a
+2 vulnerable adult, the whereabouts of the child or vulnerable adult and any other
+3 information relating to the abuse of the child or vulnerable adult.
+4 (2) If the petition states that disclosure of the address of a person eligible
+5 for relief would risk further abuse of a person eligible for relief, or reveal the confidential
+6 address of a shelter for domestic violence victims, that address may be omitted from all
+7 documents filed with a commissioner or filed with, or transferred to, a court. If disclosure
+8 is necessary to determine jurisdiction or consider any venue issue, it shall be made orally
+9 and in camera and may not be disclosed to the respondent.
+10 (E) IF THE PETITION STATES THAT THE RESPONDENT POSSESSES A VALID
+11 HANDGUN QUALIFICATION LICENSE OR A PERMIT TO WEAR, CARRY, OR TRANSPORT
+12 A HANDGUN, OR THAT THE RESPONDENT OWNS OR POSSESSES A FIREARM, THE
+13 PETITIONER SHALL INCLUDE WITH THE PETITION THE FOLLOWING INFORMATION
+14 KNOWN TO THE PETITIONER:
+15 (1) THE LENGTH OF TIME THAT THE PETITIONER HAS KNOWN OR
+16 LIVED WITH THE RESPONDENT;
+17 (2) THE POTENTIAL LOCATION OF THE RESPONDENT’S FIREARM;
+18 (3) THE LAST TIME THE PETITIONER SAW THE RESPONDENT’S
+19 FIREARM;
+20 (4) THE MAKE AND MODEL OF THE RESPONDENT’S FIREARM;
+21 (5) HOW MANY AND WHAT TYPE OF FIREARMS THE RESPONDENT MAY
+22 HAVE ACCESS TO; AND
+23 (6) WHETHER THE RESPONDENT KEEPS THE FIREARM IN THE
+24 RESPONDENT’S CAR AND, IF SO:
+25 (I) THE MAKE AND MODEL OF THE CAR; AND
+26 (II) THE LICENSE PLATE NUMBER OF THE CAR.
+27 4–504.1.
+28 (f) Whenever a commissioner issues an interim protective order, the
+29 commissioner shall:
+30 (1) immediately forward a copy of the petition and interim protective order
+31 to the appropriate law enforcement agency for service on the respondent; [and]
+
+4 HOUSE BILL 83
+1 (2) before the hearing scheduled in the interim protective order, transfer
+2 the case file and the return of service, if any, to the Office of the District Court Clerk; AND
+3 (3) PROVIDE THE PETITIONER WITH RESOURCES FOR SAFETY,
+4 PLANNING, AND OTHER SUPPORT, INCLUDING CONTACT INFORMATION FOR THE
+5 MARYLAND NETWORK AGAINST DOMESTIC VIOLENCE.
+6 4–505.
+7 (a) (1) (i) If, after a hearing on a petition, whether ex parte or otherwise, a
+8 judge finds that there are reasonable grounds to believe that a person eligible for relief has
+9 been abused, the judge may enter a temporary protective order to protect any person
+10 eligible for relief from abuse.
+11 (ii) In determining whether there are reasonable grounds to believe
+12 that a person eligible for relief has been abused, the judge may consider whether a military
+13 protection order has been issued against the respondent for the same or similar conduct
+14 against the same person eligible for relief.
+15 (2) The temporary protective order may order any or all of the following
+16 relief:
+17 (i) order the respondent to refrain from further abuse or threats of
+18 abuse of a person eligible for relief;
+19 (ii) order the respondent to refrain from contacting, attempting to
+20 contact, or harassing any person eligible for relief;
+21 (iii) order the respondent to refrain from entering the residence of a
+22 person eligible for relief;
+23 (iv) where the person eligible for relief and the respondent are
+24 residing together at the time of the alleged abuse, order the respondent to vacate the home
+25 immediately and award temporary use and possession of the home to the person eligible
+26 for relief or in the case of alleged abuse of a child or alleged abuse of a vulnerable adult,
+27 award temporary use and possession of the home to an adult living in the home, provided
+28 that the court may not grant an order to vacate and award temporary use and possession
+29 of the home to a nonspouse person eligible for relief unless the name of the person eligible
+30 for relief appears on the lease or deed to the home or the person eligible for relief has resided
+31 in the home with the respondent for a period of at least 90 days within 1 year before the
+32 filing of the petition;
+33 (v) order the respondent to remain away from the place of
+34 employment, school, or temporary residence of a person eligible for relief or home of other
+35 family members;
+
+HOUSE BILL 83 5
+1 (vi) order the respondent to remain away from a child care provider
+2 of a person eligible for relief while a child of the person is in the care of the child care
+3 provider;
+4 (vii) award temporary custody of a minor child of the person eligible
+5 for relief and the respondent; AND
+6 (viii) [order the respondent to surrender to law enforcement
+7 authorities any firearm in the respondent’s possession, and to refrain from possession of
+8 any firearm, for the duration of the temporary protective order if the abuse consisted of:
+9 1. the use of a firearm by the respondent against a person
+10 eligible for relief;
+11 2. a threat by the respondent to use a firearm against a
+12 person eligible for relief;
+13 3. serious bodily harm to a person eligible for relief caused by
+14 the respondent; or
+15 4. a threat by the respondent to cause serious bodily harm to
+16 a person eligible for relief; and
+17 (ix)] award temporary possession of any pet of the person eligible for
+18 relief or the respondent.
+19 (3) If the judge awards temporary custody of a minor child under
+20 paragraph (2)(vii) of this subsection, the judge may order a law enforcement officer to use
+21 all reasonable and necessary force to return the minor child to the custodial parent after
+22 service of the temporary protective order.
+23 (4) THE TEMPORARY PROTECTIVE ORDER SHALL ORDER THE
+24 RESPONDENT TO:
+25 (I) SURRENDER TO LAW ENFORCEMENT AUTHORITIES ANY
+26 FIREARM IN THE RESPONDENT’S POSSESSION AND ANY HANDGUN QUALIFICATION
+27 LICENSE OR PERMIT TO WEAR, CARRY, OR TRANSPORT A HANDGUN ISSUED TO THE
+28 RESPONDENT; AND
+29 (II) REFRAIN FROM PURCHASING OR POSSESSING A FIREARM
+30 FOR THE DURATION OF THE TEMPORARY PROTECTIVE ORDER.
+31 4–506.
+32 (f) The final protective order shall order the respondent to surrender to law
+33 enforcement authorities any firearm in the respondent’s possession AND ANY HANDGUN
+
+6 HOUSE BILL 83
+1 QUALIFICATION LICENSE OR PERMIT TO WEAR, CARRY, OR TRANSPORT A HANDGUN
+2 ISSUED TO THE RESPONDENT, and to refrain from [possession of any] PURCHASING OR
+3 POSSESSING A firearm, for the duration of the protective order.
+4 4–506.1.
+5 (A) (1) IF A RESPONDENT IS ORDERED TO SURRENDER A FIREARM, A
+6 HANDGUN QUALIFICATION LICENSE, OR A PERMIT TO WEAR, CARRY, OR TRANSPORT
+7 A HANDGUN UNDER THIS SUBTITLE, THE RESPONDENT SHALL SURRENDER ALL
+8 FIREARMS AND ANY HANDGUN QUALIFICATION LICENSE OR PERMIT TO WEAR,
+9 CARRY, OR TRANSPORT A HANDGUN IN THE RESPONDENT’S POSSESSION TO A LOCAL
+10 LAW ENFORCEMENT AUTHORITY THE LAW ENFORCEMENT AGENCY THAT SERVED
+11 THE ORDER WITHIN 24 HOURS AFTER A LAW ENFORCEMENT OFFICER SERVES THE
+12 ORDER ON THE RESPONDENT.
+13 (2) IF THE RESPONDENT DOES NOT POSSESS A FIREARM, THE
+14 RESPONDENT SHALL SUBMIT AN AFFIDAVIT TO THE COURT AND ANY RELEVANT LAW
+15 ENFORCEMENT AGENCY THE LAW ENFORCEMENT AGENCY THAT SERVED THE
+16 ORDER TO THAT EFFECT SIGNED UNDER PENALTY OF PERJURY WITHIN 2 BUSINESS
+17 DAYS AFTER SERVICE OF THE ORDER.
+18 (3) IF THE RESPONDENT HAS LAWFULLY SOLD OR TRANSFERRED A
+19 FIREARM WITHIN THE PRIOR 30 DAYS, THE RESPONDENT SHALL SUBMIT THE
+20 TRANSFER PAPERWORK TO THE COURT AND ANY RELEVANT LAW ENFORCEMENT
+21 AGENCY THE LAW ENFORCEMENT AGENCY THAT SERVED THE ORDER WITHIN 2
+22 BUSINESS DAYS AFTER SERVICE OF THE ORDER.
+23 (B) (1) WITHIN 3 BUSINESS DAYS AFTER SERVICE OF THE ORDER, A
+24 LOCAL LAW ENFORCEMENT AUTHORITY THE LAW ENFORCEMENT AGENCY THAT
+25 SERVED THE ORDER SHALL DETERMINE WHETHER THE RESPONDENT HAS
+26 COMPLIED WITH SUBSECTION (A) OF THIS SECTION.
+27 (2) IF A LOCAL LAW ENFORCEMENT AUTHORITY THE LAW
+28 ENFORCEMENT AGENCY THAT SERVED THE ORDER DETERMINES A RESPONDENT IS
+29 NOT IN COMPLIANCE WITH SUBSECTION (A) OF THIS SECTION WITHIN 3 BUSINESS
+30 DAYS AFTER SERVICE OF THE ORDER, THE LOCAL LAW ENFORCEMENT AUTHORITY
+31 THE LAW ENFORCEMENT AGENCY THAT SERVED THE ORDER SHALL:
+32 (I) NOTIFY THE STATE’S ATTORNEY’S OFFICE THAT THE
+33 RESPONDENT IS NOT IN COMPLIANCE WITH SUBSECTION (A) OF THIS SECTION; AND
+34 (II) TAKE APPROPRIATE STEPS TO DETERMINE WHETHER THE
+35 RESPONDENT IS IN POSSESSION OF FIREARMS, INCLUDING BY OBTAINING A SEARCH
+36 WARRANT UNDER SUBSECTION (H) OF THIS SECTION, AND REMOVE ANY FIREARMS.
+
+HOUSE BILL 83 7
+1 [(a)] (C) If a respondent surrenders a firearm under [§ 4–505 or § 4–506 of] this
+2 subtitle, a law enforcement officer shall:
+3 (1) provide to the respondent information on the process for retaking
+4 possession of the firearm; and
+5 (2) transport and store the firearm in a protective case, if one is available,
+6 and in a manner intended to prevent damage to the firearm during the time the protective
+7 order is in effect.
+8 (D) (1) THE RESPONDENT MAY RETAKE POSSESSION OF THE FIREARM AT
+9 THE EXPIRATION OF AN INTERIM PROTECTIVE ORDER UNLESS:
+10 (I) THE RESPONDENT IS ORDERED TO SURRENDER THE
+11 FIREARM IN A TEMPORARY PROTECTIVE ORDER ISSUED UNDER § 4–505 OF THIS
+12 SUBTITLE; OR
+13 (II) THE RESPONDENT IS NOT OTHERWISE LEGALLY ENTITLED
+14 TO OWN OR POSSESS THE FIREARM.
+15 [(b) (1)] (2) (D) (1) The respondent may retake possession of the firearm at
+16 the expiration of a temporary protective order unless:
+17 (i) the respondent is ordered to surrender the firearm in a protective
+18 order issued under § 4–506 of this subtitle; or
+19 (ii) the respondent is not otherwise legally entitled to own or possess
+20 the firearm.
+21 [(2)] (3) (2) The respondent may retake possession of the firearm at the
+22 expiration of a final protective order unless:
+23 (i) the protective order is extended under § 4–507(a)(2) of this
+24 subtitle; or
+25 (ii) the respondent is not otherwise legally entitled to own or possess
+26 the firearm.
+27 [(c)] (E) Notwithstanding any other law, a respondent may transport a firearm
+28 if the respondent is carrying a protective order requiring the surrender of the firearm and:
+29 (1) the firearm is unloaded;
+30 (2) the respondent has notified the law enforcement unit, barracks, or
+31 station that the firearm is being transported in accordance with the protective order; and
+
+8 HOUSE BILL 83
+1 (3) the respondent transports the firearm directly to the law enforcement
+2 unit, barracks, or station.
+3 (F) A RESPONDENT WHO DOES NOT WISH TO RECOVER A FIREARM
+4 SURRENDERED IN ACCORDANCE WITH A PROTECTIVE ORDER OR WHO IS OTHERWISE
+5 PROHIBITED FROM POSSESSING A FIREARM MAY:
+6 (1) SELL OR TRANSFER THE FIREARM OR AMMUNITION TO:
+7 (I) A LICENSED FIREARM DEALER; OR
+8 (II) ANOTHER PERSON:
+9 1. WHO IS NOT PROHIBITED FROM POSSESSING A
+10 FIREARM OR AMMUNITION UNDER STATE OR FEDERAL LAW; AND
+11 2. WHO DOES NOT LIVE IN THE SAME RESIDENCE AS THE
+12 RESPONDENT; OR
+13 (2) REQUEST THE DESTRUCTION OF THE FIREARM.
+14 (G) A LAW ENFORCEMENT AGENCY THAT RECEIVES A FIREARM
+15 SURRENDERED UNDER THIS SUBTITLE SHALL ISSUE WRITTEN PROOF OF THE
+16 SURRENDER TO THE RESPONDENT, INCLUDING:
+17 (1) THE NAME OF THE PERSON SURRENDERING THE FIREARM;
+18 (2) THE DATE THE FIREARM WAS SURRENDERED; AND
+19 (3) (I) SUBJECT TO ITEM (II) OF THIS ITEM, THE SERIAL NUMBER,
+20 MAKE, AND MODEL OF THE FIREARM; OR
+21 (II) FOR A FIREARM MANUFACTURED PRIOR TO 1968 WITHOUT
+22 A SERIAL NUMBER, THE IDENTIFYING MARKS ON THE FIREARM.
+23 (H) (1) TO CARRY OUT THE PROVISIONS OF THIS SUBTITLE RELATING TO
+24 THE SURRENDER OF FIREARMS, A LAW ENFORCEMENT OFFICER SHALL ACCOMPANY
+25 THE RESPONDENT OR PROCEED WITHOUT THE RESPONDENT’S PRESENCE, IF
+26 NECESSARY, TO ANY PLACE WHERE THE LAW ENFORCEMENT OFFICER HAS
+27 PROBABLE CAUSE TO BELIEVE A FIREARM IN THE POSSESSION OF THE RESPONDENT
+28 IS LOCATED TO ENSURE THAT THE RESPONDENT DOES NOT GAIN ACCESS TO A
+29 FIREARM.
+
+HOUSE BILL 83 9
+1 (2) ON APPLICATION BY THE STATE’S ATTORNEY OR A LAW
+2 ENFORCEMENT OFFICER, BASED ON PROBABLE CAUSE TO BELIEVE THAT THE
+3 RESPONDENT HAS FAILED TO SURRENDER A FIREARM IN ACCORDANCE WITH THIS
+4 SECTION OR IS IN POSSESSION OF OTHER FIREARMS, THE COURT MAY AUTHORIZE
+5 THE EXECUTION OF A SEARCH WARRANT FOR THE REMOVAL OF A FIREARM AT ANY
+6 LOCATION AT WHICH THE COURT HAS PROBABLE CAUSE TO BELIEVE A FIREARM
+7 POSSESSED BY THE RESPONDENT IS LOCATED.
+8 (3) IF AN ORDER UNDER THIS SUBTITLE PROHIBITS A RESPONDENT
+9 FROM RETURNING TO THE SCENE OF DOMESTIC VIOLENCE OR ANOTHER PLACE
+10 WHERE A LAW ENFORCEMENT OFFICER HAS PROBABLE CAUSE TO BELIEVE A
+11 FIREARM IN THE POSSESSION OF THE RESPONDENT IS LOCATED, THE LAW
+12 ENFORCEMENT OFFICER SHALL PROCEED WITHOUT THE RESPONDENT’S PRESENCE.
+13 4–509.
+14 (a) A person may not fail to comply with the relief granted in an interim protective
+15 order under § 4–504.1(c)(1), (2), (3), (4)(i), (7), or (8) of this subtitle, a temporary protective
+16 order under § 4–505(a)(2)(i), (ii), (iii), (iv), OR (v)[, or (viii)] OR (4) of this subtitle, or a final
+17 protective order under § 4–506(d)(1), (2), (3), (4), or (5)[,] or (f) of this subtitle.
+18 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+19 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.

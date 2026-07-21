@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled - Study to Evaluate Blockchain-Based Real Property Lease and Title Recordation and Verification
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 168
+N1 (6lr1629)
+ENROLLED BILL
+— Budget and Taxation/Economic Matters —
+Introduced by Senator Watson
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 State Department of Assessments and Taxation – Study to Evaluate
+3 Blockchain–Based Real Property Lease and Title Pilot Program – Establishment
+4 Recordation and Verification
+5 FOR the purpose of establishing the Blockchain–Based Real Property Title Pilot Program
+6 in requiring the State Department of Assessments and Taxation, in coordination
+7 with certain entities, to explore evaluate the use of blockchain technology for
+8 securely recording and verifying real property ownership and leases and to assess its
+9 potential for use by law enforcement and courts in resolving certain real property
+10 disputes; and generally relating to the Blockchain–Based Real Property Title Pilot
+11 Program study to evaluate blockchain–based real property lease and title recordation
+12 and verification.
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0168*
+
+2 SENATE BILL 168
+1 (a) (1) In this section the following words have the meanings indicated.
+2 (2) “Blockchain” means a distributed ledger technology that provides a
+3 secure, immutable, and transparent method of recording and storing data.
+4 (3) “Digital title” means a cryptographically secured token or smart
+5 contract that represents ownership of real property in the State.
+6 (4) “Pilot jurisdictions” means not more than three counties in the State
+7 selected by the State Department of Assessments and Taxation to implement the Pilot
+8 Program.
+9 (5) “Pilot Program” means the Blockchain–Based Real Property Title Pilot
+10 Program.
+11 (6) (3) “Squatting” means the unauthorized occupation of real property by an
+12 individual who does not have legal title, a lease, or the right of possession.
+13 (b) (1) There is a Blockchain–Based Real Property Title Pilot Program in the
+14 The State Department of Assessments and Taxation, in coordination with the Maryland
+15 Judiciary, the Maryland State Police, local law enforcement agencies, the Office of the
+16 Attorney General, Maryland Legal Aid, the Public Justice Center, the Maryland Blockchain
+17 Association, and third–party technology vendors, shall conduct a study to evaluate the use
+18 of blockchain–based real property lease and title recordation and verification.
+19 (2) (c) The purpose of the Pilot Program is to study shall:
+20 (i) (1) explore evaluate the use of blockchain technology for securely
+21 recording and verifying real property ownership and leases; and
+22 (ii) (2) assess the potential for the use of blockchain technology to assist
+23 law enforcement and courts in resolving real property disputes involving squatting.
+24 (c) (1) The State Department of Assessments and Taxation shall administer
+25 the Pilot Program.
+26 (2) The Pilot Program shall begin on or before January 1, 2027.
+27 (d) The State Department of Assessments and Taxation shall coordinate with the
+28 Maryland Judiciary, the Maryland State Police, local law enforcement agencies, and the
+29 Office of the Attorney General to:
+30 (1) create a blockchain registry to record and verify digital titles;
+31 (2) authorize property owners in pilot jurisdictions to opt in to having their
+32 property titles mirrored on the blockchain as digital titles;
+
+SENATE BILL 168 3
+1 (3) provide a secure application programming interface for law
+2 enforcement and courts to validate the status of digital titles in real time;
+3 (4) test smart contract capabilities for title transfers and escrow functions;
+4 and
+5 (5) educate consumers, law enforcement, and courts on how to use the
+6 blockchain registry.
+7 (e) (1) Subject to paragraphs (2) and (3) of this subsection, the State
+8 Department of Assessments and Taxation may contract with third–party technology
+9 vendors to create the blockchain registry required under subsection (d) of this section.
+10 (2) If the State Department of Assessments and Taxation contracts with a
+11 technology vendor under paragraph (1) of this subsection, the Department shall use a
+12 competitive procurement process in accordance with Division II of the State Finance and
+13 Procurement Article.
+14 (3) A technology vendor under this subsection shall:
+15 (i) comply with cybersecurity standards; and
+16 (ii) ensure data privacy and interoperability with existing State
+17 systems.
+18 (f) (d) On or before December 31, 2028 2026, the State Department of Assessments
+19 and Taxation, in coordination with the Maryland Judiciary, the Maryland State Police,
+20 local law enforcement agencies, and the Office of the Attorney General, Maryland Legal
+21 Aid, the Public Justice Center, the Maryland Blockchain Association, and third–party
+22 technology vendors, shall report the results of the Pilot Program and recommendations for
+23 statewide adoption study to the Governor and, in accordance with § 2–1257 of the State
+24 Government Article, the General Assembly.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+26 October June 1, 2026. It shall remain effective for a period of 2 years and 9 months and, at
+27 the end of June 30, 2029, this Act, with no further action required by the General Assembly,
+28 shall be abrogated and of no further force and effect.

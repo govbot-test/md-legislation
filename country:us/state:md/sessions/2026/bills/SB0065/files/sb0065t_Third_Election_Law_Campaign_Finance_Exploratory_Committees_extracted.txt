@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - Third - Election Law - Campaign Finance - Exploratory Committees
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 65
+G1 EMERGENCY BILL 6lr0712
+SB 27/25 – EEE (PRE–FILED) CF HB 157
+By: Senator Kagan
+Requested: August 20, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 7, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Election Law – Campaign Finance – Exploratory Committees
+3 FOR the purpose of applying certain campaign finance requirements for a political
+4 committee to exploratory committees; establishing requirements and prohibitions for
+5 exploratory committees relating to the establishment of the committees, receipt of
+6 funds, and permissible disbursements; requiring an authorized candidate campaign
+7 committee that results from the exploratory committee to make any equipment
+8 purchases from the exploratory committee at the fair market value of the equipment;
+9 requiring an exploratory committee to return remaining funds in a certain manner
+10 in a certain time frame; establishing that an exploratory committee is not subject to
+11 any contribution limit; and generally relating to exploratory committees.
+12 BY repealing and reenacting, without amendments,
+13 Article – Election Law
+14 Section 1–101(a), (l), and (gg)
+15 Annotated Code of Maryland
+16 (2022 Replacement Volume and 2025 Supplement)
+17 BY repealing and reenacting, with amendments,
+18 Article – Election Law
+19 Section 1–101(k)
+20 Annotated Code of Maryland
+21 (2022 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0065*
+
+2 SENATE BILL 65
+1 BY adding to
+2 Article – Election Law
+3 Section 13–107
+4 Annotated Code of Maryland
+5 (2022 Replacement Volume and 2025 Supplement)
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
+8 Article – Election Law
+9 1–101.
+10 (a) In this article the following words have the meanings indicated unless a
+11 different meaning is clearly intended from the context.
+12 (k) (1) “Campaign material” means any material that:
+13 (i) contains text, graphics, or other images;
+14 (ii) relates to a candidate, a [prospective] POTENTIAL candidate, or
+15 the approval or rejection of a question or prospective question; and
+16 (iii) is published, distributed, or disseminated.
+17 (2) “Campaign material” includes:
+18 (i) a qualifying paid digital communication;
+19 (ii) any other material transmitted by or appearing on the Internet
+20 or other electronic medium;
+21 (iii) an oral commercial campaign advertisement; and
+22 (iv) an automated or prerecorded oral communication.
+23 (l) (1) “Candidate” means an individual who files a certificate of candidacy for
+24 a public or party office.
+25 (2) “Candidate” includes:
+26 (i) an incumbent justice of the Supreme Court of Maryland or
+27 Appellate Court of Maryland at an election for continuance in office; and
+28 (ii) an individual, prior to that individual filing a certificate of
+29 candidacy, if a campaign finance entity has been established on behalf of that individual.
+
+SENATE BILL 65 3
+1 (gg) “Political committee” means a combination of two or more individuals that has
+2 as its major purpose promoting the success or defeat of a candidate, political party,
+3 question, or prospective question submitted to a vote at any election.
+4 13–107.
+5 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+6 INDICATED.
+7 (2) (I) “DONATION” MEANS THE GIFT OR TRANSFER, OR PROMISE
+8 OF GIFT OR TRANSFER, OF MONEY OR ANY OTHER THING OF VALUE TO A PERSON
+9 THAT MAKES DISBURSEMENTS FOR AN EXPLORATORY COMMITTEE.
+10 (II) “DONATION” DOES NOT INCLUDE ANY AMOUNT OF MONEY
+11 OR ANY OTHER THING OF VALUE:
+12 1. RECEIVED BY A PERSON IN THE ORDINARY COURSE OF
+13 ANY TRADE OR BUSINESS CONDUCTED BY THE PERSON, WHETHER FOR PROFIT OR
+14 NOT FOR PROFIT, OR IN THE FORM OF INVESTMENTS IN THE PERSON’S BUSINESS;
+15 OR
+16 2. A. THAT THE DONOR AND THE PERSON RECEIVING
+17 THE MONEY OR THING OF VALUE EXPRESSLY AGREE IN WRITING MAY NOT BE USED
+18 FOR AN EXPLORATORY COMMITTEE; AND
+19 B. IN THE CASE OF A MONETARY DONATION, IS
+20 DEPOSITED IN A SEPARATE BANK ACCOUNT THAT IS NEVER USED FOR AN
+21 EXPLORATORY COMMITTEE.
+22 (3) “EXPLORATORY COMMITTEE” MEANS AN ENTITY ESTABLISHED
+23 BY A POTENTIAL CANDIDATE FOR A PUBLIC OFFICE TO DETERMINE THE POTENTIAL
+24 CANDIDATE’S VIABILITY FOR THAT PUBLIC OFFICE.
+25 (B) EXCEPT AS OTHERWISE PROVIDED IN §§ 13–220.1 AND 13–220.2 OF THIS
+26 TITLE AND SUBTITLE 2, PART V OF THIS TITLE, ALL PROVISIONS OF THIS TITLE
+27 THAT APPLY TO A POLITICAL COMMITTEE ALSO APPLY TO AN EXPLORATORY
+28 COMMITTEE.
+29 (C) SUBJECT TO SUBSECTION (D) OF THIS SECTION, AN EXPLORATORY
+30 COMMITTEE FOR AN INDIVIDUAL MAY RECEIVE FUNDS AND MAKE DISBURSEMENTS
+31 TO DETERMINE THE INDIVIDUAL’S VIABILITY FOR A PUBLIC OFFICE.
+32 (D) AN EXPLORATORY COMMITTEE MAY MAKE A DISBURSEMENT:
+
+4 SENATE BILL 65
+1 (1) ONLY FOR PURPOSES RELATED TO DETERMINING THE POTENTIAL
+2 CANDIDATE’S VIABILITY FOR A PUBLIC OFFICE; AND
+3 (2) ONLY FOR THE FOLLOWING:
+4 (I) CONDUCTING SURVEYS OR POLLS REGARDING VIABILITY OF
+5 THE POTENTIAL CANDIDATE FOR A PUBLIC OFFICE;
+6 (II) DIRECT MAILINGS AND OTHER COMMUNICATIONS TO
+7 POTENTIAL VOTERS;
+8 (III) EMPLOYING STAFF;
+9 (IV) ESTABLISHING A WEBSITE;
+10 (V) QUALIFYING PAID DIGITAL COMMUNICATIONS;
+11 (VI) RENTING OR LEASING OFFICE SPACE;
+12 (VII) PURCHASING ELECTRONIC EQUIPMENT, INCLUDING
+13 COMPUTERS AND TELEPHONES; AND
+14 (VIII) SECURITY.
+15 (E) AN EXPLORATORY COMMITTEE MAY NOT PAY ANY EXPENSE IN ADVANCE
+16 FOR GOODS OR SERVICES TO BE USED BY THE POLITICAL COMMITTEE OF THE
+17 POTENTIAL CANDIDATE ONCE THE POTENTIAL CANDIDATE REGISTERS AN
+18 AUTHORIZED CANDIDATE CAMPAIGN COMMITTEE.
+19 (F) IF AN AUTHORIZED CANDIDATE CAMPAIGN COMMITTEE RESULTS FROM
+20 THE EXPLORATORY COMMITTEE, ANY PURCHASES MADE BY THE AUTHORIZED
+21 CANDIDATE CAMPAIGN COMMITTEE OF EQUIPMENT FROM THE EXPLORATORY
+22 COMMITTEE SHALL BE MADE AT THE FAIR MARKET VALUE OF THE EQUIPMENT.
+23 (G) (1) AN EXPLORATORY COMMITTEE SHALL RETURN ANY REMAINING
+24 FUNDS RECEIVED UNDER SUBSECTION (D) OF THIS SECTION IN ACCORDANCE WITH
+25 PARAGRAPH (2) OF THIS SUBSECTION WITHIN 120 DAYS AFTER:
+26 (I) A POTENTIAL CANDIDATE:
+27 1. TIMELY FILES A CERTIFICATE OF CANDIDACY FOR A
+28 PUBLIC OFFICE UNDER TITLE 5, SUBTITLE 3 OF THIS ARTICLE; OR
+
+SENATE BILL 65 5
+1 2. PUBLICLY ANNOUNCES THAT THE POTENTIAL
+2 CANDIDATE HAS DECLINED TO FILE A CERTIFICATE OF CANDIDACY FOR PUBLIC
+3 OFFICE; OR
+4 (II) THE DEADLINE FOR FILING A CERTIFICATE OF CANDIDACY
+5 UNDER TITLE 5, SUBTITLE 3 OF THIS ARTICLE HAS PASSED.
+6 (2) AN EXPLORATORY COMMITTEE SHALL RETURN FUNDS UNDER
+7 PARAGRAPH (1) OF THIS SUBSECTION:
+8 (I) PRO RATA TO THE CONTRIBUTORS; OR
+9 (II) BY PAYING THE REMAINING FUNDS TO:
+10 1. IF THE POTENTIAL CANDIDATE IS A MEMBER OF A
+11 POLITICAL PARTY:
+12 A. THE STATE CENTRAL COMMITTEE OF THE POLITICAL
+13 PARTY; OR
+14 B. A LOCAL CENTRAL COMMITTEE OF THE POLITICAL
+15 PARTY;
+16 2. IF THE POTENTIAL CANDIDATE ESTABLISHES AN
+17 AUTHORIZED CANDIDATE CAMPAIGN COMMITTEE, SUBJECT TO § 13–226 OF THIS
+18 TITLE, THE AUTHORIZED CANDIDATE CAMPAIGN COMMITTEE;
+19 3. A NONPROFIT ORGANIZATION EXEMPT FROM
+20 TAXATION UNDER § 501(C)(3) OF THE INTERNAL REVENUE CODE; OR
+21 4. THE FAIR CAMPAIGN FINANCING FUND
+22 ESTABLISHED UNDER § 15–103 OF THIS ARTICLE.
+23 (H) A DONATION TO AN EXPLORATORY COMMITTEE IS NOT SUBJECT TO ANY
+24 LIMITS.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency
+26 measure, is necessary for the immediate preservation of the public health or safety, has
+27 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+28 each of the two Houses of the General Assembly, and shall take effect from the date it is
+29 enacted.
