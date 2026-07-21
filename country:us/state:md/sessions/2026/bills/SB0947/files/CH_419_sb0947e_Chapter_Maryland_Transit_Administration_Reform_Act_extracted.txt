@@ -1,0 +1,850 @@
+Title: 
+Official Title: 
+Source: versions - Chapter - Maryland Transit Administration Reform Act
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+WES MOORE, Governor Ch. 419
+Chapter 419
+(Senate Bill 947)
+AN ACT concerning
+Maryland Transit Administration Reform Act
+FOR the purpose of establishing the Board of Directors for Baltimore Core Transit Service
+in the Maryland Transit Administration as a governing body with certain authority
+over the provision of Baltimore Core Transit Service; establishing the Commuter
+Services Advisory Board to provide certain oversight over and guidance for certain
+Administration commuter rail and bus services in the State; requiring the Maryland
+Transportation Commission to determine the qualifications, appointments,
+compensation, and leave for certain management personnel positions in the
+Administration; repealing the Baltimore Regional Transit Commission as an
+advisory commission for transit in the Baltimore City region; proposing an
+amendment to the Maryland Constitution authorizing the General Assembly to
+apply certain condemnation authority to the Administration; authorizing the
+Administration to exercise certain quick take condemnation authority; exempting
+certain Administration capital construction projects from certain provisions of the
+State procurement law; limiting the liability of the Administration in a tort action to
+a certain amount; requiring the Maryland Department of Transportation to contract
+with the Baltimore Metropolitan Council to complete a technical study on the
+creation of a rail authority in the State; and generally relating to reform of the
+Maryland Transit Administration.
+BY adding to
+Article – State Finance and Procurement
+Section 11–203(l)
+Annotated Code of Maryland
+(2021 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Transportation
+Section 7–201.1, and 7–201.2, 7–401.1, and 7–401.2
+Annotated Code of Maryland
+(2020 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Transportation
+Section 7–206, 7–702, 8–327, and 8–328
+Annotated Code of Maryland
+(2020 Replacement Volume and 2025 Supplement)
+BY repealing
+Article – Transportation
+– 1 –
+
+Ch. 419 2026 LAWS OF MARYLAND
+Section 7–213
+Annotated Code of Maryland
+(2020 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Transportation
+Section 8–329
+Annotated Code of Maryland
+(2020 Replacement Volume and 2025 Supplement)
+BY proposing an amendment to the Maryland Constitution
+Article III – Legislative Department
+Section 40B
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – State Finance and Procurement
+11–203.
+(L) THIS DIVISION II DOES NOT APPLY TO MARYLAND TRANSIT
+ADMINISTRATION CAPITAL CONSTRUCTION PROJECTS ON EXISTING AND DEFINED
+FIXED GUIDEWAY SYSTEMS.
+Article – Transportation
+7–201.1.
+(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+(2) “BALTIMORE CORE TRANSIT SERVICE” MEANS:
+(I) THE ADMINISTRATION’S BALTIMORE–AREA LOCAL BUS;
+(II) THE ADMINISTRATION’S BALTIMORE–AREA LIGHT RAIL;
+(III) THE ADMINISTRATION’S BALTIMORE–AREA METRO
+SUBWAY; AND
+(IV) THE ADMINISTRATION’S BALTIMORE–AREA PARATRANSIT.
+– 2 –
+
+WES MOORE, Governor Ch. 419
+(3) “BOARD” MEANS THE BOARD OF DIRECTORS FOR BALTIMORE
+CORE TRANSIT SERVICE.
+(B) THERE IS A BOARD OF DIRECTORS FOR BALTIMORE CORE TRANSIT
+SERVICE IN THE ADMINISTRATION.
+(C) (1) THE BOARD CONSISTS OF THE FOLLOWING VOTING MEMBERS:
+(I) FIVE MEMBERS WHO LIVE IN THE BALTIMORE CORE
+TRANSIT SERVICE AREA, APPOINTED BY THE GOVERNOR WITH THE ADVICE AND
+CONSENT OF THE SENATE, INCLUDING:
+1. AT LEAST ONE MEMBER WHO USES TRANSIT IN THE
+BALTIMORE CORE TRANSIT SERVICE AREA;
+2. AT LEAST ONE MEMBER WHO REPRESENTS RIDERS
+WITH ACCESSIBILITY CHALLENGES;
+3. AT LEAST ONE MEMBER REPRESENTING AN ANCHOR
+INSTITUTION THAT ALSO PROVIDES TRANSPORTATION SERVICES IN THE
+BALTIMORE CORE TRANSIT SERVICE AREA; AND
+4. ONE MEMBER WHO IS AN EMPLOYEE OF THE
+ADMINISTRATION AND IS A MEMBER OF A THE LABOR UNION REPRESENTING THE
+PLURALITY OF FRONTLINE WORKERS THAT HAS A COLLECTIVE BARGAINING
+AGREEMENT WITH THE ADMINISTRATION;
+(II) TWO MEMBERS APPOINTED BY THE MAYOR OF BALTIMORE
+CITY;
+(III) ONE MEMBER APPOINTED BY THE BALTIMORE COUNTY
+EXECUTIVE; AND
+(IV) ONE MEMBER APPOINTED BY THE ANNE ARUNDEL COUNTY
+EXECUTIVE.
+(2) (I) THE SECRETARY AND THE ADMINISTRATOR SHALL SERVE
+AS NONVOTING EX OFFICIO BOARD MEMBERS.
+(II) THE GOVERNOR SHALL APPOINT A STUDENT WHO
+REGULARLY USES ADMINISTRATION SERVICES TO COMMUTE TO AND FROM SCHOOL
+AS A NONVOTING MEMBER.
+– 3 –
+
+Ch. 419 2026 LAWS OF MARYLAND
+(3) THE GOVERNOR SHALL DESIGNATE THE CHAIR OF THE BOARD,
+WHO SHALL SERVE AS CHAIR AT THE PLEASURE OF THE GOVERNOR.
+(D) (1) THE TERM OF A BOARD MEMBER IS 3 YEARS.
+(2) THE TERMS OF THE MEMBERS ARE STAGGERED AS REQUIRED BY
+THE TERMS PROVIDED FOR MEMBERS OF THE BOARD ON JANUARY 1, 2027.
+(3) AT THE END OF A TERM, A MEMBER CONTINUES TO SERVE UNTIL
+A SUCCESSOR IS APPOINTED AND QUALIFIES.
+(4) A MEMBER WHO IS APPOINTED AFTER A TERM HAS BEGUN SERVES
+ONLY FOR THE REST OF THE TERM AND UNTIL A SUCCESSOR IS APPOINTED AND
+QUALIFIES.
+(E) (1) THE DEPARTMENT AND THE ADMINISTRATION SHALL PROVIDE
+STAFF FOR THE BOARD, INCLUDING A DEPUTY ADMINISTRATOR WHO SHALL SERVE
+AS THE EXECUTIVE DIRECTOR AND REPORT DIRECTLY TO THE ADMINISTRATOR.
+(2) THE ADMINISTRATION SHALL PROVIDE OFFICE SPACE FOR THE
+BOARD.
+(F) A MEMBER OF THE BOARD:
+(1) MAY NOT RECEIVE COMPENSATION AS A MEMBER OF THE BOARD;
+BUT
+(2) IS ENTITLED TO REIMBURSEMENT FOR EXPENSES UNDER THE
+STANDARD STATE TRAVEL REGULATIONS, AS PROVIDED IN THE STATE BUDGET.
+(G) THE BOARD SHALL:
+(1) APPROVE MAJOR SERVICE PLANS, POLICIES, AND INITIATIVES
+FOR BALTIMORE CORE TRANSIT SERVICE, AS DETERMINED BY THE BOARD AND
+THE ADMINISTRATION ON A REASONABLE BASIS;
+(2) PROVIDE ADVICE ON MAJOR PROJECT INITIATIVES, AS
+DETERMINED BY THE BOARD AND THE ADMINISTRATION ON A REASONABLE BASIS;
+(3) WITH THE CONCURRENCE OF THE ADMINISTRATOR, APPOINT
+THE DEPUTY ADMINISTRATOR AND CONSULT WITH THE ADMINISTRATOR ON ANY
+REMOVAL OF THE DEPUTY ADMINISTRATOR BY THE ADMINISTRATOR;
+– 4 –
+
+WES MOORE, Governor Ch. 419
+(4) (I) REVIEW AND APPROVE THE ADMINISTRATION’S
+OPERATING AND CAPITAL BUDGET REQUESTS FOR BALTIMORE CORE TRANSIT
+SERVICE; AND
+(II) ESTABLISH, IN CONSULTATION WITH THE DEPARTMENT
+AND THE ADMINISTRATION, A TIMELINE FOR REVIEW AND APPROVAL UNDER THIS
+PARAGRAPH:
+1. THAT IS CONSISTENT WITH THE DEPARTMENT’S
+BUDGET PROCESS; AND
+2. UNDER WHICH THE OPERATING AND CAPITAL
+BUDGET REQUESTS SHALL BE CONSIDERED APPROVED BY OPERATION OF LAW IF
+THE BOARD DOES NOT TAKE ACTION WITHIN THE TIMELINE;
+(5) HAVE APPROVAL AUTHORITY, SUPPORTED BY AT LEAST
+TWO–THIRDS OF THE MEMBERS OF THE BOARD, OVER ANY DECISION BY THE
+DEPARTMENT OR THE ADMINISTRATION TO WITHDRAW A NEW STARTS CAPITAL
+INVESTMENT GRANT OR ANOTHER FEDERAL GRANT UNDER A SUBSTANTIALLY
+SIMILAR PROGRAM FOR ANY BALTIMORE CORE TRANSIT SERVICE AREA PROJECT
+ONCE THAT PROJECT HAS BEEN ACCEPTED INTO THE ENGINEERING PHASE BY THE
+FEDERAL TRANSIT ADMINISTRATION;
+(6) (I) MEET AT LEAST QUARTERLY; AND
+(II) ACCEPT PUBLIC COMMENTS DURING THE MEETINGS AND,
+AT ALL TIMES, ELECTRONICALLY;
+(7) INCLUDE IN THE QUARTERLY AGENDA EACH OF THE FOLLOWING
+TOPICS AT LEAST ONCE EACH YEAR:
+(I) THE CAPITAL NEEDS INVENTORY REPORT;
+(II) THE CONSOLIDATED TRANSPORTATION PROGRAM
+PRIORITIES AND INITIAL BUDGET REQUESTS UNDER § 2–103.1 OF THIS ARTICLE;
+AND
+(III) ANY UPDATE ON THE CENTRAL MARYLAND REGIONAL
+TRANSIT PLAN UNDER § 7–301.1 OF THIS TITLE;
+(8) PROVIDE INPUT AND ENGAGE IN ADVOCACY FOR BALTIMORE
+CORE TRANSIT SERVICE;
+– 5 –
+
+Ch. 419 2026 LAWS OF MARYLAND
+(9) (I) REQUEST AND REVIEW INFORMATION FROM THE ANNUAL
+ATTAINMENT REPORT AND THE ADMINISTRATION CONCERNING THE ATTAINMENT
+OF THE ADMINISTRATION’S GOALS, INCLUDING PERFORMANCE GOALS AND
+METRICS;
+(II) EVALUATE ANY OTHER MEASURES OF THE PERFORMANCE
+OF BALTIMORE CORE TRANSIT SERVICE; AND
+(III) ISSUE WRITTEN RECOMMENDATIONS CONCERNING HOW
+THE RESULTS OF THE BOARD’S REVIEW AND EVALUATION SHOULD INFLUENCE THE
+ADMINISTRATION’S PRIORITIES IN FUTURE YEARS;
+(10) REVIEW SERVICE CHANGE REPORTS AND APPROVE MAJOR
+SERVICE CHANGE PROPOSALS;
+(11) REVIEW AND APPROVE ANY UPDATE TO THE CENTRAL
+MARYLAND REGIONAL TRANSIT PLAN;
+(12) REVIEW AND APPROVE THE CAPITAL NEEDS INVENTORY
+REPORT;
+(13) REVIEW LOCAL TRANSIT PLANS AND SERVICES IN THE
+BALTIMORE REGION TO ENSURE COORDINATION BETWEEN THE LOCAL TRANSIT
+SERVICES AND BALTIMORE CORE TRANSIT SERVICE;
+(14) ORGANIZE AND ESTABLISH POLICIES AND PROCEDURES FOR THE
+OPERATIONS OF THE BOARD, INCLUDING CONFLICT OF INTEREST STANDARDS,
+CONSISTENT WITH TITLE 5 OF THE GENERAL PROVISIONS ARTICLE AND § 7–211 OF
+THIS SUBTITLE, THAT PROHIBIT A BOARD MEMBER FROM HAVING ANY
+INAPPROPRIATE FINANCIAL PROFESSIONAL, FINANCIAL, OR NONFINANCIAL
+INTEREST IN A MATTER OVER WHICH THE BOARD HAS JURISDICTION;
+(15) NOT LATER THAN 6 MONTHS AFTER THE BOARD FIRST MEETS,
+ADOPT BYLAWS TO GOVERN THE OPERATIONS OF THE BOARD;
+(16) (I) KEEP MINUTES OF BOARD MEETINGS AND MAINTAIN
+PROPER RECORDS OF ALL BOARD ACTIVITY; AND
+(II) POST ALL MINUTES, RECORDS, NOTICES, COMMENTS, OR
+OTHER INFORMATION ISSUED BY THE BOARD OR RECEIVED FROM THE PUBLIC ON A
+PUBLIC WEBSITE ESTABLISHED AND MAINTAINED BY THE BOARD; AND
+– 6 –
+
+WES MOORE, Governor Ch. 419
+(17) (I) SUBMIT AN ANNUAL REPORT TO THE SENATE BUDGET AND
+TAXATION COMMITTEE, THE HOUSE APPROPRIATIONS COMMITTEE, AND THE
+HOUSE WAYS AND MEANS COMMITTEE, IN ACCORDANCE WITH § 2–1257 OF THE
+STATE GOVERNMENT ARTICLE, ON SYSTEM PERFORMANCE, TRENDS, MAJOR
+PROJECTS, AND OTHER ACTIVITIES; AND
+(II) MAKE THE REPORT AVAILABLE TO THE GENERAL PUBLIC
+AND ENSURE THAT THE REPORT IS READILY AVAILABLE ON THE WEBSITE OF THE
+ADMINISTRATION.
+(H) (1) THE BOARD SHALL MEET AT A TIME AND PLACE DESIGNATED BY
+THE CHAIR.
+(2) THE BOARD SHALL MEET AS OFTEN AS ITS DUTIES REQUIRE, BUT
+NOT LESS THAN QUARTERLY.
+7–201.2.
+(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+(2) “BOARD” MEANS THE COMMUTER SERVICES ADVISORY BOARD.
+(3) “COMMUTER SERVICE” MEANS THE ADMINISTRATION’S:
+(I) MARC COMMUTER MARYLAND AREA REGIONAL
+COMMUTER (MARC) TRAIN SERVICE; AND
+(II) THE ADMINISTRATION’S COMMUTER COMMUTER BUS
+SERVICE.
+(B) THERE IS A COMMUTER SERVICES ADVISORY BOARD IN THE
+ADMINISTRATION.
+(C) (1) THE BOARD CONSISTS OF THE FOLLOWING VOTING MEMBERS,
+APPOINTED BY THE GOVERNOR:
+(I) THE SECRETARY, OR THE SECRETARY’S DESIGNEE;
+(II) SIX MEMBERS WHO RESIDE IN AREAS SERVED BY MARC OR
+ADMINISTRATION COMMUTER BUSES;
+– 7 –
+
+Ch. 419 2026 LAWS OF MARYLAND
+(III) ONE MEMBER WHO REPRESENTS RIDERS WITH
+ACCESSIBILITY CHALLENGES; AND
+(IV) ONE MEMBER WHO IS AN EMPLOYEE OF AN
+ADMINISTRATION COMMUTER SERVICE CONTRACTOR AND IS A MEMBER OF A LABOR
+UNION THAT HAS A COLLECTIVE BARGAINING AGREEMENT WITH THE COMMUTER
+SERVICE CONTRACTOR.
+(2) THE GOVERNOR SHALL DESIGNATE THE CHAIR OF THE BOARD,
+WHO SHALL SERVE AS CHAIR AT THE PLEASURE OF THE GOVERNOR.
+(D) (1) THE TERM OF A BOARD MEMBER IS 3 YEARS.
+(2) THE TERMS OF THE MEMBERS ARE STAGGERED AS REQUIRED BY
+THE TERMS PROVIDED FOR MEMBERS OF THE BOARD ON JANUARY 1, 2027.
+(3) AT THE END OF A TERM, A MEMBER CONTINUES TO SERVE UNTIL
+A SUCCESSOR IS APPOINTED AND QUALIFIES.
+(4) A MEMBER WHO IS APPOINTED AFTER A TERM HAS BEGUN SERVES
+ONLY FOR THE REST OF THE TERM AND UNTIL A SUCCESSOR IS APPOINTED AND
+QUALIFIES.
+(E) (1) THE DEPARTMENT AND THE ADMINISTRATION SHALL PROVIDE
+STAFF FOR THE BOARD, INCLUDING A DEPUTY ADMINISTRATOR WHO SHALL SERVE
+AS THE EXECUTIVE DIRECTOR AND REPORT DIRECTLY TO THE ADMINISTRATOR.
+(2) THE ADMINISTRATION SHALL PROVIDE OFFICE SPACE FOR THE
+BOARD.
+(F) A MEMBER OF THE BOARD:
+(1) MAY NOT RECEIVE COMPENSATION AS A MEMBER OF THE BOARD;
+BUT
+(2) IS ENTITLED TO REIMBURSEMENT FOR EXPENSES UNDER THE
+STANDARD STATE TRAVEL REGULATIONS, AS PROVIDED IN THE STATE BUDGET.
+(G) THE BOARD SHALL:
+(1) PROVIDE ADVICE AND GUIDANCE ON MARC AND COMMUTER BUS
+PLANS AND POLICIES;
+– 8 –
+
+WES MOORE, Governor Ch. 419
+(2) REVIEW AND COMMENT ON MAJOR MARC AND COMMUTER BUS
+SERVICE PLANS AND UPDATES;
+(3) PROVIDE ADVICE AND GUIDANCE ON THE HIRING AND REMOVAL
+OF THE DEPUTY ADMINISTRATOR;
+(4) (I) REVIEW AND COMMENT ON THE ADMINISTRATION’S
+OPERATING AND CAPITAL BUDGET REQUESTS FOR MARC AND COMMUTER BUS
+SERVICE; AND
+(II) ESTABLISH, IN CONSULTATION WITH THE DEPARTMENT
+AND THE ADMINISTRATION, A TIMELINE FOR REVIEW AND COMMENT UNDER THIS
+PARAGRAPH THAT IS CONSISTENT WITH THE DEPARTMENT’S BUDGET PROCESS;
+AND
+(5) (I) SUBMIT AN ANNUAL REPORT TO THE SENATE BUDGET AND
+TAXATION COMMITTEE, THE HOUSE APPROPRIATIONS COMMITTEE, AND THE
+HOUSE WAYS AND MEANS COMMITTEE, IN ACCORDANCE WITH § 2–1257 OF THE
+STATE GOVERNMENT ARTICLE, ON SYSTEM PERFORMANCE, TRENDS, MAJOR
+PROJECTS, AND OTHER ACTIVITIES; AND
+(II) MAKE THE REPORT AVAILABLE TO THE GENERAL PUBLIC
+AND ENSURE THAT THE REPORT IS READILY AVAILABLE ON THE WEBSITE OF THE
+ADMINISTRATION.
+(H) (1) THE BOARD SHALL MEET AT A TIME AND PLACE DESIGNATED BY
+THE CHAIR.
+(2) THE BOARD SHALL MEET AS OFTEN AS THE DUTIES REQUIRE, BUT
+NOT LESS THAN QUARTERLY.
+7–206.
+(a) (1) Without regard to the laws of this State relating to other State
+employees, and subject to § 2–103.4 of this article, the Administration may:
+(i) Create and abolish any position other than one specifically
+provided for in this title; and
+(ii) Determine the qualification, appointment, removal, term, and
+tenure of its employees.
+(2) The Administration may determine the compensation of:
+– 9 –
+
+Ch. 419 2026 LAWS OF MARYLAND
+(i) Employees if the compensation is determined pursuant to
+Subtitle 6 of this title;
+(ii) Executive management positions, as recommended by the
+Secretary and approved by the Governor, subject to approval in the budget; and
+(iii) Management positions, subject to approval by the Secretary and
+the Governor and the availability of funds in the budget.
+(b) (1) Subject to § 2–103.4 of this article, the Administration may establish a
+personnel system based on merit and fitness.
+(2) The Administration may:
+(i) Subject to Division II of the State Personnel and Pensions
+Article, participate in the Employees’ Retirement System and the Employees’ Pension
+System of the State of Maryland on terms and conditions mutually acceptable to the
+Administration and the Board of Trustees for the State Retirement and Pension System;
+and
+(ii) Establish and maintain an independent system of pensions and
+retirement benefits for its employees.
+(c) The Administrator may appoint and remove all employees of the
+Administration, subject to the rules of procedure and standards that the Secretary adopts.
+(D) (1) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, THE
+MARYLAND TRANSPORTATION COMMISSION SHALL DETERMINE THE
+QUALIFICATIONS AND APPOINTMENTS, AS WELL AS COMPENSATION AND LEAVE,
+FOR UP TO 12 MANAGEMENT PERSONNEL POSITIONS REQUIRED BY THE
+ADMINISTRATION TO OPERATE AND ADMINISTER ALL STATE–OWNED TRANSIT
+FACILITIES.
+(2) (I) IN MAKING DETERMINATIONS AND APPOINTMENTS UNDER
+THIS SUBSECTION, THE MARYLAND TRANSPORTATION COMMISSION SHALL
+CONSIDER THE COMPARATIVE STATUS OF EMPLOYEES SERVING IN SIMILAR
+POSITIONS AND DISCHARGING SIMILAR DUTIES AT COMPARABLE TRANSIT
+AGENCIES.
+(II) IN SELECTING COMPARABLE TRANSIT AGENCIES, THE
+MARYLAND TRANSPORTATION COMMISSION SHALL CONSIDER OPERATIONAL AND
+TRAFFIC DATA, MARKET AREA CHARACTERISTICS, AGENCY COMPETITIVENESS, AND
+ANY OTHER FACTORS THE COMMISSION CONSIDERS APPROPRIATE.
+– 10 –
+
+WES MOORE, Governor Ch. 419
+(3) EXCEPT FOR GENERAL SALARY INCREASES APPROVED BY THE
+GENERAL ASSEMBLY, THE MARYLAND TRANSPORTATION COMMISSION SHALL
+SUBMIT TO THE SECRETARY OF BUDGET AND MANAGEMENT AT LEAST 10 DAYS
+BEFORE THE EFFECTIVE DATE OF ANY MANAGEMENT PERSONNEL POSITION SALARY
+INCREASE NOTICE OF THE PROPOSED ADJUSTMENT.
+(4) THE SECRETARY OF BUDGET AND MANAGEMENT SHALL:
+(I) REVIEW THE PROPOSED ADJUSTMENT; AND
+(II) WITHIN 10 DAYS AFTER RECEIPT OF THE PROPOSED
+ADJUSTMENT, ADVISE THE MARYLAND TRANSPORTATION COMMISSION WHETHER
+THE ADJUSTMENT POSES AN ADVERSE IMPACT ON SPECIAL FUND EXPENDITURES.
+(5) FAILURE OF THE SECRETARY OF BUDGET AND MANAGEMENT TO
+ADVISE THE MARYLAND TRANSPORTATION COMMISSION IN A TIMELY MANNER
+SHALL BE DEEMED A DETERMINATION THAT THE PROPOSED ADJUSTMENT POSES
+NO ADVERSE IMPACT.
+(6) EMPLOYEES APPOINTED UNDER THIS SUBSECTION ARE STATE
+EMPLOYEES AND SHALL BE ENTITLED TO PARTICIPATE IN THE RETIREMENT AND
+PENSION SYSTEMS FOR EMPLOYEES OF THE STATE OF MARYLAND AUTHORIZED
+UNDER DIVISION II OF THE STATE PERSONNEL AND PENSIONS ARTICLE.
+[7–213.
+(a) There is a Baltimore Regional Transit Commission.
+(b) The Commission consists of the following members:
+(1) The following six members from Baltimore City, appointed as follows:
+(i) Three members appointed by the Governor, including:
+1. At least one member who uses transit in the Baltimore
+region; and
+2. At least one member from the business community; and
+(ii) Three members appointed by the Mayor of Baltimore City;
+(2) The following four members from Baltimore County, appointed as
+follows:
+– 11 –
+
+Ch. 419 2026 LAWS OF MARYLAND
+(i) Two members appointed by the Governor, including:
+1. At least one member who uses transit in the Baltimore
+region; and
+2. At least one member from the business community; and
+(ii) Two members appointed by the County Executive of Baltimore
+County;
+(3) The following two members from Anne Arundel County, appointed as
+follows:
+(i) One member appointed by the Governor; and
+(ii) One member appointed by the County Executive of Anne
+Arundel County;
+(4) The following two members from Howard County, appointed as follows:
+(i) One member appointed by the Governor; and
+(ii) One member appointed by the County Executive of Howard
+County;
+(5) One nonvoting member who is an employee of the Administration and
+is a member of the Amalgamated Transit Union local labor union, designated by the labor
+union; and
+(6) The Secretary or the Secretary’s designee, who shall vote only in the
+case of a tie.
+(c) (1) The Commission shall select a chair and a vice chair from among its
+members.
+(2) The chair and vice chair shall each serve a term of 2 years in those
+capacities.
+(d) (1) The term of a commissioner is 3 years.
+(2) A commissioner may not serve more than two consecutive terms.
+(3) The term of a commissioner begins January 1, 2024.
+(4) The terms of the members are staggered as required by the terms
+provided for members of the Commission on January 1, 2024.
+– 12 –
+
+WES MOORE, Governor Ch. 419
+(5) At the end of a term, a commissioner continues to serve until a successor
+is appointed.
+(e) (1) The Baltimore Metropolitan Council shall provide staff for the
+Commission.
+(2) The Administration shall allocate funds for operational expenses
+incurred by the Commission, including funding for one senior planner and two junior
+planner staffing positions.
+(f) A member of the Commission:
+(1) May not receive compensation as a member of the Commission; but
+(2) Is entitled to reimbursement for expenses under the Standard State
+Travel Regulations, as provided in the State budget.
+(g) The Commission shall:
+(1) Organize and establish policies and procedures for the operations of the
+Commission, including conflict of interest standards that prohibit a commissioner from
+having any inappropriate financial or nonfinancial interest in a matter over which the
+Commission has jurisdiction;
+(2) Not later than 6 months after the Commission first meets, adopt bylaws
+to govern the operations of the Commission;
+(3) (i) Meet at least quarterly; and
+(ii) Accept public comments during the meetings and, at all times,
+electronically;
+(4) Include in the quarterly agenda each of the following topics at least once
+each year:
+(i) The Capital Needs Inventory Report;
+(ii) The Consolidated Transportation Program priorities and initial
+budget requests under § 2–103.1 of this article; and
+(iii) Any update on the Central Maryland Regional Transit Plan
+under § 7–301.1 of this title;
+(5) (i) Keep minutes of Commission meetings and maintain proper
+records of all Commission activity; and
+– 13 –
+
+Ch. 419 2026 LAWS OF MARYLAND
+(ii) Post all minutes, records, notices, comments, or other
+information issued by the Commission or received from the public on a public website
+established and maintained by the Commission;
+(6) Provide input and engage in advocacy for the Baltimore region public
+transit systems maintained by the Administration;
+(7) Request and review information from the Annual Attainment Report
+and the Administration concerning the attainment of the Administration’s goals, including
+performance goals and metrics, evaluate any other measures of the performance of the
+Baltimore region transit system, and issue written recommendations concerning how the
+results of the Commission’s review and evaluation should influence the Administration’s
+priorities in future years;
+(8) Review and comment on service change reports and major service
+change proposals on a quarterly basis;
+(9) Review and comment on the Administration’s annual operating and
+capital budget request for the Baltimore region, including bus, light rail, metro, commuter
+bus, MARC service, and paratransit as part of the development of the draft and final
+Consolidated Transportation Program;
+(10) Review and approve any update to the Central Maryland Regional
+Transit Plan;
+(11) Review and comment on the Capital Needs Inventory Report; and
+(12) Review local transit plans and services in the Baltimore region to
+ensure coordination between the local transit services and the Administration.
+(h) In carrying out its duties under subsection (g) of this section, the Commission
+shall endeavor to ensure that the Administration’s plans, budgets, decisions, policies, goals,
+priorities, operations, and services address the public transit needs of residents and
+businesses in the Baltimore region.
+(i) On or before December 1 each year, the Commission shall report its findings
+and recommendations on the Baltimore region transit systems to the Administration, the
+Governor, and, in accordance with § 2–1257 of the State Government Article, the General
+Assembly.]
+7–702.
+(a) Subject to the provisions of this section, the Administration is liable for its
+contracts and torts and for the torts of its officers, agents, and employees in connection with
+the performance of the duties and functions of the Administration under this title.
+– 14 –
+
+WES MOORE, Governor Ch. 419
+(b) (1) The exclusive remedy for a breach of contract or for a tort committed by
+the Administration, its officers, agents, or employees is a suit against the Administration.
+(2) No execution may be levied on any property of this State or of the
+Administration.
+(c) THE LIABILITY OF THE ADMINISTRATION AS TO A TORT ACTION MAY
+NOT EXCEED $400,000 TO A SINGLE CLAIMANT FOR INJURIES ARISING FROM A
+SINGLE INCIDENT OR OCCURRENCE.
+(D) Subsection [(d)] (E) of this section does not apply to a tort claim that is
+asserted by cross–claim, counterclaim, or third–party claim.
+[(d)] (E) A tort claimant may not institute an action under this section unless:
+(1) The claimant submits a written notice of claim to the Administrator or
+the Administrator’s designee within 1 year after the injury to person or property that is the
+basis of the claim;
+(2) The Administrator or the Administrator’s designee denies the claim;
+and
+(3) The action is filed within 3 years after the cause of action arises.
+[(e)] (F) A notice of claim under this section shall:
+(1) Contain a concise statement of facts that sets forth the nature of the
+claim, including the date and place of the alleged tort;
+(2) State the name and address of the claimant;
+(3) State the name, address, and telephone number of counsel for the
+claimant, if any; and
+(4) Be signed by the claimant, or the legal representative or counsel for the
+claimant.
+[(f)] (G) A claim under this section is denied:
+(1) If the Administrator or the Administrator’s designee sends the
+claimant, or the legal representative or counsel for the claimant, written notice of denial;
+or
+(2) If the Administrator or the Administrator’s designee fails to give notice
+of a denial within 6 months after the sending of the notice of claim.
+– 15 –
+
+Ch. 419 2026 LAWS OF MARYLAND
+[(g)] (H) Notwithstanding any other provision of this section, unless the
+Administration affirmatively shows that its defense has been prejudiced by the lack of the
+required notice, a court may allow the action to proceed even if the written notice of claim
+was not submitted.
+SECTION 2. AND BE IT FURTHER ENACTED, (Three–fifths of all the members
+elected to each of the two Houses concurring), That it be proposed that the Maryland
+Constitution read as follows:
+Article III – Legislative Department
+40B.
+The General Assembly shall enact no law authorizing private property to be taken
+for public use without just compensation, to be agreed upon between the parties or awarded
+by a jury, being first paid or tendered to the party entitled to such compensation, except
+that where such property in the judgment of the State [Roads Commission] HIGHWAY
+ADMINISTRATION, OR A SUCCESSOR STATE AGENCY, is needed by the State for
+highway purposes OR OF THE MARYLAND TRANSIT ADMINISTRATION, OR A
+SUCCESSOR STATE AGENCY, IS NEEDED BY THE STATE FOR TRANSIT PURPOSES, the
+General Assembly may provide that such property may be taken immediately upon
+payment therefor to the owner or owners thereof by said State [Roads Commission]
+HIGHWAY ADMINISTRATION OR MARYLAND TRANSIT ADMINISTRATION, OR ANY
+RESPECTIVE SUCCESSOR STATE AGENCIES, or into Court, such amount as said State
+[Roads Commission] HIGHWAY ADMINISTRATION OR MARYLAND TRANSIT
+ADMINISTRATION, OR ANY RESPECTIVE STATE AGENCIES, shall estimate to be of the
+fair value of said property, provided such legislation also requires the payment of any
+further sum that may subsequently be awarded by a jury.
+SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+as follows:
+Article – Transportation
+7–401.1.
+(A) (1) SUBJECT TO PARAGRAPHS (2) AND (3) OF THIS SUBSECTION, IF
+PROPERTY IS TO BE CONDEMNED FOR A TRANSIT PURPOSE, THE ADMINISTRATION
+SHALL CONDEMN THE NECESSARY PROPERTY UNDER THIS SECTION.
+(2) IF THE ADMINISTRATION CONSIDERS THE PROCEDURES UNDER
+THIS SECTION INAPPROPRIATE, THE PROPERTY MAY BE CONDEMNED BY THE
+– 16 –
+
+WES MOORE, Governor Ch. 419
+ADMINISTRATION UNDER § 7–401.2 OF THIS SUBTITLE OR TITLE 12 OF THE REAL
+PROPERTY ARTICLE.
+(3) EXCEPT AS OTHERWISE PROVIDED IN THIS SECTION,
+CONDEMNATION PROCEEDINGS UNDER THIS SECTION SHALL FOLLOW THE
+PROCEDURES SET FORTH IN TITLE 12 OF THE REAL PROPERTY ARTICLE AND THE
+MARYLAND RULES.
+(B) (1) BEFORE ANY PROPERTY IS CONDEMNED UNDER THIS SECTION
+THE ADMINISTRATION SHALL:
+(I) COMPLETE APPROPRIATE ENGINEERING AND OTHER
+STUDIES; AND
+(II) PREPARE A CONSTRUCTION PLAN THAT SHOWS THE
+LOCATION OF THE TRANSIT FACILITY TO BE CONSTRUCTED, IMPROVED, OR
+RECONSTRUCTED.
+(2) AFTER PREPARING THE CONSTRUCTION PLAN, THE
+ADMINISTRATION SHALL PREPARE PLATS THAT INCLUDE:
+(I) THE CONSTRUCTION PLAN;
+(II) THE FEE SIMPLE AND EASEMENT AREA TO BE ACQUIRED;
+AND
+(III) THE PROPERTY LINES OF THE PROPERTY OWNERS WHOSE
+PROPERTY WILL BE AFFECTED BY THE ACQUISITION.
+(3) AFTER THE PLATS ARE PREPARED, THE ADMINISTRATION SHALL:
+(I) MAKE THE ENGINEERING AND REAL ESTATE STUDIES,
+EVALUATIONS, AND INVESTIGATIONS NECESSARY TO DETERMINE, IN ITS OPINION:
+1. THE FAIR VALUE OF THE PROPERTY TO BE ACQUIRED;
+AND
+2. THE FAIR COMPENSATION FOR ANY RESULTING
+DAMAGES TO THE REMAINING PROPERTY OF THE OWNER;
+(II) PREPARE AN ESTIMATE OF THIS FAIR VALUE AND FAIR
+COMPENSATION; AND
+– 17 –
+
+Ch. 419 2026 LAWS OF MARYLAND
+(III) PROVIDE FOR PAYMENT OF THESE ESTIMATED AMOUNTS AS
+REQUIRED BY SUBSECTION (E) OF THIS SECTION.
+(C) (1) THE PLATS PREPARED BY THE ADMINISTRATION SHALL BE FILED
+FOR RECORD WITH THE STATE ARCHIVES.
+(2) PLATS FILED WITH THE STATE ARCHIVES SHALL BE
+ELECTRONICALLY RECORDED AS PROVIDED IN § 9–1011 OF THE STATE
+GOVERNMENT ARTICLE.
+(D) (1) THE PLATS AND ESTIMATES APPROVED BY THE ADMINISTRATION
+SHALL BE KEPT AS PART OF THE PERMANENT RECORDS OF THE ADMINISTRATION.
+(2) NOTWITHSTANDING ANY OTHER STATUTE TO THE CONTRARY:
+(I) EXCEPT AS ALLOWED BY THE ADMINISTRATION, THE PLATS
+PREPARED BY THE ADMINISTRATION ARE NOT PUBLIC INFORMATION OR OPEN TO
+PUBLIC INSPECTION UNTIL THEY HAVE BEEN RECORDED; AND
+(II) EXCEPT WHEN FILED WITH A BOARD OF PROPERTY REVIEW
+ESTABLISHED UNDER § 8–327 OF THIS ARTICLE OR A COURT, THE ESTIMATES
+PREPARED BY THE ADMINISTRATION ARE NOT PUBLIC INFORMATION OR OPEN TO
+PUBLIC INSPECTION UNTIL ALL THE PROPERTY SHOWN ON THE PLATS HAS BEEN
+ACQUIRED OR ITS PRICE DETERMINED.
+(E) (1) AFTER THE PLATS ARE FILED FOR RECORD, THE
+ADMINISTRATION IMMEDIATELY SHALL:
+(I) FILE, IN THE COURT FOR THE COUNTY IN WHICH THE
+PROPERTY TO BE ACQUIRED IS LOCATED, A PETITION FOR CONDEMNATION THAT
+INCLUDES:
+1. THE NAME AND ADDRESS OF THE PROPERTY OWNER;
+2. THE LOCATION OF THE PROPERTY TO BE ACQUIRED;
+AND
+3. THE ESTIMATED FAIR VALUE OF THE PROPERTY TO
+BE ACQUIRED AND ESTIMATED FAIR COMPENSATION FOR ANY DAMAGE RESULTING
+TO THE REMAINING PROPERTY OF THE OWNER; AND
+– 18 –
+
+WES MOORE, Governor Ch. 419
+(II) PAY TO THE OWNER OF THE PROPERTY OR INTO THE COURT
+FOR THE OWNER’S BENEFIT, THE ESTIMATED FAIR VALUE AND FAIR COMPENSATION
+SPECIFIED IN THE PETITION.
+(2) ON WRITTEN REQUEST TO THE CLERK OF THE COURT, THE
+PROPERTY OWNER IS ENTITLED TO RECEIVE ANY AMOUNT PAID INTO THE COURT
+FOR THE PROPERTY OWNER’S BENEFIT, WITHIN 10 BUSINESS DAYS OF THE
+REQUEST, WITHOUT PREJUDICE TO ANY OF THE PROPERTY OWNER’S RIGHTS, IF THE
+PROPERTY OWNER AGREES TO REPAY TO THE ADMINISTRATION ANY EXCESS OF
+THAT AMOUNT OVER THE FINAL AWARD THAT IS ALLOWED IN THE SUBSEQUENT
+CONDEMNATION PROCEEDINGS.
+(3) A PAYMENT MADE UNDER THIS SECTION DOES NOT LIMIT IN ANY
+WAY THE AMOUNT OF THE FINAL AWARD THAT MAY BE ALLOWED IN THE
+SUBSEQUENT CONDEMNATION PROCEEDINGS.
+(F) (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION,
+AFTER THE PETITION IS FILED AND PAYMENT IS MADE UNDER SUBSECTION (E) OF
+THIS SECTION:
+(I) THE ADMINISTRATION MAY TAKE POSSESSION OF THE
+PROPERTY TO BE ACQUIRED, AS SHOWN ON THE RECORDED PLATS;
+(II) THE ADMINISTRATION MAY PROCEED WITH
+CONSTRUCTION WITHOUT INTERFERENCE BY THE OWNER; AND
+(III) WITH THE PERMISSION OF THE ADMINISTRATION AND
+UNDER ITS SUPERVISION, ANY PUBLIC OR PRIVATE UTILITY MAY INSTALL ITS
+FACILITIES ON ANY LAND BEING ACQUIRED BY THE ADMINISTRATION IN FEE
+SIMPLE.
+(2) UNLESS THE OWNER AGREES OTHERWISE, IF A DWELLING OR
+PLACE OF BUSINESS IS TAKEN, THE RESIDENT OR OCCUPANT NEED NOT VACATE THE
+DWELLING OR PLACE OF BUSINESS UNTIL THE TITLE TO THE PROPERTY HAS BEEN
+ACQUIRED BY DEED OR CONDEMNATION.
+(G) (1) AFTER THE PETITION IS FILED AND PAYMENT IS MADE UNDER
+SUBSECTION (E) OF THIS SECTION, THE ADMINISTRATION SHALL SEEK TO ACQUIRE
+THE PROPERTY BY AMICABLE NEGOTIATION.
+(2) FOR PURPOSES OF THESE NEGOTIATIONS, THE ADMINISTRATION
+SHALL DETERMINE THE VALUE OF THE PROPERTY TO BE ACQUIRED AS OF THE DATE
+– 19 –
+
+Ch. 419 2026 LAWS OF MARYLAND
+THE PAYMENT IS MADE TO THE PROPERTY OWNER OR INTO COURT UNDER
+SUBSECTION (E) OF THIS SECTION.
+(H) (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION, IF
+THE ADMINISTRATION IS UNABLE TO ACQUIRE THE PROPERTY BY NEGOTIATION, IT
+SHALL CERTIFY THE CASE TO THE BOARD OF PROPERTY REVIEW FOR THE COUNTY
+IN WHICH THE PROPERTY IS LOCATED, AS PROVIDED IN THE MARYLAND RULES.
+(2) A CASE SHALL BE FILED AS A CONDEMNATION CASE IN THE COURT
+FOR THE COUNTY IN WHICH THE PROPERTY IS LOCATED AND MAY NOT BE HEARD BY
+A BOARD OF PROPERTY REVIEW IF:
+(I) THE ADMINISTRATION DETERMINES THAT VALID,
+MARKETABLE TITLE IS UNOBTAINABLE WITHOUT A COURT PROCEEDING; OR
+(II) A NONRESIDENT HAS AN INTEREST IN THE PROPERTY AND
+WILL NOT ACCEPT SERVICE OF PROCESS AND AGREE TO THE BOARD’S
+JURISDICTION.
+(I) IF, WITHIN 1 YEAR AFTER PAYMENT IS MADE UNDER SUBSECTION (E) OF
+THIS SECTION, THE ADMINISTRATION FAILS TO ASCERTAIN THE ENTIRE AMOUNT TO
+BE PAID FOR THE PROPERTY AND ACQUIRE TITLE TO IT BY DEED OR CONDEMNATION
+OR, WITHIN THAT SAME 1–YEAR PERIOD, FAILS TO FILE TIMELY A PETITION FOR
+CONDEMNATION AS REQUIRED BY THE MARYLAND RULES, THEN THE FAIR VALUE
+OF THE PROPERTY SHALL BE THE GREATER OF THE VALUES DETERMINED AS OF:
+(1) THE DATE THE TITLE TO THE PROPERTY IS ACQUIRED; AND
+(2) THE DATE THE PAYMENT WAS MADE UNDER SUBSECTION (E) OF
+THIS SECTION.
+(J) AT THE CONCLUSION OF ALL PROCEEDINGS, THE ADMINISTRATION
+SHALL PAY TO THE PROPERTY OWNER:
+(1) ANY EXCESS OF THE FINAL AWARD OVER THE AMOUNT PAID
+UNDER SUBSECTION (E) OF THIS SECTION; AND
+(2) INTEREST ON THE EXCESS FROM THE DATE OF PAYMENT UNDER
+SUBSECTION (E) OF THIS SECTION AT THE RATE OF 6% A YEAR.
+7–401.2.
+– 20 –
+
+WES MOORE, Governor Ch. 419
+(A) (1) IF THE ADMINISTRATION DETERMINES THAT CONDEMNATION
+UNDER § 7–401.1 OF THIS SUBTITLE IS INAPPROPRIATE, THE ADMINISTRATION MAY
+ACQUIRE PROPERTY BY CONDEMNATION UNDER THIS SECTION, AFTER MAKING
+EVERY REASONABLE AND GOOD FAITH EFFORT TO NEGOTIATE.
+(2) EXCEPT AS OTHERWISE PROVIDED IN THIS SECTION,
+CONDEMNATION PROCEEDINGS UNDER THIS SECTION SHALL FOLLOW THE
+PROCEDURES SET FORTH IN TITLE 12 OF THE REAL PROPERTY ARTICLE AND THE
+MARYLAND RULES.
+(B) TO CONDEMN PROPERTY UNDER THIS SECTION, THE ADMINISTRATION
+SHALL:
+(1) FILE A PETITION FOR CONDEMNATION IN THE COURT FOR THE
+COUNTY IN WHICH THE PROPERTY TO BE ACQUIRED IS LOCATED; AND
+(2) PAY TO THE OWNER OF THE PROPERTY OR INTO THE COURT FOR
+THE OWNER’S BENEFIT, THE AMOUNT THAT THE ADMINISTRATION ESTIMATES TO
+BE THE FAIR VALUE OF THE PROPERTY TO BE ACQUIRED AND FAIR COMPENSATION
+FOR ANY DAMAGE RESULTING TO THE REMAINING PROPERTY OF THE OWNER.
+(C) AFTER THE PETITION IS FILED AND PAYMENT IS MADE UNDER
+SUBSECTION (B) OF THIS SECTION, THE ADMINISTRATION MAY:
+(1) TAKE POSSESSION OF THE PROPERTY TO BE ACQUIRED; AND
+(2) PROCEED WITH CONSTRUCTION WITHOUT INTERFERENCE BY THE
+OWNER.
+(D) ON WRITTEN REQUEST TO THE CLERK OF THE COURT, THE PROPERTY
+OWNER IS ENTITLED TO RECEIVE ANY AMOUNT PAID INTO THE COURT FOR THE
+PROPERTY OWNER’S BENEFIT WITHIN 10 BUSINESS DAYS OF THE REQUEST,
+WITHOUT PREJUDICE TO ANY OF THE PROPERTY OWNER’S RIGHTS, IF THE
+PROPERTY OWNER AGREES TO REPAY TO THE ADMINISTRATION ANY EXCESS OF
+THAT AMOUNT OVER THE FINAL AWARD THAT IS ALLOWED IN THE SUBSEQUENT
+CONDEMNATION PROCEEDINGS.
+(E) A PAYMENT MADE UNDER SUBSECTION (B) OF THIS SECTION DOES NOT
+LIMIT IN ANY WAY THE AMOUNT OF THE FINAL AWARD THAT MAY BE ALLOWED IN
+THE SUBSEQUENT CONDEMNATION PROCEEDINGS.
+– 21 –
+
+Ch. 419 2026 LAWS OF MARYLAND
+(F) AT THE CONCLUSION OF ALL PROCEEDINGS, THE ADMINISTRATION
+SHALL PAY TO THE PROPERTY OWNER ANY EXCESS OF THE FINAL AWARD OVER THE
+AMOUNT PAID UNDER SUBSECTION (B) OF THIS SECTION.
+8–327.
+(a) (1) There is a board of property review in each county.
+(2) If necessary, additional boards may be appointed in any county.
+(b) (1) Each board of property review of a county has three members who are
+appointed by the judges of the circuit court for the county.
+(2) Of the members of each board:
+(i) One shall be a lawyer;
+(ii) One shall be a farmer engaged in some agricultural pursuit; and
+(iii) One shall be an engineer or a person with an engineering
+background and knowledge.
+(3) A member of the General Assembly may not be a member of a board
+during his term of office.
+(c) (1) Each board member serves for a term of 2 years and until his successor
+is appointed and qualifies.
+(2) A member appointed to fill a vacancy in an unexpired term serves only
+for the remainder of that term.
+(d) A board member is entitled to the per diem compensation set by the Supreme
+Court of Maryland. The compensation shall be uniform statewide and shall be paid monthly
+by the Commission, on vouchers approved by the clerk of the court.
+(e) Each board shall appoint its chairman and may adopt rules not inconsistent
+with this title or the Maryland Rules.
+(f) Each county shall provide a suitable place for its board to meet and, whenever
+possible, the clerk of the court shall provide suitable clerical assistance. If the clerk fails to
+provide clerical assistance, the Administration OR THE MARYLAND TRANSIT
+ADMINISTRATION, AS APPROPRIATE, shall provide it on request of the board.
+(g) Each board is under the jurisdiction of the court and each member of the board
+is an officer of the court.
+– 22 –
+
+WES MOORE, Governor Ch. 419
+8–328.
+(a) Each board of property review:
+(1) Shall hear promptly all cases certified to it by the Commission OR THE
+MARYLAND TRANSIT ADMINISTRATION;
+(2) Shall determine the total amount of the award to be paid by the
+Commission OR THE MARYLAND TRANSIT ADMINISTRATION; and
+(3) May determine the portion of an award to be paid to persons, other than
+the fee owner, who have an interest in the property.
+(b) Unless all parties in a case certified to a board agree otherwise, the full board
+shall hear and decide the case. If a member of the board is absent or disqualified from
+hearing or deciding any case, the judges of the court that appointed the board shall
+designate another individual with qualifications similar to those of the absent or
+disqualified member to serve instead.
+(c) The board shall determine the fair value of the property to be acquired as of
+the date payment is made under § 7–401.1 OR § 7–401.2 OF THIS ARTICLE OR § 8–323
+of this subtitle.
+8–329.
+If any party is dissatisfied with the findings or award of a board of property review,
+the case may be appealed to the court. On appeal, the court shall hear and determine the
+case de novo, as provided by law and the Maryland Rules.
+SECTION 4. 2. AND BE IT FURTHER ENACTED, That, notwithstanding § 7–201.1
+of the Transportation Article, as enacted by Section 1 of this Act, the initial terms of the
+Board of Directors for Baltimore Core Transit Service established under this Act shall be
+staggered as follows:
+(1) the five members appointed by the Governor shall serve an initial term
+of 4 years; and
+(2) the members appointed by the Mayor of Baltimore City, the Baltimore
+County Executive, and the Anne Arundel County Executive shall serve an initial term of 3
+years.
+SECTION 5. 3. AND BE IT FURTHER ENACTED, That, notwithstanding § 7–201.2
+of the Transportation Article, as enacted by Section 1 of this Act, the initial terms of the
+Commuter Services Advisory Board established under this Act shall be staggered as
+follows:
+– 23 –
+
+Ch. 419 2026 LAWS OF MARYLAND
+(1) of the six members who reside in areas served by MARC or Maryland
+Transit Administration commuter buses, three members shall serve an initial term of 4
+years and three members shall serve an initial term of 3 years;
+(2) the member who represents riders with accessibility challenges shall
+serve an initial term of 4 years; and
+(3) the member who is an employee of a Maryland Transit Administration
+commuter service contractor and is a member of a labor union that has a collective
+bargaining agreement with the commuter service contractor shall serve an initial term of
+3 years.
+SECTION 6. 4. AND BE IT FURTHER ENACTED, That:
+(a) The Department of Transportation shall contract with the Baltimore
+Metropolitan Council to complete a technical study on or before December 1, 2026, that:
+(1) provides findings and considerations on the creation of a rail authority
+in Maryland, with the intent that this rail authority would be focused on financing for rail
+services;
+(2) examines peer models that may provide insight for the findings and
+considerations, including models in the Commonwealth of Virginia and Austin, Texas;
+(3) provides potential next steps to consider in the creation of a rail
+authority in Maryland; and
+(4) ensures that current rail transit services remain under the Maryland
+Transit Administration and that funding options for a statewide rail authority do not
+undermine future financial support for Baltimore Core Transit Services.
+(b) The Baltimore Metropolitan Council may consult with the Metropolitan
+Washington Council of Governments in completing the technical study.
+SECTION 7. 5. AND BE IT FURTHER ENACTED, That the Maryland Transit
+Administration shall:
+(1) reallocate its staff to ensure sufficient support for the Board of Directors
+for Baltimore Core Transit Service and the Commuter Services Advisory Board; and
+(2) at a minimum establish the following staff positions:
+(i) a Deputy Administrator and an analyst for the Board of Directors
+for Baltimore Core Transit Service;
+– 24 –
+
+WES MOORE, Governor Ch. 419
+(ii) a Deputy Administrator and an analyst for the Commuter
+Services Advisory Board; and
+(iii) a support officer to be shared between the Board of Directors for
+Baltimore Core Transit Service and the Commuter Services Advisory Board.
+SECTION 8. AND BE IT FURTHER ENACTED, That the General Assembly
+determines that the amendment to the Maryland Constitution proposed by Section 2 of this
+Act affects multiple jurisdictions and that the provisions of Article XIV, § 1 of the Maryland
+Constitution concerning local approval of constitutional amendments do not apply.
+SECTION 9. AND BE IT FURTHER ENACTED, That the amendment to the
+Maryland Constitution proposed by Section 2 of this Act shall be submitted to the qualified
+voters of the State at the next general election to be held in November 2026 for adoption or
+rejection in accordance with Article XIV of the Maryland Constitution. At that general
+election, the vote on the proposed amendment to the Constitution shall be by ballot, and on
+each ballot there shall be printed the words “For the Constitutional Amendment” and
+“Against the Constitutional Amendment”, as now provided by law. Immediately after the
+election, all returns shall be made to the Governor of the vote for and against the proposed
+amendment, as directed by Article XIV of the Maryland Constitution, and further
+proceedings held in accordance with Article XIV.
+SECTION 10. AND BE IT FURTHER ENACTED, That Section 3 of this Act is
+contingent on the passage of Section 2 of this Act, a constitutional amendment, and its
+ratification by the voters of the State.
+SECTION 11. AND BE IT FURTHER ENACTED, That, subject to Section 10 of this
+Act, Section 3 of this Act shall take effect on the proclamation of the Governor that the
+constitutional amendment, having received a majority of the votes cast at the general
+election, has been adopted by the people of Maryland.
+SECTION 12. 6. AND BE IT FURTHER ENACTED, That, except as provided in
+Sections 9 and 11 of this Act, this Act shall take effect October 1, 2026.
+Approved by the Governor, May 12, 2026.
+– 25 –

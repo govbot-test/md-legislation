@@ -1,0 +1,194 @@
+Title: 
+Official Title: 
+Source: versions - Chapter - Child Care Scholarship Program - Freeze in Enrollment - Exceptions and Waitlist
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+WES MOORE, Governor Ch. 594
+Chapter 594
+(House Bill 849)
+AN ACT concerning
+Child Care Scholarship Program – Freeze in Enrollment – Exceptions and
+Waitlist
+FOR the purpose of prohibiting a freeze in enrollment in the Child Care Scholarship
+Program from including certain individuals enrolled in certain governmental
+support programs, children with siblings enrolled in the Program, individuals with
+certain employment issues, and individuals employed by a child care provider and
+children who are homeless; requiring the State Department of Education to establish
+a waitlist for the Program under certain conditions; requiring the Department to give
+priority for enrollment in the Program to certain individuals on the waitlist;
+requiring the Department to develop a new application for the Program that collects
+certain information; and generally relating to exceptions to a freeze in enrollment in
+and a waitlist for the Child Care Scholarship Program.
+BY repealing and reenacting, with amendments,
+Article – Education
+Section 9.5–111
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Education
+9.5–111.
+(a) (1) In this section the following words have the meanings indicated.
+(2) “Analysis” means the market rate survey or an alternative method
+allowable under federal law.
+(3) “Program” means the Child Care Scholarship Program.
+(b) (1) Beginning in 2017, and every 2 years thereafter, the Department shall
+conduct an analysis in order to formulate appropriate reimbursement rates for the
+Program.
+(2) The Department, before conducting the analysis, shall consult with:
+(i) The Office of Child Care Advisory Council;
+– 1 –
+
+Ch. 594 2026 LAWS OF MARYLAND
+(ii) Child care resource and referral agencies;
+(iii) Child care worker organizations; and
+(iv) Any other appropriate entities.
+(c) On or before September 1, 2017, and by September 1 every 2 years thereafter,
+the Department shall report to the Joint Committee on Children, Youth, and Families, the
+Senate Budget and Taxation Committee, and the House Appropriations Committee, in
+accordance with § 2–1257 of the State Government Article, on:
+(1) The methodology of the analysis required under subsection (b) of this
+section;
+(2) Cost estimates for raising the Program’s reimbursement rates to the
+45th, 55th, 65th, and 75th percentile of child care providers in each of the State’s market
+regions;
+(3) The minimum base payment rate that is required for child care
+providers to meet health, safety, quality, and staffing requirements in accordance with
+federal law and the factors used to determine that rate;
+(4) The rate adjustment that the Department will implement based on the
+analysis;
+(5) Any adjustments to Program eligibility or family copay amount that
+will be implemented; and
+(6) Any potential impacts on families and providers due to any adjustments
+made to the Program.
+(d) (1) The Governor shall include in the annual State budget an appropriation
+from all fund sources for the Program that is not less than the total appropriation for the
+Program in fiscal year 2018 or fiscal year 2019, whichever is greater.
+(2) Except as provided in paragraph (3) of this subsection, the Department
+may not make the following alterations to the Program in effect as of January 1, 2023:
+(i) Reduce the reimbursement rates;
+(ii) Reduce the income eligibility requirements; or
+(iii) [Implement] SUBJECT TO SUBSECTION (E) OF THIS SECTION,
+IMPLEMENT a freeze in Program enrollment.
+– 2 –
+
+WES MOORE, Governor Ch. 594
+(3) (i) The Department may alter the Program in effect as of January
+1, 2023, by reducing the reimbursement rates, reducing the income eligibility
+requirements, or implementing a freeze in Program enrollment, if:
+1. The Department submits a notification to the Senate
+Budget and Taxation Committee, the Senate Committee on Education, Energy, and the
+Environment, the House Appropriations Committee, and the House Ways and Means
+Committee, in accordance with § 2–1257 of the State Government Article, on the intended
+Program alterations, including the reason for, and expected duration of, the proposed
+actions; and
+2. The Program alterations identified in the notification are
+not implemented until the completion of the regular legislative session immediately
+following the submission of the notification.
+(ii) If the Board of Public Works approves budget reductions for the
+Program under § 7–213 of the State Finance and Procurement Article for a certain fiscal
+year, the Department may reduce the reimbursement rates, reduce the income eligibility
+requirements, or implement a freeze in Program enrollment at any time during the fiscal
+year.
+(4) The EXCEPT AS PROVIDED IN § 9.5–113(D) OF THIS SUBTITLE, THE
+Department may not increase the copayment levels of the Program in effect as of January
+1, 2024.
+(E) (1) (I) A FREEZE IN PROGRAM ENROLLMENT MAY NOT APPLY TO:
+(I) 1. AN INDIVIDUAL OR A FAMILY WHO IS ENROLLED IN
+THE TEMPORARY CASH ASSISTANCE PROGRAM UNDER § 5–312 OF THE HUMAN
+SERVICES ARTICLE;
+(II) 2. AN INDIVIDUAL OR A FAMILY WHO IS ENROLLED IN
+THE FEDERAL TEMPORARY ASSISTANCE FOR NEEDY FAMILIES PROGRAM;
+(III) 3. A CHILD, PARENT, OR CAREGIVER WHO IS ENROLLED
+IN THE FEDERAL SOCIAL SUPPLEMENTAL SECURITY INCOME PROGRAM;
+(IV) 4. THE SIBLING OF A CHILD WHO IS ENROLLED IN THE
+PROGRAM; AND
+(V) AN INDIVIDUAL WHO:
+1. HAS BECOME UNEMPLOYED WITHIN THE PAST 30
+DAYS; AND
+– 3 –
+
+Ch. 594 2026 LAWS OF MARYLAND
+2. WOULD HAVE QUALIFIED FOR THE PROGRAM
+BEFORE BECOMING UNEMPLOYED;
+(VI) AN INDIVIDUAL WHO:
+1. IS EMPLOYED BY THE FEDERAL OR STATE
+GOVERNMENT OR A LOCAL GOVERNMENT IN THE STATE;
+2. IS INVOLUNTARILY FURLOUGHED FROM WORK
+WITHOUT PAY BECAUSE OF A GOVERNMENT SHUTDOWN, LASTING FOR A PERIOD
+THAT EXCEEDS 7 CONSECUTIVE DAYS, THAT CAUSES FUNDING TO BE UNAVAILABLE
+TO OPERATE GOVERNMENTAL ACTIVITIES DUE TO THE LACK OF A LEGISLATIVE
+APPROPRIATION OR A CONTINUING RESOLUTION; AND
+3. WOULD HAVE QUALIFIED FOR THE PROGRAM
+BEFORE BECOMING FURLOUGHED; AND
+(VII) AN INDIVIDUAL WHO IS EMPLOYED BY A CHILD CARE
+CENTER, A FAMILY CHILD CARE HOME, OR A LARGE FAMILY CHILD CARE HOME
+5. A CHILD WHO IS HOMELESS.
+(2) (II) AN INDIVIDUAL DESCRIBED UNDER PARAGRAPH (1) OF
+THIS SUBSECTION SUBPARAGRAPH (I) OF THIS PARAGRAPH SHALL OTHERWISE
+MEET THE CRITERIA FOR ENROLLMENT IN THE PROGRAM.
+(2) (I) IF THE DEPARTMENT ESTABLISHES A FREEZE IN PROGRAM
+ENROLLMENT, THE DEPARTMENT SHALL ESTABLISH A WAITLIST FOR ELIGIBLE
+INDIVIDUALS WHO APPLY TO THE PROGRAM AFTER THE FREEZE IS IN EFFECT.
+(II) THE WAITLIST SHALL REMAIN IN EFFECT AS LONG AS
+THERE ARE FEWER AVAILABLE AWARDS UNDER THE PROGRAM THAN ELIGIBLE
+APPLICANTS FOR THE PROGRAM.
+(III) THE WAITLIST SHALL PROVIDE AWARDS FOR ENROLLMENT
+IN THE PROGRAM TO QUALIFIED APPLICANTS IN THE FOLLOWING ORDER OF
+PRIORITY:
+1. APPLICANTS WITH THE GREATEST FINANCIAL NEED,
+BASED ON ANNUAL HOUSEHOLD INCOME;
+2. APPLICANTS WHO WORK FOR AT LEAST 20 HOURS A
+WEEK AS AN EMPLOYEE OR OPERATOR OF A CHILD CARE CENTER, A FAMILY CHILD
+– 4 –
+
+WES MOORE, Governor Ch. 594
+CARE HOME, A LARGE FAMILY CHILD CARE HOME, OR AN ELIGIBLE PUBLICLY
+FUNDED PREKINDERGARTEN PROGRAM UNDER TITLE 7, SUBTITLE 1A OF THIS
+ARTICLE THAT ACCEPTS CHILDREN ENROLLED IN THE PROGRAM;
+3. APPLICANTS ENROLLING A CHILD UNDER THE AGE OF
+3 YEARS; AND
+4. APPLICANTS WHO HAVE BEEN ON THE WAITLIST FOR
+THE LONGEST PERIOD OF TIME.
+[(e)] (F) The Governor shall, from all fund sources, appropriate funds in the
+annual State budget in an amount sufficient to raise the Program’s reimbursement rates
+for each region to:
+(1) For fiscal year 2020, not less than the 30th percentile of the most recent
+market rate survey or its equivalent if an alternative methodology defined by the
+Department is used; and
+(2) For fiscal year 2021 and each fiscal year thereafter, not less than the
+60th percentile of the most recent market rate survey or its equivalent if an alternative
+methodology defined by the Department is used.
+SECTION 2. AND BE IT FURTHER ENACTED, That:
+(a) The State Department of Education shall develop a new application for the
+Child Care Scholarship Program that collects information necessary to determine whether
+an individual is employed for at least 20 hours a week by a child care center, a family child
+care home, a large family child care home, or an eligible publicly funded prekindergarten
+program that accepts Child Care Scholarship recipients.
+(b) In implementing a waitlist for applicants for the Child Care Scholarship
+Program as required by § 9.5–111(e) of the Education Article, as enacted by Section 1 of
+this Act, the Department shall focus on enrolling other eligible applicants prioritized on the
+waitlist until the new application is developed in accordance with subsection (a) of this
+section.
+SECTION 3. AND BE IT FURTHER ENACTED, That:
+(a) (1) The State Department of Education shall review the methodology used
+to determine whether a parent or guardian is attending a job training program for the
+purposes of determining eligibility for a scholarship under the Child Care Scholarship
+Program.
+(2) In conducting its review, the Department shall consider alternative
+methods of measuring job training that could result in qualifying additional applicants.
+– 5 –
+
+Ch. 594 2026 LAWS OF MARYLAND
+(b) On or before December 15, 2026, the Department shall report to the General
+Assembly, in accordance with § 2–1257 of the State Government Article, on the results of
+its review.
+SECTION 2. 4. AND BE IT FURTHER ENACTED, That this Act shall take effect
+July 1, 2026, contingent on the taking effect of Chapter 595 of the Acts of the General
+Assembly of 2026, and if Chapter 595 does not take effect, this Act, with no further action
+required by the General Assembly, shall be null and void.
+Approved by the Governor, May 26, 2026.
+– 6 –

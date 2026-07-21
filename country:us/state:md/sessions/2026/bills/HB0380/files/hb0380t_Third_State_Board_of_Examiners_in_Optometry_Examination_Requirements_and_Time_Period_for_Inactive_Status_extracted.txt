@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Third - State Board of Examiners in Optometry - Examination Requirements and Time Period for Inactive Status
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 380
+J2 6lr1033
+CF SB 186
+By: Delegate S. Johnson
+Introduced and read first time: January 19, 2026
+Assigned to: Health
+Committee Report: Favorable
+House action: Adopted
+Read second time: February 18, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 State Board of Examiners in Optometry – Examination Requirements and Time
+3 Period for Inactive Status
+4 FOR the purpose of clarifying that applicants for licensure as an optometrist and certain
+5 applicants for reinstatement are required to pass all sections of each part of a
+6 licensure examination; repealing the requirement that the State Board of Examiners
+7 in Optometry give examinations to licensure applicants; repealing the requirement
+8 that a licensure applicant pay to the Board a reexamination fee set by the Board for
+9 each reexamination; prohibiting the Board from placing a licensee on inactive status
+10 for more than a certain period of time; and generally relating to the State Board of
+11 Examiners in Optometry.
+12 BY repealing and reenacting, with amendments,
+13 Article – Health Occupations
+14 Section 11–302(e), 11–304, 11–305, and 11–310
+15 Annotated Code of Maryland
+16 (2021 Replacement Volume and 2025 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Health Occupations
+20 11–302.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0380*
+
+2 HOUSE BILL 380
+1 (e) Except as otherwise provided in this subtitle, the applicant shall pass ALL
+2 SECTIONS OF EACH PART OF an examination [given] AS REQUIRED by the Board under
+3 this subtitle.
+4 11–304.
+5 (a) An applicant who otherwise qualifies for a license is entitled to be examined
+6 as provided in this section.
+7 [(b) Periodically, but not more often than once every 6 months, the Board shall
+8 give examinations to applicants at the times and places that the Board determines.
+9 (c) The Board shall notify each qualified applicant of the time and place of
+10 examination.]
+11 [(d)] (B) (1) Except as otherwise provided in this subsection, the Board shall
+12 determine the subjects, scope, form, and passing [score for examinations administered]
+13 SCORES FOR ALL SECTIONS OF EACH PART OF AN EXAMINATION under this subtitle.
+14 (2) The subjects examined shall include:
+15 (i) The anatomy, physiology, and pathology of the human eye; and
+16 (ii) The use of all instruments used for examination of the human
+17 eye.
+18 (3) The examination may include any subject that relates to optics and
+19 optometry:
+20 (i) Contained in any textbook; or
+21 (ii) Taught at any accredited educational institution that teaches
+22 optics, optometry, and other related subjects.
+23 [(e)] (C) [(1)] An applicant who fails the examination may take the next
+24 regularly scheduled examination.
+25 [(2) The applicant shall pay to the Board a reexamination fee set by the
+26 Board for each reexamination.]
+27 11–305.
+28 (a) Subject to the provisions of this section, the Board may waive the examination
+29 requirements of this title for an individual who is licensed to practice optometry in any
+30 other state.
+
+HOUSE BILL 380 3
+1 (b) The Board may grant a waiver under this section only if the applicant:
+2 (1) Pays the application fee required by the Board under § 11–303 of this
+3 subtitle;
+4 (2) Provides adequate evidence that the applicant:
+5 (i) Meets the qualifications otherwise required by this title,
+6 including, for 3 years before applying, the continuing education requirements of the other
+7 state in which the applicant has been practicing optometry, or, if the other state does not
+8 have any continuing education requirement, the applicant shall meet the equivalent of 3
+9 years of the continuing education requirements of this subtitle in courses approved by the
+10 Board;
+11 (ii) Meets the terms and conditions that the Board establishes in
+12 subsections (c) and (d) of this section;
+13 (iii) At the time the applicant was licensed in the other state, was
+14 qualified to take the examination that then was required by the laws of this State; and
+15 (iv) Qualified for a license in the other state by passing an
+16 examination given by the board of optometry in that state;
+17 (3) Presents a copy of the license, certified by the issuing board; and
+18 (4) Has not failed an examination [given] REQUIRED by the Board within
+19 the previous 5 years.
+20 (c) (1) The Board may waive the examination requirements of this subtitle for
+21 an applicant who:
+22 (i) If so required by the Board under subsection (d) of this section,
+23 passes an examination [administered] REQUIRED by the Board; and
+24 (ii) For 3 years immediately before applying, has practiced
+25 optometry actively.
+26 (2) The Board may waive the requirement of practicing optometry actively
+27 for an applicant who for 3 years:
+28 (i) Was teaching optometry;
+29 (ii) Was a uniformed services optometrist;
+30 (iii) Was a supervisor or administrative optometrist; or
+31 (iv) Was a researcher in optometry.
+
+4 HOUSE BILL 380
+1 (d) (1) Within 1 year of receipt of an application, the Board may require that
+2 the applicant pass an examination.
+3 (2) The Board shall determine the scope, form, and passing score for
+4 examinations under this section.
+5 11–310.
+6 (a) (1) The Board shall place a licensee on inactive status, if the licensee
+7 submits to the Board:
+8 (i) An application for inactive status on the form required by the
+9 Board; and
+10 (ii) The inactive status fee set by the Board.
+11 (2) THE BOARD MAY NOT PLACE A LICENSEE ON INACTIVE STATUS
+12 FOR MORE THAN 6 CONSECUTIVE YEARS.
+13 [(2)] (3) The Board shall issue a license to an individual who is on inactive
+14 status if the individual:
+15 (i) Meets any continuing education requirements set by the Board;
+16 and
+17 (ii) Pays to the Board the reinstatement fee set by the Board.
+18 (b) The Board may reinstate the license of an optometrist whose license has been
+19 expired for less than 5 years and who has not been put on inactive status, if the optometrist:
+20 (1) Has met the continuing education requirements set by the Board;
+21 (2) Meets the renewal requirements of § 11–308 of this subtitle; and
+22 (3) Pays to the Board the reinstatement fee set by the Board.
+23 (c) The Board may not reinstate the license of an optometrist whose license has
+24 been expired for 5 years or more and who has not been put on inactive status, unless the
+25 optometrist:
+26 (1) Passes ALL SECTIONS OF EACH PART OF an examination
+27 [administered] AS REQUIRED by the Board; and
+28 (2) Otherwise meets the requirements of subsection (b) of this section.
+
+HOUSE BILL 380 5
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+2 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.

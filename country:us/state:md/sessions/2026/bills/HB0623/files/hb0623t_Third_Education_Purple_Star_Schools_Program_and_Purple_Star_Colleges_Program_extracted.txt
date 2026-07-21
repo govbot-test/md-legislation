@@ -1,0 +1,158 @@
+Title: 
+Official Title: 
+Source: versions - Third - Education - Purple Star Schools Program and Purple Star Colleges Program
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 623
+F1, F2 6lr2449
+CF SB 709
+By: Delegates Patterson, Allen, Arentz, Bagnall, Behler, Boafo, Buckel, Coley,
+Crutchfield, Fair, Feldmark, Griffith, Hartman, Healey, Holmes,
+Hornberger, Howard, Ivey, A. Johnson, S. Johnson, A. Jones, Kaufman,
+J. Long, McComas, Miller, T. Morgan, Odom, Pasteur, Pruski, Queen, Reilly,
+Roberts, Rogers, Rose, Sample–Hughes, Schmidt, Simmons, Simpson,
+Spiegel, Stinnett, Taveras, Taylor, Turner, Wims, Wolek, and Woods
+Introduced and read first time: January 30, 2026
+Assigned to: Appropriations
+Committee Report: Favorable
+House action: Adopted
+Read second time: February 18, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Education – Purple Star Schools Program and Purple Star Colleges Program
+3 FOR the purpose of altering the definition of “military–connected student” under the Purple
+4 Star Schools Program to conform with certain terms defined under State law;
+5 establishing the Purple Star Colleges Program to recognize certain colleges that
+6 provide strong services and support for military–connected students; and generally
+7 relating to the establishment of the Purple Star Colleges Program.
+8 BY repealing and reenacting, with amendments,
+9 Article – Education
+10 Section 7–129(a)
+11 Annotated Code of Maryland
+12 (2025 Replacement Volume and 2025 Supplement)
+13 BY repealing and reenacting, without amendments,
+14 Article – Education
+15 Section 10–101(a), (c), and (h) through (j)
+16 Annotated Code of Maryland
+17 (2022 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0623*
+
+2 HOUSE BILL 623
+1 BY adding to
+2 Article – Education
+3 Section 11–2001 through 11–2003 to be under the new subtitle “Subtitle 20. Purple
+4 Star Colleges Program”
+5 Annotated Code of Maryland
+6 (2022 Replacement Volume and 2025 Supplement)
+7 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+8 That the Laws of Maryland read as follows:
+9 Article – Education
+10 7–129.
+11 (a) (1) In this section the following words have the meanings indicated.
+12 (2) “Military–connected student” means a student who is a dependent of:
+13 (i) [An active duty uniformed services member;
+14 (ii) A member of a reserve component] A SERVICE MEMBER; or
+15 [(iii)] (II) A SERVICE member [described in item (i) or (ii) of this
+16 paragraph] who was killed in the line of duty.
+17 (3) “Program” means the Purple Star Schools Program.
+18 10–101.
+19 (a) In this division the following words have the meanings indicated.
+20 (c) “Commission” means the Maryland Higher Education Commission.
+21 (h) (1) “Institution of higher education” means an institution of postsecondary
+22 education that generally limits enrollment to graduates of secondary schools, and awards
+23 degrees at either the associate, baccalaureate, or graduate level.
+24 (2) “Institution of higher education” includes public, private nonprofit, and
+25 for–profit institutions of higher education.
+26 (i) (1) “Institution of postsecondary education” means a school or other
+27 institution that offers an educational program in the State for individuals who are at least
+28 16 years old and who have graduated from or left elementary or secondary school.
+29 (2) “Institution of postsecondary education” does not include:
+
+HOUSE BILL 623 3
+1 (i) Any adult education, evening high school, or high school
+2 equivalence program conducted by a public school system of the State; or
+3 (ii) Any apprenticeship or on–the–job training program subject to
+4 approval by the Apprenticeship and Training Council.
+5 (j) “Private career school” means a privately owned and privately operated
+6 institution of postsecondary education other than an institution of higher education that
+7 furnishes or offers to furnish programs, whether or not requiring a payment of tuition or
+8 fee, for the purpose of training, retraining, or upgrading individuals for gainful employment
+9 as skilled or semiskilled workers or technicians in recognized occupations or in new and
+10 emerging occupations.
+11 SUBTITLE 20. PURPLE STAR COLLEGES PROGRAM.
+12 11–2001.
+13 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+14 INDICATED.
+15 (B) “COLLEGE” MEANS:
+16 (1) AN INSTITUTION OF HIGHER EDUCATION; OR
+17 (2) A PRIVATE CAREER SCHOOL.
+18 (C) “MILITARY–CONNECTED STUDENT” MEANS A STUDENT WHO IS:
+19 (1) A SERVICE MEMBER;
+20 (2) A VETERAN; OR
+21 (3) A SPOUSE OR DEPENDENT OF AN INDIVIDUAL DESCRIBED IN ITEM
+22 (1) OR (2) OF THIS SUBSECTION.
+23 (D) “PROGRAM” MEANS THE PURPLE STAR COLLEGES PROGRAM.
+24 11–2002.
+25 (A) THERE IS A PURPLE STAR COLLEGES PROGRAM.
+26 (B) THE PURPOSE OF THE PROGRAM IS TO RECOGNIZE COLLEGES THAT
+27 PROVIDE STRONG SERVICES AND SUPPORT FOR MILITARY–CONNECTED STUDENTS.
+
+4 HOUSE BILL 623
+1 (C) THE COMMISSION SHALL ADMINISTER THE PROGRAM.
+2 11–2003.
+3 (A) SUBJECT TO SUBSECTION (B) OF THIS SECTION, THE COMMISSION
+4 SHALL DESIGNATE A COLLEGE AS A PURPLE STAR COLLEGE IF THE COLLEGE
+5 APPLIES AND MEETS THE CRITERIA ADOPTED BY THE COMMISSION FOR A PURPLE
+6 STAR COLLEGE.
+7 (B) AT A MINIMUM, THE COMMISSION’S CRITERIA FOR A PURPLE STAR
+8 COLLEGE SHALL REQUIRE A COLLEGE TO:
+9 (1) DESIGNATE A STAFF MEMBER AS A UNIFORMED SERVICES
+10 LIAISON, WHOSE DUTIES SHALL INCLUDE:
+11 (I) IDENTIFYING MILITARY–CONNECTED STUDENTS WHO ARE
+12 NEWLY ENROLLED AT THE COLLEGE;
+13 (II) SERVING AS THE POINT OF CONTACT BETWEEN THE
+14 COLLEGE AND NEWLY ENROLLED MILITARY–CONNECTED STUDENTS;
+15 (III) DETERMINING APPROPRIATE COLLEGE SERVICES
+16 AVAILABLE TO NEWLY ENROLLED MILITARY–CONNECTED STUDENTS;
+17 (IV) ASSISTING IN COORDINATING COLLEGE PROGRAMS FOR
+18 NEWLY ENROLLED MILITARY–CONNECTED STUDENTS; AND
+19 (V) GENERALLY ASSISTING IN A MILITARY–CONNECTED
+20 STUDENT’S TRANSITION TO A NEW COLLEGE;
+21 (2) ESTABLISH ON THE COLLEGE’S WEBSITE AN EASILY ACCESSIBLE
+22 WEBPAGE THAT INCLUDES LINKS TO RESOURCES FOR MILITARY–CONNECTED
+23 STUDENTS, INCLUDING LINKS TO INFORMATION REGARDING:
+24 (I) RELOCATION TO, ENROLLMENT AT, REGISTRATION AT, AND
+25 TRANSFERRING RECORDS TO THE COLLEGE;
+26 (II) ACADEMIC PLANNING, COURSE SEQUENCES, AND
+27 ADVANCED COURSES AVAILABLE AT THE COLLEGE; AND
+28 (III) COUNSELING AND OTHER SUPPORT SERVICES AVAILABLE
+29 FOR MILITARY–CONNECTED STUDENTS TRANSITIONING INTO THE COLLEGE;
+
+HOUSE BILL 623 5
+1 (3) MAINTAIN A TRANSITION PROGRAM LED BY STUDENTS, IF
+2 APPROPRIATE, THAT ASSISTS MILITARY–CONNECTED STUDENTS ENROLLED AT THE
+3 COLLEGE; AND
+4 (4) OFFER PROFESSIONAL DEVELOPMENT FOR STAFF MEMBERS ON
+5 ISSUES RELATED TO MILITARY–CONNECTED STUDENTS TRANSFERRING TO NEW
+6 COLLEGES.
+7 (C) A COLLEGE MAY PARTNER WITH ITS GOVERNING BODY TO FULFILL THE
+8 COMMISSION’S CRITERIA TO QUALIFY AS A PURPLE STAR COLLEGE.
+9 (D) THE COMMISSION, IN CONSULTATION WITH THE MARYLAND COLLEGE
+10 COLLABORATION FOR STUDENT VETERANS COMMISSION, SHALL ADOPT
+11 REGULATIONS TO CARRY OUT THIS SUBTITLE.
+12 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+13 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.

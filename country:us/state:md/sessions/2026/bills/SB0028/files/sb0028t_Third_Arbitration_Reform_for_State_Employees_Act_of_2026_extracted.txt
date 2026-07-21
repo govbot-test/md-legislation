@@ -1,0 +1,684 @@
+Title: 
+Official Title: 
+Source: versions - Third - Arbitration Reform for State Employees Act of 2026
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 28
+P4 CONSTITUTIONAL AMENDMENT 6lr0953
+SB 288/25 – B&T & FIN (PRE–FILED) CF HB 604
+By: Senator McCray Senators McCray, Augustine, Guzzone, Hettleman, King,
+Lewis Young, Rosapepe, and Zucker
+Requested: September 24, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Budget and Taxation and Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 2, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Arbitration Reform for State Employees Act of 2026
+3 FOR the purpose of altering the collective bargaining process for certain State employees,
+4 including by requiring the selection of a neutral arbitrator to oversee all certain
+5 aspects of collective bargaining, establishing a process of arbitration in the event of
+6 impasse in negotiations between certain parties, and providing that certain decisions
+7 of a neutral arbitrator are advisory; altering the matters that are required to be
+8 included in collective bargaining; requiring that each budget bill submitted by the
+9 Governor contain the appropriations necessary to implement all terms and
+10 conditions of employment in certain memoranda of understanding for the next
+11 ensuing fiscal year; and generally relating to collective bargaining for State
+12 employees.
+13 BY repealing and reenacting, with amendments,
+14 Article – State Finance and Procurement
+15 Section 7–108
+16 Annotated Code of Maryland
+17 (2021 Replacement Volume and 2025 Supplement)
+18 BY repealing and reenacting, with amendments,
+19 Article – State Personnel and Pensions
+20 Section 3–103, 3–501, 3–502, and 3–603
+21 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0028*
+
+2 SENATE BILL 28
+1 (2024 Replacement Volume and 2025 Supplement)
+2 BY adding to
+3 Article – State Personnel and Pensions
+4 Section 3–503
+5 Annotated Code of Maryland
+6 (2024 Replacement Volume and 2025 Supplement)
+7 BY proposing an amendment to the Maryland Constitution
+8 Article III – Legislative Department
+9 Section 52
+10 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+11 That the Laws of Maryland read as follows:
+12 Article – State Finance and Procurement
+13 7–108.
+14 (a) In accordance with the Maryland Constitution and other law, the Governor
+15 shall include in each budget bill:
+16 (1) an appropriation to pay the principal of and interest on the State debt;
+17 (2) without revision, the appropriations requested for public schools, as
+18 certified by the State Superintendent of Schools;
+19 (3) without revision, the appropriations requested for the Legislative
+20 Branch of the State government, as certified by the presiding officers of the General
+21 Assembly;
+22 (4) without revision, the appropriations requested for the Judicial Branch
+23 of the State government, as certified by the Chief Justice of the Supreme Court of Maryland;
+24 (5) the appropriations requested by the Governor for the Executive Branch
+25 of the State government;
+26 (6) the appropriations required by law to be included with the
+27 appropriations for the Executive Branch;
+28 (7) appropriations for the salaries required by law to be paid by the State;
+29 (8) without revision, appropriations for the Accountability and
+30 Implementation Board, as jointly certified by the presiding officers of the General Assembly
+31 and the Governor; and
+
+SENATE BILL 28 3
+1 (9) any other appropriations required by the Maryland Constitution or
+2 other law to be included in the budget bill.
+3 (b) The Governor shall use the current salary plan of the Secretary of Budget and
+4 Management as the basis for the appropriations to pay those salaries to which the plan
+5 applies.
+6 (C) IN ADDITION TO THE APPROPRIATIONS REQUIRED UNDER SUBSECTION
+7 (A) OF THIS SECTION, THE GOVERNOR SHALL INCLUDE IN EACH ANNUAL BUDGET
+8 BILL THE APPROPRIATIONS NECESSARY TO IMPLEMENT AND FUND ALL TERMS
+9 WITHIN EACH MEMORANDUM OF UNDERSTANDING BETWEEN:
+10 (1) THE STATE AND EACH EXCLUSIVE REPRESENTATIVE OF ITS
+11 EMPLOYEES;
+12 (2) STATE INSTITUTIONS OF HIGHER EDUCATION, INCLUDING THE
+13 UNIVERSITY SYSTEM OF MARYLAND, AND EACH EXCLUSIVE REPRESENTATIVE OF
+14 THEIR EMPLOYEES; AND
+15 (3) THE MARYLAND ENVIRONMENTAL SERVICE AND EACH
+16 EXCLUSIVE REPRESENTATIVE OF ITS EMPLOYEES.
+17 Article – State Personnel and Pensions
+18 3–103.
+19 This title and any agreement under this title do not limit or otherwise interfere with
+20 the powers of the Governor or the Maryland General Assembly [under] EXCEPT TO
+21 OPERATE IN ACCORDANCE WITH AND HAVE THE EFFECT REQUIRED BY Article III, §
+22 52 of the Maryland Constitution.
+23 3–501.
+24 (a) (1) The following individuals or entities shall designate one or more
+25 representatives to participate as a party in collective bargaining on behalf of the State or
+26 the following institutions:
+27 (i) on behalf of the State, the Governor;
+28 (ii) on behalf of the Maryland Environmental Service, the Board of
+29 Directors of the Service;
+30 (iii) on behalf of the University System of Maryland, the Chancellor;
+31 and
+
+4 SENATE BILL 28
+1 (iv) on behalf of Morgan State University, St. Mary’s College of
+2 Maryland, or Baltimore City Community College, the governing board of the institution.
+3 (2) The exclusive representative shall designate one or more
+4 representatives to participate as a party in collective bargaining on behalf of the exclusive
+5 representative.
+6 (b) (1) [The] SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THE
+7 parties shall meet at reasonable times [and] BETWEEN JULY 1 AND SEPTEMBER 30 TO
+8 engage in collective bargaining in good faith[, including facilitating the meaningful use of
+9 a fact finder under subsection (c)(3) of this section,] and to conclude a written memorandum
+10 of understanding or other written understanding as defined under § 3–101(d)(1)(i)2 of this
+11 title.
+12 (2) (I) THIS PARAGRAPH DOES NOT APPLY TO:
+13 1. A BARGAINING UNIT IN A STATE INSTITUTION OF
+14 HIGHER EDUCATION, INCLUDING THE UNIVERSITY SYSTEM OF MARYLAND; OR
+15 2. A BARGAINING UNIT FOR THE UNIFORMED FIRE
+16 EMPLOYEES OF THE BWI AIRPORT FIRE AND RESCUE DEPARTMENT.
+17 (II) 1. FOR EACH BARGAINING UNIT, WHENEVER A
+18 MEMORANDUM OF UNDERSTANDING IS TO BE NEGOTIATED, REOPENED, OR
+19 AMENDED, EITHER PARTY MAY REQUEST A NEUTRAL ARBITRATOR FOR THE
+20 NEGOTIATIONS ON OR AFTER JULY 1.
+21 2. IF NEGOTIATIONS HAVE NOT CONCLUDED BY
+22 SEPTEMBER 1, THE PARTIES SHALL SELECT A NEUTRAL ARBITRATOR ON OR BEFORE
+23 SEPTEMBER 15.
+24 (III) THE ARBITRATOR SHALL BE SELECTED FROM A LIST OF 15
+25 ARBITRATORS PROVIDED BY THE AMERICAN ARBITRATION ASSOCIATION’S LABOR
+26 ARBITRATION PANEL.
+27 (IV) THE LIST SHALL CONSIST OF QUALIFIED, NATIONWIDE
+28 ARBITRATORS WHO ARE MEMBERS OF THE NATIONAL ACADEMY OF ARBITRATION.
+29 (V) THE PARTIES SHALL SELECT THE ARBITRATOR BY
+30 ALTERNATELY STRIKING NAMES FROM THE LIST UNTIL ONE NAME REMAINS.
+31 (VI) THE SELECTED ARBITRATOR MUST BE ABLE AND
+32 AVAILABLE TO PERFORM THE DUTIES AND TO HOLD HEARINGS, BOTH IN PERSON
+33 AND THROUGH REMOTE COMMUNICATION, CONSISTENT WITH THIS TITLE.
+
+SENATE BILL 28 5
+1 (VII) THE ARBITRATOR SHALL HAVE THE POWERS AND
+2 RESPONSIBILITIES UNDER § 3–503 OF THIS SUBTITLE.
+3 (VIII) THE SELECTED ARBITRATOR SHALL ACCEPT THE
+4 APPOINTMENT BY THE EARLIER OF SEPTEMBER 30 OR 15 DAYS AFTER THE DAY A
+5 PARTY REQUESTS AN ARBITRATOR BE SELECTED, OR THE PARTIES MAY AGREE TO
+6 MAKE AN ALTERNATIVE APPOINTMENT FROM:
+7 1. THE LIST ORIGINALLY PROVIDED BY THE AMERICAN
+8 ARBITRATION ASSOCIATION; OR
+9 2. A LIST OF NATIONWIDE ARBITRATORS PROVIDED BY
+10 THE FEDERAL MEDIATION AND CONCILIATION SERVICE.
+11 (3) THE PARTIES SHALL MAKE A REASONABLE EFFORT TO BEGIN
+12 NEGOTIATIONS ON OR NEAR JULY 1, INCLUDING THE EXCHANGE OF INFORMATION
+13 NECESSARY TO RESPONSIBLY CONDUCT AND CONCLUDE NEGOTIATIONS BY
+14 SEPTEMBER 30.
+15 (c) [(1) THIS SUBSECTION APPLIES ONLY WITH RESPECT TO A STATE
+16 INSTITUTION OF HIGHER EDUCATION, INCLUDING THE UNIVERSITY SYSTEM OF
+17 MARYLAND.
+18 (2) The parties shall make every reasonable effort to conclude negotiations
+19 in a timely manner for inclusion by the principal unit in its budget request to the Governor.
+20 (2) (3) (i) The parties shall conclude negotiations before January 1
+21 for any item requiring an appropriation of funds for the fiscal year that begins on the
+22 following July 1.
+23 (ii) In the budget bill submitted to the General Assembly, the
+24 Governor shall include any amounts in the budgets of the principal units required to
+25 accommodate any additional cost resulting from the negotiations, including the actuarial
+26 impact of any legislative changes to any of the State pension or retirement systems that
+27 are required, as a result of the negotiations, for the fiscal year beginning the following July
+28 1 if the legislative changes have been negotiated to become effective in that fiscal year.
+29 (3) (i) This paragraph does not apply to negotiations between the State
+30 and the exclusive representative of the uniformed fire employees of the BWI Airport Fire
+31 and Rescue Department.
+32 (ii) (4) If the parties do not conclude negotiations for the next
+33 fiscal year before October 25, either party may request that a fact finder be employed to
+34 resolve the issues.
+
+6 SENATE BILL 28
+1 (iii) (5) The fact finder shall be employed no later than November
+2 1.
+3 (iv) (6) A fact finder shall be a neutral party appointed by
+4 alternate striking from a list by the parties provided:
+5 1. (I) by the Federal Mediation and Conciliation Service; or
+6 2. (II) under the Labor Arbitration Rules of the American
+7 Arbitration Association.
+8 (v) (7) The fact finder:
+9 1. (I) may give notice and hold hearings in accordance with the
+10 Administrative Procedure Act;
+11 2. (II) may administer oaths and take testimony and other
+12 evidence;
+13 3. (III) may issue subpoenas; and
+14 4. (IV) before November 20, shall make written
+15 recommendations regarding wages, hours, and working conditions, and any other terms or
+16 conditions of employment that may be in dispute.
+17 (vi) (8) The written recommendations of the fact finder shall be
+18 delivered to the Governor, the exclusive representative, the President of the Senate, and
+19 the Speaker of the House of Delegates by the Secretary on or before December 1.]
+20 [(4) (i)] (D) (1) This [paragraph] SUBSECTION applies only to
+21 negotiations between the State and the exclusive representative of the uniformed fire
+22 employees of the BWI Airport Fire and Rescue Department.
+23 [(ii)] (2) The parties shall reach an agreement by September 30 of
+24 the year in which a collective bargaining agreement will expire.
+25 [(iii)] (3) An impasse is reached during the negotiations if the
+26 parties do not reach an agreement:
+27 [1.] (I) by stating that they mutually agree they are at an
+28 impasse; or
+29 [2.] (II) on or before October 1 of the year in which a
+30 collective bargaining agreement will expire.
+
+SENATE BILL 28 7
+1 [(iv)] (4) If an impasse is reached under [subparagraph (iii) of this
+2 paragraph] PARAGRAPH (3) OF THIS SUBSECTION, each party shall submit its last, best,
+3 and final offer to the other party within 48 hours after the impasse is reached.
+4 [(v) 1.] (5) (I) Unless the impasse has been resolved, the
+5 parties shall meet within 5 business days after the impasse is reached under
+6 [subparagraph (iii) of this paragraph] PARAGRAPH (3) OF THIS SUBSECTION to select an
+7 arbitrator from a list of 15 arbitrators provided by the American Arbitration Association’s
+8 labor arbitration panel.
+9 [2.] (II) The parties shall select the arbitrator by alternately
+10 striking a name from the list until one name remains.
+11 [3.] (III) If the selected arbitrator is unable to fulfill the
+12 responsibilities of the arbitration, the selection process shall be repeated using a new list
+13 of arbitrators until an arbitrator is selected.
+14 [4.] (IV) The parties shall submit the dispute and the last,
+15 best, and final offers to the arbitrator within 5 business days after the arbitrator is selected.
+16 [(vi) 1.] (6) (I) The arbitrator shall hold formal hearings as
+17 necessary in order to resolve the impasse.
+18 [2.] (II) During the first 21 days immediately following the
+19 appointment of the arbitrator and before holding any formal hearings, the arbitrator may,
+20 if determined appropriate by the arbitrator, attempt to resolve the impasse by acting as a
+21 neutral mediator between the parties.
+22 [(vii)] (7) The arbitrator shall select one party’s last, best, and final
+23 offer on or before December 15.
+24 [(viii) 1.] (8) (I) Subject to [subsubparagraph 2 of this
+25 subparagraph] SUBPARAGRAPH (II) OF THIS PARAGRAPH, the decision of the arbitrator
+26 is binding on the parties.
+27 [2.] (II) A decision of an arbitrator under this paragraph
+28 related to wages is subject to the limitations of the State budget.
+29 [(ix)] (9) The parties shall equally share the costs of the services of
+30 the arbitrator.
+31 (d) (E) (1) A memorandum of understanding [that incorporates all matters
+32 of agreement reached by the parties] REACHED BY MUTUAL AGREEMENT shall be
+33 executed by the exclusive representative and:
+
+8 SENATE BILL 28
+1 (i) for a memorandum of understanding relating to the State, the
+2 Governor or the Governor’s designee;
+3 (ii) for a memorandum of understanding relating to the Maryland
+4 Environmental Service, the Board of Directors of the Service;
+5 (iii) for a memorandum of understanding relating to a system
+6 institution, the Chancellor or the Chancellor’s designee; and
+7 (iv) for a memorandum of understanding relating to Morgan State
+8 University, St. Mary’s College of Maryland, or Baltimore City Community College, the
+9 governing board of the institution or the governing board’s designee.
+10 (2) (I) THIS PARAGRAPH DOES NOT APPLY TO MATTERS
+11 INVOLVING A STATE INSTITUTION OF HIGHER EDUCATION, INCLUDING THE
+12 UNIVERSITY SYSTEM OF MARYLAND.
+13 (II) To the extent [these] matters INCORPORATED IN A
+14 MEMORANDUM OF UNDERSTANDING require legislative approval or the appropriation of
+15 funds, the matters shall be [recommended] REFERRED to the General Assembly for
+16 LEGISLATIVE approval or for the appropriation of funds AS REQUIRED UNDER ARTICLE
+17 III, § 52 OF THE MARYLAND CONSTITUTION.
+18 (3) To the extent matters involving a State institution of higher education
+19 require legislative approval OR THE APPROPRIATION OF FUNDS, the legislation
+20 MATTERS shall be [recommended] REFERRED to the Governor [for submission to] AND
+21 the General Assembly FOR LEGISLATIVE APPROVAL OR THE APPROPRIATION OF
+22 FUNDS.
+23 (e) (F) (1) Except as provided in paragraph (2) of this subsection,
+24 negotiations for a memorandum of understanding shall be considered closed sessions under
+25 § 3–305 of the General Provisions Article.
+26 (2) An exclusive representative may not be considered a public body under
+27 § 3–101 of the General Provisions Article.
+28 (f) (G) (1) The terms of a memorandum of understanding executed by the
+29 Governor or the Governor’s designee and an exclusive representative of a bargaining unit
+30 for skilled service or professional service employees in the State Personnel Management
+31 System are not applicable to employees of a State institution of higher education.
+32 (2) The terms of a memorandum of understanding executed by the
+33 Chancellor or the governing board of Morgan State University, St. Mary’s College of
+34 Maryland, or Baltimore City Community College, or their respective designees, and the
+35 exclusive representative of a bargaining unit for employees of a State institution of higher
+
+SENATE BILL 28 9
+1 education are not applicable to skilled service or professional service employees in the State
+2 Personnel Management System.
+3 3–502.
+4 (a) Collective bargaining shall include all matters relating to:
+5 (1) wages, hours, FRINGE BENEFITS OTHER THAN PENSION BENEFITS,
+6 HEALTH BENEFITS, and other terms and conditions of employment; and
+7 (2) the time and manner of access to a new employee program in
+8 accordance with § 22–207 of the State Government Article.
+9 (b) Notwithstanding subsection (a) of this section, the representatives of the
+10 State, the Maryland Environmental Service, a system institution, Morgan State
+11 University, St. Mary’s College of Maryland, and Baltimore City Community College:
+12 (1) may not be required to negotiate over any matter that is inconsistent
+13 with applicable law; and
+14 (2) may negotiate and reach agreement with regard to any such matter
+15 THAT IS INCONSISTENT WITH APPLICABLE LAW only if it is understood that, WITH
+16 RESPECT TO THE MATTER, the agreement [with respect to such matter] OR
+17 MEMORANDUM OF UNDERSTANDING cannot become effective unless the applicable law
+18 is amended by the General Assembly.
+19 3–503.
+20 (A) THIS SECTION DOES NOT APPLY WITH RESPECT TO A STATE
+21 INSTITUTION OF HIGHER EDUCATION, INCLUDING THE UNIVERSITY SYSTEM OF
+22 MARYLAND.
+23 (A) (B) (1) A NEUTRAL ARBITRATOR SELECTED UNDER § 3–501(B) OF
+24 THIS SUBTITLE:
+25 (I) MAY MEDIATE OR AID IN THE RESOLUTION OF ANY DISPUTE
+26 BETWEEN THE PARTIES REGARDING THE CONDUCT OF NEGOTIATIONS;
+27 (II) MAY RECEIVE FROM THE PARTIES COPIES OF INFORMATION
+28 REQUESTS PRESENTED AND RESPONSES RECEIVED TO MEDIATE OR AID IN THE
+29 RESOLUTION OF DISPUTES THAT ARISE BETWEEN THE PARTIES CONSISTENT WITH
+30 THIS TITLE; AND
+31 (III) MAY DIRECT PRODUCTION OF ESTIMATES OF REVENUES
+32 AND EXPENDITURES COMPILED BY THE STATE BOARD OF REVENUE ESTIMATES,
+
+10 SENATE BILL 28
+1 THE BUREAU OF REVENUE ESTIMATES, OR THE CONSENSUS REVENUE
+2 MONITORING AND FORECASTING GROUP.
+3 (2) (I) THE OPINIONS AND GUIDANCE ISSUED BY THE NEUTRAL
+4 ARBITRATOR UNDER THIS SUBSECTION SHALL BE ADVISORY ON THE PARTIES AND
+5 THE GOVERNOR.
+6 (II) THE USE OF A NEUTRAL ARBITRATOR DOES NOT DIMINISH
+7 OR LIMIT THE RIGHTS OF ANY PARTY TO FILE AND PURSUE A COMPLAINT OF UNFAIR
+8 LABOR PRACTICES BEFORE THE BOARD.
+9 (B) (C) (1) IF EITHER PARTY DECLARES AN IMPASSE ON OR AFTER
+10 OCTOBER 1, ARBITRATION SHALL PROCEED AS DESCRIBED IN THIS SUBSECTION.
+11 (2) (I) ON THE FIFTH BUSINESS DAY AFTER THE IMPASSE IS
+12 DECLARED, EACH PARTY SHALL SUBMIT TO THE NEUTRAL ARBITRATOR, IN WRITING
+13 AND WITH A COPY TO THE OTHER PARTY, A LAST, BEST, AND FINAL OFFER,
+14 INCLUDING:
+15 1. ALL PROVISIONS IN THE EXISTING MEMORANDUM OF
+16 UNDERSTANDING NOT TO BE MODIFIED;
+17 2. ALL NEW, AMENDED, OR MODIFIED MEMORANDUM OF
+18 UNDERSTANDING PROVISIONS AGREED TO BY THE PARTIES BEFORE THE IMPASSE
+19 WAS DECLARED THAT ARE TO BE INCLUDED THROUGH WRITTEN MUTUAL
+20 AGREEMENT; AND
+21 3. SUBJECT TO SUBPARAGRAPH (II) OF THIS
+22 PARAGRAPH, DETAILED FURTHER PROVISIONS THAT A PARTY IS PROPOSING FOR
+23 INCLUSION IN A MEMORANDUM OF UNDERSTANDING.
+24 (II) FURTHER PROVISIONS ARE LIMITED TO SPECIFIC
+25 PROPOSALS THAT WERE SUBMITTED IN WRITING TO THE OTHER PARTY AND WERE
+26 THE SUBJECT OF COLLECTIVE BARGAINING BETWEEN THE PARTIES UP TO THE TIME
+27 OF IMPASSE, INCLUDING PROPOSALS THAT THE PARTIES HAVE DECIDED TO
+28 INCLUDE IN THE MEMORANDUM OF UNDERSTANDING THROUGH WRITTEN MUTUAL
+29 AGREEMENT.
+30 (3) THE NEUTRAL ARBITRATOR ACTING AS A MEDIATOR SHALL
+31 ATTEMPT TO RESOLVE THE IMPASSE BEFORE A FORMAL HEARING ON THE IMPASSE.
+32 (4) (I) WITHIN 30 CALENDAR DAYS AFTER A DECLARED IMPASSE,
+33 THE NEUTRAL ARBITRATOR SHALL HOLD A FORMAL HEARING AT WHICH THE
+
+SENATE BILL 28 11
+1 PARTIES MAY SUBMIT, IN WRITING OR ORAL TESTIMONY, ALL INFORMATION OR
+2 DATA SUPPORTING THE FINAL POSITIONS.
+3 (II) ABSENT MUTUAL AGREEMENT BETWEEN THE PARTIES, OR
+4 AS OTHERWISE ORDERED BY THE NEUTRAL ARBITRATOR, THE FORMAL HEARING
+5 SHALL CONCLUDE WITHIN 45 CALENDAR DAYS AFTER THE IMPASSE DATE.
+6 (5) (I) EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF THIS
+7 PARAGRAPH, THE ARBITRATION SHALL CONCLUDE WITH A WRITTEN AWARD THAT
+8 SUSTAINS IN ITS ENTIRETY THE LAST, BEST, AND FINAL OFFER OF ONE OF THE
+9 PARTIES.
+10 (II) BEFORE A WRITTEN AWARD IS ISSUED, BY WRITTEN
+11 AGREEMENT SIGNED BY THE REPRESENTATIVES OF THE PARTIES PARTICIPATING IN
+12 THE ARBITRATION, THE PARTIES MAY DIRECT THE NEUTRAL ARBITRATOR TO RULE
+13 ON SPECIFICALLY IDENTIFIED TOPICS OF BARGAINING.
+14 (6) (I) THE NEUTRAL ARBITRATOR SHALL ISSUE A PRELIMINARY
+15 WRITTEN AWARD ON OR BEFORE DECEMBER 5.
+16 (II) THE PRELIMINARY WRITTEN AWARD SHALL ADDRESS ALL
+17 PROVISIONS THAT EACH PARTY PROPOSED IN ITS RESPECTIVE FINAL POSITION FOR
+18 INCLUSION IN A MEMORANDUM OF UNDERSTANDING.
+19 (III) WITHIN 5 BUSINESS DAYS AFTER RECEIPT OF THE
+20 PRELIMINARY WRITTEN AWARD, THE PARTIES SHALL REVIEW THE AWARD AND MAY
+21 SEVERALLY OR MUTUALLY REQUEST CHANGES OR ADJUSTMENTS IN THE AWARD.
+22 (IV) ON OR BEFORE DECEMBER 15, THE NEUTRAL ARBITRATOR
+23 SHALL ISSUE A FINAL WRITTEN AWARD IN WHICH THE ARBITRATOR:
+24 1. SHALL ORDER IMPLEMENTATION OF THE LAST, BEST,
+25 AND FINAL OFFER OF EITHER PARTY IN ITS ENTIRETY, INCORPORATING ANY
+26 VOLUNTARILY AGREED–TO TERMS BETWEEN THE PARTIES; AND
+27 2. SHALL INCLUDE:
+28 A. ANY VOLUNTARILY AGREED–TO TERMS BETWEEN THE
+29 PARTIES; AND
+30 B. ANY PRIOR TERM THAT BY AGREEMENT IS NOT TO BE
+31 CHANGED FOR THE NEXT FISCAL YEAR.
+
+12 SENATE BILL 28
+1 (V) AFTER DECEMBER 15, IF REQUESTED BY EITHER PARTY,
+2 THE NEUTRAL ARBITRATOR SHALL ISSUE BY JANUARY 20 OF THE IMMEDIATELY
+3 FOLLOWING YEAR A STATEMENT OF REASONS FOR THE FINAL WRITTEN AWARD.
+4 (7) THE NEUTRAL ARBITRATOR SHALL CONSIDER THE FOLLOWING
+5 WHEN DEVELOPING A WRITTEN AWARD:
+6 (I) THE LAWFUL AUTHORITY OF THE EMPLOYER, INCLUDING
+7 THE OBLIGATION OF THE EMPLOYER TO USE SPECIAL FUNDS ONLY FOR
+8 AUTHORIZED PURPOSES UNDER LIMITATIONS IMPOSED BY FEDERAL OR STATE LAW;
+9 (II) STIPULATIONS OF THE PARTIES;
+10 (III) THE INTERESTS AND WELFARE OF THE PUBLIC;
+11 (IV) THE FINANCIAL ABILITY OF THE EMPLOYER TO MEET
+12 COSTS, WITHOUT THE PREMISE THAT THE EMPLOYER MAY NEED TO INCREASE OR
+13 IMPOSE NEW TAXES, FEES, OR CHARGES, OR DEVELOP OTHER SOURCES OF REVENUE
+14 OR TRANSFER FUNDS FROM THE REVENUE STABILIZATION ACCOUNT ESTABLISHED
+15 UNDER § 7–311 OF THE STATE FINANCE AND PROCUREMENT ARTICLE;
+16 (V) THE PRESENT AND FUTURE GENERAL ECONOMIC
+17 CONDITION OF THE STATE OR STATE INSTITUTIONS OF HIGHER EDUCATION;
+18 (VI) COMPARISONS OF WAGES, HOURS, AND CONDITIONS OF
+19 EMPLOYMENT OF THE EMPLOYEES INVOLVED WITH ARBITRATION WITH THE WAGES,
+20 HOURS, AND CONDITIONS OF EMPLOYMENT OF OTHER EMPLOYEES PERFORMING
+21 SIMILAR SERVICES IN PUBLIC EMPLOYMENT IN ADJACENT STATES;
+22 (VII) COMPARISONS OF COLLECTIVE BARGAINING PATTERNS IN
+23 OTHER STATES AND AMONG COUNTY EMPLOYEES IN THE STATE;
+24 (VIII) CONSUMER PRICES FOR GOODS AND SERVICES AS DEFINED
+25 BY PUBLIC AND PRIVATE SOURCES;
+26 (IX) THE OVERALL COMPENSATION PRESENTLY RECEIVED BY
+27 THE EMPLOYEES, INCLUDING DIRECT WAGE COMPENSATION, VACATION, HOLIDAYS,
+28 EXCUSED TIME OFF, INSURANCE AND PENSIONS COSTS, MEDICAL AND
+29 HOSPITALIZATION BENEFITS, THE CONTINUITY AND STABILITY OF EMPLOYMENT,
+30 AND ALL OTHER RECEIVED BENEFITS;
+31 (X) CHANGES IN ANY OF THE FOREGOING CIRCUMSTANCES
+32 DURING THE PENDENCY OF THE ARBITRATION; AND
+
+SENATE BILL 28 13
+1 (XI) OTHER FACTORS THAT ARE NORMALLY OR TRADITIONALLY
+2 TAKEN INTO CONSIDERATION IN THE DETERMINATION OF WAGES, HOURS, AND
+3 CONDITIONS OF EMPLOYMENT THROUGH VOLUNTARY COLLECTIVE BARGAINING,
+4 MEDIATION, ARBITRATION, OR OTHERWISE BETWEEN THE PARTIES IN PUBLIC
+5 SERVICE OR PRIVATE EMPLOYMENT.
+6 (8) A WRITTEN AWARD REQUIRED UNDER THIS SUBSECTION SHALL
+7 INCLUDE A STATEMENT, PREPARED IN CONSULTATION WITH BOTH PARTIES,
+8 DETAILING THE MULTI–YEAR FISCAL IMPACT TO THE GENERAL FUND OF THE STATE
+9 FROM PARAGRAPH (7)(IV) AND (V) OF THIS SUBSECTION.
+10 (C) (D) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THE
+11 DECISION OF THE NEUTRAL ARBITRATOR SHALL BE FINAL AND BINDING ON THE
+12 PARTIES.
+13 (2) A DECISION AS TO A MATTER REQUIRING A CHANGE IN LAW OR AN
+14 APPROPRIATION OF FUNDS IS CONTINGENT ON THE ENACTMENT OF LEGISLATION
+15 MAKING THE CHANGE IN LAW OR APPROVAL OF THE APPROPRIATION BY THE
+16 GENERAL ASSEMBLY IN ACCORDANCE WITH ARTICLE III, § 52 OF THE MARYLAND
+17 CONSTITUTION.
+18 (3) A DECISION OF AN ARBITRATOR UNDER THIS SUBSECTION
+19 RELATED TO WAGES IS SUBJECT TO THE LIMITATIONS OF THE STATE BUDGET.
+20 (D) (E) THE STATE, A STATE INSTITUTION OF HIGHER EDUCATION, AND
+21 THE MARYLAND ENVIRONMENTAL SERVICE AND THE GOVERNOR SHALL TAKE ALL
+22 ACTIONS NECESSARY TO CARRY OUT AND EFFECTUATE THE FINAL WRITTEN AWARD
+23 AND PLACE INTO EFFECT THE MEMORANDUM OF UNDERSTANDING.
+24 (E) (F) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THE
+25 PARTIES AT ANY TIME MAY AMEND OR MODIFY THE FINAL WRITTEN AWARD AND, BY
+26 CONSENT, THE AMENDMENTS OR MODIFICATIONS SHALL BE APPROVED BY THE
+27 PARTIES AND PLACED IN A SUPPLEMENTAL WRITTEN AWARD BY THE NEUTRAL
+28 ARBITRATOR THAT SHALL BE FINAL AND BINDING.
+29 (2) A SUPPLEMENTAL WRITTEN AWARD UNDER PARAGRAPH (1) OF
+30 THIS SUBSECTION SHALL TAKE EFFECT ON THE DATE OF THE ORDER OF THE
+31 NEUTRAL ARBITRATOR AND MAY NOT REQUIRE RATIFICATION UNDER § 3–601 OF
+32 THIS TITLE.
+33 (F) (G) A DEADLINE IN THIS SECTION MAY BE MODIFIED, BASED ON GOOD
+34 CAUSE, BY MUTUAL AGREEMENT OF THE PARTIES OR BY ORDER OF THE NEUTRAL
+35 ARBITRATOR.
+
+14 SENATE BILL 28
+1 (G) (H) (1) THE COSTS OF THE SERVICES OF THE NEUTRAL
+2 ARBITRATOR SHALL BE SHARED EQUALLY BY THE PARTIES.
+3 (2) ALL OTHER COSTS INCURRED BY EITHER PARTY TO COMPLY WITH
+4 THIS SECTION SHALL BE THE RESPONSIBILITY OF THE PARTY INCURRING THE
+5 COSTS.
+6 3–603.
+7 (a) A memorandum of understanding [agreed to and ratified under § 3–601 of this
+8 subtitle] may not expire until it is succeeded by a memorandum of understanding that is
+9 agreed to and ratified or adopted by arbitration under this title.
+10 (b) Notwithstanding § 3–601(b) of this subtitle, all terms of a memorandum of
+11 understanding shall continue in force and effect without change until a successor
+12 memorandum of understanding is agreed to and ratified.
+13 (c) (1) Based on a verified complaint by an exclusive representative, the
+14 exclusive representative may file an action in a circuit court against the State, the
+15 Maryland Environmental Service, a system institution, Morgan State University, St.
+16 Mary’s College of Maryland, or Baltimore City Community College to enforce the terms of
+17 this section.
+18 (2) On receipt of an action submitted by the exclusive representative, the
+19 court shall issue a status quo order without a finding of irreparable harm to maintain a
+20 memorandum of understanding and the terms in effect pending a final order in the action.
+21 SECTION 2. AND BE IT FURTHER ENACTED, (Three–fifths of all the members
+22 elected to each of the two Houses concurring), That it be proposed that the Maryland
+23 Constitution read as follows:
+24 Article III – Legislative Department
+25 52.
+26 (1) The General Assembly shall not appropriate any money out of the Treasury
+27 except in accordance with the provisions of this section.
+28 (2) Every appropriation bill shall be either a Budget Bill, or a Supplementary
+29 Appropriation Bill, as hereinafter provided.
+30 (3) On the third Wednesday in January in each year, (except in the case of a newly
+31 elected Governor, and then not later than ten days after the convening of the General
+32 Assembly), unless such time shall be extended by the General Assembly, the Governor shall
+33 submit to the General Assembly a Budget for the next ensuing fiscal year. Each Budget
+34 shall contain a complete plan of proposed expenditures and estimated revenues for said
+
+SENATE BILL 28 15
+1 fiscal year and shall show the estimated surplus or deficit of revenues at the end of the
+2 preceding fiscal year. EACH BUDGET SUBMITTED BY THE GOVERNOR SHALL ALSO
+3 CONTAIN THE PROPOSED APPROPRIATIONS NECESSARY TO IMPLEMENT ALL TERMS
+4 AND CONDITIONS OF EMPLOYMENT IN EACH MEMORANDUM OF UNDERSTANDING
+5 CONCLUDED WITH THE STATE AND ANY INSTITUTION OF HIGHER EDUCATION
+6 INCLUDING THE UNIVERSITY SYSTEM OF MARYLAND, WHETHER REACHED
+7 THROUGH MUTUAL AGREEMENT OR ARBITRATION THAT IS BINDING ON THE
+8 PARTIES, THE GOVERNOR, STATE INSTITUTIONS OF HIGHER EDUCATION, AND THE
+9 MARYLAND ENVIRONMENTAL SERVICE, FOR THE NEXT ENSUING FISCAL YEAR FOR
+10 STATE EMPLOYEES IN THE VARIOUS BRANCHES AND DEPARTMENTS OF STATE
+11 GOVERNMENT, INCLUDING HIGHER EDUCATION. Accompanying each Budget shall be a
+12 statement showing: (a) the revenues and expenditures for the preceding fiscal year; (b) the
+13 current assets, liabilities, reserves and surplus or deficit of the State; (c) the debts and
+14 funds of the State; (d) an estimate of the State’s financial condition as of the beginning and
+15 end of the preceding fiscal year; (e) CHANGES IN WAGES, HOURS, FRINGE BENEFITS,
+16 HEALTH BENEFITS, AND OTHER TERMS AND CONDITIONS OF EMPLOYMENT FOR
+17 STATE EMPLOYEES INCLUDED IN EACH MEMORANDUM OF UNDERSTANDING
+18 COVERING STATE EMPLOYEES FOR THE NEXT ENSUING FISCAL YEAR; AND (F) any
+19 explanation the Governor may desire to make as to the important features of the Budget
+20 and any suggestions as to methods for reduction or increase of the State’s revenue.
+21 (4) Each Budget shall embrace an estimate of all appropriations in such form and
+22 detail as the Governor shall determine or as may be prescribed by law, as follows: (a) for
+23 the General Assembly as certified to the Governor in the manner hereinafter provided; (b)
+24 for the Executive Department; (c) for the Judiciary Department, as provided by law, as
+25 certified to the Governor; (d) to pay and discharge the principal and interest of the debt of
+26 the State in conformity with Section 34 of Article III of the Constitution, and all laws
+27 enacted in pursuance thereof; (e) for the salaries AND FRINGE BENEFITS payable by the
+28 State and under the Constitution and laws of the State, INCLUDING THOSE SALARIES
+29 AND BENEFITS COMMITTED UNDER EACH MEMORANDUM OF UNDERSTANDING
+30 COVERING STATE EMPLOYEES; (f) for the establishment and maintenance throughout
+31 the State of a thorough and efficient system of public schools in conformity with Article 8
+32 of the Constitution and with the laws of the State; and (g) for such other purposes as are
+33 set forth in the Constitution or laws of the State.
+34 (5) The Governor shall deliver to the presiding officer of each House the Budget
+35 and a bill for all the proposed appropriations of the Budget classified and in such form and
+36 detail as the Governor shall determine or as may be prescribed by law; and the presiding
+37 officer of each House shall promptly cause said bill to be introduced therein, and such bill
+38 shall be known as the “Budget Bill.” The Governor may, with the consent of the General
+39 Assembly, before final action thereon by the General Assembly, amend or supplement said
+40 Budget to correct an oversight, provide funds contingent on passage of pending legislation
+41 or, in case of an emergency, by delivering such an amendment or supplement to the
+42 presiding officers of both Houses; and such amendment or supplement shall thereby become
+
+16 SENATE BILL 28
+1 a part of said Budget Bill as an addition to the items of said bill or as a modification of or a
+2 substitute for any item of said bill such amendment or supplement may affect.
+3 (5a) The Budget and the Budget Bill as submitted by the Governor to the General
+4 Assembly shall have a figure for the total of all proposed appropriations and a figure for
+5 the total of all estimated revenues available to pay the appropriations, and the figure for
+6 total proposed appropriations shall not exceed the figure for total estimated revenues.
+7 Neither the Governor in submitting an amendment or supplement to the Budget Bill nor
+8 the General Assembly in amending the Budget Bill shall thereby cause the figure for total
+9 proposed appropriations to exceed the figure for total estimated revenues, including any
+10 revisions, and in the Budget Bill as enacted the figure for total estimated revenues always
+11 shall be equal to or exceed the figure for total appropriations.
+12 (6) The General Assembly shall not amend the Budget Bill so as to affect either
+13 the obligations of the State under Section 34 of Article III of the Constitution, or the
+14 provisions made by the laws of the State for the establishment and maintenance of a system
+15 of public schools or the payment of any salaries required to be paid by the State of Maryland
+16 by the Constitution.
+17 (6a) In enacting a balanced Budget Bill each fiscal year as required under this
+18 Section, the General Assembly may amend the bill by increasing or diminishing the items
+19 therein relating to the General Assembly, and by increasing or diminishing the items
+20 therein relating to the judiciary, but except as hereinbefore specified, may not alter the bill
+21 except to strike out or reduce items therein, provided, however, that the salary or
+22 compensation of any public officer may not be decreased during the public officer’s term of
+23 office. When passed by both Houses, the Budget Bill shall be presented to the Governor for
+24 approval or disapproval according to Section 17 of Article II of this Constitution.
+25 (6b) In enacting a balanced Budget Bill as required under this Section for fiscal
+26 year 2024 and each fiscal year thereafter, the General Assembly may amend the bill by
+27 increasing, diminishing, or adding items therein relating to the General Assembly, by
+28 increasing, diminishing, or adding items therein relating to the judiciary, and by
+29 increasing, diminishing, or adding items therein relating to the Executive Department,
+30 provided that the total of the appropriation for the Executive Department approved by the
+31 General Assembly does not exceed the total proposed appropriation for the Executive
+32 Department submitted by the Governor. The salary or compensation of any public officer
+33 may not be decreased during the public officer’s term of office. When passed by both Houses,
+34 the Budget Bill shall be a law immediately without further action by the Governor.
+35 (7) The Governor and such representatives of the executive departments, boards,
+36 officers and commissions of the State expending or applying for State’s moneys, as have
+37 been designated by the Governor for this purpose, shall have the right, and when requested
+38 by either House of the General Assembly, it shall be their duty to appear and be heard with
+39 respect to any Budget Bill during the consideration thereof, and to answer inquiries relative
+40 thereto.
+
+SENATE BILL 28 17
+1 (8) Supplementary Appropriation Bill. Either House may consider other
+2 appropriations but both Houses shall not finally act upon such appropriations until after
+3 the Budget Bill has been finally acted upon by both Houses, and no such other
+4 appropriation shall be valid except in accordance with the provisions following: (a) Every
+5 such appropriation shall be embodied in a separate bill limited to some single work, object
+6 or purpose therein stated and called herein a Supplementary Appropriation Bill; (b) Each
+7 Supplementary Appropriation Bill shall provide the revenue necessary to pay the
+8 appropriation thereby made by a tax, direct or indirect, to be levied and collected as shall
+9 be directed in said bill; (c) No Supplementary Appropriation Bill shall become a law unless
+10 it be passed in each House by a vote of a majority of the whole number of the members
+11 elected, and the yeas and nays recorded on its final passage; (d) Each Supplementary
+12 Appropriation Bill shall be presented to the Governor of the State as provided in Section
+13 17 of Article 2 of the Constitution and thereafter all the provisions of said section shall
+14 apply.
+15 (9) Nothing in this section shall be construed as preventing the General Assembly
+16 from passing at any time, in accordance with the provisions of Section 28 of Article 3 of the
+17 Constitution and subject to the Governor’s power of approval as provided in Section 17 of
+18 Article 2 of the Constitution, an appropriation bill to provide for the payment of any
+19 obligation of the State within the protection of Section 10 of Article 1 of the Constitution of
+20 the United States.
+21 (10) If the Budget Bill shall not have been finally acted upon by the Legislature
+22 seven days before the expiration of the regular session, the Governor shall issue a
+23 proclamation extending the session for some further period as may, in the Governor’s
+24 judgment, be necessary for the passage of such bill; but no matter other than such bill shall
+25 be considered during such extended session except a provision for the cost thereof.
+26 (11) For the purpose of making up the Budget, the Governor shall require from the
+27 proper State officials (including all executive departments, all executive and administrative
+28 offices, bureaus, boards, commissions and agencies that expend or supervise the
+29 expenditure of, and all institutions applying, for State moneys and appropriations) such
+30 itemized estimates and other information, in such form and at such times as directed by
+31 the Governor. An estimate for a program required to be funded by a law which will be in
+32 effect during the fiscal year covered by the Budget and which was enacted before July 1 of
+33 the fiscal year prior to that date shall provide a level of funding not less than that prescribed
+34 in the law. The estimates for the Legislative Department, certified by the presiding officer
+35 of each House, of the Judiciary, as provided by law, certified by the Chief Justice of the
+36 Supreme Court of Maryland, and for the public schools, as provided by law, shall be
+37 transmitted to the Governor, in such form and at such times as directed by the Governor,
+38 and shall be included in the Budget without revision.
+39 (12) The Governor may provide for public hearings on all estimates and may
+40 require the attendance at such hearings of representatives of all agencies, and for all
+41 institutions applying for State moneys. After such public hearings the Governor may, in
+42 the Governor’s discretion, revise all estimates except those for the legislative and judiciary
+43 departments, and for the public schools, as provided by law, and except that the Governor
+
+18 SENATE BILL 28
+1 may not reduce an estimate for a program below a level of funding prescribed by a law
+2 which will be in effect during the fiscal year covered by the Budget, and which was enacted
+3 before July 1 of the fiscal year prior thereto.
+4 (13) The General Assembly may, from time to time, enact such laws not
+5 inconsistent with this section, as may be necessary and proper to carry out its provisions.
+6 (14) In the event of any inconsistency between any of the provisions of this Section
+7 and any of the other provisions of the Constitution, the provisions of this Section shall
+8 prevail. But nothing herein shall in any manner affect the provisions of Section 34 of Article
+9 3 of the Constitution or of any laws heretofore or hereafter passed in pursuance thereof, or
+10 be construed as preventing the Governor from calling extraordinary sessions of the General
+11 Assembly, as provided by Section 16 of Article 2, or as preventing the General Assembly at
+12 such extraordinary sessions from considering any emergency appropriation or
+13 appropriations.
+14 (15) If any item of any appropriation bill passed under the provisions of this
+15 Section shall be held invalid upon any ground, such invalidity shall not affect the legality
+16 of the bill or of any other item of such bill or bills.
+17 SECTION 3. AND BE IT FURTHER ENACTED, That the General Assembly
+18 determines that the amendment to the Maryland Constitution proposed by Section 2 of this
+19 Act affects multiple jurisdictions and that the provisions of Article XIV, § 1 of the Maryland
+20 Constitution concerning local approval of constitutional amendments do not apply.
+21 SECTION 4. AND BE IT FURTHER ENACTED, That:
+22 (a) The amendment to the Maryland Constitution proposed by Section 2 of this
+23 Act shall be submitted to the qualified voters of the State at the next general election to be
+24 held in November 2026 for adoption or rejection in accordance with Article XIV of the
+25 Maryland Constitution.
+26 (b) (1) At that general election, the vote on the proposed amendment to the
+27 Constitution shall be by ballot, and on each ballot there shall be printed the words “For the
+28 Constitutional Amendment” and “Against the Constitutional Amendment”, as now
+29 provided by law.
+30 (2) At that general election, a question substantially similar to the
+31 following shall be submitted to the qualified voters of the State:
+32 “Question ___ – Constitutional Amendment
+33 Providing that each budget submitted by the Governor shall include expenditures
+34 necessary to implement wages, hours, fringe benefits, health benefits, and other terms and
+35 conditions of employment for State employees concluded in each memorandum of
+36 understanding covering State employees.”.
+
+SENATE BILL 28 19
+1 (c) Immediately after the election, all returns shall be made to the Governor of
+2 the vote for and against the proposed amendment, as directed by Article XIV of the
+3 Maryland Constitution, and further proceedings held in accordance with Article XIV.
+4 SECTION 5. AND BE IT FURTHER ENACTED, That Section 1 of this Act is
+5 contingent on the passage of Section 2 of this Act, a constitutional amendment, and its
+6 ratification by voters of the State.
+7 SECTION 6. AND BE IT FURTHER ENACTED, That, subject to Section 5 of this
+8 Act, Section 1 of this Act shall take effect on the proclamation of the Governor that the
+9 constitutional amendment, having received a majority of the votes cast at the general
+10 election, has been adopted by the people of Maryland.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
