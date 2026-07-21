@@ -1,0 +1,383 @@
+Title: 
+Official Title: 
+Source: versions - Third - State Veterans' Cemeteries - Interment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 46
+P1, C2, J2 6lr0727
+(PRE–FILED) CF HB 364
+By: Senator Simonaire
+Requested: August 22, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Finance
+Committee Report: Favorable
+Senate action: Adopted with floor amendments
+Read second time: February 8, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 State Veterans’ Cemeteries – Interment
+3 FOR the purpose of defining the term “interment location” for the purposes of provisions of
+4 law governing the interment of individuals in State veterans’ cemeteries; requiring
+5 the Department of Veterans and Military Families to provide an outer burial
+6 receptacle, rather than a grave liner, or a columbarium niche and marker at no cost
+7 with each interment location at a State veterans’ cemetery; and generally relating to
+8 interment in State veterans’ cemeteries.
+9 BY repealing and reenacting, without amendments,
+10 Article – Business Regulation
+11 Section 5–101(a)
+12 Annotated Code of Maryland
+13 (2024 Replacement Volume and 2025 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Article – Business Regulation
+16 Section 5–101(p) and 5–803
+17 Annotated Code of Maryland
+18 (2024 Replacement Volume and 2025 Supplement)
+19 BY repealing and reenacting, with amendments,
+20 Article – Health Occupations
+21 Section 7–406
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0046*
+
+2 SENATE BILL 46
+1 Annotated Code of Maryland
+2 (2021 Replacement Volume and 2025 Supplement)
+3 BY repealing and reenacting, with amendments,
+4 Article – State Government
+5 Section 9–901, 9–905.1, 9–906(a) and (e) through (i), and 9–907
+6 Annotated Code of Maryland
+7 (2021 Replacement Volume and 2025 Supplement)
+8 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+9 That the Laws of Maryland read as follows:
+10 Article – Business Regulation
+11 5–101.
+12 (a) In this title the following words have the meanings indicated.
+13 (p) “Interment” means all final disposition of human remains or pet remains,
+14 including:
+15 (1) earth burial;
+16 (2) mausoleum entombment; and
+17 (3) niche or columbarium [interment] INURNMENT.
+18 5–803.
+19 (a) (1) In this section the following words have the meanings indicated.
+20 (2) “Eligible dependent” means a veteran’s spouse, a veteran’s unmarried
+21 child under the age of 21 years, or a veteran’s unmarried adult child who before the age of
+22 21 became permanently incapable of self–support because of physical or mental disability.
+23 (3) (i) “Identifying information” means data required by a veterans
+24 service organization to verify the eligibility of a veteran or an eligible dependent for burial
+25 in a national or state veterans cemetery.
+26 (ii) “Identifying information” includes name, service number, Social
+27 Security number, date of birth, date of death, place of birth, and copy of the death
+28 certificate.
+29 (4) “Veterans service organization” means an association or other entity
+30 organized for the benefit of veterans that has been recognized by the U.S. Department of
+31 Veterans Affairs or chartered by Congress and any employee or representative of the
+32 association or entity.
+
+SENATE BILL 46 3
+1 (b) (1) If a licensed funeral establishment or a crematory is in possession of
+2 cremated human remains or hydrolyzed remains that have been unclaimed for 90 days or
+3 more, the licensed funeral establishment or holder of the permit for the business of
+4 operating a crematory shall provide identifying information of the unclaimed cremains or
+5 hydrolyzed remains to a veterans service organization in order for the veterans service
+6 organization to determine if the unclaimed cremains or hydrolyzed remains are those of a
+7 veteran or an eligible dependent.
+8 (2) (i) Subparagraph (ii) of this paragraph does not apply if:
+9 1. an authorizing agent directs otherwise; or
+10 2. a reduction facility reasonably concludes based on the
+11 identifying information or other evidence that a decedent does not qualify for disposition
+12 benefits associated with veterans status.
+13 (ii) A reduction facility in possession of human remains that are
+14 being processed by natural organic reduction shall provide identifying information to a
+15 veterans service organization within 5 business days after natural organic reduction is
+16 initiated to determine if the soil remains are those of a veteran or an eligible dependent.
+17 (c) Within 45 days after receipt of the information required by subsection (b) of
+18 this section, the veterans service organization shall notify the licensed funeral
+19 establishment, permit holder, or reduction facility:
+20 (1) whether the cremains, hydrolyzed remains, or soil remains are those of
+21 a veteran or an eligible dependent; and
+22 (2) if so, whether the veteran or eligible dependent is eligible for [burial]
+23 INTERMENT in a veterans cemetery.
+24 (d) If the unclaimed cremains or hydrolyzed remains are those of a veteran or an
+25 eligible dependent, the licensed funeral establishment or permit holder may transfer the
+26 cremains to a veterans service organization for the purpose of disposition of the cremains
+27 or hydrolyzed remains.
+28 (e) If the unclaimed soil remains are those of a veteran or an eligible dependent,
+29 the reduction facility may:
+30 (1) transfer a portion of the soil remains not exceeding 300 cubic inches in
+31 volume to a veterans service organization that grants permission for the purpose of
+32 disposition; and
+33 (2) if authorized by the cemetery or owner, transfer the balance of soil
+34 remains to a cemetery or the owner of a woodland protected under the Forest Conservation
+35 Act.
+
+4 SENATE BILL 46
+1 (f) If a veterans service organization does not take possession of unclaimed
+2 cremains or hydrolyzed remains that qualify for [a plot] AN INTERMENT LOCATION in a
+3 State veterans cemetery under § 9–906 of the State Government Article, within 10 days
+4 after the licensed funeral establishment or permit holder receives the notification required
+5 under subsection (c) of this section, the licensed funeral establishment or permit holder
+6 shall:
+7 (1) notify the Department of Veterans and Military Families of the status
+8 of the cremains or hydrolyzed remains for the purpose of the appropriate disposition of the
+9 cremains or hydrolyzed remains; and
+10 (2) transfer the cremains or hydrolyzed remains to the Department of
+11 Veterans and Military Families for the purpose of the appropriate disposition of the
+12 cremains or hydrolyzed remains.
+13 (g) If a veterans service organization does not take possession of a portion of
+14 unclaimed soil remains under subsection (e)(1) of this section that qualifies for [a plot] AN
+15 INTERMENT LOCATION in a State veterans cemetery under § 9–906 of the State
+16 Government Article, within 10 days after the reduction facility receives the notification,
+17 the reduction facility shall:
+18 (1) notify the Department of Veterans and Military Families of the status
+19 of the soil remains for the purpose of the appropriate disposition of the soil remains;
+20 (2) transfer the soil remains to the Department of Veterans and Military
+21 Families for the purpose of the appropriate disposition of the soil remains; and
+22 (3) if authorized by the cemetery or owner, transfer the balance of the soil
+23 remains to a cemetery or the owner of a woodland protected under the Forest Conservation
+24 Act.
+25 Article – Health Occupations
+26 7–406.
+27 (a) A licensee shall maintain a complete file for each cremation and each alkaline
+28 hydrolysis or natural organic reduction that is initiated that includes the signature of the
+29 next of kin, person identifying the body, or person responsible for disposition, time of death,
+30 and the date and time of cremation or the time that the alkaline hydrolysis or natural
+31 organic reduction was initiated.
+32 (b) (1) (i) In this subsection the following words have the meanings
+33 indicated.
+34 (ii) “Eligible dependent” means a veteran’s spouse, a veteran’s
+35 unmarried child under the age of 21 years, or a veteran’s unmarried adult child who before
+
+SENATE BILL 46 5
+1 the age of 21 became permanently incapable of self–support because of physical or mental
+2 disability.
+3 (iii) 1. “Identifying information” means data required by a
+4 veterans service organization to verify the eligibility of a veteran or an eligible dependent
+5 for burial in a national or state veterans cemetery.
+6 2. “Identifying information” includes name, service number,
+7 Social Security number, date of birth, date of death, place of birth, and copy of the death
+8 certificate.
+9 (iv) “INTERMENT” HAS THE MEANING STATED IN § 9–901 OF THE
+10 STATE GOVERNMENT ARTICLE.
+11 (V) “Veteran” has the meaning stated in § 9–901 of the State
+12 Government Article.
+13 [(v)] (VI) “Veterans service organization” means an association or
+14 other entity organized for the benefit of veterans that has been recognized by the U.S.
+15 Department of Veterans Affairs or chartered by Congress and any employee or
+16 representative of the association or entity.
+17 (2) (i) If a licensed funeral establishment or a crematory is in
+18 possession of cremated human remains or hydrolyzed remains that have been unclaimed
+19 for 90 days or more, the licensed funeral establishment or holder of the permit for the
+20 business of operating a crematory shall provide identifying information of the unclaimed
+21 cremains or hydrolyzed remains to a veterans service organization in order for the veterans
+22 service organization to determine if the unclaimed cremains or hydrolyzed remains are
+23 those of a veteran or an eligible dependent.
+24 (ii) 1. Subsubparagraph 2 of this subparagraph does not apply
+25 if:
+26 A. An authorizing agent directs otherwise; or
+27 B. A reduction facility reasonably concludes based on the
+28 identifying information or other evidence that a decedent does not qualify for disposition
+29 benefits associated with veteran status.
+30 2. A reduction facility in possession of human remains that
+31 are being processed by natural organic reduction shall provide identifying information to a
+32 veterans service organization within 5 business days after natural organic reduction is
+33 initiated to determine if the soil remains are those of a veteran or an eligible dependent.
+34 (3) Within 45 days after receipt of the information required under
+35 paragraph (2) of this subsection, the veterans service organization shall notify the licensed
+36 funeral establishment, permit holder, or reduction facility:
+
+6 SENATE BILL 46
+1 (i) Whether the cremains, hydrolyzed remains, or soil remains are
+2 those of a veteran or an eligible dependent; and
+3 (ii) If so, whether the veteran or eligible dependent is eligible for
+4 [burial] INTERMENT in a veterans cemetery.
+5 (4) If the unclaimed cremains or hydrolyzed remains are those of a veteran
+6 or an eligible dependent, the licensed funeral establishment or permit holder may transfer
+7 the cremains or hydrolyzed remains to a veterans service organization for the purpose of
+8 the appropriate disposition of the cremains or hydrolyzed remains.
+9 (5) If the unclaimed soil remains are those of a veteran or eligible
+10 dependent, the reduction facility may:
+11 (i) Transfer a portion of the soil remains not exceeding 300 cubic
+12 inches in volume to a veterans service organization that grants permission for the purpose
+13 of disposition; and
+14 (ii) If authorized, transfer the balance of the soil remains to a
+15 cemetery or the owner of a woodland protected under the Forest Conservation Act.
+16 (6) If a veterans service organization does not take possession of unclaimed
+17 cremains or hydrolyzed remains that qualify for [a plot] AN INTERMENT LOCATION in a
+18 State veterans’ cemetery under § 9–906 of the State Government Article within 10 days
+19 after the licensed funeral establishment or permit holder receives the notification required
+20 under paragraph (3) of this subsection, the licensed funeral establishment or permit holder
+21 shall:
+22 (i) Notify the Department of Veterans and Military Families of the
+23 status of the cremains or hydrolyzed remains for the purpose of the appropriate disposition
+24 of the cremains or hydrolyzed remains; and
+25 (ii) Transfer the cremains or hydrolyzed remains to the Department
+26 of Veterans and Military Families for the purpose of the appropriate disposition of the
+27 cremains or hydrolyzed remains.
+28 (7) If a veterans service organization does not take possession of a portion
+29 of unclaimed soil remains under paragraph (5)(i) of this subsection that qualifies for [a plot]
+30 AN INTERMENT LOCATION in a State veterans’ cemetery under § 9–906 of the State
+31 Government Article within 10 days after the reduction facility receives the notification
+32 required under paragraph (3) of this subsection, the reduction facility shall:
+33 (i) Notify the Department of Veterans and Military Families of the
+34 status of the soil remains for the purpose of the appropriate disposition of the portion of soil
+35 remains;
+
+SENATE BILL 46 7
+1 (ii) Transfer the portion of soil remains to the Department of
+2 Veterans and Military Families for the purpose of the appropriate disposition of the portion
+3 of the soil remains; and
+4 (iii) If authorized by the cemetery or owner, transfer the balance of
+5 the soil remains to a cemetery or the owner of a woodland protected under the Forest
+6 Conservation Act.
+7 Article – State Government
+8 9–901.
+9 (a) In this subtitle the following words have the meanings indicated.
+10 (b) “Active duty” has the meaning stated in 37 U.S.C. § 101.
+11 (c) “Active service member” means an individual who is:
+12 (1) an active duty member of the uniformed services; or
+13 (2) serving in a reserve component of the uniformed services on active duty
+14 orders.
+15 (d) “Armed forces” has the meaning stated in 10 U.S.C. § 101.
+16 (e) “Board” means the Board of Trustees of the Maryland Veterans Trust.
+17 (f) “Department” means the Department of Veterans and Military Families.
+18 (G) “INTERMENT” MEANS ALL FINAL DISPOSITION OF HUMAN REMAINS,
+19 INCLUDING:
+20 (1) EARTH BURIAL; AND
+21 (2) NICHE OR COLUMBARIUM INURNMENT.
+22 (H) “INTERMENT LOCATION” MEANS A GRAVE PLOT OR NICHE IN A
+23 COLUMBARIUM.
+24 [(g)] (I) “Military family” includes the spouse and dependent children of a
+25 service member or veteran related by blood, marriage, or adoption.
+26 [(h)] (J) “Reserve component” has the meaning stated in 37 U.S.C. § 101.
+27 [(i)] (K) “Secretary” means the Secretary of Veterans and Military Families.
+
+8 SENATE BILL 46
+1 [(j)] (L) “Service member” means an individual who is a member of:
+2 (1) the uniformed services; or
+3 (2) a reserve component of the uniformed services.
+4 [(k)] (M) “Trust” means the Maryland Veterans Trust.
+5 [(l)] (N) “Uniformed services” has the meaning stated in 37 U.S.C. § 101.
+6 [(m)] (O) Except as otherwise provided in this subtitle, “veteran” has the
+7 meaning stated in 38 U.S.C. § 101.
+8 9–905.1.
+9 (a) (1) In this section the following words have the meanings indicated.
+10 (2) “Advertisement” means:
+11 (i) a written or printed communication made for the purpose of
+12 soliciting business for veterans benefits appeals services;
+13 (ii) a directory listing for a person that is offering veterans benefits
+14 appeals services; or
+15 (iii) a radio, television, computer network or airwave, or electronic
+16 transmission that solicits business for or promotes a person offering veterans benefits
+17 appeals services.
+18 (3) “Veterans benefits appeals services” means any services that a veteran
+19 might reasonably require in order to appeal a denial of federal, state, or local veterans
+20 benefits, including denials of disability, limited income, home loan, insurance, education
+21 and training, health care, [burial] INTERMENT and memorial, and dependent and survivor
+22 benefits.
+23 (4) “Veterans benefits services” means any services a veteran or a family
+24 member of a veteran might reasonably use in order to obtain federal, state, or local veterans
+25 benefits.
+26 (b) (1) Before entering into an agreement with an individual for the provision
+27 of veterans benefits services or veterans benefits appeals services, a person who charges a
+28 fee for those services shall:
+29 (i) provide a written disclosure statement to each individual; and
+30 (ii) obtain the individual’s signature on the written disclosure
+31 statement acknowledging that the individual understands the disclosure statement.
+
+SENATE BILL 46 9
+1 (2) The written disclosure statement shall:
+2 (i) be on a form approved by the Secretary; and
+3 (ii) state that veterans benefits services and veterans benefits
+4 appeals services are offered at no cost by the Department and other veterans services
+5 organizations accredited by the U.S. Department of Veterans Affairs.
+6 (c) A person who charges a fee for providing veterans benefits appeals services
+7 shall provide in any advertisement for appeals services notice that appeals services are also
+8 offered at no cost by the Department and other veterans services organizations accredited
+9 by the U.S. Department of Veterans Affairs.
+10 (d) (1) A person who violates the provisions of this section is subject to a civil
+11 penalty of not more than $1,000 for each violation.
+12 (2) Civil penalties shall be in an amount ordered by the District Court in
+13 an action brought by the Attorney General.
+14 (3) Each day a violation continues is a separate violation.
+15 (4) Any civil penalty collected shall be deposited in the Maryland Veterans
+16 Trust Fund.
+17 9–906.
+18 (a) (1) In this section the following words have the meanings indicated.
+19 (2) “American braille tactile flag” means a tactile flag designed to allow
+20 blind people to experience the American flag, including a flag created by the Kansas Braille
+21 Transcription Institute.
+22 (3) In this section and in § 9–907 of this subtitle, “eligible decedent” means:
+23 (i) a veteran;
+24 (ii) a qualified reserve member; or
+25 (iii) an eligible spouse or dependent.
+26 (4) “Eligible dependent” means:
+27 (i) a child who meets the requirements stated in 38 C.F.R. §
+28 38.620(e);
+
+10 SENATE BILL 46
+1 (ii) a parent who meets the requirements stated in 38 C.F.R. §
+2 38.620(i); or
+3 (iii) a parent or child related by blood, marriage, or adoption of a
+4 qualified reserve member.
+5 (5) “Eligible spouse” means:
+6 (i) a spouse who meets the requirements stated in 38 C.F.R. §
+7 38.620(e); or
+8 (ii) a spouse of a qualified reserve member.
+9 (6) “Qualified reserve member” means a reserve component member who
+10 does not meet the requirements for [burial] INTERMENT at a national veterans’ cemetery
+11 but served other than dishonorably and completed the individual’s contractual obligation
+12 of service.
+13 (7) “State veterans’ cemetery” means a cemetery that the Department
+14 establishes under this section.
+15 (8) “Washington Cemetery” means the Civil War cemetery grounds
+16 authorized by Chapter 213 of the Acts of the General Assembly of 1870.
+17 (e) The Department shall provide [a plot] AN INTERMENT LOCATION in a State
+18 veterans’ cemetery, without charge, to a veteran or a veteran’s eligible spouse or dependent
+19 who meets the requirements of this section.
+20 (f) To qualify for [a plot] AN INTERMENT LOCATION in a State veterans’
+21 cemetery:
+22 (1) the eligible decedent must be:
+23 (i) a veteran who meets the requirements for [burial] INTERMENT
+24 at a national veterans’ cemetery;
+25 (ii) a qualified reserve member; or
+26 (iii) an eligible spouse or dependent who meets the requirements of
+27 this subsection; and
+28 (2) if a qualified reserve member, the qualified reserve member must also
+29 have been a resident of the State:
+30 (i) when the qualified reserve member entered the reserve
+31 component;
+
+SENATE BILL 46 11
+1 (ii) when the qualified reserve member died; or
+2 (iii) for 2 years, unless, for a reason that the Department finds
+3 compelling, the Department waives the time period.
+4 (g) To obtain [a plot] AN INTERMENT LOCATION in a State veterans’ cemetery,
+5 an applicant shall submit to the Department an application on the form that the
+6 Department provides.
+7 (h) (1) In [a plot] AN INTERMENT LOCATION that is allotted to a veteran or
+8 a qualified reserve member, the Department shall [bury] INTER:
+9 (i) the veteran or qualified reserve member; and
+10 (ii) any member of the immediate family who is an eligible spouse or
+11 dependent if the family member can be [buried] INTERRED in a space above or below the
+12 veteran or qualified reserve member or in the next available [plot] INTERMENT
+13 LOCATION.
+14 (2) With each [plot] INTERMENT LOCATION, the Department shall
+15 provide [a grave liner] AN OUTER BURIAL RECEPTACLE OR COLUMBARIUM NICHE AND
+16 MARKER at no cost for the veteran or the veteran’s eligible spouse or dependent.
+17 (i) (1) Except as provided in paragraph (2) of this subsection, the Department
+18 may not charge a veteran or a veteran’s eligible spouse or dependent for [burial]
+19 INTERMENT.
+20 (2) If the individual being [buried] INTERRED is a qualified reserve
+21 member or a qualified reserve member’s eligible spouse or dependent, the Department shall
+22 collect at the time of [burial] INTERMENT a fee that is equal to the annual [plot]
+23 INTERMENT LOCATION allowance established by the National Cemetery Administration.
+24 9–907.
+25 The Department shall keep a registry of the [graves] INTERMENT LOCATIONS of
+26 eligible decedents who are [buried] INTERRED in the State veterans’ cemeteries.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 October 1, 2026.

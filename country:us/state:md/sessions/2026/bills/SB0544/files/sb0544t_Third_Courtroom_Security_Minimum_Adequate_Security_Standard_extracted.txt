@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - Third - Courtroom Security - Minimum Adequate Security Standard
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 544
+D1 6lr2499
+CF HB 492
+By: Chair, Judicial Proceedings Committee (By Request – Maryland Judicial
+Conference)
+Introduced and read first time: February 4, 2026
+Assigned to: Judicial Proceedings
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 20, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Courtroom Security – Minimum Adequate Security Standard
+3 FOR the purpose of establishing minimum adequate security standards for courtroom
+4 security at all courthouse facilities; and generally relating to courtroom security.
+5 BY adding to
+6 Article – Courts and Judicial Proceedings
+7 Section 1–206
+8 Annotated Code of Maryland
+9 (2020 Replacement Volume and 2025 Supplement)
+10 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+11 That the Laws of Maryland read as follows:
+12 Article – Courts and Judicial Proceedings
+13 1–206.
+14 (A) THERE IS A MINIMUM ADEQUATE SECURITY STANDARD FOR
+15 COURTROOM SECURITY AT ALL COURTHOUSE FACILITIES IN THE STATE.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0544*
+
+2 SENATE BILL 544
+1 (B) FOR THE PURPOSES OF THIS SECTION, A COURT SECURITY OFFICER
+2 MUST MEET THE QUALIFICATIONS FOR A SPECIAL POLICE OFFICER AS DEFINED IN §
+3 3–301 OF THE PUBLIC SAFETY ARTICLE.
+4 (C) BEGINNING JULY 1, 2027, DURING COURT PROCEEDINGS, ANY ENTITY
+5 RESPONSIBLE FOR PROVIDING COURTHOUSE SECURITY SHALL USE BEST EFFORTS
+6 TO HAVE PRESENT A MINIMUM OF:
+7 (1) ONE COURT SECURITY OFFICER IN EACH COURTROOM FOR ANY
+8 CRIMINAL, FAMILY, OR JUVENILE PROCEEDING;
+9 (2) TWO COURT SECURITY OFFICERS IN EACH COURTROOM FOR ANY
+10 PROCEEDING INVOLVING AN INCARCERATED INDIVIDUAL OR AN INDIVIDUAL WHO
+11 MAY BE REMANDED TO CUSTODY AS A RESULT OF THE PROCEEDING; AND
+12 (3) ONE ADDITIONAL COURT SECURITY OFFICER FOR EVERY FOUR OR
+13 FEWER COURTROOMS ON EACH FLOOR OF A COURTHOUSE.
+14 (D) BEGINNING JULY 1, 2029, DURING COURT PROCEEDINGS, ANY ENTITY
+15 RESPONSIBLE FOR PROVIDING COURTHOUSE SECURITY SHALL USE BEST EFFORTS
+16 TO HAVE PRESENT A MINIMUM OF:
+17 (1) ONE COURT SECURITY OFFICER IN EACH COURTROOM FOR ANY
+18 TYPE OF PROCEEDING;
+19 (2) TWO COURT SECURITY OFFICERS IN EACH COURTROOM FOR ANY
+20 PROCEEDING INVOLVING AN INCARCERATED INDIVIDUAL OR ANY INDIVIDUAL WHO
+21 MAY BE REMANDED INTO CUSTODY AS A RESULT OF THE PROCEEDING; AND
+22 (3) ONE ADDITIONAL COURT SECURITY OFFICER FOR EVERY FOUR OR
+23 FEWER COURTROOMS ON EACH FLOOR OF A COURTHOUSE.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2026.
