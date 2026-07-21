@@ -1,0 +1,213 @@
+Title: 
+Official Title: 
+Source: versions - Chapter - Maryland Medical Assistance Program and Health Insurance - Coverage for Orthoses and Prostheses (So Every Body Can Move Act)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+WES MOORE, Governor Ch. 628
+Chapter 628
+(House Bill 445)
+AN ACT concerning
+Maryland Medical Assistance Program and Health Insurance – Coverage for
+Orthoses and Prostheses
+(So Every Body Can Move Act)
+FOR the purpose of requiring the Maryland Medical Assistance Program and certain
+insurers, nonprofit health service plans, and health maintenance organizations to
+provide certain coverage related to orthoses; establishing that certain insurers,
+nonprofit health service plans, and health maintenance organizations must comply
+with certain provider network requirements; clarifying that certain mandated
+benefits related to prostheses include all prostheses determined by a treating health
+care provider to be medically necessary for certain purposes; and generally relating
+to coverage and reimbursement for orthoses and prostheses.
+BY repealing and reenacting, without amendments,
+Article – Health – General
+Section 15–103(a)(1)
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Health – General
+Section 15–103(a)(2)(xxvii) and (xxviii)
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Health – General
+Section 15–103(a)(2)(xxix)
+Annotated Code of Maryland
+(2023 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Insurance
+Section 15–820 and 15–844(g)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Insurance
+Section 15–844(a) through (c)
+Annotated Code of Maryland
+– 1 –
+
+Ch. 628 2026 LAWS OF MARYLAND
+(2017 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Health – General
+15–103.
+(a) (1) The Secretary shall administer the Maryland Medical Assistance
+Program.
+(2) The Program:
+(xxvii) Beginning on January 1, 2026, if providing coverage for the
+delivery of anesthesia, shall provide coverage for the delivery of anesthesia in accordance
+with § 15–862 of the Insurance Article; [and]
+(xxviii) Beginning on January 1, 2026, shall provide calcium score
+testing in accordance with § 15–863 of the Insurance Article; AND
+(XXIX) BEGINNING ON JANUARY 1, 2027, SHALL PROVIDE
+COVERAGE FOR ORTHOSES IN ACCORDANCE WITH § 15–820 OF THE INSURANCE
+ARTICLE.
+Article – Insurance
+15–820.
+(a) (1) In this section, [“orthopedic brace”] “ORTHOSIS” means a rigid or
+semi–rigid device that is used to:
+[(1)] (I) support a weak or [deformed] MISALIGNED body member; or
+[(2)] (II) restrict or eliminate motion [in a diseased or injured part of the
+body], IMPROVE FUNCTION, OR RELIEVE SYMPTOMS OF A DISEASE, AN INJURY, OR A
+POST–OPERATIVE CONDITION IN A PART OF THE BODY.
+(2) “ORTHOSIS” INCLUDES A CUSTOM–DESIGNED,
+CUSTOM–FABRICATED, CUSTOM–MOLDED, CUSTOM–FITTED, OR MODIFIED DEVICE
+TO TREAT A NEUROMUSCULAR OR, MUSCULOSKELETAL DISORDER OR, ACQUIRED,
+OR CONGENITAL CONDITION.
+(B) THIS SECTION APPLIES TO:
+– 2 –
+
+WES MOORE, Governor Ch. 628
+(1) INSURERS AND NONPROFIT HEALTH SERVICE PLANS THAT
+PROVIDE HOSPITAL, MEDICAL, OR SURGICAL BENEFITS TO INDIVIDUALS OR GROUPS
+ON AN EXPENSE–INCURRED BASIS UNDER HEALTH INSURANCE POLICIES OR
+CONTRACTS THAT ARE ISSUED OR DELIVERED IN THE STATE; AND
+(2) HEALTH MAINTENANCE ORGANIZATIONS THAT PROVIDE
+HOSPITAL, MEDICAL, OR SURGICAL BENEFITS TO INDIVIDUALS OR GROUPS UNDER
+CONTRACTS THAT ARE ISSUED OR DELIVERED IN THE STATE.
+[(b)] (C) [Each health insurance contract that is delivered or issued for delivery
+in the State by a nonprofit health service plan and that provides hospital benefits] AN
+ENTITY SUBJECT TO THIS SECTION shall provide [benefits for orthopedic braces] ONCE
+ANNUALLY COVERAGE FOR:
+(1) ORTHOSES;
+(2) COMPONENTS OF ORTHOSES;
+(3) REPAIRS TO ORTHOSES; AND
+(4) SUBJECT TO SUBSECTION (D) OF THIS SECTION, REPLACEMENTS
+OF ORTHOSES OR ORTHOSIS COMPONENTS.
+(D) (1) AN ENTITY SUBJECT TO THIS SECTION SHALL PROVIDE
+COVERAGE FOR REPLACEMENTS OF ORTHOSES WITHOUT REGARD TO CONTINUOUS
+USE OR USEFUL LIFETIME RESTRICTIONS IF AN ORDERING HEALTH CARE PROVIDER
+DETERMINES THAT THE PROVISION OF A REPLACEMENT ORTHOSIS OR A
+REPLACEMENT COMPONENT OF THE ORTHOSIS IS NECESSARY:
+(I) BECAUSE OF A CHANGE IN THE PHYSIOLOGICAL CONDITION
+OF THE PATIENT; OR
+(II) UNLESS NECESSITATED BY MISUSE, BECAUSE OF AN
+IRREPARABLE CHANGE IN THE CONDITION OF THE ORTHOSIS OR A COMPONENT OF
+THE ORTHOSIS.
+(2) AN ENTITY SUBJECT TO THIS SECTION MAY REQUIRE AN
+ORDERING HEALTH CARE PROVIDER TO CONFIRM THAT THE ORTHOSIS OR
+COMPONENT OF THE ORTHOSIS BEING REPLACED MEETS THE REQUIREMENTS OF
+PARAGRAPH (1) OF THIS SUBSECTION IF THE ORTHOSIS OR COMPONENT OF THE
+ORTHOSIS IS LESS THAN 1 YEAR OLD.
+– 3 –
+
+Ch. 628 2026 LAWS OF MARYLAND
+(E) THE COVERED BENEFITS UNDER THIS SECTION MAY NOT BE SUBJECT
+TO A HIGHER COPAYMENT OR COINSURANCE REQUIREMENT THAN THE COPAYMENT
+OR COINSURANCE FOR OTHER SIMILAR MEDICAL AND SURGICAL BENEFITS
+COVERED UNDER THE POLICY OR CONTRACT OF THE INSURED OR ENROLLEE.
+(F) AN ENTITY SUBJECT TO THIS SECTION MAY NOT IMPOSE AN ANNUAL OR
+LIFETIME DOLLAR MAXIMUM ON COVERAGE REQUIRED UNDER THIS SECTION
+SEPARATE FROM ANY ANNUAL OR LIFETIME DOLLAR MAXIMUM THAT APPLIES IN
+THE AGGREGATE TO ALL COVERED BENEFITS UNDER THE POLICY OR CONTRACT OF
+THE INSURED OR ENROLLEE.
+(G) (1) AN ENTITY SUBJECT TO THIS SECTION MAY NOT ESTABLISH
+REQUIREMENTS FOR MEDICAL NECESSITY OR APPROPRIATENESS FOR THE
+COVERAGE REQUIRED UNDER THIS SECTION THAT ARE MORE RESTRICTIVE THAN
+THE INDICATIONS AND LIMITATIONS OF COVERAGE AND MEDICAL NECESSITY
+ESTABLISHED UNDER THE MEDICARE COVERAGE DATABASE.
+(2) THE COVERED BENEFITS UNDER THIS SECTION INCLUDE ALL
+ORTHOSES DETERMINED BY A TREATING HEALTH CARE PROVIDER TO BE
+MEDICALLY NECESSARY FOR:
+(I) COMPLETING ACTIVITIES OF DAILY LIVING;
+(II) ESSENTIAL JOB–RELATED ACTIVITIES; OR
+(III) PERFORMING PHYSICAL ACTIVITIES INCLUDING RUNNING,
+BIKING, SWIMMING, STRENGTH TRAINING, AND OTHER ACTIVITIES TO MAXIMIZE
+THE WHOLE–BODY HEALTH AND LOWER OR UPPER LIMB FUNCTION OF THE INSURED
+OR ENROLLEE.
+(H) AN ENTITY SUBJECT TO THIS SECTION THAT USES A PROVIDER PANEL
+FOR A POLICY OR CONTRACT DESCRIBED IN SUBSECTION (B) OF THIS SECTION AND
+THE PROVISION OF COVERED BENEFITS UNDER THIS SECTION SHALL COMPLY WITH
+§ 15–112(B)(3) OF THIS TITLE.
+15–844.
+(a) (1) In this section, “prosthesis” means an artificial device to replace, in
+whole or in part, a leg, an arm, or an eye.
+(2) “Prosthesis” includes a custom–designed, –fabricated, –fitted, or
+–modified device to treat partial or total limb loss for purposes of restoring physiological
+function.
+– 4 –
+
+WES MOORE, Governor Ch. 628
+(b) This section applies to:
+(1) insurers and nonprofit health service plans that provide hospital,
+medical, or surgical benefits to individuals or groups on an expense–incurred basis under
+health insurance policies or contracts that are issued or delivered in the State; and
+(2) health maintenance organizations that provide hospital, medical, or
+surgical benefits to individuals or groups under contracts that are issued or delivered in
+the State.
+(c) An entity subject to this section shall provide once annually coverage for:
+(1) prostheses;
+(2) components of prostheses;
+(3) repairs to prostheses; and
+(4) subject to subsection (d) of this section, replacements of prostheses or
+prosthesis components.
+(g) (1) An entity subject to this section may not establish requirements for
+medical necessity or appropriateness for the coverage required under this section that are
+more restrictive than the indications and limitations of coverage and medical necessity
+established under the Medicare Coverage Database.
+(2) The covered benefits under this section include ALL prostheses
+determined by a treating health care provider to be medically necessary for:
+(i) completing activities of daily living;
+(ii) essential job–related activities; or
+(iii) performing physical activities, including running, biking,
+swimming, strength training, and other activities to maximize the whole–body health and
+lower or upper limb function of the insured or enrollee.
+SECTION 2. AND BE IT FURTHER ENACTED, That it is the intent of the General
+Assembly that Section 1 of this Act may not be construed to require managed care
+organizations under the Maryland Medical Assistance Program to cover additional
+Healthcare Common Procedure Coding System (HCPCS) “L” codes for orthotic procedures
+and devices than are covered by managed care organizations as of December 31, 2026.
+SECTION 3. AND BE IT FURTHER ENACTED, That:
+– 5 –
+
+Ch. 628 2026 LAWS OF MARYLAND
+(a) On or before June 30, 2032, each entity that is subject to § 15–820 of the
+Insurance Article, as enacted by Section 1 of this Act, and each managed care organization
+providing coverage under the Maryland Medical Assistance Program shall report to the
+Maryland Insurance Administration and the Maryland Department of Health, respectively,
+on its compliance with § 15–820 of the Insurance Article or § 15–103(a)(2)(xxix) of the
+Health – General Article, as enacted by Section 1 of this Act, and, as applicable, for calendar
+years 2027 through 2030.
+(b) (1) The Maryland Insurance Administration and the Maryland
+Department of Health shall jointly prescribe the form for the report required under
+subsection (a) of this section.
+(2) The form must include the number of claims and the total amount of
+claims paid in the State for the coverage required by § 15–820 of the Insurance Article or §
+15–103(a)(2)(xxix) of the Health – General Article, as enacted by Section 1 of this Act, and
+as applicable.
+(c) (1) The Maryland Insurance Administration and the Maryland
+Department of Health shall aggregate the data required under subsection (b) of this section
+in a joint report by calendar year.
+(2) On or before December 31, 2032, the Maryland Insurance
+Administration and the Maryland Department of Health shall submit the joint report to
+the Senate Finance Committee and the House Health and Government Operations
+Committee, in accordance with § 2–1257 of the State Government Article.
+SECTION 4. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall
+apply to all policies, contracts, and health benefit plans issued, delivered, or renewed in the
+State on or after January 1, 2027.
+SECTION 5. AND BE IT FURTHER ENACTED, That this Act shall take effect
+January 1, 2027.
+Approved by the Governor, May 26, 2026.
+– 6 –

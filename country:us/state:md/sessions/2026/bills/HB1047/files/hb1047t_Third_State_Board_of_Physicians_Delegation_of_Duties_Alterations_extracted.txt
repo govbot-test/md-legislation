@@ -1,0 +1,599 @@
+Title: 
+Official Title: 
+Source: versions - Third - State Board of Physicians - Delegation of Duties - Alterations
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 1047
+J2 6lr2415
+CF SB 915
+By: Delegate Hutchinson
+Introduced and read first time: February 9, 2026
+Assigned to: Health
+Committee Report: Favorable
+House action: Adopted
+Read second time: March 1, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 State Board of Physicians – Delegation of Duties – Alterations
+3 FOR the purpose of requiring an individual to be registered with the State Board of
+4 Physicians to perform limited X–ray machine operations in the State; establishing
+5 certain disciplinary procedures for limited X–ray machine operators; recodifying
+6 certain provisions of law related to registered cardiovascular invasive specialists and
+7 supervised medical graduates; authorizing a physician assistant to perform X–ray
+8 duties under certain circumstances; and generally relating to the delegation of duties
+9 by physicians and physician assistants.
+10 BY repealing and reenacting, with amendments,
+11 Article – Health Occupations
+12 Section 14–206(e)(2)(viii), 14–306, 14–602, and 15–302.1(c)
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2025 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – Health Occupations
+17 Section 14–206(e)(2)(ix)
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2025 Supplement)
+20 BY adding to
+21 Article – Health Occupations
+22 Section 14–206(e)(2)(x), 14–306.1, 14–306.2, 14–306.3, and 14–306.4
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1047*
+
+2 HOUSE BILL 1047
+1 Annotated Code of Maryland
+2 (2021 Replacement Volume and 2025 Supplement)
+3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+4 That the Laws of Maryland read as follows:
+5 Article – Health Occupations
+6 14–206.
+7 (e) A disciplinary panel may issue a cease and desist order or obtain injunctive
+8 relief against an individual for:
+9 (2) Representing to the public, by title, description of services, methods,
+10 procedures, or otherwise, that the individual is authorized to practice:
+11 (viii) Genetic counseling in this State, in violation of § 14–5G–24 of
+12 this title; [or]
+13 (ix) As a physician assistant in this State, in violation of § 15–402 of
+14 this article; or
+15 (X) LIMITED X–RAY MACHINE OPERATION IN THE STATE, IN
+16 VIOLATION OF § 14–306.3 OF THIS TITLE; OR
+17 14–306.
+18 (a) [Except as provided in subsections (e) and (f) of this section, to] TO the extent
+19 [permitted] AUTHORIZED by the rules, regulations, and orders of the Board, an individual
+20 to whom duties are delegated by a licensed physician or physician assistant may perform
+21 those duties without a license as provided in this section.
+22 (b) The individuals to whom duties may be delegated under this section include
+23 any individual authorized to practice any other health occupation regulated under this
+24 article or § 13–516 of the Education Article.
+25 (c) (1) The Board shall adopt rules and regulations to delineate the scope of
+26 this section.
+27 (2) Before [it] THE BOARD adopts any rule or regulation under this
+28 section, the Board shall invite and consider proposals from any individual or health group
+29 that could be affected by the rule or regulation.
+30 (d) (1) If a duty that is to be delegated under this section is a part of the
+31 practice of a health occupation that is regulated under this article by another board, any
+
+HOUSE BILL 1047 3
+1 rule or regulation concerning that duty shall be adopted jointly by the Board of Physicians
+2 and the board that regulates the other health occupation.
+3 (2) If the two boards cannot agree on a proposed rule or regulation, the
+4 proposal shall be submitted to the Secretary for a final decision.
+5 [(e) Except as otherwise provided in this section and in accordance with
+6 regulations adopted by the Board, an individual may perform X–ray duties without a
+7 license only if the duties:
+8 (1) Do not include:
+9 (i) Computerized or noncomputerized tomography;
+10 (ii) Fluoroscopy;
+11 (iii) Invasive radiology;
+12 (iv) Mammography;
+13 (v) Nuclear medicine;
+14 (vi) Radiation therapy; or
+15 (vii) Xerography;
+16 (2) Are limited to X–ray procedures of the:
+17 (i) Chest;
+18 (ii) Spine, including the:
+19 1. Cervical spine;
+20 2. Lumbar spine;
+21 3. Sacroiliac joints;
+22 4. Sacrum and coccyx; and
+23 5. Thoracic spine;
+24 (iii) Lower extremities, including:
+25 1. Toes;
+26 2. The foot;
+
+4 HOUSE BILL 1047
+1 3. The ankle;
+2 4. The calcaneus;
+3 5. The tibia and fibula;
+4 6. The knee and patella; and
+5 7. The femur; and
+6 (iv) Upper extremities, including:
+7 1. Fingers;
+8 2. The hand;
+9 3. The wrist;
+10 4. The forearm;
+11 5. The elbow;
+12 6. The humerus;
+13 7. The shoulder;
+14 8. The clavicle;
+15 9. Acromioclavicular joints; and
+16 10. The scapula; and
+17 (3) Are performed:
+18 (i) In the physician’s office under the supervision of a licensed
+19 physician or radiologic technologist who is on–site or able to provide immediately available
+20 direction; and
+21 (ii) 1. By an individual who has:
+22 A. Attested to the completion of at least 6 months of clinical
+23 care experience; and
+24 B. Completed a limited scope X–ray educational program
+25 consisting of at least 115 hours of didactic training delivered by a radiologic technologist
+26 certified by the American Registry of Radiologic Technologists providing instruction in
+
+HOUSE BILL 1047 5
+1 radiographic anatomy, procedures, and pathology, digital image acquisition and display,
+2 fundamentals, ethics, and laws of health care, human anatomy and physiology, image
+3 production and analysis, imaging equipment and radiation production, medical
+4 terminology, and patient care;
+5 C. Completed at least 480 hours of clinical training and
+6 successfully completed a minimum of five competencies in each body part listed in item (2)
+7 of this subsection under the direct supervision of a radiologic technologist certified by the
+8 American Registry of Radiologic Technologists;
+9 D. Achieved a passing score, as determined by the Board, on
+10 the American Registry of Radiologic Technologists examination for limited scope of practice
+11 in radiography or an alternative examination approved by the Board; and
+12 E. Registered with the Board attesting to the completion of
+13 the requirements of this item and the completion of at least 24 hours of approved continuing
+14 education credits earned during the 2–year period immediately following the date of initial
+15 registration and every 2 years thereafter; or
+16 2. By a licensed physician assistant who has completed a
+17 course that includes anterior–posterior and lateral radiographic studies of extremities on
+18 at least 20 separate patients under the direct supervision of the delegating physician or
+19 radiologist using a mini C–arm or similar low–level radiation machine to perform
+20 nonfluoroscopic X–ray procedures, if the duties:
+21 A. Include only the X–ray procedures described in paragraph
+22 (2)(iii) of this subsection; and
+23 B. Are performed pursuant to a Board–approved delegation
+24 agreement that includes a request to perform advanced duties under § 15–302(c)(2) of this
+25 article.
+26 (f) (1) In accordance with regulations adopted by the Board, a licensed
+27 physician may delegate duties to a registered cardiovascular invasive specialist assisting
+28 in the physician’s performance of fluoroscopy if:
+29 (i) The delegated duties are limited to a cardiac catheterization
+30 procedure performed in a hospital cardiac catheterization laboratory;
+31 (ii) The physician is physically present and personally directs each
+32 act performed by the registered cardiovascular invasive specialist;
+33 (iii) The registered cardiovascular invasive specialist has completed
+34 the training and education and has the experience required by regulations adopted by the
+35 Board; and
+
+6 HOUSE BILL 1047
+1 (iv) The hospital in which the cardiac catheterization laboratory is
+2 located has verified and documented that the registered cardiovascular invasive specialist
+3 has completed the training and education and has the experience required by regulations
+4 adopted by the Board.
+5 (2) The hospital in which the cardiac catheterization laboratory is located
+6 and the physician delegating duties to a registered cardiovascular invasive specialist under
+7 this subsection are responsible for ensuring that all requirements of this subsection are
+8 met for each procedure.
+9 (3) A disciplinary panel may impose a civil penalty of up to $5,000 for each
+10 instance of a hospital’s failure to comply with the requirements of this subsection.
+11 (g) (1) (i) In this subsection the following words have the meanings
+12 indicated.
+13 (ii) “Direct supervision” means oversight exercised by a delegating
+14 physician who is:
+15 1. Personally treating the patient;
+16 2. In the same medical office as the patient and the
+17 supervised medical graduate; and
+18 3. Immediately available to provide assistance and guidance
+19 to the supervised medical graduate for the duration of the completion of a delegated duty.
+20 (iii) “Supervised medical graduate” means an individual who:
+21 1. Has a degree of:
+22 A. Doctor of medicine from a medical school that is accredited
+23 by an accrediting organization that the Board recognizes in its regulations; or
+24 B. Doctor of osteopathy from a school of osteopathy in the
+25 United States, its territories or possessions, Puerto Rico, or Canada that has standards for
+26 graduation equivalent to those established by the American Osteopathic Association; and
+27 2. Has passed parts 1 and 2 of:
+28 A. The United States Medical Licensing Examination; or
+29 B. The Comprehensive Osteopathic Medical Licensing
+30 Examination of the United States.
+
+HOUSE BILL 1047 7
+1 (2) Subject to paragraph (3) of this subsection and in accordance with
+2 regulations adopted by the Board, a supervised medical graduate may perform delegated
+3 duties under direct supervision.
+4 (3) An individual may not practice as a supervised medical graduate for a
+5 period of more than 2 years.
+6 (4) For the purposes of this subsection, a delegating physician is not
+7 required to be in the presence of a patient and a supervised medical graduate during the
+8 completion of a delegated duty.
+9 (h) In accordance with regulations adopted by the Board, a physician’s office that
+10 employs an individual authorized to perform X–ray duties without a license under
+11 subsection (e) of this section is responsible for ensuring that all requirements of subsection
+12 (e) of this section are met for each X–ray examination performed.
+13 (i) If an unlicensed individual performs X–ray duties without meeting the
+14 requirements of subsection (e) of this section, the Board may impose a civil penalty of up
+15 to:
+16 (1) $5,000 for each violation on the physician’s office where the violation
+17 occurred; and
+18 (2) $1,000 for each violation on the individual who committed the
+19 violation.]
+20 14–306.1.
+21 (A) IN ACCORDANCE WITH REGULATIONS ADOPTED BY THE BOARD, A
+22 LICENSED PHYSICIAN MAY DELEGATE DUTIES TO A REGISTERED CARDIOVASCULAR
+23 INVASIVE SPECIALIST ASSISTING IN THE PHYSICIAN’S PERFORMANCE OF
+24 FLUOROSCOPY IF:
+25 (1) THE DELEGATED DUTIES ARE LIMITED TO A CARDIAC
+26 CATHETERIZATION PROCEDURE PERFORMED IN A HOSPITAL CARDIAC
+27 CATHETERIZATION LABORATORY;
+28 (2) THE PHYSICIAN IS PHYSICALLY PRESENT AND PERSONALLY
+29 DIRECTS EACH ACT PERFORMED BY THE REGISTERED CARDIOVASCULAR INVASIVE
+30 SPECIALIST;
+31 (3) THE REGISTERED CARDIOVASCULAR INVASIVE SPECIALIST HAS
+32 COMPLETED THE TRAINING AND EDUCATION AND HAS THE EXPERIENCE REQUIRED
+33 BY REGULATIONS ADOPTED BY THE BOARD; AND
+
+8 HOUSE BILL 1047
+1 (4) THE HOSPITAL IN WHICH THE CARDIAC CATHETERIZATION
+2 LABORATORY IS LOCATED HAS VERIFIED AND DOCUMENTED THAT THE REGISTERED
+3 CARDIOVASCULAR INVASIVE SPECIALIST HAS COMPLETED THE TRAINING AND
+4 EDUCATION AND HAS THE EXPERIENCE REQUIRED BY REGULATIONS ADOPTED BY
+5 THE BOARD.
+6 (B) THE HOSPITAL IN WHICH THE CARDIAC CATHETERIZATION
+7 LABORATORY IS LOCATED AND THE PHYSICIAN DELEGATING DUTIES TO A
+8 REGISTERED CARDIOVASCULAR INVASIVE SPECIALIST UNDER THIS SECTION ARE
+9 RESPONSIBLE FOR ENSURING THAT ALL REQUIREMENTS OF THIS SECTION ARE MET
+10 FOR EACH PROCEDURE.
+11 (C) A DISCIPLINARY PANEL MAY IMPOSE A CIVIL PENALTY OF UP TO $5,000
+12 FOR EACH INSTANCE OF A HOSPITAL’S FAILURE TO COMPLY WITH THE
+13 REQUIREMENTS OF THIS SECTION.
+14 14–306.2.
+15 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+16 INDICATED.
+17 (2) “ON–SITE SUPERVISION” MEANS OVERSIGHT EXERCISED BY A
+18 DELEGATING PHYSICIAN WHO IS:
+19 (I) PERSONALLY TREATING THE PATIENT;
+20 (II) IN THE SAME MEDICAL OFFICE AS THE PATIENT AND THE
+21 SUPERVISED MEDICAL GRADUATE; AND
+22 (III) IMMEDIATELY AVAILABLE TO PROVIDE ASSISTANCE AND
+23 GUIDANCE TO THE SUPERVISED MEDICAL GRADUATE FOR THE DURATION OF THE
+24 COMPLETION OF A DELEGATED DUTY.
+25 (3) “SUPERVISED MEDICAL GRADUATE” MEANS AN INDIVIDUAL WHO:
+26 (I) HAS A DEGREE OF:
+27 1. DOCTOR OF MEDICINE FROM A MEDICAL SCHOOL
+28 THAT IS ACCREDITED BY AN ACCREDITING ORGANIZATION THAT THE BOARD
+29 RECOGNIZES IN ITS REGULATIONS; OR
+30 2. DOCTOR OF OSTEOPATHY FROM A SCHOOL OF
+31 OSTEOPATHY IN THE UNITED STATES, ITS TERRITORIES OR POSSESSIONS, PUERTO
+
+HOUSE BILL 1047 9
+1 RICO, OR CANADA THAT HAS STANDARDS FOR GRADUATION EQUIVALENT TO THOSE
+2 ESTABLISHED BY THE AMERICAN OSTEOPATHIC ASSOCIATION; AND
+3 (II) HAS PASSED PARTS 1 AND 2 OF:
+4 1. THE UNITED STATES MEDICAL LICENSING
+5 EXAMINATION; OR
+6 2. THE COMPREHENSIVE OSTEOPATHIC MEDICAL
+7 LICENSING EXAMINATION OF THE UNITED STATES.
+8 (B) SUBJECT TO SUBSECTION (C) OF THIS SECTION AND IN ACCORDANCE
+9 WITH REGULATIONS ADOPTED BY THE BOARD, A SUPERVISED MEDICAL GRADUATE
+10 MAY PERFORM DELEGATED DUTIES UNDER ON–SITE SUPERVISION.
+11 (C) AN INDIVIDUAL MAY NOT PRACTICE AS A SUPERVISED MEDICAL
+12 GRADUATE FOR A PERIOD OF MORE THAN 2 YEARS.
+13 (D) FOR THE PURPOSES OF THIS SECTION, A DELEGATING PHYSICIAN IS
+14 NOT REQUIRED TO BE IN THE PRESENCE OF A PATIENT AND A SUPERVISED MEDICAL
+15 GRADUATE DURING THE COMPLETION OF A DELEGATED DUTY.
+16 14–306.3.
+17 (A) IN ACCORDANCE WITH REGULATIONS ADOPTED BY THE BOARD, AN
+18 INDIVIDUAL MAY PERFORM X–RAY DUTIES AS A LIMITED X–RAY MACHINE
+19 OPERATOR REGISTERED WITH THE BOARD UNDER THIS SECTION WITHOUT A
+20 LICENSE IF THE X–RAY PROCEDURES:
+21 (1) DO NOT INCLUDE:
+22 (I) COMPUTERIZED OR NONCOMPUTERIZED TOMOGRAPHY;
+23 (II) FLUOROSCOPY;
+24 (III) INVASIVE RADIOLOGY;
+25 (IV) MAMMOGRAPHY;
+26 (V) NUCLEAR MEDICINE;
+27 (VI) RADIATION THERAPY; OR
+
+10 HOUSE BILL 1047
+1 (VII) XEROGRAPHY;
+2 (2) ARE LIMITED TO X–RAY PROCEDURES OF:
+3 (I) THE CHEST;
+4 (II) THE SPINE, INCLUDING:
+5 1. THE CERVICAL SPINE;
+6 2. THE LUMBAR SPINE;
+7 3. THE SACROILIAC JOINTS;
+8 4. THE SACRUM AND COCCYX; AND
+9 5. THE THORACIC SPINE;
+10 (III) LOWER EXTREMITIES, INCLUDING:
+11 1. TOES;
+12 2. THE FOOT;
+13 3. THE ANKLE;
+14 4. THE CALCANEUS;
+15 5. THE TIBIA AND FIBULA;
+16 6. THE KNEE AND PATELLA; AND
+17 7. THE FEMUR; AND
+18 (IV) UPPER EXTREMITIES, INCLUDING:
+19 1. FINGERS;
+20 2. THE HAND;
+21 3. THE WRIST;
+22 4. THE FOREARM;
+
+HOUSE BILL 1047 11
+1 5. THE ELBOW;
+2 6. THE HUMERUS;
+3 7. THE SHOULDER;
+4 8. THE CLAVICLE;
+5 9. ACROMIOCLAVICULAR JOINTS; AND
+6 10. THE SCAPULA; AND
+7 (3) ARE PERFORMED UNDER THE SUPERVISION OF A LICENSED
+8 PHYSICIAN OR RADIOGRAPHER WHO IS ON–SITE OR ABLE TO PROVIDE IMMEDIATELY
+9 AVAILABLE DIRECTION; AND
+10 (4) ARE PERFORMED BY AN INDIVIDUAL WHO HAS REGISTERED WITH
+11 THE BOARD AND ATTESTS:
+12 (I) TO THE SUCCESSFUL COMPLETION OF AT LEAST 6 MONTHS
+13 OF CLINICAL CARE EXPERIENCE;
+14 (II) TO THE SUCCESSFUL COMPLETION OF:
+15 1. A LIMITED X–RAY EDUCATIONAL PROGRAM; OR
+16 2. THE FIRST YEAR OF AN ACCREDITED RADIOLOGIC
+17 TECHNOLOGIST PROGRAM IN GOOD STANDING WITH THE BOARD;
+18 (III) TO THE SUCCESSFUL COMPLETION OF AT LEAST 115 HOURS
+19 OF DIDACTIC TRAINING DELIVERED BY A RADIOLOGIC TECHNOLOGIST CERTIFIED
+20 BY THE AMERICAN REGISTRY OF RADIOLOGIC TECHNOLOGISTS PROVIDING
+21 INSTRUCTION IN RADIOGRAPHIC ANATOMY, PROCEDURES, AND PATHOLOGY,
+22 DIGITAL IMAGE ACQUISITION AND DISPLAY, FUNDAMENTALS, ETHICS, AND LAWS OF
+23 HEALTH CARE, HUMAN ANATOMY AND PHYSIOLOGY, IMAGE PRODUCTION AND
+24 ANALYSIS, IMAGING EQUIPMENT AND RADIATION PRODUCTION, MEDICAL
+25 TERMINOLOGY, AND PATIENT CARE;
+26 (IV) TO THE SUCCESSFUL COMPLETION OF AT LEAST 480 HOURS
+27 OF CLINICAL TRAINING;
+
+12 HOUSE BILL 1047
+1 (V) TO THE SUCCESSFUL COMPLETION OF A MINIMUM OF FIVE
+2 COMPETENCIES IN EACH BODY PART LISTED UNDER SUBSECTION (A)(2) OF THIS
+3 SECTION UNDER THE DIRECT SUPERVISION OF A RADIOLOGIC TECHNOLOGIST
+4 CERTIFIED BY THE AMERICAN REGISTRY OF RADIOLOGIC TECHNOLOGISTS; AND
+5 (VI) TO THE SUCCESSFUL ACHIEVEMENT OF A PASSING SCORE,
+6 AS DETERMINED BY THE BOARD, ON THE AMERICAN REGISTRY OF RADIOLOGIC
+7 TECHNOLOGISTS EXAMINATION FOR LIMITED SCOPE OF PRACTICE IN
+8 RADIOGRAPHY OR AN ALTERNATIVE EXAMINATION APPROVED BY THE BOARD.
+9 (B) IF THE APPLICANT COMPLETED THE FIRST YEAR OF AN ACCREDITED
+10 RADIOLOGIC TECHNOLOGIST EDUCATIONAL PROGRAM, THE PROGRAM DIRECTOR
+11 OF THE EDUCATIONAL PROGRAM SHALL PROVIDE AN ATTESTATION DIRECTLY TO
+12 THE BOARD STATING THAT THE APPLICANT MEETS OR EXCEEDS THE
+13 REQUIREMENTS OF SUBSECTION (A)(4)(I), (II)2, (III), (IV), (V), AND (VI) OF THIS
+14 SECTION.
+15 (C) AN INDIVIDUAL SEEKING REGISTRATION UNDER THIS SECTION SHALL:
+16 (1) APPLY FOR REGISTRATION ON A FORM SUPPLIED BY THE BOARD;
+17 (2) PAY THE REGISTRATION FEE ESTABLISHED BY THE BOARD; AND
+18 (3) COMPLETE ANY OTHER REQUIREMENTS ESTABLISHED BY THE
+19 BOARD.
+20 (D) IF AN INDIVIDUAL WAS DENIED A LICENSE BY THE BOARD, THE
+21 INDIVIDUAL IS NOT ELIGIBLE FOR REGISTRATION UNDER THIS SECTION.
+22 (E) AN INDIVIDUAL REGISTERED UNDER THIS SECTION SHALL COMPLETE
+23 AT LEAST 24 HOURS OF APPROVED CONTINUING EDUCATION CREDITS EARNED
+24 DURING THE 2–YEAR PERIOD IMMEDIATELY PRECEDING THE EXPIRATION OF A
+25 REGISTRATION.
+26 (F) (1) THE TERM OF A REGISTRATION MAY NOT EXCEED 3 YEARS.
+27 (2) A REGISTRATION SHALL EXPIRE ON A DATE ESTABLISHED BY THE
+28 BOARD.
+29 (3) TO RENEW A REGISTRATION, THE REGISTRANT MUST:
+30 (I) APPLY FOR RENEWAL ON A FORM SUPPLIED BY THE BOARD;
+
+HOUSE BILL 1047 13
+1 (II) PAY THE RENEWAL FEE ESTABLISHED BY THE BOARD; AND
+2 (III) COMPLETE ANY OTHER REQUIREMENTS ESTABLISHED BY
+3 THE BOARD.
+4 (G) AN APPLICANT FOR REGISTRATION SHALL COMPLETE A CRIMINAL
+5 HISTORY RECORDS CHECK IN ACCORDANCE WITH § 14–308.1 OF THIS SUBTITLE.
+6 (H) (1) THE BOARD SHALL SET REASONABLE FEES FOR THE ISSUANCE
+7 AND RENEWAL OF REGISTRATIONS AND OTHER SERVICES PROVIDED.
+8 (2) THE FEES CHARGED SHALL BE SET SO AS TO PRODUCE FUNDS TO
+9 APPROXIMATE THE COST OF MAINTAINING THE REGISTRATION PROGRAM AND
+10 OTHER SERVICES PROVIDED TO REGISTRANTS UNDER THIS SECTION.
+11 (I) IN ACCORDANCE WITH REGULATIONS ADOPTED BY THE BOARD, A
+12 PHYSICIAN’S OFFICE THAT EMPLOYS AN INDIVIDUAL AUTHORIZED TO PERFORM
+13 X–RAY DUTIES WITHOUT A LICENSE UNDER THIS SECTION IS RESPONSIBLE FOR
+14 ENSURING THAT ALL REQUIREMENTS OF THIS SECTION ARE MET FOR EACH X–RAY
+15 EXAMINATION PERFORMED.
+16 (J) IF AN UNREGISTERED INDIVIDUAL PERFORMS X–RAY DUTIES WITHOUT
+17 MEETING THE REQUIREMENTS OF THIS SECTION, THE BOARD MAY IMPOSE A CIVIL
+18 PENALTY OF UP TO:
+19 (1) $5,000 FOR EACH VIOLATION ON THE PHYSICIAN’S OFFICE WHERE
+20 THE VIOLATION OCCURRED; AND
+21 (2) $1,000 FOR EACH VIOLATION ON THE INDIVIDUAL WHO
+22 COMMITTED THE VIOLATION.
+23 14–306.4.
+24 (A) SUBJECT TO THE HEARING PROVISIONS OF § 14–405 OF THIS TITLE, A
+25 DISCIPLINARY PANEL, ON THE AFFIRMATIVE VOTE OF A MAJORITY OF THE QUORUM
+26 OF THE DISCIPLINARY PANEL, MAY DENY A REGISTRATION TO PRACTICE AS A
+27 LIMITED X–RAY MACHINE OPERATOR TO ANY APPLICANT, REPRIMAND ANY LIMITED
+28 X–RAY MACHINE OPERATOR REGISTRANT, PLACE ANY REGISTRANT ON PROBATION,
+29 OR SUSPEND OR REVOKE A REGISTRATION, IF THE APPLICANT OR REGISTRANT:
+30 (1) FRAUDULENTLY OR DECEPTIVELY OBTAINS OR ATTEMPTS TO
+31 OBTAIN A REGISTRATION FOR THE APPLICANT, REGISTRANT, OR FOR ANOTHER;
+
+14 HOUSE BILL 1047
+1 (2) FRAUDULENTLY OR DECEPTIVELY USES A REGISTRATION;
+2 (3) IS GUILTY OF:
+3 (I) IMMORAL CONDUCT IN THE PRACTICE OF LIMITED X–RAY
+4 MACHINE OPERATION; OR
+5 (II) UNPROFESSIONAL CONDUCT IN THE PRACTICE OF LIMITED
+6 X–RAY MACHINE OPERATION;
+7 (4) IS:
+8 (I) PROFESSIONALLY INCOMPETENT;
+9 (II) PHYSICALLY INCOMPETENT; OR
+10 (III) MENTALLY INCOMPETENT;
+11 (5) ABANDONS A PATIENT;
+12 (6) IS HABITUALLY INTOXICATED;
+13 (7) IS ADDICTED TO OR HABITUALLY ABUSES ANY NARCOTIC OR
+14 CONTROLLED DANGEROUS SUBSTANCE AS DEFINED IN § 5–101 OF THE CRIMINAL
+15 LAW ARTICLE;
+16 (8) PROVIDES PROFESSIONAL SERVICES WHILE:
+17 (I) UNDER THE INFLUENCE OF ALCOHOL; OR
+18 (II) USING ANY NARCOTIC OR CONTROLLED DANGEROUS
+19 SUBSTANCE AS DEFINED IN § 5–101 OF THE CRIMINAL LAW ARTICLE OR ANY OTHER
+20 DRUG THAT IS IN EXCESS OF THERAPEUTIC AMOUNTS OR WITHOUT VALID MEDICAL
+21 INDICATION;
+22 (9) PROMOTES THE SALE OF SERVICES, DRUGS, DEVICES,
+23 APPLIANCES, OR GOODS TO A PATIENT SO AS TO EXPLOIT THE PATIENT FOR
+24 FINANCIAL GAIN;
+25 (10) WILLFULLY MAKES OR FILES A FALSE REPORT OR RECORD IN THE
+26 PRACTICE OF LIMITED X–RAY MACHINE OPERATION;
+
+HOUSE BILL 1047 15
+1 (11) WILLFULLY FAILS TO FILE OR RECORD ANY REPORT AS REQUIRED
+2 UNDER LAW, WILLFULLY IMPEDES OR OBSTRUCTS THE FILING OR RECORDING OF A
+3 REPORT, OR INDUCES ANOTHER TO FAIL TO FILE OR RECORD A REPORT;
+4 (12) BREACHES PATIENT CONFIDENTIALITY;
+5 (13) PAYS OR AGREES TO PAY ANY SUM OR PROVIDE ANY FORM OF
+6 REMUNERATION OR MATERIAL BENEFIT TO ANY PERSON FOR BRINGING OR
+7 REFERRING A PATIENT OR ACCEPTS OR AGREES TO ACCEPT ANY SUM OR ANY FORM
+8 OF REMUNERATION OR MATERIAL BENEFIT FROM AN INDIVIDUAL FOR BRINGING OR
+9 REFERRING A PATIENT;
+10 (14) WILLFULLY MAKES A MISREPRESENTATION WHILE PRACTICING
+11 LIMITED X–RAY MACHINE OPERATION;
+12 (15) WILLFULLY PRACTICES LIMITED X–RAY MACHINE OPERATION
+13 WITH AN UNAUTHORIZED INDIVIDUAL OR AIDS AN UNAUTHORIZED INDIVIDUAL IN
+14 THE PRACTICE OF LIMITED X–RAY MACHINE OPERATION;
+15 (16) OFFERS, UNDERTAKES, OR AGREES TO CURE OR TREAT DISEASE
+16 BY A SECRET METHOD, TREATMENT, OR MEDICINE;
+17 (17) IS DISCIPLINED BY A LICENSING OR DISCIPLINARY AUTHORITY OR
+18 IS CONVICTED OR DISCIPLINED BY A COURT OF ANY STATE OR COUNTRY OR IS
+19 DISCIPLINED BY ANY BRANCH OF THE UNIFORMED SERVICES OR THE U.S.
+20 DEPARTMENT OF VETERANS AFFAIRS FOR AN ACT THAT WOULD BE GROUNDS FOR
+21 DISCIPLINARY ACTION UNDER THE BOARD’S DISCIPLINARY STATUTES;
+22 (18) FAILS TO MEET APPROPRIATE STANDARDS FOR THE DELIVERY OF
+23 QUALITY LIMITED X–RAY MACHINE OPERATION CARE PERFORMED IN ANY
+24 OUTPATIENT SURGICAL FACILITY, OFFICE, HOSPITAL OR RELATED INSTITUTION, OR
+25 ANY OTHER LOCATION IN THIS STATE;
+26 (19) WILLFULLY SUBMITS FALSE STATEMENTS TO COLLECT FEES FOR
+27 WHICH SERVICES ARE NOT PROVIDED;
+28 (20) (I) HAS BEEN SUBJECT TO INVESTIGATION OR DISCIPLINARY
+29 ACTION BY A DISCIPLINARY AUTHORITY OR BY A COURT OF ANY STATE OR COUNTRY
+30 FOR AN ACT THAT WOULD BE GROUNDS FOR DISCIPLINARY ACTION UNDER THE
+31 BOARD’S DISCIPLINARY STATUTES; AND
+32 (II) HAS:
+
+16 HOUSE BILL 1047
+1 1. SURRENDERED THE LICENSE, REGISTRATION,
+2 CERTIFICATION, OR PERMIT ISSUED BY THE STATE OR COUNTRY; OR
+3 2. ALLOWED THE LICENSE, REGISTRATION,
+4 CERTIFICATION, OR PERMIT ISSUED BY THE STATE OR COUNTRY TO EXPIRE OR
+5 LAPSE;
+6 (21) WILLFULLY FAILS TO REPORT SUSPECTED CHILD ABUSE IN
+7 VIOLATION OF § 5–704 OF THE FAMILY LAW ARTICLE;
+8 (22) SELLS, PRESCRIBES, GIVES AWAY, OR ADMINISTERS DRUGS FOR
+9 ILLEGAL OR ILLEGITIMATE MEDICAL PURPOSES;
+10 (23) PRACTICES OR ATTEMPTS TO PRACTICE BEYOND THE
+11 AUTHORIZED SCOPE OF PRACTICE;
+12 (24) REFUSES, WITHHOLDS FROM, DENIES, OR DISCRIMINATES
+13 AGAINST AN INDIVIDUAL WITH REGARD TO THE PROVISION OF PROFESSIONAL
+14 SERVICES FOR WHICH THE LICENSEE IS LICENSED AND QUALIFIED TO RENDER
+15 BECAUSE THE INDIVIDUAL IS HIV POSITIVE;
+16 (25) PRACTICES OR ATTEMPTS TO PRACTICE A LIMITED X–RAY
+17 MACHINE OPERATION PROCEDURE OR USES LIMITED X–RAY MACHINE OPERATION
+18 EQUIPMENT IF THE APPLICANT OR REGISTRANT HAS NOT RECEIVED AN EDUCATION,
+19 AN INTERNSHIP, TRAINING, OR EXPERIENCE IN THE PERFORMANCE OF THE
+20 PROCEDURE OR THE USE OF THE EQUIPMENT;
+21 (26) FAILS TO COOPERATE WITH A LAWFUL INVESTIGATION
+22 CONDUCTED BY THE BOARD OR A DISCIPLINARY PANEL;
+23 (27) FAILS TO PRACTICE UNDER THE SUPERVISION OF A LICENSED
+24 PHYSICIAN OR LICENSED RADIOGRAPHER OR VIOLATES A SUPERVISORY ORDER OF
+25 A SUPERVISING PHYSICIAN OR SUPERVISING RADIOGRAPHER; OR
+26 (28) FAILS TO COMPLETE A CRIMINAL HISTORY RECORDS CHECK
+27 UNDER § 14–308.1 OF THIS SUBTITLE.
+28 (B) EXCEPT AS OTHERWISE PROVIDED IN THE ADMINISTRATIVE
+29 PROCEDURE ACT, BEFORE THE BOARD OR A DISCIPLINARY PANEL TAKES ANY
+30 ACTION UNDER SUBSECTION (A) OF THIS SECTION, THE BOARD OR A DISCIPLINARY
+31 PANEL SHALL GIVE THE INDIVIDUAL AGAINST WHOM THE ACTION IS
+32 CONTEMPLATED AN OPPORTUNITY FOR A HEARING BEFORE THE BOARD OR THE
+
+HOUSE BILL 1047 17
+1 DISCIPLINARY PANEL IN ACCORDANCE WITH THE HEARING REQUIREMENTS OF §
+2 14–405 OF THIS TITLE.
+3 (C) (1) ON THE FILING OF CERTIFIED DOCKET ENTRIES WITH THE BOARD
+4 BY THE OFFICE OF THE ATTORNEY GENERAL, A DISCIPLINARY PANEL SHALL ORDER
+5 THE SUSPENSION OF A REGISTRATION IF THE REGISTRANT IS CONVICTED OF OR
+6 PLEADS GUILTY OR NOLO CONTENDERE WITH RESPECT TO A CRIME INVOLVING
+7 MORAL TURPITUDE, WHETHER OR NOT ANY APPEAL OR OTHER PROCEEDING IS
+8 PENDING TO HAVE THE CONVICTION OR PLEA SET ASIDE.
+9 (2) AFTER COMPLETION OF THE APPELLATE PROCESS, IF THE
+10 CONVICTION HAS NOT BEEN REVERSED OR THE PLEA HAS NOT BEEN SET ASIDE WITH
+11 RESPECT TO A CRIME INVOLVING MORAL TURPITUDE, A DISCIPLINARY PANEL
+12 SHALL ORDER THE REVOCATION OF A REGISTRATION ON THE CERTIFICATION BY
+13 THE OFFICE OF THE ATTORNEY GENERAL.
+14 (D) IF, AFTER A HEARING UNDER § 14–405 OF THIS TITLE, A DISCIPLINARY
+15 PANEL FINDS THAT THERE ARE GROUNDS UNDER SUBSECTION (A) OF THIS SECTION
+16 TO SUSPEND OR REVOKE A REGISTRATION, TO REPRIMAND A REGISTRANT, OR TO
+17 PLACE A REGISTRANT ON PROBATION, THE DISCIPLINARY PANEL MAY IMPOSE A
+18 FINE SUBJECT TO THE BOARD’S REGULATIONS IN ADDITION TO SUSPENDING OR
+19 REVOKING THE LICENSE, REPRIMANDING THE REGISTRANT, OR PLACING THE
+20 REGISTRANT ON PROBATION.
+21 (E) IN ADDITION TO ANY SANCTION AUTHORIZED UNDER THIS SECTION, A
+22 DISCIPLINARY PANEL MAY REQUIRE A REGISTRANT TO COMPLY WITH SPECIFIED
+23 TERMS AND CONDITIONS DETERMINED BY THE DISCIPLINARY PANEL.
+24 14–602.
+25 (a) Unless authorized to practice medicine under this title, a person may not
+26 represent to the public, by description of services, methods, or procedures, or otherwise,
+27 that the person is authorized to practice medicine in this State.
+28 (b) Except as otherwise provided in this article, a person may not use the words
+29 or terms “Dr.”, “doctor”, “physician”, “D.O.”, or “M.D.” with the intent to represent that the
+30 person practices medicine, unless the person is:
+31 (1) Licensed to practice medicine under this title;
+32 (2) A physician licensed by and residing in another jurisdiction, while
+33 engaging in consultation with a physician licensed in this State;
+34 (3) A physician employed in the service of the federal government while
+35 practicing within the scope of the employment;
+
+18 HOUSE BILL 1047
+1 (4) A physician who resides in and is licensed to practice medicine by any
+2 state adjoining this State and whose practice extends into this State;
+3 (5) An individual in a postgraduate medical program that is accredited by
+4 an accrediting organization recognized by the Board in regulations while the individual is
+5 practicing medicine in the program; or
+6 (6) A licensee who is on emeritus status under § 14–320.1 of this title,
+7 provided that the licensee does not represent to the public that the licensee is authorized
+8 to practice medicine in the State.
+9 (c) An unlicensed individual who acts under § 14–302 [or], § 14–306, § 14–306.1,
+10 § 14–306.2, OR § 14–306.3 of this title may use the word “physician” together with another
+11 word to describe the occupation of the individual as in phrases such as “physician’s
+12 assistant” or “physician’s aide”.
+13 15–302.1.
+14 (c) (1) Subject to paragraph (2) of this subsection and subsection (d) of this
+15 section and except as provided in subsection (e) of this section, a physician assistant may
+16 perform advanced duties in a practice setting that is not an exempt facility only after the
+17 physician assistant obtains Board approval of the advanced duty under the collaboration
+18 agreement.
+19 (2) [(i) Subject to subparagraph (ii) of this paragraph, a] A physician
+20 assistant may perform X–ray duties [authorized under § 14–306(e) of this article] in the
+21 medical office of a patient care team physician [only after the] IF:
+22 (I) THE PHYSICIAN ASSISTANT HAS COMPLETED A COURSE
+23 THAT INCLUDES RADIOGRAPHIC STUDIES OF THE EXTREMITIES OF AT LEAST 20
+24 SEPARATE PATIENTS;
+25 (II) THE X–RAYS ARE LIMITED TO THE EXTREMITIES;
+26 (III) THE X–RAYS ARE PERFORMED UNDER THE DIRECT
+27 SUPERVISION OF A COLLABORATING PHYSICIAN OR RADIOLOGIST;
+28 (IV) THE X–RAYS ARE PERFORMED USING A MINI C–ARM OR A
+29 SIMILAR LOW–LEVEL RADIATION MACHINE TO PERFORM NONFLUOROSCOPIC X–RAY
+30 PROCEDURES; AND
+31 (V) THE physician assistant obtains Board approval of the X–ray
+32 duty AS AN ADVANCED DUTY under the collaboration agreement.
+
+HOUSE BILL 1047 19
+1 [(ii) A collaboration agreement may authorize the delegation of X–ray
+2 duties limited to nonfluoroscopic X–ray procedures of the extremities, anterior–posterior
+3 and lateral, not including the head.]
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2026.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.

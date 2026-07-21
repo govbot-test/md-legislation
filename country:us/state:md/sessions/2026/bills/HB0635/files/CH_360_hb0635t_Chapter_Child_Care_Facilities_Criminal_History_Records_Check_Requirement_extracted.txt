@@ -1,0 +1,158 @@
+Title: 
+Official Title: 
+Source: versions - Chapter - Child Care Facilities - Criminal History Records Check - Requirement
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+WES MOORE, Governor Ch. 360
+Chapter 360
+(House Bill 635)
+AN ACT concerning
+Child Care Facilities – Criminal History Records Check – Requirement
+FOR the purpose of repealing the limitation on the number of Deputy State
+Superintendents of Schools that the State Superintendent can appoint; requiring
+individuals who will have direct contact with children in certain child care facilities
+to submit to a criminal history records check; requiring the State Department of
+Education to establish a centralized unit for the processing and management of
+information about criminal history records checks on or before a certain date;
+altering the applicability of probationary employment qualifications for first–time
+child care teachers in certain child care centers; requiring the Department to review
+a certain process and submit a certain report on or before a certain date; and
+generally relating to a criminal history records check for individuals who will have
+direct contact with children in child care facilities.
+BY repealing and reenacting, with amendments,
+Article – Education
+Section 2–104(a)
+Annotated Code of Maryland
+(2025 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Education
+Section 9.5–118
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Education
+Section 9.5–404(a)
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Education
+Section 9.5–404(b)(13)
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+– 1 –
+
+Ch. 360 2026 LAWS OF MARYLAND
+Article – Education
+2–104.
+(a) The following employees shall be appointed to positions in the Department:
+(1) [No more than three] ANY Deputy State Superintendents of Schools;
+(2) Any assistant State superintendents and directors authorized by the
+State Board and provided in the State budget; and
+(3) Any other employees to fill positions authorized by the State Board and
+provided in the State budget.
+9.5–118.
+(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+(2) (I) “APPLICANT” MEANS AN INDIVIDUAL WHO IS APPLYING FOR
+A POSITION INVOLVING DIRECT CONTACT WITH CHILDREN IN A CHILD CARE
+FACILITY.
+(II) “APPLICANT” INCLUDES A VOLUNTEER OR OTHER
+INDIVIDUALS WHO MAY BE SUBJECT TO FEDERALLY REQUIRED BACKGROUND
+CHECKS.
+(3) “CENTRAL REPOSITORY” MEANS THE CRIMINAL JUSTICE
+INFORMATION SYSTEM CENTRAL REPOSITORY OF THE DEPARTMENT OF PUBLIC
+SAFETY AND CORRECTIONAL SERVICES.
+(4) “CHILD CARE FACILITY” MEANS A CHILD CARE FACILITY
+IDENTIFIED UNDER § 5–551 OF THE FAMILY LAW ARTICLE REGISTERED FAMILY
+CHILD CARE HOME, A REGISTERED LARGE FAMILY CHILD CARE HOME, A LICENSED
+CHILD CARE CENTER, OR A CHILD CARE CENTER THAT HOLDS A LETTER OF
+COMPLIANCE.
+(B) AN APPLICANT WHO IS SEEKING A POSITION INVOLVING DIRECT
+CONTACT WITH CHILDREN AT A CHILD CARE FACILITY SHALL SUBMIT TO A CRIMINAL
+HISTORY RECORDS CHECK IN ACCORDANCE WITH § 5–555 OF THE FAMILY LAW
+ARTICLE.
+– 2 –
+
+WES MOORE, Governor Ch. 360
+(C) (1) (I) THE ON OR BEFORE JUNE 30, 2027, THE DEPARTMENT
+SHALL ESTABLISH A CENTRALIZED UNIT FOR THE PROCESSING AND MANAGEMENT
+OF INFORMATION ABOUT CRIMINAL HISTORY RECORDS CHECKS FOR APPLICANTS
+PROVIDING CHILD CARE SERVICES.
+(II) THE CENTRALIZED UNIT MAY BE STAFFED BY LICENSING
+SPECIALISTS IN THE REGIONAL CHILD CARE LICENSING OFFICES THROUGHOUT THE
+STATE.
+(2) THE CENTRALIZED UNIT SHALL NOTIFY AN APPLICANT FOR A
+CRIMINAL HISTORY RECORDS CHECK:
+(I) OF THE STATUS OF THE APPLICATION WITHIN 10 DAYS
+AFTER SUBMISSION; AND
+(II) SUBJECT TO THE RECEIPT OF THE CRIMINAL HISTORY
+RECORD INFORMATION FROM THE CENTRAL REPOSITORY UNDER SUBSECTION (D)
+OF THIS SECTION, WITHIN 45 DAYS AFTER SUBMISSION THE TIME FRAME REQUIRED
+UNDER FEDERAL LAW, OF THE APPLICANT’S ELIGIBILITY TO PROVIDE CHILD CARE
+SERVICES IN A CHILD CARE FACILITY.
+(D) (1) THE CENTRALIZED UNIT SHALL REVIEW AND MAINTAIN
+BACKGROUND CHECKS COMPLETED IN ACCORDANCE WITH § 5–555 OF THE FAMILY
+LAW ARTICLE.
+(2) INFORMATION OBTAINED FROM THE CENTRAL REPOSITORY
+UNDER THIS SECTION:
+(I) IS CONFIDENTIAL;
+(II) MAY NOT BE DISSEMINATED WITHOUT THE EXPRESS
+PERMISSION OF THE APPLICANT; AND
+(III) MAY BE USED ONLY FOR THE PURPOSES AUTHORIZED BY
+THIS TITLE.
+(E) (1) (I) THE CENTRALIZED UNIT MAY MAINTAIN A LIST OF
+APPLICANTS WHO HAVE SUBMITTED A CRIMINAL HISTORY RECORDS CHECK IN
+ACCORDANCE WITH THIS SECTION.
+(II) THE CENTRALIZED UNIT MAY SHARE THE NAME AND
+STATUS OF AN APPLICANT ON THE LIST WITH:
+– 3 –
+
+Ch. 360 2026 LAWS OF MARYLAND
+1. A CHILD CARE FACILITY AT WHICH THE APPLICANT
+SEEKS TO BE EMPLOYED OR VOLUNTEER; AND
+2. THE APPLICANT.
+(2) ON REQUEST BY AN APPLICANT OR A CHILD CARE FACILITY, THE
+CENTRALIZED UNIT MAY PROVIDE WRITTEN NOTICE TO THE APPLICANT OR THE
+CHILD CARE FACILITY THAT AN APPLICANT WHO SEEKS TO BE EMPLOYED BY OR
+VOLUNTEER WITH THE CHILD CARE FACILITY HAS A CRIMINAL HISTORY RECORDS
+CHECK ON FILE WITH THE DEPARTMENT.
+9.5–404.
+(a) The State Board shall adopt rules and regulations for licensing and operating
+child care centers.
+(b) These rules and regulations shall:
+(13) Subject to subsection (c) of this section, establish probationary
+employment qualifications for an individual who is applying for the first time to be a child
+care teacher in a child care center in the State that serves preschool or school–age children
+who are at least [3] 2 years old.
+SECTION 2. AND BE IT FURTHER ENACTED, That:
+(a) The State Department of Education shall review the process for background
+checks established under § 9.5–118 of the Education Article, as enacted by Section 1 of this
+Act, to evaluate the efficiency and timeliness of processing applications and to identify
+opportunities for improvement while maintaining safety and compliance with State and
+federal law.
+(b) The review required under subsection (a) of this section shall include an
+examination of:
+(1) regulations;
+(2) policies;
+(3) procedures; and
+(4) interagency coordination of background checks.
+(c) On or before October 1, 2028, the Department shall report, in accordance with
+§ 2–1257 of the State Government Article, to the General Assembly the results of the review
+required under subsection (a) of this section, including:
+– 4 –
+
+WES MOORE, Governor Ch. 360
+(1) the number of background check applications;
+(2) data on background check processing times;
+(3) any delays or barriers to the process; and
+(4) any recommendations for changing State law or administrative
+procedures.
+SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, May 12, 2026.
+– 5 –

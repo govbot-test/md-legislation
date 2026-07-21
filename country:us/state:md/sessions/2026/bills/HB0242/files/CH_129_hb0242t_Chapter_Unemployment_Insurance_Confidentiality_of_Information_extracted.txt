@@ -1,0 +1,660 @@
+Title: 
+Official Title: 
+Source: versions - Chapter - Unemployment Insurance - Confidentiality of Information
+Media Type: application/pdf
+
+================================================================================
+
+WES MOORE, Governor Ch. 129
+Chapter 129
+(House Bill 242)
+AN ACT concerning
+Unemployment Insurance – Confidentiality of Information
+FOR the purpose of altering requirements related to the confidentiality of unemployment
+insurance information to ensure compliance with federal law and regulations;
+altering existing confidentiality provisions related to inspection of employment
+records as well as claim information by agents of child support enforcement units;
+establishing exceptions to the confidentiality requirement in accordance with federal
+law and regulations; establishing penalties for the unauthorized disclosure of
+confidential unemployment insurance information by recipients and current and
+former employees of the Maryland Department of Labor; and generally relating to
+unemployment insurance information.
+BY repealing and reenacting, with amendments,
+Article – Labor and Employment
+Section 8–101, 8–110, and 8–1305(c)
+Annotated Code of Maryland
+(2025 Replacement Volume)
+BY adding to
+Article – Labor and Employment
+Section 8–111
+Annotated Code of Maryland
+(2025 Replacement Volume)
+BY repealing
+Article – Labor and Employment
+Section 8–625(d) and 8–811
+Annotated Code of Maryland
+(2025 Replacement Volume)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Labor and Employment
+8–101.
+(a) In this title the following words have the meanings indicated.
+(b) “Base period” means:
+– 1 –
+
+Ch. 129 2026 LAWS OF MARYLAND
+(1) the first 4 of the last 5 completed calendar quarters immediately
+preceding the start of the benefit year; or
+(2) the 4 most recently completed calendar quarters immediately preceding
+the start of the benefit year only if the individual applying for benefits does not qualify for
+any benefits under § 8–802 of this title using the definition in item (1) of this subsection.
+(c) “Base period employer” means an employing unit who paid wages to an
+individual during the base period of the individual for covered employment.
+(d) “Benefit year” means a 1–year period that begins:
+(1) on the 1st day of the 1st week for which an individual first files a claim
+for benefits; or
+(2) if an individual already has had a benefit year, on the 1st day of the 1st
+week for which the individual files a claim for benefits after the termination of the
+preceding benefit year.
+(e) “Benefits” means the money that is payable under this title to an individual
+who is unemployed.
+(f) “Board of Appeals” means the Board of Appeals of the Maryland Department
+of Labor established under § 8–5A–01 of this title.
+(g) “Calendar quarter” means the period of 3 consecutive calendar months ending
+on March 31, June 30, September 30, or December 31, except as otherwise provided by the
+Secretary by regulation.
+(h) “Child support” means an obligation that is enforced under a plan that:
+(1) is described in § 454 of the Social Security Act; and
+(2) has been approved by the United States Secretary of Health and
+Human Services under Part D of Title IV of the Social Security Act.
+(i) “Child support enforcement unit” means a unit of a state or political
+subdivision of a state that operates under a plan that:
+(1) is described in § 454 of the Social Security Act; and
+(2) has been approved by the United States Secretary of Health and
+Human Services under Part D of Title IV of the Social Security Act.
+(I–1) (1) “CLAIM INFORMATION” MEANS INFORMATION ABOUT:
+– 2 –
+
+WES MOORE, Governor Ch. 129
+(I) WHETHER AN INDIVIDUAL IS RECEIVING, HAS RECEIVED, OR
+HAS APPLIED FOR UNEMPLOYMENT INSURANCE;
+(II) THE AMOUNT OF COMPENSATION THE INDIVIDUAL IS
+RECEIVING OR IS ENTITLED TO RECEIVE; AND
+(III) THE INDIVIDUAL’S CURRENT OR LAST KNOWN HOME
+ADDRESS.
+(2) FOR PURPOSES OF THE DISCLOSURE OF INFORMATION TO A
+REQUESTING AGENCY RELATED TO AN INCOME AND ELIGIBILITY VERIFICATION
+SYSTEM DESCRIBED IN 20 C.F.R. PART 603, “CLAIM INFORMATION” INCLUDES:
+(I) WHETHER THE INDIVIDUAL HAS REFUSED AN OFFER OF
+WORK AND, IF SO, A DESCRIPTION OF THE JOB OFFERED INCLUDING THE TERMS,
+CONDITIONS, AND RATE OF PAY; AND
+(II) ANY OTHER INFORMATION CONTAINED IN THE RECORDS OF
+THE DEPARTMENT THAT IS NEEDED BY THE REQUESTING AGENCY TO VERIFY
+ELIGIBILITY FOR, AND THE AMOUNT OF, BENEFITS.
+(j) “Claimant” means an individual who submits a claim for benefits.
+(j–1) “Claims examiner” means an individual appointed by the Secretary who
+makes determinations or redeterminations of claims under Subtitle 8 of this title.
+(J–2) (1) “CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION”
+MEANS ANY UNEMPLOYMENT INSURANCE INFORMATION IN THE RECORDS OF THE
+DEPARTMENT THAT:
+(I) REVEALS THE NAME OF OR OTHER IDENTIFYING
+INFORMATION ABOUT AN INDIVIDUAL;
+(II) REVEALS THE NAME OF OR OTHER IDENTIFYING
+INFORMATION ABOUT A PAST OR PRESENT EMPLOYER OR EMPLOYING UNIT; OR
+(III) COULD FORESEEABLY BE COMBINED WITH OTHER
+PUBLICLY AVAILABLE INFORMATION TO REVEAL IDENTIFYING INFORMATION
+ABOUT AN INDIVIDUAL, EMPLOYER, OR EMPLOYING UNIT.
+(2) “CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION”
+INCLUDES:
+– 3 –
+
+Ch. 129 2026 LAWS OF MARYLAND
+(I) CLAIM INFORMATION; AND
+(II) WAGE INFORMATION.
+(k) “Contributions” means money required to be paid to the Unemployment
+Insurance Fund under § 8–607 of this title.
+(l) “Covered employment” means work that an individual performs for an
+employing unit that is the basis for benefits.
+(m) “Department” means the Maryland Department of Labor.
+(m–1) “Determination” means a decision made by or on behalf of the Secretary under
+this title.
+(n) (1) “Educational institution” means an institution that offers participants,
+students, or trainees an organized course of study or training that is academic, technical,
+trade–oriented, or preparatory for gainful employment in a recognized occupation.
+(2) “Educational institution” includes an institution of higher education.
+(o) “Employer” means a person or governmental entity who employs at least 1
+individual within the State.
+(p) “Employing unit” means:
+(1) an employer that has at least 1 employee engaged in covered
+employment for at least part of a day;
+(2) an employer that has elected to become subject to this title under §
+8–203 of this title; or
+(3) an employer that is not otherwise subject to this title but that:
+(i) within the current or preceding calendar year, is liable for any
+federal tax against which credit may be taken for contributions required to be paid into a
+State unemployment fund; or
+(ii) as a condition for approval for full credit of contributions against
+the tax imposed by the Federal Unemployment Tax Act, is required by that Act to be an
+employing unit.
+(q) “Governmental entity” means:
+(1) a governmental unit as defined in § 1–101 of this article; or
+– 4 –
+
+WES MOORE, Governor Ch. 129
+(2) an instrumentality of:
+(i) 1 or more states;
+(ii) 1 or more political subdivisions of a state; or
+(iii) 1 or more states and political subdivisions of states.
+(q–1) “Hearing examiner” means an individual appointed under § 8–502 of this title
+who is authorized to conduct hearings and issue decisions in cases appealed to the Lower
+Appeals Division.
+(r) “Hospital” has the meaning stated in § 19–301 of the Health – General Article.
+(s) (1) “Institution of higher education” means an educational institution that:
+(i) is a public or other nonprofit institution;
+(ii) is authorized to provide in the State a program of education
+beyond high school; and
+(iii) admits as regular students only individuals with a certificate of
+graduation from high school or a recognized equivalent certificate for:
+1. training preparatory for employment in a recognized
+occupation;
+2. work for credit toward a bachelor’s degree; or
+3. postgraduate or postdoctoral study.
+(2) “Institution of higher education” includes each college and university in
+the State.
+(t) “Knowingly” means, except as otherwise provided in this title, having actual
+knowledge, deliberate ignorance, or reckless disregard for the truth.
+(t–1) “Last known address” includes a physical address or an electronic address.
+(u) “Lower Appeals Division” means the Lower Appeals Division of the Maryland
+Department of Labor.
+(u–1) “Mailed or otherwise delivered” means to cause to be delivered by electronic
+transmission or physical mailing.
+(v) “Nonprofit organization” means an organization that is:
+– 5 –
+
+Ch. 129 2026 LAWS OF MARYLAND
+(1) described in § 501(c)(3) of the Internal Revenue Code; and
+(2) exempt from income tax under § 501(a) of the Internal Revenue Code.
+(w) “Part–time worker” means an individual:
+(1) whose availability for work is restricted to part–time work; and
+(2) who worked at least 20 hours per week in part–time work for a majority
+of the weeks of work in the base period.
+(W–1) (1) “PERFORMANCE OF OFFICIAL DUTIES” MEANS:
+(I) THE ADMINISTRATION OR ENFORCEMENT OF LAW,
+INCLUDING RESEARCH RELATED TO THE LAW ADMINISTERED BY A PUBLIC
+OFFICIAL; OR
+(II) THE EXECUTION OF THE OFFICIAL RESPONSIBILITIES OF A
+FEDERAL, STATE, OR LOCAL ELECTED OFFICIAL.
+(2) WITH RESPECT TO A PUBLIC OFFICIAL DESCRIBED UNDER
+SUBSECTION (W–3)(2), (3), (4), OR (5) OF THIS SECTION, “PERFORMANCE OF
+OFFICIAL DUTIES” INCLUDES, IN ADDITION TO THE ACTIVITIES SET OUT IN
+PARAGRAPH (1) OF THIS SUBSECTION, THE USE OF CONFIDENTIAL UNEMPLOYMENT
+INSURANCE INFORMATION FOR THE FOLLOWING LIMITED PURPOSES:
+(I) STATE AND LOCAL PERFORMANCE ACCOUNTABILITY
+UNDER THE FEDERAL WORKFORCE INNOVATION AND OPPORTUNITY ACT,
+INCLUDING ELIGIBLE TRAINING PROVIDER PERFORMANCE ACCOUNTABILITY
+UNDER §§ 116(D) AND 122;
+(II) TO MEET THE REQUIREMENTS OF DISCRETIONARY
+FEDERAL GRANTS AWARDED UNDER THE FEDERAL WORKFORCE INNOVATION AND
+OPPORTUNITY ACT; OR
+(III) AS OTHERWISE REQUIRED FOR EDUCATION OR WORKFORCE
+TRAINING PROGRAM PERFORMANCE ACCOUNTABILITY AND REPORTING UNDER
+FEDERAL OR STATE LAW.
+(3) FOR PURPOSES OF PARAGRAPH (1)(II) OF THIS SUBSECTION,
+“PERFORMANCE OF OFFICIAL DUTIES” DOES NOT INCLUDE THE SOLICITATION OF
+– 6 –
+
+WES MOORE, Governor Ch. 129
+CONTRIBUTIONS OR EXPENDITURES TO OR ON BEHALF OF A CANDIDATE FOR PUBLIC
+OR POLITICAL OFFICE OR A POLITICAL PARTY.
+(W–2) “PUBLIC DOMAIN INFORMATION” MEANS:
+(1) INFORMATION ABOUT THE ORGANIZATION OF THE DEPARTMENT,
+INCLUDING THE LOWER APPEALS DIVISION AND THE BOARD OF APPEALS;
+(2) INFORMATION ABOUT APPLICABLE FEDERAL AND STATE LAWS,
+RULES, REGULATIONS, AND INTERPRETATIONS OF THE LAWS, RULES, AND
+REGULATIONS, INCLUDING STATEMENTS OF GENERAL POLICY AND
+INTERPRETATIONS OF GENERAL APPLICABILITY; AND
+(3) AN AGREEMENT OF ANY KIND OR NATURE, INCLUDING
+INTERSTATE ARRANGEMENTS, RECIPROCAL AGREEMENTS, AND ANY AGREEMENT
+WITH THE U.S. DEPARTMENT OF LABOR OR THE SECRETARY, RELATING TO THE
+ADMINISTRATION OF THE UNEMPLOYMENT INSURANCE PROGRAM.
+(W–3) “PUBLIC OFFICIAL” MEANS:
+(1) AN OFFICIAL, AN AGENCY, OR A PUBLIC ENTITY WITHIN THE
+EXECUTIVE BRANCH OF FEDERAL, STATE, OR LOCAL GOVERNMENT THAT HAS
+RESPONSIBILITY FOR ADMINISTERING OR ENFORCING A LAW, OR AN ELECTED
+OFFICIAL IN THE FEDERAL, STATE, OR LOCAL GOVERNMENT;
+(2) PUBLIC POSTSECONDARY EDUCATIONAL INSTITUTIONS
+ESTABLISHED AND GOVERNED UNDER THE LAWS OF THE STATE, INCLUDING:
+(I) INSTITUTIONS THAT ARE PART OF THE EXECUTIVE BRANCH
+OF STATE GOVERNMENT;
+(II) INSTITUTIONS THAT ARE INDEPENDENT OF THE EXECUTIVE
+BRANCH OF STATE GOVERNMENT IN ACCORDANCE WITH 20 C.F.R. § 603.2(D)(2)(II);
+AND
+(III) PUBLICLY GOVERNED AND FUNDED COMMUNITY AND
+TECHNICAL COLLEGES;
+(3) PERFORMANCE ACCOUNTABILITY AND CUSTOMER INFORMATION
+AGENCIES DESIGNATED BY THE GOVERNOR TO BE RESPONSIBLE FOR
+COORDINATING THE ASSESSMENT OF STATE AND LOCAL EDUCATION OR
+WORKFORCE TRAINING PROGRAM PERFORMANCE OR EVALUATING EDUCATION OR
+WORKFORCE TRAINING PROVIDER PERFORMANCE;
+– 7 –
+
+Ch. 129 2026 LAWS OF MARYLAND
+(4) THE CHIEF ELECTED OFFICIAL OF A LOCAL AREA AS DEFINED IN §
+3(9) OF THE FEDERAL WORKFORCE INNOVATION AND OPPORTUNITY ACT; AND
+(5) A STATE EDUCATIONAL AUTHORITY, AGENCY, OR INSTITUTION AS
+THOSE TERMS ARE USED IN THE FEDERAL FAMILY EDUCATIONAL RIGHTS AND
+PRIVACY ACT, TO THE EXTENT THAT THEY ARE PUBLIC ENTITIES.
+(W–4) “REQUESTING AGENCY” MEANS AN AGENCY DEFINED IN 20 C.F.R. §
+603.21.
+[(w–1)] (W–5) “Review determination” means the process by which the
+Department conducts an internal review of a determination made under Subtitle 6 of this
+title, independent of a determination or redetermination of a claim.
+[(w–2)] (W–6) “Review determination decision” means the Secretary’s final
+determination under Subtitle 6 of this title for which a right to a review determination is
+available that:
+(1) is issued in accordance with § 8–604 of this title; and
+(2) may be appealed in accordance with § 8–605 of this title.
+(x) “Secretary” means the Secretary of Labor.
+(x–1) “Send” means to cause to be delivered by electronic transmission or physical
+mailing.
+(y) (1) “State” has the meaning stated in § 1–101 of this article.
+(2) “State” does not include a territory of the United States unless the
+territory enacted an unemployment insurance law that complies with the standards
+adopted by the Secretary of Labor of the United States under the Federal Unemployment
+Tax Act or Title III of the Social Security Act.
+(z) “Tip” means compensation that:
+(1) an individual receives from a customer of the individual’s employer
+while performing covered employment; and
+(2) is included in a written statement provided to the employer under §
+6053(a) of the Internal Revenue Code.
+(Z–1) (1) “UNEMPLOYMENT INSURANCE INFORMATION” MEANS
+INFORMATION IN THE DEPARTMENT’S RECORDS PERTAINING TO THE
+– 8 –
+
+WES MOORE, Governor Ch. 129
+ADMINISTRATION OF THE UNEMPLOYMENT INSURANCE PROGRAM, INCLUDING
+INFORMATION OBTAINED BY THE DEPARTMENT FROM CLAIMANTS AND EMPLOYERS
+IN ACCORDANCE WITH THIS TITLE.
+(2) “UNEMPLOYMENT INSURANCE INFORMATION” INCLUDES STATE
+WAGE REPORTS COLLECTED UNDER AN INCOME AND ELIGIBILITY VERIFICATION
+SYSTEM IN ACCORDANCE WITH 42 U.S.C. § 1320B–7 THAT ARE OBTAINED BY THE
+DEPARTMENT FOR DETERMINING UNEMPLOYMENT INSURANCE MONETARY
+ELIGIBILITY OR ARE DOWNLOADED TO THE DEPARTMENT’S FILES AS A RESULT OF A
+CROSSMATCH BUT DOES NOT OTHERWISE INCLUDE THOSE WAGE REPORTS.
+(3) “UNEMPLOYMENT INSURANCE INFORMATION” DOES NOT
+INCLUDE:
+(I) INFORMATION IN THE STATE’S DIRECTORY OF NEW HIRES,
+UNLESS THE INFORMATION HAS BEEN DISCLOSED TO THE DEPARTMENT FOR USE IN
+THE UNEMPLOYMENT INSURANCE PROGRAM; OR
+(II) THE PERSONNEL OR FISCAL INFORMATION OF THE
+DEPARTMENT.
+(Z–2) “WAGE INFORMATION” MEANS INFORMATION IN THE RECORDS OF THE
+DEPARTMENT ABOUT:
+(1) THE WAGES PAID TO AN INDIVIDUAL;
+(2) THE SOCIAL SECURITY NUMBER OF THE INDIVIDUAL; AND
+(3) THE NAME, ADDRESS, STATE, AND FEDERAL EMPLOYER
+IDENTIFICATION NUMBER OF THE EMPLOYER WHO PAID WAGES TO THE INDIVIDUAL.
+(aa) (1) “Wages” means all compensation for personal services except as
+provided in paragraph (3) of this subsection.
+(2) “Wages” includes:
+(i) a bonus;
+(ii) a commission;
+(iii) a tip; and
+(iv) the cash value of all compensation in any medium other than
+cash.
+– 9 –
+
+Ch. 129 2026 LAWS OF MARYLAND
+(3) “Wages” does not include:
+(i) the amount of any payment made to or on behalf of an employee
+or any dependent of an employee under a plan or system established by an employing unit
+that provides for employees generally or for their dependents or for a class of employees
+and their dependents on account of:
+1. retirement;
+2. sickness or accident disability payments under a workers’
+compensation law;
+3. medical or hospitalization expenses in connection with
+sickness or accident disability;
+4. a cafeteria plan as defined in 26 U.S.C. § 125, if the
+payments would not be treated as wages outside a cafeteria plan;
+5. dependent care assistance to the extent that the
+assistance payments would be excludable from gross income under the provisions of 26
+U.S.C. § 127 or § 129; or
+6. death;
+(ii) any amount that an employing unit pays for insurance or an
+annuity or into a fund to provide for a payment described in item (i) of this paragraph;
+(iii) any payment on account of sickness or accident disability or
+medical or hospitalization expenses in connection with sickness or accident disability made
+by the employing unit to or on behalf of an employee at least 6 calendar months after the
+last calendar month in which the employee worked for the employing unit;
+(iv) any payment made to or on behalf of an employee or beneficiary
+of the employee:
+1. from or to a trust exempt from tax under § 401(a) of the
+Internal Revenue Code at the time of the payment, unless the payment is made to an
+employee of the trust as compensation for services rendered as an employee and not as
+beneficiary of the trust; or
+2. under or to an annuity plan that, at the time of payment,
+meets the requirements of § 401(a)(3) through (6) of the Internal Revenue Code;
+(v) with respect to compensation paid to an employee for domestic
+service in a private home of the employing unit or for agricultural labor, the payment by
+– 10 –
+
+WES MOORE, Governor Ch. 129
+an employing unit without deduction of the tax imposed on an employee under § 3101 of
+the Internal Revenue Code;
+(vi) any payment required from an employee under a state
+unemployment insurance law;
+(vii) compensation paid in any medium other than cash to an
+employee for service not in the course of the trade or business of the employing unit;
+(viii) any payment other than vacation or sick pay made to an
+employee after the month in which the employee becomes 65 years old if the employee did
+not work for the employing unit in the period for which the payment is made;
+(ix) any payment, including an amount paid into a fund to provide
+for any payment by an employing unit to or on behalf of an employee under a plan or system
+that an employing unit establishes that provides for employees of the employing unit
+generally or a class or group of employees to supplement unemployment benefits;
+(x) any payment to an individual as compensation for serving or
+being called to serve on a jury; or
+(xi) any payment to an individual as allowance or reimbursement for
+travel or other expenses incurred on the business of the employer up to the amount of
+expenses actually incurred and accounted for by the individual to the employer.
+(bb) “Week” means a period of 7 consecutive days, as the Secretary sets by
+regulation.
+8–110.
+(a) [On] SUBJECT TO FEDERAL LAW, INCLUDING 20 C.F.R. PART 603, ON
+request and for purposes consistent with Chapter 65 of the Acts of the General Assembly
+of 2021, the Department shall provide to the chief elected official of a county demographic
+data and the addresses, occupations, and last known employers of unemployment
+insurance recipients who live in the county of the chief elected official.
+(b) [A] SUBJECT TO FEDERAL LAW, INCLUDING 20 C.F.R. PART 603, A chief
+elected official of a county may:
+(1) share the information provided to the chief elected official under
+subsection (a) of this section with the governing body of the county; and
+(2) request information under subsection (a) of this section on behalf of a
+political subdivision within the county and provide the information to the political
+subdivision.
+– 11 –
+
+Ch. 129 2026 LAWS OF MARYLAND
+(c) The Secretary may adopt regulations to carry out this section, including
+regulations that:
+(1) establish the circumstances under which the names of unemployment
+insurance recipients may be included in the information provided under subsection (a) of
+this section; and
+(2) are necessary to protect the personally identifiable information of
+unemployment insurance recipients.
+8–111.
+(A) FOR PURPOSES OF THIS SECTION, “FEDERAL LAW” MEANS THE
+FEDERAL LAW GOVERNING THE UNEMPLOYMENT INSURANCE PROGRAM,
+INCLUDING THE SOCIAL SECURITY ACT, THE FEDERAL UNEMPLOYMENT TAX ACT,
+AND RELATED REGULATIONS PROMULGATED BY THE U.S. DEPARTMENT OF LABOR,
+INCLUDING 20 C.F.R. PART 603.
+(B) THE CONFIDENTIALITY PROVISIONS OF THIS TITLE SHALL BE
+INTERPRETED IN A MANNER THAT ENSURES COMPLIANCE WITH FEDERAL LAW.
+(C) EXCEPT AS OTHERWISE PROVIDED UNDER FEDERAL OR STATE LAW,
+ANY UNEMPLOYMENT INSURANCE INFORMATION IN THE DEPARTMENT’S RECORDS
+THAT REVEALS THE NAME OR OTHER IDENTIFYING INFORMATION ABOUT AN
+INDIVIDUAL OR A PAST OR PRESENT EMPLOYER OR EMPLOYING UNIT, OR THAT
+COULD FORESEEABLY BE COMBINED WITH OTHER PUBLICLY AVAILABLE
+INFORMATION TO REVEAL ANY SUCH INFORMATION, IS CONFIDENTIAL AND MAY NOT
+BE DISCLOSED.
+(D) THE CONFIDENTIALITY PROVISIONS OF THIS TITLE DO NOT APPLY TO:
+(1) THE DISCLOSURE OF INFORMATION THAT IS NECESSARY FOR THE
+PROPER ADMINISTRATION OF THE UNEMPLOYMENT INSURANCE PROGRAM,
+INCLUDING THE DISCLOSURE OF INFORMATION TO A CLAIMANT AND EMPLOYER
+RELATED TO A CLAIM FOR BENEFITS INVOLVING THAT CLAIMANT AND THAT
+EMPLOYER;
+(2) PUBLIC DOMAIN INFORMATION; OR
+(3) INFORMATION COLLECTED EXCLUSIVELY FOR STATISTICAL
+PURPOSES UNDER A COOPERATIVE AGREEMENT WITH THE U.S. BUREAU OF LABOR
+STATISTICS, ANY OTHER INFORMATION TRANSFERRED TO THE U.S. BUREAU OF
+– 12 –
+
+WES MOORE, Governor Ch. 129
+LABOR STATISTICS UNDER AN AGREEMENT, OR THE U.S. BUREAU OF LABOR
+STATISTICS’ DISCLOSURE OR USE OF SUCH INFORMATION.
+(E) THE SECRETARY SHALL DISCLOSE CONFIDENTIAL UNEMPLOYMENT
+INSURANCE INFORMATION:
+(1) AS NECESSARY FOR THE PROPER ADMINISTRATION OF THE
+UNEMPLOYMENT INSURANCE PROGRAM, INCLUDING DISCLOSING INFORMATION TO
+A CLAIMANT AND EMPLOYER RELATED TO A CLAIM FOR BENEFITS INVOLVING THAT
+CLAIMANT AND THAT EMPLOYER;
+(2) AS OTHERWISE REQUIRED UNDER FEDERAL LAW, INCLUDING 20
+C.F.R. §§ 603.6(B) AND 603.22; AND
+(3) AS OTHERWISE PROVIDED UNDER THIS TITLE IN ACCORDANCE
+WITH FEDERAL LAW.
+(F) TO THE EXTENT NECESSARY FOR PROPER PRESENTATION OF A CLAIM,
+THE SECRETARY, THE LOWER APPEALS DIVISION, AND THE BOARD OF APPEALS
+SHALL PROVIDE CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION TO A
+CLAIMANT OR AN EMPLOYER AT A HEARING BEFORE A HEARING EXAMINER, A
+SPECIAL EXAMINER, THE SECRETARY, OR THE BOARD OF APPEALS PERTAINING TO
+THAT CLAIMANT AND THAT EMPLOYER.
+(G) AT THE SECRETARY’S DISCRETION, AND IF THE DISCLOSURE DOES NOT
+INTERFERE WITH THE EFFICIENT ADMINISTRATION OF THE UNEMPLOYMENT
+INSURANCE PROGRAM, THE SECRETARY MAY AUTHORIZE THE FOLLOWING
+DISCLOSURES OF CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION IN
+ACCORDANCE WITH FEDERAL LAW:
+(1) FOR PURPOSES NOT RELATED TO THE UNEMPLOYMENT
+INSURANCE PROGRAM, INFORMATION ABOUT AN INDIVIDUAL TO THE INDIVIDUAL,
+OR ABOUT AN EMPLOYER TO THE EMPLOYER;
+(2) FINAL DECISIONS, AND RECORDS OF HEARINGS THAT LED TO
+FINAL DECISIONS, OF THE LOWER APPEALS DIVISION AND THE BOARD OF
+APPEALS, IF ALL SOCIAL SECURITY NUMBERS HAVE BEEN REMOVED;
+(3) TO A PUBLIC OFFICIAL FOR USE IN THE PERFORMANCE OF
+OFFICIAL DUTIES;
+(4) TO AN AGENT OR CONTRACTOR OF A PUBLIC OFFICIAL FOR USE IN
+THE PERFORMANCE OF THE PUBLIC OFFICIAL’S OFFICIAL DUTIES, IF THE PUBLIC
+– 13 –
+
+Ch. 129 2026 LAWS OF MARYLAND
+OFFICIAL RETAINS RESPONSIBILITY FOR THE USES OF THE CONFIDENTIAL
+UNEMPLOYMENT INSURANCE INFORMATION BY THE AGENT OR CONTRACTOR;
+(5) TO AN AUTHORIZED REPRESENTATIVE, OTHER THAN AN
+ATTORNEY, OF A CLAIMANT OR AN EMPLOYER IF THE AUTHORIZED
+REPRESENTATIVE PRESENTS A WRITTEN RELEASE FROM THE CLAIMANT OR
+EMPLOYER BEING REPRESENTED;
+(6) TO AN ELECTED OFFICIAL PERFORMING CONSTITUENT SERVICES,
+IF THE OFFICIAL PRESENTS REASONABLE EVIDENCE, SUCH AS A LETTER FROM THE
+INDIVIDUAL OR EMPLOYER REQUESTING ASSISTANCE OR A WRITTEN RECORD OF A
+TELEPHONE REQUEST FROM THE INDIVIDUAL OR EMPLOYER, THAT THE INDIVIDUAL
+OR EMPLOYER HAS AUTHORIZED THE DISCLOSURE;
+(7) TO AN ATTORNEY WHO IS REPRESENTING A CLAIMANT OR AN
+EMPLOYER IN AN UNEMPLOYMENT INSURANCE CLAIM; AND
+(8) TO A THIRD PARTY THAT IS NOT ACTING AS AN AGENT OR THAT
+RECEIVES CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION FOLLOWING
+AN INFORMED CONSENT DISCLOSURE ON AN ONGOING BASIS, EVEN IF THE
+INDIVIDUAL OR ENTITY IS AN AGENT, BUT ONLY IF:
+(I) THE THIRD PARTY OBTAINS A WRITTEN RELEASE FROM THE
+INDIVIDUAL OR EMPLOYER TO WHOM THE CONFIDENTIAL UNEMPLOYMENT
+INSURANCE INFORMATION PERTAINS;
+(II) THE WRITTEN RELEASE IS SIGNED AND INCLUDES:
+1. A STATEMENT SPECIFICALLY IDENTIFYING:
+A. THE CONFIDENTIAL UNEMPLOYMENT INSURANCE
+INFORMATION TO BE DISCLOSED;
+B. THAT STATE GOVERNMENT FILES WILL BE ACCESSED
+TO OBTAIN THE CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION; AND
+C. THE SPECIFIC PURPOSE FOR WHICH THE
+CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION IS SOUGHT; AND
+2. A STATEMENT THAT CONFIDENTIAL UNEMPLOYMENT
+INSURANCE INFORMATION OBTAINED UNDER THE RELEASE WILL BE USED ONLY
+– 14 –
+
+WES MOORE, Governor Ch. 129
+FOR THAT PURPOSE AND IDENTIFYING ALL PARTIES WHO MAY RECEIVE THE
+CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION DISCLOSED; AND
+(III) THE PURPOSE SPECIFIED IN THE RELEASE IS LIMITED TO
+PROVIDING A SERVICE OR BENEFIT TO THE INDIVIDUAL SIGNING THE RELEASE
+THAT THE INDIVIDUAL EXPECTS TO RECEIVE AS A RESULT OF SIGNING THE RELEASE
+OR CARRYING OUT ADMINISTRATION OR EVALUATION OF A PUBLIC PROGRAM TO
+WHICH THE RELEASE PERTAINS.
+(H) (1) THE SECRETARY MAY DISCLOSE CONFIDENTIAL UNEMPLOYMENT
+INSURANCE INFORMATION IN RESPONSE TO A SUBPOENA ISSUED BY A LOCAL,
+STATE, OR FEDERAL GOVERNMENT OFFICIAL, OTHER THAN A CLERK OF COURT ON
+BEHALF OF A LITIGANT, WITH AUTHORITY TO OBTAIN THE CONFIDENTIAL
+UNEMPLOYMENT INSURANCE INFORMATION BY SUBPOENA UNDER FEDERAL OR
+STATE LAW.
+(2) THE SECRETARY MAY CHOOSE TO PROVIDE THE CONFIDENTIAL
+UNEMPLOYMENT INSURANCE INFORMATION TO AN OFFICIAL UNDER THIS
+SUBSECTION WITHOUT THE ACTUAL ISSUANCE OF A SUBPOENA.
+(I) CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION
+DISCLOSED TO A THIRD PARTY THAT IS NOT ACTING AS AN AGENT OR THAT RECEIVES
+CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION FOLLOWING AN
+INFORMED CONSENT DISCLOSURE ON AN ONGOING BASIS, EVEN IF THE INDIVIDUAL
+OR ENTITY IS AN AGENT, TO A PUBLIC OFFICIAL, TO AN AGENT OR CONTRACTOR OF
+A PUBLIC OFFICIAL, TO A REQUESTING AGENCY AND AS REQUIRED UNDER 20 C.F.R.
+§ 603.6(B)(1) THROUGH (4), (6), AND (7)(I), SHALL BE SAFEGUARDED AGAINST
+UNAUTHORIZED ACCESS AS FOLLOWS:
+(1) THE RECIPIENT SHALL USE THE CONFIDENTIAL UNEMPLOYMENT
+INSURANCE INFORMATION EXCLUSIVELY FOR THE PURPOSES FOR WHICH IT WAS
+DISCLOSED AND CONSISTENT WITH A WRITTEN AGREEMENT WITH THE
+DEPARTMENT;
+(2) THE RECIPIENT SHALL STORE AND PROCESS THE CONFIDENTIAL
+UNEMPLOYMENT INSURANCE INFORMATION ELECTRONICALLY AND PHYSICALLY IN
+SUCH A WAY TO ENSURE THAT IT IS SECURE FROM ACCESS BY UNAUTHORIZED
+PERSONS BY ANY MEANS;
+(3) THE RECIPIENT SHALL UNDERTAKE PRECAUTIONS TO ENSURE
+THAT ONLY AUTHORIZED PERSONNEL, INCLUDING EMPLOYEES, AGENTS, AND
+CONTRACTORS, ARE GIVEN ACCESS TO DISCLOSED CONFIDENTIAL UNEMPLOYMENT
+INSURANCE INFORMATION STORED IN COMPUTER SYSTEMS;
+– 15 –
+
+Ch. 129 2026 LAWS OF MARYLAND
+(4) THE RECIPIENT SHALL INSTRUCT ALL PERSONNEL, INCLUDING
+ANY EMPLOYEES, AGENTS, AND CONTRACTORS, HAVING ACCESS TO THE DISCLOSED
+CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION ABOUT THE
+CONFIDENTIAL NATURE OF THE INFORMATION, THE CONFIDENTIALITY
+REQUIREMENTS OF FEDERAL AND STATE LAW, AND THE SANCTIONS UNDER STATE
+LAW FOR UNAUTHORIZED DISCLOSURE OF THE CONFIDENTIAL UNEMPLOYMENT
+INSURANCE INFORMATION;
+(5) THE RECIPIENT SHALL SIGN AN ACKNOWLEDGMENT THAT ALL
+PERSONNEL, INCLUDING ANY EMPLOYEES, AGENTS, AND CONTRACTORS, HAVING
+ACCESS TO THE CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION HAVE
+BEEN INSTRUCTED IN ACCORDANCE WITH THIS SECTION, WILL ADHERE TO THE
+STATE’S CONFIDENTIALITY REQUIREMENTS AND PROCEDURES, AND AGREE TO
+REPORT ANY INFRACTION OF THESE REQUIREMENTS TO THE DEPARTMENT FULLY
+AND PROMPTLY;
+(6) (I) THE RECIPIENT SHALL DISPOSE OF CONFIDENTIAL
+UNEMPLOYMENT INSURANCE INFORMATION DISCLOSED OR OBTAINED, AND ANY
+COPIES OF THE DISCLOSED OR OBTAINED CONFIDENTIAL UNEMPLOYMENT
+INSURANCE INFORMATION MADE BY THE RECIPIENT, INCLUDING BY EMPLOYEES,
+AGENTS, AND CONTRACTORS, AFTER THE PURPOSE FOR WHICH THE CONFIDENTIAL
+UNEMPLOYMENT INSURANCE INFORMATION IS DISCLOSED IS SERVED, EXCEPT FOR
+DISCLOSED CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION POSSESSED
+BY ANY COURT; AND
+(II) THE CONFIDENTIAL UNEMPLOYMENT INSURANCE
+INFORMATION DISCLOSED MAY NOT BE RETAINED WITH PERSONAL IDENTIFIERS
+FOR LONGER THAN THE PERIOD OF TIME AS THE DEPARTMENT DEEMS
+APPROPRIATE ON A CASE–BY–CASE BASIS;
+(7) THE RECIPIENT SHALL MAINTAIN A SYSTEM SUFFICIENT TO
+ALLOW AN AUDIT OF COMPLIANCE BY THE DEPARTMENT; AND
+(8) THE RECIPIENT, AND ANY OF ITS EMPLOYEES, AGENTS, AND
+CONTRACTORS, MAY NOT REDISCLOSE CONFIDENTIAL UNEMPLOYMENT INSURANCE
+INFORMATION EXCEPT AS SPECIFICALLY AUTHORIZED BY THE SECRETARY IN
+ACCORDANCE WITH A WRITTEN AGREEMENT.
+(J) IN ACCORDANCE WITH FEDERAL LAW, THE SECRETARY MAY AUTHORIZE
+A RECIPIENT OF CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION UNDER
+20 C.F.R. § 603.6(B)(1), (2), (3), (4), (6), OR (7)(I), 20 C.F.R. § 603.22, OR
+– 16 –
+
+WES MOORE, Governor Ch. 129
+SUBSECTION (G)(3), (4), OR (8) OF THIS SECTION TO REDISCLOSE THE
+CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION ONLY:
+(1) TO THE INDIVIDUAL OR EMPLOYER WHO IS THE SUBJECT OF THE
+CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION;
+(2) TO AN ATTORNEY OR OTHER DULY AUTHORIZED AGENT
+REPRESENTING THE INDIVIDUAL OR EMPLOYER;
+(3) IN ANY ADMINISTRATIVE, CIVIL, OR CRIMINAL PROCEEDINGS FOR
+OR ON BEHALF OF A RECIPIENT AGENCY OR ENTITY;
+(4) IN RESPONSE TO A SUBPOENA ONLY AS PROVIDED IN 20 C.F.R. §
+603.7;
+(5) TO AN AGENT OR CONTRACTOR OF A PUBLIC OFFICIAL IF:
+(I) THE PERSON REDISCLOSING IS A PUBLIC OFFICIAL;
+(II) THE PUBLIC OFFICIAL RETAINS RESPONSIBILITY FOR THE
+USES OF THE CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION BY THE
+AGENT OR CONTRACTOR; AND
+(III) THE CONFIDENTIAL UNEMPLOYMENT INSURANCE
+INFORMATION REDISCLOSED IS SUBJECT TO THE SAFEGUARDS IN SUBSECTION (I)
+OF THIS SECTION;
+(6) FROM ONE PUBLIC OFFICIAL TO ANOTHER IF THE INFORMATION
+REDISCLOSED IS SUBJECT TO THE SAFEGUARDS IN SUBSECTION (I) OF THIS
+SECTION;
+(7) TO ANY AGENT OF A CHILD SUPPORT ENFORCEMENT UNIT IF:
+(I) THE AGENT IS UNDER CONTRACT WITH THE UNIT FOR THE
+PURPOSES OF ESTABLISHING AND COLLECTING CHILD SUPPORT OBLIGATIONS
+FROM AND LOCATING INDIVIDUALS OWING SUCH OBLIGATIONS; AND
+(II) THE AGENT COMPLIES WITH THE SAFEGUARDS IN
+SUBSECTION (I) OF THIS SECTION; AND
+(8) WHEN SPECIFICALLY AUTHORIZED BY A WRITTEN RELEASE THAT
+MEETS THE REQUIREMENTS OF SUBSECTION (G)(8) OF THIS SECTION.
+– 17 –
+
+Ch. 129 2026 LAWS OF MARYLAND
+(K) ANY EMPLOYEE OR FORMER EMPLOYEE OF THE DEPARTMENT, AND ANY
+RECIPIENT OF CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION UNDER
+SUBSECTION (G) OF THIS SECTION, INCLUDING ANY EMPLOYEE, AGENT, OR
+CONTRACTOR OF THE RECIPIENT, WHO DISCLOSES CONFIDENTIAL UNEMPLOYMENT
+INSURANCE INFORMATION IN VIOLATION OF THIS TITLE IS SUBJECT TO PENALTIES
+UNDER SUBTITLE 13 OF THIS TITLE.
+8–625.
+[(d) (1) Except as provided in paragraph (2) of this subsection, the Secretary
+and Board of Appeals may not publish or allow public inspection of information obtained
+under this section in any manner that reveals the identity of the employer except to public
+employees in the performance of their public duties.
+(2) (i) The Secretary and Board of Appeals may allow inspection of
+information obtained under this section to any agent of a child support enforcement unit if
+the agent is under contract with the unit for the purposes of establishing and collecting
+child support obligations from and locating individuals owing such obligations.
+(ii) The agent of the unit shall comply with safeguards established
+by the United States Department of Labor and the Secretary and is subject to the penalties
+under § 8–1305(c) of this title.
+(3) To the extent necessary for proper presentation of a claim, the Secretary
+or Board of Appeals shall provide information from the records to a claimant at a hearing
+before a special examiner, hearing examiner, the Secretary, or the Board of Appeals.]
+[8–811.
+(a) In this section, “claim information” means information regarding:
+(1) whether an individual is receiving, has received, or has applied for
+benefits under this title;
+(2) the amount of benefits an individual is receiving or is entitled to receive;
+(3) an individual’s current or most recent home address;
+(4) whether an individual has refused an offer of work and if so, a
+description of the job offered, including terms, conditions, and rate of pay; and
+(5) any other information that is needed by the child support enforcement
+unit to verify eligibility for and the amount of benefits.
+– 18 –
+
+WES MOORE, Governor Ch. 129
+(b) If an agent of a child support enforcement unit is under contract with the child
+support enforcement unit for the purposes of establishing and collecting child support
+obligations from and locating individuals owing such obligations, the Secretary and the
+Board of Appeals may allow the agent to inspect claim information.
+(c) The agent of the child support enforcement unit shall comply with safeguards
+established by the United States Department of Labor and the Secretary and is subject to
+the penalties under § 8–1305(c) of this title.]
+8–1305.
+(c) (1) An employing unit or officer or agent of an employing unit who violates
+§ 8–1303 of this subtitle is guilty of a misdemeanor and on conviction is subject to a fine
+not exceeding $1,000 or imprisonment not exceeding 1 year or both.
+(2) A person who violates § 8–5A–08(b) or (d) of this title is guilty of a
+misdemeanor and on conviction is subject to a fine not exceeding $1,000 or imprisonment
+not exceeding 1 year or both.
+(3) A person who violates § 8–1304 of this subtitle is guilty of a
+misdemeanor for each day the violation continues and on conviction is subject to a fine not
+exceeding $1,000 or imprisonment not exceeding 1 year or both.
+(4) An employee OR FORMER EMPLOYEE of the [Secretary or Board of
+Appeals] DEPARTMENT who IN THE COURSE OF EMPLOYMENT OR DUTY HAS OR HAD
+ACCESS TO CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION
+MAINTAINED BY THE DEPARTMENT AND WHO violates [§ 8–625] § 8–111 of this title is
+guilty of a misdemeanor and on conviction is subject to a fine not exceeding $1,000 or
+imprisonment not exceeding 1 year or both.
+(5) A PERSON WHO RECEIVES CONFIDENTIAL UNEMPLOYMENT
+INSURANCE INFORMATION UNDER THIS TITLE AND WHO REDISCLOSES, WITHOUT
+AUTHORIZATION, OR USES THE CONFIDENTIAL UNEMPLOYMENT INSURANCE
+INFORMATION FOR A PURPOSE OTHER THAN THAT SPECIFIED IN THE PROVISION OF
+LAW OR AGREEMENT AUTHORIZING THE USE OR DISCLOSURE OF THE
+CONFIDENTIAL UNEMPLOYMENT INSURANCE INFORMATION IS GUILTY OF A
+MISDEMEANOR AND ON CONVICTION IS SUBJECT TO A FINE NOT EXCEEDING $1,000
+OR IMPRISONMENT NOT EXCEEDING 1 YEAR OR BOTH.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, April 14, 2026.
+– 19 –

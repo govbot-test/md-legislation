@@ -1,0 +1,304 @@
+Title: 
+Official Title: 
+Source: versions - Third - Sex Designation on Certificates of Birth, Licenses, and Identification Cards and Birth Information Histories (Birth Certificate Modernization Act)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 626
+J1, R4 6lr3585
+SB 314/25 – FIN & JPR CF HB 1589
+By: Senator Lam
+Introduced and read first time: February 5, 2026
+Assigned to: Finance and Judicial Proceedings
+Committee Report: Favorable
+Senate action: Adopted with floor amendments
+Read second time: March 6, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Sex Designation on Certificates of Birth, Licenses, and Identification Cards –
+3 Sex Designation and Birth Information Histories
+4 (Birth Certificate Modernization Act)
+5 FOR the purpose of requiring the Secretary of Health to keep and maintain a birth
+6 information history for each individual for whom a certificate of birth is issued under
+7 a certain provision of law; requiring the Secretary to maintain a database of birth
+8 information histories that may be accessed by governmental entities for a certain
+9 purpose under certain circumstances; altering the circumstances under which the
+10 Secretary of Health is required to make a new certificate of birth due to the change
+11 of a sex designation of an individual; establishing requirements and a prohibition
+12 related to the making of new certificates of birth; altering the options for indicating
+13 an individual’s sex designation on a license, identification card, and moped operator’s
+14 permit issued by the Motor Vehicle Administration; and generally relating to the
+15 issuance of certificates of birth, licenses, and identification cards, and birth
+16 information histories.
+17 BY adding to
+18 Article – Health – General
+19 Section 4–208.1
+20 Annotated Code of Maryland
+21 (2023 Replacement Volume and 2025 Supplement)
+22 BY repealing and reenacting, with amendments,
+23 Article – Health – General
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0626*
+
+2 SENATE BILL 626
+1 Section 4–211
+2 Annotated Code of Maryland
+3 (2023 Replacement Volume and 2025 Supplement)
+4 BY repealing and reenacting, with amendments,
+5 Article – Transportation
+6 Section 12–305(a) and (b)
+7 Annotated Code of Maryland
+8 (2020 Replacement Volume and 2025 Supplement)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That the Laws of Maryland read as follows:
+11 Article – Health – General
+12 4–208.1.
+13 (A) THE SECRETARY SHALL KEEP AND MAINTAIN A BIRTH INFORMATION
+14 HISTORY FOR EACH INDIVIDUAL FOR WHOM A CERTIFICATE OF BIRTH IS ISSUED
+15 UNDER § 4–208 OF THIS TITLE.
+16 (B) (1) THE BIRTH INFORMATION HISTORY FOR AN INDIVIDUAL SHALL
+17 CONTAIN A HISTORICAL RECORD OF:
+18 (I) THE INDIVIDUAL’S BIRTH DATE;
+19 (II) THE INDIVIDUAL’S NAME;
+20 (III) THE INDIVIDUAL’S SEX DESIGNATION AT BIRTH; AND
+21 (IV) ANY OTHER INFORMATION REGARDING THE INDIVIDUAL
+22 THE SECRETARY REQUIRES.
+23 (2) THE SECRETARY SHALL ADOPT STANDARD PROCEDURES FOR
+24 ADDING UPDATED INFORMATION TO AN INDIVIDUAL’S BIRTH INFORMATION
+25 HISTORY.
+26 (C) UPDATED BIRTH INFORMATION HISTORY:
+27 (1) IS SEALED;
+28 (2) MAY BE ACCESSED ONLY THROUGH THE PROCESS DESCRIBED
+29 UNDER § 4–211(G) OF THIS SUBTITLE; AND
+30 (3) IS NOT SUBJECT TO THE PUBLIC INFORMATION ACT.
+
+SENATE BILL 626 3
+1 4–211.
+2 (a) Except as provided in subsection [(d)] (E) of this section, the Secretary shall
+3 make a new certificate of birth for an individual if the Department receives satisfactory
+4 proof that:
+5 (1) The individual was born in this State; and
+6 (2) Regardless of the location, one of the following has occurred:
+7 (i) The previously unwed parents of the individual have married
+8 each other after the birth of the individual;
+9 (ii) A court of competent jurisdiction has entered an order as to the
+10 parentage, legitimation, or adoption of the individual; or
+11 (iii) If a parent who did not give birth to the individual is not named
+12 on an earlier certificate of birth:
+13 1. The parent who did not give birth to the individual has
+14 acknowledged [himself or herself] by affidavit to [be] BEING a parent of the individual; and
+15 2. The mother [of the individual] OR PARENT LISTED ON
+16 THE INDIVIDUAL’S BIRTH CERTIFICATE has consented by affidavit to the
+17 acknowledgment.
+18 (b) Except as provided in subsection [(d)] (E) of this section, the Secretary shall
+19 make a new certificate of birth for an individual if the Department receives satisfactory
+20 proof that:
+21 (1) The individual was born in this State; and
+22 (2) Regardless of the location, one of the following has occurred:
+23 (i) [1. IF THE INDIVIDUAL IS A MINOR OR DISABLED PERSON
+24 UNDER GUARDIANSHIP:
+25 A. A licensed health care practitioner who has treated or
+26 evaluated the individual has determined that the individual’s sex designation should be
+27 changed because the individual has undergone treatment appropriate for the purpose of
+28 sex transition or has been diagnosed with an intersex condition;
+29 2.] The individual, or if the individual is a minor or disabled
+30 person under guardianship, the individual’s parent, guardian, or legal representative, has
+31 made a written request, UNDER PENALTY OF PERJURY, for; AND
+
+4 SENATE BILL 626
+1 B. THE INDIVIDUAL’S PARENT, GUARDIAN, OR LEGAL
+2 REPRESENTATIVE HAS MADE A WRITTEN REQUEST FOR A NEW CERTIFICATE OF
+3 BIRTH WITH A SEX DESIGNATION THAT DIFFERS FROM THE SEX DESIGNATED ON THE
+4 ORIGINAL CERTIFICATE OF BIRTH; OR
+5 2. IF THE INDIVIDUAL IS NOT A MINOR OR DISABLED
+6 PERSON UNDER GUARDIANSHIP, THE INDIVIDUAL HAS SUBMITTED AN AFFIDAVIT
+7 REQUESTING a new certificate of birth with a sex designation that differs from the sex
+8 designated on the original certificate of birth THAT INCLUDED AN ATTESTATION UNDER
+9 PENALTY OF PERJURY THAT THE REQUEST IS NOT BEING SUBMITTED FOR A
+10 FRAUDULENT OR UNLAWFUL PURPOSE; [and
+11 3. The licensed health care practitioner has signed a
+12 statement, under penalty of perjury, that:
+13 A. The individual has undergone surgical, hormonal, or other
+14 treatment appropriate for the individual, based on generally accepted medical standards;
+15 or
+16 B. The individual has an intersex condition and, in the
+17 professional opinion of the licensed health care practitioner, based on generally accepted
+18 medical standards, the individual’s sex designation should be changed accordingly;]
+19 (ii) A court of competent jurisdiction has issued an order indicating
+20 that the sex of an individual born in this State has been changed; or
+21 (iii) Before October 1, 2015, the Secretary, as provided under
+22 regulations adopted by the Department, amended an original certificate of birth on receipt
+23 of a certified copy of an order of a court of competent jurisdiction indicating the sex of the
+24 individual had been changed.
+25 (c) EXCEPT AS PROVIDED IN SUBSECTION (E) OF THIS SECTION, THE
+26 SECRETARY SHALL MAKE A NEW CERTIFICATE OF BIRTH FOR AN INDIVIDUAL IF THE
+27 DEPARTMENT RECEIVES SATISFACTORY PROOF THAT:
+28 (1) THE INDIVIDUAL WAS BORN IN THIS STATE; AND
+29 (2) REGARDLESS OF THE LOCATION, A COURT OF COMPETENT
+30 JURISDICTION HAS ISSUED AN ORDER INDICATING THAT THE NAME OF A PARENT
+31 LISTED ON THE CERTIFICATE OF BIRTH HAS BEEN CHANGED.
+32 (D) Except as provided in subsection [(d)] (E) of this section, the Secretary may
+33 make a new certificate of birth for an individual who was born outside the United States if
+34 one of the following occurred in this State:
+
+SENATE BILL 626 5
+1 (1) The previously unwed parents of the individual have married each
+2 other after the birth of the individual;
+3 (2) A court of competent jurisdiction in this State has entered an order as
+4 to parentage or legitimation; or
+5 (3) The parent who did not give birth to the individual acknowledged
+6 [himself or herself] by affidavit to [be] BEING a parent of the individual and the mother
+7 OR PARENT LISTED ON THE BIRTH CERTIFICATE of the individual has consented by
+8 affidavit to the acknowledgment.
+9 [(d)] (E) The Secretary may not make a new certificate of birth in connection
+10 with an order of a court of competent jurisdiction relating to the adoption of an individual,
+11 if one of the following so directs the Secretary:
+12 (1) The court that decrees the adoption;
+13 (2) The adoptive parents; or
+14 (3) The adopted individual, if an adult.
+15 [(e)] (F) A new certificate of birth shall be prepared on the following basis:
+16 (1) The individual shall be treated as having at birth the status that later
+17 is acquired or established and of which proof is submitted.
+18 (2) (i) If the parents of the individual were not married and parentage
+19 is established by legal proceedings, the name of the parent who did not give birth to the
+20 individual shall be inserted.
+21 (ii) The legal proceeding should request and report to the Secretary
+22 that the surname of the subject of the record be changed from that shown on the original
+23 certificate, if a change is desired.
+24 (3) If the individual is adopted, the name of the individual shall be that set
+25 by the decree of adoption, and the adoptive parents shall be recorded as the parents of the
+26 individual.
+27 (4) The new certificate of birth shall contain wording that requires each
+28 parent shown on the new certificate to indicate [his or her] THE PARENT’S own Social
+29 Security number.
+30 [(f)] (G) (1) When a new certificate of birth is made under subsection (b) of
+31 this section:
+
+6 SENATE BILL 626
+1 (i) The sex designation of the individual on the new certificate of
+2 birth shall be the sex designation for which satisfactory proof has been submitted in
+3 accordance with subsection (b) of this section; and
+4 (ii) If the name of the individual has been changed at any time, the
+5 name of the individual on the new certificate of birth shall be the name that was last
+6 established and for which appropriate documentation has been submitted to the
+7 Department.
+8 (2) A new certificate of birth made under subsection (b) of this section may
+9 not:
+10 (i) Be marked “amended”; or
+11 (ii) Show on its face that a change has been made to:
+12 1. A sex designation; or
+13 2. If applicable, a change of name.
+14 (3) (I) WHEN ISSUING A NEW CERTIFICATE OF BIRTH UNDER
+15 SUBSECTION (B) OF THIS SECTION, THE SECRETARY SHALL ALLOW AN INDIVIDUAL
+16 TO DESIGNATE THE SEX OF THE INDIVIDUAL AS:
+17 1. FEMALE;
+18 2. MALE; OR
+19 3. UNSPECIFIED OR ANOTHER.
+20 (II) IF AN INDIVIDUAL INDICATES A SEX DESIGNATION OF
+21 UNSPECIFIED OR ANOTHER ON AN APPLICATION FOR A NEW CERTIFICATE OF BIRTH,
+22 THE SECRETARY SHALL ENSURE THAT THE NEW CERTIFICATE OF BIRTH DISPLAYS
+23 AN “X” IN THE LOCATION THAT INDICATES THE INDIVIDUAL’S SEX.
+24 (H) (1) WHEN A NEW CERTIFICATE OF BIRTH IS MADE UNDER
+25 SUBSECTION (C) OF THIS SECTION, IF THE NAME OF THE PARENT HAS BEEN
+26 CHANGED AT ANY TIME:
+27 (I) THE NAME OF THE PARENT ON THE NEW CERTIFICATE OF
+28 BIRTH SHALL BE THE NAME THAT WAS LAST ESTABLISHED AND FOR WHICH
+29 APPROPRIATE DOCUMENTATION HAS BEEN SUBMITTED TO THE DEPARTMENT; AND
+30 (II) EXCEPT ON REQUEST OF THE INDIVIDUAL, OR, IF THE
+31 INDIVIDUAL IS A MINOR OR DISABLED PERSON UNDER GUARDIANSHIP, THE
+
+SENATE BILL 626 7
+1 INDIVIDUAL’S PARENT, GUARDIAN, OR LEGAL REPRESENTATIVE, THE NEW
+2 CERTIFICATE OF BIRTH MAY NOT INCLUDE ANY PRIOR LEGAL NAME OF THE PARENT.
+3 (2) A NEW CERTIFICATE OF BIRTH MADE UNDER SUBSECTION (C) OF
+4 THIS SECTION MAY NOT:
+5 (I) BE MARKED “AMENDED”; OR
+6 (II) SHOW ON ITS FACE THAT A CHANGE HAS BEEN MADE TO:
+7 1. A SEX DESIGNATION; OR
+8 2. IF APPLICABLE, A NAME.
+9 [(g)] (I) (1) If a new certificate of birth is made, the Secretary shall:
+10 (i) Substitute the new certificate of birth for any certificate then on
+11 file; and
+12 (ii) Place the original certificate of birth and all records that relate
+13 to the new certificate of birth under seal.
+14 (2) The seal may be broken only:
+15 (i) On order of a court of competent jurisdiction;
+16 (ii) If it does not violate the confidentiality of the record, on written
+17 order of a designee of the Secretary; or
+18 (iii) In accordance with Title 5, Subtitle 3A or Subtitle 4B of the
+19 Family Law Article.
+20 (3) A certified copy of the certificate of birth that later is issued shall be a
+21 copy of the new certificate of birth, unless:
+22 (i) A court of competent jurisdiction orders the issuance of a copy of
+23 the original certificate of birth; or
+24 (ii) Title 5, Subtitle 3A or Subtitle 4B of the Family Law Article
+25 provides for the issuance of a copy of the original certificate of birth.
+26 [(h)] (J) Each clerk of court shall send to the Secretary, on the form that the
+27 Secretary provides, a report of:
+28 (1) Each decree of adoption;
+
+8 SENATE BILL 626
+1 (2) Each adjudication of parentage, including the parent’s Social Security
+2 number; and
+3 (3) Each revocation or amendment of any decree of adoption or
+4 adjudication of paternity that the court enters.
+5 [(i)] (K) Upon receipt of a report or decree of annulment of adoption, the original
+6 certificate of birth shall be restored to its place in the files, and the adoption certificate and
+7 any accompanying documents are not subject to inspection except upon order of a court of
+8 competent jurisdiction or as provided by regulation.
+9 [(j)] (L) If no certificate of birth is on file for the person for whom a new birth
+10 certificate is to be established under this section, and the date and place of birth have not
+11 been determined in the adoption or paternity proceedings:
+12 (1) A delayed certificate of birth shall be filed with the Secretary as
+13 provided in § 4–210 of this subtitle before a new certificate of birth is established; and
+14 (2) The new birth certificate shall be prepared on the delayed birth
+15 certificate form.
+16 [(k)] (M) (1) The Secretary shall, on request, prepare and register a certificate
+17 in this State for an individual born in a foreign country and who was adopted:
+18 (i) Through a court of competent jurisdiction in this State; or
+19 (ii) 1. Under the laws of a jurisdiction or country other than the
+20 United States and has been granted an IR–3 or IH–3 visa by the U.S. Citizenship and
+21 Immigration Services under the Immigration and Nationality Act; and
+22 2. By an adopting parent who is a resident of this State.
+23 (2) Except as provided in paragraph (3) of this subsection, the certificate
+24 shall be established on receipt of:
+25 (i) A certificate of adoption from the court decreeing the adoption;
+26 (ii) Proof of the date and place of the child’s birth; and
+27 (iii) A request from the court, the adopting parents, or the adopted
+28 person if 18 years of age or over that the certificate be prepared.
+29 (3) If the child was adopted under the laws of a jurisdiction or country other
+30 than the United States and has been granted an IR–3 or IH–3 visa by the U.S. Citizenship
+31 and Immigration Services under the Immigration and Nationality Act, the certificate shall
+32 be established on receipt of:
+
+SENATE BILL 626 9
+1 (i) An official copy of the decree from the jurisdiction or country in
+2 which the child was adopted;
+3 (ii) A certified translation of the foreign adoption decree;
+4 (iii) Proof of the date and place of the child’s birth;
+5 (iv) Proof of IR–3 or IH–3 visa status;
+6 (v) A request from the court, the adopting parents, or the adopted
+7 person if 18 years of age or over that the certificate be prepared; and
+8 (vi) Proof that the adopting parent is a resident of this State.
+9 (4) The certificate shall be labeled “Certificate of Foreign Birth” and shall
+10 show the actual country of birth.
+11 (5) A statement shall also be included on the certificate indicating that it
+12 is not evidence of United States citizenship for the child for whom it is issued.
+13 Article – Transportation
+14 12–305.
+15 (a) An application for a license, an identification card, or a moped operator’s
+16 permit shall allow an applicant to indicate that the sex the applicant identifies as is:
+17 (1) Female;
+18 (2) Male; or
+19 (3) Unspecified or [other] ANOTHER.
+20 (b) The Administration shall ensure that the license, identification card, or moped
+21 operator’s permit of an applicant who has indicated an unspecified or [other] ANOTHER
+22 sex on an application displays an “X” in the location on the license, identification card, or
+23 moped operator’s permit that indicates the applicant’s sex.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2026.

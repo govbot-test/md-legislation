@@ -1,0 +1,180 @@
+Title: 
+Official Title: 
+Source: versions - Chapter - Telecommunications Infrastructure - Protections
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+WES MOORE, Governor Ch. 546
+Chapter 546
+(House Bill 1100)
+AN ACT concerning
+Telecommunications Infrastructure – Protections
+FOR the purpose of specifying that certain documentation may establish lawful authority
+to sell certain telecommunications equipment as junk or scrap metal; requiring
+certain junk dealers, scrap metal processors, and antique dealers to register and
+provide a description including certain information of purchased
+telecommunications equipment with a certain law enforcement official; prohibiting
+certain junk dealers, scrap metal processors, and antique dealers from purchasing
+telecommunications equipment other than by check mailed to the seller’s address;
+prohibiting the sale or disposal of certain telecommunications equipment within a
+certain period; prohibiting certain individuals from destroying telecommunications
+infrastructure in a certain manner; and generally relating to telecommunications
+equipment and infrastructure.
+BY repealing and reenacting, without amendments,
+Article – Business Regulation
+Section 17–1001(a) and (f)(2) and (f)(1)(ii)9. and (2)
+Annotated Code of Maryland
+(2024 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Article – Business Regulation
+Section 17–1001(f)(1)(ii)8. and 9. 17–1009(d)
+Annotated Code of Maryland
+(2024 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Business Regulation
+Section 17–1001(f)(1)(ii)9. and (m) and 17–1010.1 10.
+Annotated Code of Maryland
+(2024 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Criminal Law
+Section 6–305.1
+Annotated Code of Maryland
+(2021 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+– 1 –
+
+Ch. 546 2026 LAWS OF MARYLAND
+Article – Business Regulation
+17–1001.
+(a) In this subtitle the following words have the meanings indicated.
+(f) (1) “Junk” or “scrap metal” includes:
+(ii) the following used articles, made of either ferrous or nonferrous
+metal:
+8. cell tower batteries; [and]
+9. TELECOMMUNICATIONS EQUIPMENT
+TELECOMMUNICATIONS INFRASTRUCTURE AS DEFINED IN § 6–305.1 OF THE
+CRIMINAL LAW ARTICLE;
+10. TELECOMMUNICATIONS EQUIPMENT THAT INCLUDES
+ANY OTHER USED ARTICLES OWNED BY A TELECOMMUNICATIONS COMPANY, AS
+DEFINED IN § 6–305.1 OF THE CRIMINAL LAW ARTICLE, INCLUDING:
+A. ANTENNAE;
+B. BURNED WIRES;
+B. C. BUSBARS;
+C. D. CELL TOWER BATTERIES;
+E. FIBER OPTIC AND COPPER CABLES;
+F. POWER INVERTERS; AND
+D. G. MATERIALS WITH IDENTIFIABLE MARKERS THAT
+INDICATE OWNERSHIP BY THE TELECOMMUNICATIONS COMPANY; AND
+H. SMALL CELL FACILITIES; AND
+[9.] 10. 11. any other used articles owned by a public utility
+including:
+A. guardrails;
+B. manhole covers;
+– 2 –
+
+WES MOORE, Governor Ch. 546
+C. metal light poles;
+D. tree grates;
+E. water meters; and
+F. street signs.
+(2) “Junk” or “scrap metal” does not include beverage cans or food cans.
+17–1009.
+(d) (1) A junk dealer or scrap metal processor may not barter, buy, exchange, or
+accept from a person any junk or scrap metal unless the junk dealer or scrap metal processor
+keeps records and makes entries in them in accordance with this subtitle.
+(2) A junk dealer or scrap metal processor may not purchase a catalytic
+converter from an individual unless the individual, at the time of purchase, provides
+identification as:
+(i) a licensed automotive dismantler and recycler or scrap metal
+processor; or
+(ii) an agent or employee of a licensed commercial enterprise.
+(3) (I) A junk dealer or scrap metal processor may not purchase a
+cemetery urn, grave marker, or any other item listed under § 17–1001(f)(1)(ii) of this subtitle
+from an individual unless the individual, at the time of purchase, provides appropriate
+authorization from a relevant business or unit of federal, State, or local government OR
+FROM AN INDIVIDUAL WITH AUTHORIZATION UNDER SUBPARAGRAPH (II) OF THIS
+PARAGRAPH specifically authorizing the individual to conduct the transaction.
+(II) FOR A PURCHASE OF TELECOMMUNICATIONS EQUIPMENT
+SOLD AS JUNK OR SCRAP METAL, APPROPRIATE AUTHORIZATION UNDER THIS
+SUBSECTION INCLUDES A BILL OF SALE, RECEIPT, LETTER OF AUTHORIZATION, OR
+OTHER DOCUMENTARY EVIDENCE THAT THE SELLER HAS LAWFUL AUTHORITY TO
+SELL THE TELECOMMUNICATIONS EQUIPMENT.
+(M) “TELECOMMUNICATIONS EQUIPMENT” MEANS AN ITEM THAT AN
+INDIVIDUAL KNOWS OR REASONABLY SHOULD KNOW TO ORDINARILY BE USED BY,
+OR BELONG TO, A TELEPHONE, TELEGRAPH, INTERNET, OR OTHER WIRELESS
+COMMUNICATION COMPANY.
+17–1010.1.
+– 3 –
+
+Ch. 546 2026 LAWS OF MARYLAND
+(A) THIS SECTION APPLIES TO ALL JUNK DEALERS, SCRAP METAL
+PROCESSORS, AND ANTIQUE DEALERS WHO ARE RESIDENTS OF THE STATE.
+(B) (1) EACH JUNK DEALER, SCRAP METAL PROCESSOR, OR ANTIQUE
+DEALER SUBJECT TO THIS SECTION WHO PURCHASES TELECOMMUNICATIONS
+EQUIPMENT SHALL REGISTER WITH THE SHERIFF OR OTHER LAW ENFORCEMENT
+OFFICIAL DESIGNATED BY THE GOVERNING BODY OF THE COUNTY IN WHICH THE
+BUSINESS OF THE JUNK DEALER, SCRAP METAL PROCESSOR, OR ANTIQUE DEALER
+IS LOCATED A COMPLETE DESCRIPTION OF THE TELECOMMUNICATIONS
+EQUIPMENT.
+(2) THE DESCRIPTION SHALL INCLUDE:
+(I) THE DATE AND TIME OF PURCHASE;
+(II) THE NAME AND ADDRESS OF THE SELLER; AND
+(III) THE LICENSE TAG NUMBER OF ANY VEHICLE USED.
+(C) A JUNK DEALER, SCRAP METAL PROCESSOR, OR ANTIQUE DEALER
+SUBJECT TO THIS SECTION WHO PURCHASES TELECOMMUNICATIONS EQUIPMENT
+MAY PURCHASE TELECOMMUNICATIONS EQUIPMENT ONLY BY ISSUING A CHECK
+THAT IS MAILED TO THE SELLER’S ADDRESS.
+(D) TELECOMMUNICATIONS EQUIPMENT MAY NOT BE SOLD OR OTHERWISE
+DISPOSED OF FOR A PERIOD OF 30 DAYS AFTER THE DATE OF PURCHASE.
+(E) A PERSON WHO VIOLATES THIS SECTION:
+(1) IS SUBJECT TO REVOCATION OF ANY STATE JUNK LICENSE HELD
+BY THE PERSON; AND
+(2) IS GUILTY OF A MISDEMEANOR AND, ON CONVICTION, IS SUBJECT
+TO A FINE NOT EXCEEDING $2,000.
+Article – Criminal Law
+6–305.1.
+(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
+– 4 –
+
+WES MOORE, Governor Ch. 546
+(2) “TELECOMMUNICATIONS COMPANY” MEANS A COMPANY THAT
+PROVIDES BROADBAND INTERNET, CABLE TELEVISION, TELEPHONE, OR OTHER
+WIRELESS COMMUNICATION SERVICES.
+(3) (I) “TELECOMMUNICATIONS INFRASTRUCTURE” MEANS ITEMS
+THAT ARE USED TO PROVIDE BROADBAND INTERNET, CABLE TELEVISION,
+TELEPHONE, OR OTHER WIRELESS COMMUNICATION SERVICES.
+(II) “TELECOMMUNICATIONS INFRASTRUCTURE” INCLUDES:
+1. ANTENNAE;
+2. FIBER OPTIC AND COPPER CABLES;
+3. HEADENDS;
+4. TELEPHONE POLES;
+5. RADIO TRANSCEIVERS;
+6. RADIO TOWERS;
+7. WIRELESS SUPPORT STRUCTURES;
+8. SMALL CELL FACILITIES; AND
+9. TELECOMMUNICATIONS COMPANY OFFICE
+FACILITIES.
+(B) THIS SECTION DOES NOT APPLY TO:
+(1) AN EMPLOYEE OF A TELECOMMUNICATIONS COMPANY OR A
+PERSON ACTING UNDER THE AUTHORITY OF A TELECOMMUNICATIONS COMPANY;
+OR
+(2) SUPERVISION AND CONTROL OF A TELECOMMUNICATIONS
+COMPANY AND ITS MATERIAL, EQUIPMENT, OR FACILITIES BY A POLITICAL
+SUBDIVISION WITHIN WHICH THE TELECOMMUNICATIONS COMPANY IS DOING
+BUSINESS.
+(C) A PERSON MAY NOT RECKLESSLY OR WILLFULLY AND MALICIOUSLY
+DEFACE, DAMAGE, OR DESTROY TELECOMMUNICATIONS INFRASTRUCTURE.
+– 5 –
+
+Ch. 546 2026 LAWS OF MARYLAND
+(D) A PERSON WHO VIOLATES THIS SECTION IS GUILTY OF A FELONY
+MISDEMEANOR AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT
+EXCEEDING 6 MONTHS OR A FINE NOT EXCEEDING $5,000 $500 OR BOTH.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
+Approved by the Governor, May 12, 2026.
+– 6 –

@@ -1,0 +1,360 @@
+Title: 
+Official Title: 
+Source: versions - Chapter - Health Insurance - Mental Health and Substance Use Disorders - Codification of Federal Requirements
+Media Type: application/pdf
+
+================================================================================
+
+WES MOORE, Governor Ch. 11
+Chapter 11
+(House Bill 280)
+AN ACT concerning
+Health Insurance – Mental Health and Substance Use Disorders – Codification
+of Federal Requirements
+FOR the purpose of codifying in State law certain provisions of the Code of Federal
+Regulations related to mental health parity and clarifying the authority of the
+Maryland Insurance Administration to enforce certain laws; requiring health
+insurance carriers to collect and report on data related to access to benefits in a
+certain manner; requiring health insurance carriers to provide benefits for certain
+mental health conditions or substance use disorders under certain circumstances;
+requiring health insurance carriers to explain differences in access to care under
+certain circumstances; requiring the Maryland Insurance Commissioner to review
+reports from carriers and provide notice to health insurance carriers of
+noncompliance with State law and regulations; and generally relating to
+requirements for health insurance related to mental health and substance use
+disorders.
+BY repealing and reenacting, with amendments,
+Article – Insurance
+Section 15–144(a), (c)(1) and (3)(ii), (d), (e), (i)(1), (k), and (l)(1)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY adding to
+Article – Insurance
+Section 15–144(c)(7)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, without amendments,
+Article – Insurance
+Section 15–144(o)
+Annotated Code of Maryland
+(2017 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Insurance
+15–144.
+– 1 –
+
+Ch. 11 2026 LAWS OF MARYLAND
+(a) (1) In this section the following words have the meanings indicated.
+(2) “Carrier” means:
+(i) an insurer that holds a certificate of authority in the State and
+provides health insurance in the State;
+(ii) a health maintenance organization that is licensed to operate in
+the State;
+(iii) a nonprofit health service plan that is licensed to operate in the
+State; or
+(iv) any other person or organization that provides health benefit
+plans subject to State insurance regulation.
+(3) “CORE TREATMENT” MEANS A STANDARD TREATMENT OR
+COURSE OF TREATMENT, THERAPY, SERVICE, OR INTERVENTION INDICATED BY
+GENERALLY RECOGNIZED INDEPENDENT STANDARDS OF CURRENT MEDICAL
+PRACTICE.
+[(3)] (4) “Health benefit plan” means:
+(i) for a large group or blanket plan, a health benefit plan as defined
+in § 15–1401 of this title;
+(ii) for a small group plan, a health benefit plan as defined in §
+15–1201 of this title;
+(iii) for an individual plan:
+1. a health benefit plan as defined in § 15–1301(l) of this title;
+or
+2. an individual health benefit plan as defined in §
+15–1301(o) of this title;
+(iv) short–term limited duration insurance as defined in § 15–1301(s)
+of this title; or
+(v) a student health plan as defined in § 15–1318(a) of this title.
+[(4)] (5) “Medical/surgical benefits” has the meaning stated in 45 C.F.R.
+§ 146.136(a) and 29 C.F.R. § 2590.712(a).
+– 2 –
+
+WES MOORE, Governor Ch. 11
+[(5)] (6) (I) “Mental health benefits” [has the meaning stated in 45
+C.F.R. § 146.136(a) and 29 C.F.R. § 2590.712(a)] MEANS BENEFITS WITH RESPECT TO
+ITEMS OR SERVICES FOR MENTAL HEALTH CONDITIONS THAT ARE DEFINED UNDER
+THE TERMS OF A HEALTH BENEFIT PLAN AND IN ACCORDANCE WITH APPLICABLE
+FEDERAL AND STATE LAW, INCLUDING REQUIREMENTS THAT:
+1. ANY CONDITION DEFINED UNDER THE TERMS OF THE
+HEALTH BENEFIT PLAN AS BEING OR AS NOT BEING A MENTAL HEALTH CONDITION
+BE DEFINED CONSISTENT WITH GENERALLY RECOGNIZED INDEPENDENT
+STANDARDS OF CURRENT MEDICAL PRACTICE AND INCLUDE ALL CONDITIONS,
+EXCEPT FOR SUBSTANCE USE DISORDERS, COVERED UNDER THE HEALTH BENEFIT
+PLAN THAT:
+A. FALL UNDER ANY OF THE DIAGNOSTIC CATEGORIES
+LISTED IN THE MENTAL, BEHAVIORAL, AND NEURODEVELOPMENTAL DISORDERS
+CHAPTER, OR EQUIVALENT CHAPTER, OF THE MOST RECENT VERSION OF THE
+WORLD HEALTH ORGANIZATION’S INTERNATIONAL CLASSIFICATION OF DISEASES
+ADOPTED BY THE FEDERAL DEPARTMENT OF HEALTH AND HUMAN SERVICES; OR
+B. ARE LISTED IN THE MOST RECENT VERSION OF THE
+AMERICAN PSYCHIATRIC ASSOCIATION’S DIAGNOSTIC AND STATISTICAL MANUAL
+OF MENTAL DISORDERS; AND
+2. TO THE EXTENT GENERALLY RECOGNIZED
+INDEPENDENT STANDARDS OF CURRENT MEDICAL PRACTICE DO NOT ADDRESS
+WHETHER A CONDITION IS A MENTAL HEALTH CONDITION, THE CONDITION BE
+DEFINED IN ACCORDANCE WITH APPLICABLE FEDERAL AND STATE LAW.
+(II) “MENTAL HEALTH BENEFITS” DOES NOT INCLUDE
+MEDICAL/SURGICAL BENEFITS OR SUBSTANCE USE DISORDER BENEFITS.
+[(6)] (7) “Nonquantitative treatment limitation” means treatment
+limitations as defined in 45 C.F.R. § 146.136(a) and 29 C.F.R. § 2590.712(a).
+[(7)] (8) (i) “Parity Act” means the Paul Wellstone and Pete Domenici
+Mental Health Parity and Addiction Equity Act of 2008, as amended.
+(ii) “Parity Act” includes 45 C.F.R. § 146.136, 29 C.F.R. § 2590.712,
+and any other related federal regulations found in the Code of Federal Regulations to
+implement or enforce the Paul Wellstone and Pete Domenici Mental Health Parity and
+Addiction Equity Act of 2008.
+[(8)] (9) “Parity Act classification” means:
+– 3 –
+
+Ch. 11 2026 LAWS OF MARYLAND
+(i) inpatient in–network benefits;
+(ii) inpatient out–of–network benefits;
+(iii) outpatient in–network benefits;
+(iv) outpatient out–of–network benefits;
+(v) prescription drug benefits; and
+(vi) emergency care benefits.
+[(9)] (10) “Product” has the meaning stated in § 15–1309(a)(3) of this title.
+[(10)] (11) (I) “Substance use disorder benefits” [has the meaning stated
+in 45 C.F.R. § 146.136(a) and 29 C.F.R. § 2590.712(a)] MEANS BENEFITS WITH RESPECT
+TO ITEMS OR SERVICES FOR SUBSTANCE USE DISORDERS THAT ARE DEFINED UNDER
+THE TERMS OF A HEALTH BENEFIT PLAN AND IN ACCORDANCE WITH APPLICABLE
+FEDERAL AND STATE LAW, INCLUDING REQUIREMENTS THAT:
+1. ANY DISORDER DEFINED UNDER THE TERMS OF THE
+HEALTH BENEFIT PLAN AS BEING OR AS NOT BEING A SUBSTANCE USE DISORDER BE
+DEFINED CONSISTENT WITH GENERALLY RECOGNIZED INDEPENDENT STANDARDS
+OF CURRENT MEDICAL PRACTICE AND INCLUDE ALL DISORDERS COVERED UNDER
+THE HEALTH BENEFIT PLAN THAT:
+A. FALL UNDER ANY OF THE DIAGNOSTIC CATEGORIES
+LISTED AS A MENTAL OR BEHAVIORAL DISORDER DUE TO PSYCHOACTIVE
+SUBSTANCE USE, OR EQUIVALENT CATEGORY, IN THE MENTAL, BEHAVIORAL, AND
+NEURODEVELOPMENTAL DISORDERS CHAPTER, OR EQUIVALENT CHAPTER, OF THE
+MOST RECENT VERSION OF THE WORLD HEALTH ORGANIZATION’S INTERNATIONAL
+CLASSIFICATION OF DISEASES ADOPTED BY THE FEDERAL DEPARTMENT OF
+HEALTH AND HUMAN SERVICES; OR
+B. ARE LISTED AS A SUBSTANCE–RELATED AND
+ADDICTIVE DISORDER, OR EQUIVALENT CATEGORY, IN THE MOST RECENT VERSION
+OF THE AMERICAN PSYCHIATRIC ASSOCIATION’S DIAGNOSTIC AND STATISTICAL
+MANUAL OF MENTAL DISORDERS; AND
+2. TO THE EXTENT GENERALLY RECOGNIZED
+INDEPENDENT STANDARDS OF CURRENT MEDICAL PRACTICE DO NOT ADDRESS
+WHETHER A DISORDER IS A SUBSTANCE USE DISORDER, THE DISORDER SHALL BE
+– 4 –
+
+WES MOORE, Governor Ch. 11
+DEFINED UNDER THE TERMS OF THE HEALTH BENEFIT PLAN IN ACCORDANCE WITH
+APPLICABLE FEDERAL AND STATE LAW.
+(II) “SUBSTANCE USE DISORDER BENEFITS” DOES NOT
+INCLUDE MEDICAL/SURGICAL BENEFITS OR MENTAL HEALTH BENEFITS.
+(c) (1) Each carrier subject to this section shall:
+(i) for each Parity Act classification, identify all nonquantitative
+treatment limitations that are applied to mental health benefits, substance use disorder
+benefits, and medical/surgical benefits;
+(ii) in accordance with the Parity Act AND ANY STATE
+REGULATIONS ADOPTED UNDER SUBSECTION (O) OF THIS SECTION, perform and
+document comparative analyses of the design and application of all nonquantitative
+treatment limitations imposed on mental health benefits and substance use disorder
+benefits;
+(III) 1. COLLECT AND EVALUATE RELEVANT DATA IN A
+MANNER REASONABLY DESIGNED TO ASSESS THE IMPACT OF EACH
+NONQUANTITATIVE TREATMENT LIMITATION ON RELEVANT OUTCOMES RELATED
+TO ACCESS TO MENTAL HEALTH AND SUBSTANCE USE DISORDER BENEFITS AND
+MEDICAL/SURGICAL BENEFITS; AND
+2. WITH RESPECT TO NONQUANTITATIVE TREATMENT
+LIMITATIONS RELATED TO NETWORK COMPOSITION, COLLECT AND EVALUATE
+RELEVANT DATA IN A MANNER REASONABLY DESIGNED TO ASSESS THE AGGREGATE
+IMPACT OF ALL THE NONQUANTITATIVE TREATMENT LIMITATIONS ON ACCESS TO
+MENTAL HEALTH AND SUBSTANCE USE DISORDER BENEFITS AND
+MEDICAL/SURGICAL BENEFITS;
+[(iii)] (IV) provide the comparative analysis, INCLUDING THE
+EVALUATION OF RELEVANT DATA, for each nonquantitative treatment limitation
+requested by the Commissioner within:
+1. 15 working days after a written request; or
+2. if adopted by the federal government, less than 15 working
+days to align with the federal rule or regulation;
+[(iv)] (V) within 30 days after a written request, provide the
+comparative analysis for each nonquantitative treatment limitation and related in
+operation data analysis, if available and requested by a member in accordance with the
+Parity Act disclosure requirements or, for members with individual plans, in accordance
+with subsection [(e)(7)] (E)(8) of this section; and
+– 5 –
+
+Ch. 11 2026 LAWS OF MARYLAND
+[(v)] (VI) submit the reports required under paragraph (2) of this
+subsection.
+(3) The report submitted under paragraph (2) of this subsection shall
+include the following information:
+(ii) the results of a comparative analysis, INCLUDING THE
+EVALUATION OF RELEVANT DATA, conducted by the carrier on not fewer than five
+nonquantitative treatment limitations selected by the Commissioner in accordance with
+paragraph (5) of this subsection; and
+(7) IF THE RELEVANT DATA EVALUATED UNDER PARAGRAPH (1)(III)
+OF THIS SUBSECTION INDICATE THAT THE NONQUANTITATIVE TREATMENT
+LIMITATION CONTRIBUTES TO MATERIAL DIFFERENCES IN ACCESS TO MENTAL
+HEALTH AND SUBSTANCE USE DISORDER BENEFITS AS COMPARED TO
+MEDICAL/SURGICAL BENEFITS IN A PARITY ACT CLASSIFICATION:
+(I) THE DIFFERENCES SHALL BE CONSIDERED A STRONG
+INDICATOR OF NONCOMPLIANCE WITH THE PARITY ACT AND MAY SUBJECT THE
+CARRIER TO THE PROVISIONS OF SUBSECTION (K) OF THIS SECTION; AND
+(II) THE CARRIER SHALL SUBMIT TO THE COMMISSIONER
+DOCUMENTATION OF REASONABLE ACTIONS THAT HAVE BEEN OR ARE BEING TAKEN
+TO ADDRESS THE MATERIAL DIFFERENCES TO ENSURE COMPLIANCE, IN
+OPERATION, WITH THE PARITY ACT WITHIN 15 WORKING DAYS OF A REQUEST FROM
+THE COMMISSIONER FOR THE DOCUMENTATION IN ACCORDANCE WITH THIS
+SECTION.
+(d) (1) A carrier subject to this section shall conduct a comparative analysis
+for the nonquantitative treatment limitations selected under subsection (c)(5) of this section
+as nonquantitative treatment limitations are:
+(i) written; and
+(ii) in operation.
+(2) The comparative analysis of the nonquantitative treatment limitations
+selected under subsection (c)(5) of this section shall:
+(i) demonstrate that the processes, strategies, evidentiary
+standards, or other factors used in designing and applying each selected nonquantitative
+treatment limitation to mental health benefits and substance use disorder benefits in each
+Parity Act classification are comparable to, and are applied no more stringently than, the
+– 6 –
+
+WES MOORE, Governor Ch. 11
+processes, strategies, evidentiary standards, or other factors used in designing and
+applying each selected nonquantitative treatment limitation to medical/surgical benefits
+within the same Parity Act classification; [and]
+(II) DEMONSTRATE THAT NONE OF THE INFORMATION,
+EVIDENCE, SOURCES, OR STANDARDS ON WHICH A FACTOR OR EVIDENTIARY
+STANDARD IS BASED ARE BIASED OR NOT OBJECTIVE IN A MANNER THAT
+DISCRIMINATES AGAINST MENTAL HEALTH OR SUBSTANCE USE DISORDER
+BENEFITS AS COMPARED TO MEDICAL/SURGICAL BENEFITS;
+(III) IN ACCORDANCE WITH THE PROVISIONS OF PARAGRAPH (3)
+OF THIS SUBSECTION, DEMONSTRATE THAT THE HEALTH BENEFIT PLAN PROVIDES
+MEANINGFUL BENEFITS FOR EACH COVERED MENTAL HEALTH CONDITION AND
+SUBSTANCE USE DISORDER IN EVERY PARITY ACT CLASSIFICATION IN WHICH
+MEDICAL/SURGICAL BENEFITS ARE PROVIDED; AND
+[(ii)] (IV) include all information required under the Parity Act AND
+ANY STATE REGULATIONS ADOPTED UNDER SUBSECTION (O) OF THIS SECTION.
+(3) (I) THE BENEFITS PROVIDED FOR THE MENTAL HEALTH
+CONDITION OR SUBSTANCE USE DISORDER SHALL BE COMPARED TO THE BENEFITS
+PROVIDED FOR MEDICAL CONDITIONS AND SURGICAL PROCEDURES IN EACH
+PARITY ACT CLASSIFICATION TO DETERMINE WHETHER BENEFITS ARE
+MEANINGFUL.
+(II) EXCEPT AS PROVIDED UNDER SUBPARAGRAPH (III) OF THIS
+PARAGRAPH, BENEFITS ARE NOT MEANINGFUL UNLESS COVERAGE IS PROVIDED
+FOR A CORE TREATMENT FOR THE MENTAL HEALTH CONDITION OR SUBSTANCE USE
+DISORDER IN EACH CLASSIFICATION IN WHICH COVERAGE IS PROVIDED FOR A CORE
+TREATMENT FOR ONE OR MORE MEDICAL CONDITIONS OR SURGICAL PROCEDURES.
+(III) IF THERE IS NO CORE TREATMENT FOR A COVERED MENTAL
+HEALTH CONDITION OR SUBSTANCE USE DISORDER WITH RESPECT TO A PARITY
+ACT CLASSIFICATION, THE HEALTH BENEFIT PLAN:
+1. IS NOT REQUIRED TO PROVIDE BENEFITS FOR A CORE
+TREATMENT FOR THE COVERED MENTAL HEALTH CONDITION OR SUBSTANCE USE
+DISORDER IN THAT PARITY ACT CLASSIFICATION; AND
+2. IS REQUIRED TO PROVIDE BENEFITS FOR THE
+COVERED MENTAL HEALTH CONDITION OR SUBSTANCE USE DISORDER IN EVERY
+PARITY ACT CLASSIFICATION IN WHICH MEDICAL/SURGICAL BENEFITS ARE
+PROVIDED.
+– 7 –
+
+Ch. 11 2026 LAWS OF MARYLAND
+[(3)] (4) Regardless of whether it was used before the Parity Act was
+enacted and as requested by the [Commission] COMMISSIONER, a carrier shall perform
+and provide a comparative analysis for each process, strategy, evidentiary standard, or
+other factor used in designing and applying a selected nonquantitative treatment limitation
+used during a reporting period.
+(e) In providing the analysis required under subsection (d) of this section, a
+carrier shall:
+(1) identify the factors used to determine that a nonquantitative treatment
+limitation will apply to a benefit, including:
+(i) the sources for the factors; AND
+[(ii) the factors that were considered but rejected; and]
+[(iii)] (II) if a factor was given more weight than another, the reason
+for the difference in weighting;
+(2) identify and define the specific evidentiary standards used to define the
+factors and any other evidence relied on in designing each nonquantitative treatment
+limitation;
+(3) include the results of the audits, reviews, and analyses performed on
+the nonquantitative treatment limitations identified under subsection (c)(5) of this section
+to conduct the analysis required under subsection (d)(2) of this section for the plans and
+products as written;
+(4) include the RELEVANT DATA EVALUATED UNDER SUBSECTION
+(C)(1)(III) OF THIS SECTION AND THE results of the audits, reviews, and analyses
+performed on the nonquantitative treatment limitations identified under subsection (c)(5)
+of this section to conduct the analysis required under subsection (d)(2) of this section for
+the plans and products as in operation;
+(5) IF THE RELEVANT DATA EVALUATED UNDER SUBSECTION
+(C)(1)(III) OF THIS SECTION INDICATE THAT THE NONQUANTITATIVE TREATMENT
+LIMITATION CONTRIBUTES TO MATERIAL DIFFERENCES IN ACCESS TO MENTAL
+HEALTH AND SUBSTANCE USE DISORDER BENEFITS AS COMPARED TO
+MEDICAL/SURGICAL BENEFITS IN A PARITY ACT CLASSIFICATION, INCLUDE AN
+EXPLANATION OF THE DIFFERENCES AND A DISCUSSION OF THE ACTIONS THAT
+HAVE BEEN OR ARE BEING TAKEN BY THE CARRIER TO ADDRESS THE DIFFERENCES;
+[(5)] (6) identify the measures used to ensure comparable design and
+application of nonquantitative treatment limitations that are implemented by the carrier
+– 8 –
+
+WES MOORE, Governor Ch. 11
+and any entity delegated by the carrier to manage mental health benefits, substance use
+disorder benefits, or medical/surgical benefits on behalf of the carrier;
+[(6)] (7) disclose the specific findings and conclusions reached by the
+carrier that indicate that the health benefit plan is in compliance with this section and the
+Parity Act; and
+[(7)] (8) identify the process used to comply with the Parity Act disclosure
+requirements for mental health benefits, substance use disorder benefits, and
+medical/surgical benefits, including:
+(i) the criteria for a medical necessity determination;
+(ii) reasons for a denial of benefits; and
+(iii) in connection with a member’s request for individual or group
+plan information and for purposes of filing an internal coverage or grievance matter and
+appeals, plan documents that contain information about processes, strategies, evidentiary
+standards, and any other factors used to apply a nonquantitative treatment limitation.
+(i) (1) The Commissioner shall:
+(i) review each report submitted in accordance with subsections (c),
+(d), and (f) of this section to assess each carrier’s compliance with the Parity Act AND ANY
+STATE REGULATIONS ADOPTED UNDER SUBSECTION (O) OF THIS SECTION for each
+Parity Act classification;
+(ii) notify a carrier in writing of any noncompliance with the Parity
+Act OR ANY STATE REGULATIONS ADOPTED UNDER SUBSECTION (O) OF THIS
+SECTION before issuing an administrative order; and
+(iii) within 90 days after the notice of noncompliance is issued, allow
+the carrier to:
+1. submit a compliance plan to the Administration to comply
+with the Parity Act AND ANY STATE REGULATIONS ADOPTED UNDER SUBSECTION (O)
+OF THIS SECTION; and
+2. reprocess any claims that were improperly denied, in
+whole or in part, because of the noncompliance.
+(k) If, as a result of the review required under subsection (i)(1)(i) of this section,
+the Commissioner finds that the carrier failed to comply with the Parity Act OR ANY STATE
+REGULATIONS ADOPTED UNDER SUBSECTION (O) OF THIS SECTION, and did not
+submit a compliance plan to adequately correct the noncompliance, the Commissioner may:
+– 9 –
+
+Ch. 11 2026 LAWS OF MARYLAND
+(1) issue an administrative order that requires:
+(i) the carrier or an entity delegated by the carrier to cease the
+noncompliant conduct or practice; or
+(ii) the carrier to provide a payment that has been denied improperly
+because of the noncompliance; or
+(2) impose any other penalty or take any action as authorized:
+(i) for an insurer, nonprofit health service plan, or any other person
+subject to this section, under this article; or
+(ii) for a health maintenance organization, under this article or the
+Health – General Article.
+(l) (1) A carrier shall have the burden of persuasion in demonstrating that its
+design and application of a nonquantitative treatment limitation complies with the Parity
+Act AND ANY STATE REGULATIONS ADOPTED UNDER SUBSECTION (O) OF THIS
+SECTION:
+(i) in any review conducted by the Commissioner under this section;
+or
+(ii) in any complaint investigation or market conduct action
+undertaken by the Commissioner that involves the application of the Parity Act.
+(o) The Commissioner shall, in consultation with interested stakeholders, adopt
+regulations to implement this section, including to ensure uniform definitions and
+methodology for the reporting requirements established under this section.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+1, 2026.
+Approved by the Governor, April 14, 2026.
+– 10 –
