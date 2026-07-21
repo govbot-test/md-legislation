@@ -1,0 +1,103 @@
+Title: 
+Official Title: 
+Source: versions - Third - State Retirement and Pension System – Cost–of–Living Adjustments – Clarification
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 1138
+P6 EMERGENCY BILL 6lr2662
+CF SB 724
+By: Delegate Forbes
+Introduced and read first time: February 11, 2026
+Assigned to: Appropriations
+Committee Report: Favorable
+House action: Adopted
+Read second time: February 26, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 State Retirement and Pension System – Cost–of–Living Adjustments –
+3 Clarification
+4 FOR the purpose of clarifying the Consumer Price Index used to determine the
+5 cost–of–living adjustments for retirees of the State Retirement and Pension System
+6 in certain years; and generally relating to calculating the Consumer Price Index
+7 change for cost–of–living adjustments for retirees of the State Retirement and
+8 Pension System.
+9 BY repealing and reenacting, without amendments,
+10 Article – State Personnel and Pensions
+11 Section 20–101(a) and (d), 29–401(d) and (f), and 29–402(c) and (d)
+12 Annotated Code of Maryland
+13 (2024 Replacement Volume and 2025 Supplement)
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
+16 Article – State Personnel and Pensions
+17 20–101.
+18 (a) In this Division II the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1138*
+
+2 HOUSE BILL 1138
+1 (d) “Allowance” means a benefit that is payable in equal monthly installments for
+2 the life of the recipient, except as otherwise provided for an optional form of an allowance
+3 under § 21–403 of this article.
+4 29–401.
+5 (d) “Consumer Price Index” means the annual average Consumer Price Index (all
+6 urban consumers, United States city average, all items, not seasonally adjusted, 1982–1984
+7 = 100) for the calendar year ending December 31 as published by the United States
+8 Department of Labor, Bureau of Labor Statistics.
+9 (f) “Cost–of–living rate” means the rate computed in accordance with § 29–402(c)
+10 of this subtitle that is used to determine a cost–of–living adjustment.
+11 29–402.
+12 (c) (1) Except as provided in paragraph (2) of this subsection, and subject to
+13 subsection (f) of this section, to determine the cost–of–living rate used to adjust an
+14 allowance in a fiscal year, the Board of Trustees shall:
+15 (i) subtract the Consumer Price Index for the calendar year ending
+16 December 31 in the second preceding fiscal year from the Consumer Price Index for the
+17 calendar year ending December 31 in the preceding fiscal year; and
+18 (ii) divide the amount determined under item (i) of this paragraph
+19 by the Consumer Price Index for the calendar year ending December 31 in the second
+20 preceding fiscal year.
+21 (2) The cost–of–living rate used to adjust an allowance in a fiscal year may
+22 not exceed any cost–of–living rate cap that is applicable to the allowance under § 29–404(c),
+23 § 29–405(c), § 29–406(c), or § 29–408(c) of this subtitle.
+24 (d) (1) A cost–of–living adjustment payable in a fiscal year shall be determined
+25 as provided in this subsection.
+26 (2) For a compound cost–of–living adjustment, the cost–of–living
+27 adjustment as of July 1 of a fiscal year shall be determined by multiplying the
+28 cost–of–living rate determined in subsection (c) of this section by the sum of:
+29 (i) the initial allowance; and
+30 (ii) the accumulated cost–of–living adjustment amount.
+31 (3) For a simple cost–of–living adjustment, the cost–of–living adjustment
+32 as of July 1 of a fiscal year shall be determined by multiplying the cost–of–living rate
+33 determined in subsection (c) of this section by the initial allowance.
+
+HOUSE BILL 1138 3
+1 SECTION 2. AND BE IT FURTHER ENACTED, That:
+2 (a) (1) In this section the following words have the meanings indicated.
+3 (2) “CPI Value” means the Consumer Price Index value (all urban
+4 consumers, United States city average, all items, not seasonally adjusted, 1982–1984–100)
+5 for a month, as published by the U.S. Department of Labor, Bureau of Labor Statistics.
+6 (3) “October 2025 Index Value” means the Consumer Price Index value for
+7 the month of October 2025, as determined by this section.
+8 (b) This section applies to the Consumer Price Index for the calendar year ending
+9 December 31, 2025, for purposes of calculating the cost–of–living rate used to adjust an
+10 allowance under § 29–402(c) of the State Personnel and Pensions Article effective July 1,
+11 2026, and July 1, 2027.
+12 (c) The October 2025 Index Value is the sum of the CPI Values for September
+13 2025 and November 2025, divided by 2.
+14 SECTION 3. AND BE IT FURTHER ENACTED, That this Act is an emergency
+15 measure, is necessary for the immediate preservation of the public health or safety, has
+16 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+17 each of the two Houses of the General Assembly, and shall take effect from the date it is
+18 enacted.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.

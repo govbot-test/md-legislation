@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - Third - Railroads - Required Crew for Movement of Freight
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 862
+K3 6lr2615
+CF SB 156
+By: Delegates Stein, Addison, Allen, Behler, Boyce, Ebersole, Foley, Healey,
+Holmes, Lehman, Lewis, J. Long, Ruth, Solomon, and Ziegler
+Introduced and read first time: February 4, 2026
+Assigned to: Environment and Transportation
+Committee Report: Favorable
+House action: Adopted
+Read second time: February 26, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Railroads – Required Crew for Movement of Freight
+3 FOR the purpose of prohibiting a railroad train used in connection with the movement of
+4 freight from being operated in the State unless it has a certain number of crew
+5 members; and generally relating to safety requirements for railroads.
+6 BY repealing and reenacting, without amendments,
+7 Article – Labor and Employment
+8 Section 5.5–101(a), (d), and (e)
+9 Annotated Code of Maryland
+10 (2025 Replacement Volume)
+11 BY adding to
+12 Article – Labor and Employment
+13 Section 5.5–110(e)
+14 Annotated Code of Maryland
+15 (2025 Replacement Volume)
+16 BY repealing and reenacting, without amendments,
+17 Article – Transportation
+18 Section 21–101(a) and (r)
+19 Annotated Code of Maryland
+20 (2020 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0862*
+
+2 HOUSE BILL 862
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Labor and Employment
+4 5.5–101.
+5 (a) In this title the following words have the meanings indicated.
+6 (d) (1) “Railroad” includes each common carrier by rail and all branches,
+7 bridges, cars, extensions, ferries, plants, spurs, stations, subways, switches, terminal
+8 facilities, tracks, tunnels, and all equipment used on or in connection with them.
+9 (2) “Railroad” does not include a rapid rail transit system or light rail
+10 system operating in the State.
+11 (e) “Railroad company” means:
+12 (1) the operator of a railroad operating in the State; and
+13 (2) the State or any political subdivision of the State, while operating a
+14 railroad.
+15 5.5–110.
+16 (E) (1) IN THIS SECTION, “RAILROAD TRAIN” HAS THE MEANING STATED
+17 IN § 21–101 OF THE TRANSPORTATION ARTICLE.
+18 (2) (I) THIS SUBSECTION APPLIES TO A RAILROAD TRAIN USED IN
+19 CONNECTION WITH THE MOVEMENT OF RAILROAD FREIGHT THAT SHARES THE SAME
+20 RAIL CORRIDOR AS A HIGH–SPEED PASSENGER OR COMMUTER TRAIN.
+21 (II) THIS SUBSECTION DOES NOT APPLY TO A RAILROAD TRAIN
+22 USED IN CONNECTION WITH THE MOVEMENT OF RAILROAD FREIGHT INVOLVING:
+23 1. HOSTLER SERVICE; OR
+24 2. UTILITY EMPLOYEES IN YARD SERVICE.
+25 (3) A RAILROAD TRAIN USED IN CONNECTION WITH THE MOVEMENT
+26 OF RAILROAD FREIGHT MAY NOT BE OPERATED IN THE STATE UNLESS THE
+27 RAILROAD TRAIN HAS A CREW OF AT LEAST TWO INDIVIDUALS.
+
+HOUSE BILL 862 3
+1 (4) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, A
+2 PERSON WHO WILLFULLY VIOLATES THIS SUBSECTION IS SUBJECT TO A CIVIL
+3 PENALTY ASSESSED BY THE COMMISSIONER OF:
+4 1. EXCEPT AS PROVIDED IN ITEM 2 OF THIS
+5 SUBPARAGRAPH, A FINE NOT TO EXCEED $10,000; OR
+6 2. IF THE PERSON PREVIOUSLY COMMITTED A WILLFUL
+7 VIOLATION WITHIN THE IMMEDIATELY PRECEDING 3 YEARS, A FINE NOT TO EXCEED
+8 $25,000.
+9 (II) A RAILROAD COMPANY SHALL BE SOLELY RESPONSIBLE
+10 FOR THE ACTIONS OF THE AGENTS OR EMPLOYEES OF THE RAILROAD COMPANY
+11 THAT VIOLATE THIS SUBSECTION.
+12 Article – Transportation
+13 21–101.
+14 (a) In this title and Title 25 of this article the following words have the meanings
+15 indicated.
+16 (r) “Railroad train” means any locomotive or any other car, rolling stock,
+17 equipment, or other device that, alone or coupled to others, is operated on stationary rails.
+18 SECTION 2. AND BE IT FURTHER ENACTED, That:
+19 (a) Section 1 of this Act shall take effect contingent on the enacting of
+20 substantially similar legislation in the State of New York, the Commonwealth of
+21 Pennsylvania, and the Commonwealth of Virginia.
+22 (b) The Maryland Department of Labor shall notify the Department of Legislative
+23 Services within 10 days after the contingency described in subsection (a) of this section is
+24 met.
+25 (c) If the Department of Legislative Services receives notice under subsection (b)
+26 of this section on or before October 1, 2056, Section 1 of this Act shall take effect on the date
+27 notice is received.
+28 (d) If the Department of Legislative Services does not receive notice under
+29 subsection (b) of this section on or before October 1, 2056, Section 1 of this Act, with no
+30 further action required by the General Assembly, shall be null and void.
+31 SECTION 3. AND BE IT FURTHER ENACTED, That, subject to Section 2 of this
+32 Act, this Act shall take effect October 1, 2026.

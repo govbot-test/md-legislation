@@ -1,0 +1,227 @@
+Title: 
+Official Title: 
+Source: versions - Chapter - Gaming - Operation of Electronic Instant Bingo Machines and Report by State Lottery and Gaming Control Agency
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+WES MOORE, Governor Ch. 669
+Chapter 669
+(House Bill 1587)
+AN ACT concerning
+Gaming – Operation of Electronic Instant Bingo Machines – Operation and
+Maximum Number of Machines and Report by State Lottery and Gaming
+Control Agency
+FOR the purpose of altering the definition of “slot machine” to repeal a limitation on
+increase the number of bingo cards certain handheld devices may allow a user to
+play at the same time; increasing the number of electronic instant bingo machines
+that certain entities may operate; providing that an electronic instant bingo machine
+is not required to print a paper ticket for each instant bingo game played except
+under certain circumstances; requiring the State Lottery and Gaming Control
+Agency, on or before a certain date, to report to the Governor and the General
+Assembly regarding certain matters concerning certain electronic instant bingo and
+satellite simulcast facilities; and generally relating to electronic instant bingo
+machines gaming.
+BY repealing and reenacting, with amendments,
+Article – Criminal Law
+Section 12–301, 12–301.1(e), and 12–308
+Annotated Code of Maryland
+(2021 Replacement Volume and 2025 Supplement)
+BY repealing and reenacting, with amendments,
+Chapter 603 of the Acts of the General Assembly of 2012
+Section 3
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
+Article – Criminal Law
+12–301.
+In this subtitle:
+(1) “slot machine” means a machine, apparatus, or device that:
+(i) operates or can be made to operate by inserting, depositing, or
+placing with another person money, a token, or another object; and
+– 1 –
+
+Ch. 669 2026 LAWS OF MARYLAND
+(ii) through the element of chance, the reading of a game of chance,
+the delivery of a game of chance, or any other outcome unpredictable by the user, awards
+the user:
+1. money, a token, or other object that represents or that can
+be converted into money; or
+2. the right to receive money, a token, or another object that
+represents and can be converted into money;
+(2) “slot machine” includes:
+(i) a machine, apparatus, or device described in item (1) of this
+section that also sells, delivers, or awards merchandise, money, or some other tangible
+thing of value;
+(ii) a pinball machine or console machine that pays off in
+merchandise; and
+(iii) a machine, apparatus, or device described in item (1) of this
+section, regardless of whether the machine, apparatus, or device delivers a game through
+the Internet or offers Internet or other services; and
+(3) “slot machine” does not include a machine, apparatus, or device that:
+(i) awards the user only free additional games or plays;
+(ii) awards the user only noncash merchandise or noncash prizes of
+minimal value;
+(iii) dispenses paper pull tab tip jar tickets or paper pull tab instant
+bingo tickets that must be opened manually by the user provided that the machine,
+apparatus, or device does not:
+1. read the tickets electronically;
+2. alert the user to a winning or losing ticket; or
+3. tabulate a player’s winnings and losses;
+(iv) 1. is a handheld device that displays only facsimiles of bingo
+cards that an individual uses to mark and monitor contemporaneously to a live call of bingo
+numbers called on the premises by an individual where the user is operating the machine;
+2. [does not permit a user to play more than 54 100 bingo
+cards at the same time;
+– 2 –
+
+WES MOORE, Governor Ch. 669
+3.] does not randomly generate any numbers; and
+[4.] 3. is not part of an integrated system;
+(v) is used by the State Lottery and Gaming Control Commission
+under Title 9 of the State Government Article;
+(vi) if legislation takes effect authorizing the operation of video
+lottery terminals, is a video lottery terminal as defined in and licensed under that
+legislation;
+(vii) is a skills–based amusement device that awards prizes,
+merchandise, tickets, tokens, or other objects that:
+1. per play, do not exceed minimal value approved by the
+State Lottery and Gaming Control Commission through regulation; and
+2. may be accumulated and exchanged for noncash
+merchandise or prizes of value that:
+A. is similar to the cumulated value of the objects exchanged;
+and
+B. does not exceed a minimal wholesale value of $599; or
+(viii) is a skills–based device that awards noncash merchandise and is
+located at a family entertainment center in Worcester County licensed under § 9–1B–02 of
+the State Government Article.
+12–301.1.
+(e) (1) THIS SUBSECTION DOES NOT APPLY TO AN ELECTRONIC INSTANT
+BINGO MACHINE AUTHORIZED UNDER § 12–308 OF THIS SUBTITLE.
+(2) An electronic gaming device that is not licensed or otherwise operated
+in compliance with the provisions of this section as of January 1, 2013, is an illegal gaming
+device that may not legally operate in the State.
+12–308.
+(A) Notwithstanding any other provisions of this subtitle, an entity licensed to
+offer instant bingo under a commercial bingo license on July 1, 2007, or by a qualified
+organization as defined in § 13–201 of this article on the premises of the qualified
+organization may continue to operate a game of instant bingo in the same manner using
+electronic machines, provided that:
+– 3 –
+
+Ch. 669 2026 LAWS OF MARYLAND
+(1) [(i) the machines were in operation for a 1–year period ending
+December 31, 2007; or
+(ii) the machines were in operation under a commercial bingo license
+on December 31, 2007;
+(2)] the entity does not operate more than TWICE the number of electronic
+machines in operation on February 28, 2008; and
+[(3)] (2) the conduct of the gaming and operation of the machines are
+consistent with all other provisions of this article.
+(B) AN ELECTRONIC MACHINE ALLOWED UNDER SUBSECTION (A) OF THIS
+SECTION IS NOT REQUIRED TO PRINT A PAPER TICKET FOR EACH GAME OF INSTANT
+BINGO PLAYED UNLESS THE PLAYER ELECTS TO PRINT THE TICKET.
+(C) THE STATE LOTTERY AND GAMING CONTROL COMMISSION SHALL
+ADOPT REGULATIONS TO IMPLEMENT THIS SECTION.
+Chapter 603 of the Acts of 2012
+SECTION 3. AND BE IT FURTHER ENACTED, That, a licensee or organization
+that is authorized under State law to own or operate electronic bingo machines for use after
+July 1, 2012, may repair and replace the authorized electronic bingo machines provided
+that the machines operate in the same manner as those in operation by the same
+organization as of February 28, 2008[, and that the organization does not operate more
+than the number of electronic bingo machines in operation as of February 28, 2008].
+SECTION 2. AND BE IT FURTHER ENACTED, That:
+(a) On or before December 1, 2026, the State Lottery and Gaming Control Agency
+shall report to the Governor and, in accordance with § 2–1257 of the State Government
+Article, the General Assembly on:
+(1) subject to subsection (c) of this section, impacts of the potential
+expansion of electronic instant bingo machines at commercial electronic instant bingo
+machine facilities; and
+(2) subject to subsection (d) of this section, impacts of the potential
+expansion of electronic instant bingo machines, historical horse racing machines, or
+underutilized video lottery terminals relative to the limitations under § 9–1A–05(a) of the
+State Government Article at satellite simulcast facilities that are not located at video lottery
+facilities or horse racing facilities.
+– 4 –
+
+WES MOORE, Governor Ch. 669
+(b) (1) The Subject to paragraph (2) of this subsection, the State Lottery and
+Gaming Control Agency shall retain an independent third–party vendor to prepare the
+reports required under subsection (a) of this section.
+(2) When studying the issues to be addressed in the report and developing the
+report described under paragraph (1) of this subsection, the third–party vendor shall include
+in its deliberations the State Lottery and Gaming Control Agency and representatives of the
+following stakeholders:
+(i) the electronic instant bingo industry;
+(ii) satellite simulcast facilities that are not located at video lottery facilities;
+(iii) satellite simulcast facilities that are located at video lottery facilities;
+and
+(iv) labor unions in the gaming industry.
+(c) The report required under subsection (a)(1) of this section shall include the
+following information:
+(1) the current State revenues and economic impact generated by
+commercial electronic instant bingo machine operators;
+(2) the operational challenges faced by commercial electronic instant bingo
+machine operators;
+(3) the impact of expansions of gaming on commercial instant bingo
+machine operators over the years;
+(4) the estimated amount of gaming revenue lost to neighboring
+jurisdictions by individuals who travel from Maryland to those jurisdictions to engage in
+gaming at brick–and–mortar facilities;
+(5) the potential revenue from authorizing additional electronic instant
+bingo machines at locations currently authorized to offer electronic instant bingo under a
+commercial license, including calculations based on varying numbers of additional
+machines and the potential revenue for both the operator and the State;
+(6) the degree to which the estimated revenue described under paragraph
+(5) of this subsection may be attributable to capturing revenue otherwise lost to neighboring
+states that offer similar gaming opportunities;
+(7) methods to maximize State revenues while balancing the interests of
+commercial instant bingo machine operators;
+– 5 –
+
+Ch. 669 2026 LAWS OF MARYLAND
+(8) the estimated impact of an expansion of electronic instant bingo
+machines at locations currently authorized to offer electronic instant bingo under a
+commercial license on the revenue generated by the State’s video lottery facilities; and
+(9) any other relevant policy considerations and impacts associated with
+an expansion of electronic instant bingo machines.
+(d) The report required under subsection (a)(2) of this section shall include the
+following information:
+(1) the current State revenues and economic impact generated by satellite
+simulcast facilities that are not located at video lottery facilities or horse racing facilities;
+(2) the role, function, and contributions of satellite simulcast facilities that
+are not located at video lottery facilities or horse racing facilities in Maryland’s horse racing
+industry and gaming environment;
+(3) the operational challenges faced by satellite simulcast facilities that are
+not located at video lottery facilities or horse racing facilities;
+(4) the impact of sports wagering and other expansions of gaming on
+satellite simulcast facilities that are not located at video lottery facilities or horse racing
+facilities over the years;
+(5) the estimated amount of gaming revenue lost to neighboring
+jurisdictions by individuals who travel from Maryland to those jurisdictions to engage in
+gaming at brick–and–mortar facilities;
+(6) the operational differences between and potential revenue from
+authorizing electronic instant bingo machines, historical horse racing machines, or video
+lottery terminals at satellite simulcast facilities that are not located at video lottery
+facilities or horse racing facilities, including the potential revenue for both the operator and
+the State based on the type and number of machines authorized;
+(7) the degree to which the estimated revenue described under paragraph
+(6) of this subsection may be attributable to capturing revenue otherwise lost to neighboring
+states that offer similar gaming opportunities;
+(8) methods to maximize State revenues while balancing the interests of
+satellite simulcast facilities that are not located at video lottery facilities or horse racing
+facilities;
+(9) the estimated impact of an expansion of electronic instant bingo
+machines, historical horse racing machines, or underutilized video lottery terminals at
+satellite simulcast facilities that are not located at video lottery facilities or horse racing
+facilities on the revenue generated by the State’s video lottery facilities; and
+– 6 –
+
+WES MOORE, Governor Ch. 669
+(10) any other relevant policy considerations and impacts associated with
+an expansion of electronic instant bingo machines, historical horse racing machines, or
+underutilized video lottery terminals.
+SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+July 1, 2026.
+Approved by the Governor, May 26, 2026.
+– 7 –

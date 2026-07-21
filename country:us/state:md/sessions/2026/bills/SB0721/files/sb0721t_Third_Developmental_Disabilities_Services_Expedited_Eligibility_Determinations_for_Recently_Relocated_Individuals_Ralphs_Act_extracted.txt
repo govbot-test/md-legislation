@@ -1,0 +1,137 @@
+Title: 
+Official Title: 
+Source: versions - Third - Developmental Disabilities Services - Expedited Eligibility Determinations for Recently Relocated Individuals (Ralph's Act)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE BILL 721
+J1 6lr3060
+CF HB 1015
+By: Senator Waldstreicher
+Introduced and read first time: February 6, 2026
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 19, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Developmental Disabilities Administration – Services – Expedited Eligibility
+3 Determinations for Recently Relocated Individuals
+4 (Ralph’s Act)
+5 FOR the purpose of requiring that the Maryland Department of Health to provide an
+6 expedited Medicaid eligibility determination for developmental disabilities services
+7 to certain individuals who were determined to be eligible to receive certain
+8 developmental disabilities services in another state be eligible to continue to receive
+9 those services received certain services in another state and relocated in the State;
+10 requiring the Department to establish an expedited review process for certain
+11 individuals relocating to the State; authorizing requiring the Department to begin
+12 the determination process before an individual establishes residency in the State
+13 under certain circumstances; and generally relating to eligibility determinations for
+14 developmental disabilities services in the State.
+15 BY repealing and reenacting, without amendments,
+16 Article – Health – General
+17 Section 7–101(a) and (g)
+18 Annotated Code of Maryland
+19 (2023 Replacement Volume and 2025 Supplement)
+20 BY adding to
+21 Article – Health – General
+22 Section 7–404.2
+23 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0721*
+
+2 SENATE BILL 721
+1 (2023 Replacement Volume and 2025 Supplement)
+2 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+3 That the Laws of Maryland read as follows:
+4 Article – Health – General
+5 7–101.
+6 (a) In this title the following words have the meanings indicated.
+7 (g) “Developmental disability” means a severe chronic disability of an individual
+8 that:
+9 (1) Is attributable to a physical or mental impairment, other than the sole
+10 diagnosis of mental illness, or to a combination of mental and physical impairments;
+11 (2) Is manifested before the individual attains the age of 22;
+12 (3) Is likely to continue indefinitely;
+13 (4) Results in an inability to live independently without external support
+14 or continuing and regular assistance; and
+15 (5) Reflects the need for a combination and sequence of special,
+16 interdisciplinary, or generic care, treatment, or other services that are individually planned
+17 and coordinated for the individual.
+18 7–404.2.
+19 (A) AN INDIVIDUAL SHALL BE ELIGIBLE TO RECEIVE SERVICES FROM THE
+20 DEPARTMENT UNDER THIS TITLE IF:
+21 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+22 INDICATED.
+23 (2) “DEPENDENT” MEANS AN INDIVIDUAL WITH DISABILITIES WHO:
+24 (I) RELIES ON SUPPORT FROM AN IMMEDIATE FAMILY
+25 MEMBER WHO IS A RESIDENT OF THE STATE; OR
+26 (II) HAS AN IMMEDIATE FAMILY MEMBER WHO IS A RESIDENT
+27 OF THE STATE AND ACTS AS THE INDIVIDUAL’S LEGAL GUARDIAN.
+
+SENATE BILL 721 3
+1 (3) “IMMEDIATE FAMILY MEMBER” MEANS A SPOUSE, A PARENT, AN
+2 ADOPTIVE PARENT, A STEP–PARENT, A GRANDPARENT, A STEP–GRANDPARENT, A
+3 SIBLING, A STEP–SIBLING, A CHILD, OR A STEP–CHILD.
+4 (B) THE DEPARTMENT SHALL PROVIDE AN EXPEDITED MEDICAID
+5 ELIGIBILITY DETERMINATION FOR DEVELOPMENTAL DISABILITIES SERVICES FOR
+6 PURPOSES OF ENROLLMENT IN THE COMMUNITY PATHWAYS WAIVER TO AN
+7 INDIVIDUAL IF:
+8 (1) THE INDIVIDUAL:
+9 (I) IS A DEPENDENT OF AN IMMEDIATE FAMILY MEMBER;
+10 (II) RECEIVED HOME– AND COMMUNITY–BASED WAIVER
+11 SERVICES OR SIMILAR SERVICES UNDER A SIMILAR ASSISTANCE PROGRAM IN
+12 ANOTHER STATE FOR THE IMMEDIATELY PRECEDING 10 YEARS; AND
+13 (III) MOVED TO THE STATE TO LIVE WITH THE IMMEDIATE
+14 FAMILY MEMBER ON THE DEATH OR INCAPACITATION OF THE INDIVIDUAL’S
+15 CARETAKER IN THE OTHER STATE; AND
+16 (2) THE IMMEDIATE FAMILY MEMBER ON WHOM THE INDIVIDUAL IS
+17 DEPENDENT HAS RESIDED IN THE STATE FOR THE IMMEDIATELY PRECEDING 2
+18 YEARS.
+19 (B) (1) THE DEPARTMENT SHALL ESTABLISH AN EXPEDITED PROCESS TO
+20 DETERMINE WHETHER AN INDIVIDUAL MEETS THE CRITERIA UNDER SUBSECTION
+21 (A) OF THIS SECTION AND IS ELIGIBLE TO RECEIVE SERVICES UNDER THIS TITLE.
+22 (2) THE PROCESS ESTABLISHED UNDER THIS SUBSECTION SHALL
+23 REQUIRE THAT A DETERMINATION BE COMPLETED WITHIN 30 DAYS.
+24 (C) (1) IN PROVIDING EXPEDITED ELIGIBILITY DETERMINATIONS UNDER
+25 SUBSECTION (B) OF THIS SECTION, THE DEPARTMENT SHALL:
+26 (I) PRIORITIZE COMPLETED APPLICATIONS FOR REVIEW ON
+27 RECEIPT;
+28 (II) TO THE EXTENT AUTHORIZED BY LAW, RELY ON
+29 DOCUMENTATION, DIAGNOSTIC EVALUATIONS, ELIGIBILITY DETERMINATIONS
+30 FROM THE INDIVIDUAL’S PREVIOUS STATE OF RESIDENCE, AND ANY OTHER
+31 DOCUMENTATION THAT THE DEPARTMENT RELIES ON WHEN MAKING OTHER
+32 DETERMINATIONS UNDER THIS TITLE; AND
+
+4 SENATE BILL 721
+1 (III) COMPLETE EACH EXPEDITED ELIGIBILITY DETERMINATION
+2 WITHIN 60 BUSINESS DAYS AFTER THE RECEIPT OF A COMPLETE APPLICATION.
+3 (2) IN PROVIDING AN EXPEDITED ELIGIBILITY DETERMINATION
+4 UNDER SUBSECTION (B) OF THIS SECTION, THE DEPARTMENT MAY NOT WAIVE
+5 SUBSTANTIVE ELIGIBILITY REQUIREMENTS ESTABLISHED UNDER THIS TITLE OR
+6 REQUIREMENTS ESTABLISHED BY REGULATION FOR THE ASSIGNMENT OF A
+7 SERVICE PRIORITY CATEGORY.
+8 (C) (D) IF AN INDIVIDUAL HAS BEEN DETERMINED UNDER THIS SECTION
+9 TO BE ELIGIBLE TO RECEIVE SERVICES, THE INDIVIDUAL SHALL BE:
+10 (1) PLACED IN THE CRISIS RESOLUTION CATEGORY; AND
+11 (2) GIVEN ACCESS TO WAIVER SERVICES THROUGH THE MOST
+12 APPROPRIATE RESERVE CATEGORY AS DETERMINED BASED ON THE SERVICES THE
+13 INDIVIDUAL RECEIVED IN THE INDIVIDUAL’S PREVIOUS STATE OF RESIDENCE.
+14 (E) IF THE DEPARTMENT DETERMINES THAT AN INDIVIDUAL WHO HAS NOT
+15 YET ESTABLISHED RESIDENCY IN THE STATE MEETS THE CRITERIA ESTABLISHED
+16 UNDER SUBSECTION (B)(1)(I) AND (II) AND (2) OF THIS SECTION, THE DEPARTMENT
+17 SHALL DETERMINE WHETHER THE INDIVIDUAL HAS A DEVELOPMENTAL DISABILITY
+18 AS DEFINED UNDER § 7–101(G) OF THIS TITLE.
+19 (D) THE DEPARTMENT MAY DETERMINE, BEFORE AN INDIVIDUAL
+20 ESTABLISHES RESIDENCY IN THE STATE:
+21 (1) WHETHER AN INDIVIDUAL IS ELIGIBLE TO RECEIVE SERVICES;
+22 (2) THE APPROPRIATE SERVICE PRIORITY CATEGORY; AND
+23 (3) WHETHER THE INDIVIDUAL IS ELIGIBLE FOR CRISIS RESOLUTION
+24 SERVICES.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+26 October 1, 2026 July 1, 2027.
